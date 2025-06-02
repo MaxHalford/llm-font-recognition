@@ -31,7 +31,7 @@ jobs:
           git push
 
       - name: Classify tasks
-        run: uv run classify_tasks.py
+        run: uv run ask_llms.py
 
       - name: Commit and push changes
         run: |
