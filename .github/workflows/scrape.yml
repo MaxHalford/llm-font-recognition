@@ -24,3 +24,11 @@ jobs:
 
       - name: Scrape
         run: uv python scrape.py
+
+      - name: Commit and push changes
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add tasks.json last_scraped_at.txt
+          git commit -m "Update tasks and last_scraped_at [auto]" || echo "No changes to commit"
+          git push
