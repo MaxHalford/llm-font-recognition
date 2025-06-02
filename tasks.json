@@ -705,5 +705,40 @@
         "title": "Car Decal",
         "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1216400.png?1",
         "identified_font": "Blackmoor"
+    },
+    {
+        "task_id": "575781",
+        "url": "https://www.dafont.com/forum/read/575781/identificacao-de-fonte-popular",
+        "title": "IDENTIFICA\u00c7\u00c3O DE FONTE \"POPULAR\"",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1216577.jpg",
+        "identified_font": "Hipsterious"
+    },
+    {
+        "task_id": "575780",
+        "url": "https://www.dafont.com/forum/read/575780/help-me",
+        "title": "help me",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1216576.jpg",
+        "identified_font": null
+    },
+    {
+        "task_id": "575779",
+        "url": "https://www.dafont.com/forum/read/575779/gian-e-giovanni",
+        "title": "GIAN E GIOVANNI",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1216575.png",
+        "identified_font": null
+    },
+    {
+        "task_id": "575778",
+        "url": "https://www.dafont.com/forum/read/575778/shirt-font",
+        "title": "Shirt Font",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1216574.jpg",
+        "identified_font": null
+    },
+    {
+        "task_id": "575777",
+        "url": "https://www.dafont.com/forum/read/575777/font",
+        "title": "Font?",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1216573.png",
+        "identified_font": null
     }
 ]
