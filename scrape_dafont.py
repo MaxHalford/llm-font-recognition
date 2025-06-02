@@ -92,6 +92,14 @@ def loop_task_thumbs(
         page_no += 1
 
 
+def save_tasks(tasks: dict[int, Task], filename: str = "tasks.json") -> None:
+    with open(filename, "w") as f:
+        json.dump(
+            [dataclasses.asdict(task) for task_id, task in tasks.items()], f, indent=4
+        )
+        logging.info(f"Saved tasks to {filename}")
+
+
 def main():
     session = requests.Session()
     # Define a realistic browser headers dictionary
@@ -104,15 +112,6 @@ def main():
             )
         }
     )
-
-    def save_tasks(tasks: dict[int, Task], filename: str = "tasks.json") -> None:
-        with open(filename, "w") as f:
-            json.dump(
-                [dataclasses.asdict(task) for task_id, task in tasks.items()],
-                f,
-                indent=4,
-            )
-            logging.info(f"Saved tasks to {filename}")
 
     with open("tasks.json") as f:
         tasks = {task["task_id"]: Task(**task) for task in json.load(f)}

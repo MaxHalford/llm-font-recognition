@@ -1,0 +1,141 @@
+# /// script
+# requires-python = ">=3.13"
+# dependencies = [
+#     "llm",
+#     "llm-gemini",
+#     "llm-mistral",
+#     "pydantic"
+# ]
+# ///
+
+import dataclasses
+import json
+import logging
+import time
+
+import llm
+import pydantic
+
+
+@dataclasses.dataclass
+class Task:
+    task_id: str
+    url: str
+    title: str
+    img_url: str
+    identified_font: str | None
+
+
+@dataclasses.dataclass
+class Guess:
+    task_id: str
+    model_name: str
+    candidate_font_1: str | None
+    candidate_font_2: str | None
+    candidate_font_3: str | None
+
+    def as_list(self) -> list[str]:
+        return [
+            font
+            for font in [
+                self.candidate_font_1,
+                self.candidate_font_2,
+                self.candidate_font_3,
+            ]
+            if font
+        ]
+
+
+class FontClassificationSchema(pydantic.BaseModel):
+    candidate_font_1: str | None
+    candidate_font_2: str | None
+    candidate_font_3: str | None
+
+
+def make_guess(task: Task, model_name: str) -> Guess:
+    model = llm.get_model(model_name)
+
+    response = model.prompt(
+        """
+
+        You are an expert in identifying fonts. You will be given an image, and you need to identify
+        the font used in the image. These are images of fonts that users have uploaded to a forum, and
+        they are looking for help in identifying the font used in the image. You are allowed to suggest
+        up to three different fonts that closely match the one in the image. You can leave the
+        suggestions blank if you are unsure.
+
+        """,
+        schema=FontClassificationSchema,
+        attachments=[
+            llm.Attachment(
+                url=task.img_url,
+            ),
+        ],
+    )
+
+    output = json.loads(response.text())
+
+    return Guess(
+        task_id=task.task_id,
+        model_name=model_name,
+        candidate_font_1=output.get("candidate_font_1"),
+        candidate_font_2=output.get("candidate_font_2"),
+        candidate_font_3=output.get("candidate_font_3"),
+    )
+
+
+def save_guesses(
+    guesses: dict[tuple[str, str], Guess], filename: str = "guesses.json"
+) -> None:
+    with open(filename, "w") as f:
+        json.dump(
+            [dataclasses.asdict(guess) for guess in guesses.values()], f, indent=4
+        )
+        logging.info(f"Saved tasks to {filename}")
+
+
+def main():
+    models = [
+        "gpt-4o-mini",
+        "gemini-2.5-flash-preview-05-20",
+        # "mistral-large",  # doesn't support attachments
+    ]
+
+    with open("guesses.json", "r") as f:
+        guesses = {
+            (guess["task_id"], guess["model_name"]): Guess(**guess)
+            for guess in json.load(f)
+        }
+
+    with open("tasks.json") as f:
+        tasks = [Task(**task) for task in json.load(f)]
+        incomplete_tasks = [task for task in tasks if task.identified_font is None]
+
+    logging.basicConfig(
+        level=logging.INFO, format="%(asctime)s - %(levelname)s - %(message)s"
+    )
+
+    for task in incomplete_tasks:
+        for model_name in models:
+            if (task.task_id, model_name) in guesses:
+                continue
+
+            try:
+                guess = make_guess(task, model_name)
+                guesses[(task.task_id, model_name)] = guess
+                logging.info(
+                    f"Made guess for {task.task_id} with {model_name}: {', '.join(guess.as_list())}"
+                )
+            except Exception as e:
+                logging.error(f"Error processing {task.task_id} with {model_name}: {e}")
+
+        # LLMs are expensive, so let's save often to avoid losing progress
+        save_guesses(guesses)
+
+        # To avoid hitting rate limits, we sleep for a bit after each request
+        logging.info("Sleeping to avoid rate limits...")
+        time.sleep(3)
+
+
+if __name__ == "__main__":
+    main()
