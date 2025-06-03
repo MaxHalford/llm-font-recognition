@@ -1587,5 +1587,47 @@
         "candidate_font_1": "Sketchy",
         "candidate_font_2": "Handdrawn Sketch",
         "candidate_font_3": "Sketch Nice"
+    },
+    {
+        "task_id": "575841",
+        "model_name": "gpt-4o-mini",
+        "candidate_font_1": "Montserrat",
+        "candidate_font_2": "Roboto",
+        "candidate_font_3": "Futura"
+    },
+    {
+        "task_id": "575841",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Rubik",
+        "candidate_font_2": "Poppins",
+        "candidate_font_3": "Monument Extended"
+    },
+    {
+        "task_id": "575839",
+        "model_name": "gpt-4o-mini",
+        "candidate_font_1": "Arial Black",
+        "candidate_font_2": "Impact",
+        "candidate_font_3": "Helvetica Bold"
+    },
+    {
+        "task_id": "575839",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "DIN Alternate Black",
+        "candidate_font_2": "Roadgeek 2005 Series 5W",
+        "candidate_font_3": "Montserrat Black"
+    },
+    {
+        "task_id": "575838",
+        "model_name": "gpt-4o-mini",
+        "candidate_font_1": "Dancing Script",
+        "candidate_font_2": "Patrick Hand",
+        "candidate_font_3": "Quicksand"
+    },
+    {
+        "task_id": "575838",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Lemon Tuesday",
+        "candidate_font_2": "Bright Sunshine",
+        "candidate_font_3": "Moonlight"
     }
 ]
