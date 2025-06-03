@@ -885,8 +885,8 @@
         "task_id": "575826",
         "url": "https://www.dafont.com/forum/read/575826/what-s-the-font-of-this-phrase",
         "title": "What's the font of this phrase",
-        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1216651.png",
-        "identified_font": null
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1216651.png?1",
+        "identified_font": "Bakerie"
     },
     {
         "task_id": "575824",
@@ -1159,6 +1159,69 @@
         "url": "https://www.dafont.com/forum/read/575855/what-font-is-this",
         "title": "What font is this?",
         "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1216697.png",
+        "identified_font": null
+    },
+    {
+        "task_id": "575460",
+        "url": "https://www.dafont.com/forum/read/575460/someone-know-this-font-please-niet-normaal",
+        "title": "Someone know this font, please ? NIET NORMAAL",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1215918.jpg",
+        "identified_font": null
+    },
+    {
+        "task_id": "575874",
+        "url": "https://www.dafont.com/forum/read/575874/font",
+        "title": "Font?",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1216724.jpg",
+        "identified_font": null
+    },
+    {
+        "task_id": "575873",
+        "url": "https://www.dafont.com/forum/read/575873/font-identity",
+        "title": "FONT IDENTITY",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1216723.png",
+        "identified_font": null
+    },
+    {
+        "task_id": "575872",
+        "url": "https://www.dafont.com/forum/read/575872/sabrina-carpenter-logo",
+        "title": "Sabrina Carpenter logo",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1216722.png",
+        "identified_font": null
+    },
+    {
+        "task_id": "575870",
+        "url": "https://www.dafont.com/forum/read/575870/font",
+        "title": "font ??",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1216720.jpg",
+        "identified_font": null
+    },
+    {
+        "task_id": "575866",
+        "url": "https://www.dafont.com/forum/read/575866/pizza-palos",
+        "title": "Pizza Palos",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1216714.png",
+        "identified_font": "Ru'ach"
+    },
+    {
+        "task_id": "575869",
+        "url": "https://www.dafont.com/forum/read/575869/font-id",
+        "title": "font ID",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1216718.png",
+        "identified_font": null
+    },
+    {
+        "task_id": "575864",
+        "url": "https://www.dafont.com/forum/read/575864/surrender-font-name-please",
+        "title": "Surrender font name please",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1216711.png",
+        "identified_font": null
+    },
+    {
+        "task_id": "575863",
+        "url": "https://www.dafont.com/forum/read/575863/the-name-of-this-1990s-font",
+        "title": "The name of this 1990s font",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1216709.jpg",
         "identified_font": null
     }
 ]
