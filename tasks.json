@@ -851,7 +851,7 @@
         "url": "https://www.dafont.com/forum/read/575831/what-s-this-font",
         "title": "what\u0092s this font ??",
         "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1216659.jpg",
-        "identified_font": null
+        "identified_font": "Coneria Script"
     },
     {
         "task_id": "575827",
@@ -1103,6 +1103,62 @@
         "url": "https://www.dafont.com/forum/read/575842/font-name-please",
         "title": "Font name please!",
         "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1216676.jpg",
+        "identified_font": null
+    },
+    {
+        "task_id": "575862",
+        "url": "https://www.dafont.com/forum/read/575862/what-font-is-this",
+        "title": "What font is this?",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1216705.png",
+        "identified_font": null
+    },
+    {
+        "task_id": "575861",
+        "url": "https://www.dafont.com/forum/read/575861/what-font-is-this",
+        "title": "What font is this?",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1216704.jpg",
+        "identified_font": null
+    },
+    {
+        "task_id": "575860",
+        "url": "https://www.dafont.com/forum/read/575860/help-identifying-font-please",
+        "title": "Help identifying font please",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1216703.jpg",
+        "identified_font": null
+    },
+    {
+        "task_id": "575859",
+        "url": "https://www.dafont.com/forum/read/575859/i-am-looking-for-the-font-in-the-star",
+        "title": "I am looking for the font in the star",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1216701.jpg",
+        "identified_font": null
+    },
+    {
+        "task_id": "575858",
+        "url": "https://www.dafont.com/forum/read/575858/font-identification",
+        "title": "font identification",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1216700.jpg",
+        "identified_font": null
+    },
+    {
+        "task_id": "575857",
+        "url": "https://www.dafont.com/forum/read/575857/what-fonts-are-these",
+        "title": "what fonts are these",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1216699.png",
+        "identified_font": null
+    },
+    {
+        "task_id": "575856",
+        "url": "https://www.dafont.com/forum/read/575856/anyone-know-this-font",
+        "title": "Anyone know this font?",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1216698.png",
+        "identified_font": null
+    },
+    {
+        "task_id": "575855",
+        "url": "https://www.dafont.com/forum/read/575855/what-font-is-this",
+        "title": "What font is this?",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1216697.png",
         "identified_font": null
     }
 ]
