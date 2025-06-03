@@ -1755,5 +1755,117 @@
         "candidate_font_1": "Bickham Script Pro",
         "candidate_font_2": "Aphrodite Pro",
         "candidate_font_3": "Shelley Allegro"
+    },
+    {
+        "task_id": "575862",
+        "model_name": "gpt-4o-mini",
+        "candidate_font_1": "Bebas Neue",
+        "candidate_font_2": "Oswald",
+        "candidate_font_3": "Anton"
+    },
+    {
+        "task_id": "575862",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Compacta Black",
+        "candidate_font_2": "Staatliches",
+        "candidate_font_3": "Impact"
+    },
+    {
+        "task_id": "575861",
+        "model_name": "gpt-4o-mini",
+        "candidate_font_1": "Bodoni",
+        "candidate_font_2": "Didot",
+        "candidate_font_3": "Playfair Display"
+    },
+    {
+        "task_id": "575861",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Laura Typeface",
+        "candidate_font_2": "Loverine Display",
+        "candidate_font_3": "Giveny"
+    },
+    {
+        "task_id": "575860",
+        "model_name": "gpt-4o-mini",
+        "candidate_font_1": "Bebas Neue",
+        "candidate_font_2": "Oswald",
+        "candidate_font_3": "Raleway"
+    },
+    {
+        "task_id": "575860",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Gelio",
+        "candidate_font_2": "Visby Round CF",
+        "candidate_font_3": "Uni Sans"
+    },
+    {
+        "task_id": "575859",
+        "model_name": "gpt-4o-mini",
+        "candidate_font_1": "Adidas Sans",
+        "candidate_font_2": "Futura",
+        "candidate_font_3": "Helvetica"
+    },
+    {
+        "task_id": "575859",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "DIN Next LT Pro Bold Condensed",
+        "candidate_font_2": "Gilroy Bold",
+        "candidate_font_3": "Black Ops One"
+    },
+    {
+        "task_id": "575858",
+        "model_name": "gpt-4o-mini",
+        "candidate_font_1": "Creepster",
+        "candidate_font_2": "Killigrew",
+        "candidate_font_3": "Crimson Text"
+    },
+    {
+        "task_id": "575858",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Another Danger",
+        "candidate_font_2": "Metal Lord",
+        "candidate_font_3": "Nightmare Potion"
+    },
+    {
+        "task_id": "575857",
+        "model_name": "gpt-4o-mini",
+        "candidate_font_1": "Montserrat",
+        "candidate_font_2": "Raleway",
+        "candidate_font_3": "Open Sans"
+    },
+    {
+        "task_id": "575857",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Lato",
+        "candidate_font_2": "Open Sans",
+        "candidate_font_3": "Source Sans Pro"
+    },
+    {
+        "task_id": "575856",
+        "model_name": "gpt-4o-mini",
+        "candidate_font_1": "Lobster",
+        "candidate_font_2": "Pacifico",
+        "candidate_font_3": "Great Vibes"
+    },
+    {
+        "task_id": "575856",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Windsor Demi",
+        "candidate_font_2": "Brush Script MT",
+        "candidate_font_3": "Palatino Linotype"
+    },
+    {
+        "task_id": "575855",
+        "model_name": "gpt-4o-mini",
+        "candidate_font_1": "Montserrat",
+        "candidate_font_2": "Poppins",
+        "candidate_font_3": "Lato"
+    },
+    {
+        "task_id": "575855",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Nunito Sans",
+        "candidate_font_2": "Lato",
+        "candidate_font_3": "Open Sans"
     }
 ]
