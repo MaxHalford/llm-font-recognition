@@ -865,7 +865,7 @@
         "url": "https://www.dafont.com/forum/read/575830/anyone-know-this-font",
         "title": "Anyone know this font?",
         "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1216656.jpg",
-        "identified_font": null
+        "identified_font": "Friedolin"
     },
     {
         "task_id": "575828",
@@ -893,7 +893,7 @@
         "url": "https://www.dafont.com/forum/read/575824/postal-vr-font",
         "title": "POSTAL VR font??",
         "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1216648.jpg",
-        "identified_font": null
+        "identified_font": "Impact"
     },
     {
         "task_id": "575822",
@@ -1012,6 +1012,27 @@
         "url": "https://www.dafont.com/forum/read/575804/font-id",
         "title": "font ID",
         "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1216618.png?1",
+        "identified_font": null
+    },
+    {
+        "task_id": "575841",
+        "url": "https://www.dafont.com/forum/read/575841/mobile-detailing",
+        "title": "Mobile Detailing",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1216673.jpg",
+        "identified_font": null
+    },
+    {
+        "task_id": "575839",
+        "url": "https://www.dafont.com/forum/read/575839/what-the-font-please",
+        "title": "What the font please ?",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1216671.png",
+        "identified_font": null
+    },
+    {
+        "task_id": "575838",
+        "url": "https://www.dafont.com/forum/read/575838/12-06",
+        "title": "12 06",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1216667.jpg",
         "identified_font": null
     }
 ]
