@@ -1629,5 +1629,131 @@
         "candidate_font_1": "Lemon Tuesday",
         "candidate_font_2": "Bright Sunshine",
         "candidate_font_3": "Moonlight"
+    },
+    {
+        "task_id": "575854",
+        "model_name": "gpt-4o-mini",
+        "candidate_font_1": "Rockstar",
+        "candidate_font_2": "Evil Dead",
+        "candidate_font_3": "Blacker Black"
+    },
+    {
+        "task_id": "575854",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Cloister Black",
+        "candidate_font_2": "Old English Text MT",
+        "candidate_font_3": "Deutsch Gothic"
+    },
+    {
+        "task_id": "575853",
+        "model_name": "gpt-4o-mini",
+        "candidate_font_1": "Brush Script",
+        "candidate_font_2": "Comic Sans MS",
+        "candidate_font_3": "Creepster"
+    },
+    {
+        "task_id": "575853",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Chomsky",
+        "candidate_font_2": "Smack Attack",
+        "candidate_font_3": "Anarchy"
+    },
+    {
+        "task_id": "575852",
+        "model_name": "gpt-4o-mini",
+        "candidate_font_1": "Trajan Pro",
+        "candidate_font_2": "Garamond",
+        "candidate_font_3": "Bodoni"
+    },
+    {
+        "task_id": "575852",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Exocet",
+        "candidate_font_2": "Augusta",
+        "candidate_font_3": "Dragonwick"
+    },
+    {
+        "task_id": "575851",
+        "model_name": "gpt-4o-mini",
+        "candidate_font_1": "Avenir Next",
+        "candidate_font_2": "Montserrat",
+        "candidate_font_3": "Poppins"
+    },
+    {
+        "task_id": "575851",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Panton",
+        "candidate_font_2": "Core Sans G",
+        "candidate_font_3": "Gotham"
+    },
+    {
+        "task_id": "575850",
+        "model_name": "gpt-4o-mini",
+        "candidate_font_1": "Didot",
+        "candidate_font_2": "Bodoni",
+        "candidate_font_3": "Playfair Display"
+    },
+    {
+        "task_id": "575850",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Wrangell",
+        "candidate_font_2": "Glamour Absolute",
+        "candidate_font_3": "Didot"
+    },
+    {
+        "task_id": "575849",
+        "model_name": "gpt-4o-mini",
+        "candidate_font_1": "Bubblegum Sans",
+        "candidate_font_2": "Comic Sans MS",
+        "candidate_font_3": "Bangers"
+    },
+    {
+        "task_id": "575849",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Street Bombers",
+        "candidate_font_2": "Graffiti Classic",
+        "candidate_font_3": "Throw Up"
+    },
+    {
+        "task_id": "575846",
+        "model_name": "gpt-4o-mini",
+        "candidate_font_1": "Bifur",
+        "candidate_font_2": "Blippo",
+        "candidate_font_3": "Cooper Black"
+    },
+    {
+        "task_id": "575846",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Pump Demi",
+        "candidate_font_2": "Motter Tektura",
+        "candidate_font_3": "ITC Ronda"
+    },
+    {
+        "task_id": "575845",
+        "model_name": "gpt-4o-mini",
+        "candidate_font_1": "Bebas Neue",
+        "candidate_font_2": "Anton",
+        "candidate_font_3": "ChunkFive"
+    },
+    {
+        "task_id": "575845",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Cream Peach",
+        "candidate_font_2": "Compacta Black",
+        "candidate_font_3": "Montserrat Light"
+    },
+    {
+        "task_id": "575842",
+        "model_name": "gpt-4o-mini",
+        "candidate_font_1": "Great Vibes",
+        "candidate_font_2": "Dancing Script",
+        "candidate_font_3": "Allura"
+    },
+    {
+        "task_id": "575842",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Bickham Script Pro",
+        "candidate_font_2": "Aphrodite Pro",
+        "candidate_font_3": "Shelley Allegro"
     }
 ]
