@@ -823,7 +823,7 @@
         "url": "https://www.dafont.com/forum/read/575835/name-font-please",
         "title": "Name font please???",
         "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1216664.jpg",
-        "identified_font": null
+        "identified_font": "Louisa CP"
     },
     {
         "task_id": "575833",
@@ -1530,6 +1530,55 @@
         "url": "https://www.dafont.com/forum/read/575918/thunder-font",
         "title": "thunder font",
         "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1216804.jpg",
+        "identified_font": null
+    },
+    {
+        "task_id": "575929",
+        "url": "https://www.dafont.com/forum/read/575929/font-from-the-movie-dumbo",
+        "title": "Font from the movie Dumbo?",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1216828.png",
+        "identified_font": null
+    },
+    {
+        "task_id": "575927",
+        "url": "https://www.dafont.com/forum/read/575927/britney-font",
+        "title": "\"Britney\" font?",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1216819.png",
+        "identified_font": "Kinescope"
+    },
+    {
+        "task_id": "575928",
+        "url": "https://www.dafont.com/forum/read/575928/what-font-is-this",
+        "title": "what font is this?",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1216820.jpg",
+        "identified_font": null
+    },
+    {
+        "task_id": "575926",
+        "url": "https://www.dafont.com/forum/read/575926/wtf",
+        "title": "WTF?",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1216818.png",
+        "identified_font": null
+    },
+    {
+        "task_id": "575925",
+        "url": "https://www.dafont.com/forum/read/575925/font-find",
+        "title": "FONT FIND",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1216817.jpg",
+        "identified_font": null
+    },
+    {
+        "task_id": "575923",
+        "url": "https://www.dafont.com/forum/read/575923/what-font-brand-is-prx",
+        "title": "What font? brand is prx",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1216814.png",
+        "identified_font": null
+    },
+    {
+        "task_id": "575924",
+        "url": "https://www.dafont.com/forum/read/575924/what-font",
+        "title": "what font?",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1216815.png",
         "identified_font": null
     }
 ]
