@@ -2217,5 +2217,61 @@
         "candidate_font_1": "Impact",
         "candidate_font_2": "Eurostile Extended",
         "candidate_font_3": "Microgramma D Bold Extended"
+    },
+    {
+        "task_id": "575905",
+        "model_name": "gpt-4o-mini",
+        "candidate_font_1": "Avenir",
+        "candidate_font_2": "Montserrat",
+        "candidate_font_3": "Futura"
+    },
+    {
+        "task_id": "575905",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Montserrat",
+        "candidate_font_2": "",
+        "candidate_font_3": ""
+    },
+    {
+        "task_id": "575904",
+        "model_name": "gpt-4o-mini",
+        "candidate_font_1": "Helvetica Neue",
+        "candidate_font_2": "Roboto",
+        "candidate_font_3": "Avenir"
+    },
+    {
+        "task_id": "575904",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Mulish",
+        "candidate_font_2": "Inter",
+        "candidate_font_3": "Work Sans"
+    },
+    {
+        "task_id": "575902",
+        "model_name": "gpt-4o-mini",
+        "candidate_font_1": "Comic Sans MS",
+        "candidate_font_2": "Dancing Script",
+        "candidate_font_3": "Brush Script MT"
+    },
+    {
+        "task_id": "575902",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Dancing Script",
+        "candidate_font_2": "Allura",
+        "candidate_font_3": "Pacifico"
+    },
+    {
+        "task_id": "575900",
+        "model_name": "gpt-4o-mini",
+        "candidate_font_1": "Montserrat",
+        "candidate_font_2": "Poppins",
+        "candidate_font_3": "Nunito"
+    },
+    {
+        "task_id": "575900",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Montserrat",
+        "candidate_font_2": "Inter",
+        "candidate_font_3": "Nunito Sans"
     }
 ]
