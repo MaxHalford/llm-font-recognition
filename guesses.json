@@ -2357,5 +2357,75 @@
         "candidate_font_1": "Impact",
         "candidate_font_2": "Compacta Bold",
         "candidate_font_3": "Franklin Gothic Condensed"
+    },
+    {
+        "task_id": "575917",
+        "model_name": "gpt-4o-mini",
+        "candidate_font_1": "Georgia",
+        "candidate_font_2": "Garamond",
+        "candidate_font_3": "Times New Roman"
+    },
+    {
+        "task_id": "575917",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Calibri",
+        "candidate_font_2": "Lato",
+        "candidate_font_3": "Corbel"
+    },
+    {
+        "task_id": "575916",
+        "model_name": "gpt-4o-mini",
+        "candidate_font_1": "Impact",
+        "candidate_font_2": "Bebas Neue",
+        "candidate_font_3": "Oswald"
+    },
+    {
+        "task_id": "575916",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Bebas Neue",
+        "candidate_font_2": "Anton",
+        "candidate_font_3": "Oswald Bold"
+    },
+    {
+        "task_id": "575915",
+        "model_name": "gpt-4o-mini",
+        "candidate_font_1": "Bodoni",
+        "candidate_font_2": "Didot",
+        "candidate_font_3": "Garamond"
+    },
+    {
+        "task_id": "575915",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "IBM LGR Typewriter",
+        "candidate_font_2": "American Typewriter",
+        "candidate_font_3": "Prestige Elite"
+    },
+    {
+        "task_id": "575914",
+        "model_name": "gpt-4o-mini",
+        "candidate_font_1": "Bodoni",
+        "candidate_font_2": "Didot",
+        "candidate_font_3": "Playfair Display"
+    },
+    {
+        "task_id": "575914",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "IBM Plex Mono",
+        "candidate_font_2": "Red Hat Mono",
+        "candidate_font_3": "Inconsolata"
+    },
+    {
+        "task_id": "575913",
+        "model_name": "gpt-4o-mini",
+        "candidate_font_1": "Bebas Neue",
+        "candidate_font_2": "Anton",
+        "candidate_font_3": "Oswald"
+    },
+    {
+        "task_id": "575913",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Viking Squad",
+        "candidate_font_2": "Norse Code",
+        "candidate_font_3": "Bender"
     }
 ]
