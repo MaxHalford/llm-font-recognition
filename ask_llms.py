@@ -98,6 +98,7 @@ def main():
     models = [
         "gpt-4o-mini",
         "gemini-2.5-flash-preview-05-20",
+        "claude-4-sonnet",
         # "mistral-large",  # doesn't support attachments
     ]
 
