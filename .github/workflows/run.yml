@@ -1,4 +1,4 @@
-name: Scrape and classify
+name: Scrape, classify, evaluate
 
 on:
   schedule:
@@ -42,4 +42,15 @@ jobs:
           git config user.email "github-actions[bot]@users.noreply.github.com"
           git add guesses.json
           git commit -m "Classify tasks [auto]" || echo "No changes to commit"
+          git push
+
+      - name: Evaluate
+        run: uv run evaluate.py
+
+      - name: Commit and push changes
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add index.html
+          git commit -m "Evaluate guesses [auto]" || echo "No changes to commit"
           git push

@@ -1,0 +1,65 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="UTF-8">
+<style>
+.r1 {font-weight: bold; text-decoration: underline}
+.r2 {color: #000080; text-decoration-color: #000080; text-decoration: underline}
+.r3 {font-style: italic}
+.r4 {font-weight: bold}
+.r5 {color: #800080; text-decoration-color: #800080}
+.r6 {color: #008080; text-decoration-color: #008080}
+.r7 {color: #808000; text-decoration-color: #808000}
+.r8 {color: #800000; text-decoration-color: #800000}
+.r9 {color: #bfbf7f; text-decoration-color: #bfbf7f}
+.r10 {color: #008000; text-decoration-color: #008000}
+body {
+    color: #000000;
+    background-color: #ffffff;
+}
+</style>
+</head>
+<body>
+    <pre style="font-family:Menlo,'DejaVu Sans Mono',consolas,'Courier New',monospace"><code style="font-family:inherit">                                                                                                                                                                   
+                           <span class="r1">Can LLMs recognise fonts?</span>                                                                                                               
+                                                                                                                                                                   
+This is a live benchmark of various LLMs&#x27; ability to recognise fonts from                                                                                          
+images. The latter are scraped from <a class="r2" href="https://www.dafont.com/forum/?f=1">dafont.com</a>. Each LLM is asked to identify                                                                                      
+the font used in newly uploaded images. The guesses are compared against the                                                                                       
+actual font once it has been identified by a user. This process ensures there is                                                                                   
+no benchmark contamination.                                                                                                                                        
+                                                                                                                                                                   
+The source code for this benchmark is available on <a class="r2" href="https://github.com/MaxHalford/llm-font-recognition">GitHub</a>.                                                                                                         
+                                                                                                                                                                   
+Last update made at 2025-06-04T20:02:00                                                                                                                            
+
+<span class="r3">Metrics                                                          </span>
+┏━━━━━━━━━━━━━━━━┳━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┳━━━━━━━━━━━━━┓
+┃<span class="r4">     Metric     </span>┃<span class="r4"> gemini-2.5-flash-preview-05-20 </span>┃<span class="r4"> gpt-4o-mini </span>┃
+┡━━━━━━━━━━━━━━━━╇━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━╇━━━━━━━━━━━━━┩
+│<span class="r5"> Top-1 accuracy </span>│             0.00%              │    7.69%    │
+│<span class="r5"> Top-2 accuracy </span>│             0.00%              │    7.69%    │
+│<span class="r5"> Top-3 accuracy </span>│             0.00%              │    7.69%    │
+└────────────────┴────────────────────────────────┴─────────────┘
+
+<span class="r3">Breakdown                                                                                                                                             </span>
+┏━━━━━━━━┳━━━━━━━━━━━━━━━━━━━━━━━━━━━┳━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┳━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┓
+┃<span class="r4">  Task  </span>┃<span class="r4">      Identified font      </span>┃<span class="r4">               gemini-2.5-flash-preview-05-20                </span>┃<span class="r4">                   gpt-4o-mini                   </span>┃
+┡━━━━━━━━╇━━━━━━━━━━━━━━━━━━━━━━━━━━━╇━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━╇━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┩
+│<span class="r6"> </span><a class="r6" href="https://www.dafont.com/forum/read/575906/help-me-thank">575906</a><span class="r6"> </span>│        Beth Ellen         │<span class="r7">                        </span><span class="r8">Bombshell Pro</span><span class="r7">                        </span>│<span class="r7">      </span><span class="r8">Pacifico</span><span class="r9">, </span><span class="r8">Dancing Script</span><span class="r9">, </span><span class="r8">Great Vibes</span><span class="r7">      </span>│
+│<span class="r6"> </span><a class="r6" href="https://www.dafont.com/forum/read/575904/logo-font">575904</a><span class="r6"> </span>│    Big City Grotesque     │<span class="r7">                  </span><span class="r8">Mulish</span><span class="r9">, </span><span class="r8">Inter</span><span class="r9">, </span><span class="r8">Work Sans</span><span class="r7">                   </span>│<span class="r7">         </span><span class="r8">Helvetica Neue</span><span class="r9">, </span><span class="r8">Roboto</span><span class="r9">, </span><span class="r8">Avenir</span><span class="r7">          </span>│
+│<span class="r6"> </span><a class="r6" href="https://www.dafont.com/forum/read/575894/shaw-and-partners">575894</a><span class="r6"> </span>│          Catalog          │<span class="r7">                </span><span class="r8">Bodoni</span><span class="r9">, </span><span class="r8">Modern No. 20</span><span class="r9">, </span><span class="r8">Didot</span><span class="r7">                 </span>│<span class="r7">             </span><span class="r8">Bodoni</span><span class="r9">, </span><span class="r8">Didot</span><span class="r9">, </span><span class="r8">Garamond</span><span class="r7">             </span>│
+│<span class="r6"> </span><a class="r6" href="https://www.dafont.com/forum/read/575887/identify-font">575887</a><span class="r6"> </span>│         Gladiola          │<span class="r7">        </span><span class="r8">Beautiful Sunday</span><span class="r9">, </span><span class="r8">Shoreline Script</span><span class="r9">, </span><span class="r8">Quicksand</span><span class="r7">        </span>│<span class="r7">        </span><span class="r8">Pacifico</span><span class="r9">, </span><span class="r8">Dancing Script</span><span class="r9">, </span><span class="r8">Lobster</span><span class="r7">        </span>│
+│<span class="r6"> </span><a class="r6" href="https://www.dafont.com/forum/read/575889/so-cynical-font">575889</a><span class="r6"> </span>│          Vast Mx          │<span class="r7">       </span><span class="r8">Heavy Heap</span><span class="r9">, </span><span class="r8">Impact</span><span class="r9">, </span><span class="r8">Burbank Big Condensed Black</span><span class="r7">       </span>│<span class="r7">          </span><span class="r8">Bebas Neue</span><span class="r9">, </span><span class="r8">Montserrat</span><span class="r9">, </span><span class="r8">Arimo</span><span class="r7">          </span>│
+│<span class="r6"> </span><a class="r6" href="https://www.dafont.com/forum/read/575824/postal-vr-font">575824</a><span class="r6"> </span>│          Impact           │<span class="r7">         </span><span class="r8">Big Noodle Titling</span><span class="r9">, </span><span class="r8">Bignum</span><span class="r9">, </span><span class="r8">Progress Heavy</span><span class="r7">          </span>│<span class="r7">            </span><span class="r10">Impact</span><span class="r9">, </span><span class="r8">Bebas Neue</span><span class="r9">, </span><span class="r8">Anton</span><span class="r7">            </span>│
+│<span class="r6"> </span><a class="r6" href="https://www.dafont.com/forum/read/575826/what-s-the-font-of-this-phrase">575826</a><span class="r6"> </span>│          Bakerie          │<span class="r7">                  </span><span class="r8">Little Cutie</span><span class="r9">, </span><span class="r8">Lovely Boys</span><span class="r7">                  </span>│<span class="r7">        </span><span class="r8">Pacifico</span><span class="r9">, </span><span class="r8">Lobster</span><span class="r9">, </span><span class="r8">Dancing Script</span><span class="r7">        </span>│
+│<span class="r6"> </span><a class="r6" href="https://www.dafont.com/forum/read/575830/anyone-know-this-font">575830</a><span class="r6"> </span>│         Friedolin         │<span class="r7"> </span><span class="r8">Albrecht Dürer Gotisch</span><span class="r9">, </span><span class="r8">Old English Text MT</span><span class="r9">, </span><span class="r8">Cloister Black</span><span class="r7"> </span>│<span class="r7">      </span><span class="r8">Blackletter</span><span class="r9">, </span><span class="r8">Fraktur</span><span class="r9">, </span><span class="r8">Cloister Black</span><span class="r7">       </span>│
+│<span class="r6"> </span><a class="r6" href="https://www.dafont.com/forum/read/575831/what-s-this-font">575831</a><span class="r6"> </span>│      Coneria Script       │<span class="r7">             </span><span class="r8">Hello Honey</span><span class="r9">, </span><span class="r8">Bromello</span><span class="r9">, </span><span class="r8">Magnolia Sky</span><span class="r7">             </span>│<span class="r7">      </span><span class="r8">Lobster</span><span class="r9">, </span><span class="r8">Great Vibes</span><span class="r9">, </span><span class="r8">Dancing Script</span><span class="r7">       </span>│
+│<span class="r6"> </span><a class="r6" href="https://www.dafont.com/forum/read/575835/name-font-please">575835</a><span class="r6"> </span>│         Louisa CP         │<span class="r7">     </span><span class="r8">Snell Roundhand</span><span class="r9">, </span><span class="r8">Bickham Script Pro</span><span class="r9">, </span><span class="r8">Aphrodite Pro</span><span class="r7">      </span>│<span class="r7">         </span><span class="r8">Bodoni</span><span class="r9">, </span><span class="r8">Didot</span><span class="r9">, </span><span class="r8">Playfair Display</span><span class="r7">         </span>│
+│<span class="r6"> </span><a class="r6" href="https://www.dafont.com/forum/read/575791/what-is-the-font">575791</a><span class="r6"> </span>│ Sign Painter House Script │<span class="r7">              </span><span class="r8">Signatra</span><span class="r9">, </span><span class="r8">Bromello</span><span class="r9">, </span><span class="r8">Magnolia Sky</span><span class="r7">               </span>│<span class="r7">        </span><span class="r8">Pacifico</span><span class="r9">, </span><span class="r8">Lobster</span><span class="r9">, </span><span class="r8">Dancing Script</span><span class="r7">        </span>│
+│<span class="r6"> </span><a class="r6" href="https://www.dafont.com/forum/read/575751/quelle-est-cette-police-merci">575751</a><span class="r6"> </span>│        Sour Slushy        │<span class="r7">  </span><span class="r8">Bubblegum Sans</span><span class="r9">, </span><span class="r8">Fredoka One</span><span class="r9">, </span><span class="r8">Burbank Big Condensed Black</span><span class="r7">   </span>│<span class="r7"> </span><span class="r8">Bubblegum Sans</span><span class="r9">, </span><span class="r8">Freestyle Script</span><span class="r9">, </span><span class="r8">Comic Sans MS</span><span class="r7"> </span>│
+│<span class="r6"> </span><a class="r6" href="https://www.dafont.com/forum/read/575761/alguem-identifica-essa-fonte-por-favooooor">575761</a><span class="r6"> </span>│           Holla           │<span class="r7">          </span><span class="r8">Nickainley</span><span class="r9">, </span><span class="r8">Brittany Signature</span><span class="r9">, </span><span class="r8">TheSecret</span><span class="r7">          </span>│<span class="r7">      </span><span class="r8">Pacifico</span><span class="r9">, </span><span class="r8">Dancing Script</span><span class="r9">, </span><span class="r8">Great Vibes</span><span class="r7">      </span>│
+└────────┴───────────────────────────┴─────────────────────────────────────────────────────────────┴─────────────────────────────────────────────────┘
+</code></pre>
+</body>
+</html>
