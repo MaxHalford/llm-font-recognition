@@ -2091,5 +2091,131 @@
         "candidate_font_1": "Jersey M54",
         "candidate_font_2": "NCAA Collegiate",
         "candidate_font_3": "SF Collegiate Solid"
+    },
+    {
+        "task_id": "575898",
+        "model_name": "gpt-4o-mini",
+        "candidate_font_1": "Brush Script",
+        "candidate_font_2": "Baskerville",
+        "candidate_font_3": "Algerian"
+    },
+    {
+        "task_id": "575898",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Hanging Letters",
+        "candidate_font_2": "October Crow",
+        "candidate_font_3": "Black Rose"
+    },
+    {
+        "task_id": "575897",
+        "model_name": "gpt-4o-mini",
+        "candidate_font_1": "Montserrat",
+        "candidate_font_2": "Bebas Neue",
+        "candidate_font_3": "Oswald"
+    },
+    {
+        "task_id": "575897",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Montserrat Black",
+        "candidate_font_2": "Quicksand Bold",
+        "candidate_font_3": "Gotham Black"
+    },
+    {
+        "task_id": "575896",
+        "model_name": "gpt-4o-mini",
+        "candidate_font_1": "Brush Script",
+        "candidate_font_2": "Freestyle Script",
+        "candidate_font_3": "Caf\u00e9 Francoise"
+    },
+    {
+        "task_id": "575896",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Grind Demolished",
+        "candidate_font_2": "The Last Dance",
+        "candidate_font_3": "October Crow"
+    },
+    {
+        "task_id": "575895",
+        "model_name": "gpt-4o-mini",
+        "candidate_font_1": "Bebas Neue",
+        "candidate_font_2": "Impact",
+        "candidate_font_3": "Montserrat"
+    },
+    {
+        "task_id": "575895",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Academic M54",
+        "candidate_font_2": "Freshman",
+        "candidate_font_3": ""
+    },
+    {
+        "task_id": "575894",
+        "model_name": "gpt-4o-mini",
+        "candidate_font_1": "Bodoni",
+        "candidate_font_2": "Didot",
+        "candidate_font_3": "Garamond"
+    },
+    {
+        "task_id": "575894",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Bodoni",
+        "candidate_font_2": "Modern No. 20",
+        "candidate_font_3": "Didot"
+    },
+    {
+        "task_id": "575893",
+        "model_name": "gpt-4o-mini",
+        "candidate_font_1": "Montserrat",
+        "candidate_font_2": "Poppins",
+        "candidate_font_3": "Roboto"
+    },
+    {
+        "task_id": "575893",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Gilroy",
+        "candidate_font_2": "Sofia Pro",
+        "candidate_font_3": "Mont"
+    },
+    {
+        "task_id": "575892",
+        "model_name": "gpt-4o-mini",
+        "candidate_font_1": "Bebas Neue",
+        "candidate_font_2": "Oswald",
+        "candidate_font_3": "Raleway"
+    },
+    {
+        "task_id": "575892",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Luckiest Guy",
+        "candidate_font_2": "Baloo 2 ExtraBold",
+        "candidate_font_3": "Fredoka One"
+    },
+    {
+        "task_id": "575891",
+        "model_name": "gpt-4o-mini",
+        "candidate_font_1": "Creepy",
+        "candidate_font_2": "Burnstown",
+        "candidate_font_3": "Draculas"
+    },
+    {
+        "task_id": "575891",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Metal Mania",
+        "candidate_font_2": "Fear Of The Dark",
+        "candidate_font_3": "Immortal"
+    },
+    {
+        "task_id": "575890",
+        "model_name": "gpt-4o-mini",
+        "candidate_font_1": "Helvetica Neue",
+        "candidate_font_2": "Futura",
+        "candidate_font_3": "Univers"
+    },
+    {
+        "task_id": "575890",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Impact",
+        "candidate_font_2": "Eurostile Extended",
+        "candidate_font_3": "Microgramma D Bold Extended"
     }
 ]
