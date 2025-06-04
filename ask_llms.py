@@ -116,6 +116,7 @@ def main():
     )
 
     for task in incomplete_tasks:
+        any_guess_made = False
         for model_name in models:
             if (task.task_id, model_name) in guesses:
                 continue
@@ -128,13 +129,15 @@ def main():
                 )
             except Exception as e:
                 logging.error(f"Error processing {task.task_id} with {model_name}: {e}")
+            any_guess_made = True
 
-        # LLMs are expensive, so let's save often to avoid losing progress
-        save_guesses(guesses)
+        if any_guess_made:
+            # LLMs are expensive, so let's save often to avoid losing progress
+            save_guesses(guesses)
 
-        # To avoid hitting rate limits, we sleep for a bit after each request
-        logging.info("Sleeping to avoid rate limits...")
-        time.sleep(3)
+            # To avoid hitting rate limits, we sleep for a bit after each request
+            logging.info("Sleeping to avoid rate limits...")
+            time.sleep(3)
 
 
 if __name__ == "__main__":
