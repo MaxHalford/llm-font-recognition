@@ -1236,7 +1236,7 @@
         "url": "https://www.dafont.com/forum/read/575889/so-cynical-font",
         "title": "So cynical Font",
         "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1216755.jpg",
-        "identified_font": null
+        "identified_font": "Vast Mx"
     },
     {
         "task_id": "575887",
@@ -1327,7 +1327,7 @@
         "url": "https://www.dafont.com/forum/read/575894/shaw-and-partners",
         "title": "Shaw and Partners",
         "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1216765.png",
-        "identified_font": null
+        "identified_font": "Catalog"
     },
     {
         "task_id": "575893",
@@ -1355,6 +1355,41 @@
         "url": "https://www.dafont.com/forum/read/575890/stereolab-album",
         "title": "Stereolab album",
         "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1216757.jpg",
+        "identified_font": null
+    },
+    {
+        "task_id": "575905",
+        "url": "https://www.dafont.com/forum/read/575905/church-logo-font",
+        "title": "Church Logo Font",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1216783.png",
+        "identified_font": null
+    },
+    {
+        "task_id": "575904",
+        "url": "https://www.dafont.com/forum/read/575904/logo-font",
+        "title": "Logo Font",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1216782.png",
+        "identified_font": null
+    },
+    {
+        "task_id": "575902",
+        "url": "https://www.dafont.com/forum/read/575902/what-font-is-this",
+        "title": "What font is this?",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1216778.jpg",
+        "identified_font": null
+    },
+    {
+        "task_id": "575901",
+        "url": "https://www.dafont.com/forum/read/575901/what-font-is-this",
+        "title": "What font is this?",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1216775.png",
+        "identified_font": "Moon Earth"
+    },
+    {
+        "task_id": "575900",
+        "url": "https://www.dafont.com/forum/read/575900/what-font-is-this",
+        "title": "What font is this?",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1216774.png",
         "identified_font": null
     }
 ]
