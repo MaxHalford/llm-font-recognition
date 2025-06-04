@@ -2,6 +2,7 @@
 # requires-python = ">=3.13"
 # dependencies = [
 #     "llm",
+#     "llm-anthropic",
 #     "llm-gemini",
 #     "llm-mistral",
 #     "pydantic"
