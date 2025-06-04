@@ -2623,5 +2623,103 @@
         "candidate_font_1": "Pricedown",
         "candidate_font_2": "BankGothic",
         "candidate_font_3": "Impact"
+    },
+    {
+        "task_id": "575937",
+        "model_name": "gpt-4o-mini",
+        "candidate_font_1": "Bodoni",
+        "candidate_font_2": "Didot",
+        "candidate_font_3": "Playfair Display"
+    },
+    {
+        "task_id": "575937",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Lust Didone",
+        "candidate_font_2": "Bodoni",
+        "candidate_font_3": "Didot"
+    },
+    {
+        "task_id": "575936",
+        "model_name": "gpt-4o-mini",
+        "candidate_font_1": "Garamond",
+        "candidate_font_2": "Bodoni",
+        "candidate_font_3": "Serifa"
+    },
+    {
+        "task_id": "575936",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Augustea",
+        "candidate_font_2": "Castellar",
+        "candidate_font_3": "Forum"
+    },
+    {
+        "task_id": "575935",
+        "model_name": "gpt-4o-mini",
+        "candidate_font_1": "Blackletter",
+        "candidate_font_2": "Gothic",
+        "candidate_font_3": "Display Serif"
+    },
+    {
+        "task_id": "575935",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "California Street HUSTLE",
+        "candidate_font_2": "Cloister Black",
+        "candidate_font_3": "Old English Text MT"
+    },
+    {
+        "task_id": "575934",
+        "model_name": "gpt-4o-mini",
+        "candidate_font_1": "Montserrat",
+        "candidate_font_2": "Bebas Neue",
+        "candidate_font_3": "Oswald"
+    },
+    {
+        "task_id": "575934",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Freshman",
+        "candidate_font_2": "SF Collegiate",
+        "candidate_font_3": "Varsity Team"
+    },
+    {
+        "task_id": "575933",
+        "model_name": "gpt-4o-mini",
+        "candidate_font_1": "Montserrat",
+        "candidate_font_2": "Bebas Neue",
+        "candidate_font_3": "Dancing Script"
+    },
+    {
+        "task_id": "575933",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Poetsen One",
+        "candidate_font_2": "Brittany Signature",
+        "candidate_font_3": "Lemon Milk Bold"
+    },
+    {
+        "task_id": "575932",
+        "model_name": "gpt-4o-mini",
+        "candidate_font_1": "Bebas Neue",
+        "candidate_font_2": "Roboto Bold",
+        "candidate_font_3": "Montserrat"
+    },
+    {
+        "task_id": "575932",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Dirty Headline",
+        "candidate_font_2": "Oswald Bold",
+        "candidate_font_3": "Gotham Black"
+    },
+    {
+        "task_id": "575930",
+        "model_name": "gpt-4o-mini",
+        "candidate_font_1": "Impact",
+        "candidate_font_2": "Bebas Neue",
+        "candidate_font_3": "Anton"
+    },
+    {
+        "task_id": "575930",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Revamped",
+        "candidate_font_2": "Agency FB Bold Italic",
+        "candidate_font_3": "Univers Condensed Bold Italic"
     }
 ]
