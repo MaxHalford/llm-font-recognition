@@ -1369,7 +1369,7 @@
         "url": "https://www.dafont.com/forum/read/575904/logo-font",
         "title": "Logo Font",
         "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1216782.png",
-        "identified_font": null
+        "identified_font": "Big City Grotesque"
     },
     {
         "task_id": "575902",
@@ -1390,6 +1390,55 @@
         "url": "https://www.dafont.com/forum/read/575900/what-font-is-this",
         "title": "What font is this?",
         "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1216774.png",
+        "identified_font": null
+    },
+    {
+        "task_id": "575908",
+        "url": "https://www.dafont.com/forum/read/575908/pico-s-roulette-font",
+        "title": "Pico\u0092s Roulette Font?",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1216789.jpg",
+        "identified_font": "Big Plain"
+    },
+    {
+        "task_id": "575912",
+        "url": "https://www.dafont.com/forum/read/575912/font-name-please",
+        "title": "Font name please :)",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1216795.jpg",
+        "identified_font": null
+    },
+    {
+        "task_id": "575911",
+        "url": "https://www.dafont.com/forum/read/575911/font-name-please",
+        "title": "Font name please",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1216793.jpg",
+        "identified_font": null
+    },
+    {
+        "task_id": "575909",
+        "url": "https://www.dafont.com/forum/read/575909/font-please",
+        "title": "Font, please. &#128591;&#127995;",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1216791.jpg?1",
+        "identified_font": null
+    },
+    {
+        "task_id": "575907",
+        "url": "https://www.dafont.com/forum/read/575907/font-please",
+        "title": "Font please",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1216786.jpg",
+        "identified_font": null
+    },
+    {
+        "task_id": "575906",
+        "url": "https://www.dafont.com/forum/read/575906/help-me-thank",
+        "title": "Help me,thank .",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1216785.png",
+        "identified_font": null
+    },
+    {
+        "task_id": "565462",
+        "url": "https://www.dafont.com/forum/read/565462/superman-2025-font",
+        "title": "Superman 2025 font",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/1/1196017.png?1",
         "identified_font": null
     }
 ]
