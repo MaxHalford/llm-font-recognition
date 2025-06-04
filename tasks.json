@@ -1432,13 +1432,48 @@
         "url": "https://www.dafont.com/forum/read/575906/help-me-thank",
         "title": "Help me,thank .",
         "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1216785.png",
-        "identified_font": null
+        "identified_font": "Beth Ellen"
     },
     {
         "task_id": "565462",
         "url": "https://www.dafont.com/forum/read/565462/superman-2025-font",
         "title": "Superman 2025 font",
         "img_url": "https://www.dafont.com/forum/attach/orig/1/1/1196017.png?1",
+        "identified_font": null
+    },
+    {
+        "task_id": "575917",
+        "url": "https://www.dafont.com/forum/read/575917/can-you-find-this-font-please",
+        "title": "Can you find this font please???",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1216803.png",
+        "identified_font": null
+    },
+    {
+        "task_id": "575916",
+        "url": "https://www.dafont.com/forum/read/575916/evidence-font",
+        "title": "\"Evidence\" Font",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1216802.png",
+        "identified_font": null
+    },
+    {
+        "task_id": "575915",
+        "url": "https://www.dafont.com/forum/read/575915/can-you-identify-this-font",
+        "title": "Can you identify this font?",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1216801.png",
+        "identified_font": null
+    },
+    {
+        "task_id": "575914",
+        "url": "https://www.dafont.com/forum/read/575914/can-anyone-identify-this-font",
+        "title": "Can anyone identify this font?",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1216800.png",
+        "identified_font": null
+    },
+    {
+        "task_id": "575913",
+        "url": "https://www.dafont.com/forum/read/575913/umm-great-font",
+        "title": "Umm Great Font?",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1216798.jpg",
         "identified_font": null
     }
 ]
