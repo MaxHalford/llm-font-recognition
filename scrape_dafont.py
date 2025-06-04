@@ -129,13 +129,10 @@ def main():
             break
         new_last_scraped_at = max(new_last_scraped_at, task_thumb.updated_at)
 
-        if task_thumb.task_id in tasks:
-            continue
-
         task = parse_task_from_task_url(task_url=task_thumb.url, session=session)
         tasks[task.task_id] = task
 
-        logging.info(f"Added task {task.task_id} ~ {task.url}")
+        logging.info(f"Updated task {task.task_id} ~ {task.url}")
 
         if i % 10 == 0:
             save_tasks(tasks)

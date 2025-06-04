@@ -130,7 +130,7 @@
         "url": "https://www.dafont.com/forum/read/575761/alguem-identifica-essa-fonte-por-favooooor",
         "title": "Algu\u00e9m identifica essa fonte, por favooooor",
         "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1216547.png",
-        "identified_font": null
+        "identified_font": "Holla"
     },
     {
         "task_id": "575760",
@@ -213,8 +213,8 @@
         "task_id": "575751",
         "url": "https://www.dafont.com/forum/read/575751/quelle-est-cette-police-merci",
         "title": "Quelle est cette police ? Merci !",
-        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1216533.png",
-        "identified_font": null
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1216533.png?1",
+        "identified_font": "Sour Slushy"
     },
     {
         "task_id": "575750",
@@ -752,8 +752,8 @@
         "task_id": "575791",
         "url": "https://www.dafont.com/forum/read/575791/what-is-the-font",
         "title": "What is the font ?",
-        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1216603.png",
-        "identified_font": null
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1216603.jpg?1",
+        "identified_font": "Sign Painter House Script"
     },
     {
         "task_id": "575790",
@@ -809,6 +809,825 @@
         "url": "https://www.dafont.com/forum/read/575784/tampa-bay-62",
         "title": "Tampa Bay 62",
         "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1216588.jpg",
+        "identified_font": null
+    },
+    {
+        "task_id": "575837",
+        "url": "https://www.dafont.com/forum/read/575837/font-name-please",
+        "title": "Font name please",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1216666.jpg",
+        "identified_font": null
+    },
+    {
+        "task_id": "575835",
+        "url": "https://www.dafont.com/forum/read/575835/name-font-please",
+        "title": "Name font please???",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1216664.jpg",
+        "identified_font": "Louisa CP"
+    },
+    {
+        "task_id": "575833",
+        "url": "https://www.dafont.com/forum/read/575833/what-is-the-font-name",
+        "title": "What is the font name ?",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1216662.jpg",
+        "identified_font": null
+    },
+    {
+        "task_id": "575811",
+        "url": "https://www.dafont.com/forum/read/575811/font-identification-please",
+        "title": "Font identification please",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1216632.png?1",
+        "identified_font": "Frances"
+    },
+    {
+        "task_id": "575832",
+        "url": "https://www.dafont.com/forum/read/575832/what-the-font-please",
+        "title": "What the font please ?",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1216660.png",
+        "identified_font": null
+    },
+    {
+        "task_id": "575831",
+        "url": "https://www.dafont.com/forum/read/575831/what-s-this-font",
+        "title": "what\u0092s this font ??",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1216659.jpg",
+        "identified_font": "Coneria Script"
+    },
+    {
+        "task_id": "575827",
+        "url": "https://www.dafont.com/forum/read/575827/font-request",
+        "title": "Font request",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1216653.png",
+        "identified_font": "Master Of Break"
+    },
+    {
+        "task_id": "575830",
+        "url": "https://www.dafont.com/forum/read/575830/anyone-know-this-font",
+        "title": "Anyone know this font?",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1216656.jpg",
+        "identified_font": "Friedolin"
+    },
+    {
+        "task_id": "575828",
+        "url": "https://www.dafont.com/forum/read/575828/help-me-find-the-font",
+        "title": "Help me find the font",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1216654.png?1",
+        "identified_font": null
+    },
+    {
+        "task_id": "575821",
+        "url": "https://www.dafont.com/forum/read/575821/font",
+        "title": "Font?",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1216645.png?1",
+        "identified_font": "Bravada Arma"
+    },
+    {
+        "task_id": "575826",
+        "url": "https://www.dafont.com/forum/read/575826/what-s-the-font-of-this-phrase",
+        "title": "What's the font of this phrase",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1216651.png?1",
+        "identified_font": "Bakerie"
+    },
+    {
+        "task_id": "575824",
+        "url": "https://www.dafont.com/forum/read/575824/postal-vr-font",
+        "title": "POSTAL VR font??",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1216648.jpg",
+        "identified_font": "Impact"
+    },
+    {
+        "task_id": "575822",
+        "url": "https://www.dafont.com/forum/read/575822/what-are-the-fonts-tia",
+        "title": "What are the fonts? TIA",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1216646.jpg",
+        "identified_font": null
+    },
+    {
+        "task_id": "575819",
+        "url": "https://www.dafont.com/forum/read/575819/please-identify-this-font-from-life-lesson-of-hip-hop",
+        "title": "Please identify this font from Life lesson of hip hop?",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1216643.png?1",
+        "identified_font": null
+    },
+    {
+        "task_id": "575818",
+        "url": "https://www.dafont.com/forum/read/575818/ayuda-nombre-de-la-fuente",
+        "title": "AYUDA, NOMBRE DE LA FUENTE",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1216642.jpg",
+        "identified_font": null
+    },
+    {
+        "task_id": "575817",
+        "url": "https://www.dafont.com/forum/read/575817/help-find-royale-high-campus-1-font",
+        "title": "help find royale high campus 1 font",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1216641.png?1",
+        "identified_font": null
+    },
+    {
+        "task_id": "574400",
+        "url": "https://www.dafont.com/forum/read/574400/tmnt-the-last-ronin-font",
+        "title": "TMNT The Last Ronin font",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1213724.jpg",
+        "identified_font": null
+    },
+    {
+        "task_id": "575816",
+        "url": "https://www.dafont.com/forum/read/575816/help",
+        "title": "help",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1216637.png",
+        "identified_font": null
+    },
+    {
+        "task_id": "575814",
+        "url": "https://www.dafont.com/forum/read/575814/naruto-game-font",
+        "title": "Naruto Game Font",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1216635.png",
+        "identified_font": null
+    },
+    {
+        "task_id": "575813",
+        "url": "https://www.dafont.com/forum/read/575813/font-name-helpmeee",
+        "title": "FONT NAME? HELPMEEE",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1216634.png?1",
+        "identified_font": null
+    },
+    {
+        "task_id": "575812",
+        "url": "https://www.dafont.com/forum/read/575812/spark-record-co",
+        "title": "Spark Record Co.",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1216633.jpg",
+        "identified_font": null
+    },
+    {
+        "task_id": "575810",
+        "url": "https://www.dafont.com/forum/read/575810/please-help-me-find-both-fonts",
+        "title": "please help me find both fonts",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1216631.png",
+        "identified_font": null
+    },
+    {
+        "task_id": "575809",
+        "url": "https://www.dafont.com/forum/read/575809/addison-font",
+        "title": "Addison FONT",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1216630.png",
+        "identified_font": null
+    },
+    {
+        "task_id": "575808",
+        "url": "https://www.dafont.com/forum/read/575808/addison-the-album-font",
+        "title": "ADDISON THE ALBUM FONT",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1216629.png?1",
+        "identified_font": null
+    },
+    {
+        "task_id": "536566",
+        "url": "https://www.dafont.com/forum/read/536566/i-d-like-to-ask-for-font-identification-of-the-foundation",
+        "title": "I'd like to ask for font identification of THE FOUNDATION.",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/1/1134278.png",
+        "identified_font": null
+    },
+    {
+        "task_id": "575795",
+        "url": "https://www.dafont.com/forum/read/575795/what-source-is-this-here",
+        "title": "What source is this here?",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1216609.png?1",
+        "identified_font": null
+    },
+    {
+        "task_id": "575806",
+        "url": "https://www.dafont.com/forum/read/575806/hey-men-font",
+        "title": "HEY MEN! FONT?",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1216620.jpg",
+        "identified_font": "Garamond Premier Display"
+    },
+    {
+        "task_id": "575805",
+        "url": "https://www.dafont.com/forum/read/575805/japanese-happy-hardcore-uk-hardcore",
+        "title": "Japanese Happy Hardcore UK Hardcore",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1216619.png",
+        "identified_font": null
+    },
+    {
+        "task_id": "575804",
+        "url": "https://www.dafont.com/forum/read/575804/font-id",
+        "title": "font ID",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1216618.png?1",
+        "identified_font": null
+    },
+    {
+        "task_id": "575841",
+        "url": "https://www.dafont.com/forum/read/575841/mobile-detailing",
+        "title": "Mobile Detailing",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1216673.jpg",
+        "identified_font": null
+    },
+    {
+        "task_id": "575839",
+        "url": "https://www.dafont.com/forum/read/575839/what-the-font-please",
+        "title": "What the font please ?",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1216671.png",
+        "identified_font": null
+    },
+    {
+        "task_id": "575838",
+        "url": "https://www.dafont.com/forum/read/575838/12-06",
+        "title": "12 06",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1216667.jpg",
+        "identified_font": null
+    },
+    {
+        "task_id": "575854",
+        "url": "https://www.dafont.com/forum/read/575854/what-the-font",
+        "title": "what the font",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1216694.png",
+        "identified_font": null
+    },
+    {
+        "task_id": "575853",
+        "url": "https://www.dafont.com/forum/read/575853/what-the-font",
+        "title": "what the font",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1216693.png",
+        "identified_font": null
+    },
+    {
+        "task_id": "575852",
+        "url": "https://www.dafont.com/forum/read/575852/que-fuente-es-esta",
+        "title": "\u00bfQu\u00e9 fuente es esta?",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1216691.png",
+        "identified_font": null
+    },
+    {
+        "task_id": "575851",
+        "url": "https://www.dafont.com/forum/read/575851/art-deco",
+        "title": "Art Deco",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1216689.jpg",
+        "identified_font": null
+    },
+    {
+        "task_id": "575850",
+        "url": "https://www.dafont.com/forum/read/575850/glow-to-haze",
+        "title": "Glow to Haze",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1216688.png",
+        "identified_font": null
+    },
+    {
+        "task_id": "575849",
+        "url": "https://www.dafont.com/forum/read/575849/fonte-urgenteeeeeeeeeeeeeeeeeeeeeeeeeeeeee",
+        "title": "Fonte URGENTEEEEEEEEEEEEEEEEEEEEEEEEEEEEEE...!!!",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1216686.png",
+        "identified_font": null
+    },
+    {
+        "task_id": "575848",
+        "url": "https://www.dafont.com/forum/read/575848/what-font-is-this",
+        "title": "what font is this",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1216684.png",
+        "identified_font": "Montserrat"
+    },
+    {
+        "task_id": "575846",
+        "url": "https://www.dafont.com/forum/read/575846/same-or-similar-fonts-with-same-vibe",
+        "title": "same or similar fonts with same vibe?+",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1216680.png",
+        "identified_font": null
+    },
+    {
+        "task_id": "575845",
+        "url": "https://www.dafont.com/forum/read/575845/rimowa-font",
+        "title": "rimowa font?",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1216679.png",
+        "identified_font": null
+    },
+    {
+        "task_id": "575842",
+        "url": "https://www.dafont.com/forum/read/575842/font-name-please",
+        "title": "Font name please!",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1216676.jpg",
+        "identified_font": null
+    },
+    {
+        "task_id": "575862",
+        "url": "https://www.dafont.com/forum/read/575862/what-font-is-this",
+        "title": "What font is this?",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1216705.png",
+        "identified_font": null
+    },
+    {
+        "task_id": "575861",
+        "url": "https://www.dafont.com/forum/read/575861/what-font-is-this",
+        "title": "What font is this?",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1216704.jpg",
+        "identified_font": null
+    },
+    {
+        "task_id": "575860",
+        "url": "https://www.dafont.com/forum/read/575860/help-identifying-font-please",
+        "title": "Help identifying font please",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1216703.jpg",
+        "identified_font": null
+    },
+    {
+        "task_id": "575859",
+        "url": "https://www.dafont.com/forum/read/575859/i-am-looking-for-the-font-in-the-star",
+        "title": "I am looking for the font in the star",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1216701.jpg",
+        "identified_font": null
+    },
+    {
+        "task_id": "575858",
+        "url": "https://www.dafont.com/forum/read/575858/font-identification",
+        "title": "font identification",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1216700.jpg",
+        "identified_font": null
+    },
+    {
+        "task_id": "575857",
+        "url": "https://www.dafont.com/forum/read/575857/what-fonts-are-these",
+        "title": "what fonts are these",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1216699.png",
+        "identified_font": null
+    },
+    {
+        "task_id": "575856",
+        "url": "https://www.dafont.com/forum/read/575856/anyone-know-this-font",
+        "title": "Anyone know this font?",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1216698.png",
+        "identified_font": null
+    },
+    {
+        "task_id": "575855",
+        "url": "https://www.dafont.com/forum/read/575855/what-font-is-this",
+        "title": "What font is this?",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1216697.png",
+        "identified_font": null
+    },
+    {
+        "task_id": "575460",
+        "url": "https://www.dafont.com/forum/read/575460/someone-know-this-font-please-niet-normaal",
+        "title": "Someone know this font, please ? NIET NORMAAL",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1215918.jpg",
+        "identified_font": null
+    },
+    {
+        "task_id": "575874",
+        "url": "https://www.dafont.com/forum/read/575874/font",
+        "title": "Font?",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1216724.jpg",
+        "identified_font": null
+    },
+    {
+        "task_id": "575873",
+        "url": "https://www.dafont.com/forum/read/575873/font-identity",
+        "title": "FONT IDENTITY",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1216723.png",
+        "identified_font": null
+    },
+    {
+        "task_id": "575872",
+        "url": "https://www.dafont.com/forum/read/575872/sabrina-carpenter-logo",
+        "title": "Sabrina Carpenter logo",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1216722.png",
+        "identified_font": null
+    },
+    {
+        "task_id": "575870",
+        "url": "https://www.dafont.com/forum/read/575870/font",
+        "title": "font ??",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1216720.jpg",
+        "identified_font": null
+    },
+    {
+        "task_id": "575866",
+        "url": "https://www.dafont.com/forum/read/575866/pizza-palos",
+        "title": "Pizza Palos",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1216714.png",
+        "identified_font": "Ru'ach"
+    },
+    {
+        "task_id": "575869",
+        "url": "https://www.dafont.com/forum/read/575869/font-id",
+        "title": "font ID",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1216718.png",
+        "identified_font": null
+    },
+    {
+        "task_id": "575864",
+        "url": "https://www.dafont.com/forum/read/575864/surrender-font-name-please",
+        "title": "Surrender font name please",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1216711.png",
+        "identified_font": null
+    },
+    {
+        "task_id": "575863",
+        "url": "https://www.dafont.com/forum/read/575863/the-name-of-this-1990s-font",
+        "title": "The name of this 1990s font",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1216709.jpg",
+        "identified_font": null
+    },
+    {
+        "task_id": "575888",
+        "url": "https://www.dafont.com/forum/read/575888/anyone-know-this-font-thanks",
+        "title": "Anyone know this font. Thanks",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1216753.jpg",
+        "identified_font": null
+    },
+    {
+        "task_id": "575889",
+        "url": "https://www.dafont.com/forum/read/575889/so-cynical-font",
+        "title": "So cynical Font",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1216755.jpg",
+        "identified_font": "Vast Mx"
+    },
+    {
+        "task_id": "575887",
+        "url": "https://www.dafont.com/forum/read/575887/identify-font",
+        "title": "Identify Font",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1216752.png",
+        "identified_font": "Gladiola"
+    },
+    {
+        "task_id": "575885",
+        "url": "https://www.dafont.com/forum/read/575885/jack-skateboard-thumbnail",
+        "title": "Jack Skateboard Thumbnail",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1216749.jpg",
+        "identified_font": "Sprite Graffiti"
+    },
+    {
+        "task_id": "575886",
+        "url": "https://www.dafont.com/forum/read/575886/help-please",
+        "title": "Help Please!",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1216750.jpg",
+        "identified_font": null
+    },
+    {
+        "task_id": "575880",
+        "url": "https://www.dafont.com/forum/read/575880/sabrina-carpenter-manchild-font",
+        "title": "Sabrina Carpenter manchild font",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1216744.png",
+        "identified_font": null
+    },
+    {
+        "task_id": "575879",
+        "url": "https://www.dafont.com/forum/read/575879/alguem-sabe-o-nome",
+        "title": "Algu\u00e9m sabe o nome?",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1216743.jpg",
+        "identified_font": null
+    },
+    {
+        "task_id": "575878",
+        "url": "https://www.dafont.com/forum/read/575878/alguem-pode-me-ajudar-a-achar-essa-fonte-por-favor",
+        "title": "Alguem pode me ajudar a achar essa fonte por favor!!",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1216742.png",
+        "identified_font": null
+    },
+    {
+        "task_id": "575877",
+        "url": "https://www.dafont.com/forum/read/575877/font-we-are-ultras",
+        "title": "Font We are Ultras",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1216741.jpg",
+        "identified_font": null
+    },
+    {
+        "task_id": "575576",
+        "url": "https://www.dafont.com/forum/read/575576/warhammer-rulebook-title-font",
+        "title": "Warhammer rulebook title font",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1216139.png",
+        "identified_font": "Brioso Bold"
+    },
+    {
+        "task_id": "575898",
+        "url": "https://www.dafont.com/forum/read/575898/what-font-is-this-the-same-font-but-in-better-quality",
+        "title": "what font is this? (the same font, but in better quality",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1216769.jpg",
+        "identified_font": null
+    },
+    {
+        "task_id": "575897",
+        "url": "https://www.dafont.com/forum/read/575897/could-anyone-help-me",
+        "title": "could anyone help me?",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1216768.png",
+        "identified_font": null
+    },
+    {
+        "task_id": "575896",
+        "url": "https://www.dafont.com/forum/read/575896/what-font-is-this-plss-sorry-for-bad-quality",
+        "title": "what font is this? plss (sorry for bad quality)",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1216767.jpg",
+        "identified_font": null
+    },
+    {
+        "task_id": "575895",
+        "url": "https://www.dafont.com/forum/read/575895/id-font-please",
+        "title": "ID Font Please",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1216766.png",
+        "identified_font": null
+    },
+    {
+        "task_id": "575894",
+        "url": "https://www.dafont.com/forum/read/575894/shaw-and-partners",
+        "title": "Shaw and Partners",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1216765.png",
+        "identified_font": "Catalog"
+    },
+    {
+        "task_id": "575893",
+        "url": "https://www.dafont.com/forum/read/575893/font",
+        "title": "Font?",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1216763.png",
+        "identified_font": null
+    },
+    {
+        "task_id": "575892",
+        "url": "https://www.dafont.com/forum/read/575892/font-of-this-header",
+        "title": "Font of this header?",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1216761.jpg",
+        "identified_font": null
+    },
+    {
+        "task_id": "575891",
+        "url": "https://www.dafont.com/forum/read/575891/font-name",
+        "title": "Font Name?",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1216759.jpg",
+        "identified_font": null
+    },
+    {
+        "task_id": "575890",
+        "url": "https://www.dafont.com/forum/read/575890/stereolab-album",
+        "title": "Stereolab album",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1216757.jpg",
+        "identified_font": null
+    },
+    {
+        "task_id": "575905",
+        "url": "https://www.dafont.com/forum/read/575905/church-logo-font",
+        "title": "Church Logo Font",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1216783.png",
+        "identified_font": null
+    },
+    {
+        "task_id": "575904",
+        "url": "https://www.dafont.com/forum/read/575904/logo-font",
+        "title": "Logo Font",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1216782.png",
+        "identified_font": "Big City Grotesque"
+    },
+    {
+        "task_id": "575902",
+        "url": "https://www.dafont.com/forum/read/575902/what-font-is-this",
+        "title": "What font is this?",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1216778.jpg",
+        "identified_font": null
+    },
+    {
+        "task_id": "575901",
+        "url": "https://www.dafont.com/forum/read/575901/what-font-is-this",
+        "title": "What font is this?",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1216775.png",
+        "identified_font": "Moon Earth"
+    },
+    {
+        "task_id": "575900",
+        "url": "https://www.dafont.com/forum/read/575900/what-font-is-this",
+        "title": "What font is this?",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1216774.png",
+        "identified_font": null
+    },
+    {
+        "task_id": "575908",
+        "url": "https://www.dafont.com/forum/read/575908/pico-s-roulette-font",
+        "title": "Pico\u0092s Roulette Font?",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1216789.jpg",
+        "identified_font": "Big Plain"
+    },
+    {
+        "task_id": "575912",
+        "url": "https://www.dafont.com/forum/read/575912/font-name-please",
+        "title": "Font name please :)",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1216795.jpg",
+        "identified_font": null
+    },
+    {
+        "task_id": "575911",
+        "url": "https://www.dafont.com/forum/read/575911/font-name-please",
+        "title": "Font name please",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1216793.jpg",
+        "identified_font": null
+    },
+    {
+        "task_id": "575909",
+        "url": "https://www.dafont.com/forum/read/575909/font-please",
+        "title": "Font, please. &#128591;&#127995;",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1216791.jpg?1",
+        "identified_font": null
+    },
+    {
+        "task_id": "575907",
+        "url": "https://www.dafont.com/forum/read/575907/font-please",
+        "title": "Font please",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1216786.jpg",
+        "identified_font": null
+    },
+    {
+        "task_id": "575906",
+        "url": "https://www.dafont.com/forum/read/575906/help-me-thank",
+        "title": "Help me,thank .",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1216785.png",
+        "identified_font": "Beth Ellen"
+    },
+    {
+        "task_id": "565462",
+        "url": "https://www.dafont.com/forum/read/565462/superman-2025-font",
+        "title": "Superman 2025 font",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/1/1196017.png?1",
+        "identified_font": null
+    },
+    {
+        "task_id": "575917",
+        "url": "https://www.dafont.com/forum/read/575917/can-you-find-this-font-please",
+        "title": "Can you find this font please???",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1216803.png",
+        "identified_font": null
+    },
+    {
+        "task_id": "575916",
+        "url": "https://www.dafont.com/forum/read/575916/evidence-font",
+        "title": "\"Evidence\" Font",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1216802.png",
+        "identified_font": null
+    },
+    {
+        "task_id": "575915",
+        "url": "https://www.dafont.com/forum/read/575915/can-you-identify-this-font",
+        "title": "Can you identify this font?",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1216801.png",
+        "identified_font": null
+    },
+    {
+        "task_id": "575914",
+        "url": "https://www.dafont.com/forum/read/575914/can-anyone-identify-this-font",
+        "title": "Can anyone identify this font?",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1216800.png",
+        "identified_font": null
+    },
+    {
+        "task_id": "575913",
+        "url": "https://www.dafont.com/forum/read/575913/umm-great-font",
+        "title": "Umm Great Font?",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1216798.jpg",
+        "identified_font": null
+    },
+    {
+        "task_id": "575922",
+        "url": "https://www.dafont.com/forum/read/575922/black-heart-font",
+        "title": "\"Black Heart\" font?",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1216811.jpg",
+        "identified_font": null
+    },
+    {
+        "task_id": "575921",
+        "url": "https://www.dafont.com/forum/read/575921/font-in-the-favors-band-logo",
+        "title": "Font in The Favors' band logo?",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1216810.jpg",
+        "identified_font": null
+    },
+    {
+        "task_id": "575920",
+        "url": "https://www.dafont.com/forum/read/575920/can-you-find-this-font-po6a",
+        "title": "Can you find this font Po6a?",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1216809.png",
+        "identified_font": null
+    },
+    {
+        "task_id": "562196",
+        "url": "https://www.dafont.com/forum/read/562196/what-font-is-used-please",
+        "title": "What Font is Used Please",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/1/1189015.png",
+        "identified_font": null
+    },
+    {
+        "task_id": "564902",
+        "url": "https://www.dafont.com/forum/read/564902/font-help-please",
+        "title": "Font help Please",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/1/1194728.png",
+        "identified_font": null
+    },
+    {
+        "task_id": "565828",
+        "url": "https://www.dafont.com/forum/read/565828/font-please",
+        "title": "Font Please",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/1/1196817.png",
+        "identified_font": null
+    },
+    {
+        "task_id": "575919",
+        "url": "https://www.dafont.com/forum/read/575919/parade-font",
+        "title": "parade font",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1216805.jpg",
+        "identified_font": null
+    },
+    {
+        "task_id": "575918",
+        "url": "https://www.dafont.com/forum/read/575918/thunder-font",
+        "title": "thunder font",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1216804.jpg",
+        "identified_font": null
+    },
+    {
+        "task_id": "575929",
+        "url": "https://www.dafont.com/forum/read/575929/font-from-the-movie-dumbo",
+        "title": "Font from the movie Dumbo?",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1216828.png",
+        "identified_font": null
+    },
+    {
+        "task_id": "575927",
+        "url": "https://www.dafont.com/forum/read/575927/britney-font",
+        "title": "\"Britney\" font?",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1216819.png",
+        "identified_font": "Kinescope"
+    },
+    {
+        "task_id": "575928",
+        "url": "https://www.dafont.com/forum/read/575928/what-font-is-this",
+        "title": "what font is this?",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1216820.jpg",
+        "identified_font": null
+    },
+    {
+        "task_id": "575926",
+        "url": "https://www.dafont.com/forum/read/575926/wtf",
+        "title": "WTF?",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1216818.png",
+        "identified_font": null
+    },
+    {
+        "task_id": "575925",
+        "url": "https://www.dafont.com/forum/read/575925/font-find",
+        "title": "FONT FIND",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1216817.jpg",
+        "identified_font": null
+    },
+    {
+        "task_id": "575923",
+        "url": "https://www.dafont.com/forum/read/575923/what-font-brand-is-prx",
+        "title": "What font? brand is prx",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1216814.png",
+        "identified_font": null
+    },
+    {
+        "task_id": "575924",
+        "url": "https://www.dafont.com/forum/read/575924/what-font",
+        "title": "what font?",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1216815.png",
+        "identified_font": null
+    },
+    {
+        "task_id": "575937",
+        "url": "https://www.dafont.com/forum/read/575937/name-that-font",
+        "title": "Name That Font",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1216837.png",
+        "identified_font": null
+    },
+    {
+        "task_id": "575936",
+        "url": "https://www.dafont.com/forum/read/575936/id-font",
+        "title": "ID FONT?",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1216836.png",
+        "identified_font": null
+    },
+    {
+        "task_id": "575935",
+        "url": "https://www.dafont.com/forum/read/575935/font",
+        "title": "FONT?",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1216834.png",
+        "identified_font": null
+    },
+    {
+        "task_id": "575934",
+        "url": "https://www.dafont.com/forum/read/575934/font-please",
+        "title": "Font, please",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1216833.jpg",
+        "identified_font": null
+    },
+    {
+        "task_id": "575933",
+        "url": "https://www.dafont.com/forum/read/575933/help-identifying-font",
+        "title": "Help identifying font",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1216832.png",
+        "identified_font": null
+    },
+    {
+        "task_id": "575932",
+        "url": "https://www.dafont.com/forum/read/575932/font-thx",
+        "title": "Font? Thx",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1216831.jpg",
+        "identified_font": null
+    },
+    {
+        "task_id": "575930",
+        "url": "https://www.dafont.com/forum/read/575930/font-thx",
+        "title": "Font? Thx",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1216829.jpg",
         "identified_font": null
     }
 ]
