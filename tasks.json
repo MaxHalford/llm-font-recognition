@@ -1243,7 +1243,7 @@
         "url": "https://www.dafont.com/forum/read/575887/identify-font",
         "title": "Identify Font",
         "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1216752.png",
-        "identified_font": null
+        "identified_font": "Gladiola"
     },
     {
         "task_id": "575885",
@@ -1293,5 +1293,68 @@
         "title": "Warhammer rulebook title font",
         "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1216139.png",
         "identified_font": "Brioso Bold"
+    },
+    {
+        "task_id": "575898",
+        "url": "https://www.dafont.com/forum/read/575898/what-font-is-this-the-same-font-but-in-better-quality",
+        "title": "what font is this? (the same font, but in better quality",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1216769.jpg",
+        "identified_font": null
+    },
+    {
+        "task_id": "575897",
+        "url": "https://www.dafont.com/forum/read/575897/could-anyone-help-me",
+        "title": "could anyone help me?",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1216768.png",
+        "identified_font": null
+    },
+    {
+        "task_id": "575896",
+        "url": "https://www.dafont.com/forum/read/575896/what-font-is-this-plss-sorry-for-bad-quality",
+        "title": "what font is this? plss (sorry for bad quality)",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1216767.jpg",
+        "identified_font": null
+    },
+    {
+        "task_id": "575895",
+        "url": "https://www.dafont.com/forum/read/575895/id-font-please",
+        "title": "ID Font Please",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1216766.png",
+        "identified_font": null
+    },
+    {
+        "task_id": "575894",
+        "url": "https://www.dafont.com/forum/read/575894/shaw-and-partners",
+        "title": "Shaw and Partners",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1216765.png",
+        "identified_font": null
+    },
+    {
+        "task_id": "575893",
+        "url": "https://www.dafont.com/forum/read/575893/font",
+        "title": "Font?",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1216763.png",
+        "identified_font": null
+    },
+    {
+        "task_id": "575892",
+        "url": "https://www.dafont.com/forum/read/575892/font-of-this-header",
+        "title": "Font of this header?",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1216761.jpg",
+        "identified_font": null
+    },
+    {
+        "task_id": "575891",
+        "url": "https://www.dafont.com/forum/read/575891/font-name",
+        "title": "Font Name?",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1216759.jpg",
+        "identified_font": null
+    },
+    {
+        "task_id": "575890",
+        "url": "https://www.dafont.com/forum/read/575890/stereolab-album",
+        "title": "Stereolab album",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1216757.jpg",
+        "identified_font": null
     }
 ]
