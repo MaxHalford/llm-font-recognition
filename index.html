@@ -25,26 +25,26 @@ body {
                                                                                                                                                                    
 This is a live benchmark of various LLMs&#x27; ability to recognise fonts from                                                                                          
 images. The latter are scraped from <a class="r2" href="https://www.dafont.com/forum/?f=1">dafont.com</a>. Each LLM is asked to identify                                                                                      
-the font used in newly uploaded images. The guesses are compared against the                                                                                       
-actual font once it has been identified by a user. This process ensures there is                                                                                   
-no benchmark contamination.                                                                                                                                        
+the font whenever a new image is uploaded by a user. The guesses are compared                                                                                      
+against the actual font, once it has been identified by someone and confirmed.                                                                                     
+This process guarantees there is no benchmark contamination.                                                                                                       
                                                                                                                                                                    
 The source code for this benchmark is available on <a class="r2" href="https://github.com/MaxHalford/llm-font-recognition">GitHub</a>.                                                                                                         
                                                                                                                                                                    
-Last update made at 2025-06-04T20:02:00                                                                                                                            
+<span class="r3">Last updated at 2025-06-04T20:02:00</span>                                                                                                                                
 
-<span class="r3">Metrics                                                          </span>
+<span class="r4">Metrics                                                          </span>
 ┏━━━━━━━━━━━━━━━━┳━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┳━━━━━━━━━━━━━┓
-┃<span class="r4">     Metric     </span>┃<span class="r4"> gemini-2.5-flash-preview-05-20 </span>┃<span class="r4"> gpt-4o-mini </span>┃
+┃     Metric     ┃ gemini-2.5-flash-preview-05-20 ┃ gpt-4o-mini ┃
 ┡━━━━━━━━━━━━━━━━╇━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━╇━━━━━━━━━━━━━┩
 │<span class="r5"> Top-1 accuracy </span>│             0.00%              │    7.69%    │
 │<span class="r5"> Top-2 accuracy </span>│             0.00%              │    7.69%    │
 │<span class="r5"> Top-3 accuracy </span>│             0.00%              │    7.69%    │
 └────────────────┴────────────────────────────────┴─────────────┘
 
-<span class="r3">Breakdown                                                                                                                                             </span>
+<span class="r4">Breakdown                                                                                                                                             </span>
 ┏━━━━━━━━┳━━━━━━━━━━━━━━━━━━━━━━━━━━━┳━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┳━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┓
-┃<span class="r4">  Task  </span>┃<span class="r4">      Identified font      </span>┃<span class="r4">               gemini-2.5-flash-preview-05-20                </span>┃<span class="r4">                   gpt-4o-mini                   </span>┃
+┃  Task  ┃      Identified font      ┃               gemini-2.5-flash-preview-05-20                ┃                   gpt-4o-mini                   ┃
 ┡━━━━━━━━╇━━━━━━━━━━━━━━━━━━━━━━━━━━━╇━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━╇━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┩
 │<span class="r6"> </span><a class="r6" href="https://www.dafont.com/forum/read/575906/help-me-thank">575906</a><span class="r6"> </span>│        Beth Ellen         │<span class="r7">                        </span><span class="r8">Bombshell Pro</span><span class="r7">                        </span>│<span class="r7">      </span><span class="r8">Pacifico</span><span class="r9">, </span><span class="r8">Dancing Script</span><span class="r9">, </span><span class="r8">Great Vibes</span><span class="r7">      </span>│
 │<span class="r6"> </span><a class="r6" href="https://www.dafont.com/forum/read/575904/logo-font">575904</a><span class="r6"> </span>│    Big City Grotesque     │<span class="r7">                  </span><span class="r8">Mulish</span><span class="r9">, </span><span class="r8">Inter</span><span class="r9">, </span><span class="r8">Work Sans</span><span class="r7">                   </span>│<span class="r7">         </span><span class="r8">Helvetica Neue</span><span class="r9">, </span><span class="r8">Roboto</span><span class="r9">, </span><span class="r8">Avenir</span><span class="r7">          </span>│

@@ -79,12 +79,13 @@ def main():
 
 This is a live benchmark of various LLMs' ability to recognise fonts from images.
 The latter are scraped from [dafont.com](https://www.dafont.com/forum/?f=1). Each LLM is asked to
-identify the font used in newly uploaded images. The guesses are compared against the actual font
-once it has been identified by a user. This process ensures there is no benchmark contamination.
+identify the font whenever a new image is uploaded by a user. The guesses are compared against the
+actual font, once it has been identified by someone and confirmed. This process guarantees there is
+no benchmark contamination.
 
 The source code for this benchmark is available on [GitHub](https://github.com/MaxHalford/llm-font-recognition).
 
-Last update made at {last_scraped_at}
+*Updated at {last_scraped_at}*
 
             """,
                 justify="left",
@@ -97,7 +98,9 @@ Last update made at {last_scraped_at}
 
     # METRICS
 
-    metrics = rich.table.Table(title="Metrics", title_justify="left")
+    metrics = rich.table.Table(
+        title="Metrics", title_justify="left", title_style="bold", header_style=""
+    )
     metrics.add_column("Metric", justify="center", style="magenta", no_wrap=True)
     for model in models:
         metrics.add_column(model, justify="center", no_wrap=True)
@@ -132,7 +135,9 @@ Last update made at {last_scraped_at}
 
     # BREAKDOWN
 
-    breakdown = rich.table.Table(title="Breakdown", title_justify="left")
+    breakdown = rich.table.Table(
+        title="Breakdown", title_justify="left", title_style="bold", header_style=""
+    )
     breakdown.add_column("Task", justify="center", style="cyan", no_wrap=True)
     breakdown.add_column("Identified font", justify="center", no_wrap=True)
     for model in models:
