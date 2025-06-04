@@ -1586,7 +1586,7 @@
         "url": "https://www.dafont.com/forum/read/575937/name-that-font",
         "title": "Name That Font",
         "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1216837.png",
-        "identified_font": null
+        "identified_font": "Trajan 3 Bold"
     },
     {
         "task_id": "575936",
@@ -1628,6 +1628,62 @@
         "url": "https://www.dafont.com/forum/read/575930/font-thx",
         "title": "Font? Thx",
         "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1216829.jpg",
+        "identified_font": null
+    },
+    {
+        "task_id": "575946",
+        "url": "https://www.dafont.com/forum/read/575946/help-me",
+        "title": "Help Me",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1216856.png",
+        "identified_font": null
+    },
+    {
+        "task_id": "575945",
+        "url": "https://www.dafont.com/forum/read/575945/identify-this-font-and-tell-me-what-font-is-ths-pls",
+        "title": "Identify this font and tell me what font is ths pls",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1216853.png",
+        "identified_font": null
+    },
+    {
+        "task_id": "575944",
+        "url": "https://www.dafont.com/forum/read/575944/qual-a-fonte",
+        "title": "Qual a fonte?",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1216851.png",
+        "identified_font": null
+    },
+    {
+        "task_id": "575941",
+        "url": "https://www.dafont.com/forum/read/575941/looking-for-font-id-for-this-classic-70s-tv-show",
+        "title": "Looking for font ID for this classic 70s TV show",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1216847.jpg",
+        "identified_font": null
+    },
+    {
+        "task_id": "575943",
+        "url": "https://www.dafont.com/forum/read/575943/what-font-is-this-clamps-only",
+        "title": "What font is this? (\"CLAMPS\" only)",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1216849.png",
+        "identified_font": null
+    },
+    {
+        "task_id": "575942",
+        "url": "https://www.dafont.com/forum/read/575942/help-me-find-the-font-from-this-cd-back-cover-oklou-debut-album",
+        "title": "help me find the font from this cd back cover - oklou debut album",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1216848.jpg",
+        "identified_font": null
+    },
+    {
+        "task_id": "575939",
+        "url": "https://www.dafont.com/forum/read/575939/looking-for-font",
+        "title": "Looking for font",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1216845.png",
+        "identified_font": null
+    },
+    {
+        "task_id": "575938",
+        "url": "https://www.dafont.com/forum/read/575938/what-the-font",
+        "title": "what the font",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1216844.png",
         "identified_font": null
     }
 ]
