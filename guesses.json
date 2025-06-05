@@ -2875,5 +2875,61 @@
         "candidate_font_1": "Rubik Bold",
         "candidate_font_2": "Ubuntu Bold",
         "candidate_font_3": "Mulish Bold"
+    },
+    {
+        "task_id": "575953",
+        "model_name": "gpt-4o-mini",
+        "candidate_font_1": "Brush Script",
+        "candidate_font_2": "Lobster",
+        "candidate_font_3": "Pacifico"
+    },
+    {
+        "task_id": "575953",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Hot Stuff!",
+        "candidate_font_2": "Architects Daughter",
+        "candidate_font_3": "Handlee"
+    },
+    {
+        "task_id": "575952",
+        "model_name": "gpt-4o-mini",
+        "candidate_font_1": "Blackletter",
+        "candidate_font_2": "Old English Text MT",
+        "candidate_font_3": "Fraktur"
+    },
+    {
+        "task_id": "575952",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Old English Text MT",
+        "candidate_font_2": "Cloister Black",
+        "candidate_font_3": "Chomsky"
+    },
+    {
+        "task_id": "575951",
+        "model_name": "gpt-4o-mini",
+        "candidate_font_1": "Bebas Neue",
+        "candidate_font_2": "Montserrat",
+        "candidate_font_3": "Nexa Bold"
+    },
+    {
+        "task_id": "575951",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Augusta Regular",
+        "candidate_font_2": "Just Me Again Down Here",
+        "candidate_font_3": "Montserrat Bold"
+    },
+    {
+        "task_id": "575950",
+        "model_name": "gpt-4o-mini",
+        "candidate_font_1": "Art Deco",
+        "candidate_font_2": "Futura",
+        "candidate_font_3": "Cloister Black"
+    },
+    {
+        "task_id": "575950",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Koloss",
+        "candidate_font_2": "Arnold Boecklin",
+        "candidate_font_3": "LHF Connemara"
     }
 ]
