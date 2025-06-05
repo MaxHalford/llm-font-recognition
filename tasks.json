@@ -1685,5 +1685,26 @@
         "title": "what the font",
         "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1216844.png",
         "identified_font": "Gotham"
+    },
+    {
+        "task_id": "575949",
+        "url": "https://www.dafont.com/forum/read/575949/help-identifying-font",
+        "title": "Help identifying font",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1216865.png",
+        "identified_font": null
+    },
+    {
+        "task_id": "575948",
+        "url": "https://www.dafont.com/forum/read/575948/help-font-please",
+        "title": "HELP!!!!! FONT PLEASE",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1216864.jpg",
+        "identified_font": null
+    },
+    {
+        "task_id": "575947",
+        "url": "https://www.dafont.com/forum/read/575947/gerente",
+        "title": "Gerente",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1216863.jpg",
+        "identified_font": null
     }
 ]
