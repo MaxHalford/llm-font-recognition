@@ -1726,13 +1726,41 @@
         "url": "https://www.dafont.com/forum/read/575951/font-by-shadowbyyoongi",
         "title": "FONT BY SHADOWBYYOONGI",
         "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1216877.jpg",
-        "identified_font": null
+        "identified_font": "Vintage Fashion"
     },
     {
         "task_id": "575950",
         "url": "https://www.dafont.com/forum/read/575950/tipografia",
         "title": "TIPOGRAFIA",
         "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1216876.png",
+        "identified_font": null
+    },
+    {
+        "task_id": "575957",
+        "url": "https://www.dafont.com/forum/read/575957/tittle-font-name-bad-desire-pls",
+        "title": "tittle font name \"BAD DESIRE\" pls",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1216891.jpg",
+        "identified_font": null
+    },
+    {
+        "task_id": "575955",
+        "url": "https://www.dafont.com/forum/read/575955/sabrina-carpenter-sc-logo",
+        "title": "Sabrina Carpenter \"SC\" logo",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1216885.png",
+        "identified_font": null
+    },
+    {
+        "task_id": "575956",
+        "url": "https://www.dafont.com/forum/read/575956/which-this-font-please",
+        "title": "Which this font, please?",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1216889.jpg",
+        "identified_font": null
+    },
+    {
+        "task_id": "575954",
+        "url": "https://www.dafont.com/forum/read/575954/manchild-font",
+        "title": "MANCHILD FONT",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1216881.jpg",
         "identified_font": null
     }
 ]
