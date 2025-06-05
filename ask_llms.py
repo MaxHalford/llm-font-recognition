@@ -1,6 +1,7 @@
 # /// script
 # requires-python = ">=3.13"
 # dependencies = [
+#     "dotenv",
 #     "llm",
 #     "llm-anthropic",
 #     "llm-gemini",
@@ -14,8 +15,13 @@ import json
 import logging
 import time
 
+import dotenv
 import llm
 import pydantic
+
+
+# Load environment variables from .env file
+dotenv.load_dotenv()
 
 
 @dataclasses.dataclass
@@ -99,7 +105,7 @@ def main():
     models = [
         "gpt-4o-mini",
         "gemini-2.5-flash-preview-05-20",
-        "claude-4-sonnet",
+        "claude-3.5-sonnet",
         # "mistral-large",  # doesn't support attachments
     ]
 

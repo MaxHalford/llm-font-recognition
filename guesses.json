@@ -2931,5 +2931,12 @@
         "candidate_font_1": "Koloss",
         "candidate_font_2": "Arnold Boecklin",
         "candidate_font_3": "LHF Connemara"
+    },
+    {
+        "task_id": "575739",
+        "model_name": "claude-3.5-sonnet",
+        "candidate_font_1": "SF Chrome Gothic",
+        "candidate_font_2": "Aachen Bold",
+        "candidate_font_3": "Trade Gothic Black Extended"
     }
 ]
