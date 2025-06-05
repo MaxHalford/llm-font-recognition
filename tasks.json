@@ -221,7 +221,7 @@
         "url": "https://www.dafont.com/forum/read/575750/quelle-est-cette-police-merci",
         "title": "Quelle est cette police ? Merci !",
         "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1216532.png",
-        "identified_font": null
+        "identified_font": "Lemonade & Sweet Tea"
     },
     {
         "task_id": "575673",
@@ -2090,14 +2090,14 @@
         "url": "https://www.dafont.com/forum/read/576001/font-by-chaereve",
         "title": "FONT BY CHAEREVE",
         "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1216981.png",
-        "identified_font": null
+        "identified_font": "Benomout"
     },
     {
         "task_id": "575999",
         "url": "https://www.dafont.com/forum/read/575999/font-by-shadowbyyoongi",
         "title": "FONT BY SHADOWBYYOONGI",
         "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1216979.jpg",
-        "identified_font": null
+        "identified_font": "Dirty Queen"
     },
     {
         "task_id": "575997",
@@ -2111,7 +2111,7 @@
         "url": "https://www.dafont.com/forum/read/575996/font-by-shadowbyyoongi",
         "title": "FONT BY SHADOWBYYOONGI",
         "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1216976.jpg",
-        "identified_font": null
+        "identified_font": "Shift Pro"
     },
     {
         "task_id": "575990",
@@ -2126,5 +2126,61 @@
         "title": "FONT FIND",
         "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1216964.jpg",
         "identified_font": "Intro"
+    },
+    {
+        "task_id": "545902",
+        "url": "https://www.dafont.com/forum/read/545902/airbag-font",
+        "title": "airbag Font??",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/1/1154245.png?1",
+        "identified_font": null
+    },
+    {
+        "task_id": "576012",
+        "url": "https://www.dafont.com/forum/read/576012/what-font-is-this",
+        "title": "what font is this?",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1217003.png",
+        "identified_font": "Larken"
+    },
+    {
+        "task_id": "576018",
+        "url": "https://www.dafont.com/forum/read/576018/font",
+        "title": "Font?",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1217015.png",
+        "identified_font": null
+    },
+    {
+        "task_id": "576017",
+        "url": "https://www.dafont.com/forum/read/576017/what-font-is-son-palabras-en-ingles",
+        "title": "What font is \u0093Son palabras en ingl\u00e9s\u0094?",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1217013.jpg",
+        "identified_font": null
+    },
+    {
+        "task_id": "576016",
+        "url": "https://www.dafont.com/forum/read/576016/what-font-is-sabrina-carpenter",
+        "title": "What font is \"Sabrina Carpenter\"?",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1217012.png",
+        "identified_font": null
+    },
+    {
+        "task_id": "576015",
+        "url": "https://www.dafont.com/forum/read/576015/lucky-penny-shop-identify-please",
+        "title": "\u0093Lucky Penny Shop\u0094 Identify please.",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1217011.jpg",
+        "identified_font": null
+    },
+    {
+        "task_id": "576013",
+        "url": "https://www.dafont.com/forum/read/576013/qual-a-fonte",
+        "title": "Qual a fonte?",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1217004.jpg",
+        "identified_font": null
+    },
+    {
+        "task_id": "576011",
+        "url": "https://www.dafont.com/forum/read/576011/ana-castela",
+        "title": "ANA CASTELA",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1217002.jpg",
+        "identified_font": null
     }
 ]
