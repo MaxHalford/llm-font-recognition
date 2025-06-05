@@ -1208,7 +1208,7 @@
         "url": "https://www.dafont.com/forum/read/575869/font-id",
         "title": "font ID",
         "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1216718.png",
-        "identified_font": null
+        "identified_font": "RBNo3.1"
     },
     {
         "task_id": "575864",
@@ -1705,6 +1705,34 @@
         "url": "https://www.dafont.com/forum/read/575947/gerente",
         "title": "Gerente",
         "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1216863.jpg",
+        "identified_font": null
+    },
+    {
+        "task_id": "575953",
+        "url": "https://www.dafont.com/forum/read/575953/whats-the-font-hot-stuff",
+        "title": "whats the font \"Hot Stuff\"",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1216879.jpg",
+        "identified_font": null
+    },
+    {
+        "task_id": "575952",
+        "url": "https://www.dafont.com/forum/read/575952/drty-work",
+        "title": "Drty work",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1216878.jpg",
+        "identified_font": null
+    },
+    {
+        "task_id": "575951",
+        "url": "https://www.dafont.com/forum/read/575951/font-by-shadowbyyoongi",
+        "title": "FONT BY SHADOWBYYOONGI",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1216877.jpg",
+        "identified_font": null
+    },
+    {
+        "task_id": "575950",
+        "url": "https://www.dafont.com/forum/read/575950/tipografia",
+        "title": "TIPOGRAFIA",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1216876.png",
         "identified_font": null
     }
 ]
