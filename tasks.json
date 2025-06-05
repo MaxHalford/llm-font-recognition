@@ -1641,8 +1641,8 @@
         "task_id": "575945",
         "url": "https://www.dafont.com/forum/read/575945/identify-this-font-and-tell-me-what-font-is-ths-pls",
         "title": "Identify this font and tell me what font is ths pls",
-        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1216853.png",
-        "identified_font": null
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1216853.png?1",
+        "identified_font": "Krinah"
     },
     {
         "task_id": "575944",
@@ -1929,7 +1929,7 @@
         "url": "https://www.dafont.com/forum/read/575967/je-cherche-cette-police-dans-le-style-rock-punk",
         "title": "Je cherche cette police dans le style rock/punk",
         "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1216918.png",
-        "identified_font": null
+        "identified_font": "Rocks G"
     },
     {
         "task_id": "575966",
@@ -1950,6 +1950,62 @@
         "url": "https://www.dafont.com/forum/read/575965/hi-guys-help-me-what-this-font-please",
         "title": "Hi guys...Help me! What this font? Please",
         "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1216912.jpg",
+        "identified_font": null
+    },
+    {
+        "task_id": "575988",
+        "url": "https://www.dafont.com/forum/read/575988/gta-the-trilogy-font",
+        "title": "GTA The Trilogy Font???",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1216963.png",
+        "identified_font": null
+    },
+    {
+        "task_id": "12402",
+        "url": "https://www.dafont.com/forum/read/12402/refresh-carpet-cleaning-font",
+        "title": "Refresh Carpet Cleaning Font",
+        "img_url": "https://www.dafont.com/forum/attach/orig/3/4/34177.jpg",
+        "identified_font": "Neutra Text Bold"
+    },
+    {
+        "task_id": "575984",
+        "url": "https://www.dafont.com/forum/read/575984/plss-find-this-font",
+        "title": "Plss find this font",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1216951.jpg",
+        "identified_font": null
+    },
+    {
+        "task_id": "575986",
+        "url": "https://www.dafont.com/forum/read/575986/please-help-id",
+        "title": "Please Help ID",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1216955.png",
+        "identified_font": "Caveat"
+    },
+    {
+        "task_id": "575987",
+        "url": "https://www.dafont.com/forum/read/575987/what-is-this-font",
+        "title": "What is this font?",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1216956.png",
+        "identified_font": null
+    },
+    {
+        "task_id": "575985",
+        "url": "https://www.dafont.com/forum/read/575985/what-is-the-font",
+        "title": "What is the font??",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1216954.png",
+        "identified_font": null
+    },
+    {
+        "task_id": "575983",
+        "url": "https://www.dafont.com/forum/read/575983/identify-this-font-and-tell-me-what-font-is-this-ill-be-very-greatful",
+        "title": "Identify this font and tell me what font is this ill be very greatful",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1216949.png",
+        "identified_font": null
+    },
+    {
+        "task_id": "575982",
+        "url": "https://www.dafont.com/forum/read/575982/please-tell-me-this-is-a-font-and-not-pure-handwritten-c-c",
+        "title": "Please, tell me this is a font and not pure handwritten. \u00e7_\u00e7",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1216946.png",
         "identified_font": null
     }
 ]
