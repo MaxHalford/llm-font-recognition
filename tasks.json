@@ -368,7 +368,7 @@
         "url": "https://www.dafont.com/forum/read/575742/i-would-like-to-know-whats-this-font-pleaseeee",
         "title": "I would like to know whats this font pleaseeee",
         "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1216507.jpg",
-        "identified_font": null
+        "identified_font": "Arial"
     },
     {
         "task_id": "575741",
@@ -1761,6 +1761,83 @@
         "url": "https://www.dafont.com/forum/read/575954/manchild-font",
         "title": "MANCHILD FONT",
         "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1216881.jpg",
+        "identified_font": null
+    },
+    {
+        "task_id": "575963",
+        "url": "https://www.dafont.com/forum/read/575963/font-for-ugh",
+        "title": "Font For Ugh?",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1216906.png",
+        "identified_font": null
+    },
+    {
+        "task_id": "575962",
+        "url": "https://www.dafont.com/forum/read/575962/dare-to-dream",
+        "title": "Dare to Dream",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1216905.png",
+        "identified_font": null
+    },
+    {
+        "task_id": "575960",
+        "url": "https://www.dafont.com/forum/read/575960/che-font-e",
+        "title": "Che font \u00e8?",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1216903.png",
+        "identified_font": null
+    },
+    {
+        "task_id": "562676",
+        "url": "https://www.dafont.com/forum/read/562676/wonderman",
+        "title": "Wonderman",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/1/1190125.png?1",
+        "identified_font": null
+    },
+    {
+        "task_id": "562675",
+        "url": "https://www.dafont.com/forum/read/562675/eyes-of-wakanda",
+        "title": "Eyes Of WAkanda",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/1/1190124.jpg",
+        "identified_font": null
+    },
+    {
+        "task_id": "551833",
+        "url": "https://www.dafont.com/forum/read/551833/iron-heart-new-logo",
+        "title": "iron heart new logo",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/1/1167276.jpg",
+        "identified_font": null
+    },
+    {
+        "task_id": "551832",
+        "url": "https://www.dafont.com/forum/read/551832/the-last-dance",
+        "title": "The Last DAnce",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/1/1167273.png?1",
+        "identified_font": null
+    },
+    {
+        "task_id": "551831",
+        "url": "https://www.dafont.com/forum/read/551831/daredevil-born-again-new-logo",
+        "title": "Daredevil born again new logo",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/1/1167272.jpg",
+        "identified_font": null
+    },
+    {
+        "task_id": "539560",
+        "url": "https://www.dafont.com/forum/read/539560/madame-web-new-logo",
+        "title": "Madame Web New Logo",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/1/1140588.jpg",
+        "identified_font": null
+    },
+    {
+        "task_id": "538687",
+        "url": "https://www.dafont.com/forum/read/538687/marvel-studios-echo-new-logo",
+        "title": "Marvel Studios ECHO New Logo",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/1/1138739.jpg",
+        "identified_font": null
+    },
+    {
+        "task_id": "575959",
+        "url": "https://www.dafont.com/forum/read/575959/what-the-font",
+        "title": "What the font??",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1216894.png",
         "identified_font": null
     }
 ]
