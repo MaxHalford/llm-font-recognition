@@ -2833,5 +2833,47 @@
         "candidate_font_1": "Battallion",
         "candidate_font_2": "Big Noodle Titling",
         "candidate_font_3": "Blackside"
+    },
+    {
+        "task_id": "575949",
+        "model_name": "gpt-4o-mini",
+        "candidate_font_1": "Helvetica Neue",
+        "candidate_font_2": "Arial",
+        "candidate_font_3": "Roboto"
+    },
+    {
+        "task_id": "575949",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Gotham Rounded",
+        "candidate_font_2": "Quicksand",
+        "candidate_font_3": "Sofia Pro"
+    },
+    {
+        "task_id": "575948",
+        "model_name": "gpt-4o-mini",
+        "candidate_font_1": "Futura Bold",
+        "candidate_font_2": "Montserrat Extra Bold",
+        "candidate_font_3": "Roboto Bold"
+    },
+    {
+        "task_id": "575948",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "DIN Next LT Pro Black Condensed",
+        "candidate_font_2": "Oswald Bold",
+        "candidate_font_3": "Bebas Neue Bold"
+    },
+    {
+        "task_id": "575947",
+        "model_name": "gpt-4o-mini",
+        "candidate_font_1": "Montserrat",
+        "candidate_font_2": "Roboto",
+        "candidate_font_3": "Bebas Neue"
+    },
+    {
+        "task_id": "575947",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Rubik Bold",
+        "candidate_font_2": "Ubuntu Bold",
+        "candidate_font_3": "Mulish Bold"
     }
 ]
