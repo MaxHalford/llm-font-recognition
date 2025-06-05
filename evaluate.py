@@ -80,8 +80,8 @@ def main():
 This is a live benchmark of various LLMs' ability to recognise fonts from images.
 The latter are scraped from [dafont.com](https://www.dafont.com/forum/?f=1). Each LLM is asked to
 identify the font whenever a new image is uploaded by a user. The guesses are compared against the
-actual font, once it has been identified by someone and confirmed. This process guarantees there is
-no benchmark contamination.
+actual font, once it has been identified by someone and confirmed. This process avoids benchmark
+contamination.
 
 The source code for this benchmark is available on [GitHub](https://github.com/MaxHalford/llm-font-recognition).
 
