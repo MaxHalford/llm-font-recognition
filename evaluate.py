@@ -75,7 +75,7 @@ def main():
         rich.align.Align(
             rich.markdown.Markdown(
                 f"""
-## Can LLMs recognise fonts?
+## Do LLMs recognise fonts?
 
 This is a live benchmark of various LLMs' ability to recognise fonts from images.
 The latter are scraped from [dafont.com](https://www.dafont.com/forum/?f=1). Each LLM is asked to
