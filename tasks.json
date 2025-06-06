@@ -2341,7 +2341,7 @@
         "task_id": "576041",
         "url": "https://www.dafont.com/forum/read/576041/custom-nights-font",
         "title": "Custom nights font?",
-        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1217072.jpg",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1217072.png?1",
         "identified_font": null
     },
     {
@@ -2364,5 +2364,54 @@
         "title": "Band logo from YouTube video about a big scam in metal",
         "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1217064.png?1",
         "identified_font": "Bleeding Cowboys"
+    },
+    {
+        "task_id": "576049",
+        "url": "https://www.dafont.com/forum/read/576049/futw-font-pls",
+        "title": "futw font pls",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1217088.jpg",
+        "identified_font": null
+    },
+    {
+        "task_id": "552144",
+        "url": "https://www.dafont.com/forum/read/552144/whats-font",
+        "title": "whats font????",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/1/1167906.jpg",
+        "identified_font": null
+    },
+    {
+        "task_id": "576050",
+        "url": "https://www.dafont.com/forum/read/576050/identify-this-font-plss",
+        "title": "Identify this font PLSS",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1217089.png",
+        "identified_font": null
+    },
+    {
+        "task_id": "576048",
+        "url": "https://www.dafont.com/forum/read/576048/font-help-please",
+        "title": "Font Help Please",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1217087.png",
+        "identified_font": null
+    },
+    {
+        "task_id": "576047",
+        "url": "https://www.dafont.com/forum/read/576047/nick-racers-revolution-3d-logo",
+        "title": "Nick Racers Revolution 3D logo",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1217086.png",
+        "identified_font": null
+    },
+    {
+        "task_id": "536558",
+        "url": "https://www.dafont.com/forum/read/536558/nick-dvd-2004-font",
+        "title": "Nick DVD 2004 font",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/1/1134261.png",
+        "identified_font": "Continuum"
+    },
+    {
+        "task_id": "576046",
+        "url": "https://www.dafont.com/forum/read/576046/which-this-font-please",
+        "title": "Which this font, please?",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1217084.png",
+        "identified_font": null
     }
 ]
