@@ -4002,5 +4002,89 @@
         "candidate_font_1": "Arcade Classic",
         "candidate_font_2": "Pixel-Emulator",
         "candidate_font_3": "8-Bit Operator"
+    },
+    {
+        "task_id": "576049",
+        "model_name": "gpt-4o-mini",
+        "candidate_font_1": "Bebas Neue",
+        "candidate_font_2": "Impact",
+        "candidate_font_3": "Anton"
+    },
+    {
+        "task_id": "576049",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Gobold Extra Bold",
+        "candidate_font_2": "Alfa Slab One",
+        "candidate_font_3": "Avengeance Heroic"
+    },
+    {
+        "task_id": "552144",
+        "model_name": "gpt-4o-mini",
+        "candidate_font_1": "Edwardian Script ITC",
+        "candidate_font_2": "Bodoni",
+        "candidate_font_3": "Great Vibes"
+    },
+    {
+        "task_id": "552144",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Open Sans",
+        "candidate_font_2": "Bickham Script Pro",
+        "candidate_font_3": "Source Sans Pro"
+    },
+    {
+        "task_id": "576050",
+        "model_name": "gpt-4o-mini",
+        "candidate_font_1": "Creepster",
+        "candidate_font_2": "Ghoulish",
+        "candidate_font_3": "Zombie"
+    },
+    {
+        "task_id": "576050",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Dead Saloon",
+        "candidate_font_2": "Spiked Punch",
+        "candidate_font_3": "Pecos Valley"
+    },
+    {
+        "task_id": "576048",
+        "model_name": "gpt-4o-mini",
+        "candidate_font_1": "Impact",
+        "candidate_font_2": "Bebas Neue",
+        "candidate_font_3": "Anton"
+    },
+    {
+        "task_id": "576048",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "United Sans Heavy Ext",
+        "candidate_font_2": "SF Collegiate Solid",
+        "candidate_font_3": "Freshman"
+    },
+    {
+        "task_id": "576047",
+        "model_name": "gpt-4o-mini",
+        "candidate_font_1": "Impact",
+        "candidate_font_2": "Bebas Neue",
+        "candidate_font_3": "ChunkFive"
+    },
+    {
+        "task_id": "576047",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Pricedown",
+        "candidate_font_2": "Agency FB",
+        "candidate_font_3": "Bank Gothic"
+    },
+    {
+        "task_id": "576046",
+        "model_name": "gpt-4o-mini",
+        "candidate_font_1": "Great Vibes",
+        "candidate_font_2": "Dancing Script",
+        "candidate_font_3": "Pacifico"
+    },
+    {
+        "task_id": "576046",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Aphrodite Slim Pro",
+        "candidate_font_2": "Carolyna Pro Black",
+        "candidate_font_3": "Bickham Script Pro"
     }
 ]
