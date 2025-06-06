@@ -1992,7 +1992,7 @@
         "url": "https://www.dafont.com/forum/read/575985/what-is-the-font",
         "title": "What is the font??",
         "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1216954.png",
-        "identified_font": null
+        "identified_font": "Transforma Script"
     },
     {
         "task_id": "575983",
@@ -2174,13 +2174,76 @@
         "url": "https://www.dafont.com/forum/read/576013/qual-a-fonte",
         "title": "Qual a fonte?",
         "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1217004.jpg",
-        "identified_font": null
+        "identified_font": "Comic Sans"
     },
     {
         "task_id": "576011",
         "url": "https://www.dafont.com/forum/read/576011/ana-castela",
         "title": "ANA CASTELA",
         "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1217002.jpg",
+        "identified_font": null
+    },
+    {
+        "task_id": "576026",
+        "url": "https://www.dafont.com/forum/read/576026/hotel-new-york",
+        "title": "\"Hotel New York\"",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1217036.png",
+        "identified_font": null
+    },
+    {
+        "task_id": "576024",
+        "url": "https://www.dafont.com/forum/read/576024/what-font",
+        "title": "What font",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1217033.jpg",
+        "identified_font": "Albertho"
+    },
+    {
+        "task_id": "576025",
+        "url": "https://www.dafont.com/forum/read/576025/tipografia-de-numero",
+        "title": "Tipografia de Numero",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1217034.png",
+        "identified_font": null
+    },
+    {
+        "task_id": "576023",
+        "url": "https://www.dafont.com/forum/read/576023/my-client-likes-this-font-name",
+        "title": "My Client Likes This Font...Name?",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1217032.png",
+        "identified_font": null
+    },
+    {
+        "task_id": "528770",
+        "url": "https://www.dafont.com/forum/read/528770/seventeen-super-font",
+        "title": "Seventeen Super font",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/1/1118056.png?1",
+        "identified_font": null
+    },
+    {
+        "task_id": "428993",
+        "url": "https://www.dafont.com/forum/read/428993/fantasia-font",
+        "title": "Fantasia Font",
+        "img_url": "https://www.dafont.com/forum/attach/orig/9/2/920447.png",
+        "identified_font": null
+    },
+    {
+        "task_id": "576019",
+        "url": "https://www.dafont.com/forum/read/576019/fuente",
+        "title": "Fuente?",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1217019.png",
+        "identified_font": "Diner-Fatt"
+    },
+    {
+        "task_id": "576022",
+        "url": "https://www.dafont.com/forum/read/576022/fonte",
+        "title": "Fonte",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1217026.jpg",
+        "identified_font": null
+    },
+    {
+        "task_id": "576020",
+        "url": "https://www.dafont.com/forum/read/576020/boiadeirinha",
+        "title": "Boiadeirinha",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1217024.jpg",
         "identified_font": null
     }
 ]
