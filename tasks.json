@@ -2416,9 +2416,44 @@
     },
     {
         "task_id": "576051",
-        "url": "https://www.dafont.com/forum/read/576051/fonte-urgenteeeeeeeeeeeeeeeeeeeeeeeeeeeeee",
-        "title": "Fonte URGENTEEEEEEEEEEEEEEEEEEEEEEEEEEEEEE...!!!",
+        "url": "https://www.dafont.com/forum/read/576051/pra-sempre",
+        "title": "PRA SEMPRE",
         "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1217097.jpg",
+        "identified_font": "Retrolight"
+    },
+    {
+        "task_id": "576054",
+        "url": "https://www.dafont.com/forum/read/576054/what-is-the-font-tks",
+        "title": "what is the font? Tks:)",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1217117.jpg",
+        "identified_font": "Great Vibes"
+    },
+    {
+        "task_id": "576055",
+        "url": "https://www.dafont.com/forum/read/576055/welche-font",
+        "title": "Welche Font?",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1217119.png",
+        "identified_font": null
+    },
+    {
+        "task_id": "576052",
+        "url": "https://www.dafont.com/forum/read/576052/menu-text",
+        "title": "Menu text",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1217100.jpg",
+        "identified_font": null
+    },
+    {
+        "task_id": "560830",
+        "url": "https://www.dafont.com/forum/read/560830/vote-font-please",
+        "title": "\u0093Vote\u0094 font, please.",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/1/1186165.jpg",
+        "identified_font": null
+    },
+    {
+        "task_id": "576053",
+        "url": "https://www.dafont.com/forum/read/576053/nouvelle-police",
+        "title": "Nouvelle police",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1217102.jpg",
         "identified_font": null
     }
 ]
