@@ -4086,5 +4086,19 @@
         "candidate_font_1": "Aphrodite Slim Pro",
         "candidate_font_2": "Carolyna Pro Black",
         "candidate_font_3": "Bickham Script Pro"
+    },
+    {
+        "task_id": "576051",
+        "model_name": "gpt-4o-mini",
+        "candidate_font_1": "Neon Tubes",
+        "candidate_font_2": "Bebas Neue",
+        "candidate_font_3": "Montserrat"
+    },
+    {
+        "task_id": "576051",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Chalet Comprime Cologne",
+        "candidate_font_2": "Intro",
+        "candidate_font_3": "Rubik"
     }
 ]
