@@ -1418,7 +1418,7 @@
         "url": "https://www.dafont.com/forum/read/575909/font-please",
         "title": "Font, please. &#128591;&#127995;",
         "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1216791.jpg?1",
-        "identified_font": null
+        "identified_font": "Analogist"
     },
     {
         "task_id": "575907",
@@ -2187,7 +2187,7 @@
         "task_id": "576026",
         "url": "https://www.dafont.com/forum/read/576026/hotel-new-york",
         "title": "\"Hotel New York\"",
-        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1217036.png",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1217036.png?1",
         "identified_font": null
     },
     {
@@ -2244,6 +2244,76 @@
         "url": "https://www.dafont.com/forum/read/576020/boiadeirinha",
         "title": "Boiadeirinha",
         "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1217024.jpg",
+        "identified_font": null
+    },
+    {
+        "task_id": "565527",
+        "url": "https://www.dafont.com/forum/read/565527/3x-font-please",
+        "title": "\u00933X\u0094 Font, please.",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/1/1196161.png?2",
+        "identified_font": null
+    },
+    {
+        "task_id": "569491",
+        "url": "https://www.dafont.com/forum/read/569491/taylor-swift-font-please",
+        "title": "\u0093taylor swift\u0094 font, please.",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1204094.jpg",
+        "identified_font": null
+    },
+    {
+        "task_id": "576036",
+        "url": "https://www.dafont.com/forum/read/576036/what-the-font",
+        "title": "what the font",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1217057.png?1",
+        "identified_font": null
+    },
+    {
+        "task_id": "576035",
+        "url": "https://www.dafont.com/forum/read/576035/looking-for-font-for-the-numbers",
+        "title": "looking for font for the numbers",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1217055.png",
+        "identified_font": null
+    },
+    {
+        "task_id": "576034",
+        "url": "https://www.dafont.com/forum/read/576034/font-pair-maybe",
+        "title": "font pair maybe?",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1217054.jpg",
+        "identified_font": null
+    },
+    {
+        "task_id": "576033",
+        "url": "https://www.dafont.com/forum/read/576033/tipo-de-letra",
+        "title": "TIPO DE LETRA",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1217053.jpg",
+        "identified_font": null
+    },
+    {
+        "task_id": "576031",
+        "url": "https://www.dafont.com/forum/read/576031/need-help",
+        "title": "NEED HELP",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1217045.png?1",
+        "identified_font": "Knewave"
+    },
+    {
+        "task_id": "576028",
+        "url": "https://www.dafont.com/forum/read/576028/font",
+        "title": "Font?",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1217038.jpg",
+        "identified_font": "A Api Nyala"
+    },
+    {
+        "task_id": "576030",
+        "url": "https://www.dafont.com/forum/read/576030/the-usual-suspects-title-credits-font",
+        "title": "'The Usual Suspects' title credits font?",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1217040.jpg",
+        "identified_font": null
+    },
+    {
+        "task_id": "576027",
+        "url": "https://www.dafont.com/forum/read/576027/identificar-fuente",
+        "title": "IDENTIFICAR FUENTE",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1217037.png",
         "identified_font": null
     }
 ]
