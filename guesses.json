@@ -4254,5 +4254,131 @@
         "candidate_font_1": "Montserrat Black",
         "candidate_font_2": "Inter Black",
         "candidate_font_3": "Archivo Black"
+    },
+    {
+        "task_id": "8566",
+        "model_name": "gpt-4o-mini",
+        "candidate_font_1": "Funky",
+        "candidate_font_2": "Bubblegum Sans",
+        "candidate_font_3": "Comic Sans MS"
+    },
+    {
+        "task_id": "8566",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Pincoya Black",
+        "candidate_font_2": "Schoolbell",
+        "candidate_font_3": "Kalam"
+    },
+    {
+        "task_id": "576077",
+        "model_name": "gpt-4o-mini",
+        "candidate_font_1": "Serif font similar to Garamond",
+        "candidate_font_2": "Bodoni",
+        "candidate_font_3": "Georgia"
+    },
+    {
+        "task_id": "576077",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Trajan Pro",
+        "candidate_font_2": "Augustea",
+        "candidate_font_3": "Hadriano"
+    },
+    {
+        "task_id": "576074",
+        "model_name": "gpt-4o-mini",
+        "candidate_font_1": "Pacifico",
+        "candidate_font_2": "Lobster",
+        "candidate_font_3": "Brush Script"
+    },
+    {
+        "task_id": "576074",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Keep on Truckin' JF",
+        "candidate_font_2": "Lovadelic",
+        "candidate_font_3": "Recia"
+    },
+    {
+        "task_id": "576073",
+        "model_name": "gpt-4o-mini",
+        "candidate_font_1": "Montserrat",
+        "candidate_font_2": "Poppins",
+        "candidate_font_3": "Arial Rounded"
+    },
+    {
+        "task_id": "576073",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Gotham Black Italic",
+        "candidate_font_2": "Montserrat Black Italic",
+        "candidate_font_3": "Proxima Nova Black Italic"
+    },
+    {
+        "task_id": "576071",
+        "model_name": "gpt-4o-mini",
+        "candidate_font_1": "Bickham Script Pro",
+        "candidate_font_2": "Alex Brush",
+        "candidate_font_3": "Great Vibes"
+    },
+    {
+        "task_id": "576071",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Lavanderia Regular",
+        "candidate_font_2": "Pinyon Script",
+        "candidate_font_3": "Alex Brush"
+    },
+    {
+        "task_id": "576072",
+        "model_name": "gpt-4o-mini",
+        "candidate_font_1": "Impact",
+        "candidate_font_2": "Roboto Condensed",
+        "candidate_font_3": "Bebas Neue"
+    },
+    {
+        "task_id": "576072",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Octin Sports Free Bold Italic",
+        "candidate_font_2": "Trebuchet MS Italic",
+        "candidate_font_3": "Agency FB Bold Italic"
+    },
+    {
+        "task_id": "576069",
+        "model_name": "gpt-4o-mini",
+        "candidate_font_1": "Lobster",
+        "candidate_font_2": "Pacifico",
+        "candidate_font_3": "Dancing Script"
+    },
+    {
+        "task_id": "576069",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Great Vibes",
+        "candidate_font_2": "Alex Brush",
+        "candidate_font_3": "Allura"
+    },
+    {
+        "task_id": "576068",
+        "model_name": "gpt-4o-mini",
+        "candidate_font_1": "Bubblegum Sans",
+        "candidate_font_2": "Merienda",
+        "candidate_font_3": "Pacifico"
+    },
+    {
+        "task_id": "576068",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Hominis",
+        "candidate_font_2": "Badaboom BB",
+        "candidate_font_3": "Keep on Truckin'"
+    },
+    {
+        "task_id": "576065",
+        "model_name": "gpt-4o-mini",
+        "candidate_font_1": "Great Vibes",
+        "candidate_font_2": "Dancing Script",
+        "candidate_font_3": "Allura"
+    },
+    {
+        "task_id": "576065",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Monotype Corsiva Italic",
+        "candidate_font_2": "Palace Script MT",
+        "candidate_font_3": "Adelle Script"
     }
 ]
