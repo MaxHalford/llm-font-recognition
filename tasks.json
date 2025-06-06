@@ -2152,8 +2152,8 @@
         "task_id": "576017",
         "url": "https://www.dafont.com/forum/read/576017/what-font-is-son-palabras-en-ingles",
         "title": "What font is \u0093Son palabras en ingl\u00e9s\u0094?",
-        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1217013.jpg",
-        "identified_font": null
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1217013.png?1",
+        "identified_font": "Labil Grotesk"
     },
     {
         "task_id": "576016",
@@ -2258,7 +2258,7 @@
         "url": "https://www.dafont.com/forum/read/569491/taylor-swift-font-please",
         "title": "\u0093taylor swift\u0094 font, please.",
         "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1204094.jpg",
-        "identified_font": null
+        "identified_font": "Collection"
     },
     {
         "task_id": "576036",
@@ -2315,5 +2315,54 @@
         "title": "IDENTIFICAR FUENTE",
         "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1217037.png",
         "identified_font": null
+    },
+    {
+        "task_id": "576043",
+        "url": "https://www.dafont.com/forum/read/576043/which-this-font-please",
+        "title": "Which this font, please?",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1217079.png",
+        "identified_font": null
+    },
+    {
+        "task_id": "573407",
+        "url": "https://www.dafont.com/forum/read/573407/addison-rae-new-album",
+        "title": "Addison rae new album",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1211801.png",
+        "identified_font": null
+    },
+    {
+        "task_id": "576042",
+        "url": "https://www.dafont.com/forum/read/576042/vecino-font",
+        "title": "Vecino font??",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1217073.jpg",
+        "identified_font": null
+    },
+    {
+        "task_id": "576041",
+        "url": "https://www.dafont.com/forum/read/576041/custom-nights-font",
+        "title": "Custom nights font?",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1217072.jpg",
+        "identified_font": null
+    },
+    {
+        "task_id": "576040",
+        "url": "https://www.dafont.com/forum/read/576040/que-son-estos-animatronicos-font",
+        "title": "Que son estos animatronicos font??",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1217071.jpg",
+        "identified_font": null
+    },
+    {
+        "task_id": "576039",
+        "url": "https://www.dafont.com/forum/read/576039/font",
+        "title": "Font ?",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1217067.png?1",
+        "identified_font": null
+    },
+    {
+        "task_id": "576038",
+        "url": "https://www.dafont.com/forum/read/576038/band-logo-from-youtube-video-about-a-big-scam-in-metal",
+        "title": "Band logo from YouTube video about a big scam in metal",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1217064.png?1",
+        "identified_font": "Bleeding Cowboys"
     }
 ]
