@@ -1718,7 +1718,7 @@
         "task_id": "575952",
         "url": "https://www.dafont.com/forum/read/575952/drty-work",
         "title": "Drty work",
-        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1216878.jpg",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1216878.jpg?1",
         "identified_font": null
     },
     {
@@ -2034,7 +2034,7 @@
         "url": "https://www.dafont.com/forum/read/576010/please-help-meeeee",
         "title": "please help meeeee",
         "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1216997.jpg",
-        "identified_font": null
+        "identified_font": "Typold Extra Bold"
     },
     {
         "task_id": "576008",
@@ -2075,8 +2075,8 @@
         "task_id": "576004",
         "url": "https://www.dafont.com/forum/read/576004/tv-globo-4-anos",
         "title": "TV GLOBO 4 anos",
-        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1216985.png",
-        "identified_font": null
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1216985.png?1",
+        "identified_font": "Eurostile"
     },
     {
         "task_id": "576003",
@@ -2306,7 +2306,7 @@
         "task_id": "576030",
         "url": "https://www.dafont.com/forum/read/576030/the-usual-suspects-title-credits-font",
         "title": "'The Usual Suspects' title credits font?",
-        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1217040.jpg",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1217040.jpg?2",
         "identified_font": null
     },
     {
@@ -2370,7 +2370,7 @@
         "url": "https://www.dafont.com/forum/read/576049/futw-font-pls",
         "title": "futw font pls",
         "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1217088.jpg",
-        "identified_font": null
+        "identified_font": "Crash test dummy"
     },
     {
         "task_id": "552144",
@@ -2412,6 +2412,13 @@
         "url": "https://www.dafont.com/forum/read/576046/which-this-font-please",
         "title": "Which this font, please?",
         "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1217084.png",
+        "identified_font": "Coneria Script"
+    },
+    {
+        "task_id": "576051",
+        "url": "https://www.dafont.com/forum/read/576051/fonte-urgenteeeeeeeeeeeeeeeeeeeeeeeeeeeeee",
+        "title": "Fonte URGENTEEEEEEEEEEEEEEEEEEEEEEEEEEEEEE...!!!",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1217097.jpg",
         "identified_font": null
     }
 ]
