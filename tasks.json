@@ -1599,7 +1599,7 @@
         "task_id": "575935",
         "url": "https://www.dafont.com/forum/read/575935/font",
         "title": "FONT?",
-        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1216834.png",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1216834.jpg?1",
         "identified_font": null
     },
     {
@@ -2356,7 +2356,7 @@
         "url": "https://www.dafont.com/forum/read/576039/font",
         "title": "Font ?",
         "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1217067.png?1",
-        "identified_font": null
+        "identified_font": "VCR OSD Mono"
     },
     {
         "task_id": "576038",
@@ -2375,9 +2375,9 @@
     {
         "task_id": "552144",
         "url": "https://www.dafont.com/forum/read/552144/whats-font",
-        "title": "whats font????",
-        "img_url": "https://www.dafont.com/forum/attach/orig/1/1/1167906.jpg",
-        "identified_font": null
+        "title": "whats font?",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/1/1167906.jpg?1",
+        "identified_font": "Burgues Script"
     },
     {
         "task_id": "576050",
@@ -2433,7 +2433,7 @@
         "url": "https://www.dafont.com/forum/read/576055/welche-font",
         "title": "Welche Font?",
         "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1217119.png",
-        "identified_font": null
+        "identified_font": "Neue Machina"
     },
     {
         "task_id": "576052",
@@ -2475,21 +2475,21 @@
         "url": "https://www.dafont.com/forum/read/576062/this-is-from-the-sarah-jane-adventures-intro-would-like-to-find-this-font",
         "title": "this is from the sarah jane adventures intro, would like to find this font.",
         "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1217128.png",
-        "identified_font": null
+        "identified_font": "Splendid 66"
     },
     {
         "task_id": "576061",
         "url": "https://www.dafont.com/forum/read/576061/what-is-this-font-que-fuente-es-esta",
         "title": "What is this font? \u00bfQu\u00e9 fuente es esta?",
         "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1217126.png",
-        "identified_font": null
+        "identified_font": "Goldoni"
     },
     {
         "task_id": "576060",
         "url": "https://www.dafont.com/forum/read/576060/font-help-please",
         "title": "Font help please",
         "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1217125.png",
-        "identified_font": null
+        "identified_font": "Quixley"
     },
     {
         "task_id": "576059",
@@ -2510,6 +2510,83 @@
         "url": "https://www.dafont.com/forum/read/576056/alguem-ai-me-ajuda-can-anyone-help-me",
         "title": "ALGU\u00c9M A\u00cd ME AJUDA?/ CAN ANYONE HELP ME?",
         "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1217121.jpg",
+        "identified_font": "Krick"
+    },
+    {
+        "task_id": "576078",
+        "url": "https://www.dafont.com/forum/read/576078/me-pueden-ayudar-con-el-nombre-de-esta-tipografia",
+        "title": "\u00bfme pueden ayudar con el nombre de esta tipografia?",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1217165.png",
+        "identified_font": "Great Vibes"
+    },
+    {
+        "task_id": "8566",
+        "url": "https://www.dafont.com/forum/read/8566/pink-panther-movie-fonts-2",
+        "title": "Pink Panther Movie Fonts 2",
+        "img_url": "https://www.dafont.com/forum/attach/orig/2/4/24635.jpg",
+        "identified_font": null
+    },
+    {
+        "task_id": "576076",
+        "url": "https://www.dafont.com/forum/read/576076/police-ici-c-est-paris",
+        "title": "Police ICI, C'EST PARIS",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1217158.jpg",
+        "identified_font": "Rocktown"
+    },
+    {
+        "task_id": "576077",
+        "url": "https://www.dafont.com/forum/read/576077/font-please",
+        "title": "FONT PLEASE",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1217160.jpg",
+        "identified_font": null
+    },
+    {
+        "task_id": "576074",
+        "url": "https://www.dafont.com/forum/read/576074/what-font-is",
+        "title": "What font is?",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1217154.png",
+        "identified_font": null
+    },
+    {
+        "task_id": "576073",
+        "url": "https://www.dafont.com/forum/read/576073/bored",
+        "title": "Bored",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1217152.png",
+        "identified_font": null
+    },
+    {
+        "task_id": "576071",
+        "url": "https://www.dafont.com/forum/read/576071/what-font-is-this",
+        "title": "What Font is this?",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1217148.png?1",
+        "identified_font": null
+    },
+    {
+        "task_id": "576072",
+        "url": "https://www.dafont.com/forum/read/576072/font-name-please",
+        "title": "FONT NAME PLEASE",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1217150.jpg",
+        "identified_font": null
+    },
+    {
+        "task_id": "576069",
+        "url": "https://www.dafont.com/forum/read/576069/construction",
+        "title": "Construction",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1217144.png",
+        "identified_font": null
+    },
+    {
+        "task_id": "576068",
+        "url": "https://www.dafont.com/forum/read/576068/what-is-this-font",
+        "title": "what is this font",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1217143.png",
+        "identified_font": null
+    },
+    {
+        "task_id": "576065",
+        "url": "https://www.dafont.com/forum/read/576065/trust-no-one",
+        "title": "trust no one",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1217134.jpg",
         "identified_font": null
     }
 ]
