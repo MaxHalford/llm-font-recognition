@@ -4100,5 +4100,61 @@
         "candidate_font_1": "Chalet Comprime Cologne",
         "candidate_font_2": "Intro",
         "candidate_font_3": "Rubik"
+    },
+    {
+        "task_id": "576055",
+        "model_name": "gpt-4o-mini",
+        "candidate_font_1": "Bebas Neue",
+        "candidate_font_2": "Oswald",
+        "candidate_font_3": "DIN Alternates"
+    },
+    {
+        "task_id": "576055",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Circular Std Bold",
+        "candidate_font_2": "Degular Display Bold",
+        "candidate_font_3": "Sofia Pro Bold"
+    },
+    {
+        "task_id": "576052",
+        "model_name": "gpt-4o-mini",
+        "candidate_font_1": "Montserrat",
+        "candidate_font_2": "Raleway",
+        "candidate_font_3": "Lato"
+    },
+    {
+        "task_id": "576052",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Gotham",
+        "candidate_font_2": "Proxima Nova",
+        "candidate_font_3": "Montserrat"
+    },
+    {
+        "task_id": "560830",
+        "model_name": "gpt-4o-mini",
+        "candidate_font_1": "Bebas Neue",
+        "candidate_font_2": "Montserrat",
+        "candidate_font_3": "Raleway"
+    },
+    {
+        "task_id": "560830",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Oswald Heavy",
+        "candidate_font_2": "Brusher",
+        "candidate_font_3": "Lemon Tuesday"
+    },
+    {
+        "task_id": "576053",
+        "model_name": "gpt-4o-mini",
+        "candidate_font_1": "Bodoni",
+        "candidate_font_2": "Playfair Display",
+        "candidate_font_3": "Didot"
+    },
+    {
+        "task_id": "576053",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Windsor Bold",
+        "candidate_font_2": "Souvenir Demi",
+        "candidate_font_3": "Bookman Old Style"
     }
 ]
