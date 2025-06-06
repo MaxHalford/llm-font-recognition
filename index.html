@@ -31,21 +31,26 @@ This process avoids benchmark contamination.
                                                                                 
 The source code for this benchmark is available on <a class="r2" href="https://github.com/MaxHalford/llm-font-recognition">GitHub</a>.                      
                                                                                 
-<span class="r3">Updated at 2025-06-05T22:58:00</span>                                                  
+<span class="r3">Updated at 2025-06-06T01:32:00</span>                                                  
 
 <span class="r4">Metrics                                                                         </span>
 ┏━━━━━━━━━━━━━━━┳━━━━━━━━━━━━━━━━━━┳━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┳━━━━━━━━━━━━┓
 ┃    Metric     ┃ claude-3.5-sonn… ┃ gemini-2.5-flash-preview-05… ┃ gpt-4o-mi… ┃
 ┡━━━━━━━━━━━━━━━╇━━━━━━━━━━━━━━━━━━╇━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━╇━━━━━━━━━━━━┩
-│<span class="r5"> Top-1 accura… </span>│      0.00%       │            0.00%             │   3.57%    │
-│<span class="r5"> Top-2 accura… </span>│      0.00%       │            0.00%             │   3.57%    │
-│<span class="r5"> Top-3 accura… </span>│      0.00%       │            0.00%             │   3.57%    │
+│<span class="r5"> Top-1 accura… </span>│      0.00%       │            0.00%             │   3.33%    │
+│<span class="r5"> Top-2 accura… </span>│      0.00%       │            0.00%             │   3.33%    │
+│<span class="r5"> Top-3 accura… </span>│      0.00%       │            0.00%             │   3.33%    │
 └───────────────┴──────────────────┴──────────────────────────────┴────────────┘
 
 <span class="r4">Breakdown                                                                       </span>
 ┏━━━━━━━━┳━━━━━━━━━━━━━━━━━━━━━━━━━━━┳━━━━━━━━━━━━━┳━━━━━━━━━━━━━┳━━━━━━━━━━━━━┓
 ┃  Task  ┃      Identified font      ┃ claude-3.5… ┃ gemini-2.5… ┃ gpt-4o-mini ┃
 ┡━━━━━━━━╇━━━━━━━━━━━━━━━━━━━━━━━━━━━╇━━━━━━━━━━━━━╇━━━━━━━━━━━━━╇━━━━━━━━━━━━━┩
+│<span class="r6"> </span><a class="r6" href="https://www.dafont.com/forum/read/576013/qual-a-fonte">576013</a><span class="r6"> </span>│        Comic Sans         │<span class="r7">             </span>│<span class="r7">  </span><span class="r8">Pangolin</span><span class="r9">,</span><span class="r7">  </span>│<span class="r7"> </span><span class="r8">Quicksand</span><span class="r9">,</span><span class="r7">  </span>│
+│<span class="r6">        </span>│                           │<span class="r7">             </span>│<span class="r7">    </span><span class="r8">Just</span><span class="r7">     </span>│<span class="r7">  </span><span class="r8">Poppins</span><span class="r9">,</span><span class="r7">   </span>│
+│<span class="r6">        </span>│                           │<span class="r7">             </span>│<span class="r7">   </span><span class="r8">Another</span><span class="r7">   </span>│<span class="r7">  </span><span class="r8">Comfortaa</span><span class="r7">  </span>│
+│<span class="r6">        </span>│                           │<span class="r7">             </span>│<span class="r7">    </span><span class="r8">Hand</span><span class="r9">,</span><span class="r7">    </span>│<span class="r7">             </span>│
+│<span class="r6">        </span>│                           │<span class="r7">             </span>│<span class="r7"> </span><span class="r8">Coming Soon</span><span class="r7"> </span>│<span class="r7">             </span>│
 │<span class="r6"> </span><a class="r6" href="https://www.dafont.com/forum/read/575996/font-by-shadowbyyoongi">575996</a><span class="r6"> </span>│         Shift Pro         │<span class="r7">             </span>│<span class="r7">  </span><span class="r8">SF Sports</span><span class="r7">  </span>│<span class="r7"> </span><span class="r8">Bebas Neue</span><span class="r9">,</span><span class="r7"> </span>│
 │<span class="r6">        </span>│                           │<span class="r7">             </span>│<span class="r7">   </span><span class="r8">Night</span><span class="r9">,</span><span class="r7">    </span>│<span class="r7">   </span><span class="r8">Anton</span><span class="r9">,</span><span class="r7">    </span>│
 │<span class="r6">        </span>│                           │<span class="r7">             </span>│<span class="r7"> </span><span class="r8">Hyperspace</span><span class="r7">  </span>│<span class="r7">   </span><span class="r8">Impact</span><span class="r7">    </span>│
@@ -61,6 +66,10 @@ The source code for this benchmark is available on <a class="r2" href="https://g
 │<span class="r6">        </span>│                           │<span class="r7">             </span>│<span class="r7">  </span><span class="r8">Bubblegum</span><span class="r7">  </span>│<span class="r7">    </span><span class="r8">Sans</span><span class="r9">,</span><span class="r7">    </span>│
 │<span class="r6">        </span>│                           │<span class="r7">             </span>│<span class="r7"> </span><span class="r8">Sans</span><span class="r9">, </span><span class="r8">Chewy</span><span class="r7"> </span>│<span class="r7">   </span><span class="r8">Baloo</span><span class="r9">,</span><span class="r7">    </span>│
 │<span class="r6">        </span>│                           │<span class="r7">             </span>│<span class="r7">             </span>│<span class="r7">   </span><span class="r8">Poppins</span><span class="r7">   </span>│
+│<span class="r6"> </span><a class="r6" href="https://www.dafont.com/forum/read/575985/what-is-the-font">575985</a><span class="r6"> </span>│     Transforma Script     │<span class="r7">             </span>│<span class="r7">  </span><span class="r8">Eckmann</span><span class="r9">,</span><span class="r7">   </span>│<span class="r7"> </span><span class="r8">Bebas Neue</span><span class="r9">,</span><span class="r7"> </span>│
+│<span class="r6">        </span>│                           │<span class="r7">             </span>│<span class="r7">   </span><span class="r8">Bright</span><span class="r7">    </span>│<span class="r7">  </span><span class="r8">Lobster</span><span class="r9">,</span><span class="r7">   </span>│
+│<span class="r6">        </span>│                           │<span class="r7">             </span>│<span class="r7">   </span><span class="r8">Script</span><span class="r9">,</span><span class="r7">   </span>│<span class="r7">  </span><span class="r8">Rockwell</span><span class="r7">   </span>│
+│<span class="r6">        </span>│                           │<span class="r7">             </span>│<span class="r7"> </span><span class="r8">Cream Candy</span><span class="r7"> </span>│<span class="r7">             </span>│
 │<span class="r6"> </span><a class="r6" href="https://www.dafont.com/forum/read/575967/je-cherche-cette-police-dans-le-style-rock-punk">575967</a><span class="r6"> </span>│          Rocks G          │<span class="r7">             </span>│<span class="r7">  </span><span class="r8">Impacted</span><span class="r9">,</span><span class="r7">  </span>│<span class="r7">  </span><span class="r8">Brawler</span><span class="r9">,</span><span class="r7">   </span>│
 │<span class="r6">        </span>│                           │<span class="r7">             </span>│<span class="r7">    </span><span class="r8">Dirty</span><span class="r7">    </span>│<span class="r7"> </span><span class="r8">Bebas Neue</span><span class="r9">,</span><span class="r7"> </span>│
 │<span class="r6">        </span>│                           │<span class="r7">             </span>│<span class="r7">  </span><span class="r8">Headline</span><span class="r9">,</span><span class="r7">  </span>│<span class="r7">   </span><span class="r8">Impact</span><span class="r7">    </span>│
