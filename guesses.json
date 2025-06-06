@@ -3918,5 +3918,89 @@
         "candidate_font_1": "Montserrat Black",
         "candidate_font_2": "Gotham Black",
         "candidate_font_3": "Open Sans ExtraBold"
+    },
+    {
+        "task_id": "576043",
+        "model_name": "gpt-4o-mini",
+        "candidate_font_1": "Dancing Script",
+        "candidate_font_2": "Caveat",
+        "candidate_font_3": "Satisfy"
+    },
+    {
+        "task_id": "576043",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Deseo (by Sudtipos)",
+        "candidate_font_2": "Affectionately Yours",
+        "candidate_font_3": "Adelia Mozer Script"
+    },
+    {
+        "task_id": "573407",
+        "model_name": "gpt-4o-mini",
+        "candidate_font_1": "Dancing Script",
+        "candidate_font_2": "Great Vibes",
+        "candidate_font_3": "Playfair Display"
+    },
+    {
+        "task_id": "573407",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Pique",
+        "candidate_font_2": "Sensa",
+        "candidate_font_3": "Blackwood"
+    },
+    {
+        "task_id": "576042",
+        "model_name": "gpt-4o-mini",
+        "candidate_font_1": "Montserrat",
+        "candidate_font_2": "Bebas Neue",
+        "candidate_font_3": "Oswald"
+    },
+    {
+        "task_id": "576042",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Gilroy ExtraBold",
+        "candidate_font_2": "Panton Black",
+        "candidate_font_3": "Sofia Pro Black"
+    },
+    {
+        "task_id": "576041",
+        "model_name": "gpt-4o-mini",
+        "candidate_font_1": "Creepster",
+        "candidate_font_2": "Bangers",
+        "candidate_font_3": "Roboto Condensed"
+    },
+    {
+        "task_id": "576041",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "FNAF 4 Font",
+        "candidate_font_2": "Anarchy Sans",
+        "candidate_font_3": "Broken Console"
+    },
+    {
+        "task_id": "576040",
+        "model_name": "gpt-4o-mini",
+        "candidate_font_1": "Dancing Script",
+        "candidate_font_2": "Creepster",
+        "candidate_font_3": "Chiller"
+    },
+    {
+        "task_id": "576040",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Another Danger",
+        "candidate_font_2": "Creepster",
+        "candidate_font_3": "Nightmare 5"
+    },
+    {
+        "task_id": "576039",
+        "model_name": "gpt-4o-mini",
+        "candidate_font_1": "Pixelated",
+        "candidate_font_2": "Mono-Regular",
+        "candidate_font_3": "OCR A Extended"
+    },
+    {
+        "task_id": "576039",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Arcade Classic",
+        "candidate_font_2": "Pixel-Emulator",
+        "candidate_font_3": "8-Bit Operator"
     }
 ]
