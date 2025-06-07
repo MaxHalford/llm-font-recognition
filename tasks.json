@@ -2657,7 +2657,7 @@
         "url": "https://www.dafont.com/forum/read/576096/tittle-font-echo-please",
         "title": "Tittle Font \"Echo\" please",
         "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1217187.png",
-        "identified_font": null
+        "identified_font": "Bahamonde"
     },
     {
         "task_id": "576080",
@@ -2672,5 +2672,61 @@
         "title": "Tittle Font \"BAD DESIRE\" please",
         "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1217170.jpg",
         "identified_font": null
+    },
+    {
+        "task_id": "576111",
+        "url": "https://www.dafont.com/forum/read/576111/mario-kart-world-logo",
+        "title": "Mario Kart World logo",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1217217.jpg",
+        "identified_font": null
+    },
+    {
+        "task_id": "576109",
+        "url": "https://www.dafont.com/forum/read/576109/beija-flor-2026-carnaval-logo",
+        "title": "Beija flor 2026 carnaval logo",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1217213.jpg",
+        "identified_font": "Decaying Felt Pen"
+    },
+    {
+        "task_id": "576110",
+        "url": "https://www.dafont.com/forum/read/576110/help-please",
+        "title": "help please",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1217215.jpg",
+        "identified_font": null
+    },
+    {
+        "task_id": "576108",
+        "url": "https://www.dafont.com/forum/read/576108/sabrina-carpenter",
+        "title": "sabrina carpenter",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1217211.jpg",
+        "identified_font": "Rafaella"
+    },
+    {
+        "task_id": "576107",
+        "url": "https://www.dafont.com/forum/read/576107/unidos-da-tijuca-2026-carnaval-logo",
+        "title": "Unidos da Tijuca 2026 carnaval logo",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1217207.jpg",
+        "identified_font": "Blacksword"
+    },
+    {
+        "task_id": "576106",
+        "url": "https://www.dafont.com/forum/read/576106/imperatriz-leopoldinense-2026-carnaval-logo",
+        "title": "Imperatriz leopoldinense 2026 carnaval logo",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1217206.jpg",
+        "identified_font": null
+    },
+    {
+        "task_id": "576105",
+        "url": "https://www.dafont.com/forum/read/576105/odyssey-font",
+        "title": "\u0093ODYSSEY\u0094 font?",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1217205.jpg",
+        "identified_font": null
+    },
+    {
+        "task_id": "576104",
+        "url": "https://www.dafont.com/forum/read/576104/cool-summer-sans-serif-font",
+        "title": "cool summer sans serif font",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1217202.jpg",
+        "identified_font": "Fat Frank"
     }
 ]
