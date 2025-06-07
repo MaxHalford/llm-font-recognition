@@ -2811,7 +2811,7 @@
         "url": "https://www.dafont.com/forum/read/576121/luka-cinta-font",
         "title": "Luka Cinta Font",
         "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1217234.jpg",
-        "identified_font": null
+        "identified_font": "Feeling Passionate"
     },
     {
         "task_id": "576120",
@@ -2839,6 +2839,48 @@
         "url": "https://www.dafont.com/forum/read/576125/which-font-is-this",
         "title": "Which font is this?",
         "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1217241.jpg",
+        "identified_font": null
+    },
+    {
+        "task_id": "576131",
+        "url": "https://www.dafont.com/forum/read/576131/qual-a-fonte",
+        "title": "Qual a fonte?",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1217252.png",
+        "identified_font": null
+    },
+    {
+        "task_id": "576129",
+        "url": "https://www.dafont.com/forum/read/576129/font-for-emerald-city-from-rem-beauty-x-wicked",
+        "title": "font for \u0093emerald city\u0094 from rem beauty x wicked",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1217250.jpg",
+        "identified_font": null
+    },
+    {
+        "task_id": "576126",
+        "url": "https://www.dafont.com/forum/read/576126/font",
+        "title": "FONT?",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1217244.jpg",
+        "identified_font": null
+    },
+    {
+        "task_id": "233738",
+        "url": "https://www.dafont.com/forum/read/233738/treehouse-tv-font",
+        "title": "Treehouse TV font?",
+        "img_url": "https://www.dafont.com/forum/attach/orig/5/3/531312.png?1",
+        "identified_font": null
+    },
+    {
+        "task_id": "576128",
+        "url": "https://www.dafont.com/forum/read/576128/font-pls",
+        "title": "font? pls",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1217246.png",
+        "identified_font": null
+    },
+    {
+        "task_id": "576127",
+        "url": "https://www.dafont.com/forum/read/576127/shockwave",
+        "title": "\"SHOCKWAVE\"",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1217245.png",
         "identified_font": null
     }
 ]
