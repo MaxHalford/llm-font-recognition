@@ -5024,5 +5024,47 @@
         "candidate_font_1": "Voyage",
         "candidate_font_2": "Lovera",
         "candidate_font_3": "Orpheus Pro"
+    },
+    {
+        "task_id": "576145",
+        "model_name": "gpt-4o-mini",
+        "candidate_font_1": "Comic Sans MS",
+        "candidate_font_2": "Patrick Hand",
+        "candidate_font_3": "Freestyle Script"
+    },
+    {
+        "task_id": "576145",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Edo SZ",
+        "candidate_font_2": "Rock Salt",
+        "candidate_font_3": "Permanent Marker"
+    },
+    {
+        "task_id": "576143",
+        "model_name": "gpt-4o-mini",
+        "candidate_font_1": "Bebas Neue",
+        "candidate_font_2": "Montserrat",
+        "candidate_font_3": "Poppins"
+    },
+    {
+        "task_id": "576143",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Obelix Pro",
+        "candidate_font_2": "VAG Rounded",
+        "candidate_font_3": "Chalet Tokyo"
+    },
+    {
+        "task_id": "576142",
+        "model_name": "gpt-4o-mini",
+        "candidate_font_1": "Helvetica Bold",
+        "candidate_font_2": "DIN Condensed",
+        "candidate_font_3": "Roboto Condensed"
+    },
+    {
+        "task_id": "576142",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Eurostile Bold Extended",
+        "candidate_font_2": "Open Sans Bold",
+        "candidate_font_3": ""
     }
 ]
