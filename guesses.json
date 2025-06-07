@@ -4548,5 +4548,61 @@
         "candidate_font_1": "Bloodsuckers",
         "candidate_font_2": "Death Rattle",
         "candidate_font_3": "Predators"
+    },
+    {
+        "task_id": "576111",
+        "model_name": "gpt-4o-mini",
+        "candidate_font_1": "Bebas Neue",
+        "candidate_font_2": "Arial Black",
+        "candidate_font_3": "Impact"
+    },
+    {
+        "task_id": "576111",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "BadaBoom BB",
+        "candidate_font_2": "Obelix Pro",
+        "candidate_font_3": "SF Collegiate"
+    },
+    {
+        "task_id": "576110",
+        "model_name": "gpt-4o-mini",
+        "candidate_font_1": "Extreme Left",
+        "candidate_font_2": "Blade Runner",
+        "candidate_font_3": "Vampire Hunter"
+    },
+    {
+        "task_id": "576110",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Acknowledge Kill",
+        "candidate_font_2": "Death Hector",
+        "candidate_font_3": "Metal Mania"
+    },
+    {
+        "task_id": "576106",
+        "model_name": "gpt-4o-mini",
+        "candidate_font_1": "Bebas Neue",
+        "candidate_font_2": "Rock Salt",
+        "candidate_font_3": "Stencil"
+    },
+    {
+        "task_id": "576106",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Street Wars",
+        "candidate_font_2": "The Braggest",
+        "candidate_font_3": "Hooligan"
+    },
+    {
+        "task_id": "576105",
+        "model_name": "gpt-4o-mini",
+        "candidate_font_1": "HVD Comic Serif Pro",
+        "candidate_font_2": "Comic Sans MS",
+        "candidate_font_3": "Bangers"
+    },
+    {
+        "task_id": "576105",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Batman Forever",
+        "candidate_font_2": "Bigfoot",
+        "candidate_font_3": ""
     }
 ]
