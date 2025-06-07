@@ -1740,7 +1740,7 @@
         "url": "https://www.dafont.com/forum/read/575957/tittle-font-name-bad-desire-pls",
         "title": "tittle font name \"BAD DESIRE\" pls",
         "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1216891.jpg",
-        "identified_font": null
+        "identified_font": "Existence"
     },
     {
         "task_id": "575955",
@@ -2671,7 +2671,7 @@
         "url": "https://www.dafont.com/forum/read/576079/tittle-font-bad-desire-please",
         "title": "Tittle Font \"BAD DESIRE\" please",
         "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1217170.jpg",
-        "identified_font": null
+        "identified_font": "Existence"
     },
     {
         "task_id": "576111",
@@ -2728,5 +2728,68 @@
         "title": "cool summer sans serif font",
         "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1217202.jpg",
         "identified_font": "Fat Frank"
+    },
+    {
+        "task_id": "576117",
+        "url": "https://www.dafont.com/forum/read/576117/font-name",
+        "title": "Font name?",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1217229.png",
+        "identified_font": null
+    },
+    {
+        "task_id": "576116",
+        "url": "https://www.dafont.com/forum/read/576116/wolf-booklet-font",
+        "title": "Wolf Booklet font",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1217228.jpg",
+        "identified_font": null
+    },
+    {
+        "task_id": "560347",
+        "url": "https://www.dafont.com/forum/read/560347/total-font-please",
+        "title": "\u0093total\u0094 font, please.",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/1/1185120.png",
+        "identified_font": null
+    },
+    {
+        "task_id": "559611",
+        "url": "https://www.dafont.com/forum/read/559611/taylor-swift-font-please",
+        "title": "\u0093TAYLOR SWIFT\u0094 font, please.",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/1/1183550.png?1",
+        "identified_font": null
+    },
+    {
+        "task_id": "561156",
+        "url": "https://www.dafont.com/forum/read/561156/taylor-from-the-text-in-the-background-with-screen-effect-font-please",
+        "title": "\u0093taylor\u0094 (from the text in the background with screen effect) font, please.",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/1/1186846.png",
+        "identified_font": null
+    },
+    {
+        "task_id": "576115",
+        "url": "https://www.dafont.com/forum/read/576115/2024",
+        "title": "2024",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1217224.jpg",
+        "identified_font": null
+    },
+    {
+        "task_id": "576114",
+        "url": "https://www.dafont.com/forum/read/576114/id-font",
+        "title": "ID FONT?",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1217223.png",
+        "identified_font": null
+    },
+    {
+        "task_id": "576113",
+        "url": "https://www.dafont.com/forum/read/576113/which-fonts-are-being-used-on-this-book-cover",
+        "title": "Which fonts are being used on this book cover?",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1217220.jpg?4",
+        "identified_font": null
+    },
+    {
+        "task_id": "576112",
+        "url": "https://www.dafont.com/forum/read/576112/cracky-chan-capitain-riceman",
+        "title": "Cracky-Chan Capitain Riceman",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1217219.jpg",
+        "identified_font": null
     }
 ]
