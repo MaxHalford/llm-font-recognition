@@ -2664,7 +2664,7 @@
         "url": "https://www.dafont.com/forum/read/576080/font-names-please",
         "title": "Font names please :)",
         "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1217171.jpg",
-        "identified_font": null
+        "identified_font": "El&Font Gohtic!"
     },
     {
         "task_id": "576079",
@@ -2790,7 +2790,7 @@
         "url": "https://www.dafont.com/forum/read/576112/cracky-chan-capitain-riceman",
         "title": "Cracky-Chan Capitain Riceman",
         "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1217219.jpg",
-        "identified_font": null
+        "identified_font": "Hakee 2"
     },
     {
         "task_id": "576124",
@@ -2832,7 +2832,7 @@
         "url": "https://www.dafont.com/forum/read/576118/font",
         "title": "Font?",
         "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1217231.png",
-        "identified_font": null
+        "identified_font": "GF BadBoy"
     },
     {
         "task_id": "576125",
@@ -2930,13 +2930,41 @@
         "url": "https://www.dafont.com/forum/read/576133/please-all",
         "title": "please all",
         "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1217256.png",
-        "identified_font": null
+        "identified_font": "Centaur"
     },
     {
         "task_id": "576132",
         "url": "https://www.dafont.com/forum/read/576132/help-me-please",
         "title": "Help me, please",
         "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1217255.jpg",
+        "identified_font": "Roslindale"
+    },
+    {
+        "task_id": "576145",
+        "url": "https://www.dafont.com/forum/read/576145/help",
+        "title": "Help",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1217284.png",
+        "identified_font": null
+    },
+    {
+        "task_id": "576144",
+        "url": "https://www.dafont.com/forum/read/576144/genshin-tiktok",
+        "title": "Genshin TikTok",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1217275.jpg",
+        "identified_font": "United Kings"
+    },
+    {
+        "task_id": "576143",
+        "url": "https://www.dafont.com/forum/read/576143/what-font",
+        "title": "What font?",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1217272.png",
+        "identified_font": null
+    },
+    {
+        "task_id": "576142",
+        "url": "https://www.dafont.com/forum/read/576142/font",
+        "title": "Font?",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1217270.jpg",
         "identified_font": null
     }
 ]
