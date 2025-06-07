@@ -2734,7 +2734,7 @@
         "url": "https://www.dafont.com/forum/read/576117/font-name",
         "title": "Font name?",
         "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1217229.png",
-        "identified_font": null
+        "identified_font": "Industry"
     },
     {
         "task_id": "576116",
@@ -2790,6 +2790,48 @@
         "url": "https://www.dafont.com/forum/read/576112/cracky-chan-capitain-riceman",
         "title": "Cracky-Chan Capitain Riceman",
         "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1217219.jpg",
+        "identified_font": null
+    },
+    {
+        "task_id": "576124",
+        "url": "https://www.dafont.com/forum/read/576124/which-font-is-this",
+        "title": "Which font is this?",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1217238.png",
+        "identified_font": null
+    },
+    {
+        "task_id": "576123",
+        "url": "https://www.dafont.com/forum/read/576123/which-font-is-this-california-pictures",
+        "title": "Which font is this California Pictures ?",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1217237.png",
+        "identified_font": null
+    },
+    {
+        "task_id": "576121",
+        "url": "https://www.dafont.com/forum/read/576121/luka-cinta-font",
+        "title": "Luka Cinta Font",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1217234.jpg",
+        "identified_font": null
+    },
+    {
+        "task_id": "576120",
+        "url": "https://www.dafont.com/forum/read/576120/this-font",
+        "title": "this font",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1217233.png?1",
+        "identified_font": null
+    },
+    {
+        "task_id": "576119",
+        "url": "https://www.dafont.com/forum/read/576119/what-font-name-is-this-from-a-lyric-videos",
+        "title": "what font name is this? (from a lyric videos)",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1217232.png",
+        "identified_font": null
+    },
+    {
+        "task_id": "576118",
+        "url": "https://www.dafont.com/forum/read/576118/font",
+        "title": "Font?",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1217231.png",
         "identified_font": null
     }
 ]
