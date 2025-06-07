@@ -2833,5 +2833,12 @@
         "title": "Font?",
         "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1217231.png",
         "identified_font": null
+    },
+    {
+        "task_id": "576125",
+        "url": "https://www.dafont.com/forum/read/576125/which-font-is-this",
+        "title": "Which font is this?",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1217241.jpg",
+        "identified_font": null
     }
 ]
