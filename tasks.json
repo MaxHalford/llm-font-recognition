@@ -2003,9 +2003,9 @@
     },
     {
         "task_id": "575982",
-        "url": "https://www.dafont.com/forum/read/575982/please-tell-me-this-is-a-font-and-not-pure-handwritten-c-c",
-        "title": "Please, tell me this is a font and not pure handwritten. \u00e7_\u00e7",
-        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1216946.png",
+        "url": "https://www.dafont.com/forum/read/575982/what-is-this-font",
+        "title": "What is this font?",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1216946.png?2",
         "identified_font": null
     },
     {
@@ -2881,6 +2881,62 @@
         "url": "https://www.dafont.com/forum/read/576127/shockwave",
         "title": "\"SHOCKWAVE\"",
         "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1217245.png",
+        "identified_font": null
+    },
+    {
+        "task_id": "563067",
+        "url": "https://www.dafont.com/forum/read/563067/font-please",
+        "title": "Font, please.",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/1/1190899.png",
+        "identified_font": null
+    },
+    {
+        "task_id": "555698",
+        "url": "https://www.dafont.com/forum/read/555698/font-please",
+        "title": "Font, please.",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/1/1175254.png",
+        "identified_font": null
+    },
+    {
+        "task_id": "576138",
+        "url": "https://www.dafont.com/forum/read/576138/blackletter",
+        "title": "blackletter?",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1217262.png",
+        "identified_font": null
+    },
+    {
+        "task_id": "576137",
+        "url": "https://www.dafont.com/forum/read/576137/what-the-font",
+        "title": "what the font",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1217261.jpg",
+        "identified_font": null
+    },
+    {
+        "task_id": "576135",
+        "url": "https://www.dafont.com/forum/read/576135/anyone-know-this-font",
+        "title": "anyone know this font?",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1217258.jpg",
+        "identified_font": null
+    },
+    {
+        "task_id": "576134",
+        "url": "https://www.dafont.com/forum/read/576134/please-help",
+        "title": "Please help?",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1217257.png",
+        "identified_font": null
+    },
+    {
+        "task_id": "576133",
+        "url": "https://www.dafont.com/forum/read/576133/please-all",
+        "title": "please all",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1217256.png",
+        "identified_font": null
+    },
+    {
+        "task_id": "576132",
+        "url": "https://www.dafont.com/forum/read/576132/help-me-please",
+        "title": "Help me, please",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1217255.jpg",
         "identified_font": null
     }
 ]
