@@ -4814,5 +4814,19 @@
         "candidate_font_1": "Playlist Script",
         "candidate_font_2": "Agency FB Bold",
         "candidate_font_3": "Autumn Chant"
+    },
+    {
+        "task_id": "576125",
+        "model_name": "gpt-4o-mini",
+        "candidate_font_1": "Trajan Pro",
+        "candidate_font_2": "Cinzel",
+        "candidate_font_3": "Garamond"
+    },
+    {
+        "task_id": "576125",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Augustus",
+        "candidate_font_2": "Trajan Pro",
+        "candidate_font_3": "Cardo"
     }
 ]
