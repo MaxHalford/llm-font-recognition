@@ -4604,5 +4604,131 @@
         "candidate_font_1": "Batman Forever",
         "candidate_font_2": "Bigfoot",
         "candidate_font_3": ""
+    },
+    {
+        "task_id": "576117",
+        "model_name": "gpt-4o-mini",
+        "candidate_font_1": "Bebas Neue",
+        "candidate_font_2": "Montserrat Alternates",
+        "candidate_font_3": "Oswald"
+    },
+    {
+        "task_id": "576117",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Bould Italic",
+        "candidate_font_2": "Gobold Bold Italic",
+        "candidate_font_3": "Headliner No. 45 Regular Italic"
+    },
+    {
+        "task_id": "576116",
+        "model_name": "gpt-4o-mini",
+        "candidate_font_1": "Helvetica",
+        "candidate_font_2": "Futura",
+        "candidate_font_3": "Arial"
+    },
+    {
+        "task_id": "576116",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Source Sans Pro",
+        "candidate_font_2": "Inter",
+        "candidate_font_3": "Work Sans"
+    },
+    {
+        "task_id": "560347",
+        "model_name": "gpt-4o-mini",
+        "candidate_font_1": "Montserrat",
+        "candidate_font_2": "Avenir",
+        "candidate_font_3": "Bebas Neue"
+    },
+    {
+        "task_id": "560347",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Nunito Black",
+        "candidate_font_2": "Bank Gothic",
+        "candidate_font_3": "Open Sans Semibold"
+    },
+    {
+        "task_id": "559611",
+        "model_name": "gpt-4o-mini",
+        "candidate_font_1": "Circular Std",
+        "candidate_font_2": "Avenir Next",
+        "candidate_font_3": "Futura"
+    },
+    {
+        "task_id": "559611",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Montserrat Black",
+        "candidate_font_2": "Proxima Nova Black",
+        "candidate_font_3": "Gotham Black"
+    },
+    {
+        "task_id": "561156",
+        "model_name": "gpt-4o-mini",
+        "candidate_font_1": "Montserrat",
+        "candidate_font_2": "Bebas Neue",
+        "candidate_font_3": "Oswald"
+    },
+    {
+        "task_id": "561156",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Montserrat Bold Italic",
+        "candidate_font_2": "Akrobat Bold Italic",
+        "candidate_font_3": "Open Sans Italic"
+    },
+    {
+        "task_id": "576115",
+        "model_name": "gpt-4o-mini",
+        "candidate_font_1": "Bebas Neue",
+        "candidate_font_2": "Montserrat",
+        "candidate_font_3": "Raleway"
+    },
+    {
+        "task_id": "576115",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Lovelo Black",
+        "candidate_font_2": "Hello Beautiful",
+        "candidate_font_3": "Lemon Tuesday"
+    },
+    {
+        "task_id": "576114",
+        "model_name": "gpt-4o-mini",
+        "candidate_font_1": "Lobster",
+        "candidate_font_2": "Pacifico",
+        "candidate_font_3": "Great Vibes"
+    },
+    {
+        "task_id": "576114",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "",
+        "candidate_font_2": "",
+        "candidate_font_3": ""
+    },
+    {
+        "task_id": "576113",
+        "model_name": "gpt-4o-mini",
+        "candidate_font_1": "Impact",
+        "candidate_font_2": "Helvetica Bold",
+        "candidate_font_3": "Arial Black"
+    },
+    {
+        "task_id": "576113",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Impact",
+        "candidate_font_2": "Palatino Italic",
+        "candidate_font_3": "Franklin Gothic"
+    },
+    {
+        "task_id": "576112",
+        "model_name": "gpt-4o-mini",
+        "candidate_font_1": "Frosty",
+        "candidate_font_2": "Creepster",
+        "candidate_font_3": "Celtic Hand"
+    },
+    {
+        "task_id": "576112",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Broken Text",
+        "candidate_font_2": "Monotype Old English Text",
+        "candidate_font_3": "Bloody"
     }
 ]
