@@ -2782,8 +2782,8 @@
         "task_id": "576113",
         "url": "https://www.dafont.com/forum/read/576113/which-fonts-are-being-used-on-this-book-cover",
         "title": "Which fonts are being used on this book cover?",
-        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1217220.jpg?4",
-        "identified_font": null
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1217220.jpg?5",
+        "identified_font": "Futura"
     },
     {
         "task_id": "576112",
@@ -3042,7 +3042,7 @@
         "url": "https://www.dafont.com/forum/read/576150/what-s-the-font-name",
         "title": "what's the font name?",
         "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1217314.jpg",
-        "identified_font": null
+        "identified_font": "Super Larky"
     },
     {
         "task_id": "576164",
@@ -3084,7 +3084,7 @@
         "url": "https://www.dafont.com/forum/read/576167/identificar-fuente",
         "title": "IDENTIFICAR FUENTE",
         "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1217345.png",
-        "identified_font": null
+        "identified_font": "Factoria"
     },
     {
         "task_id": "333472",
@@ -3126,6 +3126,125 @@
         "url": "https://www.dafont.com/forum/read/576170/come-get-some-wwf",
         "title": "come get some wwf",
         "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1217357.jpg",
+        "identified_font": null
+    },
+    {
+        "task_id": "576188",
+        "url": "https://www.dafont.com/forum/read/576188/old-hollywood-film-looking-for-a-similar-handwriting-font",
+        "title": "Old-Hollywood film looking for a SIMILAR handwriting font",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1217390.png",
+        "identified_font": null
+    },
+    {
+        "task_id": "576187",
+        "url": "https://www.dafont.com/forum/read/576187/old-hollywood-film-introduction-screen-font",
+        "title": "Old-Hollywood film introduction screen font",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1217389.png",
+        "identified_font": null
+    },
+    {
+        "task_id": "576186",
+        "url": "https://www.dafont.com/forum/read/576186/old-hollywood-film-rebecca-font",
+        "title": "Old-Hollywood film \"Rebecca\" font",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1217388.png",
+        "identified_font": null
+    },
+    {
+        "task_id": "576185",
+        "url": "https://www.dafont.com/forum/read/576185/old-hollywood-film-end-screen-font-s",
+        "title": "Old-Hollywood film end screen font(s)",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1217387.png",
+        "identified_font": null
+    },
+    {
+        "task_id": "576184",
+        "url": "https://www.dafont.com/forum/read/576184/old-hollywood-film-the-seventh-victim-fonts",
+        "title": "Old-Hollywood film \"The Seventh Victim\" fonts",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1217386.png",
+        "identified_font": null
+    },
+    {
+        "task_id": "576183",
+        "url": "https://www.dafont.com/forum/read/576183/old-hollywood-film-introduction-font",
+        "title": "Old-Hollywood film introduction font",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1217385.png",
+        "identified_font": null
+    },
+    {
+        "task_id": "576182",
+        "url": "https://www.dafont.com/forum/read/576182/john-waters-pink-flamingos-fonts-v4",
+        "title": "John Waters' Pink Flamingos fonts v4",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1217384.png",
+        "identified_font": null
+    },
+    {
+        "task_id": "576181",
+        "url": "https://www.dafont.com/forum/read/576181/john-waters-pink-flamingos-fonts-v3",
+        "title": "John Waters' Pink Flamingos fonts v3",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1217383.png",
+        "identified_font": null
+    },
+    {
+        "task_id": "576180",
+        "url": "https://www.dafont.com/forum/read/576180/john-waters-pink-flamingos-fonts-v2",
+        "title": "John Waters' Pink Flamingos fonts v2",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1217382.png",
+        "identified_font": null
+    },
+    {
+        "task_id": "576179",
+        "url": "https://www.dafont.com/forum/read/576179/john-waters-pink-flamingos-fonts-v1",
+        "title": "John Waters' Pink Flamingos fonts v1",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1217381.png",
+        "identified_font": null
+    },
+    {
+        "task_id": "576178",
+        "url": "https://www.dafont.com/forum/read/576178/taylor-swift-speak-now-deluxe-enhanced-cd-content-list-font",
+        "title": "Taylor Swift - Speak Now Deluxe enhanced cd content list font",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1217380.png",
+        "identified_font": null
+    },
+    {
+        "task_id": "576177",
+        "url": "https://www.dafont.com/forum/read/576177/taylor-swift-fearless-enhanced-cd-content-love-story-change-music-video-font",
+        "title": "Taylor Swift - Fearless enhanced cd content Love Story / Change music video font",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1217379.png",
+        "identified_font": null
+    },
+    {
+        "task_id": "574410",
+        "url": "https://www.dafont.com/forum/read/574410/opera-gx-impossible-font",
+        "title": "Opera GX \"IMPOSSIBLE\" font",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1213740.png?1",
+        "identified_font": null
+    },
+    {
+        "task_id": "576176",
+        "url": "https://www.dafont.com/forum/read/576176/wwe-king-and-queen-of-the-ring",
+        "title": "WWE King and Queen of the Ring",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1217375.png",
+        "identified_font": null
+    },
+    {
+        "task_id": "576173",
+        "url": "https://www.dafont.com/forum/read/576173/top-font-needed-cabo",
+        "title": "Top Font Needed \"Cabo\"",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1217360.jpg?1",
+        "identified_font": null
+    },
+    {
+        "task_id": "576175",
+        "url": "https://www.dafont.com/forum/read/576175/out-now",
+        "title": "\"OUT NOW\"",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1217368.jpg",
+        "identified_font": "Gotham Black"
+    },
+    {
+        "task_id": "576174",
+        "url": "https://www.dafont.com/forum/read/576174/ben-10-alien-swarm-title-font",
+        "title": "Ben 10: Alien Swarm Title Font",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1217366.jpg",
         "identified_font": null
     }
 ]
