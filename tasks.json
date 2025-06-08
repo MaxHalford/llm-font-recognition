@@ -2853,7 +2853,7 @@
         "url": "https://www.dafont.com/forum/read/576129/font-for-emerald-city-from-rem-beauty-x-wicked",
         "title": "font for \u0093emerald city\u0094 from rem beauty x wicked",
         "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1217250.jpg",
-        "identified_font": null
+        "identified_font": "M"
     },
     {
         "task_id": "576126",
@@ -3070,6 +3070,34 @@
         "url": "https://www.dafont.com/forum/read/576161/dragoes-da-real-2026-carnaval-logo-enredo-theme",
         "title": "Drag\u00f5es da real 2026 Carnaval logo enredo theme",
         "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1217331.jpg",
+        "identified_font": null
+    },
+    {
+        "task_id": "576168",
+        "url": "https://www.dafont.com/forum/read/576168/help-in-identifying-hanging-banner-font",
+        "title": "Help in identifying \"Hanging Banner\" font",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1217346.jpg",
+        "identified_font": null
+    },
+    {
+        "task_id": "576167",
+        "url": "https://www.dafont.com/forum/read/576167/identificar-fuente",
+        "title": "IDENTIFICAR FUENTE",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1217345.png",
+        "identified_font": null
+    },
+    {
+        "task_id": "333472",
+        "url": "https://www.dafont.com/forum/read/333472/rockshox-font",
+        "title": "Rockshox font",
+        "img_url": "https://www.dafont.com/forum/attach/orig/7/3/730677.jpg?1",
+        "identified_font": null
+    },
+    {
+        "task_id": "576166",
+        "url": "https://www.dafont.com/forum/read/576166/please-font-sutsujin",
+        "title": "Please font sutsujin",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1217339.jpg",
         "identified_font": null
     }
 ]
