@@ -5122,5 +5122,89 @@
         "candidate_font_1": "Balloon",
         "candidate_font_2": "Blippo Black",
         "candidate_font_3": "Porky's"
+    },
+    {
+        "task_id": "576155",
+        "model_name": "gpt-4o-mini",
+        "candidate_font_1": "Brush Script MT",
+        "candidate_font_2": "Pacifico",
+        "candidate_font_3": "Dancing Script"
+    },
+    {
+        "task_id": "576155",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Brush King",
+        "candidate_font_2": "Stay Wild",
+        "candidate_font_3": "The Boldest"
+    },
+    {
+        "task_id": "576153",
+        "model_name": "gpt-4o-mini",
+        "candidate_font_1": "Walt Disney Script",
+        "candidate_font_2": "Brush Script",
+        "candidate_font_3": "Lucida Handwriting"
+    },
+    {
+        "task_id": "576153",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Waltograph",
+        "candidate_font_2": "Trajan Pro",
+        "candidate_font_3": ""
+    },
+    {
+        "task_id": "576154",
+        "model_name": "gpt-4o-mini",
+        "candidate_font_1": "Brush Script MT",
+        "candidate_font_2": "Pacifico",
+        "candidate_font_3": "Lucida Handwriting"
+    },
+    {
+        "task_id": "576154",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Waltograph",
+        "candidate_font_2": "",
+        "candidate_font_3": ""
+    },
+    {
+        "task_id": "576152",
+        "model_name": "gpt-4o-mini",
+        "candidate_font_1": "Bodoni",
+        "candidate_font_2": "Didot",
+        "candidate_font_3": "Playfair Display"
+    },
+    {
+        "task_id": "576152",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Bodoni",
+        "candidate_font_2": "Didot",
+        "candidate_font_3": "Playfair Display"
+    },
+    {
+        "task_id": "576151",
+        "model_name": "gpt-4o-mini",
+        "candidate_font_1": "Bodoni",
+        "candidate_font_2": "Didot",
+        "candidate_font_3": "Playfair Display"
+    },
+    {
+        "task_id": "576151",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Voyage",
+        "candidate_font_2": "",
+        "candidate_font_3": ""
+    },
+    {
+        "task_id": "576150",
+        "model_name": "gpt-4o-mini",
+        "candidate_font_1": "Dancing Script",
+        "candidate_font_2": "Patrick Hand",
+        "candidate_font_3": "Quicksand"
+    },
+    {
+        "task_id": "576150",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Bubblegum Sans",
+        "candidate_font_2": "Fredoka One",
+        "candidate_font_3": "Chewy"
     }
 ]
