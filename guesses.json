@@ -5066,5 +5066,61 @@
         "candidate_font_1": "Eurostile Bold Extended",
         "candidate_font_2": "Open Sans Bold",
         "candidate_font_3": ""
+    },
+    {
+        "task_id": "250732",
+        "model_name": "gpt-4o-mini",
+        "candidate_font_1": "Cloister Black",
+        "candidate_font_2": "Garamond",
+        "candidate_font_3": "Bodoni"
+    },
+    {
+        "task_id": "250732",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Playlist Script",
+        "candidate_font_2": "Mightype",
+        "candidate_font_3": "Homestay"
+    },
+    {
+        "task_id": "576149",
+        "model_name": "gpt-4o-mini",
+        "candidate_font_1": "Pacifico",
+        "candidate_font_2": "Lobster",
+        "candidate_font_3": "Dancing Script"
+    },
+    {
+        "task_id": "576149",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Beauty Dream",
+        "candidate_font_2": "Magnolia Sky",
+        "candidate_font_3": "Stay Gracious"
+    },
+    {
+        "task_id": "576148",
+        "model_name": "gpt-4o-mini",
+        "candidate_font_1": "Bebas Neue",
+        "candidate_font_2": "Anton",
+        "candidate_font_3": "Montserrat"
+    },
+    {
+        "task_id": "576148",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Bebas Neue",
+        "candidate_font_2": "Montserrat Black",
+        "candidate_font_3": "Oswald ExtraBold"
+    },
+    {
+        "task_id": "576146",
+        "model_name": "gpt-4o-mini",
+        "candidate_font_1": "Futura",
+        "candidate_font_2": "Eurostile",
+        "candidate_font_3": "Avenir"
+    },
+    {
+        "task_id": "576146",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Balloon",
+        "candidate_font_2": "Blippo Black",
+        "candidate_font_3": "Porky's"
     }
 ]
