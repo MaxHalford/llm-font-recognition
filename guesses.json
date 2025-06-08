@@ -5248,5 +5248,61 @@
         "candidate_font_1": "Rustico",
         "candidate_font_2": "Road Rage",
         "candidate_font_3": "Awesome Lathus Script"
+    },
+    {
+        "task_id": "576168",
+        "model_name": "gpt-4o-mini",
+        "candidate_font_1": "Helvetica",
+        "candidate_font_2": "Arial",
+        "candidate_font_3": "Futura"
+    },
+    {
+        "task_id": "576168",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Sofia Pro",
+        "candidate_font_2": "Gilroy",
+        "candidate_font_3": "Nunito Sans"
+    },
+    {
+        "task_id": "576167",
+        "model_name": "gpt-4o-mini",
+        "candidate_font_1": "Futura Bold",
+        "candidate_font_2": "DIN Condensed",
+        "candidate_font_3": "Eurostile"
+    },
+    {
+        "task_id": "576167",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Neo Sans Std Bold Italic",
+        "candidate_font_2": "Roboto Black Italic",
+        "candidate_font_3": "Open Sans Extrabold Italic"
+    },
+    {
+        "task_id": "333472",
+        "model_name": "gpt-4o-mini",
+        "candidate_font_1": "Impact",
+        "candidate_font_2": "Futura",
+        "candidate_font_3": "Bebas Neue"
+    },
+    {
+        "task_id": "333472",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Akira Expanded Bold",
+        "candidate_font_2": "Bebas Neue Bold",
+        "candidate_font_3": "Oswald Black"
+    },
+    {
+        "task_id": "576166",
+        "model_name": "gpt-4o-mini",
+        "candidate_font_1": "Roboto",
+        "candidate_font_2": "Montserrat",
+        "candidate_font_3": "Lato"
+    },
+    {
+        "task_id": "576166",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Lato",
+        "candidate_font_2": "Open Sans",
+        "candidate_font_3": "Calibri"
     }
 ]
