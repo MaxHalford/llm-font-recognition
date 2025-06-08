@@ -5206,5 +5206,47 @@
         "candidate_font_1": "Bubblegum Sans",
         "candidate_font_2": "Fredoka One",
         "candidate_font_3": "Chewy"
+    },
+    {
+        "task_id": "576164",
+        "model_name": "gpt-4o-mini",
+        "candidate_font_1": "Great Vibes",
+        "candidate_font_2": "Allura",
+        "candidate_font_3": "Dancing Script"
+    },
+    {
+        "task_id": "576164",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Bickham Script Pro",
+        "candidate_font_2": "Burgues Script",
+        "candidate_font_3": "Aphrodite Pro"
+    },
+    {
+        "task_id": "576162",
+        "model_name": "gpt-4o-mini",
+        "candidate_font_1": "Dancing Script",
+        "candidate_font_2": "Great Vibes",
+        "candidate_font_3": "Lobster"
+    },
+    {
+        "task_id": "576162",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Sugar Snow",
+        "candidate_font_2": "Fredoka One",
+        "candidate_font_3": "Architects Daughter"
+    },
+    {
+        "task_id": "576161",
+        "model_name": "gpt-4o-mini",
+        "candidate_font_1": "Rough Typewriter",
+        "candidate_font_2": "Brush Script",
+        "candidate_font_3": "Jungle Fever"
+    },
+    {
+        "task_id": "576161",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Rustico",
+        "candidate_font_2": "Road Rage",
+        "candidate_font_3": "Awesome Lathus Script"
     }
 ]
