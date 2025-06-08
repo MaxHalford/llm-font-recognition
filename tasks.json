@@ -2994,5 +2994,54 @@
         "title": "Canal Once",
         "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1217302.png",
         "identified_font": null
+    },
+    {
+        "task_id": "576156",
+        "url": "https://www.dafont.com/forum/read/576156/please",
+        "title": "Please",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1217324.png",
+        "identified_font": "Snorkad"
+    },
+    {
+        "task_id": "576155",
+        "url": "https://www.dafont.com/forum/read/576155/trying-to-match-a-font-used-on-a-different-computer",
+        "title": "Trying to match a font used on a different computer.",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1217321.png",
+        "identified_font": null
+    },
+    {
+        "task_id": "576153",
+        "url": "https://www.dafont.com/forum/read/576153/walt-disney-pictures-text",
+        "title": "Walt Disney Pictures text",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1217319.jpg",
+        "identified_font": null
+    },
+    {
+        "task_id": "576154",
+        "url": "https://www.dafont.com/forum/read/576154/the-d-files",
+        "title": "The D-files",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1217320.jpg",
+        "identified_font": null
+    },
+    {
+        "task_id": "576152",
+        "url": "https://www.dafont.com/forum/read/576152/mayhem-on-the-old-lady-gaga-em-recife",
+        "title": "Mayhem On The Old (Lady Gaga em Recife)",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1217317.jpg",
+        "identified_font": null
+    },
+    {
+        "task_id": "576151",
+        "url": "https://www.dafont.com/forum/read/576151/help-me-here-help-meeeeee",
+        "title": "HELP ME HERE, HELP MEEEEEE",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1217316.png",
+        "identified_font": null
+    },
+    {
+        "task_id": "576150",
+        "url": "https://www.dafont.com/forum/read/576150/what-s-the-font-name",
+        "title": "what's the font name?",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1217314.jpg",
+        "identified_font": null
     }
 ]
