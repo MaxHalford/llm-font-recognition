@@ -5304,5 +5304,19 @@
         "candidate_font_1": "Lato",
         "candidate_font_2": "Open Sans",
         "candidate_font_3": "Calibri"
+    },
+    {
+        "task_id": "343023",
+        "model_name": "gpt-4o-mini",
+        "candidate_font_1": "Brush Script",
+        "candidate_font_2": "Lobster",
+        "candidate_font_3": ""
+    },
+    {
+        "task_id": "343023",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "",
+        "candidate_font_2": "Gotham",
+        "candidate_font_3": "Proxima Nova"
     }
 ]
