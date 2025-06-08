@@ -3028,7 +3028,7 @@
         "url": "https://www.dafont.com/forum/read/576152/mayhem-on-the-old-lady-gaga-em-recife",
         "title": "Mayhem On The Old (Lady Gaga em Recife)",
         "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1217317.jpg",
-        "identified_font": null
+        "identified_font": "Eidetic Neo"
     },
     {
         "task_id": "576151",
@@ -3042,6 +3042,34 @@
         "url": "https://www.dafont.com/forum/read/576150/what-s-the-font-name",
         "title": "what's the font name?",
         "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1217314.jpg",
+        "identified_font": null
+    },
+    {
+        "task_id": "576164",
+        "url": "https://www.dafont.com/forum/read/576164/i-need-this-font-asap",
+        "title": "I need this font ASAP!!!",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1217337.jpg",
+        "identified_font": null
+    },
+    {
+        "task_id": "576162",
+        "url": "https://www.dafont.com/forum/read/576162/font-bts-life-goes-on-and-by-aftaehyung-do-not-reupload-copy",
+        "title": "Font BTS - Life Goes On and by aftaehyung (do not reupload/copy)",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1217335.png",
+        "identified_font": null
+    },
+    {
+        "task_id": "576160",
+        "url": "https://www.dafont.com/forum/read/576160/uniao-de-marica-2026-carnaval-logo-enredo-theme",
+        "title": "Uni\u00e3o de Maric\u00e1 2026 Carnaval logo enredo theme",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1217330.jpg",
+        "identified_font": "Caron Circumflex"
+    },
+    {
+        "task_id": "576161",
+        "url": "https://www.dafont.com/forum/read/576161/dragoes-da-real-2026-carnaval-logo-enredo-theme",
+        "title": "Drag\u00f5es da real 2026 Carnaval logo enredo theme",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1217331.jpg",
         "identified_font": null
     }
 ]
