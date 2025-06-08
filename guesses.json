@@ -5318,5 +5318,47 @@
         "candidate_font_1": "",
         "candidate_font_2": "Gotham",
         "candidate_font_3": "Proxima Nova"
+    },
+    {
+        "task_id": "576172",
+        "model_name": "gpt-4o-mini",
+        "candidate_font_1": "Bodoni",
+        "candidate_font_2": "Didot",
+        "candidate_font_3": "Modern No. 20"
+    },
+    {
+        "task_id": "576172",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Friz Quadrata Bold",
+        "candidate_font_2": "Albertus Bold",
+        "candidate_font_3": ""
+    },
+    {
+        "task_id": "576171",
+        "model_name": "gpt-4o-mini",
+        "candidate_font_1": "Futura",
+        "candidate_font_2": "Helvetica Neue",
+        "candidate_font_3": "Avenir"
+    },
+    {
+        "task_id": "576171",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Menlo",
+        "candidate_font_2": "Meslo LG",
+        "candidate_font_3": "Anonymous Pro"
+    },
+    {
+        "task_id": "576170",
+        "model_name": "gpt-4o-mini",
+        "candidate_font_1": "Creepster",
+        "candidate_font_2": "Zombie",
+        "candidate_font_3": "Bizarre"
+    },
+    {
+        "task_id": "576170",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Chiller",
+        "candidate_font_2": "Scorched Earth",
+        "candidate_font_3": "Dirty Schoolboy"
     }
 ]
