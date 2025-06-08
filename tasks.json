@@ -2279,7 +2279,7 @@
         "url": "https://www.dafont.com/forum/read/576034/font-pair-maybe",
         "title": "font pair maybe?",
         "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1217054.jpg",
-        "identified_font": null
+        "identified_font": "Slight"
     },
     {
         "task_id": "576033",
@@ -3070,7 +3070,7 @@
         "url": "https://www.dafont.com/forum/read/576161/dragoes-da-real-2026-carnaval-logo-enredo-theme",
         "title": "Drag\u00f5es da real 2026 Carnaval logo enredo theme",
         "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1217331.jpg",
-        "identified_font": null
+        "identified_font": "Champion"
     },
     {
         "task_id": "576168",
@@ -3098,6 +3098,13 @@
         "url": "https://www.dafont.com/forum/read/576166/please-font-sutsujin",
         "title": "Please font sutsujin",
         "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1217339.jpg",
+        "identified_font": null
+    },
+    {
+        "task_id": "343023",
+        "url": "https://www.dafont.com/forum/read/343023/what-the-font-skymo",
+        "title": "what the font \"skymo\"",
+        "img_url": "https://www.dafont.com/forum/attach/orig/7/5/750375.png",
         "identified_font": null
     }
 ]
