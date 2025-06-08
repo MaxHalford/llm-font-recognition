@@ -2966,5 +2966,33 @@
         "title": "Font?",
         "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1217270.jpg",
         "identified_font": null
+    },
+    {
+        "task_id": "250732",
+        "url": "https://www.dafont.com/forum/read/250732/please-identify-this-font-thank-you-peet-s-coffee-tea",
+        "title": "Please identify this font! Thank you! Peet's Coffee & Tea",
+        "img_url": "https://www.dafont.com/forum/attach/orig/5/6/566898.png",
+        "identified_font": null
+    },
+    {
+        "task_id": "576149",
+        "url": "https://www.dafont.com/forum/read/576149/what-font",
+        "title": "What font?",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1217311.jpg",
+        "identified_font": null
+    },
+    {
+        "task_id": "576148",
+        "url": "https://www.dafont.com/forum/read/576148/font-name",
+        "title": "Font Name?",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1217307.jpg",
+        "identified_font": null
+    },
+    {
+        "task_id": "576146",
+        "url": "https://www.dafont.com/forum/read/576146/canal-once",
+        "title": "Canal Once",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1217302.png",
+        "identified_font": null
     }
 ]
