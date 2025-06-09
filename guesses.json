@@ -5696,5 +5696,82 @@
         "candidate_font_1": "Open Sans",
         "candidate_font_2": "Roboto",
         "candidate_font_3": "Lato"
+    },
+    {
+        "task_id": "576207",
+        "model_name": "gpt-4o-mini",
+        "candidate_font_1": "Pacifico",
+        "candidate_font_2": "Dancing Script",
+        "candidate_font_3": "Lobster"
+    },
+    {
+        "task_id": "576207",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Brilliant Soul",
+        "candidate_font_2": "Sweet Home",
+        "candidate_font_3": "The Rustic Font"
+    },
+    {
+        "task_id": "576205",
+        "model_name": "gpt-4o-mini",
+        "candidate_font_1": "Candy Cane",
+        "candidate_font_2": "Jolly",
+        "candidate_font_3": "Christmas Card"
+    },
+    {
+        "task_id": "576205",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Christmas on Crack",
+        "candidate_font_2": "A Little Snow",
+        "candidate_font_3": "Santa's Sleigh"
+    },
+    {
+        "task_id": "576204",
+        "model_name": "gpt-4o-mini",
+        "candidate_font_1": "Lobster",
+        "candidate_font_2": "Pacifico",
+        "candidate_font_3": "Bubbllicious"
+    },
+    {
+        "task_id": "576204",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Lobster",
+        "candidate_font_2": "Pacifico",
+        "candidate_font_3": "Varela Round"
+    },
+    {
+        "task_id": "576203",
+        "model_name": "gpt-4o-mini",
+        "candidate_font_1": "Great Vibes",
+        "candidate_font_2": "Pacifico",
+        "candidate_font_3": "Dancing Script"
+    },
+    {
+        "task_id": "576203",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Waltograph",
+        "candidate_font_2": "Beyond Wonderland",
+        "candidate_font_3": "Enchanted Land"
+    },
+    {
+        "task_id": "576202",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Porky's",
+        "candidate_font_2": "Komika Title",
+        "candidate_font_3": "Chewy"
+    },
+    {
+        "task_id": "576199",
+        "model_name": "gpt-4o-mini",
+        "candidate_font_1": "Lobster",
+        "candidate_font_2": "Pacifico",
+        "candidate_font_3": "Dancing Script"
+    },
+    {
+        "task_id": "576199",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Dollie Script",
+        "candidate_font_2": "Barbie (Custom Logotype)",
+        "candidate_font_3": "Barbie Script (unofficial recreations)"
     }
 ]
