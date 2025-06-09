@@ -3014,7 +3014,7 @@
         "url": "https://www.dafont.com/forum/read/576153/walt-disney-pictures-text",
         "title": "Walt Disney Pictures text",
         "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1217319.jpg",
-        "identified_font": null
+        "identified_font": "Trajan"
     },
     {
         "task_id": "576154",
@@ -3111,8 +3111,8 @@
         "task_id": "576172",
         "url": "https://www.dafont.com/forum/read/576172/ayuda-plssss",
         "title": "ayuda plssss",
-        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1217359.jpg",
-        "identified_font": null
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1217359.png?1",
+        "identified_font": "Broca"
     },
     {
         "task_id": "576171",
@@ -3175,7 +3175,7 @@
         "url": "https://www.dafont.com/forum/read/576182/john-waters-pink-flamingos-fonts-v4",
         "title": "John Waters' Pink Flamingos fonts v4",
         "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1217384.png",
-        "identified_font": null
+        "identified_font": "Commerical Script"
     },
     {
         "task_id": "576181",
@@ -3203,14 +3203,14 @@
         "url": "https://www.dafont.com/forum/read/576178/taylor-swift-speak-now-deluxe-enhanced-cd-content-list-font",
         "title": "Taylor Swift - Speak Now Deluxe enhanced cd content list font",
         "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1217380.png?1",
-        "identified_font": null
+        "identified_font": "Dakota"
     },
     {
         "task_id": "576177",
         "url": "https://www.dafont.com/forum/read/576177/taylor-swift-fearless-enhanced-cd-content-love-story-change-music-video-font",
         "title": "Taylor Swift - Fearless enhanced cd content Love Story / Change music video font",
         "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1217379.png",
-        "identified_font": null
+        "identified_font": "Sloop Script"
     },
     {
         "task_id": "574410",
@@ -3371,7 +3371,7 @@
         "url": "https://www.dafont.com/forum/read/576213/font-find",
         "title": "FONT FIND",
         "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1217432.jpg",
-        "identified_font": null
+        "identified_font": "Have Heart"
     },
     {
         "task_id": "576209",
@@ -3441,6 +3441,48 @@
         "url": "https://www.dafont.com/forum/read/576218/font-help-please",
         "title": "Font help please",
         "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1217445.jpg",
+        "identified_font": null
+    },
+    {
+        "task_id": "576227",
+        "url": "https://www.dafont.com/forum/read/576227/font-thx",
+        "title": "Font? Thx",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1217471.jpg",
+        "identified_font": null
+    },
+    {
+        "task_id": "576223",
+        "url": "https://www.dafont.com/forum/read/576223/identify-the-font-plss",
+        "title": "IDENTIFY THE FONT PLSS",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1217458.jpg?1",
+        "identified_font": "Stella"
+    },
+    {
+        "task_id": "576226",
+        "url": "https://www.dafont.com/forum/read/576226/help-me-please-to-find-similar-fonts",
+        "title": "Help me please to find similar fonts",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1217467.jpg",
+        "identified_font": null
+    },
+    {
+        "task_id": "576225",
+        "url": "https://www.dafont.com/forum/read/576225/albino-alligator-font",
+        "title": "ALBINO ALLIGATOR font",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1217462.jpg",
+        "identified_font": null
+    },
+    {
+        "task_id": "576224",
+        "url": "https://www.dafont.com/forum/read/576224/fonte-canal-viva",
+        "title": "Fonte Canal VIVA",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1217461.jpg",
+        "identified_font": null
+    },
+    {
+        "task_id": "576222",
+        "url": "https://www.dafont.com/forum/read/576222/font-identificacao-ou-bem-parecida",
+        "title": "Font identifica\u00e7\u00e3o ou bem parecida",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1217457.png",
         "identified_font": null
     }
 ]
