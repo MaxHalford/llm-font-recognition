@@ -5934,5 +5934,75 @@
         "candidate_font_1": "Trajan Pro",
         "candidate_font_2": "Magnolia Sky",
         "candidate_font_3": "Amsterdam One"
+    },
+    {
+        "task_id": "576227",
+        "model_name": "gpt-4o-mini",
+        "candidate_font_1": "Bebas Neue",
+        "candidate_font_2": "Oswald",
+        "candidate_font_3": "Montserrat"
+    },
+    {
+        "task_id": "576227",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Jersey M54",
+        "candidate_font_2": "Work Sans Thin",
+        "candidate_font_3": "NCAA Michigan State"
+    },
+    {
+        "task_id": "576226",
+        "model_name": "gpt-4o-mini",
+        "candidate_font_1": "Great Vibes",
+        "candidate_font_2": "Allura",
+        "candidate_font_3": "Lobster"
+    },
+    {
+        "task_id": "576226",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Pinyon Script",
+        "candidate_font_2": "Great Vibes",
+        "candidate_font_3": "Allura"
+    },
+    {
+        "task_id": "576225",
+        "model_name": "gpt-4o-mini",
+        "candidate_font_1": "Almendra",
+        "candidate_font_2": "Bebas Neue",
+        "candidate_font_3": "Lobster"
+    },
+    {
+        "task_id": "576225",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Road Rage",
+        "candidate_font_2": "Metal Mania",
+        "candidate_font_3": "Creepster"
+    },
+    {
+        "task_id": "576224",
+        "model_name": "gpt-4o-mini",
+        "candidate_font_1": "Montserrat",
+        "candidate_font_2": "Bebas Neue",
+        "candidate_font_3": "Raleway"
+    },
+    {
+        "task_id": "576224",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Mona Sans",
+        "candidate_font_2": "Proxima Nova Soft",
+        "candidate_font_3": "Geom Graphic Rounded"
+    },
+    {
+        "task_id": "576222",
+        "model_name": "gpt-4o-mini",
+        "candidate_font_1": "Bebas Neue",
+        "candidate_font_2": "Anton",
+        "candidate_font_3": "Impact"
+    },
+    {
+        "task_id": "576222",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Anton",
+        "candidate_font_2": "Bebas Neue Bold",
+        "candidate_font_3": "Lemon Milk Bold"
     }
 ]
