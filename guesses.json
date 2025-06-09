@@ -5850,5 +5850,19 @@
         "candidate_font_1": "Death Rattle",
         "candidate_font_2": "Nightmare",
         "candidate_font_3": "Creepshow"
+    },
+    {
+        "task_id": "576217",
+        "model_name": "gpt-4o-mini",
+        "candidate_font_1": "Bangers",
+        "candidate_font_2": "Luckiest Guy",
+        "candidate_font_3": "Anton"
+    },
+    {
+        "task_id": "576217",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Porky's",
+        "candidate_font_2": "Bubblegum Sans",
+        "candidate_font_3": "Chewy"
     }
 ]
