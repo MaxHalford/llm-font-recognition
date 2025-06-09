@@ -5584,5 +5584,117 @@
         "candidate_font_1": "Ben 10",
         "candidate_font_2": "Pricedown Black",
         "candidate_font_3": "Agency FB"
+    },
+    {
+        "task_id": "576198",
+        "model_name": "gpt-4o-mini",
+        "candidate_font_1": "Grunge Fonts",
+        "candidate_font_2": "Distorted Fonts",
+        "candidate_font_3": "Gothic Fonts"
+    },
+    {
+        "task_id": "576198",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "BloodLust",
+        "candidate_font_2": "Blood Thirst",
+        "candidate_font_3": "Creep Blood"
+    },
+    {
+        "task_id": "576197",
+        "model_name": "gpt-4o-mini",
+        "candidate_font_1": "Futura Bold",
+        "candidate_font_2": "Gotham Bold",
+        "candidate_font_3": "Bebas Neue"
+    },
+    {
+        "task_id": "576197",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Franklin Gothic Heavy",
+        "candidate_font_2": "Copperplate Gothic Bold",
+        "candidate_font_3": "Impact"
+    },
+    {
+        "task_id": "576195",
+        "model_name": "gpt-4o-mini",
+        "candidate_font_1": "Futura",
+        "candidate_font_2": "Bebas Neue",
+        "candidate_font_3": "Avant Garde Gothic"
+    },
+    {
+        "task_id": "576195",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "VAG Rounded",
+        "candidate_font_2": "Museo Sans Rounded",
+        "candidate_font_3": "Proxima Nova Soft"
+    },
+    {
+        "task_id": "576194",
+        "model_name": "gpt-4o-mini",
+        "candidate_font_1": "Kiddie Font",
+        "candidate_font_2": "Comic Sans MS",
+        "candidate_font_3": "Baloo Bhai"
+    },
+    {
+        "task_id": "576194",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Creepygirl",
+        "candidate_font_2": "Quartzo Bold",
+        "candidate_font_3": "Kids Rock"
+    },
+    {
+        "task_id": "576193",
+        "model_name": "gpt-4o-mini",
+        "candidate_font_1": "Futura",
+        "candidate_font_2": "Helvetica",
+        "candidate_font_3": "Arial"
+    },
+    {
+        "task_id": "576193",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "SF Square Head",
+        "candidate_font_2": "Microgramma D Extended Bold",
+        "candidate_font_3": "Eurostile Extended #2 Bold"
+    },
+    {
+        "task_id": "576192",
+        "model_name": "gpt-4o-mini",
+        "candidate_font_1": "Bebas Neue",
+        "candidate_font_2": "Impact",
+        "candidate_font_3": "Source Sans Pro"
+    },
+    {
+        "task_id": "576192",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Pricedown Black",
+        "candidate_font_2": "Eurostile Extended Black Italic",
+        "candidate_font_3": "Agency FB Bold Italic"
+    },
+    {
+        "task_id": "576191",
+        "model_name": "gpt-4o-mini",
+        "candidate_font_1": "Brush Script",
+        "candidate_font_2": "Pacifico",
+        "candidate_font_3": "Dancing Script"
+    },
+    {
+        "task_id": "576191",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Amatic SC",
+        "candidate_font_2": "Coming Soon",
+        "candidate_font_3": "Architects Daughter"
+    },
+    {
+        "task_id": "576189",
+        "model_name": "gpt-4o-mini",
+        "candidate_font_1": "Arial",
+        "candidate_font_2": "Helvetica",
+        "candidate_font_3": "Roboto"
+    },
+    {
+        "task_id": "576189",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Open Sans",
+        "candidate_font_2": "Roboto",
+        "candidate_font_3": "Lato"
     }
 ]
