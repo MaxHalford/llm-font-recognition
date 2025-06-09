@@ -6004,5 +6004,89 @@
         "candidate_font_1": "Anton",
         "candidate_font_2": "Bebas Neue Bold",
         "candidate_font_3": "Lemon Milk Bold"
+    },
+    {
+        "task_id": "576234",
+        "model_name": "gpt-4o-mini",
+        "candidate_font_1": "Bebas Neue",
+        "candidate_font_2": "Lobster",
+        "candidate_font_3": "Varela Round"
+    },
+    {
+        "task_id": "576234",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "",
+        "candidate_font_2": "",
+        "candidate_font_3": ""
+    },
+    {
+        "task_id": "576233",
+        "model_name": "gpt-4o-mini",
+        "candidate_font_1": "Arial Bold",
+        "candidate_font_2": "Verdana Bold",
+        "candidate_font_3": "Helvetica Bold"
+    },
+    {
+        "task_id": "576233",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Nunito",
+        "candidate_font_2": "Varela Round",
+        "candidate_font_3": "M PLUS Rounded 1c"
+    },
+    {
+        "task_id": "576232",
+        "model_name": "gpt-4o-mini",
+        "candidate_font_1": "Bebas Neue",
+        "candidate_font_2": "Fjalla One",
+        "candidate_font_3": "Anton"
+    },
+    {
+        "task_id": "576232",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "BadaBoom BB",
+        "candidate_font_2": "Good Time",
+        "candidate_font_3": "Open Sans SemiBold"
+    },
+    {
+        "task_id": "576231",
+        "model_name": "gpt-4o-mini",
+        "candidate_font_1": "Blambot Casual",
+        "candidate_font_2": "Comic Sans MS",
+        "candidate_font_3": "Marker Felt"
+    },
+    {
+        "task_id": "576231",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Akbar",
+        "candidate_font_2": "The Simpsons Cartoon Font",
+        "candidate_font_3": "Compacta Black"
+    },
+    {
+        "task_id": "576229",
+        "model_name": "gpt-4o-mini",
+        "candidate_font_1": "Bebas Neue",
+        "candidate_font_2": "Impact Label",
+        "candidate_font_3": "ChunkFive"
+    },
+    {
+        "task_id": "576229",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Road Rage",
+        "candidate_font_2": "Headquarters Rough",
+        "candidate_font_3": "Bebas Neue Rough"
+    },
+    {
+        "task_id": "576228",
+        "model_name": "gpt-4o-mini",
+        "candidate_font_1": "Impact",
+        "candidate_font_2": "Arial Black",
+        "candidate_font_3": "Bebas Neue"
+    },
+    {
+        "task_id": "576228",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Porky's",
+        "candidate_font_2": "Cream Peach",
+        "candidate_font_3": "ITC Cooper Black"
     }
 ]
