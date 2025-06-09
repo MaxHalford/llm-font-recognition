@@ -2447,7 +2447,7 @@
         "url": "https://www.dafont.com/forum/read/560830/vote-font-please",
         "title": "\u0093Vote\u0094 font, please.",
         "img_url": "https://www.dafont.com/forum/attach/orig/1/1/1186165.jpg",
-        "identified_font": null
+        "identified_font": "Saturday Loving"
     },
     {
         "task_id": "576053",
@@ -3125,8 +3125,8 @@
         "task_id": "576170",
         "url": "https://www.dafont.com/forum/read/576170/come-get-some-wwf",
         "title": "come get some wwf",
-        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1217357.jpg",
-        "identified_font": null
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1217357.png?1",
+        "identified_font": "Outhouse"
     },
     {
         "task_id": "576188",
@@ -3272,8 +3272,8 @@
         "task_id": "576194",
         "url": "https://www.dafont.com/forum/read/576194/the-mighty-b-end-credits-font-identification",
         "title": "The Mighty B! End Credits Font Identification",
-        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1217398.jpg",
-        "identified_font": null
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1217398.png?1",
+        "identified_font": "Stovetop"
     },
     {
         "task_id": "576193",
@@ -3378,7 +3378,7 @@
         "url": "https://www.dafont.com/forum/read/576209/font-find",
         "title": "FONT FIND",
         "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1217420.jpg",
-        "identified_font": null
+        "identified_font": "Aphasia"
     },
     {
         "task_id": "576208",
@@ -3386,5 +3386,26 @@
         "title": "alpha dawn, weird cartoony",
         "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1217419.jpg",
         "identified_font": null
+    },
+    {
+        "task_id": "576217",
+        "url": "https://www.dafont.com/forum/read/576217/can-anyone-help-with-this-font-please",
+        "title": "Can anyone help with this font please?",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1217444.jpg",
+        "identified_font": null
+    },
+    {
+        "task_id": "543990",
+        "url": "https://www.dafont.com/forum/read/543990/sparkling-blue-font-please",
+        "title": "SPARKLING BLUE FONT PLEASE",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/1/1150036.png",
+        "identified_font": "Starboy"
+    },
+    {
+        "task_id": "576216",
+        "url": "https://www.dafont.com/forum/read/576216/which-this-font-please",
+        "title": "Which this font, please?",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1217435.png",
+        "identified_font": "Flotta"
     }
 ]
