@@ -5864,5 +5864,75 @@
         "candidate_font_1": "Porky's",
         "candidate_font_2": "Bubblegum Sans",
         "candidate_font_3": "Chewy"
+    },
+    {
+        "task_id": "576220",
+        "model_name": "gpt-4o-mini",
+        "candidate_font_1": "Comic Sans MS",
+        "candidate_font_2": "Chalkboard SE",
+        "candidate_font_3": "Marker Felt"
+    },
+    {
+        "task_id": "576220",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Architects Daughter",
+        "candidate_font_2": "Handlee",
+        "candidate_font_3": "Coming Soon"
+    },
+    {
+        "task_id": "575615",
+        "model_name": "gpt-4o-mini",
+        "candidate_font_1": "Bebas Neue",
+        "candidate_font_2": "Impact",
+        "candidate_font_3": "Oswald"
+    },
+    {
+        "task_id": "575615",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "SF Collegiate Solid",
+        "candidate_font_2": "Varsity Regular",
+        "candidate_font_3": "Montserrat Black"
+    },
+    {
+        "task_id": "576221",
+        "model_name": "gpt-4o-mini",
+        "candidate_font_1": "Barker",
+        "candidate_font_2": "Posterizer",
+        "candidate_font_3": "Carnivalee Freakshow"
+    },
+    {
+        "task_id": "576221",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Riesling",
+        "candidate_font_2": "Burlesque",
+        "candidate_font_3": "Showboat"
+    },
+    {
+        "task_id": "576219",
+        "model_name": "gpt-4o-mini",
+        "candidate_font_1": "Lobster",
+        "candidate_font_2": "Pacifico",
+        "candidate_font_3": "Dancing Script"
+    },
+    {
+        "task_id": "576219",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Marker Felt",
+        "candidate_font_2": "Chalkduster",
+        "candidate_font_3": "Coming Soon"
+    },
+    {
+        "task_id": "576218",
+        "model_name": "gpt-4o-mini",
+        "candidate_font_1": "Bodoni Moda",
+        "candidate_font_2": "Great Vibes",
+        "candidate_font_3": "Raleway"
+    },
+    {
+        "task_id": "576218",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Trajan Pro",
+        "candidate_font_2": "Magnolia Sky",
+        "candidate_font_3": "Amsterdam One"
     }
 ]
