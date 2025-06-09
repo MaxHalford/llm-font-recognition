@@ -3032,9 +3032,9 @@
     },
     {
         "task_id": "576151",
-        "url": "https://www.dafont.com/forum/read/576151/help-me-here-help-meeeeee",
-        "title": "HELP ME HERE, HELP MEEEEEE",
-        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1217316.png",
+        "url": "https://www.dafont.com/forum/read/576151/help-me-please-help-me",
+        "title": "HELP ME, PLEASE HELP ME",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1217316.jpg?1",
         "identified_font": null
     },
     {
@@ -3440,8 +3440,8 @@
         "task_id": "576218",
         "url": "https://www.dafont.com/forum/read/576218/font-help-please",
         "title": "Font help please",
-        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1217445.jpg",
-        "identified_font": null
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1217445.jpg?2",
+        "identified_font": "Sophistica"
     },
     {
         "task_id": "576227",
@@ -3480,9 +3480,51 @@
     },
     {
         "task_id": "576222",
-        "url": "https://www.dafont.com/forum/read/576222/font-identificacao-ou-bem-parecida",
-        "title": "Font identifica\u00e7\u00e3o ou bem parecida",
-        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1217457.png",
+        "url": "https://www.dafont.com/forum/read/576222/joalis-barber",
+        "title": "Joalis Barber",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1217457.jpg?1",
+        "identified_font": "Airstrike"
+    },
+    {
+        "task_id": "576234",
+        "url": "https://www.dafont.com/forum/read/576234/superbus",
+        "title": "Superbus",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1217485.png",
+        "identified_font": null
+    },
+    {
+        "task_id": "576233",
+        "url": "https://www.dafont.com/forum/read/576233/river-metals",
+        "title": "River Metals",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1217484.jpg",
+        "identified_font": null
+    },
+    {
+        "task_id": "576232",
+        "url": "https://www.dafont.com/forum/read/576232/find-font",
+        "title": "find font",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1217483.jpg",
+        "identified_font": null
+    },
+    {
+        "task_id": "576231",
+        "url": "https://www.dafont.com/forum/read/576231/both-fonts-please",
+        "title": "Both fonts please?",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1217479.jpg",
+        "identified_font": null
+    },
+    {
+        "task_id": "576229",
+        "url": "https://www.dafont.com/forum/read/576229/please-help-id",
+        "title": "Please Help ID",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1217477.png",
+        "identified_font": null
+    },
+    {
+        "task_id": "576228",
+        "url": "https://www.dafont.com/forum/read/576228/anyone-know-this-one",
+        "title": "Anyone know this one?",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1217475.jpg",
         "identified_font": null
     }
 ]
