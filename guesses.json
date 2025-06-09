@@ -5773,5 +5773,82 @@
         "candidate_font_1": "Dollie Script",
         "candidate_font_2": "Barbie (Custom Logotype)",
         "candidate_font_3": "Barbie Script (unofficial recreations)"
+    },
+    {
+        "task_id": "576202",
+        "model_name": "gpt-4o-mini",
+        "candidate_font_1": "Bubblegum Sans",
+        "candidate_font_2": "Comic Sans MS",
+        "candidate_font_3": "Freestyle Script"
+    },
+    {
+        "task_id": "576215",
+        "model_name": "gpt-4o-mini",
+        "candidate_font_1": "Impact",
+        "candidate_font_2": "Bebas Neue",
+        "candidate_font_3": "Oswald"
+    },
+    {
+        "task_id": "576215",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "United Sans Heavy Condensed",
+        "candidate_font_2": "Agency FB Extended Bold",
+        "candidate_font_3": "Conduit ITC Compressed Bold"
+    },
+    {
+        "task_id": "576214",
+        "model_name": "gpt-4o-mini",
+        "candidate_font_1": "Bebas Neue",
+        "candidate_font_2": "Futura",
+        "candidate_font_3": "Helvetica"
+    },
+    {
+        "task_id": "576214",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Gotham",
+        "candidate_font_2": "Montserrat",
+        "candidate_font_3": "Proxima Nova"
+    },
+    {
+        "task_id": "576213",
+        "model_name": "gpt-4o-mini",
+        "candidate_font_1": "Scriptina",
+        "candidate_font_2": "Dancing Script",
+        "candidate_font_3": "Great Vibes"
+    },
+    {
+        "task_id": "576213",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "The Brushes",
+        "candidate_font_2": "Minion Pro",
+        "candidate_font_3": "Montserrat"
+    },
+    {
+        "task_id": "576209",
+        "model_name": "gpt-4o-mini",
+        "candidate_font_1": "Lobster",
+        "candidate_font_2": "Great Vibes",
+        "candidate_font_3": ""
+    },
+    {
+        "task_id": "576209",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Gotham Black",
+        "candidate_font_2": "Bromello",
+        "candidate_font_3": "Gotham Bold"
+    },
+    {
+        "task_id": "576208",
+        "model_name": "gpt-4o-mini",
+        "candidate_font_1": "Comic Sans MS",
+        "candidate_font_2": "Chiller",
+        "candidate_font_3": "Dirty Headline"
+    },
+    {
+        "task_id": "576208",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Death Rattle",
+        "candidate_font_2": "Nightmare",
+        "candidate_font_3": "Creepshow"
     }
 ]
