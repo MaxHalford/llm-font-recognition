@@ -6242,5 +6242,131 @@
         "candidate_font_1": "Goudy Old Style Italic",
         "candidate_font_2": "Goudy Old Style Regular",
         "candidate_font_3": "Palatino"
+    },
+    {
+        "task_id": "574931",
+        "model_name": "gpt-4o-mini",
+        "candidate_font_1": "Creepster",
+        "candidate_font_2": "Zombie",
+        "candidate_font_3": "Blood Writing"
+    },
+    {
+        "task_id": "574931",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Bloody",
+        "candidate_font_2": "Blood Blocks",
+        "candidate_font_3": "YouMurderer"
+    },
+    {
+        "task_id": "576256",
+        "model_name": "gpt-4o-mini",
+        "candidate_font_1": "Lobster",
+        "candidate_font_2": "Pacifico",
+        "candidate_font_3": "Brush Script MT"
+    },
+    {
+        "task_id": "576256",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Brightwall",
+        "candidate_font_2": "Stay Grumpy",
+        "candidate_font_3": "Panton"
+    },
+    {
+        "task_id": "576255",
+        "model_name": "gpt-4o-mini",
+        "candidate_font_1": "Pixelated",
+        "candidate_font_2": "Bitmap",
+        "candidate_font_3": "Press Start 2P"
+    },
+    {
+        "task_id": "576255",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Pixelmix",
+        "candidate_font_2": "",
+        "candidate_font_3": ""
+    },
+    {
+        "task_id": "576254",
+        "model_name": "gpt-4o-mini",
+        "candidate_font_1": "Brush Script MT",
+        "candidate_font_2": "Segoe Script",
+        "candidate_font_3": "Lucida Handwriting"
+    },
+    {
+        "task_id": "576254",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Neo Sans Std",
+        "candidate_font_2": "Montserrat",
+        "candidate_font_3": ""
+    },
+    {
+        "task_id": "576253",
+        "model_name": "gpt-4o-mini",
+        "candidate_font_1": "Georgia",
+        "candidate_font_2": "Garamond",
+        "candidate_font_3": "Merriweather"
+    },
+    {
+        "task_id": "576253",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Adobe Garamond Pro",
+        "candidate_font_2": "Garamond Premier Pro",
+        "candidate_font_3": "Minion Pro"
+    },
+    {
+        "task_id": "576252",
+        "model_name": "gpt-4o-mini",
+        "candidate_font_1": "Comic Sans MS",
+        "candidate_font_2": "Chalkboard SE",
+        "candidate_font_3": "Patrick Hand"
+    },
+    {
+        "task_id": "576252",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Akbar",
+        "candidate_font_2": "Go Chee Hand",
+        "candidate_font_3": "Coming Soon"
+    },
+    {
+        "task_id": "576251",
+        "model_name": "gpt-4o-mini",
+        "candidate_font_1": "Bebas Neue",
+        "candidate_font_2": "Oswald",
+        "candidate_font_3": "Impact"
+    },
+    {
+        "task_id": "576251",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Agency FB Bold",
+        "candidate_font_2": "Agency FB Regular",
+        "candidate_font_3": ""
+    },
+    {
+        "task_id": "576250",
+        "model_name": "gpt-4o-mini",
+        "candidate_font_1": "Ford Sans",
+        "candidate_font_2": "Bebas Neue",
+        "candidate_font_3": "Impact"
+    },
+    {
+        "task_id": "576250",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Bank Gothic Bold",
+        "candidate_font_2": "Industry Ultra",
+        "candidate_font_3": "Gotham Black"
+    },
+    {
+        "task_id": "576249",
+        "model_name": "gpt-4o-mini",
+        "candidate_font_1": "Comic Sans MS",
+        "candidate_font_2": "Bubblegum Sans",
+        "candidate_font_3": "Amatic SC"
+    },
+    {
+        "task_id": "576249",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Grobold",
+        "candidate_font_2": "VAG Rounded Bold",
+        "candidate_font_3": "Arial Rounded MT Bold"
     }
 ]
