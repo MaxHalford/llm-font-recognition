@@ -326,7 +326,7 @@
         "url": "https://www.dafont.com/forum/read/558859/taylor-swift-font-please",
         "title": "\u0093taylor swift\u0094 font, please.",
         "img_url": "https://www.dafont.com/forum/attach/orig/1/1/1181935.png",
-        "identified_font": null
+        "identified_font": "Dumpling"
     },
     {
         "task_id": "549379",
@@ -3742,6 +3742,55 @@
         "url": "https://www.dafont.com/forum/read/576257/deadline-font",
         "title": "DEADLINE FONT",
         "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1217544.jpg",
+        "identified_font": null
+    },
+    {
+        "task_id": "576265",
+        "url": "https://www.dafont.com/forum/read/576265/superbus",
+        "title": "superbus",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1217557.jpg",
+        "identified_font": null
+    },
+    {
+        "task_id": "576267",
+        "url": "https://www.dafont.com/forum/read/576267/cloche",
+        "title": "cloche",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1217559.png",
+        "identified_font": null
+    },
+    {
+        "task_id": "309053",
+        "url": "https://www.dafont.com/forum/read/309053/rugrats-episode-title-font",
+        "title": "Rugrats Episode Title Font",
+        "img_url": "https://www.dafont.com/forum/attach/orig/6/8/683108.jpg",
+        "identified_font": null
+    },
+    {
+        "task_id": "576263",
+        "url": "https://www.dafont.com/forum/read/576263/what-font-is-this-tineretul-libera-header",
+        "title": "What font is this: Tineretul Libera header",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1217554.png",
+        "identified_font": null
+    },
+    {
+        "task_id": "555793",
+        "url": "https://www.dafont.com/forum/read/555793/cardone",
+        "title": "CARDONE",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/1/1175439.png?1",
+        "identified_font": null
+    },
+    {
+        "task_id": "576266",
+        "url": "https://www.dafont.com/forum/read/576266/superbus-aero",
+        "title": "superbus aero",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1217558.png",
+        "identified_font": null
+    },
+    {
+        "task_id": "576264",
+        "url": "https://www.dafont.com/forum/read/576264/what-font-is-this-tineretul-libera-header",
+        "title": "What font is this: Tineretul Libera header",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1217555.png",
         "identified_font": null
     }
 ]
