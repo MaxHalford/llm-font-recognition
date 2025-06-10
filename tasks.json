@@ -3720,8 +3720,8 @@
         "task_id": "576261",
         "url": "https://www.dafont.com/forum/read/576261/what-is-the-name-of-these-fonts-please",
         "title": "What is the name of these fonts? Please",
-        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1217552.png",
-        "identified_font": null
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1217552.jpg?1",
+        "identified_font": "Titania"
     },
     {
         "task_id": "576260",
@@ -3818,8 +3818,8 @@
         "task_id": "576274",
         "url": "https://www.dafont.com/forum/read/576274/all-invitation-font",
         "title": "All invitation font",
-        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1217574.jpg",
-        "identified_font": null
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1217574.jpg?1",
+        "identified_font": "Bungee"
     },
     {
         "task_id": "576273",
@@ -3854,6 +3854,62 @@
         "url": "https://www.dafont.com/forum/read/576268/retro-font-identification",
         "title": "Retro Font identification",
         "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1217568.png",
+        "identified_font": null
+    },
+    {
+        "task_id": "576288",
+        "url": "https://www.dafont.com/forum/read/576288/what-font-please",
+        "title": "What font Please",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1217596.png",
+        "identified_font": null
+    },
+    {
+        "task_id": "576284",
+        "url": "https://www.dafont.com/forum/read/576284/font-find",
+        "title": "FONT FIND",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1217589.jpg",
+        "identified_font": "Nimbus"
+    },
+    {
+        "task_id": "576286",
+        "url": "https://www.dafont.com/forum/read/576286/can-you-help-to-find-this-font-please",
+        "title": "Can you help to find this font please?",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1217593.jpg",
+        "identified_font": null
+    },
+    {
+        "task_id": "576282",
+        "url": "https://www.dafont.com/forum/read/576282/heeelp",
+        "title": "HEEELP",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1217586.png",
+        "identified_font": null
+    },
+    {
+        "task_id": "576285",
+        "url": "https://www.dafont.com/forum/read/576285/best-title-notary-services",
+        "title": "Best Title & Notary Services",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1217591.jpg",
+        "identified_font": null
+    },
+    {
+        "task_id": "576280",
+        "url": "https://www.dafont.com/forum/read/576280/what-is-the-handwritten-font-for-this-logo",
+        "title": "What is the handwritten font for this logo?",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1217583.jpg",
+        "identified_font": null
+    },
+    {
+        "task_id": "576279",
+        "url": "https://www.dafont.com/forum/read/576279/what-are-the-fonts-used-here",
+        "title": "What are the fonts used here?",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1217582.png",
+        "identified_font": null
+    },
+    {
+        "task_id": "576278",
+        "url": "https://www.dafont.com/forum/read/576278/2025-disney-channel-font",
+        "title": "2025 Disney Channel Font",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1217580.png",
         "identified_font": null
     }
 ]
