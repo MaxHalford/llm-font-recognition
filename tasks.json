@@ -3546,7 +3546,7 @@
         "url": "https://www.dafont.com/forum/read/566091/taylor-swift-font-please",
         "title": "\u0093taylor swift\u0094 font, please. &#128591;",
         "img_url": "https://www.dafont.com/forum/attach/orig/1/1/1197403.png?1",
-        "identified_font": null
+        "identified_font": "Francisco"
     },
     {
         "task_id": "570151",
@@ -3707,6 +3707,41 @@
         "url": "https://www.dafont.com/forum/read/576249/what-font-is-this",
         "title": "What font is this?",
         "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1217533.jpg",
+        "identified_font": null
+    },
+    {
+        "task_id": "576262",
+        "url": "https://www.dafont.com/forum/read/576262/korean-font-please",
+        "title": "Korean Font please",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1217553.jpg",
+        "identified_font": null
+    },
+    {
+        "task_id": "576261",
+        "url": "https://www.dafont.com/forum/read/576261/what-is-the-name-of-these-fonts-please",
+        "title": "What is the name of these fonts? Please",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1217552.png",
+        "identified_font": null
+    },
+    {
+        "task_id": "576260",
+        "url": "https://www.dafont.com/forum/read/576260/baby-dont-cry",
+        "title": "Baby DONT Cry",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1217547.png?1",
+        "identified_font": null
+    },
+    {
+        "task_id": "576259",
+        "url": "https://www.dafont.com/forum/read/576259/behind-the-cam",
+        "title": "behind the cam",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1217546.jpg",
+        "identified_font": null
+    },
+    {
+        "task_id": "576257",
+        "url": "https://www.dafont.com/forum/read/576257/deadline-font",
+        "title": "DEADLINE FONT",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1217544.jpg",
         "identified_font": null
     }
 ]
