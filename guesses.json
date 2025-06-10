@@ -6200,5 +6200,47 @@
         "candidate_font_1": "Impact",
         "candidate_font_2": "Bebas Neue",
         "candidate_font_3": "Anton"
+    },
+    {
+        "task_id": "576248",
+        "model_name": "gpt-4o-mini",
+        "candidate_font_1": "Brush Script",
+        "candidate_font_2": "Lobster",
+        "candidate_font_3": "Pacifico"
+    },
+    {
+        "task_id": "576248",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Black Mask",
+        "candidate_font_2": "Black Hawk",
+        "candidate_font_3": "Stay Grumpy"
+    },
+    {
+        "task_id": "451968",
+        "model_name": "gpt-4o-mini",
+        "candidate_font_1": "Impact",
+        "candidate_font_2": "Bebas Neue",
+        "candidate_font_3": "DIN Condensed"
+    },
+    {
+        "task_id": "451968",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "United Sans SemiCondensed Heavy Italic",
+        "candidate_font_2": "Tungsten Black Italic",
+        "candidate_font_3": "Archivo Black Italic"
+    },
+    {
+        "task_id": "576247",
+        "model_name": "gpt-4o-mini",
+        "candidate_font_1": "Bodoni",
+        "candidate_font_2": "Didot",
+        "candidate_font_3": "Georgia"
+    },
+    {
+        "task_id": "576247",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Goudy Old Style Italic",
+        "candidate_font_2": "Goudy Old Style Regular",
+        "candidate_font_3": "Palatino"
     }
 ]
