@@ -6368,5 +6368,75 @@
         "candidate_font_1": "Grobold",
         "candidate_font_2": "VAG Rounded Bold",
         "candidate_font_3": "Arial Rounded MT Bold"
+    },
+    {
+        "task_id": "576262",
+        "model_name": "gpt-4o-mini",
+        "candidate_font_1": "Lobster",
+        "candidate_font_2": "Pacifico",
+        "candidate_font_3": "Dancing Script"
+    },
+    {
+        "task_id": "576262",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Coming Soon",
+        "candidate_font_2": "",
+        "candidate_font_3": ""
+    },
+    {
+        "task_id": "576261",
+        "model_name": "gpt-4o-mini",
+        "candidate_font_1": "Bodoni",
+        "candidate_font_2": "Didot",
+        "candidate_font_3": "Playfair Display"
+    },
+    {
+        "task_id": "576261",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Coquette",
+        "candidate_font_2": "ITC Tiffany",
+        "candidate_font_3": "ITC Benguiat"
+    },
+    {
+        "task_id": "576260",
+        "model_name": "gpt-4o-mini",
+        "candidate_font_1": "Bodoni Italic",
+        "candidate_font_2": "Great Vibes",
+        "candidate_font_3": "Lobster"
+    },
+    {
+        "task_id": "576260",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Bickham Script Pro",
+        "candidate_font_2": "Requiem Display",
+        "candidate_font_3": ""
+    },
+    {
+        "task_id": "576259",
+        "model_name": "gpt-4o-mini",
+        "candidate_font_1": "Bebas Neue",
+        "candidate_font_2": "Oswald",
+        "candidate_font_3": "Montserrat"
+    },
+    {
+        "task_id": "576259",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Oblik Bold",
+        "candidate_font_2": "Codec Warm Heavy",
+        "candidate_font_3": "Muller ExtraBold"
+    },
+    {
+        "task_id": "576257",
+        "model_name": "gpt-4o-mini",
+        "candidate_font_1": "Bodoni",
+        "candidate_font_2": "Didot",
+        "candidate_font_3": "Playfair Display"
+    },
+    {
+        "task_id": "576257",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Butler",
+        "candidate_font_2": "Roxborough CF",
+        "candidate_font_3": "Voyageur Display"
     }
 ]
