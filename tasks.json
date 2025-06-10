@@ -2628,7 +2628,7 @@
         "task_id": "576101",
         "url": "https://www.dafont.com/forum/read/576101/font-name",
         "title": "Font name? :)",
-        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1217194.jpg",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1217194.png?1",
         "identified_font": null
     },
     {
@@ -3910,6 +3910,62 @@
         "url": "https://www.dafont.com/forum/read/576278/2025-disney-channel-font",
         "title": "2025 Disney Channel Font",
         "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1217580.png",
+        "identified_font": null
+    },
+    {
+        "task_id": "576290",
+        "url": "https://www.dafont.com/forum/read/576290/twice-japan-6th-album-enemy",
+        "title": "TWICE JAPAN 6th ALBUM \u0093ENEMY\u0094",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1217602.png",
+        "identified_font": null
+    },
+    {
+        "task_id": "576296",
+        "url": "https://www.dafont.com/forum/read/576296/help-font-please",
+        "title": "HELP!!!!! FONT PLEASE",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1217610.png",
+        "identified_font": null
+    },
+    {
+        "task_id": "576295",
+        "url": "https://www.dafont.com/forum/read/576295/font-thx",
+        "title": "Font? Thx",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1217609.jpg",
+        "identified_font": null
+    },
+    {
+        "task_id": "576294",
+        "url": "https://www.dafont.com/forum/read/576294/font-for-greetings-from-the-from-rem-beauty-x-wicked",
+        "title": "font for \u0093greetings from the\u0085\u0094 from rem beauty x wicked",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1217608.jpg",
+        "identified_font": null
+    },
+    {
+        "task_id": "576293",
+        "url": "https://www.dafont.com/forum/read/576293/what-font-is",
+        "title": "What font is?",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1217607.jpg",
+        "identified_font": null
+    },
+    {
+        "task_id": "576292",
+        "url": "https://www.dafont.com/forum/read/576292/what-font-is-this-thanks",
+        "title": "What font is this? thanks!",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1217604.jpg",
+        "identified_font": "Alegreya"
+    },
+    {
+        "task_id": "576291",
+        "url": "https://www.dafont.com/forum/read/576291/unknown-font-help",
+        "title": "Unknown font help",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1217603.png",
+        "identified_font": null
+    },
+    {
+        "task_id": "576289",
+        "url": "https://www.dafont.com/forum/read/576289/twice-this-is-for-world-tour-in-japan",
+        "title": "TWICE <THIS IS FOR> WORLD TOUR IN JAPAN",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1217601.png",
         "identified_font": null
     }
 ]
