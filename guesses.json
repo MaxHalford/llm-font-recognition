@@ -6536,5 +6536,131 @@
         "candidate_font_1": "Impact",
         "candidate_font_2": "Haettenschweiler",
         "candidate_font_3": "Agency FB Black"
+    },
+    {
+        "task_id": "576276",
+        "model_name": "gpt-4o-mini",
+        "candidate_font_1": "Bebas Neue",
+        "candidate_font_2": "ChunkFive",
+        "candidate_font_3": null
+    },
+    {
+        "task_id": "576276",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Grinched",
+        "candidate_font_2": "Porky's",
+        "candidate_font_3": "Chewy"
+    },
+    {
+        "task_id": "576272",
+        "model_name": "gpt-4o-mini",
+        "candidate_font_1": "Great Vibes",
+        "candidate_font_2": "Dancing Script",
+        "candidate_font_3": "Allura"
+    },
+    {
+        "task_id": "576272",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Bickham Script Pro",
+        "candidate_font_2": "Shelley Allegro",
+        "candidate_font_3": "Affectionately Yours"
+    },
+    {
+        "task_id": "576275",
+        "model_name": "gpt-4o-mini",
+        "candidate_font_1": "Bodoni",
+        "candidate_font_2": "Didot",
+        "candidate_font_3": "Playfair Display"
+    },
+    {
+        "task_id": "576275",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Playbill",
+        "candidate_font_2": "Didot",
+        "candidate_font_3": "Bodoni"
+    },
+    {
+        "task_id": "576274",
+        "model_name": "gpt-4o-mini",
+        "candidate_font_1": "Minecraft",
+        "candidate_font_2": "ChunkFive",
+        "candidate_font_3": "Blox Regular"
+    },
+    {
+        "task_id": "576274",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Minecraft Regular",
+        "candidate_font_2": "Mada Black",
+        "candidate_font_3": "Minecrafter"
+    },
+    {
+        "task_id": "576273",
+        "model_name": "gpt-4o-mini",
+        "candidate_font_1": "Great Vibes",
+        "candidate_font_2": "Alex Brush",
+        "candidate_font_3": "Bickham Script Pro"
+    },
+    {
+        "task_id": "576273",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Scriptina Pro",
+        "candidate_font_2": "Garamond",
+        "candidate_font_3": "Perpetua"
+    },
+    {
+        "task_id": "576271",
+        "model_name": "gpt-4o-mini",
+        "candidate_font_1": "Comic Sans MS",
+        "candidate_font_2": "Bubblegum Sans",
+        "candidate_font_3": "Poppins"
+    },
+    {
+        "task_id": "576271",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Chewy",
+        "candidate_font_2": "Bubblegum Sans",
+        "candidate_font_3": "Luckiest Guy"
+    },
+    {
+        "task_id": "576270",
+        "model_name": "gpt-4o-mini",
+        "candidate_font_1": "Kawaii",
+        "candidate_font_2": "Baloo",
+        "candidate_font_3": "BubbleGum"
+    },
+    {
+        "task_id": "576270",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Chewy",
+        "candidate_font_2": "Bubblegum Sans",
+        "candidate_font_3": "Cute Bubble"
+    },
+    {
+        "task_id": "576269",
+        "model_name": "gpt-4o-mini",
+        "candidate_font_1": "Bungee",
+        "candidate_font_2": "Luckiest Guy",
+        "candidate_font_3": "Rock Salt"
+    },
+    {
+        "task_id": "576269",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Bubblegum Sans",
+        "candidate_font_2": "Compacta",
+        "candidate_font_3": "Luckiest Guy"
+    },
+    {
+        "task_id": "576268",
+        "model_name": "gpt-4o-mini",
+        "candidate_font_1": "Press Start 2P",
+        "candidate_font_2": "Super Mario 256",
+        "candidate_font_3": "Pixel LCD"
+    },
+    {
+        "task_id": "576268",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Upheaval TTF",
+        "candidate_font_2": "Retron2000",
+        "candidate_font_3": "Arcade Classic"
     }
 ]
