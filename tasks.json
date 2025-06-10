@@ -3603,5 +3603,47 @@
         "title": "Help me identify this!",
         "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1217486.png",
         "identified_font": null
+    },
+    {
+        "task_id": "576246",
+        "url": "https://www.dafont.com/forum/read/576246/can-anyone-please-tell-me-the-name-of-this-font-thank-you",
+        "title": "Can anyone please tell me the name of this font? Thank you!",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1217525.png",
+        "identified_font": "Imagine"
+    },
+    {
+        "task_id": "576248",
+        "url": "https://www.dafont.com/forum/read/576248/help-please",
+        "title": "Help Please",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1217528.jpg",
+        "identified_font": null
+    },
+    {
+        "task_id": "451968",
+        "url": "https://www.dafont.com/forum/read/451968/sportsnet-font",
+        "title": "Sportsnet Font",
+        "img_url": "https://www.dafont.com/forum/attach/orig/9/6/965634.png",
+        "identified_font": null
+    },
+    {
+        "task_id": "576247",
+        "url": "https://www.dafont.com/forum/read/576247/making-fiends-end-credits-font",
+        "title": "Making Fiends end credits font?",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1217526.jpg",
+        "identified_font": null
+    },
+    {
+        "task_id": "576245",
+        "url": "https://www.dafont.com/forum/read/576245/font-please",
+        "title": "FONT PLEASE",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1217520.png",
+        "identified_font": "Quitle"
+    },
+    {
+        "task_id": "576244",
+        "url": "https://www.dafont.com/forum/read/576244/any-idea-what-charlotte-font-is",
+        "title": "Any idea what Charlotte font is?",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1217518.png",
+        "identified_font": "Bauer Bodoni Black"
     }
 ]
