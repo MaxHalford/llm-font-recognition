@@ -7236,5 +7236,145 @@
         "candidate_font_1": "Montserrat Black",
         "candidate_font_2": "Bodoni Std",
         "candidate_font_3": "Visby Round CF"
+    },
+    {
+        "task_id": "576344",
+        "model_name": "gpt-4o-mini",
+        "candidate_font_1": "Baloo Bhai",
+        "candidate_font_2": "Varela Round",
+        "candidate_font_3": "Nunito"
+    },
+    {
+        "task_id": "576344",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Fredoka One",
+        "candidate_font_2": "Gochi Hand",
+        "candidate_font_3": "Chewy"
+    },
+    {
+        "task_id": "576343",
+        "model_name": "gpt-4o-mini",
+        "candidate_font_1": "Bodoni",
+        "candidate_font_2": "Didot",
+        "candidate_font_3": "Playfair Display"
+    },
+    {
+        "task_id": "576343",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Clarendon Bold",
+        "candidate_font_2": "Bookman Old Style Bold",
+        "candidate_font_3": "Ionic No. 5 Bold"
+    },
+    {
+        "task_id": "576342",
+        "model_name": "gpt-4o-mini",
+        "candidate_font_1": "Montserrat",
+        "candidate_font_2": "Bebas Neue",
+        "candidate_font_3": "Poppins"
+    },
+    {
+        "task_id": "576342",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Poppins",
+        "candidate_font_2": "Montserrat",
+        "candidate_font_3": "Open Sans"
+    },
+    {
+        "task_id": "576341",
+        "model_name": "gpt-4o-mini",
+        "candidate_font_1": "Montserrat",
+        "candidate_font_2": "Roboto",
+        "candidate_font_3": "Bebas Neue"
+    },
+    {
+        "task_id": "576341",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Monolith",
+        "candidate_font_2": "Industry Black",
+        "candidate_font_3": "Open Sans"
+    },
+    {
+        "task_id": "576338",
+        "model_name": "gpt-4o-mini",
+        "candidate_font_1": "Garamond",
+        "candidate_font_2": "Bodoni",
+        "candidate_font_3": "Didot"
+    },
+    {
+        "task_id": "576338",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Mundial Book",
+        "candidate_font_2": "Playfair Display",
+        "candidate_font_3": "Crimson Pro"
+    },
+    {
+        "task_id": "576337",
+        "model_name": "gpt-4o-mini",
+        "candidate_font_1": "Bodoni",
+        "candidate_font_2": "Didot",
+        "candidate_font_3": "Playfair Display"
+    },
+    {
+        "task_id": "576337",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Butler Regular",
+        "candidate_font_2": "Univers Condensed",
+        "candidate_font_3": "Playfair Display"
+    },
+    {
+        "task_id": "576336",
+        "model_name": "gpt-4o-mini",
+        "candidate_font_1": "Bubblegum Sans",
+        "candidate_font_2": "Cooper Black",
+        "candidate_font_3": "Lobster"
+    },
+    {
+        "task_id": "576336",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Groovy Delight",
+        "candidate_font_2": "Stay Groovy",
+        "candidate_font_3": "Groovy Day"
+    },
+    {
+        "task_id": "576335",
+        "model_name": "gpt-4o-mini",
+        "candidate_font_1": "Athletic",
+        "candidate_font_2": "Varsity",
+        "candidate_font_3": "Impact"
+    },
+    {
+        "task_id": "576335",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "SF Sports Night Shaded",
+        "candidate_font_2": "United Sans Extended Black",
+        "candidate_font_3": "Varsity Team"
+    },
+    {
+        "task_id": "576334",
+        "model_name": "gpt-4o-mini",
+        "candidate_font_1": "",
+        "candidate_font_2": "",
+        "candidate_font_3": ""
+    },
+    {
+        "task_id": "576334",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Requiem Display",
+        "candidate_font_2": "Bodoni",
+        "candidate_font_3": "Didot"
+    },
+    {
+        "task_id": "576333",
+        "model_name": "gpt-4o-mini",
+        "candidate_font_1": "Poppins",
+        "candidate_font_2": "Montserrat",
+        "candidate_font_3": "Nunito"
+    },
+    {
+        "task_id": "576333",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Gotham Rounded",
+        "candidate_font_2": "Gotham",
+        "candidate_font_3": "VAG Rounded"
     }
 ]
