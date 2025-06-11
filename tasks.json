@@ -3707,7 +3707,7 @@
         "url": "https://www.dafont.com/forum/read/576249/what-font-is-this",
         "title": "What font is this?",
         "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1217533.jpg",
-        "identified_font": null
+        "identified_font": "Jack Armstrong"
     },
     {
         "task_id": "576262",
@@ -4050,7 +4050,7 @@
         "url": "https://www.dafont.com/forum/read/576314/what-is-the-name-of-these-fonts-please",
         "title": "What is the name of these fonts? Please",
         "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1217664.png",
-        "identified_font": null
+        "identified_font": "Air Travelers"
     },
     {
         "task_id": "576313",
@@ -4099,6 +4099,13 @@
         "url": "https://www.dafont.com/forum/read/576307/identificacao-de-fonte",
         "title": "IDENTIFICA\u00c7\u00c3O DE FONTE",
         "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1217651.jpg",
+        "identified_font": null
+    },
+    {
+        "task_id": "576317",
+        "url": "https://www.dafont.com/forum/read/576317/name-of-font",
+        "title": "Name of font?",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1217669.png",
         "identified_font": null
     }
 ]
