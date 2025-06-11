@@ -7068,5 +7068,19 @@
         "candidate_font_1": "Billion Stars",
         "candidate_font_2": "TheSecret",
         "candidate_font_3": "Magnolia Sky"
+    },
+    {
+        "task_id": "576317",
+        "model_name": "gpt-4o-mini",
+        "candidate_font_1": "Freaky Font",
+        "candidate_font_2": "Grunge Font",
+        "candidate_font_3": "Blackletter"
+    },
+    {
+        "task_id": "576317",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Metal Macabre",
+        "candidate_font_2": "Death Rattle",
+        "candidate_font_3": "Necropsy"
     }
 ]
