@@ -3434,7 +3434,7 @@
         "url": "https://www.dafont.com/forum/read/576219/am-kst-official-photo",
         "title": "AM KST Official Photo",
         "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1217446.png",
-        "identified_font": null
+        "identified_font": "Ugly Dave"
     },
     {
         "task_id": "576218",
@@ -3875,7 +3875,7 @@
         "url": "https://www.dafont.com/forum/read/576286/can-you-help-to-find-this-font-please",
         "title": "Can you help to find this font please?",
         "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1217593.jpg",
-        "identified_font": null
+        "identified_font": "Fink Roman"
     },
     {
         "task_id": "576282",
@@ -3938,7 +3938,7 @@
         "url": "https://www.dafont.com/forum/read/576294/font-for-greetings-from-the-from-rem-beauty-x-wicked",
         "title": "font for \u0093greetings from the\u0085\u0094 from rem beauty x wicked",
         "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1217608.jpg",
-        "identified_font": null
+        "identified_font": "Stereo Club"
     },
     {
         "task_id": "576293",
@@ -4107,5 +4107,61 @@
         "title": "Name of font?",
         "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1217669.png",
         "identified_font": null
+    },
+    {
+        "task_id": "576323",
+        "url": "https://www.dafont.com/forum/read/576323/complete-selection-modification-font",
+        "title": "Complete Selection Modification font",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1217690.jpg",
+        "identified_font": null
+    },
+    {
+        "task_id": "329514",
+        "url": "https://www.dafont.com/forum/read/329514/20th-century-fox-font",
+        "title": "20th Century Fox font",
+        "img_url": "https://www.dafont.com/forum/attach/orig/7/2/722918.png",
+        "identified_font": null
+    },
+    {
+        "task_id": "576322",
+        "url": "https://www.dafont.com/forum/read/576322/which-this-font-please",
+        "title": "Which this font, please?",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1217688.png",
+        "identified_font": null
+    },
+    {
+        "task_id": "576321",
+        "url": "https://www.dafont.com/forum/read/576321/any-luck-with-this-font-pt-2",
+        "title": "Any luck with this font? pt.2",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1217687.png",
+        "identified_font": null
+    },
+    {
+        "task_id": "576320",
+        "url": "https://www.dafont.com/forum/read/576320/any-luck-with-this-font",
+        "title": "Any luck with this font?",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1217683.png",
+        "identified_font": "Block"
+    },
+    {
+        "task_id": "576319",
+        "url": "https://www.dafont.com/forum/read/576319/identify-font",
+        "title": "Identify font",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1217682.png",
+        "identified_font": null
+    },
+    {
+        "task_id": "533220",
+        "url": "https://www.dafont.com/forum/read/533220/kuromi",
+        "title": "Kuromi",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/1/1127413.png",
+        "identified_font": null
+    },
+    {
+        "task_id": "564224",
+        "url": "https://www.dafont.com/forum/read/564224/find-font-please",
+        "title": "Find font please",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/1/1193292.png",
+        "identified_font": "Chalk Eraser"
     }
 ]
