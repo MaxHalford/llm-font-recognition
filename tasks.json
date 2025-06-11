@@ -4148,7 +4148,7 @@
         "url": "https://www.dafont.com/forum/read/576319/identify-font",
         "title": "Identify font",
         "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1217682.png",
-        "identified_font": null
+        "identified_font": "Good Vibes Only Monoline"
     },
     {
         "task_id": "533220",
@@ -4197,6 +4197,76 @@
         "url": "https://www.dafont.com/forum/read/576325/v-font-of-love",
         "title": "V font of LOVE",
         "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1217692.jpg",
+        "identified_font": null
+    },
+    {
+        "task_id": "576344",
+        "url": "https://www.dafont.com/forum/read/576344/alguem-sabe-o-nome",
+        "title": "Algu\u00e9m sabe o nome?",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1217720.png",
+        "identified_font": null
+    },
+    {
+        "task_id": "576343",
+        "url": "https://www.dafont.com/forum/read/576343/brunswick",
+        "title": "BRUNSWICK",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1217718.png",
+        "identified_font": null
+    },
+    {
+        "task_id": "576342",
+        "url": "https://www.dafont.com/forum/read/576342/monoford-font",
+        "title": "\"MONOFORD\" Font",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1217715.jpg",
+        "identified_font": null
+    },
+    {
+        "task_id": "576341",
+        "url": "https://www.dafont.com/forum/read/576341/rockford-text-font",
+        "title": "\"ROCKFORD\" Text Font",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1217714.jpg",
+        "identified_font": null
+    },
+    {
+        "task_id": "576338",
+        "url": "https://www.dafont.com/forum/read/576338/golden-days-font",
+        "title": "Golden Days font?",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1217709.jpg",
+        "identified_font": null
+    },
+    {
+        "task_id": "576337",
+        "url": "https://www.dafont.com/forum/read/576337/cunninghams",
+        "title": "CUNNINGHAMS",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1217708.png?1",
+        "identified_font": null
+    },
+    {
+        "task_id": "576336",
+        "url": "https://www.dafont.com/forum/read/576336/font-please",
+        "title": "font, please?",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1217707.jpg",
+        "identified_font": null
+    },
+    {
+        "task_id": "576335",
+        "url": "https://www.dafont.com/forum/read/576335/font",
+        "title": "Font?",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1217706.jpg",
+        "identified_font": null
+    },
+    {
+        "task_id": "576334",
+        "url": "https://www.dafont.com/forum/read/576334/hola-alguien-conoce-el-nombre-font-a",
+        "title": "Hola, Algui\u00e9n conoce el Nombre Font \"A\"",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1217705.jpg",
+        "identified_font": null
+    },
+    {
+        "task_id": "576333",
+        "url": "https://www.dafont.com/forum/read/576333/alliance",
+        "title": "Alliance",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1217704.png",
         "identified_font": null
     }
 ]
