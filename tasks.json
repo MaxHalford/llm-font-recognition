@@ -4015,7 +4015,7 @@
         "url": "https://www.dafont.com/forum/read/576300/dump-everything",
         "title": "Dump everything",
         "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1217637.jpg?1",
-        "identified_font": null
+        "identified_font": "Pinky Latte Display"
     },
     {
         "task_id": "576299",
@@ -4037,5 +4037,68 @@
         "title": "Help with this font",
         "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1217625.jpg?1",
         "identified_font": "Avant Garde Demi Bold"
+    },
+    {
+        "task_id": "576315",
+        "url": "https://www.dafont.com/forum/read/576315/disney-magical-express-font",
+        "title": "Disney Magical Express Font",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1217666.png",
+        "identified_font": null
+    },
+    {
+        "task_id": "576314",
+        "url": "https://www.dafont.com/forum/read/576314/what-is-the-name-of-these-fonts-please",
+        "title": "What is the name of these fonts? Please",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1217664.png",
+        "identified_font": null
+    },
+    {
+        "task_id": "576313",
+        "url": "https://www.dafont.com/forum/read/576313/ola-por-favor-alguem-sabe-o-nome-desta-fonte",
+        "title": "Ol\u00e1, por favor, algu\u00e9m sabe o nome desta fonte?",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1217663.png",
+        "identified_font": null
+    },
+    {
+        "task_id": "576312",
+        "url": "https://www.dafont.com/forum/read/576312/font",
+        "title": "FONT?",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1217661.jpg",
+        "identified_font": "Capture it"
+    },
+    {
+        "task_id": "576311",
+        "url": "https://www.dafont.com/forum/read/576311/zoomarine-font-please",
+        "title": "\"zoomarine\" font please :)",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1217659.jpg",
+        "identified_font": null
+    },
+    {
+        "task_id": "576310",
+        "url": "https://www.dafont.com/forum/read/576310/beach-help-please",
+        "title": "\"beach\" help please :)",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1217656.png",
+        "identified_font": null
+    },
+    {
+        "task_id": "576308",
+        "url": "https://www.dafont.com/forum/read/576308/qual-a-fonte",
+        "title": "Qual a fonte?",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1217654.jpg?1",
+        "identified_font": null
+    },
+    {
+        "task_id": "569464",
+        "url": "https://www.dafont.com/forum/read/569464/nom-de-cette-police-d-ecriture",
+        "title": "Nom de cette police d'\u00e9criture",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1204034.png",
+        "identified_font": "Taco Tuesday"
+    },
+    {
+        "task_id": "576307",
+        "url": "https://www.dafont.com/forum/read/576307/identificacao-de-fonte",
+        "title": "IDENTIFICA\u00c7\u00c3O DE FONTE",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1217651.jpg",
+        "identified_font": null
     }
 ]
