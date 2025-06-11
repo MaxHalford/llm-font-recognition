@@ -7166,5 +7166,75 @@
         "candidate_font_1": "Porkys",
         "candidate_font_2": "Burbank Big Condensed",
         "candidate_font_3": "Grobold"
+    },
+    {
+        "task_id": "576328",
+        "model_name": "gpt-4o-mini",
+        "candidate_font_1": "Cinzel",
+        "candidate_font_2": "Playfair Display",
+        "candidate_font_3": "Bodoni"
+    },
+    {
+        "task_id": "576328",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Optimus Princeps",
+        "candidate_font_2": "Didot Display",
+        "candidate_font_3": "Valeria"
+    },
+    {
+        "task_id": "323426",
+        "model_name": "gpt-4o-mini",
+        "candidate_font_1": "Metallica",
+        "candidate_font_2": "Creepster",
+        "candidate_font_3": "Hellraiser"
+    },
+    {
+        "task_id": "323426",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Ambassador",
+        "candidate_font_2": "Pricedown Black",
+        "candidate_font_3": "Death From Above"
+    },
+    {
+        "task_id": "576327",
+        "model_name": "gpt-4o-mini",
+        "candidate_font_1": "Playfair Display",
+        "candidate_font_2": "Raleway",
+        "candidate_font_3": "Lora"
+    },
+    {
+        "task_id": "576327",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Playfair Display Italic",
+        "candidate_font_2": "Bodoni",
+        "candidate_font_3": "Glamor Light"
+    },
+    {
+        "task_id": "576326",
+        "model_name": "gpt-4o-mini",
+        "candidate_font_1": "Bebas Neue",
+        "candidate_font_2": "Oswald",
+        "candidate_font_3": "Anton"
+    },
+    {
+        "task_id": "576326",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Cinzel",
+        "candidate_font_2": "Trajan Pro",
+        "candidate_font_3": "Requiem Display"
+    },
+    {
+        "task_id": "576325",
+        "model_name": "gpt-4o-mini",
+        "candidate_font_1": "Bodoni Moda",
+        "candidate_font_2": "Spelunk",
+        "candidate_font_3": "Didot"
+    },
+    {
+        "task_id": "576325",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Montserrat Black",
+        "candidate_font_2": "Bodoni Std",
+        "candidate_font_3": "Visby Round CF"
     }
 ]
