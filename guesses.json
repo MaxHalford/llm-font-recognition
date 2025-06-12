@@ -7866,5 +7866,89 @@
         "candidate_font_1": "Chakalaka",
         "candidate_font_2": "Bubblegum Sans",
         "candidate_font_3": "Chewy"
+    },
+    {
+        "task_id": "576385",
+        "model_name": "gpt-4o-mini",
+        "candidate_font_1": "Bubblegum Sans",
+        "candidate_font_2": "Groovy",
+        "candidate_font_3": "Baloo Bhai 2"
+    },
+    {
+        "task_id": "576385",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Wavy Dazy",
+        "candidate_font_2": "Liquefy",
+        "candidate_font_3": "Melted Dream"
+    },
+    {
+        "task_id": "576383",
+        "model_name": "gpt-4o-mini",
+        "candidate_font_1": "Bodoni",
+        "candidate_font_2": "Didot",
+        "candidate_font_3": "Playfair Display"
+    },
+    {
+        "task_id": "576383",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Edwardian Script ITC",
+        "candidate_font_2": "Kunstler Script",
+        "candidate_font_3": "French Script MT"
+    },
+    {
+        "task_id": "576384",
+        "model_name": "gpt-4o-mini",
+        "candidate_font_1": "Dancing Script",
+        "candidate_font_2": "Pacifico",
+        "candidate_font_3": "Great Vibes"
+    },
+    {
+        "task_id": "576384",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Playlist Script",
+        "candidate_font_2": "Shorelines Script",
+        "candidate_font_3": "Magnolia Sky"
+    },
+    {
+        "task_id": "576382",
+        "model_name": "gpt-4o-mini",
+        "candidate_font_1": "Didot",
+        "candidate_font_2": "Bodoni",
+        "candidate_font_3": "Playfair Display"
+    },
+    {
+        "task_id": "576382",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Trajan Pro",
+        "candidate_font_2": "Palatino",
+        "candidate_font_3": "IM Fell Great Primer Roman"
+    },
+    {
+        "task_id": "576380",
+        "model_name": "gpt-4o-mini",
+        "candidate_font_1": "Comic Sans MS",
+        "candidate_font_2": "Bubblegum Sans",
+        "candidate_font_3": "Baloo Bhai"
+    },
+    {
+        "task_id": "576380",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "KG Red Hands",
+        "candidate_font_2": "Bubblegum Sans",
+        "candidate_font_3": "Kids Fun Time"
+    },
+    {
+        "task_id": "576379",
+        "model_name": "gpt-4o-mini",
+        "candidate_font_1": "Lobster",
+        "candidate_font_2": "Great Vibes",
+        "candidate_font_3": "Dancing Script"
+    },
+    {
+        "task_id": "576379",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "",
+        "candidate_font_2": "",
+        "candidate_font_3": ""
     }
 ]
