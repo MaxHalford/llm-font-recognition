@@ -7950,5 +7950,47 @@
         "candidate_font_1": "",
         "candidate_font_2": "",
         "candidate_font_3": ""
+    },
+    {
+        "task_id": "576390",
+        "model_name": "gpt-4o-mini",
+        "candidate_font_1": "Impact",
+        "candidate_font_2": "Bebas Neue",
+        "candidate_font_3": "Anton"
+    },
+    {
+        "task_id": "576390",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "University Roman",
+        "candidate_font_2": "Octin College Heavy",
+        "candidate_font_3": "Team MT"
+    },
+    {
+        "task_id": "576387",
+        "model_name": "gpt-4o-mini",
+        "candidate_font_1": "Playlist Script",
+        "candidate_font_2": "Great Vibes",
+        "candidate_font_3": "Lobster"
+    },
+    {
+        "task_id": "576387",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Adelina Script",
+        "candidate_font_2": "Trajan Pro",
+        "candidate_font_3": "Great Vibes"
+    },
+    {
+        "task_id": "576386",
+        "model_name": "gpt-4o-mini",
+        "candidate_font_1": "Blackletter",
+        "candidate_font_2": "Gothic",
+        "candidate_font_3": ""
+    },
+    {
+        "task_id": "576386",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "California Street",
+        "candidate_font_2": "Dirty Ego",
+        "candidate_font_3": "Old London"
     }
 ]
