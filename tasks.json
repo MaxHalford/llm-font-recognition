@@ -4204,7 +4204,7 @@
         "url": "https://www.dafont.com/forum/read/576344/alguem-sabe-o-nome",
         "title": "Algu\u00e9m sabe o nome?",
         "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1217720.png",
-        "identified_font": null
+        "identified_font": "Gliker"
     },
     {
         "task_id": "576343",
@@ -4358,7 +4358,7 @@
         "url": "https://www.dafont.com/forum/read/576366/magic-rainbow-help",
         "title": "\"Magic Rainbow\" help :)",
         "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1217771.jpg",
-        "identified_font": null
+        "identified_font": "A Pompadour Display"
     },
     {
         "task_id": "576365",
@@ -4407,7 +4407,7 @@
         "url": "https://www.dafont.com/forum/read/576362/taylor-swift-font-help-please",
         "title": "Taylor Swift font help please!",
         "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1217758.png",
-        "identified_font": null
+        "identified_font": "Medusa"
     },
     {
         "task_id": "576361",
@@ -4442,6 +4442,27 @@
         "url": "https://www.dafont.com/forum/read/576356/help-me-find-this-font-please",
         "title": "Help me find this font please",
         "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1217735.jpg",
+        "identified_font": null
+    },
+    {
+        "task_id": "576371",
+        "url": "https://www.dafont.com/forum/read/576371/what-font-do-dan-and-phil-use-for-their-names-in-their-shop-logo",
+        "title": "what font do dan and phil use for their names in their shop logo?",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1217784.png",
+        "identified_font": null
+    },
+    {
+        "task_id": "576370",
+        "url": "https://www.dafont.com/forum/read/576370/font-help",
+        "title": "Font Help",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1217782.jpg",
+        "identified_font": null
+    },
+    {
+        "task_id": "576368",
+        "url": "https://www.dafont.com/forum/read/576368/i-need-this-font",
+        "title": "I need this font!!",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1217779.jpg",
         "identified_font": null
     }
 ]
