@@ -7712,5 +7712,47 @@
         "candidate_font_1": "Brotherhood Script",
         "candidate_font_2": "Impact",
         "candidate_font_3": "Oswald"
+    },
+    {
+        "task_id": "576371",
+        "model_name": "gpt-4o-mini",
+        "candidate_font_1": "Roboto",
+        "candidate_font_2": "Bebas Neue",
+        "candidate_font_3": "Eurostile"
+    },
+    {
+        "task_id": "576371",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Outage",
+        "candidate_font_2": "Akira Expanded",
+        "candidate_font_3": "Russo One"
+    },
+    {
+        "task_id": "576370",
+        "model_name": "gpt-4o-mini",
+        "candidate_font_1": "Trajan Pro",
+        "candidate_font_2": "Garamond",
+        "candidate_font_3": "Bodoni"
+    },
+    {
+        "task_id": "576370",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Metal Lord",
+        "candidate_font_2": "Valiant",
+        "candidate_font_3": "Slayer"
+    },
+    {
+        "task_id": "576368",
+        "model_name": "gpt-4o-mini",
+        "candidate_font_1": "Bickham Script Pro",
+        "candidate_font_2": "Zapfino",
+        "candidate_font_3": "Scriptina"
+    },
+    {
+        "task_id": "576368",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Scriptina Pro",
+        "candidate_font_2": "Champignon",
+        "candidate_font_3": "Respective"
     }
 ]
