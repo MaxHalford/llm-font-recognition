@@ -3833,7 +3833,7 @@
         "url": "https://www.dafont.com/forum/read/576271/could-someone-help-me-to-identify-this-font",
         "title": "Could someone help me to identify this font ?",
         "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1217571.png",
-        "identified_font": null
+        "identified_font": "Resting Teacher Face"
     },
     {
         "task_id": "576270",
@@ -4540,7 +4540,7 @@
         "url": "https://www.dafont.com/forum/read/576384/what-font-is-this",
         "title": "What font is this?",
         "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1217811.png?1",
-        "identified_font": null
+        "identified_font": "Biro Script"
     },
     {
         "task_id": "576381",
@@ -4701,6 +4701,62 @@
         "url": "https://www.dafont.com/forum/read/576395/what-font-is-this",
         "title": "What Font is this?",
         "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1217835.png",
+        "identified_font": null
+    },
+    {
+        "task_id": "576415",
+        "url": "https://www.dafont.com/forum/read/576415/mother-s-day-2025-kootunes",
+        "title": "Mother's Day 2025 (KooTunes)",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1217867.jpg",
+        "identified_font": null
+    },
+    {
+        "task_id": "576414",
+        "url": "https://www.dafont.com/forum/read/576414/this-is-font-from-tenna-deltarune",
+        "title": "This is font from Tenna Deltarune",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1217866.png",
+        "identified_font": null
+    },
+    {
+        "task_id": "576413",
+        "url": "https://www.dafont.com/forum/read/576413/shoshimin-how-to-become-ordinary",
+        "title": "SHOSHIMIN How to become ordinary",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1217865.png",
+        "identified_font": null
+    },
+    {
+        "task_id": "576412",
+        "url": "https://www.dafont.com/forum/read/576412/what-are-these-fonts",
+        "title": "What are these fonts?",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1217864.jpg",
+        "identified_font": null
+    },
+    {
+        "task_id": "576410",
+        "url": "https://www.dafont.com/forum/read/576410/what-the-font",
+        "title": "what the font",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1217861.png",
+        "identified_font": null
+    },
+    {
+        "task_id": "576409",
+        "url": "https://www.dafont.com/forum/read/576409/help-what-font-pls",
+        "title": "help what font pls",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1217860.png",
+        "identified_font": null
+    },
+    {
+        "task_id": "576408",
+        "url": "https://www.dafont.com/forum/read/576408/font-amortage-jisoo",
+        "title": "font \"amortage\" jisoo",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1217857.jpg",
+        "identified_font": null
+    },
+    {
+        "task_id": "576407",
+        "url": "https://www.dafont.com/forum/read/576407/help-pls",
+        "title": "help pls",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1217855.jpg",
         "identified_font": null
     }
 ]
