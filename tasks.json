@@ -4526,7 +4526,7 @@
         "url": "https://www.dafont.com/forum/read/576385/font-name",
         "title": "Font name?",
         "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1217814.jpg",
-        "identified_font": null
+        "identified_font": "Mawur"
     },
     {
         "task_id": "576383",
@@ -4568,6 +4568,27 @@
         "url": "https://www.dafont.com/forum/read/576379/sabrina-carpenter",
         "title": "Sabrina Carpenter",
         "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1217800.png",
+        "identified_font": null
+    },
+    {
+        "task_id": "576390",
+        "url": "https://www.dafont.com/forum/read/576390/what-is-this-font-please",
+        "title": "what is this font please",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1217822.png",
+        "identified_font": null
+    },
+    {
+        "task_id": "576387",
+        "url": "https://www.dafont.com/forum/read/576387/fonte-urgenteeeeeeeeeeeeeeeeeeeeeeeeeeeeee",
+        "title": "Fonte URGENTEEEEEEEEEEEEEEEEEEEEEEEEEEEEEE...!!!",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1217819.jpg",
+        "identified_font": null
+    },
+    {
+        "task_id": "576386",
+        "url": "https://www.dafont.com/forum/read/576386/font-in-this-photo",
+        "title": "font in this photo?",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1217817.png",
         "identified_font": null
     }
 ]
