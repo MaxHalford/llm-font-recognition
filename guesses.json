@@ -7992,5 +7992,47 @@
         "candidate_font_1": "California Street",
         "candidate_font_2": "Dirty Ego",
         "candidate_font_3": "Old London"
+    },
+    {
+        "task_id": "576393",
+        "model_name": "gpt-4o-mini",
+        "candidate_font_1": "Creepster",
+        "candidate_font_2": "Bangers",
+        "candidate_font_3": "TrashHand"
+    },
+    {
+        "task_id": "576393",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Creepy Pasta",
+        "candidate_font_2": "Feast of Flesh",
+        "candidate_font_3": "Scarecrow"
+    },
+    {
+        "task_id": "576392",
+        "model_name": "gpt-4o-mini",
+        "candidate_font_1": "Impact",
+        "candidate_font_2": "Bebas Neue",
+        "candidate_font_3": "Staatliches"
+    },
+    {
+        "task_id": "576392",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Capture It",
+        "candidate_font_2": "Damage",
+        "candidate_font_3": "Destroy"
+    },
+    {
+        "task_id": "576391",
+        "model_name": "gpt-4o-mini",
+        "candidate_font_1": "Arial Rounded MT Bold",
+        "candidate_font_2": "Bubblegum Sans",
+        "candidate_font_3": "Fjalla One"
+    },
+    {
+        "task_id": "576391",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Luckiest Guy",
+        "candidate_font_2": "Chewy",
+        "candidate_font_3": "Fredoka One"
     }
 ]
