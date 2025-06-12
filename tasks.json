@@ -3922,7 +3922,7 @@
     {
         "task_id": "576296",
         "url": "https://www.dafont.com/forum/read/576296/help-font-please",
-        "title": "HELP!!!!! FONT PLEASE",
+        "title": "HELP! FONT PLEASE",
         "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1217610.png",
         "identified_font": null
     },
@@ -4596,20 +4596,111 @@
         "url": "https://www.dafont.com/forum/read/576393/girls-will-be-girls-font",
         "title": "\"Girls Will Be Girls\" font",
         "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1217829.jpg",
-        "identified_font": null
+        "identified_font": "Another Danger"
     },
     {
         "task_id": "576392",
         "url": "https://www.dafont.com/forum/read/576392/helium-font",
         "title": "\"Helium\" font",
         "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1217828.jpg",
-        "identified_font": null
+        "identified_font": "Got heroin?"
     },
     {
         "task_id": "576391",
         "url": "https://www.dafont.com/forum/read/576391/what-is-a-crystal-astrophel-notice-font",
         "title": "What is a Crystal Astrophel notice font?",
         "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1217825.png",
+        "identified_font": null
+    },
+    {
+        "task_id": "576406",
+        "url": "https://www.dafont.com/forum/read/576406/sociale-zaken",
+        "title": "Sociale Zaken",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1217853.png",
+        "identified_font": null
+    },
+    {
+        "task_id": "576405",
+        "url": "https://www.dafont.com/forum/read/576405/chegamos-para-revolucionar-a-sua-saude",
+        "title": "\u0093Chegamos para revolucionar a sua sa\u00fade.\u0094",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1217852.png",
+        "identified_font": null
+    },
+    {
+        "task_id": "576404",
+        "url": "https://www.dafont.com/forum/read/576404/necesito-identificar-esta-fuente-por-fa",
+        "title": "Necesito identificar esta fuente por fa",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1217851.png",
+        "identified_font": null
+    },
+    {
+        "task_id": "576403",
+        "url": "https://www.dafont.com/forum/read/576403/font-identification-please",
+        "title": "Font identification please",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1217850.png",
+        "identified_font": null
+    },
+    {
+        "task_id": "576402",
+        "url": "https://www.dafont.com/forum/read/576402/please-help-id",
+        "title": "Please Help ID",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1217848.png",
+        "identified_font": null
+    },
+    {
+        "task_id": "576401",
+        "url": "https://www.dafont.com/forum/read/576401/please-help-id",
+        "title": "Please Help ID",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1217847.png",
+        "identified_font": null
+    },
+    {
+        "task_id": "551311",
+        "url": "https://www.dafont.com/forum/read/551311/what-s-this-font-from-babybus-nursery-rhymes",
+        "title": "What\u0092s this font? (from BabyBus Nursery Rhymes)",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/1/1166103.png?1",
+        "identified_font": null
+    },
+    {
+        "task_id": "576397",
+        "url": "https://www.dafont.com/forum/read/576397/what-font-is-this",
+        "title": "What Font is this?",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1217837.png",
+        "identified_font": null
+    },
+    {
+        "task_id": "576400",
+        "url": "https://www.dafont.com/forum/read/576400/font",
+        "title": "Font?",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1217840.png",
+        "identified_font": null
+    },
+    {
+        "task_id": "576399",
+        "url": "https://www.dafont.com/forum/read/576399/which-this-font-please",
+        "title": "Which this font, please?",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1217839.png",
+        "identified_font": null
+    },
+    {
+        "task_id": "576398",
+        "url": "https://www.dafont.com/forum/read/576398/pouvez-vous-m-aider-avec-cette-police-merci",
+        "title": "Pouvez-vous m'aider avec cette police ? Merci !",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1217838.png",
+        "identified_font": null
+    },
+    {
+        "task_id": "576396",
+        "url": "https://www.dafont.com/forum/read/576396/someone-could-help-me-with-this-one-thank-you",
+        "title": "Someone could help me with this one? Thank you!",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1217836.jpg",
+        "identified_font": null
+    },
+    {
+        "task_id": "576395",
+        "url": "https://www.dafont.com/forum/read/576395/what-font-is-this",
+        "title": "What Font is this?",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1217835.png",
         "identified_font": null
     }
 ]
