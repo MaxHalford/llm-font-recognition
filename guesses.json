@@ -8216,5 +8216,68 @@
         "candidate_font_1": "Burbank Big Condensed Black",
         "candidate_font_2": "Porky's",
         "candidate_font_3": "Bubblegum Sans"
+    },
+    {
+        "task_id": "576415",
+        "model_name": "gpt-4o-mini",
+        "candidate_font_1": "Comic Sans MS",
+        "candidate_font_2": "Chalkboard",
+        "candidate_font_3": "Freestyle Script"
+    },
+    {
+        "task_id": "576414",
+        "model_name": "gpt-4o-mini",
+        "candidate_font_1": "Creepster",
+        "candidate_font_2": "Bangers",
+        "candidate_font_3": "Luckiest Guy"
+    },
+    {
+        "task_id": "576413",
+        "model_name": "gpt-4o-mini",
+        "candidate_font_1": "Great Vibes",
+        "candidate_font_2": "Dancing Script",
+        "candidate_font_3": "Pinyon Script"
+    },
+    {
+        "task_id": "576412",
+        "model_name": "gpt-4o-mini",
+        "candidate_font_1": "Bebas Neue",
+        "candidate_font_2": "Lobster",
+        "candidate_font_3": "Pacifico"
+    },
+    {
+        "task_id": "576410",
+        "model_name": "gpt-4o-mini",
+        "candidate_font_1": "Bebas Neue",
+        "candidate_font_2": "Impact",
+        "candidate_font_3": "Roche"
+    },
+    {
+        "task_id": "576409",
+        "model_name": "gpt-4o-mini",
+        "candidate_font_1": "Bubblegum Sans",
+        "candidate_font_2": "Bubbles",
+        "candidate_font_3": "Poppins"
+    },
+    {
+        "task_id": "576409",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Bubbly Font by Misti's Fonts",
+        "candidate_font_2": "Soft Bubble by Khurasan",
+        "candidate_font_3": "Cute Bubble by Aisyiyah Nur"
+    },
+    {
+        "task_id": "576408",
+        "model_name": "gpt-4o-mini",
+        "candidate_font_1": "Bebas Neue",
+        "candidate_font_2": "Anton",
+        "candidate_font_3": "Impact"
+    },
+    {
+        "task_id": "576407",
+        "model_name": "gpt-4o-mini",
+        "candidate_font_1": "Bubblegum Sans",
+        "candidate_font_2": "Pacifico",
+        "candidate_font_3": ""
     }
 ]
