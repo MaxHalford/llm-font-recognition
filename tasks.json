@@ -4512,13 +4512,62 @@
         "url": "https://www.dafont.com/forum/read/513071/ios-16-font",
         "title": "Ios 16 font",
         "img_url": "https://www.dafont.com/forum/attach/orig/1/0/1087315.png?1",
-        "identified_font": null
+        "identified_font": "San Francisco"
     },
     {
         "task_id": "576372",
         "url": "https://www.dafont.com/forum/read/576372/font-name-pls",
         "title": "Font name pls :)",
         "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1217787.png?1",
+        "identified_font": null
+    },
+    {
+        "task_id": "576385",
+        "url": "https://www.dafont.com/forum/read/576385/font-name",
+        "title": "Font name?",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1217814.jpg",
+        "identified_font": null
+    },
+    {
+        "task_id": "576383",
+        "url": "https://www.dafont.com/forum/read/576383/what-is-the-name-fonts",
+        "title": "What is the name fonts?",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1217807.jpg",
+        "identified_font": null
+    },
+    {
+        "task_id": "576384",
+        "url": "https://www.dafont.com/forum/read/576384/what-font-is-this",
+        "title": "What font is this?",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1217811.png?1",
+        "identified_font": null
+    },
+    {
+        "task_id": "576381",
+        "url": "https://www.dafont.com/forum/read/576381/what-font-is-this",
+        "title": "What font is this?",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1217803.png?1",
+        "identified_font": "Margarine"
+    },
+    {
+        "task_id": "576382",
+        "url": "https://www.dafont.com/forum/read/576382/what-is-the-sabrina-carpenter-sc-font-name",
+        "title": "What is the \u0093SABRINA CARPENTER\u0094 & \u0093SC\u0094 font name?",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1217805.png",
+        "identified_font": null
+    },
+    {
+        "task_id": "576380",
+        "url": "https://www.dafont.com/forum/read/576380/identify-font",
+        "title": "Identify font",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1217802.jpg",
+        "identified_font": null
+    },
+    {
+        "task_id": "576379",
+        "url": "https://www.dafont.com/forum/read/576379/sabrina-carpenter",
+        "title": "Sabrina Carpenter",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1217800.png",
         "identified_font": null
     }
 ]
