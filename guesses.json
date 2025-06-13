@@ -8867,5 +8867,82 @@
         "candidate_font_1": "Betterfly",
         "candidate_font_2": "Magnolia Sky",
         "candidate_font_3": "Hello Beautiful"
+    },
+    {
+        "task_id": "576469",
+        "model_name": "gpt-4o-mini",
+        "candidate_font_1": "Roboto",
+        "candidate_font_2": "Futura",
+        "candidate_font_3": "Montserrat"
+    },
+    {
+        "task_id": "576469",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Montserrat Bold",
+        "candidate_font_2": "Space Age",
+        "candidate_font_3": "The Brinks"
+    },
+    {
+        "task_id": "576468",
+        "model_name": "gpt-4o-mini",
+        "candidate_font_1": "Futuristic",
+        "candidate_font_2": "Eurostile",
+        "candidate_font_3": "Digital"
+    },
+    {
+        "task_id": "576468",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "",
+        "candidate_font_2": "",
+        "candidate_font_3": ""
+    },
+    {
+        "task_id": "576467",
+        "model_name": "gpt-4o-mini",
+        "candidate_font_1": "Bodoni",
+        "candidate_font_2": "Playfair Display",
+        "candidate_font_3": "Didot"
+    },
+    {
+        "task_id": "576467",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Whiskeytown",
+        "candidate_font_2": "Riffle",
+        "candidate_font_3": "Bebas Neue"
+    },
+    {
+        "task_id": "576466",
+        "model_name": "gpt-4o-mini",
+        "candidate_font_1": "Bebas Neue",
+        "candidate_font_2": "Impact",
+        "candidate_font_3": "Eurostile"
+    },
+    {
+        "task_id": "576466",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "VAG Rounded",
+        "candidate_font_2": "Bebas Neue",
+        "candidate_font_3": "Baloo 2"
+    },
+    {
+        "task_id": "576465",
+        "model_name": "gpt-4o-mini",
+        "candidate_font_1": "Bodoni FLF",
+        "candidate_font_2": "Didot",
+        "candidate_font_3": "Playfair Display"
+    },
+    {
+        "task_id": "576465",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Recoleta",
+        "candidate_font_2": "Patua One",
+        "candidate_font_3": "Alfa Slab One"
+    },
+    {
+        "task_id": "576464",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Roadstar",
+        "candidate_font_2": "Burford Layers",
+        "candidate_font_3": "College Slab"
     }
 ]
