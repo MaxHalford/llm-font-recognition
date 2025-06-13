@@ -4462,7 +4462,7 @@
         "task_id": "576368",
         "url": "https://www.dafont.com/forum/read/576368/i-need-this-font",
         "title": "I need this font!!",
-        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1217779.jpg",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1217779.png?1",
         "identified_font": null
     },
     {
@@ -4882,21 +4882,21 @@
         "task_id": "576452",
         "url": "https://www.dafont.com/forum/read/576452/font-by-shadowbyyoongi",
         "title": "FONT BY SHADOWBYYOONGI",
-        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1217957.jpg",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1217957.jpg?1",
         "identified_font": null
     },
     {
         "task_id": "576450",
         "url": "https://www.dafont.com/forum/read/576450/font-by-shadowbyyoongi",
         "title": "FONT BY SHADOWBYYOONGI",
-        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1217955.jpg",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1217955.jpg?1",
         "identified_font": null
     },
     {
         "task_id": "576449",
         "url": "https://www.dafont.com/forum/read/576449/font-by-shadowbyyoongi",
         "title": "FONT BY SHADOWBYYOONGI",
-        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1217954.jpg",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1217954.jpg?1",
         "identified_font": null
     },
     {
@@ -4939,7 +4939,7 @@
         "url": "https://www.dafont.com/forum/read/576439/quelle-est-cette-police",
         "title": "quelle est cette police",
         "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1217940.png",
-        "identified_font": null
+        "identified_font": "Futura"
     },
     {
         "task_id": "576438",
@@ -5031,5 +5031,33 @@
         "title": "TAYLOR SWIFT FONT",
         "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1217962.jpg",
         "identified_font": "Medusa"
+    },
+    {
+        "task_id": "576460",
+        "url": "https://www.dafont.com/forum/read/576460/globetrotter",
+        "title": "Globetrotter",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1217978.jpg",
+        "identified_font": null
+    },
+    {
+        "task_id": "576459",
+        "url": "https://www.dafont.com/forum/read/576459/font-pleace",
+        "title": "Font pleace!!!",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1217977.png",
+        "identified_font": null
+    },
+    {
+        "task_id": "576458",
+        "url": "https://www.dafont.com/forum/read/576458/urgent-urgent-please-help-to-identify-the-font-in-the-image",
+        "title": "Urgent Urgent, please help to identify the font in the image",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1217976.jpg",
+        "identified_font": null
+    },
+    {
+        "task_id": "576457",
+        "url": "https://www.dafont.com/forum/read/576457/font-from-tenna-deltarune",
+        "title": "Font from Tenna Deltarune",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1217967.png",
+        "identified_font": null
     }
 ]
