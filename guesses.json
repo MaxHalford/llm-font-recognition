@@ -8944,5 +8944,82 @@
         "candidate_font_1": "Roadstar",
         "candidate_font_2": "Burford Layers",
         "candidate_font_3": "College Slab"
+    },
+    {
+        "task_id": "576464",
+        "model_name": "gpt-4o-mini",
+        "candidate_font_1": "Bebas Neue",
+        "candidate_font_2": "Righteous",
+        "candidate_font_3": "Bungee"
+    },
+    {
+        "task_id": "448980",
+        "model_name": "gpt-4o-mini",
+        "candidate_font_1": "Pacifico",
+        "candidate_font_2": "Lobster",
+        "candidate_font_3": "Dancing Script"
+    },
+    {
+        "task_id": "448980",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Magnolia Sky",
+        "candidate_font_2": "Better Together Script",
+        "candidate_font_3": "Soulmate"
+    },
+    {
+        "task_id": "576474",
+        "model_name": "gpt-4o-mini",
+        "candidate_font_1": "Arial",
+        "candidate_font_2": "Helvetica",
+        "candidate_font_3": "Roboto"
+    },
+    {
+        "task_id": "576474",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Open Sans",
+        "candidate_font_2": "Roboto",
+        "candidate_font_3": "Lato"
+    },
+    {
+        "task_id": "576470",
+        "model_name": "gpt-4o-mini",
+        "candidate_font_1": "Varsity",
+        "candidate_font_2": "Sporty",
+        "candidate_font_3": "Helvetica"
+    },
+    {
+        "task_id": "576470",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "SF Sports Night",
+        "candidate_font_2": "Jersey M54",
+        "candidate_font_3": "College Block 2.0"
+    },
+    {
+        "task_id": "576472",
+        "model_name": "gpt-4o-mini",
+        "candidate_font_1": "Helvetica Neue",
+        "candidate_font_2": "Arial",
+        "candidate_font_3": "Roboto"
+    },
+    {
+        "task_id": "576472",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Nunito Sans Bold",
+        "candidate_font_2": "Open Sans Bold",
+        "candidate_font_3": "Work Sans Bold"
+    },
+    {
+        "task_id": "576471",
+        "model_name": "gpt-4o-mini",
+        "candidate_font_1": "Futura",
+        "candidate_font_2": "Avenir",
+        "candidate_font_3": "Bebas Neue"
+    },
+    {
+        "task_id": "576471",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Pump Demi",
+        "candidate_font_2": "Bauhaus 93",
+        "candidate_font_3": ""
     }
 ]
