@@ -4854,7 +4854,7 @@
         "task_id": "576430",
         "url": "https://www.dafont.com/forum/read/576430/shangri-la",
         "title": "Shangri la",
-        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1217911.png",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1217911.png?1",
         "identified_font": "Brittany Signature"
     },
     {
@@ -5071,14 +5071,14 @@
         "task_id": "576469",
         "url": "https://www.dafont.com/forum/read/576469/what-s-the-moon-font-please",
         "title": "What's the Moon font please",
-        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1218000.jpg",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1218000.png?1",
         "identified_font": null
     },
     {
         "task_id": "576468",
         "url": "https://www.dafont.com/forum/read/576468/what-s-the-hidden-font-please",
         "title": "What's the Hidden font please",
-        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1217999.png",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1217999.png?1",
         "identified_font": null
     },
     {
@@ -5093,7 +5093,7 @@
         "url": "https://www.dafont.com/forum/read/576466/ayuda-necesito-esta-fuente-speed",
         "title": "Ayuda necesito esta Fuente \"speed\"",
         "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1217997.jpg",
-        "identified_font": null
+        "identified_font": "Megahertz Italic"
     },
     {
         "task_id": "576465",
@@ -5115,5 +5115,61 @@
         "title": "What name of the title \"lemon drop\" please?",
         "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1217990.jpg?1",
         "identified_font": "Mar\u00eda Mercedes Graffiti Shop"
+    },
+    {
+        "task_id": "575227",
+        "url": "https://www.dafont.com/forum/read/575227/operation-harst-doorstop-font",
+        "title": "operation harst doorstop font",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1215416.png",
+        "identified_font": "Hacked"
+    },
+    {
+        "task_id": "576475",
+        "url": "https://www.dafont.com/forum/read/576475/identify-this-font",
+        "title": "Identify this font",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1218019.png",
+        "identified_font": "Sigana"
+    },
+    {
+        "task_id": "448980",
+        "url": "https://www.dafont.com/forum/read/448980/spirit-movie-font",
+        "title": "Spirit Movie Font?",
+        "img_url": "https://www.dafont.com/forum/attach/orig/9/5/959682.png",
+        "identified_font": null
+    },
+    {
+        "task_id": "576474",
+        "url": "https://www.dafont.com/forum/read/576474/name-of-the-font",
+        "title": "Name of the font",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1218012.png",
+        "identified_font": null
+    },
+    {
+        "task_id": "576470",
+        "url": "https://www.dafont.com/forum/read/576470/font-identification",
+        "title": "Font identification",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1218001.jpg?1",
+        "identified_font": null
+    },
+    {
+        "task_id": "576473",
+        "url": "https://www.dafont.com/forum/read/576473/name-of-the-font",
+        "title": "Name of the font",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1218011.png",
+        "identified_font": "Ascender Sans Bold"
+    },
+    {
+        "task_id": "576472",
+        "url": "https://www.dafont.com/forum/read/576472/this-font-has-the-tilted-e",
+        "title": "This font has the tilted e",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1218009.png",
+        "identified_font": null
+    },
+    {
+        "task_id": "576471",
+        "url": "https://www.dafont.com/forum/read/576471/help-finding-font",
+        "title": "Help finding font",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1218004.png",
+        "identified_font": null
     }
 ]
