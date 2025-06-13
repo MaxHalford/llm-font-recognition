@@ -4903,15 +4903,15 @@
         "task_id": "576447",
         "url": "https://www.dafont.com/forum/read/576447/font-by-shadowbyyoongi",
         "title": "FONT BY SHADOWBYYOONGI",
-        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1217952.jpg",
-        "identified_font": null
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1217952.jpg?1",
+        "identified_font": "Fearless Vampire Killer"
     },
     {
         "task_id": "576446",
         "url": "https://www.dafont.com/forum/read/576446/font-by-shadowbyyoongi",
         "title": "FONT BY SHADOWBYYOONGI",
-        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1217951.jpg",
-        "identified_font": null
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1217951.jpg?1",
+        "identified_font": "Ghost Armor"
     },
     {
         "task_id": "576445",
@@ -5024,5 +5024,12 @@
         "title": "what the font",
         "img_url": "https://www.dafont.com/forum/attach/orig/1/1/1168113.jpg",
         "identified_font": null
+    },
+    {
+        "task_id": "576455",
+        "url": "https://www.dafont.com/forum/read/576455/taylor-swift-font",
+        "title": "TAYLOR SWIFT FONT",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1217962.jpg",
+        "identified_font": "Medusa"
     }
 ]
