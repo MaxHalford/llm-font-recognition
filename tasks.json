@@ -4294,7 +4294,7 @@
         "task_id": "576352",
         "url": "https://www.dafont.com/forum/read/576352/what-is-that-font",
         "title": "What is that font",
-        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1217730.png",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1217730.png?1",
         "identified_font": null
     },
     {
@@ -5051,13 +5051,20 @@
         "url": "https://www.dafont.com/forum/read/576458/urgent-urgent-please-help-to-identify-the-font-in-the-image",
         "title": "Urgent Urgent, please help to identify the font in the image",
         "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1217976.jpg",
-        "identified_font": null
+        "identified_font": "Authentic Signature"
     },
     {
         "task_id": "576457",
         "url": "https://www.dafont.com/forum/read/576457/font-from-tenna-deltarune",
         "title": "Font from Tenna Deltarune",
         "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1217967.png",
+        "identified_font": null
+    },
+    {
+        "task_id": "576461",
+        "url": "https://www.dafont.com/forum/read/576461/herzstucke",
+        "title": "Herzst\u00fccke",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1217981.png?2",
         "identified_font": null
     }
 ]
