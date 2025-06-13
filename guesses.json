@@ -9021,5 +9021,89 @@
         "candidate_font_1": "Pump Demi",
         "candidate_font_2": "Bauhaus 93",
         "candidate_font_3": ""
+    },
+    {
+        "task_id": "576485",
+        "model_name": "gpt-4o-mini",
+        "candidate_font_1": "Eurostile",
+        "candidate_font_2": "Futura",
+        "candidate_font_3": "Neutra Display"
+    },
+    {
+        "task_id": "576485",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "SF Transrobotics",
+        "candidate_font_2": "Exander",
+        "candidate_font_3": "Oblivion"
+    },
+    {
+        "task_id": "576484",
+        "model_name": "gpt-4o-mini",
+        "candidate_font_1": "Pacifico",
+        "candidate_font_2": "Lobster",
+        "candidate_font_3": "Brush Script"
+    },
+    {
+        "task_id": "576484",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Candy Inc.",
+        "candidate_font_2": "Creampuff",
+        "candidate_font_3": "Keep on Truckin' FW"
+    },
+    {
+        "task_id": "576481",
+        "model_name": "gpt-4o-mini",
+        "candidate_font_1": "Lobster",
+        "candidate_font_2": "Pacifico",
+        "candidate_font_3": "Dancing Script"
+    },
+    {
+        "task_id": "576481",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Neon Display",
+        "candidate_font_2": "Neon Planet",
+        "candidate_font_3": "Bright Script"
+    },
+    {
+        "task_id": "576480",
+        "model_name": "gpt-4o-mini",
+        "candidate_font_1": "Pacifico",
+        "candidate_font_2": "Lobster",
+        "candidate_font_3": "Dancing Script"
+    },
+    {
+        "task_id": "576480",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Brushability",
+        "candidate_font_2": "Buttercup",
+        "candidate_font_3": "Creamy Script"
+    },
+    {
+        "task_id": "576479",
+        "model_name": "gpt-4o-mini",
+        "candidate_font_1": "Lobster",
+        "candidate_font_2": "Pacifico",
+        "candidate_font_3": ""
+    },
+    {
+        "task_id": "576479",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Pacifico",
+        "candidate_font_2": "Lemon Tuesday",
+        "candidate_font_3": "Hey August"
+    },
+    {
+        "task_id": "576477",
+        "model_name": "gpt-4o-mini",
+        "candidate_font_1": "Creepster",
+        "candidate_font_2": "BloodCrow",
+        "candidate_font_3": "Fright"
+    },
+    {
+        "task_id": "576477",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Monster Mash",
+        "candidate_font_2": "Ghoulie",
+        "candidate_font_3": "Spooky Hallows"
     }
 ]
