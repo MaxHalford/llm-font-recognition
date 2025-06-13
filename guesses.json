@@ -8853,5 +8853,19 @@
         "candidate_font_1": "Porky's",
         "candidate_font_2": "",
         "candidate_font_3": ""
+    },
+    {
+        "task_id": "576461",
+        "model_name": "gpt-4o-mini",
+        "candidate_font_1": "Pacifico",
+        "candidate_font_2": "Dancing Script",
+        "candidate_font_3": "Lobster"
+    },
+    {
+        "task_id": "576461",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Betterfly",
+        "candidate_font_2": "Magnolia Sky",
+        "candidate_font_3": "Hello Beautiful"
     }
 ]
