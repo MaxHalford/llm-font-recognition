@@ -8419,5 +8419,75 @@
         "candidate_font_1": "Pacifico",
         "candidate_font_2": "Give You a Text",
         "candidate_font_3": "Lemon Tuesday"
+    },
+    {
+        "task_id": "550628",
+        "model_name": "gpt-4o-mini",
+        "candidate_font_1": "Bouncy",
+        "candidate_font_2": "Comic Sans MS",
+        "candidate_font_3": "Giddyup Std"
+    },
+    {
+        "task_id": "550628",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Marker Felt",
+        "candidate_font_2": "Chewy",
+        "candidate_font_3": "Gochi Hand"
+    },
+    {
+        "task_id": "576433",
+        "model_name": "gpt-4o-mini",
+        "candidate_font_1": "Bungee",
+        "candidate_font_2": "Rubik Bold",
+        "candidate_font_3": "Nova Slim"
+    },
+    {
+        "task_id": "576433",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Rungie Italic",
+        "candidate_font_2": "",
+        "candidate_font_3": ""
+    },
+    {
+        "task_id": "576432",
+        "model_name": "gpt-4o-mini",
+        "candidate_font_1": "Avenir Next Bold",
+        "candidate_font_2": "Futura Bold",
+        "candidate_font_3": "Helvetica Neue Bold"
+    },
+    {
+        "task_id": "576432",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Intro Black",
+        "candidate_font_2": "Monolith (by Vladimir Fedotov)",
+        "candidate_font_3": "Bebas Neue"
+    },
+    {
+        "task_id": "576431",
+        "model_name": "gpt-4o-mini",
+        "candidate_font_1": "Lobster",
+        "candidate_font_2": "Montserrat",
+        "candidate_font_3": "Raleway"
+    },
+    {
+        "task_id": "576431",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "VAG Rounded",
+        "candidate_font_2": "Gelato Soft",
+        "candidate_font_3": ""
+    },
+    {
+        "task_id": "466853",
+        "model_name": "gpt-4o-mini",
+        "candidate_font_1": "Copperplate Gothic",
+        "candidate_font_2": "Baskerville",
+        "candidate_font_3": "Garamond"
+    },
+    {
+        "task_id": "466853",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Paramount Solid",
+        "candidate_font_2": "Trajan Pro",
+        "candidate_font_3": "Univers"
     }
 ]
