@@ -8797,5 +8797,61 @@
         "candidate_font_1": "Obelix Pro",
         "candidate_font_2": "Frankfurter Black",
         "candidate_font_3": "VAG Rounded Black"
+    },
+    {
+        "task_id": "576460",
+        "model_name": "gpt-4o-mini",
+        "candidate_font_1": "Circular Std",
+        "candidate_font_2": "Avenir Next",
+        "candidate_font_3": "Futura"
+    },
+    {
+        "task_id": "576460",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "VAG Rounded",
+        "candidate_font_2": "Open Sans Rounded",
+        "candidate_font_3": "Quicksand"
+    },
+    {
+        "task_id": "576459",
+        "model_name": "gpt-4o-mini",
+        "candidate_font_1": "Bodoni",
+        "candidate_font_2": "Didot",
+        "candidate_font_3": "Playfair Display"
+    },
+    {
+        "task_id": "576459",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Requiem Display Italic",
+        "candidate_font_2": "Didot Italic",
+        "candidate_font_3": "Bodoni Italic"
+    },
+    {
+        "task_id": "576458",
+        "model_name": "gpt-4o-mini",
+        "candidate_font_1": "Great Vibes",
+        "candidate_font_2": "Pacifico",
+        "candidate_font_3": "Satisfy"
+    },
+    {
+        "task_id": "576458",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Great Vibes",
+        "candidate_font_2": "Allura",
+        "candidate_font_3": "Alex Brush"
+    },
+    {
+        "task_id": "576457",
+        "model_name": "gpt-4o-mini",
+        "candidate_font_1": "Comic Sans MS",
+        "candidate_font_2": "Chalkboard SE",
+        "candidate_font_3": "Bangers"
+    },
+    {
+        "task_id": "576457",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Porky's",
+        "candidate_font_2": "",
+        "candidate_font_3": ""
     }
 ]
