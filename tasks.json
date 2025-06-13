@@ -4722,7 +4722,7 @@
         "url": "https://www.dafont.com/forum/read/576413/shoshimin-how-to-become-ordinary",
         "title": "SHOSHIMIN How to become ordinary",
         "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1217865.png",
-        "identified_font": null
+        "identified_font": "Amstajul Baffet"
     },
     {
         "task_id": "576412",
@@ -4820,6 +4820,48 @@
         "url": "https://www.dafont.com/forum/read/524320/font",
         "title": "Font?",
         "img_url": "https://www.dafont.com/forum/attach/orig/1/1/1109494.jpg",
+        "identified_font": null
+    },
+    {
+        "task_id": "550628",
+        "url": "https://www.dafont.com/forum/read/550628/what-the-font",
+        "title": "what the font",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/1/1164608.png",
+        "identified_font": null
+    },
+    {
+        "task_id": "576433",
+        "url": "https://www.dafont.com/forum/read/576433/looking-for-this-font",
+        "title": "looking for this font",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1217920.png",
+        "identified_font": null
+    },
+    {
+        "task_id": "576432",
+        "url": "https://www.dafont.com/forum/read/576432/tutorial-text-font",
+        "title": "\"TUTORIAL\" Text Font",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1217918.jpg",
+        "identified_font": null
+    },
+    {
+        "task_id": "576431",
+        "url": "https://www.dafont.com/forum/read/576431/r-e-m-beauty-font",
+        "title": "r.e.m beauty font??",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1217914.png",
+        "identified_font": null
+    },
+    {
+        "task_id": "576430",
+        "url": "https://www.dafont.com/forum/read/576430/shangri-la",
+        "title": "Shangri la",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1217911.png",
+        "identified_font": "Brittany Signature"
+    },
+    {
+        "task_id": "466853",
+        "url": "https://www.dafont.com/forum/read/466853/paramount-90th-anniversary-logo-font",
+        "title": "Paramount 90th Anniversary Logo Font",
+        "img_url": "https://www.dafont.com/forum/attach/orig/9/9/995417.png?1",
         "identified_font": null
     }
 ]
