@@ -5303,7 +5303,7 @@
         "url": "https://www.dafont.com/forum/read/576487/can-someone-help-me-what-font-is-this",
         "title": "Can someone help me what font is this?",
         "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1218047.png",
-        "identified_font": null
+        "identified_font": "Atlantico"
     },
     {
         "task_id": "576486",
@@ -5422,7 +5422,7 @@
         "url": "https://www.dafont.com/forum/read/576509/font-names-please",
         "title": "Font names please :)",
         "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1218086.jpg",
-        "identified_font": null
+        "identified_font": "Sister Spray"
     },
     {
         "task_id": "576508",
@@ -5471,6 +5471,48 @@
         "url": "https://www.dafont.com/forum/read/576513/font-please",
         "title": "Font Please",
         "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1218092.png",
+        "identified_font": "Castellar"
+    },
+    {
+        "task_id": "576528",
+        "url": "https://www.dafont.com/forum/read/576528/font-name",
+        "title": "Font name?",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1218120.png",
+        "identified_font": null
+    },
+    {
+        "task_id": "576527",
+        "url": "https://www.dafont.com/forum/read/576527/stone-cold-tee-font-please",
+        "title": "STONE COLD TEE FONT PLEASE",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1218119.jpg",
+        "identified_font": null
+    },
+    {
+        "task_id": "576525",
+        "url": "https://www.dafont.com/forum/read/576525/what-font-is-this",
+        "title": "what font is this?",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1218113.png",
+        "identified_font": "Angeletta"
+    },
+    {
+        "task_id": "576526",
+        "url": "https://www.dafont.com/forum/read/576526/hooked-up-font",
+        "title": "Hooked Up Font",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1218114.jpg",
+        "identified_font": "Andes"
+    },
+    {
+        "task_id": "576524",
+        "url": "https://www.dafont.com/forum/read/576524/fonte",
+        "title": "Fonte",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1218112.png",
+        "identified_font": null
+    },
+    {
+        "task_id": "576523",
+        "url": "https://www.dafont.com/forum/read/576523/fonte",
+        "title": "Fonte",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1218111.jpg",
         "identified_font": null
     }
 ]
