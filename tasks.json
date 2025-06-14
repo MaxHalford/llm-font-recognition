@@ -4519,7 +4519,7 @@
         "url": "https://www.dafont.com/forum/read/576372/font-name-pls",
         "title": "Font name pls :)",
         "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1217787.png?1",
-        "identified_font": null
+        "identified_font": "Good Dog"
     },
     {
         "task_id": "576385",
@@ -5044,7 +5044,7 @@
         "url": "https://www.dafont.com/forum/read/576459/font-pleace",
         "title": "Font pleace!!!",
         "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1217977.png",
-        "identified_font": null
+        "identified_font": "Relationship Of M\u00e9lodrame"
     },
     {
         "task_id": "576458",
@@ -5520,6 +5520,27 @@
         "url": "https://www.dafont.com/forum/read/576529/help-with-font-id-please-lets-rock",
         "title": "Help with font ID please \"Lets Rock\"",
         "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1218123.png",
+        "identified_font": null
+    },
+    {
+        "task_id": "576535",
+        "url": "https://www.dafont.com/forum/read/576535/please-font-of-solo-un-peruano-sabe-que-es-irresistible",
+        "title": "Please!! Font of \"SOLO UN PERUANO SABE QUE ES IRRESISTIBLE\"??",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1218138.png",
+        "identified_font": null
+    },
+    {
+        "task_id": "576534",
+        "url": "https://www.dafont.com/forum/read/576534/s-o-d-font",
+        "title": "S.O.D. FONT?",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1218137.jpg",
+        "identified_font": null
+    },
+    {
+        "task_id": "348010",
+        "url": "https://www.dafont.com/forum/read/348010/hello-neighbor-font",
+        "title": "Hello Neighbor font",
+        "img_url": "https://www.dafont.com/forum/attach/orig/7/6/760760.jpg?1",
         "identified_font": null
     }
 ]
