@@ -5394,7 +5394,7 @@
         "url": "https://www.dafont.com/forum/read/576506/porfavor-me-ayudarian-a-identificar-este-estilo-de-fuente",
         "title": "porfavor me ayudarian a identificar este estilo de fuente???",
         "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1218082.jpg",
-        "identified_font": null
+        "identified_font": "Lazy Dogs"
     },
     {
         "task_id": "576512",
@@ -5429,6 +5429,48 @@
         "url": "https://www.dafont.com/forum/read/576508/f45-logo",
         "title": "F45 logo",
         "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1218085.png",
+        "identified_font": null
+    },
+    {
+        "task_id": "576522",
+        "url": "https://www.dafont.com/forum/read/576522/alternate-sebastian-letters",
+        "title": "Alternate Sebastian letters?",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1218104.png",
+        "identified_font": null
+    },
+    {
+        "task_id": "576521",
+        "url": "https://www.dafont.com/forum/read/576521/font-name-please",
+        "title": "Font name please?",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1218102.png",
+        "identified_font": null
+    },
+    {
+        "task_id": "576516",
+        "url": "https://www.dafont.com/forum/read/576516/font-youtuber",
+        "title": "Font YouTuber?",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1218096.png",
+        "identified_font": null
+    },
+    {
+        "task_id": "576515",
+        "url": "https://www.dafont.com/forum/read/576515/what-is-this-font-please",
+        "title": "what is this font please",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1218095.png",
+        "identified_font": null
+    },
+    {
+        "task_id": "576514",
+        "url": "https://www.dafont.com/forum/read/576514/royal-rumble-1995-logo-font-name",
+        "title": "Royal Rumble 1995 Logo Font Name?",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1218094.png",
+        "identified_font": null
+    },
+    {
+        "task_id": "576513",
+        "url": "https://www.dafont.com/forum/read/576513/font-please",
+        "title": "Font Please",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1218092.png",
         "identified_font": null
     }
 ]
