@@ -9427,5 +9427,68 @@
         "candidate_font_1": "Bubbly",
         "candidate_font_2": "Fredoka One",
         "candidate_font_3": "Magnolia Sky"
+    },
+    {
+        "task_id": "576512",
+        "model_name": "gpt-4o-mini",
+        "candidate_font_1": "Impact",
+        "candidate_font_2": "Arial Black",
+        "candidate_font_3": "Frank Ruhl Libre"
+    },
+    {
+        "task_id": "576512",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Chubby Dot",
+        "candidate_font_2": "VAG Rounded Bold",
+        "candidate_font_3": "Bubblegum Sans"
+    },
+    {
+        "task_id": "576511",
+        "model_name": "gpt-4o-mini",
+        "candidate_font_1": "Bebas Neue",
+        "candidate_font_2": "Impact",
+        "candidate_font_3": "ChunkFive"
+    },
+    {
+        "task_id": "576510",
+        "model_name": "gpt-4o-mini",
+        "candidate_font_1": "Roboto Mono",
+        "candidate_font_2": "Ubuntu Mono",
+        "candidate_font_3": "Courier New"
+    },
+    {
+        "task_id": "576510",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Liberation Mono",
+        "candidate_font_2": "Droid Sans Mono",
+        "candidate_font_3": "Consolas"
+    },
+    {
+        "task_id": "576509",
+        "model_name": "gpt-4o-mini",
+        "candidate_font_1": "Brawler",
+        "candidate_font_2": "Impact",
+        "candidate_font_3": "Bebas Neue"
+    },
+    {
+        "task_id": "576509",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Cheeky Grub",
+        "candidate_font_2": "Kids Bubble Gum",
+        "candidate_font_3": "Grilled Cheese"
+    },
+    {
+        "task_id": "576508",
+        "model_name": "gpt-4o-mini",
+        "candidate_font_1": "Futura",
+        "candidate_font_2": "Bebas Neue",
+        "candidate_font_3": "DIN"
+    },
+    {
+        "task_id": "576508",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "",
+        "candidate_font_2": "",
+        "candidate_font_3": ""
     }
 ]
