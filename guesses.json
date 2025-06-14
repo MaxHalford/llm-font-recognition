@@ -9581,5 +9581,61 @@
         "candidate_font_1": "Cosi Azure Regular",
         "candidate_font_2": "Montserrat Regular",
         "candidate_font_3": "Didot Std Regular"
+    },
+    {
+        "task_id": "576528",
+        "model_name": "gpt-4o-mini",
+        "candidate_font_1": "Montserrat",
+        "candidate_font_2": "Bebas Neue",
+        "candidate_font_3": "Poppins"
+    },
+    {
+        "task_id": "576528",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Montserrat",
+        "candidate_font_2": "Poppins",
+        "candidate_font_3": "Golos Text"
+    },
+    {
+        "task_id": "576527",
+        "model_name": "gpt-4o-mini",
+        "candidate_font_1": "Bebas Neue",
+        "candidate_font_2": "Impact",
+        "candidate_font_3": "Metal Mania"
+    },
+    {
+        "task_id": "576527",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Death Rattle",
+        "candidate_font_2": "Destroyer",
+        "candidate_font_3": "Headliner No. 45"
+    },
+    {
+        "task_id": "576524",
+        "model_name": "gpt-4o-mini",
+        "candidate_font_1": "Sculptor",
+        "candidate_font_2": "Bodoni",
+        "candidate_font_3": "Balloon"
+    },
+    {
+        "task_id": "576524",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Hello Mozza",
+        "candidate_font_2": "Quick Kiss",
+        "candidate_font_3": "Creattion Demo"
+    },
+    {
+        "task_id": "576523",
+        "model_name": "gpt-4o-mini",
+        "candidate_font_1": "Playfair Display",
+        "candidate_font_2": "Bodoni",
+        "candidate_font_3": "Didot"
+    },
+    {
+        "task_id": "576523",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Didot",
+        "candidate_font_2": "Bodoni",
+        "candidate_font_3": "Playfair Display"
     }
 ]
