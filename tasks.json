@@ -5184,7 +5184,7 @@
         "url": "https://www.dafont.com/forum/read/576484/ayuda-con-esta-fuente",
         "title": "ayuda con esta fuente",
         "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1218036.jpg",
-        "identified_font": null
+        "identified_font": "Aguafina Script"
     },
     {
         "task_id": "576478",
@@ -5219,6 +5219,97 @@
         "url": "https://www.dafont.com/forum/read/576477/need-font-for-a-band",
         "title": "Need font for a band",
         "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1218025.png",
+        "identified_font": null
+    },
+    {
+        "task_id": "576492",
+        "url": "https://www.dafont.com/forum/read/576492/suspension-font",
+        "title": "Suspension Font",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1218061.png",
+        "identified_font": null
+    },
+    {
+        "task_id": "576489",
+        "url": "https://www.dafont.com/forum/read/576489/what-font-was-used",
+        "title": "What font was used",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1218056.png?1",
+        "identified_font": "Milky Coffee"
+    },
+    {
+        "task_id": "576491",
+        "url": "https://www.dafont.com/forum/read/576491/font-staff-rouse",
+        "title": "font staff rouse",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1218058.jpg",
+        "identified_font": null
+    },
+    {
+        "task_id": "576490",
+        "url": "https://www.dafont.com/forum/read/576490/snow-white-1937-font",
+        "title": "Snow White 1937 Font??",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1218057.jpg",
+        "identified_font": null
+    },
+    {
+        "task_id": "576488",
+        "url": "https://www.dafont.com/forum/read/576488/what-font-was-used",
+        "title": "What font was used",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1218055.jpg",
+        "identified_font": null
+    },
+    {
+        "task_id": "575660",
+        "url": "https://www.dafont.com/forum/read/575660/please-font-of-sublime",
+        "title": "Please!! Font of \"SUBLIME\"??",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1216323.png",
+        "identified_font": null
+    },
+    {
+        "task_id": "575651",
+        "url": "https://www.dafont.com/forum/read/575651/please-font-of-toujours",
+        "title": "Please!! Font of \"TOUJOURS\"??",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1216288.png",
+        "identified_font": null
+    },
+    {
+        "task_id": "575650",
+        "url": "https://www.dafont.com/forum/read/575650/please-font-of-buvez",
+        "title": "Please!! Font of \"buvez!\"??",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1216286.png",
+        "identified_font": null
+    },
+    {
+        "task_id": "575649",
+        "url": "https://www.dafont.com/forum/read/575649/please-font-of-disfruta",
+        "title": "Please!! Font of \"\u00a1disfruta!\"??",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1216282.png",
+        "identified_font": null
+    },
+    {
+        "task_id": "575423",
+        "url": "https://www.dafont.com/forum/read/575423/please-font-of-geoglifo-jose-ca-proyecto-dibujo",
+        "title": "Please!! Font of \"geoglifo, Jos\u00e9 Ca, proyecto, dibujo\"??",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1215850.png",
+        "identified_font": null
+    },
+    {
+        "task_id": "570982",
+        "url": "https://www.dafont.com/forum/read/570982/please-font-of-latina-deportes-noticias",
+        "title": "Please!! Font of \"latina deportes noticias\"??",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1207100.png",
+        "identified_font": null
+    },
+    {
+        "task_id": "576487",
+        "url": "https://www.dafont.com/forum/read/576487/can-someone-help-me-what-font-is-this",
+        "title": "Can someone help me what font is this?",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1218047.png",
+        "identified_font": null
+    },
+    {
+        "task_id": "576486",
+        "url": "https://www.dafont.com/forum/read/576486/does-anyone-know-what-2-fonts-these-are-please",
+        "title": "Does anyone know what 2 fonts these are please? &#128513;",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1218046.jpg",
         "identified_font": null
     }
 ]
