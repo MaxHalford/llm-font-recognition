@@ -5174,8 +5174,8 @@
     },
     {
         "task_id": "576485",
-        "url": "https://www.dafont.com/forum/read/576485/font-cole",
-        "title": "Font COLE",
+        "url": "https://www.dafont.com/forum/read/576485/font-cole-or-any-similar",
+        "title": "Font COLE or any similar?",
         "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1218037.png",
         "identified_font": null
     },
@@ -5478,7 +5478,7 @@
         "url": "https://www.dafont.com/forum/read/576528/font-name",
         "title": "Font name?",
         "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1218120.png",
-        "identified_font": null
+        "identified_font": "Gala"
     },
     {
         "task_id": "576527",
@@ -5513,6 +5513,13 @@
         "url": "https://www.dafont.com/forum/read/576523/fonte",
         "title": "Fonte",
         "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1218111.jpg",
+        "identified_font": null
+    },
+    {
+        "task_id": "576529",
+        "url": "https://www.dafont.com/forum/read/576529/help-with-font-id-please-lets-rock",
+        "title": "Help with font ID please \"Lets Rock\"",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1218123.png",
         "identified_font": null
     }
 ]
