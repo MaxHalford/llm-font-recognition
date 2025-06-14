@@ -9637,5 +9637,19 @@
         "candidate_font_1": "Didot",
         "candidate_font_2": "Bodoni",
         "candidate_font_3": "Playfair Display"
+    },
+    {
+        "task_id": "576529",
+        "model_name": "gpt-4o-mini",
+        "candidate_font_1": "Lobster",
+        "candidate_font_2": "Pacifico",
+        "candidate_font_3": "Brush Script"
+    },
+    {
+        "task_id": "576529",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "The Rockers",
+        "candidate_font_2": "Wild Ride",
+        "candidate_font_3": "Rocket Script"
     }
 ]
