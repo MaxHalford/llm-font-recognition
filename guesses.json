@@ -9693,5 +9693,131 @@
         "candidate_font_1": "Montserrat Bold",
         "candidate_font_2": "Gotham Black",
         "candidate_font_3": "Open Sans Extrabold"
+    },
+    {
+        "task_id": "576542",
+        "model_name": "gpt-4o-mini",
+        "candidate_font_1": "Dancing Script",
+        "candidate_font_2": "Pacifico",
+        "candidate_font_3": "Amatic SC"
+    },
+    {
+        "task_id": "576542",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "KG Neatly Printed",
+        "candidate_font_2": "School Notes",
+        "candidate_font_3": "Pencil Square"
+    },
+    {
+        "task_id": "576541",
+        "model_name": "gpt-4o-mini",
+        "candidate_font_1": "Arial Black",
+        "candidate_font_2": "Bebas Neue",
+        "candidate_font_3": "Impact"
+    },
+    {
+        "task_id": "576541",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "VAG Rounded",
+        "candidate_font_2": "Fredoka One",
+        "candidate_font_3": "Quicksand"
+    },
+    {
+        "task_id": "576540",
+        "model_name": "gpt-4o-mini",
+        "candidate_font_1": "Baskerville",
+        "candidate_font_2": "Zapfino",
+        "candidate_font_3": "Great Vibes"
+    },
+    {
+        "task_id": "576540",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Edwardian Script ITC",
+        "candidate_font_2": "French Script MT",
+        "candidate_font_3": "Kunstler Script"
+    },
+    {
+        "task_id": "576539",
+        "model_name": "gpt-4o-mini",
+        "candidate_font_1": "Bebas Neue",
+        "candidate_font_2": "Impact",
+        "candidate_font_3": "Anton"
+    },
+    {
+        "task_id": "576539",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "League Gothic",
+        "candidate_font_2": "Bebas Neue",
+        "candidate_font_3": "Archivo Black"
+    },
+    {
+        "task_id": "576538",
+        "model_name": "gpt-4o-mini",
+        "candidate_font_1": "Helvetica",
+        "candidate_font_2": "Arial",
+        "candidate_font_3": "Avenir"
+    },
+    {
+        "task_id": "576538",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Garamond",
+        "candidate_font_2": "Franklin Gothic Heavy Condensed",
+        "candidate_font_3": "Trade Gothic Bold Condensed No. 20"
+    },
+    {
+        "task_id": "576537",
+        "model_name": "gpt-4o-mini",
+        "candidate_font_1": "Bubblegum Sans",
+        "candidate_font_2": "Baloo Bhai",
+        "candidate_font_3": "Fredoka One"
+    },
+    {
+        "task_id": "576537",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Burbank Big Condensed",
+        "candidate_font_2": "Bubblegum Sans",
+        "candidate_font_3": "Pocahontas"
+    },
+    {
+        "task_id": "322736",
+        "model_name": "gpt-4o-mini",
+        "candidate_font_1": "Bebas Neue",
+        "candidate_font_2": "Impact",
+        "candidate_font_3": "Montserrat"
+    },
+    {
+        "task_id": "322736",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Montserrat Black",
+        "candidate_font_2": "Gotham Black",
+        "candidate_font_3": "Brandon Grotesque Black"
+    },
+    {
+        "task_id": "550769",
+        "model_name": "gpt-4o-mini",
+        "candidate_font_1": "Bebas Neue",
+        "candidate_font_2": "Oswald",
+        "candidate_font_3": "Montserrat"
+    },
+    {
+        "task_id": "550769",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Compacta",
+        "candidate_font_2": "Agency FB",
+        "candidate_font_3": "Bebas Neue"
+    },
+    {
+        "task_id": "215034",
+        "model_name": "gpt-4o-mini",
+        "candidate_font_1": "Futura Bold",
+        "candidate_font_2": "Bebas Neue",
+        "candidate_font_3": "Avenir Heavy"
+    },
+    {
+        "task_id": "215034",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Compacta Bold Italic",
+        "candidate_font_2": "Agency FB Bold Italic",
+        "candidate_font_3": "Impact Italic"
     }
 ]
