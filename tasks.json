@@ -5772,7 +5772,7 @@
         "url": "https://www.dafont.com/forum/read/576564/taylor-swift-summer-2025-collection-logo",
         "title": "Taylor Swift Summer 2025 Collection logo",
         "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1218196.png",
-        "identified_font": null
+        "identified_font": "Medusa"
     },
     {
         "task_id": "558810",
@@ -5793,6 +5793,27 @@
         "url": "https://www.dafont.com/forum/read/576560/please-help",
         "title": "Please help",
         "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1218187.jpg",
+        "identified_font": null
+    },
+    {
+        "task_id": "576572",
+        "url": "https://www.dafont.com/forum/read/576572/can-you-help-me-please",
+        "title": "Can you help me please",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1218208.jpg",
+        "identified_font": null
+    },
+    {
+        "task_id": "576571",
+        "url": "https://www.dafont.com/forum/read/576571/finnley-font",
+        "title": "Finnley font ?",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1218206.png",
+        "identified_font": null
+    },
+    {
+        "task_id": "576570",
+        "url": "https://www.dafont.com/forum/read/576570/font-by-chaereve",
+        "title": "FONT BY CHAEREVE",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1218205.jpg",
         "identified_font": null
     }
 ]
