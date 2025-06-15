@@ -9959,5 +9959,19 @@
         "candidate_font_1": "Beast Mode",
         "candidate_font_2": "Mandingo",
         "candidate_font_3": "Megatron"
+    },
+    {
+        "task_id": "576556",
+        "model_name": "gpt-4o-mini",
+        "candidate_font_1": "Poppins",
+        "candidate_font_2": "Circular Std",
+        "candidate_font_3": "Avenir Next"
+    },
+    {
+        "task_id": "576556",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Mochiy Pop P One",
+        "candidate_font_2": "Klee One",
+        "candidate_font_3": "Fredoka One"
     }
 ]
