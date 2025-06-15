@@ -3032,8 +3032,8 @@
     },
     {
         "task_id": "576151",
-        "url": "https://www.dafont.com/forum/read/576151/help-me-please-help-me",
-        "title": "HELP ME, PLEASE HELP ME",
+        "url": "https://www.dafont.com/forum/read/576151/tessas",
+        "title": "Tessas",
         "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1217316.jpg?1",
         "identified_font": null
     },
@@ -5415,7 +5415,7 @@
         "url": "https://www.dafont.com/forum/read/576510/what-is-the-name-of-this-font",
         "title": "What is the name of this font?",
         "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1218087.jpg",
-        "identified_font": null
+        "identified_font": "Arbel Hagilda"
     },
     {
         "task_id": "576509",
@@ -5611,6 +5611,76 @@
         "url": "https://www.dafont.com/forum/read/215034/windex-font",
         "title": "Windex Font",
         "img_url": "https://www.dafont.com/forum/attach/orig/4/9/492927.png?1",
+        "identified_font": null
+    },
+    {
+        "task_id": "576554",
+        "url": "https://www.dafont.com/forum/read/576554/steve-perry-street-talk-album-font",
+        "title": "Steve Perry Street Talk album font",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1218176.jpg",
+        "identified_font": null
+    },
+    {
+        "task_id": "576553",
+        "url": "https://www.dafont.com/forum/read/576553/what-font-thanks",
+        "title": "what font? thanks",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1218175.jpg",
+        "identified_font": null
+    },
+    {
+        "task_id": "576552",
+        "url": "https://www.dafont.com/forum/read/576552/what-font-is-this",
+        "title": "What font is this?",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1218173.png",
+        "identified_font": null
+    },
+    {
+        "task_id": "576551",
+        "url": "https://www.dafont.com/forum/read/576551/for-my-next-trick",
+        "title": "For my next trick",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1218170.jpg",
+        "identified_font": null
+    },
+    {
+        "task_id": "576550",
+        "url": "https://www.dafont.com/forum/read/576550/does-anyone-know-what-font-this-is",
+        "title": "Does anyone know what font this is?",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1218169.png",
+        "identified_font": null
+    },
+    {
+        "task_id": "576549",
+        "url": "https://www.dafont.com/forum/read/576549/dragon-ball-gekishin-squ4dra",
+        "title": "Dragon Ball Gekishin Squ4dra",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1218168.png",
+        "identified_font": null
+    },
+    {
+        "task_id": "576548",
+        "url": "https://www.dafont.com/forum/read/576548/anyone-know",
+        "title": "anyone know?",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1218167.png",
+        "identified_font": null
+    },
+    {
+        "task_id": "576547",
+        "url": "https://www.dafont.com/forum/read/576547/any-idea",
+        "title": "any idea?",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1218166.png",
+        "identified_font": null
+    },
+    {
+        "task_id": "576546",
+        "url": "https://www.dafont.com/forum/read/576546/what-is-this-font",
+        "title": "What is this font?",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1218165.png",
+        "identified_font": null
+    },
+    {
+        "task_id": "576544",
+        "url": "https://www.dafont.com/forum/read/576544/madusa",
+        "title": "\"MADUSA\"",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1218163.png",
         "identified_font": null
     }
 ]
