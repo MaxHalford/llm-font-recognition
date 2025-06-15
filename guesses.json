@@ -10197,5 +10197,33 @@
         "candidate_font_1": "Gochi Hand",
         "candidate_font_2": "Coming Soon",
         "candidate_font_3": "Doodle Basic"
+    },
+    {
+        "task_id": "576575",
+        "model_name": "gpt-4o-mini",
+        "candidate_font_1": "Chalkduster",
+        "candidate_font_2": "Dancing Script",
+        "candidate_font_3": "Pangram"
+    },
+    {
+        "task_id": "576575",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Komika Title",
+        "candidate_font_2": "Grinched",
+        "candidate_font_3": "Chunky Funky"
+    },
+    {
+        "task_id": "576574",
+        "model_name": "gpt-4o-mini",
+        "candidate_font_1": "Didot",
+        "candidate_font_2": "Bodoni",
+        "candidate_font_3": "Serifa"
+    },
+    {
+        "task_id": "576574",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Canela",
+        "candidate_font_2": "Didot",
+        "candidate_font_3": "Playfair Display"
     }
 ]
