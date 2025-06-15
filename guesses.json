@@ -9973,5 +9973,61 @@
         "candidate_font_1": "Mochiy Pop P One",
         "candidate_font_2": "Klee One",
         "candidate_font_3": "Fredoka One"
+    },
+    {
+        "task_id": "576559",
+        "model_name": "gpt-4o-mini",
+        "candidate_font_1": "Arial Rounded MT Bold",
+        "candidate_font_2": "Futura",
+        "candidate_font_3": "Verdana"
+    },
+    {
+        "task_id": "576559",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Oswald Bold",
+        "candidate_font_2": "Gotham Condensed",
+        "candidate_font_3": "Montserrat ExtraBold Condensed"
+    },
+    {
+        "task_id": "576558",
+        "model_name": "gpt-4o-mini",
+        "candidate_font_1": "Pangram",
+        "candidate_font_2": "Doodle Script",
+        "candidate_font_3": "Pacifico"
+    },
+    {
+        "task_id": "576558",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Handwritten",
+        "candidate_font_2": "User's Own Handwriting",
+        "candidate_font_3": "Casual Script (Handwritten Style)"
+    },
+    {
+        "task_id": "576557",
+        "model_name": "gpt-4o-mini",
+        "candidate_font_1": "Playfair Display",
+        "candidate_font_2": "Bodoni",
+        "candidate_font_3": "Didot"
+    },
+    {
+        "task_id": "576557",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Glamour Absolute Thin",
+        "candidate_font_2": "Butler Thin",
+        "candidate_font_3": "Didot LT Std"
+    },
+    {
+        "task_id": "355463",
+        "model_name": "gpt-4o-mini",
+        "candidate_font_1": "Bubblegum Sans",
+        "candidate_font_2": "Fredoka One",
+        "candidate_font_3": "Chewy"
+    },
+    {
+        "task_id": "355463",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "",
+        "candidate_font_2": "",
+        "candidate_font_3": ""
     }
 ]
