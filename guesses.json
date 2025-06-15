@@ -9819,5 +9819,145 @@
         "candidate_font_1": "Compacta Bold Italic",
         "candidate_font_2": "Agency FB Bold Italic",
         "candidate_font_3": "Impact Italic"
+    },
+    {
+        "task_id": "576554",
+        "model_name": "gpt-4o-mini",
+        "candidate_font_1": "Brush Script",
+        "candidate_font_2": "Kitsch",
+        "candidate_font_3": "Papyrus"
+    },
+    {
+        "task_id": "576554",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Road Rage",
+        "candidate_font_2": "Blacksword",
+        "candidate_font_3": "Bratislava Brush"
+    },
+    {
+        "task_id": "576553",
+        "model_name": "gpt-4o-mini",
+        "candidate_font_1": "Bebas Neue",
+        "candidate_font_2": "Oswald",
+        "candidate_font_3": "Impact"
+    },
+    {
+        "task_id": "576553",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Staatliches",
+        "candidate_font_2": "Bebas Neue Bold",
+        "candidate_font_3": "Impact"
+    },
+    {
+        "task_id": "576552",
+        "model_name": "gpt-4o-mini",
+        "candidate_font_1": "Bubblegum Sans",
+        "candidate_font_2": "Baloo",
+        "candidate_font_3": "Lobster"
+    },
+    {
+        "task_id": "576552",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Baloo 2",
+        "candidate_font_2": "Fredoka One",
+        "candidate_font_3": "VAG Rounded"
+    },
+    {
+        "task_id": "576551",
+        "model_name": "gpt-4o-mini",
+        "candidate_font_1": "Boo!",
+        "candidate_font_2": "Creepster",
+        "candidate_font_3": "Chiller"
+    },
+    {
+        "task_id": "576551",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Dream Spirals",
+        "candidate_font_2": "Grinched",
+        "candidate_font_3": "Creepy Crayon"
+    },
+    {
+        "task_id": "576550",
+        "model_name": "gpt-4o-mini",
+        "candidate_font_1": "Pixelated system font",
+        "candidate_font_2": "8-bit style font",
+        "candidate_font_3": ""
+    },
+    {
+        "task_id": "576550",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "VCR OSD Mono",
+        "candidate_font_2": "",
+        "candidate_font_3": ""
+    },
+    {
+        "task_id": "576549",
+        "model_name": "gpt-4o-mini",
+        "candidate_font_1": "Super Mario Bros.",
+        "candidate_font_2": "Roboto Black",
+        "candidate_font_3": "Comic Sans MS"
+    },
+    {
+        "task_id": "576549",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Saiyan Sans",
+        "candidate_font_2": "SF Collegiate Solid",
+        "candidate_font_3": "Fight This"
+    },
+    {
+        "task_id": "576548",
+        "model_name": "gpt-4o-mini",
+        "candidate_font_1": "Lobster",
+        "candidate_font_2": "Pacifico",
+        "candidate_font_3": "Bebas Neue"
+    },
+    {
+        "task_id": "576548",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "The Bold Font",
+        "candidate_font_2": "Golden Hills",
+        "candidate_font_3": "Groovy Retro"
+    },
+    {
+        "task_id": "576547",
+        "model_name": "gpt-4o-mini",
+        "candidate_font_1": "Bodoni",
+        "candidate_font_2": "Didot",
+        "candidate_font_3": "Times New Roman"
+    },
+    {
+        "task_id": "576547",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Big Caslon Italic",
+        "candidate_font_2": "Bembo Italic",
+        "candidate_font_3": "Garamond Premier Pro Italic"
+    },
+    {
+        "task_id": "576546",
+        "model_name": "gpt-4o-mini",
+        "candidate_font_1": "Bebas Neue",
+        "candidate_font_2": "Montserrat",
+        "candidate_font_3": "Poppins"
+    },
+    {
+        "task_id": "576546",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Madelyn",
+        "candidate_font_2": "Wild Heart",
+        "candidate_font_3": "She Walks on the Moon"
+    },
+    {
+        "task_id": "576544",
+        "model_name": "gpt-4o-mini",
+        "candidate_font_1": "Bangers",
+        "candidate_font_2": "Freaky Fonts",
+        "candidate_font_3": "Rock Salt"
+    },
+    {
+        "task_id": "576544",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Beast Mode",
+        "candidate_font_2": "Mandingo",
+        "candidate_font_3": "Megatron"
     }
 ]
