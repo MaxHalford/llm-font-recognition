@@ -5696,5 +5696,33 @@
         "title": "what font is this?",
         "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1218177.jpg",
         "identified_font": "Holyrock"
+    },
+    {
+        "task_id": "576559",
+        "url": "https://www.dafont.com/forum/read/576559/identificar-fuente",
+        "title": "IDENTIFICAR FUENTE",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1218186.jpg",
+        "identified_font": null
+    },
+    {
+        "task_id": "576558",
+        "url": "https://www.dafont.com/forum/read/576558/name-font",
+        "title": "Name font?",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1218185.jpg",
+        "identified_font": null
+    },
+    {
+        "task_id": "576557",
+        "url": "https://www.dafont.com/forum/read/576557/please-help-me-find-this-font",
+        "title": "PLEASE help me find this font!",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1218183.png",
+        "identified_font": null
+    },
+    {
+        "task_id": "355463",
+        "url": "https://www.dafont.com/forum/read/355463/nombre-de-estas-fuentes",
+        "title": "nombre de estas fuentes",
+        "img_url": "https://www.dafont.com/forum/attach/orig/7/7/775983.png",
+        "identified_font": null
     }
 ]
