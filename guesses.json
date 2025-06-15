@@ -10225,5 +10225,19 @@
         "candidate_font_1": "Canela",
         "candidate_font_2": "Didot",
         "candidate_font_3": "Playfair Display"
+    },
+    {
+        "task_id": "576578",
+        "model_name": "gpt-4o-mini",
+        "candidate_font_1": "Futura Bold",
+        "candidate_font_2": "Avenir Next Heavy",
+        "candidate_font_3": "Poppins SemiBold"
+    },
+    {
+        "task_id": "576578",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Gotham Black",
+        "candidate_font_2": "Montserrat Black",
+        "candidate_font_3": "Proxima Nova Black"
     }
 ]
