@@ -5682,5 +5682,19 @@
         "title": "\"MADUSA\"",
         "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1218163.png",
         "identified_font": null
+    },
+    {
+        "task_id": "576556",
+        "url": "https://www.dafont.com/forum/read/576556/quelle-est-cette-police-merci",
+        "title": "Quelle est cette police ? Merci !",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1218179.png",
+        "identified_font": null
+    },
+    {
+        "task_id": "576555",
+        "url": "https://www.dafont.com/forum/read/576555/what-font-is-this",
+        "title": "what font is this?",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1218177.jpg",
+        "identified_font": "Holyrock"
     }
 ]
