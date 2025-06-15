@@ -10155,5 +10155,47 @@
         "candidate_font_1": "SF Collegiate Stencil",
         "candidate_font_2": "Stencil Std",
         "candidate_font_3": "Stencil Regular"
+    },
+    {
+        "task_id": "576572",
+        "model_name": "gpt-4o-mini",
+        "candidate_font_1": "Bodoni",
+        "candidate_font_2": "Didot",
+        "candidate_font_3": "Playfair Display"
+    },
+    {
+        "task_id": "576572",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Prata",
+        "candidate_font_2": "DM Serif Display",
+        "candidate_font_3": "Bodoni"
+    },
+    {
+        "task_id": "576571",
+        "model_name": "gpt-4o-mini",
+        "candidate_font_1": "Poppins",
+        "candidate_font_2": "Montserrat",
+        "candidate_font_3": "Raleway"
+    },
+    {
+        "task_id": "576571",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "M PLUS Rounded 1c",
+        "candidate_font_2": "Gothic A1 Rounded",
+        "candidate_font_3": "Varela Round"
+    },
+    {
+        "task_id": "576570",
+        "model_name": "gpt-4o-mini",
+        "candidate_font_1": "Comic Sans MS",
+        "candidate_font_2": "Freestyle Script",
+        "candidate_font_3": "Caveat"
+    },
+    {
+        "task_id": "576570",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Gochi Hand",
+        "candidate_font_2": "Coming Soon",
+        "candidate_font_3": "Doodle Basic"
     }
 ]
