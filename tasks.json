@@ -5758,7 +5758,7 @@
         "url": "https://www.dafont.com/forum/read/576566/font-by-shadowbyyoongi",
         "title": "FONT BY SHADOWBYYOONGI",
         "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1218200.jpg",
-        "identified_font": null
+        "identified_font": "Eighty Nine 75020"
     },
     {
         "task_id": "576565",
@@ -5814,6 +5814,20 @@
         "url": "https://www.dafont.com/forum/read/576570/font-by-chaereve",
         "title": "FONT BY CHAEREVE",
         "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1218205.jpg",
+        "identified_font": null
+    },
+    {
+        "task_id": "576575",
+        "url": "https://www.dafont.com/forum/read/576575/quack",
+        "title": "QUACK",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1218215.jpg",
+        "identified_font": null
+    },
+    {
+        "task_id": "576574",
+        "url": "https://www.dafont.com/forum/read/576574/guys-help-this-is-from-the-niki-zefanya-2022-tour",
+        "title": "guys help!!! this is from the niki zefanya 2022 tour",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1218212.png",
         "identified_font": null
     }
 ]
