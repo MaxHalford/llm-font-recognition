@@ -10029,5 +10029,131 @@
         "candidate_font_1": "",
         "candidate_font_2": "",
         "candidate_font_3": ""
+    },
+    {
+        "task_id": "576569",
+        "model_name": "gpt-4o-mini",
+        "candidate_font_1": "BubbleGum",
+        "candidate_font_2": "Baloo",
+        "candidate_font_3": "Kalam"
+    },
+    {
+        "task_id": "576569",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Bubblegum Sans",
+        "candidate_font_2": "Patrick Hand",
+        "candidate_font_3": "Anton"
+    },
+    {
+        "task_id": "576568",
+        "model_name": "gpt-4o-mini",
+        "candidate_font_1": "Poppins",
+        "candidate_font_2": "Bebas Neue",
+        "candidate_font_3": "Fjalla One"
+    },
+    {
+        "task_id": "576568",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "VAG Rounded Bold",
+        "candidate_font_2": "Burbank Big Condensed Black",
+        "candidate_font_3": "Panton Round Black"
+    },
+    {
+        "task_id": "566695",
+        "model_name": "gpt-4o-mini",
+        "candidate_font_1": "Lobster",
+        "candidate_font_2": "Pacifico",
+        "candidate_font_3": "Dancing Script"
+    },
+    {
+        "task_id": "566695",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Cute Butterfly Font",
+        "candidate_font_2": "The Baby",
+        "candidate_font_3": "Sweet Valentine"
+    },
+    {
+        "task_id": "576567",
+        "model_name": "gpt-4o-mini",
+        "candidate_font_1": "Baskerville",
+        "candidate_font_2": "Georgia",
+        "candidate_font_3": "Merriweather"
+    },
+    {
+        "task_id": "576567",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Rockwell Bold",
+        "candidate_font_2": "Memphis Bold",
+        "candidate_font_3": "Clarendon Bold"
+    },
+    {
+        "task_id": "576566",
+        "model_name": "gpt-4o-mini",
+        "candidate_font_1": "Montserrat",
+        "candidate_font_2": "Oswald",
+        "candidate_font_3": "Bebas Neue"
+    },
+    {
+        "task_id": "576566",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Capsule Sans",
+        "candidate_font_2": "",
+        "candidate_font_3": ""
+    },
+    {
+        "task_id": "576565",
+        "model_name": "gpt-4o-mini",
+        "candidate_font_1": "Comic Sans MS",
+        "candidate_font_2": "Cooper Black",
+        "candidate_font_3": "Kidz Bop"
+    },
+    {
+        "task_id": "576565",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Action Is",
+        "candidate_font_2": "Komika Axis",
+        "candidate_font_3": "Porky's"
+    },
+    {
+        "task_id": "576564",
+        "model_name": "gpt-4o-mini",
+        "candidate_font_1": "Great Vibes",
+        "candidate_font_2": "Alex Brush",
+        "candidate_font_3": "Dancing Script"
+    },
+    {
+        "task_id": "576564",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Sudestada",
+        "candidate_font_2": "Champignon",
+        "candidate_font_3": "Angeline Vintage"
+    },
+    {
+        "task_id": "565148",
+        "model_name": "gpt-4o-mini",
+        "candidate_font_1": "Brush Script",
+        "candidate_font_2": "Pacifico",
+        "candidate_font_3": "Lobster"
+    },
+    {
+        "task_id": "565148",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Lemon Tuesday",
+        "candidate_font_2": "Stay High",
+        "candidate_font_3": "Another Kiss"
+    },
+    {
+        "task_id": "576560",
+        "model_name": "gpt-4o-mini",
+        "candidate_font_1": "Bebas Neue",
+        "candidate_font_2": "Impact",
+        "candidate_font_3": "Anton"
+    },
+    {
+        "task_id": "576560",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "SF Collegiate Stencil",
+        "candidate_font_2": "Stencil Std",
+        "candidate_font_3": "Stencil Regular"
     }
 ]
