@@ -10505,5 +10505,19 @@
         "candidate_font_1": "Bickham Script Pro",
         "candidate_font_2": "League Gothic",
         "candidate_font_3": "Mr. De Haviland"
+    },
+    {
+        "task_id": "572834",
+        "model_name": "gpt-4o-mini",
+        "candidate_font_1": "Bebas Neue",
+        "candidate_font_2": "Impact",
+        "candidate_font_3": "Blaka Bold"
+    },
+    {
+        "task_id": "572834",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Digital Strip",
+        "candidate_font_2": "Unbroken",
+        "candidate_font_3": "Digital Fracture"
     }
 ]
