@@ -5989,6 +5989,20 @@
         "url": "https://www.dafont.com/forum/read/576595/what-are-these-fonts",
         "title": "what are these fonts?",
         "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1218261.jpg",
+        "identified_font": "Pinyon Script"
+    },
+    {
+        "task_id": "572834",
+        "url": "https://www.dafont.com/forum/read/572834/which-fonts-are-used-here",
+        "title": "Which fonts are used here?",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1210719.png?1",
         "identified_font": null
+    },
+    {
+        "task_id": "573069",
+        "url": "https://www.dafont.com/forum/read/573069/what-is-this-font-please",
+        "title": "What is this font please?",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1211197.png?1",
+        "identified_font": "Gill Sans Medium"
     }
 ]
