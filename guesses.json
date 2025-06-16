@@ -10659,5 +10659,131 @@
         "candidate_font_1": "Trajan Pro",
         "candidate_font_2": "Felix Titling",
         "candidate_font_3": "Augustea"
+    },
+    {
+        "task_id": "576633",
+        "model_name": "gpt-4o-mini",
+        "candidate_font_1": "Gotham",
+        "candidate_font_2": "Avenir Next",
+        "candidate_font_3": "Proxima Nova"
+    },
+    {
+        "task_id": "576633",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "ITC Avant Garde Gothic",
+        "candidate_font_2": "Mostra Nuova",
+        "candidate_font_3": "Circular Std"
+    },
+    {
+        "task_id": "576632",
+        "model_name": "gpt-4o-mini",
+        "candidate_font_1": "Bebas Neue",
+        "candidate_font_2": "Oswald",
+        "candidate_font_3": "Anton"
+    },
+    {
+        "task_id": "576632",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Bebas Neue Bold",
+        "candidate_font_2": "Oswald Bold",
+        "candidate_font_3": "Agency FB Black"
+    },
+    {
+        "task_id": "576631",
+        "model_name": "gpt-4o-mini",
+        "candidate_font_1": "Doodle",
+        "candidate_font_2": "Sketch Block",
+        "candidate_font_3": "Handwritten"
+    },
+    {
+        "task_id": "576631",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "KG Backyard Haystacks",
+        "candidate_font_2": "Amatic SC",
+        "candidate_font_3": "Janda Starlight"
+    },
+    {
+        "task_id": "576630",
+        "model_name": "gpt-4o-mini",
+        "candidate_font_1": "Blackletter",
+        "candidate_font_2": "Western",
+        "candidate_font_3": "Gothic"
+    },
+    {
+        "task_id": "576630",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "SF Sports Night",
+        "candidate_font_2": "Pricedown",
+        "candidate_font_3": "Varsity Team"
+    },
+    {
+        "task_id": "576629",
+        "model_name": "gpt-4o-mini",
+        "candidate_font_1": "Bodoni",
+        "candidate_font_2": "Playfair Display",
+        "candidate_font_3": "Didot"
+    },
+    {
+        "task_id": "576629",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Adoria Display Font",
+        "candidate_font_2": "Lavendaria",
+        "candidate_font_3": "Peoni Pro"
+    },
+    {
+        "task_id": "576628",
+        "model_name": "gpt-4o-mini",
+        "candidate_font_1": "Bubblegum Sans",
+        "candidate_font_2": "Gloock",
+        "candidate_font_3": "Dosis"
+    },
+    {
+        "task_id": "576628",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Blocky Rounded Font",
+        "candidate_font_2": "Tetris Blocks Font",
+        "candidate_font_3": "Arcade Rounded Font"
+    },
+    {
+        "task_id": "576627",
+        "model_name": "gpt-4o-mini",
+        "candidate_font_1": "Alex Brush",
+        "candidate_font_2": "Great Vibes",
+        "candidate_font_3": "Dancing Script"
+    },
+    {
+        "task_id": "576627",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "I Love Glitter",
+        "candidate_font_2": "Bridgette",
+        "candidate_font_3": "Beautiful Sunday"
+    },
+    {
+        "task_id": "576626",
+        "model_name": "gpt-4o-mini",
+        "candidate_font_1": "Nunito",
+        "candidate_font_2": "Poppins",
+        "candidate_font_3": "Baloo Bhai"
+    },
+    {
+        "task_id": "576626",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Baloo 2",
+        "candidate_font_2": "Poppins",
+        "candidate_font_3": "Indie Flower"
+    },
+    {
+        "task_id": "576625",
+        "model_name": "gpt-4o-mini",
+        "candidate_font_1": "Montserrat",
+        "candidate_font_2": "Avenir",
+        "candidate_font_3": "Roboto"
+    },
+    {
+        "task_id": "576625",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Neo Sans Pro",
+        "candidate_font_2": "Corporate S",
+        "candidate_font_3": "Titillium Web"
     }
 ]
