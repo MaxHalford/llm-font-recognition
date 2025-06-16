@@ -5631,8 +5631,8 @@
         "task_id": "576552",
         "url": "https://www.dafont.com/forum/read/576552/what-font-is-this",
         "title": "What font is this?",
-        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1218173.png",
-        "identified_font": null
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1218173.png?2",
+        "identified_font": "Neulis Cursive"
     },
     {
         "task_id": "576551",
@@ -5884,7 +5884,7 @@
         "url": "https://www.dafont.com/forum/read/558235/penha-2025-carnaval-logo-enredo",
         "title": "Penha 2025 carnaval logo enredo",
         "img_url": "https://www.dafont.com/forum/attach/orig/1/1/1180638.png",
-        "identified_font": null
+        "identified_font": "Orca Role"
     },
     {
         "task_id": "576581",
@@ -5898,6 +5898,27 @@
         "url": "https://www.dafont.com/forum/read/576580/ramsdens-font-name-please",
         "title": "RAMSDENS font name please",
         "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1218228.jpg",
+        "identified_font": null
+    },
+    {
+        "task_id": "576588",
+        "url": "https://www.dafont.com/forum/read/576588/miyu-yamashita-font",
+        "title": "Miyu Yamashita Font",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1218246.png",
+        "identified_font": null
+    },
+    {
+        "task_id": "576587",
+        "url": "https://www.dafont.com/forum/read/576587/font-that-s-inside-of-the-flags",
+        "title": "Font That's Inside of The Flags",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1218245.jpg",
+        "identified_font": null
+    },
+    {
+        "task_id": "576586",
+        "url": "https://www.dafont.com/forum/read/576586/font-by-chaereve",
+        "title": "FONT BY CHAEREVE",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1218244.jpg",
         "identified_font": null
     }
 ]
