@@ -10323,5 +10323,47 @@
         "candidate_font_1": "Montserrat",
         "candidate_font_2": "Proxima Nova",
         "candidate_font_3": "Gotham"
+    },
+    {
+        "task_id": "576588",
+        "model_name": "gpt-4o-mini",
+        "candidate_font_1": "Bebas Neue",
+        "candidate_font_2": "Kool Beans",
+        "candidate_font_3": "Oswald"
+    },
+    {
+        "task_id": "576588",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Mouldy Cheese",
+        "candidate_font_2": "SF Square Head",
+        "candidate_font_3": "Squareo"
+    },
+    {
+        "task_id": "576587",
+        "model_name": "gpt-4o-mini",
+        "candidate_font_1": "Bebas Neue",
+        "candidate_font_2": "Impact",
+        "candidate_font_3": "Mason"
+    },
+    {
+        "task_id": "576587",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Varsity Team (Distressed)",
+        "candidate_font_2": "Chunky Retro (Distressed)",
+        "candidate_font_3": "Dream College"
+    },
+    {
+        "task_id": "576586",
+        "model_name": "gpt-4o-mini",
+        "candidate_font_1": "Bodoni",
+        "candidate_font_2": "Didot",
+        "candidate_font_3": "Playfair Display"
+    },
+    {
+        "task_id": "576586",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Budmo Jiggler",
+        "candidate_font_2": "Rocko",
+        "candidate_font_3": "Loverine"
     }
 ]
