@@ -6007,10 +6007,10 @@
     },
     {
         "task_id": "576618",
-        "url": "https://www.dafont.com/forum/read/576618/help-meeeeee",
-        "title": "help meeeeee",
+        "url": "https://www.dafont.com/forum/read/576618/what-is-this-font",
+        "title": "what is this font?",
         "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1218306.jpg",
-        "identified_font": null
+        "identified_font": "Billhead"
     },
     {
         "task_id": "576617",
@@ -6024,14 +6024,14 @@
         "url": "https://www.dafont.com/forum/read/576616/what-font-is-this",
         "title": "What font is this?",
         "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1218303.png",
-        "identified_font": null
+        "identified_font": "CAT Altenglisch"
     },
     {
         "task_id": "576613",
         "url": "https://www.dafont.com/forum/read/576613/what-font-is-this-really",
         "title": "WHAT FONT IS THIS REALLY!!!!!!!",
         "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1218300.png",
-        "identified_font": null
+        "identified_font": "Robaga Rounded"
     },
     {
         "task_id": "576612",
@@ -6059,21 +6059,21 @@
         "url": "https://www.dafont.com/forum/read/576603/please-help-id",
         "title": "Please Help ID",
         "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1218285.png",
-        "identified_font": null
+        "identified_font": "Barlow Condensed"
     },
     {
         "task_id": "576608",
         "url": "https://www.dafont.com/forum/read/576608/neo-andes-font",
         "title": "Neo Andes font?",
         "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1218292.png",
-        "identified_font": null
+        "identified_font": "Baloo 2"
     },
     {
         "task_id": "576607",
         "url": "https://www.dafont.com/forum/read/576607/mean-girls-website-font",
         "title": "Mean Girls website font",
         "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1218289.jpg",
-        "identified_font": null
+        "identified_font": "Agenda"
     },
     {
         "task_id": "576604",
@@ -6081,5 +6081,103 @@
         "title": "Duquesa",
         "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1218286.jpg",
         "identified_font": null
+    },
+    {
+        "task_id": "576633",
+        "url": "https://www.dafont.com/forum/read/576633/grammatico",
+        "title": "GRAMMATICO",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1218341.png",
+        "identified_font": null
+    },
+    {
+        "task_id": "576632",
+        "url": "https://www.dafont.com/forum/read/576632/natanzinho-lima-font-confirme-por-favor-me-ajuda-fi-do-canso",
+        "title": "NATANZINHO LIMA FONT ? CONFIRME POR FAVOR ME AJUDA, FI DO CANSO!",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1218340.jpg",
+        "identified_font": null
+    },
+    {
+        "task_id": "576631",
+        "url": "https://www.dafont.com/forum/read/576631/welk-lettertype-aub",
+        "title": "Welk lettertype aub ?",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1218339.png",
+        "identified_font": null
+    },
+    {
+        "task_id": "576630",
+        "url": "https://www.dafont.com/forum/read/576630/calligraphic-caps",
+        "title": "Calligraphic caps",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1218337.jpg",
+        "identified_font": null
+    },
+    {
+        "task_id": "576629",
+        "url": "https://www.dafont.com/forum/read/576629/font-porfavor",
+        "title": "Font porfavor!!",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1218336.png?1",
+        "identified_font": null
+    },
+    {
+        "task_id": "576628",
+        "url": "https://www.dafont.com/forum/read/576628/alguem-sabe-o-nome",
+        "title": "Algu\u00e9m sabe o nome?",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1218335.png",
+        "identified_font": null
+    },
+    {
+        "task_id": "576627",
+        "url": "https://www.dafont.com/forum/read/576627/alguem-sabe-identificar-essas-duas-fontes",
+        "title": "Algu\u00e9m sabe identificar essas duas fontes?",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1218333.jpg",
+        "identified_font": null
+    },
+    {
+        "task_id": "576624",
+        "url": "https://www.dafont.com/forum/read/576624/brockman",
+        "title": "Brockman",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1218325.png?1",
+        "identified_font": "Cinzel"
+    },
+    {
+        "task_id": "576622",
+        "url": "https://www.dafont.com/forum/read/576622/font-id",
+        "title": "font ID",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1218321.png",
+        "identified_font": "Gagalin"
+    },
+    {
+        "task_id": "576626",
+        "url": "https://www.dafont.com/forum/read/576626/gael-lucca-font-please",
+        "title": "gael Lucca font please",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1218330.jpg",
+        "identified_font": null
+    },
+    {
+        "task_id": "576625",
+        "url": "https://www.dafont.com/forum/read/576625/identificacion-de-fuente",
+        "title": "Identificaci\u00f3n de fuente",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1218328.png",
+        "identified_font": null
+    },
+    {
+        "task_id": "576623",
+        "url": "https://www.dafont.com/forum/read/576623/please-try-to-identify-this-font",
+        "title": "please try to identify this font",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1218322.png",
+        "identified_font": "Master Of Break"
+    },
+    {
+        "task_id": "576619",
+        "url": "https://www.dafont.com/forum/read/576619/que-fuenteses-esta",
+        "title": "QUE FUENTESES ESTA",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1218307.png",
+        "identified_font": "Antonio"
+    },
+    {
+        "task_id": "576620",
+        "url": "https://www.dafont.com/forum/read/576620/por-favor",
+        "title": "Por favor",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1218311.png",
+        "identified_font": "Mochary"
     }
 ]
