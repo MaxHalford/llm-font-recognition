@@ -10435,5 +10435,75 @@
         "candidate_font_1": "Pinyon Script",
         "candidate_font_2": "Great Vibes",
         "candidate_font_3": "Herr Von Muellerhoff"
+    },
+    {
+        "task_id": "576599",
+        "model_name": "gpt-4o-mini",
+        "candidate_font_1": "Lobster",
+        "candidate_font_2": "Samantha",
+        "candidate_font_3": "Great Vibes"
+    },
+    {
+        "task_id": "576599",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Adelicia Script",
+        "candidate_font_2": "Magnolia Sky",
+        "candidate_font_3": "Lavanderia"
+    },
+    {
+        "task_id": "576598",
+        "model_name": "gpt-4o-mini",
+        "candidate_font_1": "Bebas Neue",
+        "candidate_font_2": "Oswald",
+        "candidate_font_3": "Montserrat"
+    },
+    {
+        "task_id": "576598",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Anton",
+        "candidate_font_2": "Montserrat",
+        "candidate_font_3": "Gotham"
+    },
+    {
+        "task_id": "576597",
+        "model_name": "gpt-4o-mini",
+        "candidate_font_1": "Bodoni",
+        "candidate_font_2": "Didot",
+        "candidate_font_3": "Cinematizer"
+    },
+    {
+        "task_id": "576597",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Kuenstler Script",
+        "candidate_font_2": "Edwardian Script ITC",
+        "candidate_font_3": "Monotype Corsiva"
+    },
+    {
+        "task_id": "576596",
+        "model_name": "gpt-4o-mini",
+        "candidate_font_1": "Montserrat",
+        "candidate_font_2": "Bebas Neue",
+        "candidate_font_3": "Raleway"
+    },
+    {
+        "task_id": "576596",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Oswald Bold",
+        "candidate_font_2": "Stay High",
+        "candidate_font_3": "Roboto Condensed Light"
+    },
+    {
+        "task_id": "576595",
+        "model_name": "gpt-4o-mini",
+        "candidate_font_1": "Bodoni",
+        "candidate_font_2": "Scriptina",
+        "candidate_font_3": "Pacifico"
+    },
+    {
+        "task_id": "576595",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Bickham Script Pro",
+        "candidate_font_2": "League Gothic",
+        "candidate_font_3": "Mr. De Haviland"
     }
 ]
