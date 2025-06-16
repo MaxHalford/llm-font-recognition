@@ -5863,7 +5863,7 @@
         "url": "https://www.dafont.com/forum/read/576585/font",
         "title": "Font?",
         "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1218239.jpg",
-        "identified_font": null
+        "identified_font": "Azonix"
     },
     {
         "task_id": "576584",
@@ -5877,7 +5877,7 @@
         "url": "https://www.dafont.com/forum/read/557887/terceira-milenio-2023-carnaval-logo-enredo",
         "title": "Terceira mil\u00eanio 2023 carnaval logo enredo",
         "img_url": "https://www.dafont.com/forum/attach/orig/1/1/1179854.jpg",
-        "identified_font": null
+        "identified_font": "Alstoria"
     },
     {
         "task_id": "558235",
@@ -5919,6 +5919,20 @@
         "url": "https://www.dafont.com/forum/read/576586/font-by-chaereve",
         "title": "FONT BY CHAEREVE",
         "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1218244.jpg",
+        "identified_font": null
+    },
+    {
+        "task_id": "576591",
+        "url": "https://www.dafont.com/forum/read/576591/need-help-pls",
+        "title": "Need Help, pls",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1218253.png?1",
+        "identified_font": null
+    },
+    {
+        "task_id": "576590",
+        "url": "https://www.dafont.com/forum/read/576590/help",
+        "title": "help",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1218251.png",
         "identified_font": null
     }
 ]
