@@ -5048,9 +5048,9 @@
     },
     {
         "task_id": "576458",
-        "url": "https://www.dafont.com/forum/read/576458/urgent-urgent-please-help-to-identify-the-font-in-the-image",
-        "title": "Urgent Urgent, please help to identify the font in the image",
-        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1217976.jpg",
+        "url": "https://www.dafont.com/forum/read/576458/please-identify-the-font-in-the-image",
+        "title": "Please, identify the font in the image",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1217976.png?1",
         "identified_font": "Authentic Signature"
     },
     {
@@ -5954,6 +5954,41 @@
         "url": "https://www.dafont.com/forum/read/576592/what-s-this-font",
         "title": "what\u0092s this font ??",
         "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1218256.jpg",
+        "identified_font": null
+    },
+    {
+        "task_id": "576599",
+        "url": "https://www.dafont.com/forum/read/576599/help-me-pelasse",
+        "title": "help me pelasse",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1218271.jpg",
+        "identified_font": null
+    },
+    {
+        "task_id": "576598",
+        "url": "https://www.dafont.com/forum/read/576598/which-this-font-please",
+        "title": "Which this font, please?",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1218267.png",
+        "identified_font": null
+    },
+    {
+        "task_id": "576597",
+        "url": "https://www.dafont.com/forum/read/576597/bianchi-specialissima",
+        "title": "Bianchi Specialissima",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1218266.jpg",
+        "identified_font": null
+    },
+    {
+        "task_id": "576596",
+        "url": "https://www.dafont.com/forum/read/576596/please-help-identify",
+        "title": "Please help identify",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1218263.png",
+        "identified_font": null
+    },
+    {
+        "task_id": "576595",
+        "url": "https://www.dafont.com/forum/read/576595/what-are-these-fonts",
+        "title": "what are these fonts?",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1218261.jpg",
         "identified_font": null
     }
 ]
