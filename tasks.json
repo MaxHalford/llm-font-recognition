@@ -4295,7 +4295,7 @@
         "url": "https://www.dafont.com/forum/read/576352/what-is-that-font",
         "title": "What is that font",
         "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1217730.png?1",
-        "identified_font": null
+        "identified_font": "Noble Criatura"
     },
     {
         "task_id": "576351",
@@ -5843,5 +5843,61 @@
         "title": "these two typefaces (especially the one below)",
         "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1218223.jpg",
         "identified_font": "Gabriela"
+    },
+    {
+        "task_id": "576582",
+        "url": "https://www.dafont.com/forum/read/576582/vizinha-faladeira-2026-carnaval-logo-enredo-theme",
+        "title": "Vizinha faladeira 2026 carnaval logo enredo theme",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1218232.jpg",
+        "identified_font": "Board Marker"
+    },
+    {
+        "task_id": "576583",
+        "url": "https://www.dafont.com/forum/read/576583/arranco-do-engenho-de-dentro-2026-carnaval-logo-enredo-theme",
+        "title": "Arranco do Engenho de Dentro 2026 carnaval logo enredo theme",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1218233.jpg",
+        "identified_font": "Campanile"
+    },
+    {
+        "task_id": "576585",
+        "url": "https://www.dafont.com/forum/read/576585/font",
+        "title": "Font?",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1218239.jpg",
+        "identified_font": null
+    },
+    {
+        "task_id": "576584",
+        "url": "https://www.dafont.com/forum/read/576584/what-is-the-font-of-stingray-transport",
+        "title": "What is the font of Stingray Transport?",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1218238.jpg",
+        "identified_font": null
+    },
+    {
+        "task_id": "557887",
+        "url": "https://www.dafont.com/forum/read/557887/terceira-milenio-2023-carnaval-logo-enredo",
+        "title": "Terceira mil\u00eanio 2023 carnaval logo enredo",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/1/1179854.jpg",
+        "identified_font": null
+    },
+    {
+        "task_id": "558235",
+        "url": "https://www.dafont.com/forum/read/558235/penha-2025-carnaval-logo-enredo",
+        "title": "Penha 2025 carnaval logo enredo",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/1/1180638.png",
+        "identified_font": null
+    },
+    {
+        "task_id": "576581",
+        "url": "https://www.dafont.com/forum/read/576581/911ts-font",
+        "title": "911TS Font?",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1218231.png",
+        "identified_font": null
+    },
+    {
+        "task_id": "576580",
+        "url": "https://www.dafont.com/forum/read/576580/ramsdens-font-name-please",
+        "title": "RAMSDENS font name please",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1218228.jpg",
+        "identified_font": null
     }
 ]
