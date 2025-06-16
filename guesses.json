@@ -10365,5 +10365,33 @@
         "candidate_font_1": "Budmo Jiggler",
         "candidate_font_2": "Rocko",
         "candidate_font_3": "Loverine"
+    },
+    {
+        "task_id": "576591",
+        "model_name": "gpt-4o-mini",
+        "candidate_font_1": "Bebas Neue",
+        "candidate_font_2": "Impact",
+        "candidate_font_3": "Arial Black"
+    },
+    {
+        "task_id": "576591",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Road Rage",
+        "candidate_font_2": "Impact",
+        "candidate_font_3": "Bebas Neue Bold"
+    },
+    {
+        "task_id": "576590",
+        "model_name": "gpt-4o-mini",
+        "candidate_font_1": "Poppins",
+        "candidate_font_2": "Pacifico",
+        "candidate_font_3": "Pangram Sans"
+    },
+    {
+        "task_id": "576590",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Fredoka One",
+        "candidate_font_2": "Cream Candy",
+        "candidate_font_3": "Bubbly Lovely"
     }
 ]
