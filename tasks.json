@@ -6318,7 +6318,7 @@
         "url": "https://www.dafont.com/forum/read/576647/we-all-need-someone-to-make-us-believe-you-got-this",
         "title": "We all need someone to make us believe, YOU GOT THIS",
         "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1218397.png",
-        "identified_font": null
+        "identified_font": "Denton"
     },
     {
         "task_id": "576646",
@@ -6486,7 +6486,7 @@
         "url": "https://www.dafont.com/forum/read/576681/carmona-and-performance-font-please",
         "title": "Carmona and Performance font please",
         "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1218446.jpg",
-        "identified_font": null
+        "identified_font": "Pilot Command"
     },
     {
         "task_id": "576680",
@@ -6500,6 +6500,97 @@
         "url": "https://www.dafont.com/forum/read/576675/me-ayudan-a-saber-cual-es-la-tipografia-por-favor",
         "title": "me ayudan a saber cual es la tipografia por favor",
         "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1218433.jpg",
+        "identified_font": null
+    },
+    {
+        "task_id": "576694",
+        "url": "https://www.dafont.com/forum/read/576694/help-me-pls",
+        "title": "help me pls",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1218477.jpg",
+        "identified_font": "Kepler"
+    },
+    {
+        "task_id": "576696",
+        "url": "https://www.dafont.com/forum/read/576696/logo-font",
+        "title": "Logo font",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1218479.png",
+        "identified_font": null
+    },
+    {
+        "task_id": "576695",
+        "url": "https://www.dafont.com/forum/read/576695/script-font-name",
+        "title": "Script font name?",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1218478.jpg",
+        "identified_font": null
+    },
+    {
+        "task_id": "576693",
+        "url": "https://www.dafont.com/forum/read/576693/this-font-and-also-for-freeeeeeee",
+        "title": "This font and also for freeeeeeee",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1218476.jpg",
+        "identified_font": null
+    },
+    {
+        "task_id": "576692",
+        "url": "https://www.dafont.com/forum/read/576692/kids-font",
+        "title": "\"Kids\" font",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1218474.png",
+        "identified_font": "Kids"
+    },
+    {
+        "task_id": "576691",
+        "url": "https://www.dafont.com/forum/read/576691/help-with-this-font-please",
+        "title": "Help with this font please",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1218473.png",
+        "identified_font": null
+    },
+    {
+        "task_id": "576690",
+        "url": "https://www.dafont.com/forum/read/576690/help-with-these-fonts-please",
+        "title": "Help with these fonts please",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1218468.png",
+        "identified_font": "Twentieth Century Semi Bold"
+    },
+    {
+        "task_id": "576686",
+        "url": "https://www.dafont.com/forum/read/576686/tittle-font-name-famous-pls",
+        "title": "tittle font name \"FAMOUS\" pls",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1218459.jpg",
+        "identified_font": "Planet Kosmos"
+    },
+    {
+        "task_id": "576689",
+        "url": "https://www.dafont.com/forum/read/576689/the-dark-knight-coaster-font",
+        "title": "The Dark Knight Coaster Font?",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1218467.png",
+        "identified_font": null
+    },
+    {
+        "task_id": "576688",
+        "url": "https://www.dafont.com/forum/read/576688/whats-the-font",
+        "title": "Whats the font?",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1218463.jpg",
+        "identified_font": "Harman Elegant Inline"
+    },
+    {
+        "task_id": "576684",
+        "url": "https://www.dafont.com/forum/read/576684/thanks-in-advance",
+        "title": "Thanks in advance",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1218456.jpg",
+        "identified_font": "Callie Hand"
+    },
+    {
+        "task_id": "576687",
+        "url": "https://www.dafont.com/forum/read/576687/tittle-font-name-do-the-dance-pls",
+        "title": "tittle font name \"DO THE DANCE\" pls",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1218460.jpg",
+        "identified_font": null
+    },
+    {
+        "task_id": "576685",
+        "url": "https://www.dafont.com/forum/read/576685/help-identifying-logo-font",
+        "title": "Help identifying logo font",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1218457.png",
         "identified_font": null
     }
 ]
