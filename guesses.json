@@ -10799,5 +10799,33 @@
         "candidate_font_1": "Cream Peach",
         "candidate_font_2": "Bubblegum Script",
         "candidate_font_3": "Chocolate Heart"
+    },
+    {
+        "task_id": "576640",
+        "model_name": "gpt-4o-mini",
+        "candidate_font_1": "Impact",
+        "candidate_font_2": "Bangers",
+        "candidate_font_3": "Luckiest Guy"
+    },
+    {
+        "task_id": "576640",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "SF Sports Night Italic",
+        "candidate_font_2": "Pilat Bold Italic",
+        "candidate_font_3": "Roboto Condensed Light"
+    },
+    {
+        "task_id": "576639",
+        "model_name": "gpt-4o-mini",
+        "candidate_font_1": "Bebas Neue",
+        "candidate_font_2": "Archivo Black",
+        "candidate_font_3": "Fjalla One"
+    },
+    {
+        "task_id": "576639",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Bubblegum Sans",
+        "candidate_font_2": "Lilita One",
+        "candidate_font_3": "Fredoka One"
     }
 ]
