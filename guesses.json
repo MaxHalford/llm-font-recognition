@@ -11009,5 +11009,47 @@
         "candidate_font_1": "Bodoni",
         "candidate_font_2": "Didot",
         "candidate_font_3": "Playfair Display"
+    },
+    {
+        "task_id": "576658",
+        "model_name": "gpt-4o-mini",
+        "candidate_font_1": "Great Vibes",
+        "candidate_font_2": "Alex Brush",
+        "candidate_font_3": "Allura"
+    },
+    {
+        "task_id": "576658",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Bickham Script Pro",
+        "candidate_font_2": "Burgues Script",
+        "candidate_font_3": "Cinzel"
+    },
+    {
+        "task_id": "576659",
+        "model_name": "gpt-4o-mini",
+        "candidate_font_1": "Impact",
+        "candidate_font_2": "Bebas Neue",
+        "candidate_font_3": "Anton"
+    },
+    {
+        "task_id": "576659",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Agency FB Extended Bold",
+        "candidate_font_2": "United Sans Extended Bold",
+        "candidate_font_3": "F1 Regular"
+    },
+    {
+        "task_id": "576657",
+        "model_name": "gpt-4o-mini",
+        "candidate_font_1": "Eurostile",
+        "candidate_font_2": "Bank Gothic",
+        "candidate_font_3": "Microgramma"
+    },
+    {
+        "task_id": "576657",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Star Jedi",
+        "candidate_font_2": "Agency FB Extended",
+        "candidate_font_3": "Square 721 Std Extended Bold"
     }
 ]
