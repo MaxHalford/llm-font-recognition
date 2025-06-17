@@ -6325,7 +6325,7 @@
         "url": "https://www.dafont.com/forum/read/576646/please-help-me-what-is-the-name-of-this-font",
         "title": "Please help me! What is the name of this font???",
         "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1218396.jpg",
-        "identified_font": null
+        "identified_font": "Right Didone Light"
     },
     {
         "task_id": "576658",
@@ -6409,14 +6409,14 @@
         "url": "https://www.dafont.com/forum/read/576665/font",
         "title": "Font?",
         "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1218423.png",
-        "identified_font": null
+        "identified_font": "Rat Fink Condensed"
     },
     {
         "task_id": "576664",
         "url": "https://www.dafont.com/forum/read/576664/what-font-is-this-we-never-go-out-of-style",
         "title": "what font is this? We Never Go Out Of Style",
         "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1218422.jpg",
-        "identified_font": null
+        "identified_font": "Rafaella"
     },
     {
         "task_id": "576663",
@@ -6436,7 +6436,7 @@
         "task_id": "576661",
         "url": "https://www.dafont.com/forum/read/576661/splendido",
         "title": "Splendido",
-        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1218419.jpg",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1218419.jpg?1",
         "identified_font": null
     },
     {
@@ -6444,6 +6444,62 @@
         "url": "https://www.dafont.com/forum/read/576660/font-find",
         "title": "FONT FIND",
         "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1218417.png",
+        "identified_font": "Avalon"
+    },
+    {
+        "task_id": "576678",
+        "url": "https://www.dafont.com/forum/read/576678/font-please",
+        "title": "Font? Please.",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1218436.jpg",
+        "identified_font": "Times"
+    },
+    {
+        "task_id": "576683",
+        "url": "https://www.dafont.com/forum/read/576683/font-name",
+        "title": "Font name? :)",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1218451.jpg",
+        "identified_font": null
+    },
+    {
+        "task_id": "576679",
+        "url": "https://www.dafont.com/forum/read/576679/font-style",
+        "title": "Font style",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1218438.png",
+        "identified_font": null
+    },
+    {
+        "task_id": "576677",
+        "url": "https://www.dafont.com/forum/read/576677/hola",
+        "title": "hola",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1218435.png",
+        "identified_font": "Allegheny PA"
+    },
+    {
+        "task_id": "576682",
+        "url": "https://www.dafont.com/forum/read/576682/fonts-please",
+        "title": "Fonts please",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1218447.jpg",
+        "identified_font": null
+    },
+    {
+        "task_id": "576681",
+        "url": "https://www.dafont.com/forum/read/576681/carmona-and-performance-font-please",
+        "title": "Carmona and Performance font please",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1218446.jpg",
+        "identified_font": null
+    },
+    {
+        "task_id": "576680",
+        "url": "https://www.dafont.com/forum/read/576680/est-ce-que-quelqu-un-saurait-me-dire-la-police-s-il-vous-plait",
+        "title": "est ce que quelqu'un saurait me dire la police , s'il vous pla\u00eet ?",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1218439.png",
+        "identified_font": null
+    },
+    {
+        "task_id": "576675",
+        "url": "https://www.dafont.com/forum/read/576675/me-ayudan-a-saber-cual-es-la-tipografia-por-favor",
+        "title": "me ayudan a saber cual es la tipografia por favor",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1218433.jpg",
         "identified_font": null
     }
 ]
