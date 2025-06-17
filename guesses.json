@@ -10785,5 +10785,19 @@
         "candidate_font_1": "Neo Sans Pro",
         "candidate_font_2": "Corporate S",
         "candidate_font_3": "Titillium Web"
+    },
+    {
+        "task_id": "576634",
+        "model_name": "gpt-4o-mini",
+        "candidate_font_1": "Lobster",
+        "candidate_font_2": "Pacifico",
+        "candidate_font_3": "Bouncy"
+    },
+    {
+        "task_id": "576634",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Cream Peach",
+        "candidate_font_2": "Bubblegum Script",
+        "candidate_font_3": "Chocolate Heart"
     }
 ]
