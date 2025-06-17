@@ -5524,8 +5524,8 @@
     },
     {
         "task_id": "576535",
-        "url": "https://www.dafont.com/forum/read/576535/please-font-of-solo-un-peruano-sabe-que-es-irresistible",
-        "title": "Please!! Font of \"SOLO UN PERUANO SABE QUE ES IRRESISTIBLE\"??",
+        "url": "https://www.dafont.com/forum/read/576535/solo-un-peruano",
+        "title": "SOLO UN PERUANO",
         "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1218138.png",
         "identified_font": null
     },
@@ -5552,22 +5552,22 @@
     },
     {
         "task_id": "576541",
-        "url": "https://www.dafont.com/forum/read/576541/please-font-of-eres-el",
-        "title": "Please!! Font of \"ERES EL\"??",
+        "url": "https://www.dafont.com/forum/read/576541/eres-el",
+        "title": "ERES EL",
         "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1218157.png",
         "identified_font": null
     },
     {
         "task_id": "576540",
-        "url": "https://www.dafont.com/forum/read/576540/please-font-of-letter-p",
-        "title": "Please!! Font of letter \"P\"??",
+        "url": "https://www.dafont.com/forum/read/576540/p",
+        "title": "P",
         "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1218156.png",
         "identified_font": null
     },
     {
         "task_id": "576539",
-        "url": "https://www.dafont.com/forum/read/576539/please-font-of-del-mundo",
-        "title": "Please!! Font of \"DEL MUNDO\"??",
+        "url": "https://www.dafont.com/forum/read/576539/del-mundo",
+        "title": "Del mundo",
         "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1218155.png",
         "identified_font": null
     },
@@ -5587,8 +5587,8 @@
     },
     {
         "task_id": "576537",
-        "url": "https://www.dafont.com/forum/read/576537/please-font-of-papa",
-        "title": "Please!! Font of \"PAPA\"??",
+        "url": "https://www.dafont.com/forum/read/576537/papa",
+        "title": "Papa",
         "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1218143.jpg",
         "identified_font": null
     },
@@ -5702,7 +5702,7 @@
         "url": "https://www.dafont.com/forum/read/576559/identificar-fuente",
         "title": "IDENTIFICAR FUENTE",
         "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1218186.jpg",
-        "identified_font": null
+        "identified_font": "Caviar Dreams"
     },
     {
         "task_id": "576558",
@@ -6129,7 +6129,7 @@
         "url": "https://www.dafont.com/forum/read/576627/alguem-sabe-identificar-essas-duas-fontes",
         "title": "Algu\u00e9m sabe identificar essas duas fontes?",
         "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1218333.jpg",
-        "identified_font": null
+        "identified_font": "Moontime Script"
     },
     {
         "task_id": "576624",
@@ -6179,5 +6179,12 @@
         "title": "Por favor",
         "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1218311.png",
         "identified_font": "Mochary"
+    },
+    {
+        "task_id": "576634",
+        "url": "https://www.dafont.com/forum/read/576634/please-help-me-find-the-font-used",
+        "title": "Please help me find the font used",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1218372.jpg",
+        "identified_font": null
     }
 ]
