@@ -11247,5 +11247,89 @@
         "candidate_font_1": "The Witches Script",
         "candidate_font_2": "Delightfull",
         "candidate_font_3": "Adora Bouton"
+    },
+    {
+        "task_id": "576683",
+        "model_name": "gpt-4o-mini",
+        "candidate_font_1": "Bebas Neue",
+        "candidate_font_2": "Impact",
+        "candidate_font_3": "Anton"
+    },
+    {
+        "task_id": "576683",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Uni Sans Heavy",
+        "candidate_font_2": "Montserrat Black",
+        "candidate_font_3": "Work Sans Black"
+    },
+    {
+        "task_id": "576679",
+        "model_name": "gpt-4o-mini",
+        "candidate_font_1": "Cloister Black",
+        "candidate_font_2": "Fette Fraktur",
+        "candidate_font_3": "Blackletter"
+    },
+    {
+        "task_id": "576679",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Roael Typeface",
+        "candidate_font_2": "Wanted M54",
+        "candidate_font_3": "Mesquite Std"
+    },
+    {
+        "task_id": "576682",
+        "model_name": "gpt-4o-mini",
+        "candidate_font_1": "Bebas Neue",
+        "candidate_font_2": "Impact",
+        "candidate_font_3": "Eurostile"
+    },
+    {
+        "task_id": "576682",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Red Ring Bold",
+        "candidate_font_2": "Bebas Neue Bold",
+        "candidate_font_3": "Oswald ExtraLight"
+    },
+    {
+        "task_id": "576681",
+        "model_name": "gpt-4o-mini",
+        "candidate_font_1": "Bebas Neue",
+        "candidate_font_2": "Impact",
+        "candidate_font_3": "Oswald"
+    },
+    {
+        "task_id": "576681",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Exo Black",
+        "candidate_font_2": "Rajdhani Bold",
+        "candidate_font_3": "Quantico Bold"
+    },
+    {
+        "task_id": "576680",
+        "model_name": "gpt-4o-mini",
+        "candidate_font_1": "Bickham Script Pro",
+        "candidate_font_2": "Great Vibes",
+        "candidate_font_3": "Allura"
+    },
+    {
+        "task_id": "576680",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Burgues Script",
+        "candidate_font_2": "Edwardian Script ITC",
+        "candidate_font_3": "Palace Script MT"
+    },
+    {
+        "task_id": "576675",
+        "model_name": "gpt-4o-mini",
+        "candidate_font_1": "Comic Sans MS",
+        "candidate_font_2": "Chalkboard",
+        "candidate_font_3": "Kristen ITC"
+    },
+    {
+        "task_id": "576675",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Just Me Again Down Here",
+        "candidate_font_2": "",
+        "candidate_font_3": ""
     }
 ]
