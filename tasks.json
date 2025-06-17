@@ -6094,7 +6094,7 @@
         "url": "https://www.dafont.com/forum/read/576632/natanzinho-lima-font-confirme-por-favor-me-ajuda-fi-do-canso",
         "title": "NATANZINHO LIMA FONT ? CONFIRME POR FAVOR ME AJUDA, FI DO CANSO!",
         "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1218340.jpg",
-        "identified_font": null
+        "identified_font": "Amalfi Coast"
     },
     {
         "task_id": "576631",
@@ -6186,5 +6186,47 @@
         "title": "Please help me find the font used",
         "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1218372.jpg",
         "identified_font": null
+    },
+    {
+        "task_id": "576642",
+        "url": "https://www.dafont.com/forum/read/576642/blue-font",
+        "title": "Blue font?",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1218387.jpg",
+        "identified_font": "Veljovic Black Italic"
+    },
+    {
+        "task_id": "576637",
+        "url": "https://www.dafont.com/forum/read/576637/que-fuente-es",
+        "title": "que fuente es",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1218378.png?1",
+        "identified_font": "Blastimo"
+    },
+    {
+        "task_id": "576641",
+        "url": "https://www.dafont.com/forum/read/576641/font-id-a-more-difficult-request-s-in-bubble",
+        "title": "[FONT ID] A more difficult request... (S in bubble)",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1218383.png",
+        "identified_font": "Bottle Depot"
+    },
+    {
+        "task_id": "576640",
+        "url": "https://www.dafont.com/forum/read/576640/miguel-5-font-please",
+        "title": "\"miguel\" \"5\" font, please",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1218382.jpg",
+        "identified_font": null
+    },
+    {
+        "task_id": "576639",
+        "url": "https://www.dafont.com/forum/read/576639/alguien-me-ayuda-a-identificar-esta-fuente",
+        "title": "Alguien me ayuda a identificar esta fuente",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1218381.png?1",
+        "identified_font": null
+    },
+    {
+        "task_id": "576636",
+        "url": "https://www.dafont.com/forum/read/576636/please-help-me-find-this-font-d",
+        "title": "Please Help me find this font :D",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1218375.jpg",
+        "identified_font": "Streetwear"
     }
 ]
