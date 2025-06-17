@@ -10869,5 +10869,145 @@
         "candidate_font_1": "Bridge Typeface",
         "candidate_font_2": "Compacta Black",
         "candidate_font_3": "Agency FB Black"
+    },
+    {
+        "task_id": "576656",
+        "model_name": "gpt-4o-mini",
+        "candidate_font_1": "Lobster",
+        "candidate_font_2": "Pacifico",
+        "candidate_font_3": "Dancing Script"
+    },
+    {
+        "task_id": "576656",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Hello Sunshine",
+        "candidate_font_2": "Bright Sunshine",
+        "candidate_font_3": "Lemon Tuesday"
+    },
+    {
+        "task_id": "576655",
+        "model_name": "gpt-4o-mini",
+        "candidate_font_1": "Lobster",
+        "candidate_font_2": "Pacifico",
+        "candidate_font_3": "Great Vibes"
+    },
+    {
+        "task_id": "576655",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Beautifully Delicious",
+        "candidate_font_2": "Wonderland Script",
+        "candidate_font_3": "Springfield"
+    },
+    {
+        "task_id": "576654",
+        "model_name": "gpt-4o-mini",
+        "candidate_font_1": "Bodoni",
+        "candidate_font_2": "Didot",
+        "candidate_font_3": "Garamond"
+    },
+    {
+        "task_id": "576654",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Glamor Display",
+        "candidate_font_2": "Portia Serif",
+        "candidate_font_3": "Valverde Regular"
+    },
+    {
+        "task_id": "576652",
+        "model_name": "gpt-4o-mini",
+        "candidate_font_1": "Metallic Sans",
+        "candidate_font_2": "Cyberpunk",
+        "candidate_font_3": "Futuristic Bold"
+    },
+    {
+        "task_id": "576652",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "",
+        "candidate_font_2": "",
+        "candidate_font_3": ""
+    },
+    {
+        "task_id": "576651",
+        "model_name": "gpt-4o-mini",
+        "candidate_font_1": "Pacifico",
+        "candidate_font_2": "Lobster",
+        "candidate_font_3": "Great Vibes"
+    },
+    {
+        "task_id": "576651",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "College Boy",
+        "candidate_font_2": "Lemon Milkshake",
+        "candidate_font_3": "College Block"
+    },
+    {
+        "task_id": "576650",
+        "model_name": "gpt-4o-mini",
+        "candidate_font_1": "Futura Bold",
+        "candidate_font_2": "Helvetica Bold",
+        "candidate_font_3": "Avenir Heavy"
+    },
+    {
+        "task_id": "576650",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Montserrat Bold",
+        "candidate_font_2": "Gotham Bold",
+        "candidate_font_3": "Proxima Nova Bold"
+    },
+    {
+        "task_id": "576649",
+        "model_name": "gpt-4o-mini",
+        "candidate_font_1": "Baloo",
+        "candidate_font_2": "Poppins",
+        "candidate_font_3": "Bebas Neue"
+    },
+    {
+        "task_id": "576649",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Fredoka One",
+        "candidate_font_2": "VAG Rounded Black",
+        "candidate_font_3": "Bebas Neue Round"
+    },
+    {
+        "task_id": "576648",
+        "model_name": "gpt-4o-mini",
+        "candidate_font_1": "Montserrat",
+        "candidate_font_2": "Lato",
+        "candidate_font_3": "Avenir"
+    },
+    {
+        "task_id": "576648",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Century Gothic",
+        "candidate_font_2": "Circular Std",
+        "candidate_font_3": "Brandon Grotesque"
+    },
+    {
+        "task_id": "576647",
+        "model_name": "gpt-4o-mini",
+        "candidate_font_1": "Bodoni",
+        "candidate_font_2": "Didot",
+        "candidate_font_3": "Playfair Display"
+    },
+    {
+        "task_id": "576647",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Cinzel",
+        "candidate_font_2": "Bodoni",
+        "candidate_font_3": "Didot"
+    },
+    {
+        "task_id": "576646",
+        "model_name": "gpt-4o-mini",
+        "candidate_font_1": "Garamond",
+        "candidate_font_2": "Baskerville",
+        "candidate_font_3": "Caslon"
+    },
+    {
+        "task_id": "576646",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Bodoni",
+        "candidate_font_2": "Didot",
+        "candidate_font_3": "Playfair Display"
     }
 ]
