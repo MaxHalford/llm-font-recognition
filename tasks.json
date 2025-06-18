@@ -6184,8 +6184,8 @@
         "task_id": "576634",
         "url": "https://www.dafont.com/forum/read/576634/please-help-me-find-the-font-used",
         "title": "Please help me find the font used",
-        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1218372.jpg",
-        "identified_font": null
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1218372.png?1",
+        "identified_font": "Genty"
     },
     {
         "task_id": "576642",
@@ -6275,8 +6275,8 @@
         "task_id": "576654",
         "url": "https://www.dafont.com/forum/read/576654/portofino",
         "title": "PORTOFINO",
-        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1218405.jpg",
-        "identified_font": null
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1218405.jpg?1",
+        "identified_font": "Right Didone"
     },
     {
         "task_id": "576652",
@@ -6437,7 +6437,7 @@
         "url": "https://www.dafont.com/forum/read/576661/splendido",
         "title": "Splendido",
         "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1218419.jpg?1",
-        "identified_font": null
+        "identified_font": "Uplifts"
     },
     {
         "task_id": "576660",
@@ -6521,7 +6521,7 @@
         "url": "https://www.dafont.com/forum/read/576695/script-font-name",
         "title": "Script font name?",
         "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1218478.jpg",
-        "identified_font": null
+        "identified_font": "Krinkes"
     },
     {
         "task_id": "576693",
@@ -6542,7 +6542,7 @@
         "url": "https://www.dafont.com/forum/read/576691/help-with-this-font-please",
         "title": "Help with this font please",
         "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1218473.png",
-        "identified_font": null
+        "identified_font": "Italiano"
     },
     {
         "task_id": "576690",
@@ -6591,6 +6591,27 @@
         "url": "https://www.dafont.com/forum/read/576685/help-identifying-logo-font",
         "title": "Help identifying logo font",
         "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1218457.png",
+        "identified_font": null
+    },
+    {
+        "task_id": "576698",
+        "url": "https://www.dafont.com/forum/read/576698/font",
+        "title": "Font?",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1218489.png",
+        "identified_font": "Reenie Beanie"
+    },
+    {
+        "task_id": "576699",
+        "url": "https://www.dafont.com/forum/read/576699/i-found-this-font-here-and-now-can-t-find-it",
+        "title": "I found this font here and now can't find it.",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1218490.jpg",
+        "identified_font": "Elven Common Speak"
+    },
+    {
+        "task_id": "576697",
+        "url": "https://www.dafont.com/forum/read/576697/globaltrip-tu-viaje-comienza-aqui",
+        "title": "GLOBALTRIP  TU  VIAJE COMIENZA AQUI",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1218482.png",
         "identified_font": null
     }
 ]
