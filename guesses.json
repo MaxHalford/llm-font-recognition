@@ -11429,5 +11429,19 @@
         "candidate_font_1": "Eurostile Extended Black",
         "candidate_font_2": "Agency FB Black",
         "candidate_font_3": "Bank Gothic Medium"
+    },
+    {
+        "task_id": "576697",
+        "model_name": "gpt-4o-mini",
+        "candidate_font_1": "Montserrat",
+        "candidate_font_2": "Poppins",
+        "candidate_font_3": "Roboto"
+    },
+    {
+        "task_id": "576697",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Montserrat",
+        "candidate_font_2": "Open Sans",
+        "candidate_font_3": "Lato"
     }
 ]
