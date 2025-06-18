@@ -11527,5 +11527,61 @@
         "candidate_font_1": "SF Sports Night",
         "candidate_font_2": "Varsity Classic",
         "candidate_font_3": "College Block"
+    },
+    {
+        "task_id": "576709",
+        "model_name": "gpt-4o-mini",
+        "candidate_font_1": "Bebas Neue",
+        "candidate_font_2": "Impact",
+        "candidate_font_3": "Anton"
+    },
+    {
+        "task_id": "576709",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Impact",
+        "candidate_font_2": "Anton",
+        "candidate_font_3": "Haettenschweiler"
+    },
+    {
+        "task_id": "576712",
+        "model_name": "gpt-4o-mini",
+        "candidate_font_1": "Pacifico",
+        "candidate_font_2": "Baloo Bhai 2",
+        "candidate_font_3": "Lobster"
+    },
+    {
+        "task_id": "576712",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Lemon Tuesday",
+        "candidate_font_2": "Stay Strawberry",
+        "candidate_font_3": "Montserrat Bold"
+    },
+    {
+        "task_id": "576711",
+        "model_name": "gpt-4o-mini",
+        "candidate_font_1": "Helvetica",
+        "candidate_font_2": "Arial",
+        "candidate_font_3": "Futura"
+    },
+    {
+        "task_id": "576711",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "VAG Rounded",
+        "candidate_font_2": "Comfortaa",
+        "candidate_font_3": "Quicksand"
+    },
+    {
+        "task_id": "576710",
+        "model_name": "gpt-4o-mini",
+        "candidate_font_1": "Bebas Neue",
+        "candidate_font_2": "Helvetica Neue",
+        "candidate_font_3": "DIN"
+    },
+    {
+        "task_id": "576710",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Poppins",
+        "candidate_font_2": "Mulish",
+        "candidate_font_3": "Urbanist"
     }
 ]
