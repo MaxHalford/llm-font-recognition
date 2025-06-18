@@ -6332,7 +6332,7 @@
         "url": "https://www.dafont.com/forum/read/576658/fontes",
         "title": "Fontes",
         "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1218412.png",
-        "identified_font": null
+        "identified_font": "Aston Script"
     },
     {
         "task_id": "576659",
@@ -6661,6 +6661,41 @@
         "url": "https://www.dafont.com/forum/read/576703/help-me-plsss",
         "title": "Help me, plsss",
         "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1218523.jpg",
+        "identified_font": null
+    },
+    {
+        "task_id": "576709",
+        "url": "https://www.dafont.com/forum/read/576709/what-font-in-this-youtube-thumbnail-is-this",
+        "title": "What font in this YouTube thumbnail is this?",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1218535.jpg",
+        "identified_font": null
+    },
+    {
+        "task_id": "576708",
+        "url": "https://www.dafont.com/forum/read/576708/pizza-music-yt-channel-font-name-of-lyrics",
+        "title": "Pizza Music YT Channel Font Name of lyrics",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1218530.png",
+        "identified_font": "Edo SZ"
+    },
+    {
+        "task_id": "576712",
+        "url": "https://www.dafont.com/forum/read/576712/tittle-font-name-style-pls",
+        "title": "tittle font name \"Style\" pls",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1218541.png",
+        "identified_font": null
+    },
+    {
+        "task_id": "576711",
+        "url": "https://www.dafont.com/forum/read/576711/amazonas",
+        "title": "amazonas",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1218539.png",
+        "identified_font": null
+    },
+    {
+        "task_id": "576710",
+        "url": "https://www.dafont.com/forum/read/576710/name-font-please",
+        "title": "Name font please",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1218538.jpg",
         "identified_font": null
     }
 ]
