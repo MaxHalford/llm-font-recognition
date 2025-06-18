@@ -6744,8 +6744,8 @@
         "task_id": "576720",
         "url": "https://www.dafont.com/forum/read/576720/font-name",
         "title": "FONT NAME?",
-        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1218556.png",
-        "identified_font": null
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1218556.jpg?1",
+        "identified_font": "Ultra Condensed Sans Serif"
     },
     {
         "task_id": "576717",
@@ -6780,6 +6780,62 @@
         "url": "https://www.dafont.com/forum/read/566667/marvel-rivals-font",
         "title": "Marvel Rivals font?",
         "img_url": "https://www.dafont.com/forum/attach/orig/1/1/1198640.png",
+        "identified_font": null
+    },
+    {
+        "task_id": "576732",
+        "url": "https://www.dafont.com/forum/read/576732/know-these-fonts",
+        "title": "Know these fonts?",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1218577.jpg",
+        "identified_font": null
+    },
+    {
+        "task_id": "576729",
+        "url": "https://www.dafont.com/forum/read/576729/please-help-id",
+        "title": "Please Help ID",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1218572.png",
+        "identified_font": null
+    },
+    {
+        "task_id": "576731",
+        "url": "https://www.dafont.com/forum/read/576731/font-id",
+        "title": "font ID",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1218574.png",
+        "identified_font": null
+    },
+    {
+        "task_id": "576730",
+        "url": "https://www.dafont.com/forum/read/576730/can-anyone-tell-what-font-this-is",
+        "title": "Can anyone tell what font this is?",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1218573.png",
+        "identified_font": null
+    },
+    {
+        "task_id": "576728",
+        "url": "https://www.dafont.com/forum/read/576728/font-find",
+        "title": "FONT FIND",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1218569.jpg",
+        "identified_font": null
+    },
+    {
+        "task_id": "576727",
+        "url": "https://www.dafont.com/forum/read/576727/gary-numan-jagged-font",
+        "title": "Gary Numan Jagged Font",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1218568.jpg",
+        "identified_font": null
+    },
+    {
+        "task_id": "576726",
+        "url": "https://www.dafont.com/forum/read/576726/id-font",
+        "title": "ID FONT?",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1218566.png",
+        "identified_font": null
+    },
+    {
+        "task_id": "576725",
+        "url": "https://www.dafont.com/forum/read/576725/gypsy-distillery",
+        "title": "GYPSY DISTILLERY",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1218565.jpg",
         "identified_font": null
     }
 ]
