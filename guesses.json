@@ -11457,5 +11457,75 @@
         "candidate_font_1": "SF TransRobotics",
         "candidate_font_2": "Montserrat",
         "candidate_font_3": "Open Sans"
+    },
+    {
+        "task_id": "576707",
+        "model_name": "gpt-4o-mini",
+        "candidate_font_1": "Dancing Script",
+        "candidate_font_2": "Great Vibes",
+        "candidate_font_3": "Pacifico"
+    },
+    {
+        "task_id": "576707",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Voluta Script",
+        "candidate_font_2": "Kuenstler Script",
+        "candidate_font_3": "Coronet"
+    },
+    {
+        "task_id": "576706",
+        "model_name": "gpt-4o-mini",
+        "candidate_font_1": "Comic Sans MS",
+        "candidate_font_2": "Marker Felt",
+        "candidate_font_3": "Arial Rounded MT Bold"
+    },
+    {
+        "task_id": "576706",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Burbank Big Condensed Bold",
+        "candidate_font_2": "Fredoka One",
+        "candidate_font_3": "Bubblegum Sans"
+    },
+    {
+        "task_id": "576705",
+        "model_name": "gpt-4o-mini",
+        "candidate_font_1": "Dancing Script",
+        "candidate_font_2": "Pacifico",
+        "candidate_font_3": "Great Vibes"
+    },
+    {
+        "task_id": "576705",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Jokerman Chalk",
+        "candidate_font_2": "Smudged Chalk",
+        "candidate_font_3": "DK Crayon Crumble"
+    },
+    {
+        "task_id": "576704",
+        "model_name": "gpt-4o-mini",
+        "candidate_font_1": "Brush Script",
+        "candidate_font_2": "Comic Sans MS",
+        "candidate_font_3": "Impact"
+    },
+    {
+        "task_id": "576704",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Bombing",
+        "candidate_font_2": "Mostwasted",
+        "candidate_font_3": "Bubblegum Sans"
+    },
+    {
+        "task_id": "576703",
+        "model_name": "gpt-4o-mini",
+        "candidate_font_1": "Bebas Neue",
+        "candidate_font_2": "Impact",
+        "candidate_font_3": "Anton"
+    },
+    {
+        "task_id": "576703",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "SF Sports Night",
+        "candidate_font_2": "Varsity Classic",
+        "candidate_font_3": "College Block"
     }
 ]
