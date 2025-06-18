@@ -11849,5 +11849,103 @@
         "candidate_font_1": "LHF Royal Gold",
         "candidate_font_2": "ITC Romic",
         "candidate_font_3": ""
+    },
+    {
+        "task_id": "576746",
+        "model_name": "gpt-4o-mini",
+        "candidate_font_1": "DIN Condensed",
+        "candidate_font_2": "Bebas Neue",
+        "candidate_font_3": "Impact"
+    },
+    {
+        "task_id": "576746",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Roboto Black",
+        "candidate_font_2": "Open Sans ExtraBold",
+        "candidate_font_3": "Montserrat Black"
+    },
+    {
+        "task_id": "576745",
+        "model_name": "gpt-4o-mini",
+        "candidate_font_1": "Bodoni",
+        "candidate_font_2": "Didot",
+        "candidate_font_3": "Playfair Display"
+    },
+    {
+        "task_id": "576745",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Requiem Text",
+        "candidate_font_2": "Avenir",
+        "candidate_font_3": "Didot"
+    },
+    {
+        "task_id": "576742",
+        "model_name": "gpt-4o-mini",
+        "candidate_font_1": "Stretched Sans",
+        "candidate_font_2": "Futura",
+        "candidate_font_3": "Bebas Neue"
+    },
+    {
+        "task_id": "576742",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Eurostile",
+        "candidate_font_2": "Bank Gothic",
+        "candidate_font_3": "Striped"
+    },
+    {
+        "task_id": "576740",
+        "model_name": "gpt-4o-mini",
+        "candidate_font_1": "Old English Text MT",
+        "candidate_font_2": "Blackletter",
+        "candidate_font_3": "Fraktur"
+    },
+    {
+        "task_id": "576740",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Cloister Black",
+        "candidate_font_2": "Old English Text MT",
+        "candidate_font_3": "Gothic Standard"
+    },
+    {
+        "task_id": "576739",
+        "model_name": "gpt-4o-mini",
+        "candidate_font_1": "Bebas Neue",
+        "candidate_font_2": "Impact",
+        "candidate_font_3": "Anton"
+    },
+    {
+        "task_id": "576739",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Pricedown Black",
+        "candidate_font_2": "Impact",
+        "candidate_font_3": "Eurostile Extended Black Oblique"
+    },
+    {
+        "task_id": "576738",
+        "model_name": "gpt-4o-mini",
+        "candidate_font_1": "Quicksand",
+        "candidate_font_2": "Poppins",
+        "candidate_font_3": "Comfortaa"
+    },
+    {
+        "task_id": "576738",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Good Feeling Sans",
+        "candidate_font_2": "Coaster Lemon",
+        "candidate_font_3": "Burbank Big Condensed"
+    },
+    {
+        "task_id": "576734",
+        "model_name": "gpt-4o-mini",
+        "candidate_font_1": "Montserrat",
+        "candidate_font_2": "Futura",
+        "candidate_font_3": "Helvetica Neue"
+    },
+    {
+        "task_id": "576734",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Gotham Bold",
+        "candidate_font_2": "Museo Sans",
+        "candidate_font_3": "Montserrat ExtraBold"
     }
 ]
