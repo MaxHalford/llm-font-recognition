@@ -2762,7 +2762,7 @@
         "url": "https://www.dafont.com/forum/read/561156/taylor-from-the-text-in-the-background-with-screen-effect-font-please",
         "title": "\u0093taylor\u0094 (from the text in the background with screen effect) font, please.",
         "img_url": "https://www.dafont.com/forum/attach/orig/1/1/1186846.png",
-        "identified_font": null
+        "identified_font": "Optimust"
     },
     {
         "task_id": "576115",
@@ -6492,8 +6492,8 @@
         "task_id": "576680",
         "url": "https://www.dafont.com/forum/read/576680/est-ce-que-quelqu-un-saurait-me-dire-la-police-s-il-vous-plait",
         "title": "est ce que quelqu'un saurait me dire la police , s'il vous pla\u00eet ?",
-        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1218439.png",
-        "identified_font": null
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1218439.png?1",
+        "identified_font": "Ellizabeth"
     },
     {
         "task_id": "576675",
@@ -6584,7 +6584,7 @@
         "url": "https://www.dafont.com/forum/read/576687/tittle-font-name-do-the-dance-pls",
         "title": "tittle font name \"DO THE DANCE\" pls",
         "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1218460.jpg",
-        "identified_font": null
+        "identified_font": "Huhtikuu"
     },
     {
         "task_id": "576685",
@@ -6612,6 +6612,20 @@
         "url": "https://www.dafont.com/forum/read/576697/globaltrip-tu-viaje-comienza-aqui",
         "title": "GLOBALTRIP  TU  VIAJE COMIENZA AQUI",
         "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1218482.png",
+        "identified_font": null
+    },
+    {
+        "task_id": "576701",
+        "url": "https://www.dafont.com/forum/read/576701/font-killin-it-girl",
+        "title": "Font \"Killin` It Girl\"",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1218514.jpg",
+        "identified_font": "Rock's Death"
+    },
+    {
+        "task_id": "576700",
+        "url": "https://www.dafont.com/forum/read/576700/jaeguchi-font",
+        "title": "Jaeguchi font",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1218512.jpg",
         "identified_font": null
     }
 ]
