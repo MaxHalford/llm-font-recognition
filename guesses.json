@@ -12115,5 +12115,33 @@
         "candidate_font_1": "Staatliches",
         "candidate_font_2": "Old Sport ATHC",
         "candidate_font_3": "SF Collegiate Block"
+    },
+    {
+        "task_id": "576773",
+        "model_name": "gpt-4o-mini",
+        "candidate_font_1": "Bebas Neue",
+        "candidate_font_2": "Oswald",
+        "candidate_font_3": "Impact"
+    },
+    {
+        "task_id": "576773",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Mobley",
+        "candidate_font_2": "Cheesecake",
+        "candidate_font_3": "VAG Rounded Bold"
+    },
+    {
+        "task_id": "576772",
+        "model_name": "gpt-4o-mini",
+        "candidate_font_1": "Pacifico",
+        "candidate_font_2": "Brush Script MT",
+        "candidate_font_3": "Dancing Script"
+    },
+    {
+        "task_id": "576772",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Monte Carlo",
+        "candidate_font_2": "Speed Rally",
+        "candidate_font_3": "Carrosserie Regular"
     }
 ]
