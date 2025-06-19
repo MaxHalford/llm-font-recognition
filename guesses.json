@@ -12423,5 +12423,33 @@
         "candidate_font_1": "Lemon Tuesday",
         "candidate_font_2": "Butler Regular",
         "candidate_font_3": "Poppins Black"
+    },
+    {
+        "task_id": "576805",
+        "model_name": "gpt-4o-mini",
+        "candidate_font_1": "Eurostile",
+        "candidate_font_2": "Bank Gothic",
+        "candidate_font_3": "Square Sans"
+    },
+    {
+        "task_id": "576805",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Fredoka One",
+        "candidate_font_2": "Ranchers",
+        "candidate_font_3": "VAG Rounded Bold"
+    },
+    {
+        "task_id": "576803",
+        "model_name": "gpt-4o-mini",
+        "candidate_font_1": "Bebas Neue",
+        "candidate_font_2": "Oswald",
+        "candidate_font_3": "Anton"
+    },
+    {
+        "task_id": "576803",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Trajan Pro",
+        "candidate_font_2": "Forum",
+        "candidate_font_3": "Open Sans"
     }
 ]
