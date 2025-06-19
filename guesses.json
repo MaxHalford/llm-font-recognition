@@ -12339,5 +12339,89 @@
         "candidate_font_1": "Uni Sans Rounded",
         "candidate_font_2": "Code Pro Rounded",
         "candidate_font_3": "Geoma Rounded"
+    },
+    {
+        "task_id": "576797",
+        "model_name": "gpt-4o-mini",
+        "candidate_font_1": "Cursive",
+        "candidate_font_2": "Lobster",
+        "candidate_font_3": "Pacifico"
+    },
+    {
+        "task_id": "576797",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Almendra Display",
+        "candidate_font_2": "P22 Uncial",
+        "candidate_font_3": "Augustus"
+    },
+    {
+        "task_id": "576796",
+        "model_name": "gpt-4o-mini",
+        "candidate_font_1": "Bologna",
+        "candidate_font_2": "Playfair Display",
+        "candidate_font_3": "Crimson Pro"
+    },
+    {
+        "task_id": "576796",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Dirty Headline",
+        "candidate_font_2": "Iron Horse",
+        "candidate_font_3": "Aachen Bold (Distressed)"
+    },
+    {
+        "task_id": "576795",
+        "model_name": "gpt-4o-mini",
+        "candidate_font_1": "Montserrat",
+        "candidate_font_2": "Poppins",
+        "candidate_font_3": "Roboto Black"
+    },
+    {
+        "task_id": "576795",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Nunito Bold",
+        "candidate_font_2": "Baloo Paaji 2 Bold",
+        "candidate_font_3": "Varela Round Bold"
+    },
+    {
+        "task_id": "576793",
+        "model_name": "gpt-4o-mini",
+        "candidate_font_1": "Bodoni",
+        "candidate_font_2": "Didot",
+        "candidate_font_3": "Playfair Display"
+    },
+    {
+        "task_id": "576793",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Pivovar",
+        "candidate_font_2": "LHF Concourse",
+        "candidate_font_3": "Broadway"
+    },
+    {
+        "task_id": "576792",
+        "model_name": "gpt-4o-mini",
+        "candidate_font_1": "Bebas Neue",
+        "candidate_font_2": "Archivo Black",
+        "candidate_font_3": "Anton"
+    },
+    {
+        "task_id": "576792",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "SF Movie Poster Black Italic",
+        "candidate_font_2": "Agency FB Black Italic",
+        "candidate_font_3": "Bebas Neue Bold"
+    },
+    {
+        "task_id": "576791",
+        "model_name": "gpt-4o-mini",
+        "candidate_font_1": "Lobster",
+        "candidate_font_2": "Bodoni",
+        "candidate_font_3": "Brush Script"
+    },
+    {
+        "task_id": "576791",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Lemon Tuesday",
+        "candidate_font_2": "Butler Regular",
+        "candidate_font_3": "Poppins Black"
     }
 ]
