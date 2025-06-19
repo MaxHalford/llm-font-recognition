@@ -7081,14 +7081,14 @@
         "url": "https://www.dafont.com/forum/read/576786/help-with-this-font-please",
         "title": "Help with this font please",
         "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1218708.png",
-        "identified_font": null
+        "identified_font": "Minion Italic"
     },
     {
         "task_id": "576785",
         "url": "https://www.dafont.com/forum/read/576785/help-with-this-font-please",
         "title": "Help with this font please",
         "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1218707.png",
-        "identified_font": null
+        "identified_font": "Klavika"
     },
     {
         "task_id": "576784",
@@ -7158,21 +7158,21 @@
         "url": "https://www.dafont.com/forum/read/576797/what-font-is-the-spark-part",
         "title": "What font is the \u0093Spark\u0094 part",
         "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1218729.jpg",
-        "identified_font": null
+        "identified_font": "Wizards Magic"
     },
     {
         "task_id": "576796",
         "url": "https://www.dafont.com/forum/read/576796/whats-the-font",
         "title": "Whats the font?",
         "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1218725.png",
-        "identified_font": null
+        "identified_font": "Ringbearer"
     },
     {
         "task_id": "576795",
         "url": "https://www.dafont.com/forum/read/576795/help",
         "title": "Help",
         "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1218724.png",
-        "identified_font": null
+        "identified_font": "Poppins"
     },
     {
         "task_id": "576793",
@@ -7215,5 +7215,40 @@
         "title": "What font is it?",
         "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1218712.jpg",
         "identified_font": "Niagara"
+    },
+    {
+        "task_id": "576805",
+        "url": "https://www.dafont.com/forum/read/576805/dfds-font",
+        "title": "DFDS FONT",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1218753.png",
+        "identified_font": null
+    },
+    {
+        "task_id": "576802",
+        "url": "https://www.dafont.com/forum/read/576802/que-fuente-es",
+        "title": "Que fuente es?",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1218746.png",
+        "identified_font": "Jellee"
+    },
+    {
+        "task_id": "576803",
+        "url": "https://www.dafont.com/forum/read/576803/please-help",
+        "title": "Please help",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1218747.jpg",
+        "identified_font": null
+    },
+    {
+        "task_id": "575233",
+        "url": "https://www.dafont.com/forum/read/575233/please-font-name-please",
+        "title": "Please font name please &#128591;",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1215423.png?1",
+        "identified_font": "Claven"
+    },
+    {
+        "task_id": "576798",
+        "url": "https://www.dafont.com/forum/read/576798/font-pleace",
+        "title": "font pleace?",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1218733.png",
+        "identified_font": "Hobo"
     }
 ]
