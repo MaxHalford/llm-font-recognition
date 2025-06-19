@@ -6934,7 +6934,7 @@
         "url": "https://www.dafont.com/forum/read/576762/help",
         "title": "help",
         "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1218655.jpg",
-        "identified_font": null
+        "identified_font": "Summer Handmade"
     },
     {
         "task_id": "576761",
@@ -7074,7 +7074,7 @@
         "url": "https://www.dafont.com/forum/read/576774/one-font",
         "title": "One font",
         "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1218685.png",
-        "identified_font": null
+        "identified_font": "Kleymissky"
     },
     {
         "task_id": "576786",
@@ -7095,7 +7095,7 @@
         "url": "https://www.dafont.com/forum/read/576784/what-this-fonts-pls",
         "title": "What this fonts pls?",
         "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1218706.png",
-        "identified_font": null
+        "identified_font": "Sugar Pie"
     },
     {
         "task_id": "576783",
@@ -7145,5 +7145,75 @@
         "title": "\"Borealis Networks\"",
         "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1218697.jpg",
         "identified_font": null
+    },
+    {
+        "task_id": "576789",
+        "url": "https://www.dafont.com/forum/read/576789/government-of-jalisco-font",
+        "title": "Government of Jalisco - Font",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1218714.png",
+        "identified_font": "Garet"
+    },
+    {
+        "task_id": "576797",
+        "url": "https://www.dafont.com/forum/read/576797/what-font-is-the-spark-part",
+        "title": "What font is the \u0093Spark\u0094 part",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1218729.jpg",
+        "identified_font": null
+    },
+    {
+        "task_id": "576796",
+        "url": "https://www.dafont.com/forum/read/576796/whats-the-font",
+        "title": "Whats the font?",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1218725.png",
+        "identified_font": null
+    },
+    {
+        "task_id": "576795",
+        "url": "https://www.dafont.com/forum/read/576795/help",
+        "title": "Help",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1218724.png",
+        "identified_font": null
+    },
+    {
+        "task_id": "576793",
+        "url": "https://www.dafont.com/forum/read/576793/roofing-font",
+        "title": "ROOFING font",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1218722.jpg",
+        "identified_font": null
+    },
+    {
+        "task_id": "576788",
+        "url": "https://www.dafont.com/forum/read/576788/any-ideas-on-these-2-please",
+        "title": "Any ideas on these 2 please",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1218713.jpg",
+        "identified_font": "Againts"
+    },
+    {
+        "task_id": "576790",
+        "url": "https://www.dafont.com/forum/read/576790/all-fonts-please",
+        "title": "all fonts please",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1218715.jpg",
+        "identified_font": "DoubleBass"
+    },
+    {
+        "task_id": "576792",
+        "url": "https://www.dafont.com/forum/read/576792/musica",
+        "title": "MUSICA",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1218718.jpg",
+        "identified_font": null
+    },
+    {
+        "task_id": "576791",
+        "url": "https://www.dafont.com/forum/read/576791/know-these-fonts",
+        "title": "Know these fonts?",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1218717.png",
+        "identified_font": null
+    },
+    {
+        "task_id": "576787",
+        "url": "https://www.dafont.com/forum/read/576787/what-font-is-it",
+        "title": "What font is it?",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1218712.jpg",
+        "identified_font": "Niagara"
     }
 ]
