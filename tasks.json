@@ -907,7 +907,7 @@
         "url": "https://www.dafont.com/forum/read/575819/please-identify-this-font-from-life-lesson-of-hip-hop",
         "title": "Please identify this font from Life lesson of hip hop?",
         "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1216643.png?1",
-        "identified_font": null
+        "identified_font": "Ridley Grotesque Black"
     },
     {
         "task_id": "575818",
@@ -921,7 +921,7 @@
         "url": "https://www.dafont.com/forum/read/575817/help-find-royale-high-campus-1-font",
         "title": "help find royale high campus 1 font",
         "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1216641.png?1",
-        "identified_font": null
+        "identified_font": "Comic Neue Angular Bold"
     },
     {
         "task_id": "574400",
@@ -6423,7 +6423,7 @@
         "url": "https://www.dafont.com/forum/read/576663/que-font-es",
         "title": "Que font es?",
         "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1218421.png",
-        "identified_font": null
+        "identified_font": "Rocker Squad"
     },
     {
         "task_id": "576662",
@@ -6457,8 +6457,8 @@
         "task_id": "576683",
         "url": "https://www.dafont.com/forum/read/576683/font-name",
         "title": "Font name? :)",
-        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1218451.jpg",
-        "identified_font": null
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1218451.png?1",
+        "identified_font": "Phosphate Solid"
     },
     {
         "task_id": "576679",
@@ -7019,5 +7019,33 @@
         "title": "Font name?",
         "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1218657.jpg",
         "identified_font": "A Api Nyala"
+    },
+    {
+        "task_id": "576770",
+        "url": "https://www.dafont.com/forum/read/576770/build-our-machine-jaze-cinema-remix-lyrics-font",
+        "title": "Build Our Machine - Jaze Cinema Remix Lyrics Font",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1218668.png",
+        "identified_font": "Earth's Mightiest"
+    },
+    {
+        "task_id": "576773",
+        "url": "https://www.dafont.com/forum/read/576773/pringles",
+        "title": "PRINGLES",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1218678.png",
+        "identified_font": null
+    },
+    {
+        "task_id": "576771",
+        "url": "https://www.dafont.com/forum/read/576771/can-you-help-me-identify-the-font",
+        "title": "can you help me identify the font",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1218670.png",
+        "identified_font": "Airstrike"
+    },
+    {
+        "task_id": "576772",
+        "url": "https://www.dafont.com/forum/read/576772/dodge-charger-emblem",
+        "title": "Dodge Charger emblem",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1218674.jpg",
+        "identified_font": null
     }
 ]
