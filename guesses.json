@@ -12143,5 +12143,61 @@
         "candidate_font_1": "Monte Carlo",
         "candidate_font_2": "Speed Rally",
         "candidate_font_3": "Carrosserie Regular"
+    },
+    {
+        "task_id": "2257",
+        "model_name": "gpt-4o-mini",
+        "candidate_font_1": "Brush Script MT",
+        "candidate_font_2": "Lobster",
+        "candidate_font_3": "Pacifico"
+    },
+    {
+        "task_id": "2257",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Bellisia",
+        "candidate_font_2": "Loverine Script",
+        "candidate_font_3": "Respective Swash"
+    },
+    {
+        "task_id": "576776",
+        "model_name": "gpt-4o-mini",
+        "candidate_font_1": "Chalkduster",
+        "candidate_font_2": "Rock Salt",
+        "candidate_font_3": "Marker Felt"
+    },
+    {
+        "task_id": "576776",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Defused font",
+        "candidate_font_2": "United Sans Extrabold",
+        "candidate_font_3": "Tungsten Heavy"
+    },
+    {
+        "task_id": "576775",
+        "model_name": "gpt-4o-mini",
+        "candidate_font_1": "Lobster",
+        "candidate_font_2": "Pacifico",
+        "candidate_font_3": "Bouncy"
+    },
+    {
+        "task_id": "576775",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Gochi Hand",
+        "candidate_font_2": "Handlee",
+        "candidate_font_3": "Marck Script"
+    },
+    {
+        "task_id": "576774",
+        "model_name": "gpt-4o-mini",
+        "candidate_font_1": "Bodoni",
+        "candidate_font_2": "Didot",
+        "candidate_font_3": "Playfair Display"
+    },
+    {
+        "task_id": "576774",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Shelley Allegro",
+        "candidate_font_2": "Vivaldi Italic",
+        "candidate_font_3": "English Vivace"
     }
 ]
