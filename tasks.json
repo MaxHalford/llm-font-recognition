@@ -6738,7 +6738,7 @@
         "url": "https://www.dafont.com/forum/read/576718/qual-font",
         "title": "Qual font?",
         "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1218553.png",
-        "identified_font": null
+        "identified_font": "Arkitech"
     },
     {
         "task_id": "576720",
@@ -6917,8 +6917,8 @@
     },
     {
         "task_id": "576752",
-        "url": "https://www.dafont.com/forum/read/576752/indetificar-a-font-acai",
-        "title": "INDETIFICAR A FONT \"A\u00c7A\u00cd\"",
+        "url": "https://www.dafont.com/forum/read/576752/acai-express",
+        "title": "A\u00c7A\u00cd EXPRESS",
         "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1218631.jpg",
         "identified_font": null
     },
@@ -6927,6 +6927,62 @@
         "url": "https://www.dafont.com/forum/read/576751/ncaa-football-championship-font",
         "title": "NCAA Football Championship Font",
         "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1218628.png",
+        "identified_font": null
+    },
+    {
+        "task_id": "576762",
+        "url": "https://www.dafont.com/forum/read/576762/help",
+        "title": "help",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1218655.jpg",
+        "identified_font": null
+    },
+    {
+        "task_id": "576761",
+        "url": "https://www.dafont.com/forum/read/576761/showoffs",
+        "title": "Showoffs",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1218652.jpg",
+        "identified_font": null
+    },
+    {
+        "task_id": "576760",
+        "url": "https://www.dafont.com/forum/read/576760/what-is-the-name-of-these-fonts-please",
+        "title": "What is the name of these fonts? Please",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1218651.png",
+        "identified_font": null
+    },
+    {
+        "task_id": "576758",
+        "url": "https://www.dafont.com/forum/read/576758/name-font",
+        "title": "name font ?",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1218649.png",
+        "identified_font": null
+    },
+    {
+        "task_id": "576756",
+        "url": "https://www.dafont.com/forum/read/576756/what-font-is-this-please-help",
+        "title": "What font is this? Please help",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1218647.png",
+        "identified_font": null
+    },
+    {
+        "task_id": "576755",
+        "url": "https://www.dafont.com/forum/read/576755/fonte-usada-em-televisao",
+        "title": "Fonte usada em televis\u00e3o",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1218646.png",
+        "identified_font": null
+    },
+    {
+        "task_id": "576754",
+        "url": "https://www.dafont.com/forum/read/576754/id-font",
+        "title": "ID FONT?",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1218635.png",
+        "identified_font": null
+    },
+    {
+        "task_id": "576753",
+        "url": "https://www.dafont.com/forum/read/576753/que-tipo-de-letra-es",
+        "title": "que tipo de letra es",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1218634.jpg",
         "identified_font": null
     }
 ]
