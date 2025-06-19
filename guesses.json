@@ -12199,5 +12199,145 @@
         "candidate_font_1": "Shelley Allegro",
         "candidate_font_2": "Vivaldi Italic",
         "candidate_font_3": "English Vivace"
+    },
+    {
+        "task_id": "576786",
+        "model_name": "gpt-4o-mini",
+        "candidate_font_1": "Bodoni",
+        "candidate_font_2": "Didot",
+        "candidate_font_3": "Playfair Display"
+    },
+    {
+        "task_id": "576786",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Requiem Italic",
+        "candidate_font_2": "Mrs Eaves Italic",
+        "candidate_font_3": "Adobe Garamond Pro Italic"
+    },
+    {
+        "task_id": "576785",
+        "model_name": "gpt-4o-mini",
+        "candidate_font_1": "Montserrat",
+        "candidate_font_2": "Open Sans",
+        "candidate_font_3": "Roboto"
+    },
+    {
+        "task_id": "576785",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Open Sans",
+        "candidate_font_2": "Lato",
+        "candidate_font_3": "Roboto"
+    },
+    {
+        "task_id": "576784",
+        "model_name": "gpt-4o-mini",
+        "candidate_font_1": "Lobster",
+        "candidate_font_2": "Pacifico",
+        "candidate_font_3": "Bebas Neue"
+    },
+    {
+        "task_id": "576784",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Candice",
+        "candidate_font_2": "Funkydori",
+        "candidate_font_3": "SignPainter House Script"
+    },
+    {
+        "task_id": "576783",
+        "model_name": "gpt-4o-mini",
+        "candidate_font_1": "BubbleGum",
+        "candidate_font_2": "Comic Sans MS",
+        "candidate_font_3": "Freestyle Script"
+    },
+    {
+        "task_id": "576783",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Porky's",
+        "candidate_font_2": "Obelix Pro",
+        "candidate_font_3": "Pussycat"
+    },
+    {
+        "task_id": "570487",
+        "model_name": "gpt-4o-mini",
+        "candidate_font_1": "Bubblegum Sans",
+        "candidate_font_2": "Kiddy Fonts",
+        "candidate_font_3": "Comic Sans MS"
+    },
+    {
+        "task_id": "570487",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Bubblegum Sans",
+        "candidate_font_2": "Compacta Bold",
+        "candidate_font_3": "Agency FB Bold"
+    },
+    {
+        "task_id": "576782",
+        "model_name": "gpt-4o-mini",
+        "candidate_font_1": "Western Country",
+        "candidate_font_2": "Bodoni Poster",
+        "candidate_font_3": "Brush Script"
+    },
+    {
+        "task_id": "576782",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Bayshore",
+        "candidate_font_2": "Cooper Black",
+        "candidate_font_3": "Roadhouse JNL"
+    },
+    {
+        "task_id": "576781",
+        "model_name": "gpt-4o-mini",
+        "candidate_font_1": "Helvetica Neue",
+        "candidate_font_2": "Arial",
+        "candidate_font_3": "Montserrat"
+    },
+    {
+        "task_id": "576781",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Primera",
+        "candidate_font_2": "Sofia Pro",
+        "candidate_font_3": "Mont"
+    },
+    {
+        "task_id": "576780",
+        "model_name": "gpt-4o-mini",
+        "candidate_font_1": "Montserrat",
+        "candidate_font_2": "Bebas Neue",
+        "candidate_font_3": "Futura"
+    },
+    {
+        "task_id": "576780",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Montserrat",
+        "candidate_font_2": "Archivo Black",
+        "candidate_font_3": "Proxima Nova"
+    },
+    {
+        "task_id": "576779",
+        "model_name": "gpt-4o-mini",
+        "candidate_font_1": "Comic Sans MS",
+        "candidate_font_2": "Marker Felt",
+        "candidate_font_3": "Bubblegum Sans"
+    },
+    {
+        "task_id": "576779",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Action Man BItal",
+        "candidate_font_2": "Action Man",
+        "candidate_font_3": "Komika Text Bold"
+    },
+    {
+        "task_id": "576778",
+        "model_name": "gpt-4o-mini",
+        "candidate_font_1": "Exo 2",
+        "candidate_font_2": "Raleway",
+        "candidate_font_3": "Roboto"
+    },
+    {
+        "task_id": "576778",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Uni Sans Rounded",
+        "candidate_font_2": "Code Pro Rounded",
+        "candidate_font_3": "Geoma Rounded"
     }
 ]
