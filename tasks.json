@@ -6984,5 +6984,40 @@
         "title": "que tipo de letra es",
         "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1218634.jpg",
         "identified_font": null
+    },
+    {
+        "task_id": "576767",
+        "url": "https://www.dafont.com/forum/read/576767/please-tell-me-the-font-name",
+        "title": "Please tell me the font name!!!!!",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1218661.jpg",
+        "identified_font": "Digipixel"
+    },
+    {
+        "task_id": "576768",
+        "url": "https://www.dafont.com/forum/read/576768/football",
+        "title": "football",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1218665.jpg",
+        "identified_font": null
+    },
+    {
+        "task_id": "576766",
+        "url": "https://www.dafont.com/forum/read/576766/what-s-the-font-name",
+        "title": "What's the font name?",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1218660.jpg",
+        "identified_font": "Canopee"
+    },
+    {
+        "task_id": "576765",
+        "url": "https://www.dafont.com/forum/read/576765/font-name-for-oops",
+        "title": "Font name? For Oops?",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1218659.jpg",
+        "identified_font": "Benomout"
+    },
+    {
+        "task_id": "576763",
+        "url": "https://www.dafont.com/forum/read/576763/font-name",
+        "title": "Font name?",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1218657.jpg",
+        "identified_font": "A Api Nyala"
     }
 ]
