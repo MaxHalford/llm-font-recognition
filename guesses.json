@@ -12101,5 +12101,19 @@
         "candidate_font_1": "Baloo 2 ExtraBold",
         "candidate_font_2": "Marvin Visions Bold",
         "candidate_font_3": "Mochiy Pop P One"
+    },
+    {
+        "task_id": "576768",
+        "model_name": "gpt-4o-mini",
+        "candidate_font_1": "Bodoni",
+        "candidate_font_2": "Varsity",
+        "candidate_font_3": "Impact"
+    },
+    {
+        "task_id": "576768",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Staatliches",
+        "candidate_font_2": "Old Sport ATHC",
+        "candidate_font_3": "SF Collegiate Block"
     }
 ]
