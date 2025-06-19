@@ -6871,7 +6871,7 @@
         "url": "https://www.dafont.com/forum/read/576745/the-springs",
         "title": "The Springs",
         "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1218601.png",
-        "identified_font": null
+        "identified_font": "Iowan Old Style Titling"
     },
     {
         "task_id": "576742",
@@ -6906,6 +6906,27 @@
         "url": "https://www.dafont.com/forum/read/576734/intersect-healthcare",
         "title": "INTERSECT HEALTHCARE",
         "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1218579.png",
+        "identified_font": "Antonio Bold"
+    },
+    {
+        "task_id": "575222",
+        "url": "https://www.dafont.com/forum/read/575222/1948-font-please-help-me",
+        "title": "1948 font, please??? help me!",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1215404.png",
+        "identified_font": null
+    },
+    {
+        "task_id": "576752",
+        "url": "https://www.dafont.com/forum/read/576752/indetificar-a-font-acai",
+        "title": "INDETIFICAR A FONT \"A\u00c7A\u00cd\"",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1218631.jpg",
+        "identified_font": null
+    },
+    {
+        "task_id": "576751",
+        "url": "https://www.dafont.com/forum/read/576751/ncaa-football-championship-font",
+        "title": "NCAA Football Championship Font",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1218628.png",
         "identified_font": null
     }
 ]
