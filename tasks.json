@@ -7179,7 +7179,7 @@
         "url": "https://www.dafont.com/forum/read/576793/roofing-font",
         "title": "ROOFING font",
         "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1218722.jpg",
-        "identified_font": null
+        "identified_font": "Meteoritika"
     },
     {
         "task_id": "576788",
@@ -7250,5 +7250,54 @@
         "title": "font pleace?",
         "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1218733.png",
         "identified_font": "Hobo"
+    },
+    {
+        "task_id": "576811",
+        "url": "https://www.dafont.com/forum/read/576811/font",
+        "title": "Font?",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1218763.jpg",
+        "identified_font": "Better Times Alt"
+    },
+    {
+        "task_id": "576809",
+        "url": "https://www.dafont.com/forum/read/576809/font-id",
+        "title": "font ID",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1218760.png",
+        "identified_font": null
+    },
+    {
+        "task_id": "576812",
+        "url": "https://www.dafont.com/forum/read/576812/que-tipografia",
+        "title": "Qu\u00e9 tipograf\u00eda",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1218764.png",
+        "identified_font": null
+    },
+    {
+        "task_id": "576810",
+        "url": "https://www.dafont.com/forum/read/576810/unicorn-zombie-apocalypse",
+        "title": "Unicorn Zombie Apocalypse",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1218762.png",
+        "identified_font": null
+    },
+    {
+        "task_id": "576808",
+        "url": "https://www.dafont.com/forum/read/576808/help-please-im-trying-to-make-a-sign",
+        "title": "HELP PLEASE IM TRYING TO MAKE A SIGN!!",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1218758.png",
+        "identified_font": null
+    },
+    {
+        "task_id": "576807",
+        "url": "https://www.dafont.com/forum/read/576807/tape-superbus",
+        "title": "TAPE SUPERBUS",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1218756.jpg",
+        "identified_font": "Dymo"
+    },
+    {
+        "task_id": "576806",
+        "url": "https://www.dafont.com/forum/read/576806/superbus-2025",
+        "title": "Superbus 2025",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1218755.jpg",
+        "identified_font": null
     }
 ]
