@@ -12717,5 +12717,61 @@
         "candidate_font_1": "Ponderosa",
         "candidate_font_2": "Rosewood Std",
         "candidate_font_3": "Blackmoor"
+    },
+    {
+        "task_id": "576834",
+        "model_name": "gpt-4o-mini",
+        "candidate_font_1": "Oswald",
+        "candidate_font_2": "Bebas Neue",
+        "candidate_font_3": "Montserrat"
+    },
+    {
+        "task_id": "576834",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Formular Extended Black",
+        "candidate_font_2": "Industry Black Extended",
+        "candidate_font_3": "United Sans Heavy Extended"
+    },
+    {
+        "task_id": "576833",
+        "model_name": "gpt-4o-mini",
+        "candidate_font_1": "Lobster",
+        "candidate_font_2": "Great Vibes",
+        "candidate_font_3": "Dancing Script"
+    },
+    {
+        "task_id": "576833",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "The Signature Script",
+        "candidate_font_2": "Brittany Signature",
+        "candidate_font_3": "Southampton"
+    },
+    {
+        "task_id": "576831",
+        "model_name": "gpt-4o-mini",
+        "candidate_font_1": "Bebas Neue",
+        "candidate_font_2": "Anton",
+        "candidate_font_3": "Oswald"
+    },
+    {
+        "task_id": "576831",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Compacta",
+        "candidate_font_2": "Agency FB",
+        "candidate_font_3": "Helvetica Inserat"
+    },
+    {
+        "task_id": "576830",
+        "model_name": "gpt-4o-mini",
+        "candidate_font_1": "Impact",
+        "candidate_font_2": "Bebas Neue",
+        "candidate_font_3": "Anton"
+    },
+    {
+        "task_id": "576830",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Road Rage",
+        "candidate_font_2": "Player Font",
+        "candidate_font_3": "Good Times"
     }
 ]
