@@ -7347,7 +7347,7 @@
         "url": "https://www.dafont.com/forum/read/576823/what-s-the-font-please",
         "title": "what's the font please?",
         "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1218796.jpg",
-        "identified_font": null
+        "identified_font": "Rage Italic"
     },
     {
         "task_id": "576822",
@@ -7368,6 +7368,48 @@
         "url": "https://www.dafont.com/forum/read/576821/coming-soon",
         "title": "COMING SOON",
         "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1218793.png",
+        "identified_font": null
+    },
+    {
+        "task_id": "576829",
+        "url": "https://www.dafont.com/forum/read/576829/serenade-for-engene",
+        "title": "Serenade for Engene",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1218804.jpg",
+        "identified_font": null
+    },
+    {
+        "task_id": "576828",
+        "url": "https://www.dafont.com/forum/read/576828/the-lunar-times",
+        "title": "The Lunar Times",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1218803.jpg",
+        "identified_font": null
+    },
+    {
+        "task_id": "576827",
+        "url": "https://www.dafont.com/forum/read/576827/confidential-document",
+        "title": "Confidential Document",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1218802.jpg",
+        "identified_font": null
+    },
+    {
+        "task_id": "576826",
+        "url": "https://www.dafont.com/forum/read/576826/font-help",
+        "title": "font help",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1218799.jpg",
+        "identified_font": null
+    },
+    {
+        "task_id": "576825",
+        "url": "https://www.dafont.com/forum/read/576825/whats-this-font",
+        "title": "Whats this Font?",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1218798.png",
+        "identified_font": null
+    },
+    {
+        "task_id": "576824",
+        "url": "https://www.dafont.com/forum/read/576824/id-font",
+        "title": "ID FONT?",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1218797.png",
         "identified_font": null
     }
 ]
