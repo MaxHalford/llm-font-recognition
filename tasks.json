@@ -7410,6 +7410,34 @@
         "url": "https://www.dafont.com/forum/read/576824/id-font",
         "title": "ID FONT?",
         "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1218797.png",
+        "identified_font": "Oliver"
+    },
+    {
+        "task_id": "576834",
+        "url": "https://www.dafont.com/forum/read/576834/font-name-please",
+        "title": "Font name please?",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1218813.jpg",
+        "identified_font": null
+    },
+    {
+        "task_id": "576833",
+        "url": "https://www.dafont.com/forum/read/576833/please-help-me-find-this-font-d",
+        "title": "Please Help me find this font :D",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1218812.png?1",
+        "identified_font": null
+    },
+    {
+        "task_id": "576831",
+        "url": "https://www.dafont.com/forum/read/576831/a-few-days-later",
+        "title": "A FEW DAYS LATER...",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1218809.png?1",
+        "identified_font": null
+    },
+    {
+        "task_id": "576830",
+        "url": "https://www.dafont.com/forum/read/576830/snack-logo-again-better-pic-now",
+        "title": "Snack Logo again (better pic now)",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1218808.png?1",
         "identified_font": null
     }
 ]
