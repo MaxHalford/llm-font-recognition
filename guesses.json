@@ -12542,5 +12542,40 @@
         "candidate_font_1": "DIN Next LT Pro Black",
         "candidate_font_2": "Akzidenz-Grotesk BQ Extended Bold",
         "candidate_font_3": "Univers 85 ExtraBlack"
+    },
+    {
+        "task_id": "576814",
+        "model_name": "gpt-4o-mini",
+        "candidate_font_1": "Bebas Neue",
+        "candidate_font_2": "Impact",
+        "candidate_font_3": "Oswald"
+    },
+    {
+        "task_id": "576819",
+        "model_name": "gpt-4o-mini",
+        "candidate_font_1": "Montserrat",
+        "candidate_font_2": "Bebas Neue",
+        "candidate_font_3": "Oswald"
+    },
+    {
+        "task_id": "576819",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Montserrat Black",
+        "candidate_font_2": "Proxima Nova Black",
+        "candidate_font_3": "Gotham Black"
+    },
+    {
+        "task_id": "576817",
+        "model_name": "gpt-4o-mini",
+        "candidate_font_1": "Burbank Big Condensed",
+        "candidate_font_2": "Luckiest Guy",
+        "candidate_font_3": "Mansalva"
+    },
+    {
+        "task_id": "576817",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Psychedelic Bubble by Font Monger",
+        "candidate_font_2": "Melted Dreams by Misti's Fonts",
+        "candidate_font_3": "Peace, Love & Happiness by Font Monger"
     }
 ]
