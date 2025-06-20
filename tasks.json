@@ -7332,7 +7332,7 @@
         "task_id": "576819",
         "url": "https://www.dafont.com/forum/read/576819/font-watt",
         "title": "font \"watt\"",
-        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1218787.png",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1218787.png?1",
         "identified_font": null
     },
     {
@@ -7340,6 +7340,34 @@
         "url": "https://www.dafont.com/forum/read/576817/juneteenth",
         "title": "Juneteenth",
         "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1218785.png?1",
+        "identified_font": null
+    },
+    {
+        "task_id": "576823",
+        "url": "https://www.dafont.com/forum/read/576823/what-s-the-font-please",
+        "title": "what's the font please?",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1218796.jpg",
+        "identified_font": null
+    },
+    {
+        "task_id": "576822",
+        "url": "https://www.dafont.com/forum/read/576822/help-me-what-is-font",
+        "title": "Help me ,what is font ?",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1218795.jpg",
+        "identified_font": null
+    },
+    {
+        "task_id": "161314",
+        "url": "https://www.dafont.com/forum/read/161314/little-caesars",
+        "title": "Little Caesars",
+        "img_url": "https://www.dafont.com/forum/attach/orig/3/7/376616.jpg",
+        "identified_font": null
+    },
+    {
+        "task_id": "576821",
+        "url": "https://www.dafont.com/forum/read/576821/coming-soon",
+        "title": "COMING SOON",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1218793.png",
         "identified_font": null
     }
 ]
