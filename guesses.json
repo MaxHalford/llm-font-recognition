@@ -12577,5 +12577,61 @@
         "candidate_font_1": "Psychedelic Bubble by Font Monger",
         "candidate_font_2": "Melted Dreams by Misti's Fonts",
         "candidate_font_3": "Peace, Love & Happiness by Font Monger"
+    },
+    {
+        "task_id": "576823",
+        "model_name": "gpt-4o-mini",
+        "candidate_font_1": "Sacramento",
+        "candidate_font_2": "Pacifico",
+        "candidate_font_3": "SignPainter"
+    },
+    {
+        "task_id": "576823",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "The Historia Script",
+        "candidate_font_2": "Magnolia Sky",
+        "candidate_font_3": "Beyond The Mountains"
+    },
+    {
+        "task_id": "576822",
+        "model_name": "gpt-4o-mini",
+        "candidate_font_1": "Dancing Script",
+        "candidate_font_2": "Pacifico",
+        "candidate_font_3": "Sacramento"
+    },
+    {
+        "task_id": "576822",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Watermelon Script",
+        "candidate_font_2": "Lemon Tuesday",
+        "candidate_font_3": "Lovely Melody"
+    },
+    {
+        "task_id": "161314",
+        "model_name": "gpt-4o-mini",
+        "candidate_font_1": "Comic Sans MS",
+        "candidate_font_2": "Mickey",
+        "candidate_font_3": "Henny Penny"
+    },
+    {
+        "task_id": "161314",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Porky's",
+        "candidate_font_2": "Burbank Big Condensed Black",
+        "candidate_font_3": "Grobold"
+    },
+    {
+        "task_id": "576821",
+        "model_name": "gpt-4o-mini",
+        "candidate_font_1": "Playfair Display",
+        "candidate_font_2": "Bodoni",
+        "candidate_font_3": "Didot"
+    },
+    {
+        "task_id": "576821",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Glamorously Regular Italic",
+        "candidate_font_2": "Butler Regular",
+        "candidate_font_3": "Playfair Display Regular"
     }
 ]
