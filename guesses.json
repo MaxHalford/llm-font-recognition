@@ -12521,5 +12521,26 @@
         "candidate_font_1": "Press Start 2P",
         "candidate_font_2": "VCR OSD Mono",
         "candidate_font_3": "04B_03"
+    },
+    {
+        "task_id": "576814",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Trade Gothic LT Std Bold Condensed No. 20",
+        "candidate_font_2": "Franklin Gothic Heavy Condensed",
+        "candidate_font_3": "Alternate Gothic No. 2"
+    },
+    {
+        "task_id": "576813",
+        "model_name": "gpt-4o-mini",
+        "candidate_font_1": "Bebas Neue",
+        "candidate_font_2": "Impact",
+        "candidate_font_3": "DIN Condensed"
+    },
+    {
+        "task_id": "576813",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "DIN Next LT Pro Black",
+        "candidate_font_2": "Akzidenz-Grotesk BQ Extended Bold",
+        "candidate_font_3": "Univers 85 ExtraBlack"
     }
 ]
