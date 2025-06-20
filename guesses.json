@@ -12857,5 +12857,33 @@
         "candidate_font_1": "VAG Rounded Bold",
         "candidate_font_2": "Arial Rounded MT Bold",
         "candidate_font_3": "Nunito Bold"
+    },
+    {
+        "task_id": "576842",
+        "model_name": "gpt-4o-mini",
+        "candidate_font_1": "Helvetica",
+        "candidate_font_2": "Arial",
+        "candidate_font_3": "Futura"
+    },
+    {
+        "task_id": "576842",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Univers",
+        "candidate_font_2": "Folio",
+        "candidate_font_3": "Maxima"
+    },
+    {
+        "task_id": "576841",
+        "model_name": "gpt-4o-mini",
+        "candidate_font_1": "Arial Rounded MT Bold",
+        "candidate_font_2": "Futura",
+        "candidate_font_3": "Comic Sans MS"
+    },
+    {
+        "task_id": "576841",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Luckiest Guy",
+        "candidate_font_2": "Fredoka One",
+        "candidate_font_3": "Obelix Pro"
     }
 ]
