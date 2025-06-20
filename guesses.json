@@ -12633,5 +12633,89 @@
         "candidate_font_1": "Glamorously Regular Italic",
         "candidate_font_2": "Butler Regular",
         "candidate_font_3": "Playfair Display Regular"
+    },
+    {
+        "task_id": "576829",
+        "model_name": "gpt-4o-mini",
+        "candidate_font_1": "Great Vibes",
+        "candidate_font_2": "Dancing Script",
+        "candidate_font_3": "Satisfy"
+    },
+    {
+        "task_id": "576829",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Victorian Parlor",
+        "candidate_font_2": "LHF Monogram",
+        "candidate_font_3": "Burgues Script"
+    },
+    {
+        "task_id": "576828",
+        "model_name": "gpt-4o-mini",
+        "candidate_font_1": "Blackletter",
+        "candidate_font_2": "Gothic",
+        "candidate_font_3": "Baskerville"
+    },
+    {
+        "task_id": "576828",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Blackpool",
+        "candidate_font_2": "Magnolia Sky",
+        "candidate_font_3": "Ultra"
+    },
+    {
+        "task_id": "576827",
+        "model_name": "gpt-4o-mini",
+        "candidate_font_1": "Cloister Black",
+        "candidate_font_2": "Blackletter",
+        "candidate_font_3": "Fraktur"
+    },
+    {
+        "task_id": "576827",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Fletcher",
+        "candidate_font_2": "Old English Text MT",
+        "candidate_font_3": "Arial"
+    },
+    {
+        "task_id": "576826",
+        "model_name": "gpt-4o-mini",
+        "candidate_font_1": "Bubblegum Sans",
+        "candidate_font_2": "Henny Penny",
+        "candidate_font_3": "Lilita One"
+    },
+    {
+        "task_id": "576826",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Lazy Sunday",
+        "candidate_font_2": "Groovy Smooth",
+        "candidate_font_3": "Action Is"
+    },
+    {
+        "task_id": "576825",
+        "model_name": "gpt-4o-mini",
+        "candidate_font_1": "Eurostile",
+        "candidate_font_2": "Roboto",
+        "candidate_font_3": "Avenir"
+    },
+    {
+        "task_id": "576825",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Space Ranger",
+        "candidate_font_2": "Blaster",
+        "candidate_font_3": "Orbitron"
+    },
+    {
+        "task_id": "576824",
+        "model_name": "gpt-4o-mini",
+        "candidate_font_1": "Forte",
+        "candidate_font_2": "Garamond",
+        "candidate_font_3": ""
+    },
+    {
+        "task_id": "576824",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Ponderosa",
+        "candidate_font_2": "Rosewood Std",
+        "candidate_font_3": "Blackmoor"
     }
 ]
