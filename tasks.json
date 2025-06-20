@@ -7424,7 +7424,7 @@
         "url": "https://www.dafont.com/forum/read/576833/please-help-me-find-this-font-d",
         "title": "Please Help me find this font :D",
         "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1218812.png?1",
-        "identified_font": null
+        "identified_font": "Omeliana"
     },
     {
         "task_id": "576831",
@@ -7438,6 +7438,69 @@
         "url": "https://www.dafont.com/forum/read/576830/snack-logo-again-better-pic-now",
         "title": "Snack Logo again (better pic now)",
         "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1218808.png?1",
+        "identified_font": null
+    },
+    {
+        "task_id": "576840",
+        "url": "https://www.dafont.com/forum/read/576840/vai-vai-2026-carnaval-theme",
+        "title": "VAI - VAI 2026 carnaval theme",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1218831.jpg",
+        "identified_font": null
+    },
+    {
+        "task_id": "576839",
+        "url": "https://www.dafont.com/forum/read/576839/i-m-stumped-on-this-one",
+        "title": "I'm stumped on this one",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1218830.jpg",
+        "identified_font": null
+    },
+    {
+        "task_id": "576838",
+        "url": "https://www.dafont.com/forum/read/576838/cual-es",
+        "title": "Cual es?",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1218829.png",
+        "identified_font": null
+    },
+    {
+        "task_id": "440287",
+        "url": "https://www.dafont.com/forum/read/440287/tpot-logo-font-plz",
+        "title": "TPOT logo font plz?",
+        "img_url": "https://www.dafont.com/forum/attach/orig/9/4/942998.png",
+        "identified_font": "Wolpe Fanfare"
+    },
+    {
+        "task_id": "464993",
+        "url": "https://www.dafont.com/forum/read/464993/wats-the-font",
+        "title": "wats the font",
+        "img_url": "https://www.dafont.com/forum/attach/orig/9/9/991643.png",
+        "identified_font": "Wolpe Fanfare"
+    },
+    {
+        "task_id": "541182",
+        "url": "https://www.dafont.com/forum/read/541182/nombre-de-la-fuente-por-favor",
+        "title": "Nombre de la fuente, por favor. &#128591;&#127995;&#128591;&#127995;&#128591;&#127995;",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/1/1144028.jpg",
+        "identified_font": null
+    },
+    {
+        "task_id": "576836",
+        "url": "https://www.dafont.com/forum/read/576836/katseye",
+        "title": "KATSEYE",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1218817.png",
+        "identified_font": null
+    },
+    {
+        "task_id": "547722",
+        "url": "https://www.dafont.com/forum/read/547722/silaturrahmi-font",
+        "title": "Silaturrahmi font",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/1/1158177.png?1",
+        "identified_font": "Berkshire Swash"
+    },
+    {
+        "task_id": "576835",
+        "url": "https://www.dafont.com/forum/read/576835/what-font-is-this",
+        "title": "What font is this?",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1218814.png",
         "identified_font": null
     }
 ]
