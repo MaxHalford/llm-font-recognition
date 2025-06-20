@@ -7445,7 +7445,7 @@
         "url": "https://www.dafont.com/forum/read/576840/vai-vai-2026-carnaval-theme",
         "title": "VAI - VAI 2026 carnaval theme",
         "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1218831.jpg",
-        "identified_font": null
+        "identified_font": "Broadway"
     },
     {
         "task_id": "576839",
@@ -7501,6 +7501,20 @@
         "url": "https://www.dafont.com/forum/read/576835/what-font-is-this",
         "title": "What font is this?",
         "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1218814.png",
+        "identified_font": null
+    },
+    {
+        "task_id": "576842",
+        "url": "https://www.dafont.com/forum/read/576842/help-with-these-fonts-please",
+        "title": "help with these fonts please!",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1218835.jpg",
+        "identified_font": null
+    },
+    {
+        "task_id": "576841",
+        "url": "https://www.dafont.com/forum/read/576841/recherche-police",
+        "title": "recherche police",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1218834.jpg",
         "identified_font": null
     }
 ]
