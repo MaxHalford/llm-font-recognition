@@ -7255,7 +7255,7 @@
         "task_id": "576811",
         "url": "https://www.dafont.com/forum/read/576811/font",
         "title": "Font?",
-        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1218763.jpg",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1218763.png?1",
         "identified_font": "Better Times Alt"
     },
     {
@@ -7298,6 +7298,27 @@
         "url": "https://www.dafont.com/forum/read/576806/superbus-2025",
         "title": "Superbus 2025",
         "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1218755.jpg",
+        "identified_font": null
+    },
+    {
+        "task_id": "576815",
+        "url": "https://www.dafont.com/forum/read/576815/what-font",
+        "title": "What font",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1218781.jpg",
+        "identified_font": "Unbounded"
+    },
+    {
+        "task_id": "576814",
+        "url": "https://www.dafont.com/forum/read/576814/the-font-used-in-this-album-cover-or-one-similar-to-it",
+        "title": "The font used in this album cover or one similar to it",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1218779.png?1",
+        "identified_font": null
+    },
+    {
+        "task_id": "576813",
+        "url": "https://www.dafont.com/forum/read/576813/font-please",
+        "title": "Font, please",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1218778.png",
         "identified_font": null
     }
 ]
