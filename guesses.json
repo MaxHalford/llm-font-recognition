@@ -12451,5 +12451,75 @@
         "candidate_font_1": "Trajan Pro",
         "candidate_font_2": "Forum",
         "candidate_font_3": "Open Sans"
+    },
+    {
+        "task_id": "576809",
+        "model_name": "gpt-4o-mini",
+        "candidate_font_1": "Bodoni",
+        "candidate_font_2": "Didot",
+        "candidate_font_3": "Garamond"
+    },
+    {
+        "task_id": "576809",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Garamond Italic",
+        "candidate_font_2": "Gotham",
+        "candidate_font_3": "Bodoni MT"
+    },
+    {
+        "task_id": "576812",
+        "model_name": "gpt-4o-mini",
+        "candidate_font_1": "Graffiti Font",
+        "candidate_font_2": "Street Art Font",
+        "candidate_font_3": "Handwritten Font"
+    },
+    {
+        "task_id": "576812",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Most Wanted",
+        "candidate_font_2": "Graffiti Paint Brush",
+        "candidate_font_3": "Vandals Are Coming"
+    },
+    {
+        "task_id": "576810",
+        "model_name": "gpt-4o-mini",
+        "candidate_font_1": "Zekton",
+        "candidate_font_2": "Scream",
+        "candidate_font_3": "Bebas Neue"
+    },
+    {
+        "task_id": "576810",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "YouMurderer",
+        "candidate_font_2": "Nightmare Zone",
+        "candidate_font_3": "Zombie Punks"
+    },
+    {
+        "task_id": "576808",
+        "model_name": "gpt-4o-mini",
+        "candidate_font_1": "Great Vibes",
+        "candidate_font_2": "Pacifico",
+        "candidate_font_3": "Dancing Script"
+    },
+    {
+        "task_id": "576808",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Beauty Bright",
+        "candidate_font_2": "Buttercup Style",
+        "candidate_font_3": "Adelios Script"
+    },
+    {
+        "task_id": "576806",
+        "model_name": "gpt-4o-mini",
+        "candidate_font_1": "Pixelated",
+        "candidate_font_2": "8-Bit",
+        "candidate_font_3": "Bitwise"
+    },
+    {
+        "task_id": "576806",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Press Start 2P",
+        "candidate_font_2": "VCR OSD Mono",
+        "candidate_font_3": "04B_03"
     }
 ]
