@@ -2748,7 +2748,7 @@
         "url": "https://www.dafont.com/forum/read/560347/total-font-please",
         "title": "\u0093total\u0094 font, please.",
         "img_url": "https://www.dafont.com/forum/attach/orig/1/1/1185120.png",
-        "identified_font": null
+        "identified_font": "A Auto Signature"
     },
     {
         "task_id": "559611",
@@ -7579,5 +7579,19 @@
         "title": "Help, please.",
         "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1218856.png",
         "identified_font": "Tangier"
+    },
+    {
+        "task_id": "576854",
+        "url": "https://www.dafont.com/forum/read/576854/help-me-this-font",
+        "title": "HELP ME THIS FONT",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1218873.jpg",
+        "identified_font": null
+    },
+    {
+        "task_id": "576853",
+        "url": "https://www.dafont.com/forum/read/576853/wide",
+        "title": "WIDE",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1218870.jpg",
+        "identified_font": null
     }
 ]
