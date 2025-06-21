@@ -12885,5 +12885,61 @@
         "candidate_font_1": "Luckiest Guy",
         "candidate_font_2": "Fredoka One",
         "candidate_font_3": "Obelix Pro"
+    },
+    {
+        "task_id": "576847",
+        "model_name": "gpt-4o-mini",
+        "candidate_font_1": "Papyrus",
+        "candidate_font_2": "Garamond",
+        "candidate_font_3": "Cinzel Decorative"
+    },
+    {
+        "task_id": "576847",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Action Jackson",
+        "candidate_font_2": "",
+        "candidate_font_3": ""
+    },
+    {
+        "task_id": "576846",
+        "model_name": "gpt-4o-mini",
+        "candidate_font_1": "Bebas Neue",
+        "candidate_font_2": "Pacifico",
+        "candidate_font_3": "Playfair Display"
+    },
+    {
+        "task_id": "576846",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Adelicia Script",
+        "candidate_font_2": "Graduate",
+        "candidate_font_3": "Oswald Light"
+    },
+    {
+        "task_id": "576845",
+        "model_name": "gpt-4o-mini",
+        "candidate_font_1": "Bebas Neue",
+        "candidate_font_2": "Impact",
+        "candidate_font_3": "Anton"
+    },
+    {
+        "task_id": "576845",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Compacta",
+        "candidate_font_2": "Agency FB",
+        "candidate_font_3": "Montserrat Light"
+    },
+    {
+        "task_id": "576844",
+        "model_name": "gpt-4o-mini",
+        "candidate_font_1": "Brush Script MT",
+        "candidate_font_2": "Freestyle Script",
+        "candidate_font_3": "Lobster"
+    },
+    {
+        "task_id": "576844",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Luckiest Guy",
+        "candidate_font_2": "Fredoka One",
+        "candidate_font_3": "Paytone One"
     }
 ]
