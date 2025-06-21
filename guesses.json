@@ -12997,5 +12997,61 @@
         "candidate_font_1": "Butler Regular",
         "candidate_font_2": "Univers 39 Ultra Thin Extended",
         "candidate_font_3": "Didot LT Pro Regular"
+    },
+    {
+        "task_id": "576858",
+        "model_name": "gpt-4o-mini",
+        "candidate_font_1": "Comic Sans MS",
+        "candidate_font_2": "Chalkboard",
+        "candidate_font_3": "Freestyle Script"
+    },
+    {
+        "task_id": "576858",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Montserrat Bold",
+        "candidate_font_2": "Gotham Bold",
+        "candidate_font_3": "Circular Std Bold"
+    },
+    {
+        "task_id": "576857",
+        "model_name": "gpt-4o-mini",
+        "candidate_font_1": "Bodoni",
+        "candidate_font_2": "Didot",
+        "candidate_font_3": "Playfair Display"
+    },
+    {
+        "task_id": "576857",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Celine Serif",
+        "candidate_font_2": "Bodoni",
+        "candidate_font_3": "Didot"
+    },
+    {
+        "task_id": "576856",
+        "model_name": "gpt-4o-mini",
+        "candidate_font_1": "Brush Script MT",
+        "candidate_font_2": "Pacifico",
+        "candidate_font_3": "Marker Felt"
+    },
+    {
+        "task_id": "576856",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Goat Life",
+        "candidate_font_2": "Grungesville",
+        "candidate_font_3": "Brush Hand BB"
+    },
+    {
+        "task_id": "576855",
+        "model_name": "gpt-4o-mini",
+        "candidate_font_1": "Hiragino Sans",
+        "candidate_font_2": "Noto Sans JP",
+        "candidate_font_3": "Sawarabi Gothic"
+    },
+    {
+        "task_id": "576855",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "IBM Plex Sans JP",
+        "candidate_font_2": "BIZ UD Gothic",
+        "candidate_font_3": "Zen Kaku Gothic New"
     }
 ]
