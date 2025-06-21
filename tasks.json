@@ -7508,7 +7508,7 @@
         "url": "https://www.dafont.com/forum/read/576842/help-with-these-fonts-please",
         "title": "help with these fonts please!",
         "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1218835.jpg",
-        "identified_font": null
+        "identified_font": "Univers"
     },
     {
         "task_id": "576841",
@@ -7516,5 +7516,47 @@
         "title": "recherche police",
         "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1218834.jpg",
         "identified_font": null
+    },
+    {
+        "task_id": "576847",
+        "url": "https://www.dafont.com/forum/read/576847/what-s-the-name-of-this-font",
+        "title": "What\u0092s the name of this font?",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1218847.png",
+        "identified_font": null
+    },
+    {
+        "task_id": "576846",
+        "url": "https://www.dafont.com/forum/read/576846/task-force",
+        "title": "Task Force",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1218846.png",
+        "identified_font": null
+    },
+    {
+        "task_id": "576845",
+        "url": "https://www.dafont.com/forum/read/576845/looking-for-new-amazon-series-countdown-font",
+        "title": "Looking for new Amazon series Countdown font",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1218845.png",
+        "identified_font": null
+    },
+    {
+        "task_id": "573863",
+        "url": "https://www.dafont.com/forum/read/573863/servicios-generales-camcar",
+        "title": "SERVICIOS GENERALES CAMCAR",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1212677.png",
+        "identified_font": "Hemi Head"
+    },
+    {
+        "task_id": "576844",
+        "url": "https://www.dafont.com/forum/read/576844/what-name-of-font-is-that-pls-help-me",
+        "title": "what name of font is that pls help me",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1218839.png",
+        "identified_font": null
+    },
+    {
+        "task_id": "576843",
+        "url": "https://www.dafont.com/forum/read/576843/choose-life-font-please",
+        "title": "Choose Life Font, please",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1218836.png",
+        "identified_font": "Junigarden Swash"
     }
 ]
