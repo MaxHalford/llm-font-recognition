@@ -7528,7 +7528,7 @@
         "task_id": "576846",
         "url": "https://www.dafont.com/forum/read/576846/task-force",
         "title": "Task Force",
-        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1218846.png",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1218846.png?1",
         "identified_font": null
     },
     {
@@ -7550,7 +7550,7 @@
         "url": "https://www.dafont.com/forum/read/576844/what-name-of-font-is-that-pls-help-me",
         "title": "what name of font is that pls help me",
         "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1218839.png",
-        "identified_font": null
+        "identified_font": "Slowdex"
     },
     {
         "task_id": "576843",
@@ -7558,5 +7558,26 @@
         "title": "Choose Life Font, please",
         "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1218836.png",
         "identified_font": "Junigarden Swash"
+    },
+    {
+        "task_id": "576851",
+        "url": "https://www.dafont.com/forum/read/576851/does-anybody-knows-this-font",
+        "title": "Does Anybody Knows This Font?",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1218853.png",
+        "identified_font": null
+    },
+    {
+        "task_id": "576849",
+        "url": "https://www.dafont.com/forum/read/576849/what-font-is-this",
+        "title": "What font is this",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1218850.jpg",
+        "identified_font": null
+    },
+    {
+        "task_id": "576852",
+        "url": "https://www.dafont.com/forum/read/576852/help-please",
+        "title": "Help, please.",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1218856.png",
+        "identified_font": "Tangier"
     }
 ]
