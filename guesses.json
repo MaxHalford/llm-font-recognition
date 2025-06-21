@@ -12969,5 +12969,33 @@
         "candidate_font_1": "Magnolia Sky",
         "candidate_font_2": "Hello Lucky",
         "candidate_font_3": "Madina Script"
+    },
+    {
+        "task_id": "576854",
+        "model_name": "gpt-4o-mini",
+        "candidate_font_1": "Lobster",
+        "candidate_font_2": "Great Vibes",
+        "candidate_font_3": "Pacifico"
+    },
+    {
+        "task_id": "576854",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Lapis Lazuli",
+        "candidate_font_2": "Requiem",
+        "candidate_font_3": "Adobe Garamond Pro"
+    },
+    {
+        "task_id": "576853",
+        "model_name": "gpt-4o-mini",
+        "candidate_font_1": "Bodoni",
+        "candidate_font_2": "Didot",
+        "candidate_font_3": "Serifa"
+    },
+    {
+        "task_id": "576853",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Butler Regular",
+        "candidate_font_2": "Univers 39 Ultra Thin Extended",
+        "candidate_font_3": "Didot LT Pro Regular"
     }
 ]
