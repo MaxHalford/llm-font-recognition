@@ -12941,5 +12941,33 @@
         "candidate_font_1": "Luckiest Guy",
         "candidate_font_2": "Fredoka One",
         "candidate_font_3": "Paytone One"
+    },
+    {
+        "task_id": "576851",
+        "model_name": "gpt-4o-mini",
+        "candidate_font_1": "Bebas Neue",
+        "candidate_font_2": "Impact",
+        "candidate_font_3": "Arial Black"
+    },
+    {
+        "task_id": "576851",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Luckiest Guy",
+        "candidate_font_2": "Bubblegum Sans",
+        "candidate_font_3": "Lilita One"
+    },
+    {
+        "task_id": "576849",
+        "model_name": "gpt-4o-mini",
+        "candidate_font_1": "Dancing Script",
+        "candidate_font_2": "Lobster",
+        "candidate_font_3": "Pacifico"
+    },
+    {
+        "task_id": "576849",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Magnolia Sky",
+        "candidate_font_2": "Hello Lucky",
+        "candidate_font_3": "Madina Script"
     }
 ]
