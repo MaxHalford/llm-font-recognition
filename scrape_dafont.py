@@ -22,6 +22,7 @@ class Task:
     task_id: str
     url: str
     title: str
+    instructions: str | None
     img_url: str
     identified_font: str | None
 
@@ -36,6 +37,10 @@ class TaskThumb:
 def parse_task_from_task_url(task_url: str, session: requests.Session) -> Task:
     response = session.get(task_url)
     soup = bs4.BeautifulSoup(response.text, "html.parser")
+    body = next((div for div in soup.find_all("div", class_="body")))
+    instructions = (
+        body.contents[0].strip() if isinstance(body.contents[0], str) else None
+    )
     user_img = next(
         img
         for img in soup.find_all("img")
@@ -55,6 +60,7 @@ def parse_task_from_task_url(task_url: str, session: requests.Session) -> Task:
         task_id=urllib.parse.urlsplit(task_url).path.split("/")[3],
         url=task_url,
         title=user_img_alt,
+        instructions=instructions,
         img_url=user_img_url,
         identified_font=identified_font,
     )

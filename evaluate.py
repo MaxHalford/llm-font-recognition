@@ -21,6 +21,7 @@ class Task:
     task_id: str
     url: str
     title: str
+    instructions: str | None
     img_url: str
     identified_font: str | None
 

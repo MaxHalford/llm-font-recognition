@@ -29,6 +29,7 @@ class Task:
     task_id: str
     url: str
     title: str
+    instructions: str | None
     img_url: str
     identified_font: str | None
 
@@ -40,6 +41,8 @@ class Guess:
     candidate_font_1: str | None
     candidate_font_2: str | None
     candidate_font_3: str | None
+    candidate_font_4: str | None
+    candidate_font_5: str | None
 
     def as_list(self) -> list[str]:
         return [
@@ -48,6 +51,8 @@ class Guess:
                 self.candidate_font_1,
                 self.candidate_font_2,
                 self.candidate_font_3,
+                self.candidate_font_4,
+                self.candidate_font_5,
             ]
             if font
         ]
@@ -57,21 +62,32 @@ class FontClassificationSchema(pydantic.BaseModel):
     candidate_font_1: str | None
     candidate_font_2: str | None
     candidate_font_3: str | None
+    candidate_font_4: str | None
+    candidate_font_5: str | None
 
 
 def make_guess(task: Task, model_name: str) -> Guess:
     model = llm.get_model(model_name)
 
-    response = model.prompt(
-        """
+    prompt = (
+        f"""
 
-        You are an expert in identifying fonts. You will be given an image, and you need to identify
-        the font used in the image. These are images of fonts that users have uploaded to a forum, and
-        they are looking for help in identifying the font used in the image. You are allowed to suggest
-        up to three different fonts that closely match the one in the image. You can leave the
-        suggestions blank if you are unsure.
+        You are an expert at identifying fonts. You are provided an image, and your goal is to
+        identify the font used in the image. This images comes dafont.com, where users post
+        images of fonts they are trying to identify. The image is attached to this prompt.
+
+        You are allowed to guess up to five different fonts image. You can leave the guesses
+        blank if you are unsure.
+
+        The title of the image post is {task.title!r}.
 
         """,
+    )
+    if task.instructions:
+        prompt += f"\nAdditional instructions provided by the user: {task.instructions}"
+
+    response = model.prompt(
+        prompt,
         schema=FontClassificationSchema,
         attachments=[
             llm.Attachment(
@@ -88,6 +104,8 @@ def make_guess(task: Task, model_name: str) -> Guess:
         candidate_font_1=output.get("candidate_font_1"),
         candidate_font_2=output.get("candidate_font_2"),
         candidate_font_3=output.get("candidate_font_3"),
+        candidate_font_4=output.get("candidate_font_4"),
+        candidate_font_5=output.get("candidate_font_5"),
     )
 
 
