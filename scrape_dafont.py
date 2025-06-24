@@ -136,6 +136,9 @@ def main():
         new_last_scraped_at = max(new_last_scraped_at, task_thumb.updated_at)
 
         task = parse_task_from_task_url(task_url=task_thumb.url, session=session)
+        if ".gif" in task.img_url:
+            logging.info(f"Skipping GIF task {task.task_id} ~ {task.url}")
+            continue
         tasks[task.task_id] = task
 
         logging.info(f"Updated task {task.task_id} ~ {task.url}")

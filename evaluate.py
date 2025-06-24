@@ -33,6 +33,8 @@ class Guess:
     candidate_font_1: str | None
     candidate_font_2: str | None
     candidate_font_3: str | None
+    candidate_font_4: str | None
+    candidate_font_5: str | None
 
     def as_list(self) -> list[str]:
         return [
@@ -41,6 +43,8 @@ class Guess:
                 self.candidate_font_1,
                 self.candidate_font_2,
                 self.candidate_font_3,
+                self.candidate_font_4,
+                self.candidate_font_5,
             ]
             if font
         ]
@@ -106,7 +110,7 @@ The source code for this benchmark is available on [GitHub](https://github.com/M
     for model in models:
         metrics.add_column(model, justify="center", no_wrap=True)
     ## TOP-K ACCURACY
-    for k in range(1, 4):
+    for k in range(1, 6):
         row = [f"Top-{k} accuracy"]
         for model in models:
             correct_guesses = sum(

@@ -13,6 +13,7 @@
 import dataclasses
 import json
 import logging
+import textwrap
 import time
 
 import dotenv
@@ -69,31 +70,29 @@ class FontClassificationSchema(pydantic.BaseModel):
 def make_guess(task: Task, model_name: str) -> Guess:
     model = llm.get_model(model_name)
 
-    prompt = (
-        f"""
+    prompt = f"""
 
         You are an expert at identifying fonts. You are provided an image, and your goal is to
         identify the font used in the image. This images comes dafont.com, where users post
         images of fonts they are trying to identify. The image is attached to this prompt.
 
-        You are allowed to guess up to five different fonts image. You can leave the guesses
-        blank if you are unsure.
+        Some images may contain multiple fonts. In that case you should leverage the additional
+        context provided by the user to identify the most relevant font.
 
-        The title of the image post is {task.title!r}.
+        You are allowed to make up to five guesses. You can leave the guesses blank if you are
+        unsure.
 
-        """,
-    )
+        The title the user chose when posting the image is {task.title!r}.
+
+        """
     if task.instructions:
         prompt += f"\nAdditional instructions provided by the user: {task.instructions}"
+    prompt = textwrap.dedent(prompt).strip()
 
     response = model.prompt(
         prompt,
         schema=FontClassificationSchema,
-        attachments=[
-            llm.Attachment(
-                url=task.img_url,
-            ),
-        ],
+        attachments=[llm.Attachment(url=task.img_url)],
     )
 
     output = json.loads(response.text())
