@@ -1588,7 +1588,7 @@
         "url": "https://www.dafont.com/forum/read/577075/raja-hati-font",
         "title": "RAJA HATI FONT ?",
         "instructions": "Help me please",
-        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1219367.jpg",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1219367.png?1",
         "identified_font": null
     },
     {
@@ -1597,7 +1597,7 @@
         "title": "Alguien sabe cu\u00e1l es la fuente del \"Justin Bieber\"? Gracias",
         "instructions": null,
         "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1219366.jpg",
-        "identified_font": null
+        "identified_font": "Aachen"
     },
     {
         "task_id": "577073",
@@ -1685,6 +1685,38 @@
         "title": "\u00931 BILLION\u0094 font, please.",
         "instructions": null,
         "img_url": "https://www.dafont.com/forum/attach/orig/1/1/1193362.png?1",
+        "identified_font": null
+    },
+    {
+        "task_id": "577079",
+        "url": "https://www.dafont.com/forum/read/577079/qual-e-essa-fonte",
+        "title": "Qual \u00e9 essa fonte?",
+        "instructions": null,
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1219377.jpg",
+        "identified_font": "Ruina"
+    },
+    {
+        "task_id": "577080",
+        "url": "https://www.dafont.com/forum/read/577080/alguem-sabe-o-nome-desta-fonte",
+        "title": "Algu\u00e9m sabe o nome desta fonte?",
+        "instructions": "Nome desta fonte???",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1219378.jpg",
+        "identified_font": null
+    },
+    {
+        "task_id": "577077",
+        "url": "https://www.dafont.com/forum/read/577077/please-i-need-to-know-the-name-of-this-font",
+        "title": "Please i need to know the name of this font????",
+        "instructions": null,
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1219369.png",
+        "identified_font": "Squealer"
+    },
+    {
+        "task_id": "577078",
+        "url": "https://www.dafont.com/forum/read/577078/alguien-sabe-cual-es-cual-es-la-tipografia",
+        "title": "\u00bfAlguien sabe cual es cual es la tipograf\u00eda?",
+        "instructions": "Eh estado buscando la tipograf\u00eda de estas de Chica's Party World, me suena mucho pero no se exactamente cual es",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1219370.png",
         "identified_font": null
     }
 ]
