@@ -2102,5 +2102,101 @@
         "instructions": null,
         "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1219437.png",
         "identified_font": null
+    },
+    {
+        "task_id": "577130",
+        "url": "https://www.dafont.com/forum/read/577130/que-tipografia-es",
+        "title": "Qu\u00e9 tipografia es?",
+        "instructions": "Hola, me podr\u00edan apoyar indicando que tipograf\u00eda son? Por favor y gracias!",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1219490.png",
+        "identified_font": null
+    },
+    {
+        "task_id": "577129",
+        "url": "https://www.dafont.com/forum/read/577129/font-please",
+        "title": "Font please?",
+        "instructions": null,
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1219489.jpg",
+        "identified_font": null
+    },
+    {
+        "task_id": "577128",
+        "url": "https://www.dafont.com/forum/read/577128/any-help-with-this-font",
+        "title": "Any help with this font!",
+        "instructions": null,
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1219488.png",
+        "identified_font": null
+    },
+    {
+        "task_id": "577125",
+        "url": "https://www.dafont.com/forum/read/577125/font-name-please",
+        "title": "Font name please",
+        "instructions": "could you let me know the exact font name please?",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1219485.png",
+        "identified_font": null
+    },
+    {
+        "task_id": "575739",
+        "url": "https://www.dafont.com/forum/read/575739/font",
+        "title": "FONT?",
+        "instructions": null,
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1216501.png?1",
+        "identified_font": null
+    },
+    {
+        "task_id": "574082",
+        "url": "https://www.dafont.com/forum/read/574082/font-name-please",
+        "title": "font name please",
+        "instructions": "does anyone know some of the fonts found on this poster? Thank you!",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1213123.jpg",
+        "identified_font": "Edwardian Script"
+    },
+    {
+        "task_id": "577121",
+        "url": "https://www.dafont.com/forum/read/577121/buenos-dias-solicito-identificar-esta-tipografia-de-letre-gracias",
+        "title": "buenos dias solicito identificar esta tipografia de letre. gracias",
+        "instructions": null,
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1219472.jpg",
+        "identified_font": null
+    },
+    {
+        "task_id": "577123",
+        "url": "https://www.dafont.com/forum/read/577123/help",
+        "title": "HELP",
+        "instructions": "What is the name of this font, please?",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1219478.jpg",
+        "identified_font": null
+    },
+    {
+        "task_id": "577120",
+        "url": "https://www.dafont.com/forum/read/577120/organisation",
+        "title": "ORGANISATION",
+        "instructions": "do you know this font?",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1219471.png",
+        "identified_font": null
+    },
+    {
+        "task_id": "311120",
+        "url": "https://www.dafont.com/forum/read/311120/justice-league-trailer-font",
+        "title": "Justice League Trailer Font",
+        "instructions": "Hey, can someone please identify this font font for me?",
+        "img_url": "https://www.dafont.com/forum/attach/orig/6/8/687094.png?1",
+        "identified_font": null
+    },
+    {
+        "task_id": "577122",
+        "url": "https://www.dafont.com/forum/read/577122/font-name-please",
+        "title": "font name please",
+        "instructions": "can you help me identify some of the fonts in this new packaging design? Thank you!",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1219475.png",
+        "identified_font": null
+    },
+    {
+        "task_id": "530708",
+        "url": "https://www.dafont.com/forum/read/530708/what-font-is-this",
+        "title": "What font is this?",
+        "instructions": "I wanna know the font in \"you could start a cult\". Thank you!!!",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/1/1122055.png",
+        "identified_font": null
     }
 ]
