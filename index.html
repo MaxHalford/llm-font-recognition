@@ -8,6 +8,10 @@
 .r3 {font-style: italic}
 .r4 {font-weight: bold}
 .r5 {color: #800080; text-decoration-color: #800080}
+.r6 {color: #008080; text-decoration-color: #008080}
+.r7 {color: #808000; text-decoration-color: #808000}
+.r8 {color: #800000; text-decoration-color: #800000}
+.r9 {color: #bfbf7f; text-decoration-color: #bfbf7f}
 body {
     color: #000000;
     background-color: #ffffff;
@@ -15,18 +19,18 @@ body {
 </style>
 </head>
 <body>
-    <pre style="font-family:Menlo,'DejaVu Sans Mono',consolas,'Courier New',monospace"><code style="font-family:inherit">                                                                                                                                                                   
-                            <span class="r1">Do LLMs recognise fonts?</span>                                                                                                               
-                                                                                                                                                                   
-This is a live benchmark of various LLMs&#x27; ability to recognise fonts from                                                                                          
-images. The latter are scraped from <a class="r2" href="https://www.dafont.com/forum/?f=1">dafont.com</a>. Each LLM is asked to identify                                                                                      
-the font whenever a new image is uploaded by a user. The guesses are compared                                                                                      
-against the actual font, once it has been identified by someone and confirmed.                                                                                     
-This process avoids benchmark contamination.                                                                                                                       
-                                                                                                                                                                   
-The source code for this benchmark is available on <a class="r2" href="https://github.com/MaxHalford/llm-font-recognition">GitHub</a>.                                                                                                         
-                                                                                                                                                                   
-<span class="r3">Updated at 2025-06-24T21:20:00</span>                                                                                                                                     
+    <pre style="font-family:Menlo,'DejaVu Sans Mono',consolas,'Courier New',monospace"><code style="font-family:inherit">                                                                                
+                            <span class="r1">Do LLMs recognise fonts?</span>                            
+                                                                                
+This is a live benchmark of various LLMs&#x27; ability to recognise fonts from       
+images. The latter are scraped from <a class="r2" href="https://www.dafont.com/forum/?f=1">dafont.com</a>. Each LLM is asked to identify   
+the font whenever a new image is uploaded by a user. The guesses are compared   
+against the actual font, once it has been identified by someone and confirmed.  
+This process avoids benchmark contamination.                                    
+                                                                                
+The source code for this benchmark is available on <a class="r2" href="https://github.com/MaxHalford/llm-font-recognition">GitHub</a>.                      
+                                                                                
+<span class="r3">Updated at 2025-06-25T02:17:00</span>                                                  
 
 <span class="r4">Metrics                                                          </span>
 ┏━━━━━━━━━━━━━━━━┳━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┳━━━━━━━━━━━━━┓
@@ -39,11 +43,14 @@ The source code for this benchmark is available on <a class="r2" href="https://g
 │<span class="r5"> Top-5 accuracy </span>│             0.00%              │    0.00%    │
 └────────────────┴────────────────────────────────┴─────────────┘
 
-<span class="r4">Breakdown                                                                </span>
-┏━━━━━━┳━━━━━━━━━━━━━━━━━┳━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┳━━━━━━━━━━━━━┓
-┃ Task ┃ Identified font ┃ gemini-2.5-flash-preview-05-20 ┃ gpt-4o-mini ┃
-┡━━━━━━╇━━━━━━━━━━━━━━━━━╇━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━╇━━━━━━━━━━━━━┩
-└──────┴─────────────────┴────────────────────────────────┴─────────────┘
+<span class="r4">Breakdown                                                                       </span>
+┏━━━━━━━━┳━━━━━━━━━━━━━━━━━┳━━━━━━━━━━━━━━━━━━━━━━━━━┳━━━━━━━━━━━━━━━━━━━━━━━━━┓
+┃  Task  ┃ Identified font ┃ gemini-2.5-flash-previ… ┃       gpt-4o-mini       ┃
+┡━━━━━━━━╇━━━━━━━━━━━━━━━━━╇━━━━━━━━━━━━━━━━━━━━━━━━━╇━━━━━━━━━━━━━━━━━━━━━━━━━┩
+│<span class="r6"> </span><a class="r6" href="https://www.dafont.com/forum/read/577062/diesel-auto-font">577062</a><span class="r6"> </span>│    Speedway     │<span class="r7">   </span><span class="r8">Better Grade</span><span class="r9">, </span><span class="r8">Bank</span><span class="r7">    </span>│<span class="r7">  </span><span class="r8">Lazer 84</span><span class="r9">, </span><span class="r8">Kool Beans</span><span class="r9">,</span><span class="r7">  </span>│
+│<span class="r6">        </span>│                 │<span class="r7"> </span><span class="r8">Gothic</span><span class="r9">, </span><span class="r8">Square 721 BT</span><span class="r9">,</span><span class="r7">  </span>│<span class="r7">   </span><span class="r8">Bebas Neue</span><span class="r9">, </span><span class="r8">Impact</span><span class="r7">    </span>│
+│<span class="r6">        </span>│                 │<span class="r7">  </span><span class="r8">Stay Gold</span><span class="r9">, </span><span class="r8">Agency FB</span><span class="r7">   </span>│<span class="r7">                         </span>│
+└────────┴─────────────────┴─────────────────────────┴─────────────────────────┘
 </code></pre>
 </body>
 </html>
