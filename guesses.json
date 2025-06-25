@@ -2896,5 +2896,59 @@
         "candidate_font_3": "Southampton",
         "candidate_font_4": "Brittany Signature",
         "candidate_font_5": "Amsterdam One"
+    },
+    {
+        "task_id": "577136",
+        "model_name": "gpt-4o-mini",
+        "candidate_font_1": "Bebas Neue",
+        "candidate_font_2": "Montserrat",
+        "candidate_font_3": "Oswald",
+        "candidate_font_4": "Raleway",
+        "candidate_font_5": ""
+    },
+    {
+        "task_id": "577136",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Trade Gothic Bold Condensed No. 20",
+        "candidate_font_2": "Franklin Gothic Heavy Condensed",
+        "candidate_font_3": "Knockout 68 Full Featherweight",
+        "candidate_font_4": "Neue Plak Condensed ExtraBold",
+        "candidate_font_5": "Tungsten Bold Condensed"
+    },
+    {
+        "task_id": "577133",
+        "model_name": "gpt-4o-mini",
+        "candidate_font_1": "Lobster",
+        "candidate_font_2": "Great Vibes",
+        "candidate_font_3": "Dancing Script",
+        "candidate_font_4": "Pacifico",
+        "candidate_font_5": "Brush Script"
+    },
+    {
+        "task_id": "577133",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Billion Dreams",
+        "candidate_font_2": "Angellica",
+        "candidate_font_3": "Beauty Bright",
+        "candidate_font_4": "Musthafa Script",
+        "candidate_font_5": "Delight Script"
+    },
+    {
+        "task_id": "577132",
+        "model_name": "gpt-4o-mini",
+        "candidate_font_1": "Bebas Neue",
+        "candidate_font_2": "Oswald",
+        "candidate_font_3": "Impact",
+        "candidate_font_4": "Righteous",
+        "candidate_font_5": "Anton"
+    },
+    {
+        "task_id": "577132",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Hard Block Rough",
+        "candidate_font_2": "Agency FB",
+        "candidate_font_3": "Octin Vintage",
+        "candidate_font_4": "Bebas Neue",
+        "candidate_font_5": "SF Collegiate"
     }
 ]
