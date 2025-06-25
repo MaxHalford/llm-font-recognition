@@ -4,8 +4,8 @@
         "url": "https://www.dafont.com/forum/read/577062/diesel-auto-font",
         "title": "Diesel & Auto Font",
         "instructions": null,
-        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1219330.jpg",
-        "identified_font": null
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1219330.jpg?1",
+        "identified_font": "Speedway"
     },
     {
         "task_id": "577026",
@@ -1582,5 +1582,109 @@
         "instructions": null,
         "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1218877.jpg",
         "identified_font": "Garamond Light Condensed"
+    },
+    {
+        "task_id": "577075",
+        "url": "https://www.dafont.com/forum/read/577075/raja-hati-font",
+        "title": "RAJA HATI FONT ?",
+        "instructions": "Help me please",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1219367.jpg",
+        "identified_font": null
+    },
+    {
+        "task_id": "577074",
+        "url": "https://www.dafont.com/forum/read/577074/alguien-sabe-cual-es-la-fuente-del-justin-bieber-gracias",
+        "title": "Alguien sabe cu\u00e1l es la fuente del \"Justin Bieber\"? Gracias",
+        "instructions": null,
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1219366.jpg",
+        "identified_font": null
+    },
+    {
+        "task_id": "577073",
+        "url": "https://www.dafont.com/forum/read/577073/font-id",
+        "title": "font ID",
+        "instructions": "Does anyone know what font this is?",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1219364.png",
+        "identified_font": null
+    },
+    {
+        "task_id": "577072",
+        "url": "https://www.dafont.com/forum/read/577072/font-id",
+        "title": "font ID",
+        "instructions": "Does anyone know what font this is?",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1219363.png",
+        "identified_font": null
+    },
+    {
+        "task_id": "577070",
+        "url": "https://www.dafont.com/forum/read/577070/bingo",
+        "title": "Bingo",
+        "instructions": "Any ideas what font this is?",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1219361.jpg",
+        "identified_font": null
+    },
+    {
+        "task_id": "577068",
+        "url": "https://www.dafont.com/forum/read/577068/alguien-sabe-el-nombre-de-esta-letra",
+        "title": "Alguien sabe el nombre de esta letra",
+        "instructions": "Mil gracias de antemano.",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1219357.jpg",
+        "identified_font": "Chocolate"
+    },
+    {
+        "task_id": "577069",
+        "url": "https://www.dafont.com/forum/read/577069/evangelion-logo",
+        "title": "Evangelion Logo?",
+        "instructions": "Not a fan of this anime (Psychological Horror in it is too traumatic), but I always wondered what the name of this font?",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1219359.png",
+        "identified_font": null
+    },
+    {
+        "task_id": "577067",
+        "url": "https://www.dafont.com/forum/read/577067/help-wahts-thats-font",
+        "title": "help!! wahts thats font?",
+        "instructions": "help!! wahts thats font?",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1219356.png",
+        "identified_font": "Modak"
+    },
+    {
+        "task_id": "577066",
+        "url": "https://www.dafont.com/forum/read/577066/font-help-please",
+        "title": "Font help please!",
+        "instructions": null,
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1219355.jpg",
+        "identified_font": null
+    },
+    {
+        "task_id": "577065",
+        "url": "https://www.dafont.com/forum/read/577065/what-is-this-font",
+        "title": "what is this font?",
+        "instructions": null,
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1219349.png",
+        "identified_font": null
+    },
+    {
+        "task_id": "577064",
+        "url": "https://www.dafont.com/forum/read/577064/youtube-video",
+        "title": "YouTube video",
+        "instructions": "Text font?",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1219347.png",
+        "identified_font": null
+    },
+    {
+        "task_id": "577063",
+        "url": "https://www.dafont.com/forum/read/577063/help-with-the-font-real-estate",
+        "title": "Help with the font Real Estate!!!",
+        "instructions": null,
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1219344.png?1",
+        "identified_font": "Trebuchet"
+    },
+    {
+        "task_id": "564257",
+        "url": "https://www.dafont.com/forum/read/564257/1-billion-font-please",
+        "title": "\u00931 BILLION\u0094 font, please.",
+        "instructions": null,
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/1/1193362.png?1",
+        "identified_font": null
     }
 ]
