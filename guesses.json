@@ -1870,5 +1870,41 @@
         "candidate_font_3": "Rubik",
         "candidate_font_4": "Nunito",
         "candidate_font_5": "Circular Std"
+    },
+    {
+        "task_id": "577080",
+        "model_name": "gpt-4o-mini",
+        "candidate_font_1": "Cyber Promax",
+        "candidate_font_2": "Modern Font",
+        "candidate_font_3": "Purple Tech",
+        "candidate_font_4": null,
+        "candidate_font_5": null
+    },
+    {
+        "task_id": "577080",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Cyber Promax",
+        "candidate_font_2": "",
+        "candidate_font_3": "",
+        "candidate_font_4": "",
+        "candidate_font_5": ""
+    },
+    {
+        "task_id": "577078",
+        "model_name": "gpt-4o-mini",
+        "candidate_font_1": "Bubblegum Sans",
+        "candidate_font_2": "Luckiest Guy",
+        "candidate_font_3": "Comic Sans MS",
+        "candidate_font_4": "Lobster",
+        "candidate_font_5": "Bangers"
+    },
+    {
+        "task_id": "577078",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Hot Mustard NF",
+        "candidate_font_2": "Candice",
+        "candidate_font_3": "Bubblegum Pop KG",
+        "candidate_font_4": "Cooper Black",
+        "candidate_font_5": "Action Is"
     }
 ]
