@@ -31,23 +31,51 @@ This process avoids benchmark contamination.
                                                                                 
 The source code for this benchmark is available on <a class="r2" href="https://github.com/MaxHalford/llm-font-recognition">GitHub</a>.                      
                                                                                 
-<span class="r3">Updated at 2025-06-25T20:08:00</span>                                                  
+<span class="r3">Updated at 2025-06-25T23:05:00</span>                                                  
 
 <span class="r4">Metrics                                                          </span>
 ┏━━━━━━━━━━━━━━━━┳━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┳━━━━━━━━━━━━━┓
 ┃     Metric     ┃ gemini-2.5-flash-preview-05-20 ┃ gpt-4o-mini ┃
 ┡━━━━━━━━━━━━━━━━╇━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━╇━━━━━━━━━━━━━┩
-│<span class="r5"> Top-1 accuracy </span>│             14.29%             │   28.57%    │
-│<span class="r5"> Top-2 accuracy </span>│             14.29%             │   28.57%    │
-│<span class="r5"> Top-3 accuracy </span>│             14.29%             │   28.57%    │
-│<span class="r5"> Top-4 accuracy </span>│             14.29%             │   28.57%    │
-│<span class="r5"> Top-5 accuracy </span>│             14.29%             │   28.57%    │
+│<span class="r5"> Top-1 accuracy </span>│             9.09%              │   18.18%    │
+│<span class="r5"> Top-2 accuracy </span>│             9.09%              │   18.18%    │
+│<span class="r5"> Top-3 accuracy </span>│             9.09%              │   18.18%    │
+│<span class="r5"> Top-4 accuracy </span>│             9.09%              │   18.18%    │
+│<span class="r5"> Top-5 accuracy </span>│             9.09%              │   18.18%    │
 └────────────────┴────────────────────────────────┴─────────────┘
 
 <span class="r4">Breakdown                                                                       </span>
 ┏━━━━━━━━┳━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┳━━━━━━━━━━━━━━━━━┳━━━━━━━━━━━━━━━━━┓
 ┃  Task  ┃         Identified font         ┃ gemini-2.5-fla… ┃   gpt-4o-mini   ┃
 ┡━━━━━━━━╇━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━╇━━━━━━━━━━━━━━━━━╇━━━━━━━━━━━━━━━━━┩
+│<span class="r6"> </span><a class="r6" href="https://www.dafont.com/forum/read/577122/font-name-please">577122</a><span class="r6"> </span>│           FreightNeo            │<span class="r7">   </span><span class="r8">Montserrat</span><span class="r9">,</span><span class="r7">   </span>│<span class="r7">   </span><span class="r8">Bebas Neue</span><span class="r9">,</span><span class="r7">   </span>│
+│<span class="r6">        </span>│                                 │<span class="r7">    </span><span class="r8">Open Sans</span><span class="r7">    </span>│<span class="r7">   </span><span class="r8">Montserrat</span><span class="r9">,</span><span class="r7">   </span>│
+│<span class="r6">        </span>│                                 │<span class="r7">   </span><span class="r8">ExtraBold</span><span class="r9">,</span><span class="r7">    </span>│<span class="r7">    </span><span class="r8">Playfair</span><span class="r7">     </span>│
+│<span class="r6">        </span>│                                 │<span class="r7">  </span><span class="r8">Magnolia Sky</span><span class="r9">,</span><span class="r7">  </span>│<span class="r7"> </span><span class="r8">Display</span><span class="r9">, </span><span class="r8">Lora</span><span class="r9">,</span><span class="r7">  </span>│
+│<span class="r6">        </span>│                                 │<span class="r7">    </span><span class="r8">Playfair</span><span class="r7">     </span>│<span class="r7">     </span><span class="r8">Raleway</span><span class="r7">     </span>│
+│<span class="r6">        </span>│                                 │<span class="r7">    </span><span class="r8">Display</span><span class="r9">,</span><span class="r7">     </span>│<span class="r7">                 </span>│
+│<span class="r6">        </span>│                                 │<span class="r7">   </span><span class="r8">Montserrat</span><span class="r7">    </span>│<span class="r7">                 </span>│
+│<span class="r6"> </span><a class="r6" href="https://www.dafont.com/forum/read/577125/font-name-please">577125</a><span class="r6"> </span>│            Orbitron             │<span class="r7"> </span><span class="r8">Titillium Web</span><span class="r9">,</span><span class="r7">  </span>│<span class="r7">     </span><span class="r8">Roboto</span><span class="r9">,</span><span class="r7">     </span>│
+│<span class="r6">        </span>│                                 │<span class="r7">   </span><span class="r8">Squarefont</span><span class="r7">    </span>│<span class="r7">   </span><span class="r8">Montserrat</span><span class="r9">,</span><span class="r7">   </span>│
+│<span class="r6">        </span>│                                 │<span class="r7">                 </span>│<span class="r7">  </span><span class="r8">Oswald</span><span class="r9">, </span><span class="r8">Bebas</span><span class="r7">  </span>│
+│<span class="r6">        </span>│                                 │<span class="r7">                 </span>│<span class="r7">  </span><span class="r8">Neue</span><span class="r9">, </span><span class="r8">Poppins</span><span class="r7">  </span>│
+│<span class="r6"> </span><a class="r6" href="https://www.dafont.com/forum/read/577129/font-please">577129</a><span class="r6"> </span>│          Chopin Script          │<span class="r7">    </span><span class="r8">Scripty</span><span class="r9">,</span><span class="r7">     </span>│<span class="r7">    </span><span class="r8">Pacifico</span><span class="r9">,</span><span class="r7">    </span>│
+│<span class="r6">        </span>│                                 │<span class="r7">    </span><span class="r8">Marketing</span><span class="r7">    </span>│<span class="r7"> </span><span class="r8">Lobster</span><span class="r9">, </span><span class="r8">Great</span><span class="r7">  </span>│
+│<span class="r6">        </span>│                                 │<span class="r7">     </span><span class="r8">Script</span><span class="r9">,</span><span class="r7">     </span>│<span class="r7"> </span><span class="r8">Vibes</span><span class="r9">, </span><span class="r8">Dancing</span><span class="r7">  </span>│
+│<span class="r6">        </span>│                                 │<span class="r7">   </span><span class="r8">Bellafair</span><span class="r9">,</span><span class="r7">    </span>│<span class="r7">  </span><span class="r8">Script</span><span class="r9">, </span><span class="r8">Brush</span><span class="r7">  </span>│
+│<span class="r6">        </span>│                                 │<span class="r7"> </span><span class="r8">Billion Dreams</span><span class="r9">,</span><span class="r7"> </span>│<span class="r7">     </span><span class="r8">Script</span><span class="r7">      </span>│
+│<span class="r6">        </span>│                                 │<span class="r7">  </span><span class="r8">The Nautigal</span><span class="r7">   </span>│<span class="r7">                 </span>│
+│<span class="r6"> </span><a class="r6" href="https://www.dafont.com/forum/read/577099/could-anyone-help-with-this-font">577099</a><span class="r6"> </span>│  Knockout No. 47 Bantamweight   │<span class="r7"> </span><span class="r8">Trade Gothic LT</span><span class="r7"> </span>│<span class="r7">   </span><span class="r8">Bebas Neue</span><span class="r9">,</span><span class="r7">   </span>│
+│<span class="r6">        </span>│                                 │<span class="r7">  </span><span class="r8">Std Extrabold</span><span class="r7">  </span>│<span class="r7">     </span><span class="r8">Impact</span><span class="r9">,</span><span class="r7">     </span>│
+│<span class="r6">        </span>│                                 │<span class="r7">   </span><span class="r8">Condensed</span><span class="r9">,</span><span class="r7">    </span>│<span class="r7"> </span><span class="r8">Montserrat</span><span class="r9">, </span><span class="r8">DIN</span><span class="r7"> </span>│
+│<span class="r6">        </span>│                                 │<span class="r7"> </span><span class="r8">Akzidenz-Grote…</span><span class="r7"> </span>│<span class="r7">    </span><span class="r8">Condensed</span><span class="r7">    </span>│
+│<span class="r6">        </span>│                                 │<span class="r7">    </span><span class="r8">Extrabold</span><span class="r7">    </span>│<span class="r7">                 </span>│
+│<span class="r6">        </span>│                                 │<span class="r7">   </span><span class="r8">Condensed</span><span class="r9">,</span><span class="r7">    </span>│<span class="r7">                 </span>│
+│<span class="r6">        </span>│                                 │<span class="r7">     </span><span class="r8">Impact</span><span class="r9">,</span><span class="r7">     </span>│<span class="r7">                 </span>│
+│<span class="r6">        </span>│                                 │<span class="r7">    </span><span class="r8">Alternate</span><span class="r7">    </span>│<span class="r7">                 </span>│
+│<span class="r6">        </span>│                                 │<span class="r7">  </span><span class="r8">Gothic No. 3</span><span class="r9">,</span><span class="r7">  </span>│<span class="r7">                 </span>│
+│<span class="r6">        </span>│                                 │<span class="r7"> </span><span class="r8">Franklin Gothic</span><span class="r7"> </span>│<span class="r7">                 </span>│
+│<span class="r6">        </span>│                                 │<span class="r7"> </span><span class="r8">Extra Condensed</span><span class="r7"> </span>│<span class="r7">                 </span>│
 │<span class="r6"> </span><a class="r6" href="https://www.dafont.com/forum/read/569778/real-bout-fata-fury-font-name">569778</a><span class="r6"> </span>│             Aachen              │<span class="r7">    </span><span class="r8">Agency FB</span><span class="r7">    </span>│<span class="r7">     </span><span class="r8">Impact</span><span class="r9">,</span><span class="r7">     </span>│
 │<span class="r6">        </span>│                                 │<span class="r7">  </span><span class="r8">Black</span><span class="r9">, </span><span class="r8">Oswald</span><span class="r7">  </span>│<span class="r7">   </span><span class="r8">Eurostile</span><span class="r9">,</span><span class="r7">    </span>│
 │<span class="r6">        </span>│                                 │<span class="r7"> </span><span class="r8">Black</span><span class="r9">, </span><span class="r8">Compacta</span><span class="r7"> </span>│<span class="r7">   </span><span class="r8">Bebas Neue</span><span class="r9">,</span><span class="r7">   </span>│
