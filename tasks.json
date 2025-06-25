@@ -1741,7 +1741,7 @@
         "title": "WWF Break Down 1998 Font Name?",
         "instructions": null,
         "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1219413.jpg",
-        "identified_font": null
+        "identified_font": "Impact"
     },
     {
         "task_id": "577087",
@@ -1893,7 +1893,7 @@
         "title": "Real Bout Fata Fury font name ?",
         "instructions": null,
         "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1204661.png",
-        "identified_font": null
+        "identified_font": "Aachen"
     },
     {
         "task_id": "569779",
@@ -1925,6 +1925,70 @@
         "title": "What font is it?",
         "instructions": "What font is it?",
         "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1219385.png",
+        "identified_font": null
+    },
+    {
+        "task_id": "577099",
+        "url": "https://www.dafont.com/forum/read/577099/could-anyone-help-with-this-font",
+        "title": "could anyone help with this font?",
+        "instructions": null,
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1219434.png",
+        "identified_font": null
+    },
+    {
+        "task_id": "577094",
+        "url": "https://www.dafont.com/forum/read/577094/backlash-1999-font-name",
+        "title": "Backlash 1999 font name?",
+        "instructions": null,
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1219419.jpg",
+        "identified_font": null
+    },
+    {
+        "task_id": "577096",
+        "url": "https://www.dafont.com/forum/read/577096/identifier-police",
+        "title": "Identifier Police",
+        "instructions": "Bonjour qui pourrait identifier cette police merci !",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1219424.png",
+        "identified_font": null
+    },
+    {
+        "task_id": "577098",
+        "url": "https://www.dafont.com/forum/read/577098/font-identification",
+        "title": "font identification",
+        "instructions": "anyone know the font for this infamous meme?",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1219429.jpg",
+        "identified_font": null
+    },
+    {
+        "task_id": "577095",
+        "url": "https://www.dafont.com/forum/read/577095/modern-wisdom",
+        "title": "MODERN WISDOM",
+        "instructions": null,
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1219423.jpg",
+        "identified_font": null
+    },
+    {
+        "task_id": "577097",
+        "url": "https://www.dafont.com/forum/read/577097/which-this-font-please",
+        "title": "Which this font, please?",
+        "instructions": null,
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1219426.png",
+        "identified_font": null
+    },
+    {
+        "task_id": "577092",
+        "url": "https://www.dafont.com/forum/read/577092/wwf-rock-bottom-1998-font-name",
+        "title": "WWF Rock Bottom 1998 font name?",
+        "instructions": null,
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1219416.png?1",
+        "identified_font": null
+    },
+    {
+        "task_id": "577093",
+        "url": "https://www.dafont.com/forum/read/577093/st-valentine-s-day-massacre-1999-font-name",
+        "title": "St. Valentine's Day Massacre 1999 font name?",
+        "instructions": null,
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1219417.jpg",
         "identified_font": null
     }
 ]
