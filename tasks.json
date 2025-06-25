@@ -1933,7 +1933,7 @@
         "title": "could anyone help with this font?",
         "instructions": null,
         "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1219434.png",
-        "identified_font": null
+        "identified_font": "Knockout No. 47 Bantamweight"
     },
     {
         "task_id": "577094",
@@ -2117,7 +2117,7 @@
         "title": "Font please?",
         "instructions": null,
         "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1219489.jpg",
-        "identified_font": null
+        "identified_font": "Chopin Script"
     },
     {
         "task_id": "577128",
@@ -2133,7 +2133,7 @@
         "title": "Font name please",
         "instructions": "could you let me know the exact font name please?",
         "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1219485.png",
-        "identified_font": null
+        "identified_font": "Orbitron"
     },
     {
         "task_id": "575739",
@@ -2189,7 +2189,7 @@
         "title": "font name please",
         "instructions": "can you help me identify some of the fonts in this new packaging design? Thank you!",
         "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1219475.png",
-        "identified_font": null
+        "identified_font": "FreightNeo"
     },
     {
         "task_id": "530708",
@@ -2197,6 +2197,38 @@
         "title": "What font is this?",
         "instructions": "I wanna know the font in \"you could start a cult\". Thank you!!!",
         "img_url": "https://www.dafont.com/forum/attach/orig/1/1/1122055.png",
+        "identified_font": null
+    },
+    {
+        "task_id": "577136",
+        "url": "https://www.dafont.com/forum/read/577136/can-someone-help-with-this-one",
+        "title": "can someone help with this one?",
+        "instructions": null,
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1219504.png",
+        "identified_font": null
+    },
+    {
+        "task_id": "577135",
+        "url": "https://www.dafont.com/forum/read/577135/any-idea-of-these-two-fonts",
+        "title": "Any idea of these two fonts ?",
+        "instructions": null,
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1219502.png",
+        "identified_font": "Whitney LIght"
+    },
+    {
+        "task_id": "577133",
+        "url": "https://www.dafont.com/forum/read/577133/q-tipo-de-fuente-es",
+        "title": "Q tipo de fuente es?",
+        "instructions": "Podr\u00edan ayudarme a identificar el tipo de letra, gracuas",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1219500.jpg",
+        "identified_font": null
+    },
+    {
+        "task_id": "577132",
+        "url": "https://www.dafont.com/forum/read/577132/ink",
+        "title": "INK",
+        "instructions": "HELP PLEASE",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1219494.jpg",
         "identified_font": null
     }
 ]
