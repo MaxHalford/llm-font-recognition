@@ -1701,7 +1701,7 @@
         "title": "Algu\u00e9m sabe o nome desta fonte?",
         "instructions": "Nome desta fonte???",
         "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1219378.jpg",
-        "identified_font": null
+        "identified_font": "Cyber Promax"
     },
     {
         "task_id": "577077",
@@ -1989,6 +1989,118 @@
         "title": "St. Valentine's Day Massacre 1999 font name?",
         "instructions": null,
         "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1219417.jpg",
+        "identified_font": null
+    },
+    {
+        "task_id": "195382",
+        "url": "https://www.dafont.com/forum/read/195382/new-hit-entertainment-logo-font",
+        "title": "New Hit Entertainment logo font?",
+        "instructions": "Can you tell me what this font is for the new hit entertainment logo? If you do, that would be great! Thanks!",
+        "img_url": "https://www.dafont.com/forum/attach/orig/4/4/449944.png?1",
+        "identified_font": null
+    },
+    {
+        "task_id": "577116",
+        "url": "https://www.dafont.com/forum/read/577116/jailer-movie-font-name",
+        "title": "Jailer movie font name?",
+        "instructions": null,
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1219463.jpg",
+        "identified_font": null
+    },
+    {
+        "task_id": "577112",
+        "url": "https://www.dafont.com/forum/read/577112/do-you-this-font-pls-thx",
+        "title": "Do you this font pls? Thx",
+        "instructions": null,
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1219454.png",
+        "identified_font": null
+    },
+    {
+        "task_id": "577105",
+        "url": "https://www.dafont.com/forum/read/577105/over-the-edge-1999-font-name",
+        "title": "Over the Edge 1999 font name?",
+        "instructions": null,
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1219446.jpg",
+        "identified_font": "Frederick Text"
+    },
+    {
+        "task_id": "577115",
+        "url": "https://www.dafont.com/forum/read/577115/1-survivor-series-1999-font-name",
+        "title": "\"1\" & Survivor Series 1999 font name?",
+        "instructions": null,
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1219460.jpg",
+        "identified_font": null
+    },
+    {
+        "task_id": "577113",
+        "url": "https://www.dafont.com/forum/read/577113/font-beck-mongolian-chop-squad",
+        "title": "font beck (mongolian chop squad)??",
+        "instructions": null,
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1219456.png",
+        "identified_font": "Antique Olive"
+    },
+    {
+        "task_id": "577110",
+        "url": "https://www.dafont.com/forum/read/577110/fully-loaded-1999-font-name",
+        "title": "Fully Loaded 1999 font name?",
+        "instructions": null,
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1219451.jpg",
+        "identified_font": "Serpentine"
+    },
+    {
+        "task_id": "577111",
+        "url": "https://www.dafont.com/forum/read/577111/naisha-move-font-name",
+        "title": "NAISHA move font name?",
+        "instructions": null,
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1219453.jpg",
+        "identified_font": null
+    },
+    {
+        "task_id": "577106",
+        "url": "https://www.dafont.com/forum/read/577106/title",
+        "title": "TITLE",
+        "instructions": null,
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1219447.png",
+        "identified_font": null
+    },
+    {
+        "task_id": "577104",
+        "url": "https://www.dafont.com/forum/read/577104/no-mercy-uk-1999-font-name",
+        "title": "No Mercy UK 1999 font name?",
+        "instructions": null,
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1219445.jpg",
+        "identified_font": null
+    },
+    {
+        "task_id": "577103",
+        "url": "https://www.dafont.com/forum/read/577103/don-3-move-font-name",
+        "title": "DON 3 move font name?",
+        "instructions": null,
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1219444.jpg",
+        "identified_font": null
+    },
+    {
+        "task_id": "577102",
+        "url": "https://www.dafont.com/forum/read/577102/jaat-2-movie-font-name",
+        "title": "JAAT 2 movie font name ?",
+        "instructions": null,
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1219443.jpg",
+        "identified_font": null
+    },
+    {
+        "task_id": "514790",
+        "url": "https://www.dafont.com/forum/read/514790/font-used-for-club-penguin-s-operation-blackout",
+        "title": "Font used for Club Penguin\u0092s Operation Blackout",
+        "instructions": "Anyone know what font this is? It was used for Club Penguin\u0092s Operations. I swear I\u0092ve seen it used elsewhere so I don\u0092t believe it\u0092s custom.",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/0/1090772.png?1",
+        "identified_font": null
+    },
+    {
+        "task_id": "577101",
+        "url": "https://www.dafont.com/forum/read/577101/font-name",
+        "title": "font name?",
+        "instructions": null,
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1219437.png",
         "identified_font": null
     }
 ]
