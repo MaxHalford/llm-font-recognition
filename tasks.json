@@ -2350,5 +2350,53 @@
         "instructions": "Hi everyone ! please help to identify this type , thanks",
         "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1219551.png",
         "identified_font": null
+    },
+    {
+        "task_id": "577163",
+        "url": "https://www.dafont.com/forum/read/577163/episode-25",
+        "title": "Episode 25",
+        "instructions": null,
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1219568.png",
+        "identified_font": null
+    },
+    {
+        "task_id": "577162",
+        "url": "https://www.dafont.com/forum/read/577162/jo-yuri",
+        "title": "JO YURI",
+        "instructions": null,
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1219567.png",
+        "identified_font": null
+    },
+    {
+        "task_id": "577158",
+        "url": "https://www.dafont.com/forum/read/577158/esmi-skincare-font",
+        "title": "esmi Skincare Font?",
+        "instructions": null,
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1219558.png?1",
+        "identified_font": "Queens Condensed Light"
+    },
+    {
+        "task_id": "577161",
+        "url": "https://www.dafont.com/forum/read/577161/fuente-madera",
+        "title": "fuente madera.",
+        "instructions": "Alguien conoce este tipo de fuente? o una que sea muy similar.",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1219561.jpg",
+        "identified_font": "Tiki Type Hut"
+    },
+    {
+        "task_id": "577159",
+        "url": "https://www.dafont.com/forum/read/577159/font-name-please",
+        "title": "font name please",
+        "instructions": "can you help me identitfy the fonts found in this image? Thank you!!!",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1219559.png",
+        "identified_font": "Exposure -20"
+    },
+    {
+        "task_id": "577160",
+        "url": "https://www.dafont.com/forum/read/577160/font-name-pls-thanks",
+        "title": "Font name pls? Thanks!",
+        "instructions": null,
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1219560.jpg",
+        "identified_font": null
     }
 ]
