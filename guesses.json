@@ -3166,5 +3166,59 @@
         "candidate_font_3": "Octin Sports",
         "candidate_font_4": "Carbon Block",
         "candidate_font_5": "Top Secret"
+    },
+    {
+        "task_id": "577163",
+        "model_name": "gpt-4o-mini",
+        "candidate_font_1": "Scriptina",
+        "candidate_font_2": "Great Vibes",
+        "candidate_font_3": "Dancing Script",
+        "candidate_font_4": "Allura",
+        "candidate_font_5": "Lobster"
+    },
+    {
+        "task_id": "577163",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Chopin Script",
+        "candidate_font_2": "Aphrodite Pro",
+        "candidate_font_3": "Adelicia Script",
+        "candidate_font_4": "Before Breakfast",
+        "candidate_font_5": "Great Victorian"
+    },
+    {
+        "task_id": "577162",
+        "model_name": "gpt-4o-mini",
+        "candidate_font_1": "Bubblegum Sans",
+        "candidate_font_2": "Dancing Script",
+        "candidate_font_3": "Kawaii",
+        "candidate_font_4": "Pouncy",
+        "candidate_font_5": "Bouncy Castle"
+    },
+    {
+        "task_id": "577162",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Dotty",
+        "candidate_font_2": "",
+        "candidate_font_3": "",
+        "candidate_font_4": "",
+        "candidate_font_5": ""
+    },
+    {
+        "task_id": "577160",
+        "model_name": "gpt-4o-mini",
+        "candidate_font_1": "Varsity",
+        "candidate_font_2": "College",
+        "candidate_font_3": "Sporting",
+        "candidate_font_4": "Game Day",
+        "candidate_font_5": ""
+    },
+    {
+        "task_id": "577160",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Superstar M54",
+        "candidate_font_2": "University Roman",
+        "candidate_font_3": "College Block",
+        "candidate_font_4": "SF Collegiate",
+        "candidate_font_5": "Jersey M54"
     }
 ]
