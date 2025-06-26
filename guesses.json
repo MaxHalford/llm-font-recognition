@@ -3130,5 +3130,41 @@
         "candidate_font_3": "Kuenstler Script",
         "candidate_font_4": "Shelley Allegro",
         "candidate_font_5": "Zapfino"
+    },
+    {
+        "task_id": "577156",
+        "model_name": "gpt-4o-mini",
+        "candidate_font_1": "Buttery",
+        "candidate_font_2": "Pacifico",
+        "candidate_font_3": "Dancing Script",
+        "candidate_font_4": "Great Vibes",
+        "candidate_font_5": "Allura"
+    },
+    {
+        "task_id": "577156",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Butterly",
+        "candidate_font_2": "Buttermilk",
+        "candidate_font_3": "Lemon Tuesday",
+        "candidate_font_4": "The Skinny",
+        "candidate_font_5": "Lovely Butter"
+    },
+    {
+        "task_id": "577154",
+        "model_name": "gpt-4o-mini",
+        "candidate_font_1": "Zahra",
+        "candidate_font_2": "Zest",
+        "candidate_font_3": "Zesty",
+        "candidate_font_4": "Zero",
+        "candidate_font_5": "Zubb"
+    },
+    {
+        "task_id": "577154",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "SF Sports Night",
+        "candidate_font_2": "SF Collegiate",
+        "candidate_font_3": "Octin Sports",
+        "candidate_font_4": "Carbon Block",
+        "candidate_font_5": "Top Secret"
     }
 ]
