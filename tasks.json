@@ -1612,7 +1612,7 @@
         "url": "https://www.dafont.com/forum/read/577072/font-id",
         "title": "font ID",
         "instructions": "Does anyone know what font this is?",
-        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1219363.png",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1219363.png?1",
         "identified_font": null
     },
     {
@@ -1668,7 +1668,7 @@
         "url": "https://www.dafont.com/forum/read/577064/youtube-video",
         "title": "YouTube video",
         "instructions": "Text font?",
-        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1219347.png",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1219347.png?1",
         "identified_font": null
     },
     {
@@ -2052,8 +2052,8 @@
         "url": "https://www.dafont.com/forum/read/577111/naisha-move-font-name",
         "title": "NAISHA move font name?",
         "instructions": null,
-        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1219453.jpg",
-        "identified_font": null
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1219453.png?1",
+        "identified_font": "Segment Condensed Black"
     },
     {
         "task_id": "577106",
@@ -2261,6 +2261,70 @@
         "title": "K-Motion",
         "instructions": "Mainly the top and bottom black font.",
         "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1219519.png",
+        "identified_font": null
+    },
+    {
+        "task_id": "513503",
+        "url": "https://www.dafont.com/forum/read/513503/double-line-font",
+        "title": "Double Line Font",
+        "instructions": "Does anyone know what font this is?",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/0/1088129.png",
+        "identified_font": "Baro"
+    },
+    {
+        "task_id": "577153",
+        "url": "https://www.dafont.com/forum/read/577153/blackpink",
+        "title": "BLACKPINK",
+        "instructions": null,
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1219549.jpg",
+        "identified_font": null
+    },
+    {
+        "task_id": "577149",
+        "url": "https://www.dafont.com/forum/read/577149/could-you-please-help-me-identifying-this-font-used-by-isabel-larosa-raven-album",
+        "title": "Could you please help me identifying this font used by Isabel LaRosa Raven album",
+        "instructions": "Thank you if u find it",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1219544.jpg",
+        "identified_font": null
+    },
+    {
+        "task_id": "577148",
+        "url": "https://www.dafont.com/forum/read/577148/academicos-da-grande-rio-2026-carnaval-logos-theme",
+        "title": "Acad\u00eamicos da Grande Rio 2026 Carnaval Logos theme",
+        "instructions": null,
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1219543.jpg",
+        "identified_font": null
+    },
+    {
+        "task_id": "577146",
+        "url": "https://www.dafont.com/forum/read/577146/what-font-is-this",
+        "title": "What font is this?",
+        "instructions": null,
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1219541.jpg",
+        "identified_font": null
+    },
+    {
+        "task_id": "577145",
+        "url": "https://www.dafont.com/forum/read/577145/can-someone-helpme-with-this-fonts-alguien-puede-ayudarme-a-identificar-estas-fuentes",
+        "title": "can someone helpme with this fonts ? alguien puede ayudarme a identificar estas fuentes?",
+        "instructions": "Hello if someone can identify this font in the picture.",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1219535.png",
+        "identified_font": "Felix Titling"
+    },
+    {
+        "task_id": "577144",
+        "url": "https://www.dafont.com/forum/read/577144/full-house-font-jkt48-special-concert",
+        "title": "Full House font? JKT48 Special Concert",
+        "instructions": "someone help me please",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1219532.png?1",
+        "identified_font": null
+    },
+    {
+        "task_id": "577143",
+        "url": "https://www.dafont.com/forum/read/577143/script-font-name-r-h",
+        "title": "Script Font Name ? R & H",
+        "instructions": "Please help me",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1219530.png?1",
         "identified_font": null
     }
 ]
