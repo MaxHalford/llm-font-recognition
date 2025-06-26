@@ -3022,5 +3022,113 @@
         "candidate_font_3": "Eurostile Extended Oblique",
         "candidate_font_4": "Tactic Sans Compressed Italic",
         "candidate_font_5": "Road Rage"
+    },
+    {
+        "task_id": "577153",
+        "model_name": "gpt-4o-mini",
+        "candidate_font_1": "Bebas Neue",
+        "candidate_font_2": "Impact",
+        "candidate_font_3": "Oswald",
+        "candidate_font_4": "Anton",
+        "candidate_font_5": ""
+    },
+    {
+        "task_id": "577153",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "College Bold",
+        "candidate_font_2": "Varsity Team",
+        "candidate_font_3": "Rough Draft",
+        "candidate_font_4": "Road Rage",
+        "candidate_font_5": "SF Quartzite"
+    },
+    {
+        "task_id": "577149",
+        "model_name": "gpt-4o-mini",
+        "candidate_font_1": "Bodoni",
+        "candidate_font_2": "Didot",
+        "candidate_font_3": "Playfair Display",
+        "candidate_font_4": "Trajan Pro",
+        "candidate_font_5": "Garamond"
+    },
+    {
+        "task_id": "577149",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Canela Deck Regular",
+        "candidate_font_2": "Canela Regular",
+        "candidate_font_3": "Bodoni",
+        "candidate_font_4": "Didot",
+        "candidate_font_5": "ITC Fenice"
+    },
+    {
+        "task_id": "577148",
+        "model_name": "gpt-4o-mini",
+        "candidate_font_1": "Funky or Decorative Display Font",
+        "candidate_font_2": "Handwritten Style Font",
+        "candidate_font_3": "Psychedelic or Groovy Font",
+        "candidate_font_4": "Graffiti Inspired Font",
+        "candidate_font_5": "Stylized Serif for Logos"
+    },
+    {
+        "task_id": "577148",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Aerojones",
+        "candidate_font_2": "Keep on Truckin'",
+        "candidate_font_3": "Grind Zero",
+        "candidate_font_4": "Roots (by Mans Greback)",
+        "candidate_font_5": "Lemon Milk Bold"
+    },
+    {
+        "task_id": "577146",
+        "model_name": "gpt-4o-mini",
+        "candidate_font_1": "Lobster",
+        "candidate_font_2": "Great Vibes",
+        "candidate_font_3": "Dancing Script",
+        "candidate_font_4": "Allura",
+        "candidate_font_5": "Sacramento"
+    },
+    {
+        "task_id": "577146",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Angelland",
+        "candidate_font_2": "Billion Dreams",
+        "candidate_font_3": "Holy Mountain",
+        "candidate_font_4": "The Historia",
+        "candidate_font_5": "Brothership"
+    },
+    {
+        "task_id": "577144",
+        "model_name": "gpt-4o-mini",
+        "candidate_font_1": "Lobster",
+        "candidate_font_2": "Pacifico",
+        "candidate_font_3": "Great Vibes",
+        "candidate_font_4": "Allura",
+        "candidate_font_5": "Dancing Script"
+    },
+    {
+        "task_id": "577144",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Bickham Script Pro",
+        "candidate_font_2": "Great Vibes",
+        "candidate_font_3": "Magnolia Script",
+        "candidate_font_4": "Amarillo",
+        "candidate_font_5": "Signatura"
+    },
+    {
+        "task_id": "577143",
+        "model_name": "gpt-4o-mini",
+        "candidate_font_1": "Great Vibes",
+        "candidate_font_2": "Rochester",
+        "candidate_font_3": "Dancing Script",
+        "candidate_font_4": "Allura",
+        "candidate_font_5": "Satisfy"
+    },
+    {
+        "task_id": "577143",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Edwardian Script ITC",
+        "candidate_font_2": "Bickham Script Pro",
+        "candidate_font_3": "Kuenstler Script",
+        "candidate_font_4": "Shelley Allegro",
+        "candidate_font_5": "Zapfino"
     }
 ]
