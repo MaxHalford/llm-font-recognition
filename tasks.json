@@ -2398,5 +2398,37 @@
         "instructions": null,
         "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1219560.jpg",
         "identified_font": null
+    },
+    {
+        "task_id": "577167",
+        "url": "https://www.dafont.com/forum/read/577167/swr-performance-anyone-help",
+        "title": "SWR PERFORMANCE anyone help?",
+        "instructions": null,
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1219572.png",
+        "identified_font": null
+    },
+    {
+        "task_id": "577166",
+        "url": "https://www.dafont.com/forum/read/577166/font-name",
+        "title": "Font name",
+        "instructions": "Font name help.",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1219571.jpg",
+        "identified_font": null
+    },
+    {
+        "task_id": "577168",
+        "url": "https://www.dafont.com/forum/read/577168/font-name-please-tia",
+        "title": "Font name please! TIA",
+        "instructions": null,
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1219573.png",
+        "identified_font": null
+    },
+    {
+        "task_id": "577164",
+        "url": "https://www.dafont.com/forum/read/577164/hello-can-somebody-help-me-identify-this-font-thank-you",
+        "title": "Hello.. Can somebody help me identify this font. Thank you.",
+        "instructions": null,
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1219569.jpg",
+        "identified_font": null
     }
 ]
