@@ -609,8 +609,8 @@
     },
     {
         "task_id": "577007",
-        "url": "https://www.dafont.com/forum/read/577007/help-find-font",
-        "title": "Help find font",
+        "url": "https://www.dafont.com/forum/read/577007/please-help-me-find-this-no-one-has-been-able-to-find-this",
+        "title": "PLEASE HELP ME FIND THIS NO ONE HAS BEEN ABLE TO FIND THIS",
         "instructions": "Font name? Thanks",
         "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1219200.png",
         "identified_font": null
@@ -2461,6 +2461,78 @@
         "title": "CUAL ES LA FUENTE DE CORDOBA",
         "instructions": null,
         "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1219577.jpg",
+        "identified_font": null
+    },
+    {
+        "task_id": "577184",
+        "url": "https://www.dafont.com/forum/read/577184/any-help",
+        "title": "Any Help?",
+        "instructions": "Does anyone know these fonts please.",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1219598.jpg?1",
+        "identified_font": "Brand"
+    },
+    {
+        "task_id": "565885",
+        "url": "https://www.dafont.com/forum/read/565885/james-gunn-s-superman-font",
+        "title": "James Gunn's Superman font",
+        "instructions": "Hey does anyone know the name of the font used in his poster.",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/1/1196954.png?1",
+        "identified_font": null
+    },
+    {
+        "task_id": "577185",
+        "url": "https://www.dafont.com/forum/read/577185/superman-2025-credits-font",
+        "title": "superman 2025 credits font",
+        "instructions": "I wonder if someone could help me find the font used in the credits of the new superman movie.",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1219600.png",
+        "identified_font": null
+    },
+    {
+        "task_id": "577182",
+        "url": "https://www.dafont.com/forum/read/577182/font-thx",
+        "title": "Font? Thx",
+        "instructions": null,
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1219594.png",
+        "identified_font": null
+    },
+    {
+        "task_id": "577177",
+        "url": "https://www.dafont.com/forum/read/577177/alguem-sabe-qual-essa-fonte",
+        "title": "Algu\u00e9m sabe qual essa fonte?",
+        "instructions": "Usava muito, mas acabei perdendo e n\u00e3o consigo lembrar o nome.",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1219587.png",
+        "identified_font": "Cookie"
+    },
+    {
+        "task_id": "577181",
+        "url": "https://www.dafont.com/forum/read/577181/exito-font",
+        "title": "EXITO FONT?",
+        "instructions": null,
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1219592.png",
+        "identified_font": null
+    },
+    {
+        "task_id": "577180",
+        "url": "https://www.dafont.com/forum/read/577180/do-someone-know-this-font",
+        "title": "do someone know this font?",
+        "instructions": null,
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1219590.png",
+        "identified_font": null
+    },
+    {
+        "task_id": "577179",
+        "url": "https://www.dafont.com/forum/read/577179/font-identification-request",
+        "title": "Font Identification Request",
+        "instructions": "Hello! I am hoping that someone is able to help identify this font for me. Thank you, in advance for any info submitted!",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1219589.jpg",
+        "identified_font": null
+    },
+    {
+        "task_id": "577178",
+        "url": "https://www.dafont.com/forum/read/577178/strength",
+        "title": "strength",
+        "instructions": "help please",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1219588.jpg",
         "identified_font": null
     }
 ]
