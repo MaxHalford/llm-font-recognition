@@ -2950,5 +2950,77 @@
         "candidate_font_3": "Octin Vintage",
         "candidate_font_4": "Bebas Neue",
         "candidate_font_5": "SF Collegiate"
+    },
+    {
+        "task_id": "577139",
+        "model_name": "gpt-4o-mini",
+        "candidate_font_1": "Didot",
+        "candidate_font_2": "Bodoni",
+        "candidate_font_3": "Playfair Display",
+        "candidate_font_4": "Cinzel",
+        "candidate_font_5": "Garamond"
+    },
+    {
+        "task_id": "577139",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Trajan",
+        "candidate_font_2": "Hadriano",
+        "candidate_font_3": "Perpetua Titling",
+        "candidate_font_4": "Augustus",
+        "candidate_font_5": ""
+    },
+    {
+        "task_id": "573204",
+        "model_name": "gpt-4o-mini",
+        "candidate_font_1": "Kawaii Font",
+        "candidate_font_2": "Yuki",
+        "candidate_font_3": "Lemon Milk",
+        "candidate_font_4": "Gotham Rounded",
+        "candidate_font_5": "Noto Sans JP"
+    },
+    {
+        "task_id": "573204",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "M Plus Rounded 1c",
+        "candidate_font_2": "Lemon Tuesday",
+        "candidate_font_3": "Antonio",
+        "candidate_font_4": "Quicksand",
+        "candidate_font_5": "Bebas Neue"
+    },
+    {
+        "task_id": "577141",
+        "model_name": "gpt-4o-mini",
+        "candidate_font_1": "Brush Script",
+        "candidate_font_2": "Kraftwerk",
+        "candidate_font_3": "Street Brush",
+        "candidate_font_4": "Graffiti Font",
+        "candidate_font_5": "Skate Brush"
+    },
+    {
+        "task_id": "577141",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Street Wars",
+        "candidate_font_2": "Brooklyn Kid",
+        "candidate_font_3": "Blacklisted",
+        "candidate_font_4": "Mostwasted",
+        "candidate_font_5": "Vandalism"
+    },
+    {
+        "task_id": "577140",
+        "model_name": "gpt-4o-mini",
+        "candidate_font_1": "Bebas Neue",
+        "candidate_font_2": "Impact",
+        "candidate_font_3": "Oswald",
+        "candidate_font_4": "Anton",
+        "candidate_font_5": ""
+    },
+    {
+        "task_id": "577140",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Bignord Italic",
+        "candidate_font_2": "Agency FB Extended Italic",
+        "candidate_font_3": "Eurostile Extended Oblique",
+        "candidate_font_4": "Tactic Sans Compressed Italic",
+        "candidate_font_5": "Road Rage"
     }
 ]
