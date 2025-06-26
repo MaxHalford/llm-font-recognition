@@ -2205,7 +2205,7 @@
         "title": "can someone help with this one?",
         "instructions": null,
         "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1219504.png",
-        "identified_font": null
+        "identified_font": "Knockout No. 27 Junior Bantamweight"
     },
     {
         "task_id": "577135",
@@ -2229,6 +2229,38 @@
         "title": "INK",
         "instructions": "HELP PLEASE",
         "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1219494.jpg",
+        "identified_font": null
+    },
+    {
+        "task_id": "577139",
+        "url": "https://www.dafont.com/forum/read/577139/state-bar-of-nevada",
+        "title": "State Bar of Nevada",
+        "instructions": null,
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1219518.jpg",
+        "identified_font": null
+    },
+    {
+        "task_id": "573204",
+        "url": "https://www.dafont.com/forum/read/573204/what-are-these-fonts",
+        "title": "What are these fonts",
+        "instructions": "Japanese and romanization fonts pls",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1211448.jpg",
+        "identified_font": null
+    },
+    {
+        "task_id": "577141",
+        "url": "https://www.dafont.com/forum/read/577141/name-font",
+        "title": "name font ?",
+        "instructions": null,
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1219521.png",
+        "identified_font": null
+    },
+    {
+        "task_id": "577140",
+        "url": "https://www.dafont.com/forum/read/577140/k-motion",
+        "title": "K-Motion",
+        "instructions": "Mainly the top and bottom black font.",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1219519.png",
         "identified_font": null
     }
 ]
