@@ -1613,7 +1613,7 @@
         "title": "font ID",
         "instructions": "Does anyone know what font this is?",
         "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1219363.png?1",
-        "identified_font": null
+        "identified_font": "Pincoya Black"
     },
     {
         "task_id": "577070",
@@ -2429,6 +2429,38 @@
         "title": "Hello.. Can somebody help me identify this font. Thank you.",
         "instructions": null,
         "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1219569.jpg",
+        "identified_font": null
+    },
+    {
+        "task_id": "577176",
+        "url": "https://www.dafont.com/forum/read/577176/prospair",
+        "title": "Prospair",
+        "instructions": null,
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1219586.png",
+        "identified_font": null
+    },
+    {
+        "task_id": "577174",
+        "url": "https://www.dafont.com/forum/read/577174/fonte-urgenteeeeeeeeeeeeeeeeeeeeeeeeeeeeee",
+        "title": "Fonte URGENTEEEEEEEEEEEEEEEEEEEEEEEEEEEEEE...!!!",
+        "instructions": "\"MARCELA REIS\" \"MR\" fonteeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1219582.jpg",
+        "identified_font": null
+    },
+    {
+        "task_id": "577173",
+        "url": "https://www.dafont.com/forum/read/577173/aguem-conhece-uma-fonte-parecida-com-o-fileteado-portenho",
+        "title": "Agu\u00e9m conhece uma fonte parecida com o fileteado portenho?",
+        "instructions": "Algu\u00e9m conhece uma fonte parecida com o fileteado portenho, quero uma fonte parecida com as das embarca\u00e7\u00f5es populares do norte do Brasil.",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1219581.jpg",
+        "identified_font": null
+    },
+    {
+        "task_id": "577170",
+        "url": "https://www.dafont.com/forum/read/577170/cual-es-la-fuente-de-cordoba",
+        "title": "CUAL ES LA FUENTE DE CORDOBA",
+        "instructions": null,
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1219577.jpg",
         "identified_font": null
     }
 ]
