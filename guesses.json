@@ -3220,5 +3220,77 @@
         "candidate_font_3": "College Block",
         "candidate_font_4": "SF Collegiate",
         "candidate_font_5": "Jersey M54"
+    },
+    {
+        "task_id": "577167",
+        "model_name": "gpt-4o-mini",
+        "candidate_font_1": "Bebas Neue",
+        "candidate_font_2": "Montserrat",
+        "candidate_font_3": "Oswald",
+        "candidate_font_4": "Raleway",
+        "candidate_font_5": ""
+    },
+    {
+        "task_id": "577167",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Sofia Pro Soft Bold",
+        "candidate_font_2": "Codec Pro Rounded Heavy",
+        "candidate_font_3": "Uni Sans Rounded Heavy",
+        "candidate_font_4": "Gotham Rounded Bold",
+        "candidate_font_5": "Museo Sans Rounded 900"
+    },
+    {
+        "task_id": "577166",
+        "model_name": "gpt-4o-mini",
+        "candidate_font_1": "Bebas Neue",
+        "candidate_font_2": "Impact",
+        "candidate_font_3": "Anton",
+        "candidate_font_4": "Oswald",
+        "candidate_font_5": "Black Han Sans"
+    },
+    {
+        "task_id": "577166",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Tungsten Black",
+        "candidate_font_2": "Agency FB Black",
+        "candidate_font_3": "Knockout",
+        "candidate_font_4": "Akzidenz-Grotesk Condensed Bold",
+        "candidate_font_5": "Franklin Gothic Heavy"
+    },
+    {
+        "task_id": "577168",
+        "model_name": "gpt-4o-mini",
+        "candidate_font_1": "Dancing Script",
+        "candidate_font_2": "Pacifico",
+        "candidate_font_3": "Great Vibes",
+        "candidate_font_4": "Satisfy",
+        "candidate_font_5": "Lobster"
+    },
+    {
+        "task_id": "577168",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Roadie",
+        "candidate_font_2": "Bayshore",
+        "candidate_font_3": "Quentin",
+        "candidate_font_4": "Lemon Tuesday",
+        "candidate_font_5": "Brush Script MT"
+    },
+    {
+        "task_id": "577164",
+        "model_name": "gpt-4o-mini",
+        "candidate_font_1": "Varsity",
+        "candidate_font_2": "Impact",
+        "candidate_font_3": "Blockletter",
+        "candidate_font_4": "Alumni",
+        "candidate_font_5": "College"
+    },
+    {
+        "task_id": "577164",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Athletic",
+        "candidate_font_2": "SF Collegiate Solid",
+        "candidate_font_3": "College Block",
+        "candidate_font_4": "Jersey M54",
+        "candidate_font_5": "Impact"
     }
 ]
