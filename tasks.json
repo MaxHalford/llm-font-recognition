@@ -613,7 +613,7 @@
         "title": "PLEASE HELP ME FIND THIS NO ONE HAS BEEN ABLE TO FIND THIS",
         "instructions": "Font name? Thanks",
         "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1219200.png",
-        "identified_font": null
+        "identified_font": "Love House"
     },
     {
         "task_id": "576852",
@@ -2421,7 +2421,7 @@
         "title": "Font name please! TIA",
         "instructions": null,
         "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1219573.png",
-        "identified_font": null
+        "identified_font": "Aventine"
     },
     {
         "task_id": "577164",
@@ -2517,7 +2517,7 @@
         "title": "do someone know this font?",
         "instructions": null,
         "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1219590.png",
-        "identified_font": null
+        "identified_font": "Whatever it takes"
     },
     {
         "task_id": "577179",
@@ -2533,6 +2533,134 @@
         "title": "strength",
         "instructions": "help please",
         "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1219588.jpg",
+        "identified_font": null
+    },
+    {
+        "task_id": "577202",
+        "url": "https://www.dafont.com/forum/read/577202/alguien-sabe-cual-es",
+        "title": "alguien sabe cual es",
+        "instructions": "podeis ayudarme a encontrar algo parecido",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1219627.png",
+        "identified_font": "Damages"
+    },
+    {
+        "task_id": "577206",
+        "url": "https://www.dafont.com/forum/read/577206/legend-font-please",
+        "title": "LEGEND Font please",
+        "instructions": "LEGEND Font please",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1219637.jpg",
+        "identified_font": null
+    },
+    {
+        "task_id": "577205",
+        "url": "https://www.dafont.com/forum/read/577205/1978-font-please",
+        "title": "1978 Font please",
+        "instructions": "1978 Font please or similar",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1219636.jpg",
+        "identified_font": null
+    },
+    {
+        "task_id": "577204",
+        "url": "https://www.dafont.com/forum/read/577204/25",
+        "title": "25",
+        "instructions": "HELP PLEASE",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1219635.jpg",
+        "identified_font": null
+    },
+    {
+        "task_id": "577201",
+        "url": "https://www.dafont.com/forum/read/577201/keira-s",
+        "title": "Keira's",
+        "instructions": "Help Please!",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1219626.png",
+        "identified_font": "Apricots"
+    },
+    {
+        "task_id": "577191",
+        "url": "https://www.dafont.com/forum/read/577191/what-are-these-two-fonts",
+        "title": "what are these two fonts?",
+        "instructions": "my girlfriend loves this shirt so I'm trying to recreate it for her, any help identifying the \"explore\" and \"minnesota\" fonts? (the latter which definitely seems skewed height wise) THANK YOU SO MUCH!",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1219610.jpg?1",
+        "identified_font": "DreamerOne"
+    },
+    {
+        "task_id": "577193",
+        "url": "https://www.dafont.com/forum/read/577193/fonte-do-cd-mara-maravilha-para-os-pequeninos-vol-4",
+        "title": "Fonte do CD Mara Maravilha Para os Pequeninos Vol. 4",
+        "instructions": "Algu\u00e9m sabe qual \u00e9 a fonte usada nos nomes \"Mara Maravilha\" e \"Para os Pequeninos\"?",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1219617.jpg",
+        "identified_font": "Inkburrow"
+    },
+    {
+        "task_id": "577203",
+        "url": "https://www.dafont.com/forum/read/577203/16",
+        "title": "16",
+        "instructions": "Please help!",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1219631.png",
+        "identified_font": null
+    },
+    {
+        "task_id": "543355",
+        "url": "https://www.dafont.com/forum/read/543355/kayla",
+        "title": "KAYLA",
+        "instructions": null,
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/1/1148557.png",
+        "identified_font": "Bandung"
+    },
+    {
+        "task_id": "577200",
+        "url": "https://www.dafont.com/forum/read/577200/fonte-do-cd-mara-maravilha-para-os-pequeninos-vol-3",
+        "title": "Fonte do CD Mara Maravilha Para os Pequeninos Vol. 3",
+        "instructions": "Algu\u00e9m sabe qual \u00e9 a fonte usada nos nomes \"Mara Maravilha\", \"Para os Pequeninos\" e \"Vol. 3\"?",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1219625.jpg",
+        "identified_font": null
+    },
+    {
+        "task_id": "577199",
+        "url": "https://www.dafont.com/forum/read/577199/cabot-circus-logo-2008-2017",
+        "title": "cabot circus logo 2008-2017?",
+        "instructions": null,
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1219624.png",
+        "identified_font": null
+    },
+    {
+        "task_id": "577194",
+        "url": "https://www.dafont.com/forum/read/577194/fonte-do-cd-mara-maravilha-reluz",
+        "title": "Fonte do CD Mara Maravilha Reluz",
+        "instructions": "Algu\u00e9m sabe qual \u00e9 a fonte usada nos nomes \"Mara Maravilha\" e \"Reluz\"?",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1219618.jpg",
+        "identified_font": null
+    },
+    {
+        "task_id": "577190",
+        "url": "https://www.dafont.com/forum/read/577190/font-name-please",
+        "title": "Font Name Please",
+        "instructions": "Anyone happen to know this one",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1219609.jpg",
+        "identified_font": null
+    },
+    {
+        "task_id": "577192",
+        "url": "https://www.dafont.com/forum/read/577192/someone-who-knows-this-font",
+        "title": "Someone who knows this font",
+        "instructions": "Especially with the kind of j in capital letters",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1219612.jpg",
+        "identified_font": null
+    },
+    {
+        "task_id": "577187",
+        "url": "https://www.dafont.com/forum/read/577187/que-font-e-esta",
+        "title": "Que font \u00e9 esta?",
+        "instructions": "Preciso saber urgentemente",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1219605.png",
+        "identified_font": null
+    },
+    {
+        "task_id": "577186",
+        "url": "https://www.dafont.com/forum/read/577186/rise-of-the-half-moon-google-doodle",
+        "title": "Rise of the Half Moon Google Doodle",
+        "instructions": "what the font?",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1219603.png",
         "identified_font": null
     }
 ]
