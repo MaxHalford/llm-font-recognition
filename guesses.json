@@ -3292,5 +3292,77 @@
         "candidate_font_3": "College Block",
         "candidate_font_4": "Jersey M54",
         "candidate_font_5": "Impact"
+    },
+    {
+        "task_id": "577176",
+        "model_name": "gpt-4o-mini",
+        "candidate_font_1": "Prospair",
+        "candidate_font_2": "Montserrat",
+        "candidate_font_3": "Avenir",
+        "candidate_font_4": "",
+        "candidate_font_5": ""
+    },
+    {
+        "task_id": "577176",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Prospair",
+        "candidate_font_2": "Roboto",
+        "candidate_font_3": "Open Sans",
+        "candidate_font_4": "Source Sans Pro",
+        "candidate_font_5": "Inter"
+    },
+    {
+        "task_id": "577174",
+        "model_name": "gpt-4o-mini",
+        "candidate_font_1": "Bebas Neue",
+        "candidate_font_2": "Montserrat",
+        "candidate_font_3": "Oswald",
+        "candidate_font_4": "Poppins",
+        "candidate_font_5": "Lato"
+    },
+    {
+        "task_id": "577174",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "TT Commons Black",
+        "candidate_font_2": "TT Hoves Black",
+        "candidate_font_3": "Montserrat Black",
+        "candidate_font_4": "Gilroy ExtraBold",
+        "candidate_font_5": "Proxima Nova Black"
+    },
+    {
+        "task_id": "577173",
+        "model_name": "gpt-4o-mini",
+        "candidate_font_1": "Belta",
+        "candidate_font_2": "Cinzel",
+        "candidate_font_3": "Lobster",
+        "candidate_font_4": "Satisfy",
+        "candidate_font_5": "Pacifico"
+    },
+    {
+        "task_id": "577173",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Fileteado",
+        "candidate_font_2": "Angilla Tattoo",
+        "candidate_font_3": "Bloodsport",
+        "candidate_font_4": "Mexican Pride",
+        "candidate_font_5": "Royal Flush"
+    },
+    {
+        "task_id": "577170",
+        "model_name": "gpt-4o-mini",
+        "candidate_font_1": "Race Font",
+        "candidate_font_2": "Futura Condensed",
+        "candidate_font_3": "Eurostile",
+        "candidate_font_4": "Bebas Neue",
+        "candidate_font_5": ""
+    },
+    {
+        "task_id": "577170",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Speed Racer",
+        "candidate_font_2": "Hyperspace",
+        "candidate_font_3": "Red October",
+        "candidate_font_4": "Gunship",
+        "candidate_font_5": "Digital Dismay"
     }
 ]
