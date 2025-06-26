@@ -3364,5 +3364,131 @@
         "candidate_font_3": "Red October",
         "candidate_font_4": "Gunship",
         "candidate_font_5": "Digital Dismay"
+    },
+    {
+        "task_id": "565885",
+        "model_name": "gpt-4o-mini",
+        "candidate_font_1": "Superman Pro",
+        "candidate_font_2": "BadaBoom",
+        "candidate_font_3": "Comic Sans MS",
+        "candidate_font_4": "Arial Black",
+        "candidate_font_5": ""
+    },
+    {
+        "task_id": "565885",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Bank Gothic Bold Condensed",
+        "candidate_font_2": "Square 721 Std Bold Condensed",
+        "candidate_font_3": "Trade Gothic Condensed No. 18",
+        "candidate_font_4": "Agency FB Bold",
+        "candidate_font_5": "Microgramma D Extended Bold"
+    },
+    {
+        "task_id": "577185",
+        "model_name": "gpt-4o-mini",
+        "candidate_font_1": "Avenir Next",
+        "candidate_font_2": "Eurostile",
+        "candidate_font_3": "Futura",
+        "candidate_font_4": "Helvetica Neue",
+        "candidate_font_5": "Roboto"
+    },
+    {
+        "task_id": "577185",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Gilroy Black Rounded",
+        "candidate_font_2": "Gotham Rounded Bold Condensed",
+        "candidate_font_3": "",
+        "candidate_font_4": "",
+        "candidate_font_5": ""
+    },
+    {
+        "task_id": "577182",
+        "model_name": "gpt-4o-mini",
+        "candidate_font_1": "Bebas Neue",
+        "candidate_font_2": "Oswald",
+        "candidate_font_3": "Montserrat",
+        "candidate_font_4": "Raleway",
+        "candidate_font_5": ""
+    },
+    {
+        "task_id": "577182",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Akzidenz-Grotesk ExtraBold Condensed",
+        "candidate_font_2": "Trade Gothic Bold Condensed No. 20",
+        "candidate_font_3": "Montserrat Light Italic",
+        "candidate_font_4": "Arial Italic",
+        "candidate_font_5": "Open Sans Italic"
+    },
+    {
+        "task_id": "577181",
+        "model_name": "gpt-4o-mini",
+        "candidate_font_1": "Bebas Neue",
+        "candidate_font_2": "Oswald",
+        "candidate_font_3": "Impact",
+        "candidate_font_4": "League Gothic",
+        "candidate_font_5": ""
+    },
+    {
+        "task_id": "577181",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Big Noodle Titling",
+        "candidate_font_2": "Akira Expanded",
+        "candidate_font_3": "Bebas Neue",
+        "candidate_font_4": "Oswald Bold",
+        "candidate_font_5": "Impact"
+    },
+    {
+        "task_id": "577180",
+        "model_name": "gpt-4o-mini",
+        "candidate_font_1": "Dancing Script",
+        "candidate_font_2": "Patrick Hand",
+        "candidate_font_3": "Caveat",
+        "candidate_font_4": "Comic Sans MS",
+        "candidate_font_5": "Droid Sans"
+    },
+    {
+        "task_id": "577180",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Adventure Time",
+        "candidate_font_2": "Hanzel Extended",
+        "candidate_font_3": "Burbank Big Condensed",
+        "candidate_font_4": "Penmanship Print",
+        "candidate_font_5": "Marker Felt"
+    },
+    {
+        "task_id": "577179",
+        "model_name": "gpt-4o-mini",
+        "candidate_font_1": "Blackletter",
+        "candidate_font_2": "Celtic",
+        "candidate_font_3": "Gothic",
+        "candidate_font_4": "Heavy Metal",
+        "candidate_font_5": "Horror"
+    },
+    {
+        "task_id": "577179",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Death Rattle",
+        "candidate_font_2": "Vermin Vibes V",
+        "candidate_font_3": "Metal Lord",
+        "candidate_font_4": "Satanas",
+        "candidate_font_5": "Agrippa"
+    },
+    {
+        "task_id": "577178",
+        "model_name": "gpt-4o-mini",
+        "candidate_font_1": "Bebas Neue",
+        "candidate_font_2": "Anton",
+        "candidate_font_3": "Oswald",
+        "candidate_font_4": "Impact",
+        "candidate_font_5": "Trade Gothic"
+    },
+    {
+        "task_id": "577178",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Houston Sports",
+        "candidate_font_2": "Headliner No. 45",
+        "candidate_font_3": "October Crow",
+        "candidate_font_4": "SF Sports Night",
+        "candidate_font_5": "Bebas Neue"
     }
 ]
