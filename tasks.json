@@ -2277,7 +2277,7 @@
         "title": "BLACKPINK",
         "instructions": null,
         "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1219549.jpg",
-        "identified_font": null
+        "identified_font": "Kirkwood Slab"
     },
     {
         "task_id": "577149",
@@ -2325,6 +2325,30 @@
         "title": "Script Font Name ? R & H",
         "instructions": "Please help me",
         "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1219530.png?1",
+        "identified_font": null
+    },
+    {
+        "task_id": "577157",
+        "url": "https://www.dafont.com/forum/read/577157/font-name-pls-thanks",
+        "title": "Font name pls? Thanks!",
+        "instructions": null,
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1219556.png?1",
+        "identified_font": "Cantata One"
+    },
+    {
+        "task_id": "577156",
+        "url": "https://www.dafont.com/forum/read/577156/hi",
+        "title": "hi",
+        "instructions": "please help me with this font",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1219555.png?1",
+        "identified_font": null
+    },
+    {
+        "task_id": "577154",
+        "url": "https://www.dafont.com/forum/read/577154/please-help",
+        "title": "Please help",
+        "instructions": "Hi everyone ! please help to identify this type , thanks",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1219551.png",
         "identified_font": null
     }
 ]
