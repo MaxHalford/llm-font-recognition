@@ -2716,8 +2716,8 @@
         "url": "https://www.dafont.com/forum/read/577214/font-name",
         "title": "Font name?",
         "instructions": "Fonts name, please",
-        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1219667.jpg",
-        "identified_font": null
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1219667.png?1",
+        "identified_font": "Plak Com Black Extra Condensed"
     },
     {
         "task_id": "577212",
@@ -2748,15 +2748,15 @@
         "url": "https://www.dafont.com/forum/read/577218/que-fuente-es-esta",
         "title": "QUE FUENTE ES ESTA",
         "instructions": null,
-        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1219673.png",
-        "identified_font": null
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1219673.png?1",
+        "identified_font": "Magistral"
     },
     {
         "task_id": "577217",
         "url": "https://www.dafont.com/forum/read/577217/what-name-of-dirty-work-font-please",
         "title": "what name of dirty work font please",
         "instructions": null,
-        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1219672.jpg",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1219672.png?1",
         "identified_font": null
     },
     {
@@ -2774,5 +2774,45 @@
         "instructions": "Eu vejo muitos youtubers usando tanto em thumb quanto em video e eu queria usar",
         "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1219669.png",
         "identified_font": null
+    },
+    {
+        "task_id": "577221",
+        "url": "https://www.dafont.com/forum/read/577221/wwf-wrestlemania-2000-font-name",
+        "title": "WWF WrestleMania 2000 font name ?",
+        "instructions": null,
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1219679.jpg",
+        "identified_font": "Bank Gothic"
+    },
+    {
+        "task_id": "577224",
+        "url": "https://www.dafont.com/forum/read/577224/wwf-backlash-1999-font-name",
+        "title": "WWF Backlash 1999 font name ?",
+        "instructions": null,
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1219685.jpg",
+        "identified_font": null
+    },
+    {
+        "task_id": "577223",
+        "url": "https://www.dafont.com/forum/read/577223/wwf-unforgiven-1998-font-name",
+        "title": "WWF Unforgiven 1998 font name ?",
+        "instructions": null,
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1219684.jpg",
+        "identified_font": null
+    },
+    {
+        "task_id": "577222",
+        "url": "https://www.dafont.com/forum/read/577222/what-font-is-this-tomy-logo",
+        "title": "What font is this?: Tomy logo",
+        "instructions": "Tomy logo in 1981 from Japan.",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1219681.png",
+        "identified_font": "Frankfurter"
+    },
+    {
+        "task_id": "577220",
+        "url": "https://www.dafont.com/forum/read/577220/help-me-plsss",
+        "title": "Help me ,plsss",
+        "instructions": null,
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1219675.png?1",
+        "identified_font": "Bamboozle"
     }
 ]
