@@ -3868,5 +3868,77 @@
         "candidate_font_3": "Action Is NF",
         "candidate_font_4": "SF Sports Night Italic",
         "candidate_font_5": "Beep Beep Italic"
+    },
+    {
+        "task_id": "577218",
+        "model_name": "gpt-4o-mini",
+        "candidate_font_1": "Roboto",
+        "candidate_font_2": "Futura",
+        "candidate_font_3": "Avenir Next",
+        "candidate_font_4": "Exo 2",
+        "candidate_font_5": "Montserrat"
+    },
+    {
+        "task_id": "577218",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Exo 2",
+        "candidate_font_2": "Titillium Web",
+        "candidate_font_3": "Orbitron",
+        "candidate_font_4": "Qanelas",
+        "candidate_font_5": "Metropolis"
+    },
+    {
+        "task_id": "577217",
+        "model_name": "gpt-4o-mini",
+        "candidate_font_1": "Dirty Work",
+        "candidate_font_2": "Western Style Font",
+        "candidate_font_3": "Grunge Font",
+        "candidate_font_4": "Retro Serif Font",
+        "candidate_font_5": ""
+    },
+    {
+        "task_id": "577217",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Rosewood Std",
+        "candidate_font_2": "Mesquite Std",
+        "candidate_font_3": "Wood Plaque",
+        "candidate_font_4": "Rio Grande",
+        "candidate_font_5": "Playbill"
+    },
+    {
+        "task_id": "577216",
+        "model_name": "gpt-4o-mini",
+        "candidate_font_1": "Bloodlust",
+        "candidate_font_2": "Creepster",
+        "candidate_font_3": "Blackadder ITC",
+        "candidate_font_4": "Freakshow",
+        "candidate_font_5": "Zombie Holocaust"
+    },
+    {
+        "task_id": "577216",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Blood Lust",
+        "candidate_font_2": "YouMurderer",
+        "candidate_font_3": "Xeron",
+        "candidate_font_4": "Evil Dead",
+        "candidate_font_5": "Feast of Flesh"
+    },
+    {
+        "task_id": "577215",
+        "model_name": "gpt-4o-mini",
+        "candidate_font_1": "Bebas Neue",
+        "candidate_font_2": "Impact",
+        "candidate_font_3": "Luckiest Guy",
+        "candidate_font_4": "Anton",
+        "candidate_font_5": "Oswald"
+    },
+    {
+        "task_id": "577215",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Grobold",
+        "candidate_font_2": "Luckiest Guy",
+        "candidate_font_3": "Bangers",
+        "candidate_font_4": "Lilita One",
+        "candidate_font_5": "Fredoka One"
     }
 ]
