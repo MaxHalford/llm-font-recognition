@@ -2973,7 +2973,7 @@
         "title": "plss",
         "instructions": null,
         "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1219732.jpg",
-        "identified_font": null
+        "identified_font": "THECactus"
     },
     {
         "task_id": "577239",
@@ -2981,6 +2981,70 @@
         "title": "plss",
         "instructions": null,
         "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1219731.jpg",
+        "identified_font": null
+    },
+    {
+        "task_id": "577253",
+        "url": "https://www.dafont.com/forum/read/577253/find-this-font",
+        "title": "Find This Font",
+        "instructions": "What Name of Font is Supplemental Features?",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1219764.png",
+        "identified_font": null
+    },
+    {
+        "task_id": "577252",
+        "url": "https://www.dafont.com/forum/read/577252/font",
+        "title": "Font?",
+        "instructions": null,
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1219755.jpg",
+        "identified_font": null
+    },
+    {
+        "task_id": "577251",
+        "url": "https://www.dafont.com/forum/read/577251/help-font-please",
+        "title": "HELP!!!!! FONT PLEASE",
+        "instructions": null,
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1219754.png?1",
+        "identified_font": "Ubuntu"
+    },
+    {
+        "task_id": "577249",
+        "url": "https://www.dafont.com/forum/read/577249/help-font-please",
+        "title": "HELP!!!!! FONT PLEASE",
+        "instructions": null,
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1219752.jpg",
+        "identified_font": null
+    },
+    {
+        "task_id": "577248",
+        "url": "https://www.dafont.com/forum/read/577248/please",
+        "title": "Please",
+        "instructions": null,
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1219750.png",
+        "identified_font": null
+    },
+    {
+        "task_id": "577247",
+        "url": "https://www.dafont.com/forum/read/577247/covington-latin-school",
+        "title": "Covington Latin School",
+        "instructions": null,
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1219749.jpg",
+        "identified_font": null
+    },
+    {
+        "task_id": "577246",
+        "url": "https://www.dafont.com/forum/read/577246/font-name",
+        "title": "Font Name?",
+        "instructions": null,
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1219747.png",
+        "identified_font": null
+    },
+    {
+        "task_id": "577245",
+        "url": "https://www.dafont.com/forum/read/577245/does-anyone-know-this-font",
+        "title": "does anyone know this font?",
+        "instructions": null,
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1219746.png",
         "identified_font": null
     }
 ]
