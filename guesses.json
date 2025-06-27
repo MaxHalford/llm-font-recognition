@@ -3940,5 +3940,41 @@
         "candidate_font_3": "Bangers",
         "candidate_font_4": "Lilita One",
         "candidate_font_5": "Fredoka One"
+    },
+    {
+        "task_id": "577224",
+        "model_name": "gpt-4o-mini",
+        "candidate_font_1": "Grunge",
+        "candidate_font_2": "Distressed",
+        "candidate_font_3": "Slab Serif",
+        "candidate_font_4": "Typewriter",
+        "candidate_font_5": ""
+    },
+    {
+        "task_id": "577224",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Crackhouse",
+        "candidate_font_2": "Broken Planit",
+        "candidate_font_3": "Rustler Barstool",
+        "candidate_font_4": "Shredded",
+        "candidate_font_5": "Grunge Is Dead"
+    },
+    {
+        "task_id": "577223",
+        "model_name": "gpt-4o-mini",
+        "candidate_font_1": "Defused",
+        "candidate_font_2": "Blackletter",
+        "candidate_font_3": "Mistral",
+        "candidate_font_4": "Trash",
+        "candidate_font_5": "Cyrillic"
+    },
+    {
+        "task_id": "577223",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Metal Lord",
+        "candidate_font_2": "Smackdown",
+        "candidate_font_3": "Brute Force",
+        "candidate_font_4": "Headbanger",
+        "candidate_font_5": "Deathrattle"
     }
 ]
