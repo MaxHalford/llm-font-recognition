@@ -2509,7 +2509,7 @@
         "title": "EXITO FONT?",
         "instructions": null,
         "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1219592.png",
-        "identified_font": null
+        "identified_font": "Armada"
     },
     {
         "task_id": "577180",
@@ -2644,8 +2644,8 @@
         "url": "https://www.dafont.com/forum/read/577192/someone-who-knows-this-font",
         "title": "Someone who knows this font",
         "instructions": "Especially with the kind of j in capital letters",
-        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1219612.jpg",
-        "identified_font": null
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1219612.png?2",
+        "identified_font": "Open Sans ExtraBold"
     },
     {
         "task_id": "577187",
@@ -2814,5 +2814,29 @@
         "instructions": null,
         "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1219675.png?1",
         "identified_font": "Bamboozle"
+    },
+    {
+        "task_id": "577227",
+        "url": "https://www.dafont.com/forum/read/577227/umbrella-corporation-re-7-font",
+        "title": "Umbrella Corporation RE 7 font",
+        "instructions": "What kind of font is this?",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1219692.jpg",
+        "identified_font": null
+    },
+    {
+        "task_id": "577228",
+        "url": "https://www.dafont.com/forum/read/577228/what-this-font",
+        "title": "What this font?",
+        "instructions": "Please, does anyone know the name of this font that is written \"HBSOLUTT\"? Thanks",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1219693.jpg",
+        "identified_font": null
+    },
+    {
+        "task_id": "577226",
+        "url": "https://www.dafont.com/forum/read/577226/font-denim-please",
+        "title": "Font DENIM? PLEASE",
+        "instructions": null,
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1219689.jpg",
+        "identified_font": null
     }
 ]
