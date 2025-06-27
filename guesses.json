@@ -4174,5 +4174,113 @@
         "candidate_font_3": "Quicksand",
         "candidate_font_4": "Nunito",
         "candidate_font_5": "Gotham Rounded"
+    },
+    {
+        "task_id": "468356",
+        "model_name": "gpt-4o-mini",
+        "candidate_font_1": "Care Bears",
+        "candidate_font_2": "Bubblegum Sans",
+        "candidate_font_3": "Kawaii",
+        "candidate_font_4": "Doodle",
+        "candidate_font_5": "Comic Sans MS"
+    },
+    {
+        "task_id": "468356",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Porky's",
+        "candidate_font_2": "Puffy Stuff",
+        "candidate_font_3": "Chewy",
+        "candidate_font_4": "Bangers",
+        "candidate_font_5": "Splat"
+    },
+    {
+        "task_id": "577244",
+        "model_name": "gpt-4o-mini",
+        "candidate_font_1": "Aldrich",
+        "candidate_font_2": "Bebas Neue",
+        "candidate_font_3": "Orbitron",
+        "candidate_font_4": "Russo One",
+        "candidate_font_5": ""
+    },
+    {
+        "task_id": "577244",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Optimus Princeps",
+        "candidate_font_2": "Agency FB",
+        "candidate_font_3": "Bank Gothic",
+        "candidate_font_4": "Bebas Neue",
+        "candidate_font_5": "Audiowide"
+    },
+    {
+        "task_id": "577242",
+        "model_name": "gpt-4o-mini",
+        "candidate_font_1": "Bebas Neue",
+        "candidate_font_2": "Montserrat",
+        "candidate_font_3": "Raleway",
+        "candidate_font_4": "Futura",
+        "candidate_font_5": ""
+    },
+    {
+        "task_id": "577242",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Bubble Gum",
+        "candidate_font_2": "Mochiy Pop One",
+        "candidate_font_3": "Open Sans",
+        "candidate_font_4": "Bubbleboddy",
+        "candidate_font_5": "Fredoka One"
+    },
+    {
+        "task_id": "446175",
+        "model_name": "gpt-4o-mini",
+        "candidate_font_1": "Comics Sans MS",
+        "candidate_font_2": "BubbleGum",
+        "candidate_font_3": "Funky Fresh",
+        "candidate_font_4": "Giddyup",
+        "candidate_font_5": "Party LET"
+    },
+    {
+        "task_id": "446175",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Cheesecake",
+        "candidate_font_2": "Fredoka One",
+        "candidate_font_3": "Luckiest Guy",
+        "candidate_font_4": "Burbank Big Condensed Black",
+        "candidate_font_5": "VAG Rounded Black"
+    },
+    {
+        "task_id": "577240",
+        "model_name": "gpt-4o-mini",
+        "candidate_font_1": "Bubblegum Sans",
+        "candidate_font_2": "Poppins",
+        "candidate_font_3": "Lobster",
+        "candidate_font_4": "Pacifico",
+        "candidate_font_5": ""
+    },
+    {
+        "task_id": "577240",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Luckiest Guy",
+        "candidate_font_2": "Bubblegum Sans",
+        "candidate_font_3": "Sniglet",
+        "candidate_font_4": "Fredoka One",
+        "candidate_font_5": "Chewy"
+    },
+    {
+        "task_id": "577239",
+        "model_name": "gpt-4o-mini",
+        "candidate_font_1": "Bebas Neue",
+        "candidate_font_2": "Raleway",
+        "candidate_font_3": "Anton",
+        "candidate_font_4": "Lobster",
+        "candidate_font_5": ""
+    },
+    {
+        "task_id": "577239",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "SDSamliphopangche",
+        "candidate_font_2": "Cafe24 Simple Happiness",
+        "candidate_font_3": "Nanum Square Round",
+        "candidate_font_4": "Gothic A1 Rounded",
+        "candidate_font_5": "Spoqa Han Sans Neo"
     }
 ]
