@@ -2293,7 +2293,7 @@
         "title": "Acad\u00eamicos da Grande Rio 2026 Carnaval Logos theme",
         "instructions": null,
         "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1219543.jpg",
-        "identified_font": null
+        "identified_font": "Owned"
     },
     {
         "task_id": "577146",
@@ -2540,7 +2540,7 @@
         "url": "https://www.dafont.com/forum/read/577202/alguien-sabe-cual-es",
         "title": "alguien sabe cual es",
         "instructions": "podeis ayudarme a encontrar algo parecido",
-        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1219627.png",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1219627.png?1",
         "identified_font": "Damages"
     },
     {
@@ -2556,8 +2556,8 @@
         "url": "https://www.dafont.com/forum/read/577205/1978-font-please",
         "title": "1978 Font please",
         "instructions": "1978 Font please or similar",
-        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1219636.jpg",
-        "identified_font": null
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1219636.png?2",
+        "identified_font": "Mexcellent"
     },
     {
         "task_id": "577204",
@@ -2597,7 +2597,7 @@
         "title": "16",
         "instructions": "Please help!",
         "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1219631.png",
-        "identified_font": null
+        "identified_font": "Bestlight  "
     },
     {
         "task_id": "543355",
@@ -2613,7 +2613,7 @@
         "title": "Fonte do CD Mara Maravilha Para os Pequeninos Vol. 3",
         "instructions": "Algu\u00e9m sabe qual \u00e9 a fonte usada nos nomes \"Mara Maravilha\", \"Para os Pequeninos\" e \"Vol. 3\"?",
         "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1219625.jpg",
-        "identified_font": null
+        "identified_font": "Notepad"
     },
     {
         "task_id": "577199",
@@ -2661,6 +2661,54 @@
         "title": "Rise of the Half Moon Google Doodle",
         "instructions": "what the font?",
         "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1219603.png",
+        "identified_font": null
+    },
+    {
+        "task_id": "577211",
+        "url": "https://www.dafont.com/forum/read/577211/any-help-guys-thanks-in-advance",
+        "title": "Any help guys? Thanks in advance",
+        "instructions": null,
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1219658.jpg",
+        "identified_font": null
+    },
+    {
+        "task_id": "577210",
+        "url": "https://www.dafont.com/forum/read/577210/does-anybody-know-what-font-is-this",
+        "title": "does anybody know what font is this?",
+        "instructions": null,
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1219657.png",
+        "identified_font": null
+    },
+    {
+        "task_id": "534696",
+        "url": "https://www.dafont.com/forum/read/534696/audioslave-band-logo",
+        "title": "Audioslave band logo",
+        "instructions": null,
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/1/1130371.jpg?1",
+        "identified_font": null
+    },
+    {
+        "task_id": "577209",
+        "url": "https://www.dafont.com/forum/read/577209/dirty-work-font-plss",
+        "title": "Dirty Work font plss",
+        "instructions": null,
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1219652.png",
+        "identified_font": null
+    },
+    {
+        "task_id": "570015",
+        "url": "https://www.dafont.com/forum/read/570015/kill-this-love-font",
+        "title": "kill this love font?",
+        "instructions": null,
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1205109.png",
+        "identified_font": null
+    },
+    {
+        "task_id": "577207",
+        "url": "https://www.dafont.com/forum/read/577207/comfort-keepers",
+        "title": "Comfort Keepers",
+        "instructions": "Not sure if this was modified",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1219640.png",
         "identified_font": null
     }
 ]
