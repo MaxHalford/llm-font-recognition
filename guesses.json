@@ -3688,5 +3688,113 @@
         "candidate_font_3": "Open Sans Light",
         "candidate_font_4": "Lato Light",
         "candidate_font_5": "Montserrat Light"
+    },
+    {
+        "task_id": "577211",
+        "model_name": "gpt-4o-mini",
+        "candidate_font_1": "Bebas Neue",
+        "candidate_font_2": "Impact",
+        "candidate_font_3": "Anton",
+        "candidate_font_4": "Montserrat",
+        "candidate_font_5": "Oswald"
+    },
+    {
+        "task_id": "577211",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Akzidenz-Grotesk BQ Std Bold Extended",
+        "candidate_font_2": "Neue Haas Grotesk Display Black",
+        "candidate_font_3": "Univers 85 Extra Black",
+        "candidate_font_4": "Nimbus Sans L Black Extended",
+        "candidate_font_5": "Graphik Black"
+    },
+    {
+        "task_id": "577210",
+        "model_name": "gpt-4o-mini",
+        "candidate_font_1": "Arial",
+        "candidate_font_2": "Helvetica",
+        "candidate_font_3": "Verdana",
+        "candidate_font_4": "Roboto",
+        "candidate_font_5": "Open Sans"
+    },
+    {
+        "task_id": "577210",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Montserrat Black",
+        "candidate_font_2": "Poppins Black",
+        "candidate_font_3": "League Spartan Black",
+        "candidate_font_4": "Lato Black",
+        "candidate_font_5": "Gotham Black"
+    },
+    {
+        "task_id": "534696",
+        "model_name": "gpt-4o-mini",
+        "candidate_font_1": "Avant Garde Gothic",
+        "candidate_font_2": "Eurostile",
+        "candidate_font_3": "Futura",
+        "candidate_font_4": "Bebas Neue",
+        "candidate_font_5": "Arial Black"
+    },
+    {
+        "task_id": "534696",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Agency FB Bold",
+        "candidate_font_2": "Futura Std Heavy",
+        "candidate_font_3": "Eurostile Bold",
+        "candidate_font_4": "Bank Gothic Medium",
+        "candidate_font_5": "DIN Next LT Pro Bold"
+    },
+    {
+        "task_id": "577209",
+        "model_name": "gpt-4o-mini",
+        "candidate_font_1": "Blackletter",
+        "candidate_font_2": "Gothic",
+        "candidate_font_3": "Cloister Black",
+        "candidate_font_4": "Fette Gotisch",
+        "candidate_font_5": "Old English Text"
+    },
+    {
+        "task_id": "577209",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Cloister Black",
+        "candidate_font_2": "Old English Text MT",
+        "candidate_font_3": "Fette Fraktur",
+        "candidate_font_4": "American Text",
+        "candidate_font_5": "California Goth"
+    },
+    {
+        "task_id": "570015",
+        "model_name": "gpt-4o-mini",
+        "candidate_font_1": "Bebas Neue",
+        "candidate_font_2": "Oswald",
+        "candidate_font_3": "Anton",
+        "candidate_font_4": "Impact",
+        "candidate_font_5": ""
+    },
+    {
+        "task_id": "570015",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Akzidenz-Grotesk Extrabold",
+        "candidate_font_2": "Montserrat Black",
+        "candidate_font_3": "Oswald Bold",
+        "candidate_font_4": "Impact",
+        "candidate_font_5": "Trade Gothic Bold Condensed No. 20"
+    },
+    {
+        "task_id": "577207",
+        "model_name": "gpt-4o-mini",
+        "candidate_font_1": "Helvetica Neue",
+        "candidate_font_2": "Arial",
+        "candidate_font_3": "Univers",
+        "candidate_font_4": "Futura",
+        "candidate_font_5": "Calibri"
+    },
+    {
+        "task_id": "577207",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Montserrat",
+        "candidate_font_2": "Metropolis",
+        "candidate_font_3": "Proxima Nova",
+        "candidate_font_4": "Gotham",
+        "candidate_font_5": "Avenir"
     }
 ]
