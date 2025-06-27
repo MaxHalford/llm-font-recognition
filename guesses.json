@@ -4282,5 +4282,131 @@
         "candidate_font_3": "Nanum Square Round",
         "candidate_font_4": "Gothic A1 Rounded",
         "candidate_font_5": "Spoqa Han Sans Neo"
+    },
+    {
+        "task_id": "577253",
+        "model_name": "gpt-4o-mini",
+        "candidate_font_1": "Impact",
+        "candidate_font_2": "Arial Bold",
+        "candidate_font_3": "Helvetica Bold",
+        "candidate_font_4": "Frank Ruhl Libre",
+        "candidate_font_5": "Futura Bold"
+    },
+    {
+        "task_id": "577253",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "VAG Rounded Bold",
+        "candidate_font_2": "Nunito Bold",
+        "candidate_font_3": "Quicksand Bold",
+        "candidate_font_4": "M PLUS Rounded 1c Bold",
+        "candidate_font_5": ""
+    },
+    {
+        "task_id": "577252",
+        "model_name": "gpt-4o-mini",
+        "candidate_font_1": "Lobster",
+        "candidate_font_2": "Great Vibes",
+        "candidate_font_3": "Pacifico",
+        "candidate_font_4": "Allura",
+        "candidate_font_5": "Dancing Script"
+    },
+    {
+        "task_id": "577252",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "The Sarcastic",
+        "candidate_font_2": "Better Together",
+        "candidate_font_3": "Southampton",
+        "candidate_font_4": "Magnolia Sky",
+        "candidate_font_5": "Hello Beautiful"
+    },
+    {
+        "task_id": "577249",
+        "model_name": "gpt-4o-mini",
+        "candidate_font_1": "Arial",
+        "candidate_font_2": "Helvetica",
+        "candidate_font_3": "Futura",
+        "candidate_font_4": "Roboto",
+        "candidate_font_5": ""
+    },
+    {
+        "task_id": "577249",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Montserrat Black",
+        "candidate_font_2": "Montserrat ExtraBold",
+        "candidate_font_3": "Montserrat Bold",
+        "candidate_font_4": "Montserrat Regular",
+        "candidate_font_5": "Open Sans Black"
+    },
+    {
+        "task_id": "577248",
+        "model_name": "gpt-4o-mini",
+        "candidate_font_1": "Great Vibes",
+        "candidate_font_2": "Alex Brush",
+        "candidate_font_3": "Allura",
+        "candidate_font_4": "Dancing Script",
+        "candidate_font_5": "Satisfy"
+    },
+    {
+        "task_id": "577248",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Blessed Angel",
+        "candidate_font_2": "Respective",
+        "candidate_font_3": "Brotherhood Script",
+        "candidate_font_4": "San Andreas",
+        "candidate_font_5": "La Paz"
+    },
+    {
+        "task_id": "577247",
+        "model_name": "gpt-4o-mini",
+        "candidate_font_1": "Trajan Pro",
+        "candidate_font_2": "Garamond",
+        "candidate_font_3": "Old English Text",
+        "candidate_font_4": "Cinzel",
+        "candidate_font_5": "Baskerville"
+    },
+    {
+        "task_id": "577247",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Trajan Pro",
+        "candidate_font_2": "Optimus Princeps",
+        "candidate_font_3": "Augustus",
+        "candidate_font_4": "Uncial",
+        "candidate_font_5": "Carolingia"
+    },
+    {
+        "task_id": "577246",
+        "model_name": "gpt-4o-mini",
+        "candidate_font_1": "Allura",
+        "candidate_font_2": "Great Vibes",
+        "candidate_font_3": "Dancing Script",
+        "candidate_font_4": "Pacifico",
+        "candidate_font_5": ""
+    },
+    {
+        "task_id": "577246",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Autumn Embrace",
+        "candidate_font_2": "Hello Beautiful",
+        "candidate_font_3": "Magnolia Sky",
+        "candidate_font_4": "Lovely Home",
+        "candidate_font_5": "The Secret"
+    },
+    {
+        "task_id": "577245",
+        "model_name": "gpt-4o-mini",
+        "candidate_font_1": "Montserrat",
+        "candidate_font_2": "Roboto",
+        "candidate_font_3": "Lato",
+        "candidate_font_4": "Open Sans",
+        "candidate_font_5": "Source Sans Pro"
+    },
+    {
+        "task_id": "577245",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Open Sans Italic",
+        "candidate_font_2": "Lato Italic",
+        "candidate_font_3": "Roboto Italic",
+        "candidate_font_4": "Calibri Italic",
+        "candidate_font_5": "Montserrat Italic"
     }
 ]
