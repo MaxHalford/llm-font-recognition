@@ -1605,7 +1605,7 @@
         "title": "font ID",
         "instructions": "Does anyone know what font this is?",
         "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1219364.png",
-        "identified_font": null
+        "identified_font": "Revamped"
     },
     {
         "task_id": "577072",
@@ -2925,6 +2925,62 @@
         "title": "can you help me find this kind of font used",
         "instructions": "i found it when using freepik, no info of font used",
         "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1218399.jpg",
+        "identified_font": null
+    },
+    {
+        "task_id": "468356",
+        "url": "https://www.dafont.com/forum/read/468356/new-care-bears-logo-font",
+        "title": "New Care Bears Logo Font",
+        "instructions": "Can someone identify which font they used for the new Care Bears logo?",
+        "img_url": "https://www.dafont.com/forum/attach/orig/9/9/998448.png?1",
+        "identified_font": null
+    },
+    {
+        "task_id": "577244",
+        "url": "https://www.dafont.com/forum/read/577244/font",
+        "title": "Font?",
+        "instructions": null,
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1219739.jpg",
+        "identified_font": null
+    },
+    {
+        "task_id": "577237",
+        "url": "https://www.dafont.com/forum/read/577237/two-fonts-im-looking-for",
+        "title": "TWO fonts im looking for.....",
+        "instructions": null,
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1219728.jpg",
+        "identified_font": "Lostar"
+    },
+    {
+        "task_id": "577242",
+        "url": "https://www.dafont.com/forum/read/577242/what-font-is-this",
+        "title": "what font is this?",
+        "instructions": null,
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1219736.jpg",
+        "identified_font": null
+    },
+    {
+        "task_id": "446175",
+        "url": "https://www.dafont.com/forum/read/446175/care-bears-unlock-the-magic-font",
+        "title": "Care Bears: Unlock The Magic Font",
+        "instructions": "Need the name of the font used for the Care Bear portion",
+        "img_url": "https://www.dafont.com/forum/attach/orig/9/5/954330.png",
+        "identified_font": null
+    },
+    {
+        "task_id": "577240",
+        "url": "https://www.dafont.com/forum/read/577240/plss",
+        "title": "plss",
+        "instructions": null,
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1219732.jpg",
+        "identified_font": null
+    },
+    {
+        "task_id": "577239",
+        "url": "https://www.dafont.com/forum/read/577239/plss",
+        "title": "plss",
+        "instructions": null,
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1219731.jpg",
         "identified_font": null
     }
 ]
