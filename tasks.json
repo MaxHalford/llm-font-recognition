@@ -2742,5 +2742,37 @@
         "instructions": null,
         "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1217948.png?1",
         "identified_font": null
+    },
+    {
+        "task_id": "577218",
+        "url": "https://www.dafont.com/forum/read/577218/que-fuente-es-esta",
+        "title": "QUE FUENTE ES ESTA",
+        "instructions": null,
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1219673.png",
+        "identified_font": null
+    },
+    {
+        "task_id": "577217",
+        "url": "https://www.dafont.com/forum/read/577217/what-name-of-dirty-work-font-please",
+        "title": "what name of dirty work font please",
+        "instructions": null,
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1219672.jpg",
+        "identified_font": null
+    },
+    {
+        "task_id": "577216",
+        "url": "https://www.dafont.com/forum/read/577216/huj",
+        "title": "huj",
+        "instructions": null,
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1219671.png",
+        "identified_font": null
+    },
+    {
+        "task_id": "577215",
+        "url": "https://www.dafont.com/forum/read/577215/alguem-sabe-que-fonte-e-essa",
+        "title": "Algu\u00e9m sabe que fonte \u00e9 essa?",
+        "instructions": "Eu vejo muitos youtubers usando tanto em thumb quanto em video e eu queria usar",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1219669.png",
+        "identified_font": null
     }
 ]
