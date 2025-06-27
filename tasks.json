@@ -2100,7 +2100,7 @@
         "url": "https://www.dafont.com/forum/read/577101/font-name",
         "title": "font name?",
         "instructions": null,
-        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1219437.png",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1219437.png?1",
         "identified_font": null
     },
     {
@@ -2701,7 +2701,7 @@
         "title": "kill this love font?",
         "instructions": null,
         "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1205109.png",
-        "identified_font": null
+        "identified_font": "Neue Helvetica 93 Extended Black"
     },
     {
         "task_id": "577207",
@@ -2741,7 +2741,7 @@
         "title": "Font for \"Different Heaven\" Please.",
         "instructions": null,
         "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1217948.png?1",
-        "identified_font": null
+        "identified_font": "Artegra"
     },
     {
         "task_id": "577218",
@@ -2757,7 +2757,7 @@
         "title": "what name of dirty work font please",
         "instructions": null,
         "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1219672.png?1",
-        "identified_font": null
+        "identified_font": "IFC Rail Road"
     },
     {
         "task_id": "577216",
@@ -2837,6 +2837,94 @@
         "title": "Font DENIM? PLEASE",
         "instructions": null,
         "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1219689.jpg",
+        "identified_font": null
+    },
+    {
+        "task_id": "577235",
+        "url": "https://www.dafont.com/forum/read/577235/que-fuente-es-esta",
+        "title": "QUE FUENTE ES ESTA",
+        "instructions": null,
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1219724.png",
+        "identified_font": null
+    },
+    {
+        "task_id": "577233",
+        "url": "https://www.dafont.com/forum/read/577233/strategy",
+        "title": "STRATEGY",
+        "instructions": null,
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1219713.png?1",
+        "identified_font": "Le Murmure"
+    },
+    {
+        "task_id": "307452",
+        "url": "https://www.dafont.com/forum/read/307452/samsung-font",
+        "title": "SAMSUNG FONT",
+        "instructions": "PLEASE I WANT SAMSUNG FONT",
+        "img_url": "https://www.dafont.com/forum/attach/orig/6/8/680084.png?1",
+        "identified_font": null
+    },
+    {
+        "task_id": "577234",
+        "url": "https://www.dafont.com/forum/read/577234/font-id-requested",
+        "title": "Font ID Requested",
+        "instructions": "Hello, Thank you, in advance, for any info regarding this font!",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1219715.png?1",
+        "identified_font": null
+    },
+    {
+        "task_id": "577232",
+        "url": "https://www.dafont.com/forum/read/577232/tiger-zinda-hai-movie-font-name",
+        "title": "Tiger Zinda Hai movie font name?",
+        "instructions": null,
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1219709.jpg",
+        "identified_font": "Capture it"
+    },
+    {
+        "task_id": "575982",
+        "url": "https://www.dafont.com/forum/read/575982/what-is-this-font",
+        "title": "What is this font?",
+        "instructions": "This is probably a japanese font like Kokuryu or Touryu.",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1216946.png?2",
+        "identified_font": null
+    },
+    {
+        "task_id": "577231",
+        "url": "https://www.dafont.com/forum/read/577231/raees-movie-font-name",
+        "title": "Raees movie font name?",
+        "instructions": null,
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1219708.png?1",
+        "identified_font": null
+    },
+    {
+        "task_id": "577230",
+        "url": "https://www.dafont.com/forum/read/577230/both-fonts",
+        "title": "both fonts",
+        "instructions": null,
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1219704.jpg",
+        "identified_font": null
+    },
+    {
+        "task_id": "576522",
+        "url": "https://www.dafont.com/forum/read/576522/alternate-sebastian-letters",
+        "title": "Alternate Sebastian letters?",
+        "instructions": "I've been using Sebastian Bold and other versions for recreational projects, and I've noticed that in the 70s, there was a version with different letters, and I've cone here to see if there's an available download for it. I've tried matcherators, but they only tell me the version I have. Here's a picture of the alternate letters, and what it looks like in the font I have as a reference. Thanks in advance to anyone with a response.",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1218104.png",
+        "identified_font": null
+    },
+    {
+        "task_id": "576630",
+        "url": "https://www.dafont.com/forum/read/576630/calligraphic-caps",
+        "title": "Calligraphic caps",
+        "instructions": null,
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1218337.png?1",
+        "identified_font": "Chippett"
+    },
+    {
+        "task_id": "576649",
+        "url": "https://www.dafont.com/forum/read/576649/can-you-help-me-find-this-kind-of-font-used",
+        "title": "can you help me find this kind of font used",
+        "instructions": "i found it when using freepik, no info of font used",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1218399.jpg",
         "identified_font": null
     }
 ]
