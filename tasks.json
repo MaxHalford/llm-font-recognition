@@ -2549,7 +2549,7 @@
         "title": "LEGEND Font please",
         "instructions": "LEGEND Font please",
         "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1219637.jpg",
-        "identified_font": null
+        "identified_font": "Cocogoose Narrows"
     },
     {
         "task_id": "577205",
@@ -2597,7 +2597,7 @@
         "title": "16",
         "instructions": "Please help!",
         "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1219631.png",
-        "identified_font": "Bestlight  "
+        "identified_font": "Bestlight"
     },
     {
         "task_id": "543355",
@@ -2677,7 +2677,7 @@
         "title": "does anybody know what font is this?",
         "instructions": null,
         "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1219657.png",
-        "identified_font": null
+        "identified_font": "Myriad"
     },
     {
         "task_id": "534696",
@@ -2709,6 +2709,38 @@
         "title": "Comfort Keepers",
         "instructions": "Not sure if this was modified",
         "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1219640.png",
+        "identified_font": null
+    },
+    {
+        "task_id": "577214",
+        "url": "https://www.dafont.com/forum/read/577214/font-name",
+        "title": "Font name?",
+        "instructions": "Fonts name, please",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1219667.jpg",
+        "identified_font": null
+    },
+    {
+        "task_id": "577212",
+        "url": "https://www.dafont.com/forum/read/577212/id-font",
+        "title": "ID FONT?",
+        "instructions": null,
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1219663.png",
+        "identified_font": null
+    },
+    {
+        "task_id": "577213",
+        "url": "https://www.dafont.com/forum/read/577213/font-name",
+        "title": "font name?",
+        "instructions": null,
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1219665.png",
+        "identified_font": null
+    },
+    {
+        "task_id": "576444",
+        "url": "https://www.dafont.com/forum/read/576444/font-for-different-heaven-please",
+        "title": "Font for \"Different Heaven\" Please.",
+        "instructions": null,
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1217948.png?1",
         "identified_font": null
     }
 ]
