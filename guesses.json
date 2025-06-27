@@ -3976,5 +3976,59 @@
         "candidate_font_3": "Brute Force",
         "candidate_font_4": "Headbanger",
         "candidate_font_5": "Deathrattle"
+    },
+    {
+        "task_id": "577227",
+        "model_name": "gpt-4o-mini",
+        "candidate_font_1": "Eurostyle",
+        "candidate_font_2": "DIN",
+        "candidate_font_3": "Futura",
+        "candidate_font_4": "Helvetica",
+        "candidate_font_5": ""
+    },
+    {
+        "task_id": "577227",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Bank Gothic",
+        "candidate_font_2": "Corporate S",
+        "candidate_font_3": "Agency FB",
+        "candidate_font_4": "Microgramma",
+        "candidate_font_5": "Eurostile"
+    },
+    {
+        "task_id": "577228",
+        "model_name": "gpt-4o-mini",
+        "candidate_font_1": "Bebas Neue",
+        "candidate_font_2": "Oswald",
+        "candidate_font_3": "Anton",
+        "candidate_font_4": "Impact",
+        "candidate_font_5": ""
+    },
+    {
+        "task_id": "577228",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Bloodsucker",
+        "candidate_font_2": "Brutal Attack",
+        "candidate_font_3": "Death Rattle",
+        "candidate_font_4": "Metal Mania",
+        "candidate_font_5": "Fear Factory"
+    },
+    {
+        "task_id": "577226",
+        "model_name": "gpt-4o-mini",
+        "candidate_font_1": "Bebas Neue",
+        "candidate_font_2": "Rockwell",
+        "candidate_font_3": "Bodoni",
+        "candidate_font_4": "Trade Gothic",
+        "candidate_font_5": "Raleway"
+    },
+    {
+        "task_id": "577226",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Compacta Bold",
+        "candidate_font_2": "Bebas Neue",
+        "candidate_font_3": "League Gothic",
+        "candidate_font_4": "Impact",
+        "candidate_font_5": "Anton"
     }
 ]
