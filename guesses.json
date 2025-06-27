@@ -3796,5 +3796,77 @@
         "candidate_font_3": "Proxima Nova",
         "candidate_font_4": "Gotham",
         "candidate_font_5": "Avenir"
+    },
+    {
+        "task_id": "577214",
+        "model_name": "gpt-4o-mini",
+        "candidate_font_1": "Resident Evil Font",
+        "candidate_font_2": "Exo",
+        "candidate_font_3": "Bebas Neue",
+        "candidate_font_4": "Impact",
+        "candidate_font_5": "Distorted Fonts"
+    },
+    {
+        "task_id": "577214",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Resident Evil by Jonathan S. Harris",
+        "candidate_font_2": "Requiem by Daniel Zadorozny",
+        "candidate_font_3": "Impact",
+        "candidate_font_4": "Headliner No. 45",
+        "candidate_font_5": "Compacta"
+    },
+    {
+        "task_id": "577212",
+        "model_name": "gpt-4o-mini",
+        "candidate_font_1": "Art Deco",
+        "candidate_font_2": "Futura",
+        "candidate_font_3": "Bodoni",
+        "candidate_font_4": "Nexa",
+        "candidate_font_5": ""
+    },
+    {
+        "task_id": "577212",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Radio Star",
+        "candidate_font_2": "Broadway",
+        "candidate_font_3": "ITC Grouch",
+        "candidate_font_4": "P22 Art Deco",
+        "candidate_font_5": "Empire"
+    },
+    {
+        "task_id": "577213",
+        "model_name": "gpt-4o-mini",
+        "candidate_font_1": "Lobster",
+        "candidate_font_2": "Great Vibes",
+        "candidate_font_3": "Dancing Script",
+        "candidate_font_4": "Allura",
+        "candidate_font_5": "Sacramento"
+    },
+    {
+        "task_id": "577213",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Monotype Corsiva",
+        "candidate_font_2": "French Script MT",
+        "candidate_font_3": "Commercial Script",
+        "candidate_font_4": "Lucida Calligraphy",
+        "candidate_font_5": "Palace Script MT"
+    },
+    {
+        "task_id": "576444",
+        "model_name": "gpt-4o-mini",
+        "candidate_font_1": "Bebas Neue",
+        "candidate_font_2": "Impact",
+        "candidate_font_3": "Futura Bold",
+        "candidate_font_4": "Roboto Condensed Bold",
+        "candidate_font_5": "Montserrat"
+    },
+    {
+        "task_id": "576444",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Obelix Pro Italic",
+        "candidate_font_2": "Bangers",
+        "candidate_font_3": "Action Is NF",
+        "candidate_font_4": "SF Sports Night Italic",
+        "candidate_font_5": "Beep Beep Italic"
     }
 ]
