@@ -4840,5 +4840,41 @@
         "candidate_font_3": "",
         "candidate_font_4": "",
         "candidate_font_5": ""
+    },
+    {
+        "task_id": "577281",
+        "model_name": "gpt-4o-mini",
+        "candidate_font_1": "Metallica",
+        "candidate_font_2": "Ninja",
+        "candidate_font_3": "Celtic",
+        "candidate_font_4": "Demon",
+        "candidate_font_5": "Zaragoza"
+    },
+    {
+        "task_id": "577281",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Voltshock",
+        "candidate_font_2": "Electroharmonix",
+        "candidate_font_3": "Thunderbolt",
+        "candidate_font_4": "Lightning Bolt",
+        "candidate_font_5": "Shockwave"
+    },
+    {
+        "task_id": "577279",
+        "model_name": "gpt-4o-mini",
+        "candidate_font_1": "Impact",
+        "candidate_font_2": "Eurostile",
+        "candidate_font_3": "Arial Black",
+        "candidate_font_4": "Helvetica Bold",
+        "candidate_font_5": ""
+    },
+    {
+        "task_id": "577279",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Pricedown",
+        "candidate_font_2": "SF Grandezza",
+        "candidate_font_3": "Mandingo",
+        "candidate_font_4": "Square 721 Extended Bold",
+        "candidate_font_5": "Eurostile Extended Bold"
     }
 ]
