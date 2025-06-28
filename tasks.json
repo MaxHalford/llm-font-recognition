@@ -3046,5 +3046,29 @@
         "instructions": null,
         "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1219746.png",
         "identified_font": null
+    },
+    {
+        "task_id": "577254",
+        "url": "https://www.dafont.com/forum/read/577254/duvida-sobre-fonte",
+        "title": "D\u00favida sobre fonte",
+        "instructions": "Queria saber qual o nome dessa fonte..",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1219770.jpg?1",
+        "identified_font": "Under Station"
+    },
+    {
+        "task_id": "577256",
+        "url": "https://www.dafont.com/forum/read/577256/font-help-please",
+        "title": "FONT HELP PLEASE",
+        "instructions": "Can some one please help me with the font of \"Impact gold\" thanks",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1219773.png",
+        "identified_font": null
+    },
+    {
+        "task_id": "577255",
+        "url": "https://www.dafont.com/forum/read/577255/identify-lucky-penny-shop-please-help-me-i-can-t-find-it",
+        "title": "Identify \"Lucky Penny Shop\" Please help me, I can't find it...",
+        "instructions": null,
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1219772.png",
+        "identified_font": null
     }
 ]
