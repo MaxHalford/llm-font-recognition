@@ -4534,5 +4534,77 @@
         "candidate_font_3": "Avenir Heavy",
         "candidate_font_4": "Open Sans",
         "candidate_font_5": "Futura Bold"
+    },
+    {
+        "task_id": "357102",
+        "model_name": "gpt-4o-mini",
+        "candidate_font_1": "Alcmonte",
+        "candidate_font_2": "Poppins",
+        "candidate_font_3": "Quicksand",
+        "candidate_font_4": "Raleway",
+        "candidate_font_5": "Gochi Hand"
+    },
+    {
+        "task_id": "357102",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Bubblegum Sans",
+        "candidate_font_2": "Chewy",
+        "candidate_font_3": "Bubbly",
+        "candidate_font_4": "Gummy Bears",
+        "candidate_font_5": "Porky's"
+    },
+    {
+        "task_id": "567471",
+        "model_name": "gpt-4o-mini",
+        "candidate_font_1": "Chalkboard",
+        "candidate_font_2": "Hug Me Tight",
+        "candidate_font_3": "Permanent Marker",
+        "candidate_font_4": "Bradley Hand",
+        "candidate_font_5": ""
+    },
+    {
+        "task_id": "567471",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Rough Chalk",
+        "candidate_font_2": "Krabuler",
+        "candidate_font_3": "Architects Daughter",
+        "candidate_font_4": "Permanent Marker",
+        "candidate_font_5": "Schoolbell"
+    },
+    {
+        "task_id": "543311",
+        "model_name": "gpt-4o-mini",
+        "candidate_font_1": "Nitro",
+        "candidate_font_2": "Raceway",
+        "candidate_font_3": "Impact",
+        "candidate_font_4": "Road Rage",
+        "candidate_font_5": "Fast and Furious"
+    },
+    {
+        "task_id": "543311",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Bank Gothic",
+        "candidate_font_2": "Eurostile",
+        "candidate_font_3": "Agency FB",
+        "candidate_font_4": "Microgramma",
+        "candidate_font_5": ""
+    },
+    {
+        "task_id": "577262",
+        "model_name": "gpt-4o-mini",
+        "candidate_font_1": "Jaeguchi",
+        "candidate_font_2": "Vampiro",
+        "candidate_font_3": "Creepster",
+        "candidate_font_4": "Black Diamond",
+        "candidate_font_5": "Frankenstein"
+    },
+    {
+        "task_id": "577262",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Dark Forest",
+        "candidate_font_2": "YouMurderer",
+        "candidate_font_3": "Vampire Wars",
+        "candidate_font_4": "Scary Things",
+        "candidate_font_5": "Oswald"
     }
 ]
