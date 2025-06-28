@@ -3182,5 +3182,29 @@
         "instructions": null,
         "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1219794.jpg",
         "identified_font": null
+    },
+    {
+        "task_id": "577269",
+        "url": "https://www.dafont.com/forum/read/577269/font-name-pls",
+        "title": "Font name pls :)",
+        "instructions": "\u0084E & S\u0093",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1219802.jpg",
+        "identified_font": null
+    },
+    {
+        "task_id": "577268",
+        "url": "https://www.dafont.com/forum/read/577268/breezy",
+        "title": "BREEZY",
+        "instructions": "Hey, does anyone know this font",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1219801.png",
+        "identified_font": null
+    },
+    {
+        "task_id": "235701",
+        "url": "https://www.dafont.com/forum/read/235701/lego-logo-font",
+        "title": "LEGO\u00ae Logo Font?",
+        "instructions": "What the name of this font??",
+        "img_url": "https://www.dafont.com/forum/attach/orig/5/3/535373.png?1",
+        "identified_font": null
     }
 ]
