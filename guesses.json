@@ -4606,5 +4606,23 @@
         "candidate_font_3": "Vampire Wars",
         "candidate_font_4": "Scary Things",
         "candidate_font_5": "Oswald"
+    },
+    {
+        "task_id": "577263",
+        "model_name": "gpt-4o-mini",
+        "candidate_font_1": "Bodoni",
+        "candidate_font_2": "Didot",
+        "candidate_font_3": "Playfair Display",
+        "candidate_font_4": "Merriweather",
+        "candidate_font_5": ""
+    },
+    {
+        "task_id": "577263",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Candice",
+        "candidate_font_2": "Bookman Swash",
+        "candidate_font_3": "Windsor Bold",
+        "candidate_font_4": "Souvenir Demi Bold",
+        "candidate_font_5": "Cooper Black"
     }
 ]
