@@ -4678,5 +4678,59 @@
         "candidate_font_3": "Inter Italic",
         "candidate_font_4": "Proxima Nova Italic",
         "candidate_font_5": "Open Sans Italic"
+    },
+    {
+        "task_id": "577269",
+        "model_name": "gpt-4o-mini",
+        "candidate_font_1": "Great Vibes",
+        "candidate_font_2": "Lobster",
+        "candidate_font_3": "Dancing Script",
+        "candidate_font_4": "Alex Brush",
+        "candidate_font_5": "Pacifico"
+    },
+    {
+        "task_id": "577269",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Ariston",
+        "candidate_font_2": "Montserrat Light",
+        "candidate_font_3": "",
+        "candidate_font_4": "",
+        "candidate_font_5": ""
+    },
+    {
+        "task_id": "577268",
+        "model_name": "gpt-4o-mini",
+        "candidate_font_1": "Blackletter",
+        "candidate_font_2": "Cloister Black",
+        "candidate_font_3": "Old English Text",
+        "candidate_font_4": "Fraktur",
+        "candidate_font_5": ""
+    },
+    {
+        "task_id": "577268",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Malabo",
+        "candidate_font_2": "Chicano",
+        "candidate_font_3": "Anguish",
+        "candidate_font_4": "Metal Macabre",
+        "candidate_font_5": "San Andreas"
+    },
+    {
+        "task_id": "235701",
+        "model_name": "gpt-4o-mini",
+        "candidate_font_1": "Lego Brick",
+        "candidate_font_2": "Lego Type",
+        "candidate_font_3": "Lego Sans",
+        "candidate_font_4": "Lego Serif",
+        "candidate_font_5": ""
+    },
+    {
+        "task_id": "235701",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Legothic",
+        "candidate_font_2": "Lego Thick",
+        "candidate_font_3": "VAG Rounded",
+        "candidate_font_4": "Futura Round Bold",
+        "candidate_font_5": "Gotham Rounded Bold"
     }
 ]
