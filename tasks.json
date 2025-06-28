@@ -3149,6 +3149,14 @@
         "title": "Jaeguchi font",
         "instructions": "YOUR IDOL",
         "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1219786.jpg",
+        "identified_font": "Burning Wrath"
+    },
+    {
+        "task_id": "577263",
+        "url": "https://www.dafont.com/forum/read/577263/font-name",
+        "title": "Font name?",
+        "instructions": "Can anybody help me identify what font is this?",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1219792.png",
         "identified_font": null
     }
 ]
