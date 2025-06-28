@@ -4408,5 +4408,41 @@
         "candidate_font_3": "Roboto Italic",
         "candidate_font_4": "Calibri Italic",
         "candidate_font_5": "Montserrat Italic"
+    },
+    {
+        "task_id": "577256",
+        "model_name": "gpt-4o-mini",
+        "candidate_font_1": "Impact",
+        "candidate_font_2": "Varsity",
+        "candidate_font_3": "Futura Bold",
+        "candidate_font_4": "Bebas Neue",
+        "candidate_font_5": "Bold Condensed"
+    },
+    {
+        "task_id": "577256",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Octin College Black Italic",
+        "candidate_font_2": "Octin College Italic",
+        "candidate_font_3": "Collegiate Heavy Italic",
+        "candidate_font_4": "Varsity Team",
+        "candidate_font_5": "College Block"
+    },
+    {
+        "task_id": "577255",
+        "model_name": "gpt-4o-mini",
+        "candidate_font_1": "Lucky Font",
+        "candidate_font_2": "Penny Arcade",
+        "candidate_font_3": "Bubblegum Sans",
+        "candidate_font_4": "Cooper Black",
+        "candidate_font_5": "Comic Sans MS"
+    },
+    {
+        "task_id": "577255",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Cream Peach",
+        "candidate_font_2": "Bubblegum Sans",
+        "candidate_font_3": "Kids Bubble",
+        "candidate_font_4": "Burbank Big Condensed",
+        "candidate_font_5": "Pusab"
     }
 ]
