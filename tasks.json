@@ -3206,5 +3206,61 @@
         "instructions": "What the name of this font??",
         "img_url": "https://www.dafont.com/forum/attach/orig/5/3/535373.png?1",
         "identified_font": null
+    },
+    {
+        "task_id": "577276",
+        "url": "https://www.dafont.com/forum/read/577276/need-to-know-this-font",
+        "title": "Need to know this font",
+        "instructions": "Hi, I'd like to identify this font. Could anyone help me? thanks a lot.",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1219812.png",
+        "identified_font": null
+    },
+    {
+        "task_id": "577275",
+        "url": "https://www.dafont.com/forum/read/577275/gallo-pobre",
+        "title": "GALLO POBRE",
+        "instructions": "HELP PLEASE",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1219808.jpg?1",
+        "identified_font": "Aerohate"
+    },
+    {
+        "task_id": "577272",
+        "url": "https://www.dafont.com/forum/read/577272/can-someone-help-with-this-one",
+        "title": "can someone help with this one?",
+        "instructions": null,
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1219805.png",
+        "identified_font": null
+    },
+    {
+        "task_id": "577274",
+        "url": "https://www.dafont.com/forum/read/577274/bleseed",
+        "title": "BLESEED",
+        "instructions": "HELP PLEASE",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1219807.jpg?1",
+        "identified_font": null
+    },
+    {
+        "task_id": "577273",
+        "url": "https://www.dafont.com/forum/read/577273/anyone-know-a-similar-font-to-this",
+        "title": "Anyone know a similar font to this?",
+        "instructions": null,
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1219806.jpg",
+        "identified_font": null
+    },
+    {
+        "task_id": "577271",
+        "url": "https://www.dafont.com/forum/read/577271/could-anyone-help-with-this-font",
+        "title": "could anyone help with this font?",
+        "instructions": null,
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1219804.png",
+        "identified_font": null
+    },
+    {
+        "task_id": "577270",
+        "url": "https://www.dafont.com/forum/read/577270/what-font-is-this-one-help",
+        "title": "What font is this one? HELP",
+        "instructions": null,
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1219803.jpg",
+        "identified_font": null
     }
 ]
