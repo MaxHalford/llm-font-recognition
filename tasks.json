@@ -2732,7 +2732,7 @@
         "url": "https://www.dafont.com/forum/read/577213/font-name",
         "title": "font name?",
         "instructions": null,
-        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1219665.png",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1219665.png?1",
         "identified_font": null
     },
     {
@@ -3061,7 +3061,7 @@
         "title": "FONT HELP PLEASE",
         "instructions": "Can some one please help me with the font of \"Impact gold\" thanks",
         "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1219773.png",
-        "identified_font": null
+        "identified_font": "Alegreya Sans"
     },
     {
         "task_id": "577255",
@@ -3069,6 +3069,54 @@
         "title": "Identify \"Lucky Penny Shop\" Please help me, I can't find it...",
         "instructions": null,
         "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1219772.png",
+        "identified_font": null
+    },
+    {
+        "task_id": "577261",
+        "url": "https://www.dafont.com/forum/read/577261/what-font-can-be-seen-on-tv-luz-clarita",
+        "title": "What Font can be seen on TV: Luz Clarita",
+        "instructions": "Please identify what font can be used on Television like the 1996 Telenovela Series for Children called \"Luz Clarita\" and then it used again to the next television series in Ranma 1/2 dubbed in Spanish by AudioMaster 3000.",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1219785.jpg",
+        "identified_font": null
+    },
+    {
+        "task_id": "277812",
+        "url": "https://www.dafont.com/forum/read/277812/kylie-minogue-80s-font",
+        "title": "Kylie Minogue 80s font",
+        "instructions": "I can't find this font anywhere and need it for a marketing project. It's the font used on early Kylie Minogue covers in the 80s",
+        "img_url": "https://www.dafont.com/forum/attach/orig/6/2/622235.jpg",
+        "identified_font": null
+    },
+    {
+        "task_id": "245800",
+        "url": "https://www.dafont.com/forum/read/245800/mindless-self-indulgence-you-ll-rebel-to-anything",
+        "title": "Mindless Self Indulgence / You'll Rebel To Anything",
+        "instructions": null,
+        "img_url": "https://www.dafont.com/forum/attach/orig/5/5/556592.png?1",
+        "identified_font": null
+    },
+    {
+        "task_id": "577260",
+        "url": "https://www.dafont.com/forum/read/577260/do-you-know-what-canal-claro-font-is",
+        "title": "DO YOU KNOW WHAT Canal Claro FONT IS?",
+        "instructions": "EN: The font for the text \"Canal\" are looking familiar for DIN Next or Banschrift, but the letter C is wider than that. It is harder to find that font.",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1219779.png",
+        "identified_font": "DIN"
+    },
+    {
+        "task_id": "577259",
+        "url": "https://www.dafont.com/forum/read/577259/what-font-is-this-north-korean-tv-logo",
+        "title": "What font is this?: North Korean TV logo",
+        "instructions": "It's called \"Korean Central Television\" in North Korea.",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1219778.png",
+        "identified_font": null
+    },
+    {
+        "task_id": "577258",
+        "url": "https://www.dafont.com/forum/read/577258/need-help-identifying-this-font",
+        "title": "Need help identifying this font",
+        "instructions": null,
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1219777.png",
         "identified_font": null
     }
 ]
