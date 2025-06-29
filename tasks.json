@@ -3349,6 +3349,22 @@
         "title": "Font Please?",
         "instructions": null,
         "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1219837.jpg",
+        "identified_font": "University"
+    },
+    {
+        "task_id": "577289",
+        "url": "https://www.dafont.com/forum/read/577289/what-font-is-this-from-fnaf-3",
+        "title": "what font is this from fnaf 3",
+        "instructions": "it was originaly white i just couldnt read it",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1219852.png?2",
+        "identified_font": null
+    },
+    {
+        "task_id": "573101",
+        "url": "https://www.dafont.com/forum/read/573101/brasil-font-please",
+        "title": "\u0093brasil\u0094 font, please.",
+        "instructions": null,
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1211249.jpg",
         "identified_font": null
     }
 ]
