@@ -5056,5 +5056,113 @@
         "candidate_font_3": "Burbank Big Condensed Bold",
         "candidate_font_4": "Fredoka One",
         "candidate_font_5": "Komika Title"
+    },
+    {
+        "task_id": "577299",
+        "model_name": "gpt-4o-mini",
+        "candidate_font_1": "Impact",
+        "candidate_font_2": "Bebas Neue",
+        "candidate_font_3": "Anton",
+        "candidate_font_4": "Roboto Condensed",
+        "candidate_font_5": "Oswald"
+    },
+    {
+        "task_id": "577299",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Gobold Extra Bold",
+        "candidate_font_2": "Impact",
+        "candidate_font_3": "Roadgeek 2005 Series",
+        "candidate_font_4": "Microgramma D Bold Extended",
+        "candidate_font_5": "Compacta Black"
+    },
+    {
+        "task_id": "577298",
+        "model_name": "gpt-4o-mini",
+        "candidate_font_1": "Dancing Script",
+        "candidate_font_2": "Playfair Display",
+        "candidate_font_3": "Quicksand",
+        "candidate_font_4": "Poppins",
+        "candidate_font_5": "Roboto"
+    },
+    {
+        "task_id": "577298",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Playfair Display",
+        "candidate_font_2": "Lora",
+        "candidate_font_3": "Cormorant Garamond",
+        "candidate_font_4": "Crimson Text",
+        "candidate_font_5": "EB Garamond"
+    },
+    {
+        "task_id": "577297",
+        "model_name": "gpt-4o-mini",
+        "candidate_font_1": "Broken Ghost",
+        "candidate_font_2": "Bleeding Cowboy",
+        "candidate_font_3": "Ghoulish",
+        "candidate_font_4": "Abaddon",
+        "candidate_font_5": ""
+    },
+    {
+        "task_id": "577297",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "CF My Bloody Valentine",
+        "candidate_font_2": "You Murderer",
+        "candidate_font_3": "Nightmare Pills",
+        "candidate_font_4": "Death Rattle",
+        "candidate_font_5": "Bloodsuckers"
+    },
+    {
+        "task_id": "577296",
+        "model_name": "gpt-4o-mini",
+        "candidate_font_1": "Modern Brush Script",
+        "candidate_font_2": "Pacifico",
+        "candidate_font_3": "Lobster",
+        "candidate_font_4": "Dancing Script",
+        "candidate_font_5": "Freestyle Script"
+    },
+    {
+        "task_id": "577296",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Beautiful Friday",
+        "candidate_font_2": "Magnolia Sky",
+        "candidate_font_3": "Bright Sunshine",
+        "candidate_font_4": "The Quick Brown Fox",
+        "candidate_font_5": "Lemon Tuesday"
+    },
+    {
+        "task_id": "577294",
+        "model_name": "gpt-4o-mini",
+        "candidate_font_1": "Lobster",
+        "candidate_font_2": "Pacifico",
+        "candidate_font_3": "Berkshire Swash",
+        "candidate_font_4": "Baloo Bhai",
+        "candidate_font_5": "Dancing Script"
+    },
+    {
+        "task_id": "577294",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Burbank Big Condensed Black",
+        "candidate_font_2": "Luckiest Guy",
+        "candidate_font_3": "Fredoka One",
+        "candidate_font_4": "Panton Black",
+        "candidate_font_5": "Comfortaa Bold"
+    },
+    {
+        "task_id": "577293",
+        "model_name": "gpt-4o-mini",
+        "candidate_font_1": "Futura",
+        "candidate_font_2": "Helvetica",
+        "candidate_font_3": "Eurostile",
+        "candidate_font_4": "Orbitron",
+        "candidate_font_5": "Fjalla One"
+    },
+    {
+        "task_id": "577293",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Pump Demi Bold Italic",
+        "candidate_font_2": "VAG Rounded Bold Italic",
+        "candidate_font_3": "ITC Kabel Heavy Italic",
+        "candidate_font_4": "FF Komet Regular Italic",
+        "candidate_font_5": "Corporate A B Q Bold Italic"
     }
 ]
