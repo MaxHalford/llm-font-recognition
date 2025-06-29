@@ -5002,5 +5002,59 @@
         "candidate_font_3": "Montserrat",
         "candidate_font_4": "Roboto",
         "candidate_font_5": "Proxima Nova"
+    },
+    {
+        "task_id": "577292",
+        "model_name": "gpt-4o-mini",
+        "candidate_font_1": "Garamond",
+        "candidate_font_2": "Bodoni",
+        "candidate_font_3": "Times New Roman",
+        "candidate_font_4": "Caslon",
+        "candidate_font_5": "Playfair Display"
+    },
+    {
+        "task_id": "577292",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Storybook Regular",
+        "candidate_font_2": "Windsor",
+        "candidate_font_3": "Bookmania",
+        "candidate_font_4": "Goudy Old Style",
+        "candidate_font_5": "ITC Korinna"
+    },
+    {
+        "task_id": "577291",
+        "model_name": "gpt-4o-mini",
+        "candidate_font_1": "Dripping Marker",
+        "candidate_font_2": "Blood Drip",
+        "candidate_font_3": "Melted",
+        "candidate_font_4": "Gooey",
+        "candidate_font_5": "Splash"
+    },
+    {
+        "task_id": "577291",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Liquid Blood",
+        "candidate_font_2": "",
+        "candidate_font_3": "",
+        "candidate_font_4": "",
+        "candidate_font_5": ""
+    },
+    {
+        "task_id": "577290",
+        "model_name": "gpt-4o-mini",
+        "candidate_font_1": "BubbleGum",
+        "candidate_font_2": "Comic Sans MS",
+        "candidate_font_3": "Chewy",
+        "candidate_font_4": "Lobster",
+        "candidate_font_5": "Baloo"
+    },
+    {
+        "task_id": "577290",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Luckiest Guy",
+        "candidate_font_2": "Bubblegum Sans",
+        "candidate_font_3": "Burbank Big Condensed Bold",
+        "candidate_font_4": "Fredoka One",
+        "candidate_font_5": "Komika Title"
     }
 ]
