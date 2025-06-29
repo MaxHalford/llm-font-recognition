@@ -4966,5 +4966,41 @@
         "candidate_font_3": "SF Collegiate",
         "candidate_font_4": "Freshman",
         "candidate_font_5": "Sport College"
+    },
+    {
+        "task_id": "577289",
+        "model_name": "gpt-4o-mini",
+        "candidate_font_1": "Creepster",
+        "candidate_font_2": "Five Nights",
+        "candidate_font_3": "Chiller",
+        "candidate_font_4": "Vampire",
+        "candidate_font_5": ""
+    },
+    {
+        "task_id": "577289",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Pixel Operator",
+        "candidate_font_2": "",
+        "candidate_font_3": "",
+        "candidate_font_4": "",
+        "candidate_font_5": ""
+    },
+    {
+        "task_id": "573101",
+        "model_name": "gpt-4o-mini",
+        "candidate_font_1": "Bodoni",
+        "candidate_font_2": "Didot",
+        "candidate_font_3": "Playfair Display",
+        "candidate_font_4": "Lora",
+        "candidate_font_5": "Vogue"
+    },
+    {
+        "task_id": "573101",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Open Sans",
+        "candidate_font_2": "Lato",
+        "candidate_font_3": "Montserrat",
+        "candidate_font_4": "Roboto",
+        "candidate_font_5": "Proxima Nova"
     }
 ]
