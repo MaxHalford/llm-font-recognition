@@ -3366,5 +3366,29 @@
         "instructions": null,
         "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1211249.jpg",
         "identified_font": null
+    },
+    {
+        "task_id": "577292",
+        "url": "https://www.dafont.com/forum/read/577292/maybe-tomorrow",
+        "title": "maybe tomorrow",
+        "instructions": null,
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1219856.jpg",
+        "identified_font": null
+    },
+    {
+        "task_id": "577291",
+        "url": "https://www.dafont.com/forum/read/577291/hiiiiiii",
+        "title": "HIIIIIII",
+        "instructions": null,
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1219855.png",
+        "identified_font": null
+    },
+    {
+        "task_id": "577290",
+        "url": "https://www.dafont.com/forum/read/577290/font-name-please",
+        "title": "Font name please",
+        "instructions": null,
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1219854.png",
+        "identified_font": null
     }
 ]
