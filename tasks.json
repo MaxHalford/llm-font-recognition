@@ -3621,6 +3621,38 @@
         "title": "Font used already now I can't find it",
         "instructions": "Hello I have used this font a few years ago and I checked all my fonts and it's not listed. Here is the font.",
         "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1219864.jpg",
+        "identified_font": "Battery Park"
+    },
+    {
+        "task_id": "577315",
+        "url": "https://www.dafont.com/forum/read/577315/sleepless-and-coffe-bar-fonts",
+        "title": "Sleepless and coffe bar fonts?",
+        "instructions": null,
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1219905.jpg",
+        "identified_font": null
+    },
+    {
+        "task_id": "577314",
+        "url": "https://www.dafont.com/forum/read/577314/vicious-void-font",
+        "title": "Vicious Void Font?",
+        "instructions": null,
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1219904.png",
+        "identified_font": null
+    },
+    {
+        "task_id": "577313",
+        "url": "https://www.dafont.com/forum/read/577313/id-font",
+        "title": "ID FONT?",
+        "instructions": null,
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1219902.png",
+        "identified_font": null
+    },
+    {
+        "task_id": "577312",
+        "url": "https://www.dafont.com/forum/read/577312/does-anyone-know-this-font",
+        "title": "Does anyone know this font?",
+        "instructions": "Do you think it is drawn?",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1219901.png",
         "identified_font": null
     }
 ]
