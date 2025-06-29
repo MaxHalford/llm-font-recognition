@@ -5560,5 +5560,77 @@
         "candidate_font_3": "War Wound",
         "candidate_font_4": "Capture It",
         "candidate_font_5": "Destroy"
+    },
+    {
+        "task_id": "577315",
+        "model_name": "gpt-4o-mini",
+        "candidate_font_1": "Pacifico",
+        "candidate_font_2": "Lobster",
+        "candidate_font_3": "Dancing Script",
+        "candidate_font_4": "Satisfy",
+        "candidate_font_5": ""
+    },
+    {
+        "task_id": "577315",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Bellisia Script",
+        "candidate_font_2": "Raleway SemiBold",
+        "candidate_font_3": "Hello Stockholm",
+        "candidate_font_4": "Montserrat Bold",
+        "candidate_font_5": "Lato Bold"
+    },
+    {
+        "task_id": "577314",
+        "model_name": "gpt-4o-mini",
+        "candidate_font_1": "Vicious Void",
+        "candidate_font_2": "Poppins",
+        "candidate_font_3": "Circular Std",
+        "candidate_font_4": "Baloo",
+        "candidate_font_5": ""
+    },
+    {
+        "task_id": "577314",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Vicious Void",
+        "candidate_font_2": "Chewy",
+        "candidate_font_3": "Bubblegum Sans",
+        "candidate_font_4": "Fredoka One",
+        "candidate_font_5": "Lilita One"
+    },
+    {
+        "task_id": "577313",
+        "model_name": "gpt-4o-mini",
+        "candidate_font_1": "Cinzel",
+        "candidate_font_2": "Garamond",
+        "candidate_font_3": "Merriweather",
+        "candidate_font_4": "Bodoni",
+        "candidate_font_5": ""
+    },
+    {
+        "task_id": "577313",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "JSL Ancient",
+        "candidate_font_2": "Medieval Sharp",
+        "candidate_font_3": "Ponderosa",
+        "candidate_font_4": "Camelot",
+        "candidate_font_5": "Augustus"
+    },
+    {
+        "task_id": "577312",
+        "model_name": "gpt-4o-mini",
+        "candidate_font_1": "Brush Script",
+        "candidate_font_2": "Pacifico",
+        "candidate_font_3": "Dancing Script",
+        "candidate_font_4": "Lobster",
+        "candidate_font_5": "Mermaid"
+    },
+    {
+        "task_id": "577312",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Bayshore",
+        "candidate_font_2": "Houstiny Script",
+        "candidate_font_3": "Adrenaline",
+        "candidate_font_4": "Lemon Tuesday",
+        "candidate_font_5": "The Brooklyn Store Script"
     }
 ]
