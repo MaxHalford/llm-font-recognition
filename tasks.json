@@ -3294,5 +3294,45 @@
         "instructions": null,
         "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1219815.jpg",
         "identified_font": "Sandler"
+    },
+    {
+        "task_id": "577282",
+        "url": "https://www.dafont.com/forum/read/577282/font",
+        "title": "Font?",
+        "instructions": null,
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1219827.png",
+        "identified_font": "Futura Bold"
+    },
+    {
+        "task_id": "577286",
+        "url": "https://www.dafont.com/forum/read/577286/which-font-for-gabriela",
+        "title": "which font for gabriela?",
+        "instructions": null,
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1219831.png",
+        "identified_font": "Aqila"
+    },
+    {
+        "task_id": "577285",
+        "url": "https://www.dafont.com/forum/read/577285/thanks-for-your-help",
+        "title": "Thanks for your help!",
+        "instructions": null,
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1219830.jpg",
+        "identified_font": null
+    },
+    {
+        "task_id": "577284",
+        "url": "https://www.dafont.com/forum/read/577284/what-font-is-this",
+        "title": "what font is this?",
+        "instructions": null,
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1219829.jpg",
+        "identified_font": null
+    },
+    {
+        "task_id": "577283",
+        "url": "https://www.dafont.com/forum/read/577283/can-any-help-me-with-this",
+        "title": "Can any help me with this?",
+        "instructions": "I can't find this font anywhere, can someone help me at least with the name?",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1219828.png",
+        "identified_font": null
     }
 ]
