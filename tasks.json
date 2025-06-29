@@ -3334,5 +3334,21 @@
         "instructions": "I can't find this font anywhere, can someone help me at least with the name?",
         "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1219828.png",
         "identified_font": null
+    },
+    {
+        "task_id": "577288",
+        "url": "https://www.dafont.com/forum/read/577288/the-dark-knight-font",
+        "title": "The Dark Knight Font?",
+        "instructions": "WHAT FONT IS THIS?",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1219838.png",
+        "identified_font": null
+    },
+    {
+        "task_id": "577287",
+        "url": "https://www.dafont.com/forum/read/577287/font-please",
+        "title": "Font Please?",
+        "instructions": null,
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1219837.jpg",
+        "identified_font": null
     }
 ]
