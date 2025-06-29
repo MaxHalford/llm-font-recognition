@@ -3405,7 +3405,7 @@
         "title": "Fonts name?",
         "instructions": "Hi!! I need font name:  \"my favorite playlist\" and \"study,focus..\"",
         "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1219862.jpg",
-        "identified_font": null
+        "identified_font": "Newyork"
     },
     {
         "task_id": "577297",
@@ -3437,6 +3437,190 @@
         "title": "What font is this?",
         "instructions": "Please help me identify the font used in the text \"Beyond Broadcasting\". TIA",
         "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1219857.jpg",
+        "identified_font": null
+    },
+    {
+        "task_id": "577308",
+        "url": "https://www.dafont.com/forum/read/577308/font-please",
+        "title": "Font, please.",
+        "instructions": null,
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1219892.jpg",
+        "identified_font": "Noctura Georgia Brush"
+    },
+    {
+        "task_id": "575743",
+        "url": "https://www.dafont.com/forum/read/575743/what-is-this-font",
+        "title": "What is this font?",
+        "instructions": "Thank you for your help.",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1216520.png",
+        "identified_font": null
+    },
+    {
+        "task_id": "577311",
+        "url": "https://www.dafont.com/forum/read/577311/can-someone-help-with-this-one",
+        "title": "can someone help with this one?",
+        "instructions": null,
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1219895.png",
+        "identified_font": null
+    },
+    {
+        "task_id": "577310",
+        "url": "https://www.dafont.com/forum/read/577310/font-please",
+        "title": "Font, please.",
+        "instructions": null,
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1219894.jpg",
+        "identified_font": null
+    },
+    {
+        "task_id": "577309",
+        "url": "https://www.dafont.com/forum/read/577309/font-please",
+        "title": "Font, please.",
+        "instructions": null,
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1219893.jpg",
+        "identified_font": null
+    },
+    {
+        "task_id": "577307",
+        "url": "https://www.dafont.com/forum/read/577307/lv-louis-vuitton-font-name",
+        "title": "LV & Louis Vuitton font name ?",
+        "instructions": null,
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1219891.jpg",
+        "identified_font": null
+    },
+    {
+        "task_id": "577306",
+        "url": "https://www.dafont.com/forum/read/577306/help-me-to-find-this-font-please",
+        "title": "help me to find this font please!!",
+        "instructions": "hi, i\u0092m looking for the name of this font, can anyone please help me?? :( thanks!!",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1219890.png",
+        "identified_font": null
+    },
+    {
+        "task_id": "577305",
+        "url": "https://www.dafont.com/forum/read/577305/gucci-font-name",
+        "title": "GUCCI font name?",
+        "instructions": null,
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1219889.png",
+        "identified_font": null
+    },
+    {
+        "task_id": "577304",
+        "url": "https://www.dafont.com/forum/read/577304/hulchal-font-name",
+        "title": "HULCHAL font name?",
+        "instructions": null,
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1219886.jpg",
+        "identified_font": null
+    },
+    {
+        "task_id": "577303",
+        "url": "https://www.dafont.com/forum/read/577303/lakeer-font-name",
+        "title": "Lakeer font name?",
+        "instructions": null,
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1219885.jpg",
+        "identified_font": null
+    },
+    {
+        "task_id": "577302",
+        "url": "https://www.dafont.com/forum/read/577302/grav-font-name",
+        "title": "Grav font name?",
+        "instructions": null,
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1219884.jpg",
+        "identified_font": null
+    },
+    {
+        "task_id": "577301",
+        "url": "https://www.dafont.com/forum/read/577301/main-hoon-na-font-name",
+        "title": "Main Hoon Na font name?",
+        "instructions": null,
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1219883.jpg",
+        "identified_font": null
+    },
+    {
+        "task_id": "323429",
+        "url": "https://www.dafont.com/forum/read/323429/spring-stampede-font",
+        "title": "Spring Stampede font ?",
+        "instructions": null,
+        "img_url": "https://www.dafont.com/forum/attach/orig/7/1/711615.png?1",
+        "identified_font": null
+    },
+    {
+        "task_id": "324237",
+        "url": "https://www.dafont.com/forum/read/324237/unforgiven-2000",
+        "title": "Unforgiven 2000",
+        "instructions": null,
+        "img_url": "https://www.dafont.com/forum/attach/orig/7/1/713064.jpg",
+        "identified_font": null
+    },
+    {
+        "task_id": "244710",
+        "url": "https://www.dafont.com/forum/read/244710/font",
+        "title": "font ?",
+        "instructions": null,
+        "img_url": "https://www.dafont.com/forum/attach/orig/5/5/554620.png?1",
+        "identified_font": null
+    },
+    {
+        "task_id": "244699",
+        "url": "https://www.dafont.com/forum/read/244699/font-plz",
+        "title": "font plz?",
+        "instructions": null,
+        "img_url": "https://www.dafont.com/forum/attach/orig/5/5/554606.jpg",
+        "identified_font": null
+    },
+    {
+        "task_id": "254864",
+        "url": "https://www.dafont.com/forum/read/254864/j-font-name",
+        "title": "J font name ?",
+        "instructions": null,
+        "img_url": "https://www.dafont.com/forum/attach/orig/5/7/575423.png?1",
+        "identified_font": null
+    },
+    {
+        "task_id": "243770",
+        "url": "https://www.dafont.com/forum/read/243770/font-plz",
+        "title": "font plz?",
+        "instructions": null,
+        "img_url": "https://www.dafont.com/forum/attach/orig/5/5/552537.png?2",
+        "identified_font": null
+    },
+    {
+        "task_id": "139687",
+        "url": "https://www.dafont.com/forum/read/139687/ztod-font-name",
+        "title": "ZTOD font name ? ? ?",
+        "instructions": null,
+        "img_url": "https://www.dafont.com/forum/attach/orig/3/3/331497.png?1",
+        "identified_font": null
+    },
+    {
+        "task_id": "569799",
+        "url": "https://www.dafont.com/forum/read/569799/nxt-no-mercy-2024-font-name",
+        "title": "NXT No Mercy 2024 font name ?",
+        "instructions": null,
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1204705.jpg",
+        "identified_font": null
+    },
+    {
+        "task_id": "569797",
+        "url": "https://www.dafont.com/forum/read/569797/wwf-no-mercy-1999-font-name",
+        "title": "WWF No Mercy 1999 font name ?",
+        "instructions": null,
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1204702.jpg",
+        "identified_font": null
+    },
+    {
+        "task_id": "559190",
+        "url": "https://www.dafont.com/forum/read/559190/font-please",
+        "title": "Font, please.",
+        "instructions": null,
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/1/1182670.png",
+        "identified_font": null
+    },
+    {
+        "task_id": "577300",
+        "url": "https://www.dafont.com/forum/read/577300/font-used-already-now-i-can-t-find-it",
+        "title": "Font used already now I can't find it",
+        "instructions": "Hello I have used this font a few years ago and I checked all my fonts and it's not listed. Here is the font.",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1219864.jpg",
         "identified_font": null
     }
 ]
