@@ -3389,7 +3389,7 @@
         "title": "Font name please",
         "instructions": null,
         "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1219854.png",
-        "identified_font": null
+        "identified_font": "Grandstander"
     },
     {
         "task_id": "577299",
@@ -3397,7 +3397,7 @@
         "title": "Gold Font",
         "instructions": "Hello there",
         "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1219863.png",
-        "identified_font": null
+        "identified_font": "Komikazoom"
     },
     {
         "task_id": "577298",
@@ -3429,7 +3429,7 @@
         "title": "font name please!",
         "instructions": "game is date everything, this is used throughout the game. any fonts that look similar would also be very helpful!",
         "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1219858.png",
-        "identified_font": null
+        "identified_font": "Crayonest"
     },
     {
         "task_id": "577293",
@@ -3653,6 +3653,86 @@
         "title": "Does anyone know this font?",
         "instructions": "Do you think it is drawn?",
         "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1219901.png",
+        "identified_font": null
+    },
+    {
+        "task_id": "577327",
+        "url": "https://www.dafont.com/forum/read/577327/crowne",
+        "title": "Crowne",
+        "instructions": "Help please",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1219924.jpg",
+        "identified_font": null
+    },
+    {
+        "task_id": "577326",
+        "url": "https://www.dafont.com/forum/read/577326/holiday",
+        "title": "Holiday",
+        "instructions": "Help please",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1219923.png",
+        "identified_font": null
+    },
+    {
+        "task_id": "577322",
+        "url": "https://www.dafont.com/forum/read/577322/otp-hoteles",
+        "title": "Otp hoteles",
+        "instructions": "Help please",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1219919.png",
+        "identified_font": null
+    },
+    {
+        "task_id": "577320",
+        "url": "https://www.dafont.com/forum/read/577320/help-me-please",
+        "title": "Help me, please",
+        "instructions": "Can you help me identify the Burgos font?",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1219913.jpg?1",
+        "identified_font": "Perfect Moment"
+    },
+    {
+        "task_id": "577321",
+        "url": "https://www.dafont.com/forum/read/577321/does-anyone-know-the-name-of-this-font",
+        "title": "does anyone know the name of this font??",
+        "instructions": null,
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1219917.jpg",
+        "identified_font": null
+    },
+    {
+        "task_id": "577319",
+        "url": "https://www.dafont.com/forum/read/577319/plss",
+        "title": "plss",
+        "instructions": null,
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1219911.jpg",
+        "identified_font": null
+    },
+    {
+        "task_id": "577318",
+        "url": "https://www.dafont.com/forum/read/577318/font-name",
+        "title": "Font name? :)",
+        "instructions": "\"STAATSSCHUTZ\"",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1219910.jpg",
+        "identified_font": null
+    },
+    {
+        "task_id": "317680",
+        "url": "https://www.dafont.com/forum/read/317680/the-boss-baby",
+        "title": "The Boss Baby",
+        "instructions": "Font or similar font please",
+        "img_url": "https://www.dafont.com/forum/attach/orig/7/0/700310.png?1",
+        "identified_font": null
+    },
+    {
+        "task_id": "577317",
+        "url": "https://www.dafont.com/forum/read/577317/could-someone-please-help-me-to-identify-this-font",
+        "title": "Could someone please help me to identify this font?",
+        "instructions": null,
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1219907.jpg",
+        "identified_font": null
+    },
+    {
+        "task_id": "577316",
+        "url": "https://www.dafont.com/forum/read/577316/font-disfarca-mia-wicthoff-please",
+        "title": "Font \"disfar\u00e7a\" Mia Wicthoff please",
+        "instructions": "what\u00b4s the name font \"DISFAR\u00c7A\" please?",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1219906.jpg",
         "identified_font": null
     }
 ]
