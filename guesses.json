@@ -4876,5 +4876,59 @@
         "candidate_font_3": "Mandingo",
         "candidate_font_4": "Square 721 Extended Bold",
         "candidate_font_5": "Eurostile Extended Bold"
+    },
+    {
+        "task_id": "577285",
+        "model_name": "gpt-4o-mini",
+        "candidate_font_1": "Bebas Neue",
+        "candidate_font_2": "Oswald",
+        "candidate_font_3": "Roboto Condensed",
+        "candidate_font_4": "League Spartan",
+        "candidate_font_5": ""
+    },
+    {
+        "task_id": "577285",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Bebas Neue",
+        "candidate_font_2": "Oswald",
+        "candidate_font_3": "Anton",
+        "candidate_font_4": "Roboto Condensed",
+        "candidate_font_5": "PT Sans Narrow"
+    },
+    {
+        "task_id": "577284",
+        "model_name": "gpt-4o-mini",
+        "candidate_font_1": "Wicked",
+        "candidate_font_2": "Brush Script",
+        "candidate_font_3": "Pacifico",
+        "candidate_font_4": "Lobster",
+        "candidate_font_5": ""
+    },
+    {
+        "task_id": "577284",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Blacklisted",
+        "candidate_font_2": "Street Soul",
+        "candidate_font_3": "Hooligan",
+        "candidate_font_4": "Riot Squad",
+        "candidate_font_5": "Bombardment"
+    },
+    {
+        "task_id": "577283",
+        "model_name": "gpt-4o-mini",
+        "candidate_font_1": "Creepy",
+        "candidate_font_2": "Oswald",
+        "candidate_font_3": "Impact",
+        "candidate_font_4": "Anton",
+        "candidate_font_5": "Bebas Neue"
+    },
+    {
+        "task_id": "577283",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Broken Console",
+        "candidate_font_2": "Fredoka One",
+        "candidate_font_3": "Press Start 2P",
+        "candidate_font_4": "Hiragino Kaku Gothic ProN",
+        "candidate_font_5": "Noto Sans CJK JP"
     }
 ]
