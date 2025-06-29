@@ -4930,5 +4930,41 @@
         "candidate_font_3": "Press Start 2P",
         "candidate_font_4": "Hiragino Kaku Gothic ProN",
         "candidate_font_5": "Noto Sans CJK JP"
+    },
+    {
+        "task_id": "577288",
+        "model_name": "gpt-4o-mini",
+        "candidate_font_1": "Bebas Neue",
+        "candidate_font_2": "Arial Black",
+        "candidate_font_3": "Impact",
+        "candidate_font_4": "Dark Knight",
+        "candidate_font_5": "Bank Gothic"
+    },
+    {
+        "task_id": "577288",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Gotham Black",
+        "candidate_font_2": "Montserrat Black",
+        "candidate_font_3": "Franklin Gothic Heavy",
+        "candidate_font_4": "Open Sans Extrabold",
+        "candidate_font_5": "Inter Black"
+    },
+    {
+        "task_id": "577287",
+        "model_name": "gpt-4o-mini",
+        "candidate_font_1": "Bebas Neue",
+        "candidate_font_2": "Impact",
+        "candidate_font_3": "Anton",
+        "candidate_font_4": "Archivo Black",
+        "candidate_font_5": "Oswald"
+    },
+    {
+        "task_id": "577287",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Jersey M54",
+        "candidate_font_2": "CollegiateFLF",
+        "candidate_font_3": "SF Collegiate",
+        "candidate_font_4": "Freshman",
+        "candidate_font_5": "Sport College"
     }
 ]
