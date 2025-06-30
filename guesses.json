@@ -5848,5 +5848,59 @@
         "candidate_font_3": "Boogaloo Regular",
         "candidate_font_4": "Sniglet",
         "candidate_font_5": "Bubblegum Sans"
+    },
+    {
+        "task_id": "577332",
+        "model_name": "gpt-4o-mini",
+        "candidate_font_1": "Press Start 2P",
+        "candidate_font_2": "Audiowide",
+        "candidate_font_3": "Orbitron",
+        "candidate_font_4": "Bungee",
+        "candidate_font_5": "Coda"
+    },
+    {
+        "task_id": "577332",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "VTKS UNICA",
+        "candidate_font_2": "Digital-7",
+        "candidate_font_3": "DS-Digital",
+        "candidate_font_4": "Segment14",
+        "candidate_font_5": "Square It Up"
+    },
+    {
+        "task_id": "577331",
+        "model_name": "gpt-4o-mini",
+        "candidate_font_1": "Machinist",
+        "candidate_font_2": "Bebas Neue",
+        "candidate_font_3": "",
+        "candidate_font_4": "",
+        "candidate_font_5": ""
+    },
+    {
+        "task_id": "577331",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Rupture",
+        "candidate_font_2": "Hard Cut",
+        "candidate_font_3": "Alien League",
+        "candidate_font_4": "Broken Machine",
+        "candidate_font_5": "Digital Dismay"
+    },
+    {
+        "task_id": "577330",
+        "model_name": "gpt-4o-mini",
+        "candidate_font_1": "Eurostile",
+        "candidate_font_2": "Square 721",
+        "candidate_font_3": "Bank Gothic",
+        "candidate_font_4": "DIN",
+        "candidate_font_5": ""
+    },
+    {
+        "task_id": "577330",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Digital Tech",
+        "candidate_font_2": "Square Force",
+        "candidate_font_3": "Digital Dream",
+        "candidate_font_4": "Square",
+        "candidate_font_5": "Liquid Crystal"
     }
 ]
