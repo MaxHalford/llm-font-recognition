@@ -3396,7 +3396,7 @@
         "url": "https://www.dafont.com/forum/read/577299/gold-font",
         "title": "Gold Font",
         "instructions": "Hello there",
-        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1219863.png",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1219863.png?1",
         "identified_font": "Komikazoom"
     },
     {
@@ -3796,7 +3796,7 @@
         "url": "https://www.dafont.com/forum/read/577336/which-this-font-please",
         "title": "Which this font, please?",
         "instructions": null,
-        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1219953.png",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1219953.jpg?1",
         "identified_font": null
     },
     {
@@ -3813,6 +3813,14 @@
         "title": "TV GLOBO",
         "instructions": null,
         "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1219949.jpg",
+        "identified_font": null
+    },
+    {
+        "task_id": "577337",
+        "url": "https://www.dafont.com/forum/read/577337/what-are-these-fonts",
+        "title": "What are these fonts?",
+        "instructions": "What are the three fonts used on this cover?",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1219957.jpg",
         "identified_font": null
     }
 ]
