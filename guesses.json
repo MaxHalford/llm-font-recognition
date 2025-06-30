@@ -5794,5 +5794,59 @@
         "candidate_font_3": "Adobe Garamond Pro",
         "candidate_font_4": "Palatino Linotype",
         "candidate_font_5": "Bembo"
+    },
+    {
+        "task_id": "576845",
+        "model_name": "gpt-4o-mini",
+        "candidate_font_1": "Impact",
+        "candidate_font_2": "Hubba",
+        "candidate_font_3": "Bebas Neue",
+        "candidate_font_4": "Oswald",
+        "candidate_font_5": "Anton"
+    },
+    {
+        "task_id": "576845",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Haettenschweiler",
+        "candidate_font_2": "Impact",
+        "candidate_font_3": "Anton",
+        "candidate_font_4": "Compacta Bold",
+        "candidate_font_5": "Gobold Extra Bold"
+    },
+    {
+        "task_id": "577329",
+        "model_name": "gpt-4o-mini",
+        "candidate_font_1": "Bebas Neue",
+        "candidate_font_2": "Anton",
+        "candidate_font_3": "Oswald",
+        "candidate_font_4": "Archivo Black",
+        "candidate_font_5": ""
+    },
+    {
+        "task_id": "577329",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Montserrat Black Italic",
+        "candidate_font_2": "Gotham Black Italic",
+        "candidate_font_3": "Gilroy ExtraBold Italic",
+        "candidate_font_4": "Proxima Nova Black Italic",
+        "candidate_font_5": "Open Sans Extrabold Italic"
+    },
+    {
+        "task_id": "565114",
+        "model_name": "gpt-4o-mini",
+        "candidate_font_1": "Nexa Script",
+        "candidate_font_2": "Pacifico",
+        "candidate_font_3": "Lobster",
+        "candidate_font_4": "Brush Script",
+        "candidate_font_5": "Raleway"
+    },
+    {
+        "task_id": "565114",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Gochi Hand",
+        "candidate_font_2": "Fredoka One",
+        "candidate_font_3": "Boogaloo Regular",
+        "candidate_font_4": "Sniglet",
+        "candidate_font_5": "Bubblegum Sans"
     }
 ]
