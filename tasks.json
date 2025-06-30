@@ -3981,7 +3981,7 @@
         "title": "BRAZIL",
         "instructions": null,
         "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1219980.png",
-        "identified_font": null
+        "identified_font": "Merriweather"
     },
     {
         "task_id": "577354",
@@ -4069,7 +4069,7 @@
         "title": "FONT NAMe PLEASE???",
         "instructions": "font name for the word \"ELECTRO HOUSE\"",
         "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1205770.jpg",
-        "identified_font": null
+        "identified_font": "Dreamwalker"
     },
     {
         "task_id": "576834",
@@ -4117,7 +4117,7 @@
         "title": "Utility waresounch",
         "instructions": "Can anybody helps.. looks like futura and avant garde. but it isn't either.. Thanks in advance of any help",
         "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1220011.jpg",
-        "identified_font": null
+        "identified_font": "Glacial Indifference"
     },
     {
         "task_id": "577364",
@@ -4133,6 +4133,118 @@
         "title": "What are the fonts used here?",
         "instructions": null,
         "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1217582.png",
+        "identified_font": null
+    },
+    {
+        "task_id": "577393",
+        "url": "https://www.dafont.com/forum/read/577393/the-gold-text-please-thanks-in-advance",
+        "title": "The gold text please. Thanks in advance",
+        "instructions": null,
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1220051.png",
+        "identified_font": "Blaster"
+    },
+    {
+        "task_id": "577388",
+        "url": "https://www.dafont.com/forum/read/577388/grudge-sans-serif-font",
+        "title": "Grudge Sans Serif font",
+        "instructions": null,
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1220045.png",
+        "identified_font": "Broken Detroit"
+    },
+    {
+        "task_id": "577385",
+        "url": "https://www.dafont.com/forum/read/577385/script-font-help",
+        "title": "Script font help",
+        "instructions": null,
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1220041.png",
+        "identified_font": "Boulevard Saint Denis"
+    },
+    {
+        "task_id": "577392",
+        "url": "https://www.dafont.com/forum/read/577392/what-font-is-qual-fonte-e",
+        "title": "WHAT FONT IS? QUAL FONTE \u00c9?",
+        "instructions": "WHAT FONT IS? QUAL FONTE \u00c9?",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1220049.png",
+        "identified_font": null
+    },
+    {
+        "task_id": "577389",
+        "url": "https://www.dafont.com/forum/read/577389/portafolio",
+        "title": "portafolio",
+        "instructions": null,
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1220046.png",
+        "identified_font": null
+    },
+    {
+        "task_id": "577387",
+        "url": "https://www.dafont.com/forum/read/577387/font",
+        "title": "Font?",
+        "instructions": null,
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1220044.jpg",
+        "identified_font": null
+    },
+    {
+        "task_id": "577386",
+        "url": "https://www.dafont.com/forum/read/577386/identificacion-de-fuente",
+        "title": "identificacion de fuente",
+        "instructions": null,
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1220043.png",
+        "identified_font": null
+    },
+    {
+        "task_id": "577383",
+        "url": "https://www.dafont.com/forum/read/577383/identificar-fuente",
+        "title": "IDENTIFICAR FUENTE",
+        "instructions": null,
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1220039.jpg",
+        "identified_font": null
+    },
+    {
+        "task_id": "577382",
+        "url": "https://www.dafont.com/forum/read/577382/fonts",
+        "title": "Fonts?",
+        "instructions": null,
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1220038.jpg",
+        "identified_font": null
+    },
+    {
+        "task_id": "577381",
+        "url": "https://www.dafont.com/forum/read/577381/tribe",
+        "title": "TRIBE",
+        "instructions": "Please help me identify this font",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1220036.jpg?1",
+        "identified_font": null
+    },
+    {
+        "task_id": "577379",
+        "url": "https://www.dafont.com/forum/read/577379/tipo-de-fuente-de-las-palabras-anxo-y-floristeria",
+        "title": "tipo de fuente de las palabras Anxo y Floristeria",
+        "instructions": null,
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1220033.png",
+        "identified_font": null
+    },
+    {
+        "task_id": "577380",
+        "url": "https://www.dafont.com/forum/read/577380/please-help",
+        "title": "Please help",
+        "instructions": null,
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1220034.png",
+        "identified_font": null
+    },
+    {
+        "task_id": "577378",
+        "url": "https://www.dafont.com/forum/read/577378/what-is-the-name-of-the-main-font-please",
+        "title": "What is the name of the main font, please?",
+        "instructions": "What is the name of \"South side\" font? If anybody can help, I would be grateful. Thanks.",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1220031.png",
+        "identified_font": null
+    },
+    {
+        "task_id": "577377",
+        "url": "https://www.dafont.com/forum/read/577377/fonts-please",
+        "title": "Fonts please?",
+        "instructions": null,
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1220027.jpg",
         "identified_font": null
     }
 ]
