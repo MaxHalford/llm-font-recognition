@@ -3620,7 +3620,7 @@
         "url": "https://www.dafont.com/forum/read/577300/font-used-already-now-i-can-t-find-it",
         "title": "Font used already now I can't find it",
         "instructions": "Hello I have used this font a few years ago and I checked all my fonts and it's not listed. Here is the font.",
-        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1219864.jpg",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1219864.png?1",
         "identified_font": "Battery Park"
     },
     {
@@ -3821,6 +3821,78 @@
         "title": "What are these fonts?",
         "instructions": "What are the three fonts used on this cover?",
         "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1219957.jpg",
+        "identified_font": null
+    },
+    {
+        "task_id": "577348",
+        "url": "https://www.dafont.com/forum/read/577348/do-someone-know-this-font",
+        "title": "do someone know this font?",
+        "instructions": null,
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1219971.png",
+        "identified_font": null
+    },
+    {
+        "task_id": "576776",
+        "url": "https://www.dafont.com/forum/read/576776/a-live-25",
+        "title": "A LIVE 25",
+        "instructions": null,
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1218687.png",
+        "identified_font": null
+    },
+    {
+        "task_id": "577347",
+        "url": "https://www.dafont.com/forum/read/577347/pretzel-crush",
+        "title": "Pretzel Crush",
+        "instructions": "What is the font of the following bits of text",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1219969.png",
+        "identified_font": null
+    },
+    {
+        "task_id": "577345",
+        "url": "https://www.dafont.com/forum/read/577345/dirty-work-aespa-font-name",
+        "title": "\"Dirty Work\" AESPA font name",
+        "instructions": null,
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1219967.jpg",
+        "identified_font": null
+    },
+    {
+        "task_id": "577342",
+        "url": "https://www.dafont.com/forum/read/577342/m-i-a-font",
+        "title": "M.I.A font",
+        "instructions": null,
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1219964.jpg",
+        "identified_font": null
+    },
+    {
+        "task_id": "577341",
+        "url": "https://www.dafont.com/forum/read/577341/what-s-this-font",
+        "title": "what\u0092s this font ??",
+        "instructions": null,
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1219962.png",
+        "identified_font": null
+    },
+    {
+        "task_id": "577340",
+        "url": "https://www.dafont.com/forum/read/577340/fonte-urgenteeeeeeeeeeeeeeeeeeeeeeeeeeeeee",
+        "title": "Fonte URGENTEEEEEEEEEEEEEEEEEEEEEEEEEEEEEE...!!!",
+        "instructions": "\"CONSTELA\u00c7\u00c3O\" \"LUIZA DAM\" fonteeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1219961.jpg",
+        "identified_font": null
+    },
+    {
+        "task_id": "577339",
+        "url": "https://www.dafont.com/forum/read/577339/desert-storm",
+        "title": "DESERT STORM",
+        "instructions": "The font has quite possibly been modified??",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1219960.png",
+        "identified_font": null
+    },
+    {
+        "task_id": "577338",
+        "url": "https://www.dafont.com/forum/read/577338/hello-what-fonts-are-used-in-this-image-please",
+        "title": "Hello, what fonts are used in this image please?",
+        "instructions": "Chinese",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1219959.jpg",
         "identified_font": null
     }
 ]
