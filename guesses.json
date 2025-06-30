@@ -5956,5 +5956,23 @@
         "candidate_font_3": "VAG Rounded",
         "candidate_font_4": "Nunito Sans",
         "candidate_font_5": "Quicksand"
+    },
+    {
+        "task_id": "577337",
+        "model_name": "gpt-4o-mini",
+        "candidate_font_1": "Script font similar to \"Great Vibes\"",
+        "candidate_font_2": "Serif font similar to \"Bodoni\"",
+        "candidate_font_3": "Sans-serif font similar to \"Helvetica\"",
+        "candidate_font_4": null,
+        "candidate_font_5": null
+    },
+    {
+        "task_id": "577337",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Kuenstler Script",
+        "candidate_font_2": "Snell Roundhand",
+        "candidate_font_3": "Gill Sans",
+        "candidate_font_4": "Elegy",
+        "candidate_font_5": "English 157"
     }
 ]
