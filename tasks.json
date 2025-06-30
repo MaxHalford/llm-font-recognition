@@ -3661,7 +3661,7 @@
         "title": "Crowne",
         "instructions": "Help please",
         "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1219924.jpg",
-        "identified_font": null
+        "identified_font": "Ocean Sans Book"
     },
     {
         "task_id": "577326",
@@ -3733,6 +3733,30 @@
         "title": "Font \"disfar\u00e7a\" Mia Wicthoff please",
         "instructions": "what\u00b4s the name font \"DISFAR\u00c7A\" please?",
         "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1219906.jpg",
+        "identified_font": null
+    },
+    {
+        "task_id": "576845",
+        "url": "https://www.dafont.com/forum/read/576845/looking-for-new-amazon-series-countdown-font",
+        "title": "Looking for new Amazon series Countdown font",
+        "instructions": "It looks like some Impact modified or a Hubba modified version but I'm not for certain.",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1218845.png?1",
+        "identified_font": null
+    },
+    {
+        "task_id": "577329",
+        "url": "https://www.dafont.com/forum/read/577329/wich-one-is-this-font",
+        "title": "wich one is this font?",
+        "instructions": null,
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1219939.png",
+        "identified_font": null
+    },
+    {
+        "task_id": "565114",
+        "url": "https://www.dafont.com/forum/read/565114/what-font-by-chaereve-pls",
+        "title": "what font by \"CHAEREVE\"? pls",
+        "instructions": null,
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/1/1195264.png",
         "identified_font": null
     }
 ]
