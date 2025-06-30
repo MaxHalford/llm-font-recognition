@@ -3253,7 +3253,7 @@
         "title": "could anyone help with this font?",
         "instructions": null,
         "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1219804.png",
-        "identified_font": null
+        "identified_font": "1820 Modern"
     },
     {
         "task_id": "577270",
@@ -3757,6 +3757,38 @@
         "title": "what font by \"CHAEREVE\"? pls",
         "instructions": null,
         "img_url": "https://www.dafont.com/forum/attach/orig/1/1/1195264.png",
+        "identified_font": null
+    },
+    {
+        "task_id": "349411",
+        "url": "https://www.dafont.com/forum/read/349411/please-help-me-find-this-font",
+        "title": "Please help me find this font",
+        "instructions": "Can anyone please help me find this fond, the most likely that i've found are \"Edwardian Script ITC\" and \"Lucia BT\" but they're not exactly the same, if anyone knows the name of the font in the pic please tell me, thanks forward",
+        "img_url": "https://www.dafont.com/forum/attach/orig/7/6/763707.png",
+        "identified_font": "Shelley Allegro Script"
+    },
+    {
+        "task_id": "577332",
+        "url": "https://www.dafont.com/forum/read/577332/que-font-es",
+        "title": "QUE FONT ES",
+        "instructions": null,
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1219946.jpg",
+        "identified_font": null
+    },
+    {
+        "task_id": "577331",
+        "url": "https://www.dafont.com/forum/read/577331/que-fuente-es-esta",
+        "title": "QUE FUENTE ES ESTA",
+        "instructions": null,
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1219945.jpg",
+        "identified_font": null
+    },
+    {
+        "task_id": "577330",
+        "url": "https://www.dafont.com/forum/read/577330/que-fuenteses-esta",
+        "title": "QUE FUENTESES ESTA",
+        "instructions": null,
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1219943.jpg",
         "identified_font": null
     }
 ]
