@@ -4422,5 +4422,93 @@
         "instructions": null,
         "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1220093.png",
         "identified_font": null
+    },
+    {
+        "task_id": "577425",
+        "url": "https://www.dafont.com/forum/read/577425/une-idee-pour-cette-typo",
+        "title": "Une idee pour cette typo?",
+        "instructions": "Bonjour",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1220128.jpg",
+        "identified_font": null
+    },
+    {
+        "task_id": "577424",
+        "url": "https://www.dafont.com/forum/read/577424/goodwill",
+        "title": "Goodwill",
+        "instructions": null,
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1220126.png",
+        "identified_font": null
+    },
+    {
+        "task_id": "577421",
+        "url": "https://www.dafont.com/forum/read/577421/platte-city-font",
+        "title": "Platte City font",
+        "instructions": null,
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1220120.png",
+        "identified_font": "Beloved Script"
+    },
+    {
+        "task_id": "577423",
+        "url": "https://www.dafont.com/forum/read/577423/durum-font",
+        "title": "\"DURUM\" font",
+        "instructions": "\"DURUM\" font",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1220123.jpg?1",
+        "identified_font": null
+    },
+    {
+        "task_id": "577418",
+        "url": "https://www.dafont.com/forum/read/577418/any-ideas-on-this-font",
+        "title": "Any ideas on this font?",
+        "instructions": null,
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1220114.png",
+        "identified_font": "Professor"
+    },
+    {
+        "task_id": "577422",
+        "url": "https://www.dafont.com/forum/read/577422/what-name-of-this-font-please",
+        "title": "what name of this font please?",
+        "instructions": null,
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1220121.png",
+        "identified_font": null
+    },
+    {
+        "task_id": "577420",
+        "url": "https://www.dafont.com/forum/read/577420/what-name-of-this-font-please",
+        "title": "what name of this font please?",
+        "instructions": null,
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1220118.png",
+        "identified_font": null
+    },
+    {
+        "task_id": "577419",
+        "url": "https://www.dafont.com/forum/read/577419/does-anyone-know-this-font-used-in-many-designs",
+        "title": "Does anyone know this font used in many designs ?",
+        "instructions": "funky style font lower case",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1220117.png",
+        "identified_font": null
+    },
+    {
+        "task_id": "563213",
+        "url": "https://www.dafont.com/forum/read/563213/font-name-please",
+        "title": "Font name please",
+        "instructions": null,
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/1/1191219.png?1",
+        "identified_font": null
+    },
+    {
+        "task_id": "577417",
+        "url": "https://www.dafont.com/forum/read/577417/what-font-please",
+        "title": "What font please ?",
+        "instructions": "Hello, can someone tell me what font is this please ? Thanks !",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1220110.png",
+        "identified_font": null
+    },
+    {
+        "task_id": "577414",
+        "url": "https://www.dafont.com/forum/read/577414/help-me",
+        "title": "help me",
+        "instructions": null,
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1220107.jpg",
+        "identified_font": null
     }
 ]
