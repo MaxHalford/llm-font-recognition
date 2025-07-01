@@ -3820,7 +3820,7 @@
         "url": "https://www.dafont.com/forum/read/577337/what-are-these-fonts",
         "title": "What are these fonts?",
         "instructions": "What are the three fonts used on this cover?",
-        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1219957.jpg",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1219957.png?1",
         "identified_font": null
     },
     {
@@ -4509,6 +4509,78 @@
         "title": "help me",
         "instructions": null,
         "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1220107.jpg",
+        "identified_font": null
+    },
+    {
+        "task_id": "577431",
+        "url": "https://www.dafont.com/forum/read/577431/font-used-in-gangland-memphis-gangster-episode",
+        "title": "Font used in Gangland Memphis Gangster episode?",
+        "instructions": "Was watching a documentary and wanna kno this font thank y'all one love",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1220142.png",
+        "identified_font": null
+    },
+    {
+        "task_id": "384803",
+        "url": "https://www.dafont.com/forum/read/384803/these-2-fonts",
+        "title": "these 2 fonts",
+        "instructions": "Does anyone know what the white banner and \"MCW\" font, downloaded it a long time ago from here",
+        "img_url": "https://www.dafont.com/forum/attach/orig/8/3/834502.jpg",
+        "identified_font": "Squealer"
+    },
+    {
+        "task_id": "577430",
+        "url": "https://www.dafont.com/forum/read/577430/name-font",
+        "title": "name font???",
+        "instructions": null,
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1220139.png",
+        "identified_font": null
+    },
+    {
+        "task_id": "303994",
+        "url": "https://www.dafont.com/forum/read/303994/warioware-font",
+        "title": "WarioWare font",
+        "instructions": "Help!",
+        "img_url": "https://www.dafont.com/forum/attach/orig/6/7/673444.png?1",
+        "identified_font": null
+    },
+    {
+        "task_id": "577429",
+        "url": "https://www.dafont.com/forum/read/577429/font-help-for-the-1904",
+        "title": "Font Help for the 1904?",
+        "instructions": "What font is the 1904?",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1220135.jpg",
+        "identified_font": null
+    },
+    {
+        "task_id": "547030",
+        "url": "https://www.dafont.com/forum/read/547030/new-collective-church-font-please",
+        "title": "NEW COLLECTIVE CHURCH Font Please. :)",
+        "instructions": null,
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/1/1156640.png?1",
+        "identified_font": null
+    },
+    {
+        "task_id": "577428",
+        "url": "https://www.dafont.com/forum/read/577428/id-font",
+        "title": "ID FONT?",
+        "instructions": null,
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1220133.png",
+        "identified_font": null
+    },
+    {
+        "task_id": "577427",
+        "url": "https://www.dafont.com/forum/read/577427/font-name",
+        "title": "Font name? :)",
+        "instructions": null,
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1220132.png",
+        "identified_font": null
+    },
+    {
+        "task_id": "577426",
+        "url": "https://www.dafont.com/forum/read/577426/what-font-is-this",
+        "title": "what font is this?",
+        "instructions": null,
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1220130.png",
         "identified_font": null
     }
 ]
