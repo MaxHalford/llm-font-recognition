@@ -31,23 +31,30 @@ This process avoids benchmark contamination.
                                                                                 
 The source code for this benchmark is available on <a class="r2" href="https://github.com/MaxHalford/llm-font-recognition">GitHub</a>.                      
                                                                                 
-<span class="r3">Updated at 2025-07-01T19:44:00</span>                                                  
+<span class="r3">Updated at 2025-07-01T22:57:00</span>                                                  
 
 <span class="r4">Metrics                                                          </span>
 ┏━━━━━━━━━━━━━━━━┳━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┳━━━━━━━━━━━━━┓
 ┃     Metric     ┃ gemini-2.5-flash-preview-05-20 ┃ gpt-4o-mini ┃
 ┡━━━━━━━━━━━━━━━━╇━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━╇━━━━━━━━━━━━━┩
-│<span class="r5"> Top-1 accuracy </span>│             1.69%              │    3.39%    │
-│<span class="r5"> Top-2 accuracy </span>│             1.69%              │    3.39%    │
-│<span class="r5"> Top-3 accuracy </span>│             1.69%              │    3.39%    │
-│<span class="r5"> Top-4 accuracy </span>│             1.69%              │    3.39%    │
-│<span class="r5"> Top-5 accuracy </span>│             1.69%              │    3.39%    │
+│<span class="r5"> Top-1 accuracy </span>│             1.61%              │    3.23%    │
+│<span class="r5"> Top-2 accuracy </span>│             1.61%              │    4.84%    │
+│<span class="r5"> Top-3 accuracy </span>│             1.61%              │    4.84%    │
+│<span class="r5"> Top-4 accuracy </span>│             1.61%              │    4.84%    │
+│<span class="r5"> Top-5 accuracy </span>│             1.61%              │    4.84%    │
 └────────────────┴────────────────────────────────┴─────────────┘
 
 <span class="r4">Breakdown                                                                       </span>
 ┏━━━━━━━━┳━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┳━━━━━━━━━━━━━━━┳━━━━━━━━━━━━━━━┓
 ┃  Task  ┃           Identified font           ┃ gemini-2.5-f… ┃  gpt-4o-mini  ┃
 ┡━━━━━━━━╇━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━╇━━━━━━━━━━━━━━━╇━━━━━━━━━━━━━━━┩
+│<span class="r6"> </span><a class="r6" href="https://www.dafont.com/forum/read/577413/demande-police-sur-image">577413</a><span class="r6"> </span>│              Pacifico               │<span class="r7">     </span><span class="r8">Lemon</span><span class="r7">     </span>│<span class="r7">   </span><span class="r8">Lobster</span><span class="r9">,</span><span class="r7">    </span>│
+│<span class="r6">        </span>│                                     │<span class="r7">   </span><span class="r8">Tuesday</span><span class="r9">,</span><span class="r7">    </span>│<span class="r7">   </span><span class="r10">Pacifico</span><span class="r9">,</span><span class="r7">   </span>│
+│<span class="r6">        </span>│                                     │<span class="r7">   </span><span class="r8">Mightype</span><span class="r9">,</span><span class="r7">   </span>│<span class="r7">    </span><span class="r8">Dancing</span><span class="r7">    </span>│
+│<span class="r6">        </span>│                                     │<span class="r7">   </span><span class="r8">Playlist</span><span class="r7">    </span>│<span class="r7"> </span><span class="r8">Script</span><span class="r9">, </span><span class="r8">Brush</span><span class="r7"> </span>│
+│<span class="r6">        </span>│                                     │<span class="r7">    </span><span class="r8">Script</span><span class="r9">,</span><span class="r7">    </span>│<span class="r7">    </span><span class="r8">Script</span><span class="r9">,</span><span class="r7">    </span>│
+│<span class="r6">        </span>│                                     │<span class="r7"> </span><span class="r8">Magnolia Sky</span><span class="r9">,</span><span class="r7"> </span>│<span class="r7">    </span><span class="r8">Satisfy</span><span class="r7">    </span>│
+│<span class="r6">        </span>│                                     │<span class="r7">   </span><span class="r8">Bayshore</span><span class="r7">    </span>│<span class="r7">               </span>│
 │<span class="r6"> </span><a class="r6" href="https://www.dafont.com/forum/read/577398/what-font-is-this">577398</a><span class="r6"> </span>│           Foglihten No07            │<span class="r7">    </span><span class="r8">Requiem</span><span class="r7">    </span>│<span class="r7">    </span><span class="r8">Bodoni</span><span class="r9">,</span><span class="r7">    </span>│
 │<span class="r6">        </span>│                                     │<span class="r7">   </span><span class="r8">Display</span><span class="r9">,</span><span class="r7">    </span>│<span class="r7">    </span><span class="r8">Didot</span><span class="r9">,</span><span class="r7">     </span>│
 │<span class="r6">        </span>│                                     │<span class="r7">   </span><span class="r8">Rosalina</span><span class="r9">,</span><span class="r7">   </span>│<span class="r7">   </span><span class="r8">Playfair</span><span class="r7">    </span>│
@@ -137,6 +144,12 @@ The source code for this benchmark is available on <a class="r2" href="https://g
 │<span class="r6">        </span>│                                     │<span class="r7">    </span><span class="r8">Inline</span><span class="r9">,</span><span class="r7">    </span>│<span class="r7">               </span>│
 │<span class="r6">        </span>│                                     │<span class="r7"> </span><span class="r8">College Bold</span><span class="r7">  </span>│<span class="r7">               </span>│
 │<span class="r6">        </span>│                                     │<span class="r7">    </span><span class="r8">Inline</span><span class="r7">     </span>│<span class="r7">               </span>│
+│<span class="r6"> </span><a class="r6" href="https://www.dafont.com/forum/read/577338/hello-what-fonts-are-used-in-this-image-please">577338</a><span class="r6"> </span>│               Bambina               │<span class="r7"> </span><span class="r8">Pusab</span><span class="r9">, </span><span class="r8">Goober</span><span class="r7"> </span>│<span class="r7">   </span><span class="r8">Bubblegum</span><span class="r7">   </span>│
+│<span class="r6">        </span>│                                     │<span class="r7"> </span><span class="r8">Blob</span><span class="r9">, </span><span class="r8">Fredoka</span><span class="r7"> </span>│<span class="r7">  </span><span class="r8">Sans</span><span class="r9">, </span><span class="r8">Comic</span><span class="r7">  </span>│
+│<span class="r6">        </span>│                                     │<span class="r7">     </span><span class="r8">One</span><span class="r9">,</span><span class="r7">      </span>│<span class="r7">   </span><span class="r8">Sans MS</span><span class="r9">,</span><span class="r7">    </span>│
+│<span class="r6">        </span>│                                     │<span class="r7">   </span><span class="r8">Bubblegum</span><span class="r7">   </span>│<span class="r7">   </span><span class="r8">Jokerman</span><span class="r9">,</span><span class="r7">   </span>│
+│<span class="r6">        </span>│                                     │<span class="r7">     </span><span class="r8">Sans</span><span class="r9">,</span><span class="r7">     </span>│<span class="r7">   </span><span class="r8">Sniglet</span><span class="r9">,</span><span class="r7">    </span>│
+│<span class="r6">        </span>│                                     │<span class="r7"> </span><span class="r8">Luckiest Guy</span><span class="r7">  </span>│<span class="r7">  </span><span class="r8">Baloo Bhai</span><span class="r7">   </span>│
 │<span class="r6"> </span><a class="r6" href="https://www.dafont.com/forum/read/577348/do-someone-know-this-font">577348</a><span class="r6"> </span>│              PT Serif               │<span class="r7"> </span><span class="r8">Crimson Text</span><span class="r7">  </span>│<span class="r7">    </span><span class="r8">Fjord</span><span class="r9">,</span><span class="r7">     </span>│
 │<span class="r6">        </span>│                                     │<span class="r7">    </span><span class="r8">Italic</span><span class="r7">     </span>│<span class="r7">   </span><span class="r8">Garamond</span><span class="r9">,</span><span class="r7">   </span>│
 │<span class="r6">        </span>│                                     │<span class="r7">               </span>│<span class="r7">   </span><span class="r8">Playfair</span><span class="r7">    </span>│
@@ -144,6 +157,16 @@ The source code for this benchmark is available on <a class="r2" href="https://g
 │<span class="r6">        </span>│                                     │<span class="r7">               </span>│<span class="r7">     </span><span class="r8">Libre</span><span class="r7">     </span>│
 │<span class="r6">        </span>│                                     │<span class="r7">               </span>│<span class="r7"> </span><span class="r8">Baskerville</span><span class="r9">,</span><span class="r7">  </span>│
 │<span class="r6">        </span>│                                     │<span class="r7">               </span>│<span class="r7">    </span><span class="r8">Cinzel</span><span class="r7">     </span>│
+│<span class="r6"> </span><a class="r6" href="https://www.dafont.com/forum/read/577337/what-are-these-fonts">577337</a><span class="r6"> </span>│        Alto Greeting Script         │<span class="r7">   </span><span class="r8">Kuenstler</span><span class="r7">   </span>│<span class="r7">  </span><span class="r8">Script font</span><span class="r7">  </span>│
+│<span class="r6">        </span>│                                     │<span class="r7"> </span><span class="r8">Script</span><span class="r9">, </span><span class="r8">Snell</span><span class="r7"> </span>│<span class="r7">  </span><span class="r8">similar to</span><span class="r7">   </span>│
+│<span class="r6">        </span>│                                     │<span class="r7">  </span><span class="r8">Roundhand</span><span class="r9">,</span><span class="r7">   </span>│<span class="r7">    </span><span class="r8">&quot;Great</span><span class="r7">     </span>│
+│<span class="r6">        </span>│                                     │<span class="r7">  </span><span class="r8">Gill Sans</span><span class="r9">,</span><span class="r7">   </span>│<span class="r7"> </span><span class="r8">Vibes&quot;</span><span class="r9">, </span><span class="r8">Serif</span><span class="r7"> </span>│
+│<span class="r6">        </span>│                                     │<span class="r7">    </span><span class="r8">Elegy</span><span class="r9">,</span><span class="r7">     </span>│<span class="r7"> </span><span class="r8">font similar</span><span class="r7">  </span>│
+│<span class="r6">        </span>│                                     │<span class="r7">  </span><span class="r8">English 157</span><span class="r7">  </span>│<span class="r7"> </span><span class="r8">to &quot;Bodoni&quot;</span><span class="r9">,</span><span class="r7">  </span>│
+│<span class="r6">        </span>│                                     │<span class="r7">               </span>│<span class="r7">  </span><span class="r8">Sans-serif</span><span class="r7">   </span>│
+│<span class="r6">        </span>│                                     │<span class="r7">               </span>│<span class="r7"> </span><span class="r8">font similar</span><span class="r7">  </span>│
+│<span class="r6">        </span>│                                     │<span class="r7">               </span>│<span class="r7">      </span><span class="r8">to</span><span class="r7">       </span>│
+│<span class="r6">        </span>│                                     │<span class="r7">               </span>│<span class="r7">  </span><span class="r8">&quot;Helvetica&quot;</span><span class="r7">  </span>│
 │<span class="r6"> </span><a class="r6" href="https://www.dafont.com/forum/read/577327/crowne">577327</a><span class="r6"> </span>│           Ocean Sans Book           │<span class="r7">    </span><span class="r8">Gotham</span><span class="r9">,</span><span class="r7">    </span>│<span class="r7">    </span><span class="r8">Arial</span><span class="r9">,</span><span class="r7">     </span>│
 │<span class="r6">        </span>│                                     │<span class="r7">  </span><span class="r8">Montserrat</span><span class="r9">,</span><span class="r7">  </span>│<span class="r7">  </span><span class="r8">Helvetica</span><span class="r9">,</span><span class="r7">   </span>│
 │<span class="r6">        </span>│                                     │<span class="r7">   </span><span class="r8">Visby CF</span><span class="r7">    </span>│<span class="r7">    </span><span class="r8">Futura</span><span class="r9">,</span><span class="r7">    </span>│
