@@ -6982,5 +6982,77 @@
         "candidate_font_3": "Brittany Signature",
         "candidate_font_4": "Beyond The Mountains",
         "candidate_font_5": "Southamton"
+    },
+    {
+        "task_id": "577404",
+        "model_name": "gpt-4o-mini",
+        "candidate_font_1": "Dancing Script",
+        "candidate_font_2": "Pacifico",
+        "candidate_font_3": "Allura",
+        "candidate_font_4": "Quicksand",
+        "candidate_font_5": ""
+    },
+    {
+        "task_id": "577404",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "School Cursive",
+        "candidate_font_2": "Learning Curve Pro",
+        "candidate_font_3": "KG Primary Penmanship",
+        "candidate_font_4": "Amarillo",
+        "candidate_font_5": "Dancing Script"
+    },
+    {
+        "task_id": "577403",
+        "model_name": "gpt-4o-mini",
+        "candidate_font_1": "Lobster",
+        "candidate_font_2": "Bangers",
+        "candidate_font_3": "Clementine Sketch",
+        "candidate_font_4": "ChunkFive",
+        "candidate_font_5": "Pacifico"
+    },
+    {
+        "task_id": "577403",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Chubby Bobo",
+        "candidate_font_2": "Cooper Black",
+        "candidate_font_3": "Souvenir Bold",
+        "candidate_font_4": "Kids Club",
+        "candidate_font_5": "Porky's"
+    },
+    {
+        "task_id": "577402",
+        "model_name": "gpt-4o-mini",
+        "candidate_font_1": "Roboto Condensed",
+        "candidate_font_2": "Bebas Neue",
+        "candidate_font_3": "DIN Condensed",
+        "candidate_font_4": "Oswald",
+        "candidate_font_5": "Impact"
+    },
+    {
+        "task_id": "577402",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Attack Rider",
+        "candidate_font_2": "SF Alien Encounters Condensed",
+        "candidate_font_3": "Optimus Princeps",
+        "candidate_font_4": "Agency FB Extended Bold",
+        "candidate_font_5": "Big Noodle Titling"
+    },
+    {
+        "task_id": "577401",
+        "model_name": "gpt-4o-mini",
+        "candidate_font_1": "Bodoni",
+        "candidate_font_2": "Didot",
+        "candidate_font_3": "Trajan Pro",
+        "candidate_font_4": "Cinzel",
+        "candidate_font_5": "Playfair Display"
+    },
+    {
+        "task_id": "577401",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Ultra",
+        "candidate_font_2": "Alfa Slab One",
+        "candidate_font_3": "Bevan",
+        "candidate_font_4": "ChunkFive Roman",
+        "candidate_font_5": "Rockwell Bold"
     }
 ]
