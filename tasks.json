@@ -4350,5 +4350,29 @@
         "instructions": null,
         "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1220087.png",
         "identified_font": null
+    },
+    {
+        "task_id": "577407",
+        "url": "https://www.dafont.com/forum/read/577407/what-s-the-font-of-this-number",
+        "title": "What's the font of this number ?",
+        "instructions": "Hi, I need to identify the font used for this number please. Thanks a lot.",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1220092.jpg",
+        "identified_font": null
+    },
+    {
+        "task_id": "577406",
+        "url": "https://www.dafont.com/forum/read/577406/what-the-font",
+        "title": "What the font?",
+        "instructions": "What the font?",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1220091.png",
+        "identified_font": null
+    },
+    {
+        "task_id": "247912",
+        "url": "https://www.dafont.com/forum/read/247912/help-me-what-s-font-of-indomaret",
+        "title": "Help me, What's font of indomaret?",
+        "instructions": "What's font of indomaret?",
+        "img_url": "https://www.dafont.com/forum/attach/orig/5/6/561046.png?1",
+        "identified_font": null
     }
 ]
