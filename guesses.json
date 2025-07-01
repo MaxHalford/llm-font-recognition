@@ -7054,5 +7054,23 @@
         "candidate_font_3": "Bevan",
         "candidate_font_4": "ChunkFive Roman",
         "candidate_font_5": "Rockwell Bold"
+    },
+    {
+        "task_id": "577405",
+        "model_name": "gpt-4o-mini",
+        "candidate_font_1": "Dancing Script",
+        "candidate_font_2": "Pacifico",
+        "candidate_font_3": "Satisfy",
+        "candidate_font_4": "Great Vibes",
+        "candidate_font_5": ""
+    },
+    {
+        "task_id": "577405",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Magnolia Sky",
+        "candidate_font_2": "Bright Sunshine",
+        "candidate_font_3": "The Signature",
+        "candidate_font_4": "Stay Grateful",
+        "candidate_font_5": "Lovely Home"
     }
 ]
