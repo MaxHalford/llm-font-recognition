@@ -7072,5 +7072,59 @@
         "candidate_font_3": "The Signature",
         "candidate_font_4": "Stay Grateful",
         "candidate_font_5": "Lovely Home"
+    },
+    {
+        "task_id": "577407",
+        "model_name": "gpt-4o-mini",
+        "candidate_font_1": "Impact",
+        "candidate_font_2": "Digital",
+        "candidate_font_3": "Arial Black",
+        "candidate_font_4": "Bebas Neue",
+        "candidate_font_5": "Futura"
+    },
+    {
+        "task_id": "577407",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "CollegiateFLF",
+        "candidate_font_2": "Varsity Team",
+        "candidate_font_3": "Jersey M54",
+        "candidate_font_4": "SF Collegiate",
+        "candidate_font_5": "Octin Sports"
+    },
+    {
+        "task_id": "577406",
+        "model_name": "gpt-4o-mini",
+        "candidate_font_1": "Lobster",
+        "candidate_font_2": "Pacifico",
+        "candidate_font_3": "SignPainter",
+        "candidate_font_4": "Bebas Neue",
+        "candidate_font_5": ""
+    },
+    {
+        "task_id": "577406",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Broklyn Kids",
+        "candidate_font_2": "Youth Touchdown",
+        "candidate_font_3": "Varsity Team Script",
+        "candidate_font_4": "Retro Team",
+        "candidate_font_5": "Houston Sport Script"
+    },
+    {
+        "task_id": "247912",
+        "model_name": "gpt-4o-mini",
+        "candidate_font_1": "Pacifico",
+        "candidate_font_2": "Lobster",
+        "candidate_font_3": "Dancing Script",
+        "candidate_font_4": "Brush Script",
+        "candidate_font_5": "Freestyle Script"
+    },
+    {
+        "task_id": "247912",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Marketing Script",
+        "candidate_font_2": "Pinyon Script",
+        "candidate_font_3": "Great Vibes",
+        "candidate_font_4": "Herr Von Muellerhoff",
+        "candidate_font_5": "Sacramento"
     }
 ]
