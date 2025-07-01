@@ -196,7 +196,7 @@
         "url": "https://www.dafont.com/forum/read/577039/nail-studio-font",
         "title": "NAIL STUDIO font?",
         "instructions": null,
-        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1219283.jpg",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1219283.png?1",
         "identified_font": null
     },
     {
@@ -3317,7 +3317,7 @@
         "title": "Thanks for your help!",
         "instructions": null,
         "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1219830.jpg",
-        "identified_font": null
+        "identified_font": "Univers 59 Ultra Condensed"
     },
     {
         "task_id": "577284",
@@ -3909,7 +3909,7 @@
         "title": "Help with this font please",
         "instructions": null,
         "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1219996.png",
-        "identified_font": null
+        "identified_font": "Acropolis Black"
     },
     {
         "task_id": "577353",
@@ -4085,7 +4085,7 @@
         "title": "what name of font is that pls help me",
         "instructions": null,
         "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1220017.png",
-        "identified_font": null
+        "identified_font": "Roback"
     },
     {
         "task_id": "577370",
@@ -4205,7 +4205,7 @@
         "title": "Fonts?",
         "instructions": null,
         "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1220038.jpg",
-        "identified_font": null
+        "identified_font": "Russo One"
     },
     {
         "task_id": "577381",
@@ -4213,7 +4213,7 @@
         "title": "TRIBE",
         "instructions": "Please help me identify this font",
         "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1220036.jpg?1",
-        "identified_font": null
+        "identified_font": "Kino"
     },
     {
         "task_id": "577379",
@@ -4245,6 +4245,70 @@
         "title": "Fonts please?",
         "instructions": null,
         "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1220027.jpg",
+        "identified_font": "Hello Paris"
+    },
+    {
+        "task_id": "577400",
+        "url": "https://www.dafont.com/forum/read/577400/anyone-know-either-font-thanks",
+        "title": "Anyone know either font? Thanks!",
+        "instructions": null,
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1220076.png",
+        "identified_font": null
+    },
+    {
+        "task_id": "577398",
+        "url": "https://www.dafont.com/forum/read/577398/what-font-is-this",
+        "title": "What font is this?",
+        "instructions": "\"Lisboa\"",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1220074.jpg",
+        "identified_font": null
+    },
+    {
+        "task_id": "577395",
+        "url": "https://www.dafont.com/forum/read/577395/please-i-need-this-font",
+        "title": "Please i need this font",
+        "instructions": "please i need this font ...",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1220067.jpg",
+        "identified_font": "Atiba"
+    },
+    {
+        "task_id": "577397",
+        "url": "https://www.dafont.com/forum/read/577397/quantum-in-nuka-cola-quantum-fallout-4-76-version",
+        "title": "\"Quantum\" in Nuka Cola Quantum (Fallout 4/76 version)",
+        "instructions": "I've used MyFonts' WhatTheFont with a few images but I can't seem to find it. I've seen some people saying it's Add City Boy, but it doesn't look quite right, and I don't know if the font used was modified in any way.",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1220071.png",
+        "identified_font": null
+    },
+    {
+        "task_id": "577396",
+        "url": "https://www.dafont.com/forum/read/577396/me-dicen-cual-es",
+        "title": "Me dicen cual es",
+        "instructions": "Cual es la font de siguiente",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1220069.png",
+        "identified_font": "Browny Cakes Signature"
+    },
+    {
+        "task_id": "35693",
+        "url": "https://www.dafont.com/forum/read/35693/shout-at-the-devil",
+        "title": "Shout at the Devil",
+        "instructions": "The font for the words \"Shout at the Devil\", please",
+        "img_url": "https://www.dafont.com/forum/attach/orig/8/8/88774.jpg",
+        "identified_font": null
+    },
+    {
+        "task_id": "577394",
+        "url": "https://www.dafont.com/forum/read/577394/grave-digger-might-be-written-but-i-want-to-find-something-similar",
+        "title": "\"GRAVE DIGGER\" - might be written, but I want to find something similar",
+        "instructions": null,
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1220062.png",
+        "identified_font": null
+    },
+    {
+        "task_id": "493804",
+        "url": "https://www.dafont.com/forum/read/493804/what-font-is-this",
+        "title": "What font is this?",
+        "instructions": null,
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/0/1050042.png",
         "identified_font": null
     }
 ]
