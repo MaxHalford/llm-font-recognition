@@ -3828,8 +3828,8 @@
         "url": "https://www.dafont.com/forum/read/577348/do-someone-know-this-font",
         "title": "do someone know this font?",
         "instructions": null,
-        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1219971.png",
-        "identified_font": null
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1219971.png?1",
+        "identified_font": "PT Serif"
     },
     {
         "task_id": "576776",
@@ -3941,7 +3941,7 @@
         "title": "Identificaci\u00f3n de fuente",
         "instructions": null,
         "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1219992.png",
-        "identified_font": null
+        "identified_font": "Railey"
     },
     {
         "task_id": "577358",
@@ -4253,15 +4253,15 @@
         "title": "Anyone know either font? Thanks!",
         "instructions": null,
         "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1220076.png",
-        "identified_font": null
+        "identified_font": "Bernhard Gothic"
     },
     {
         "task_id": "577398",
         "url": "https://www.dafont.com/forum/read/577398/what-font-is-this",
         "title": "What font is this?",
         "instructions": "\"Lisboa\"",
-        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1220074.jpg",
-        "identified_font": null
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1220074.png?1",
+        "identified_font": "Foglihten No07"
     },
     {
         "task_id": "577395",
@@ -4309,6 +4309,38 @@
         "title": "What font is this?",
         "instructions": null,
         "img_url": "https://www.dafont.com/forum/attach/orig/1/0/1050042.png",
+        "identified_font": null
+    },
+    {
+        "task_id": "577404",
+        "url": "https://www.dafont.com/forum/read/577404/what-font-is-this",
+        "title": "What font is this?",
+        "instructions": null,
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1220086.png",
+        "identified_font": null
+    },
+    {
+        "task_id": "577403",
+        "url": "https://www.dafont.com/forum/read/577403/what-font-is-this",
+        "title": "what font is this?",
+        "instructions": "i was scrolling on pinterest and this post caught my attention..i think the font is very pretty, but i can't identify it.",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1220082.png?1",
+        "identified_font": null
+    },
+    {
+        "task_id": "577402",
+        "url": "https://www.dafont.com/forum/read/577402/final-attackride-font",
+        "title": "Final Attackride font",
+        "instructions": "What kind of gont is this? T.Y",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1220081.png?1",
+        "identified_font": null
+    },
+    {
+        "task_id": "577401",
+        "url": "https://www.dafont.com/forum/read/577401/help-me-find-this-font-please",
+        "title": "help me find this font please",
+        "instructions": "please i need this font, i used to have it now i can't find it",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1220080.png",
         "identified_font": null
     }
 ]
