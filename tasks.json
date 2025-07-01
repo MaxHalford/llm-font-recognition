@@ -4374,5 +4374,53 @@
         "instructions": "What's font of indomaret?",
         "img_url": "https://www.dafont.com/forum/attach/orig/5/6/561046.png?1",
         "identified_font": null
+    },
+    {
+        "task_id": "577413",
+        "url": "https://www.dafont.com/forum/read/577413/demande-police-sur-image",
+        "title": "Demande police sur image",
+        "instructions": "Quelle est cette police svp ?",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1220102.png",
+        "identified_font": null
+    },
+    {
+        "task_id": "577409",
+        "url": "https://www.dafont.com/forum/read/577409/what-is-this-font-please",
+        "title": "what is this font please",
+        "instructions": null,
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1220094.png",
+        "identified_font": null
+    },
+    {
+        "task_id": "577412",
+        "url": "https://www.dafont.com/forum/read/577412/quelle-est-cette-police",
+        "title": "Quelle est cette police ?",
+        "instructions": null,
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1220101.png",
+        "identified_font": null
+    },
+    {
+        "task_id": "577410",
+        "url": "https://www.dafont.com/forum/read/577410/recherche-typographie",
+        "title": "Recherche Typographie !!",
+        "instructions": "Bonjour tout le monde !!",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1220095.png",
+        "identified_font": null
+    },
+    {
+        "task_id": "577411",
+        "url": "https://www.dafont.com/forum/read/577411/big-bands",
+        "title": "BIG BANDS",
+        "instructions": null,
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1220096.jpg",
+        "identified_font": null
+    },
+    {
+        "task_id": "577408",
+        "url": "https://www.dafont.com/forum/read/577408/looking-for-this-font",
+        "title": "Looking for this font",
+        "instructions": null,
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1220093.png",
+        "identified_font": null
     }
 ]
