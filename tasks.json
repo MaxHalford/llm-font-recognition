@@ -2164,7 +2164,7 @@
         "url": "https://www.dafont.com/forum/read/577123/help",
         "title": "HELP",
         "instructions": "What is the name of this font, please?",
-        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1219478.jpg",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1219478.png?1",
         "identified_font": null
     },
     {
@@ -3821,7 +3821,7 @@
         "title": "What are these fonts?",
         "instructions": "What are the three fonts used on this cover?",
         "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1219957.png?1",
-        "identified_font": null
+        "identified_font": "Alto Greeting Script"
     },
     {
         "task_id": "577348",
@@ -3893,7 +3893,7 @@
         "title": "Hello, what fonts are used in this image please?",
         "instructions": "Chinese",
         "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1219959.jpg",
-        "identified_font": null
+        "identified_font": "Bambina"
     },
     {
         "task_id": "577363",
@@ -4381,7 +4381,7 @@
         "title": "Demande police sur image",
         "instructions": "Quelle est cette police svp ?",
         "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1220102.png",
-        "identified_font": null
+        "identified_font": "Pacifico"
     },
     {
         "task_id": "577409",
@@ -4581,6 +4581,70 @@
         "title": "what font is this?",
         "instructions": null,
         "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1220130.png",
+        "identified_font": null
+    },
+    {
+        "task_id": "577440",
+        "url": "https://www.dafont.com/forum/read/577440/trying-to-find-where-this-font-can-be-purchased",
+        "title": "trying to find where this font can be purchased",
+        "instructions": "hi! This creator said this font is called \"Merry Christmas\" but anywhere i look I cant find out where this one is from specifically. I just got a bunch of Christmas-related fonts, but not this specific one. would love anyhelp",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1220170.jpg",
+        "identified_font": null
+    },
+    {
+        "task_id": "577439",
+        "url": "https://www.dafont.com/forum/read/577439/forbidden",
+        "title": "Forbidden",
+        "instructions": "WOULD LOVE TO KNOW THIS FONT NAME!",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1220169.jpg",
+        "identified_font": null
+    },
+    {
+        "task_id": "577438",
+        "url": "https://www.dafont.com/forum/read/577438/identificacao-de-fonte",
+        "title": "Identifica\u00e7\u00e3o de fonte",
+        "instructions": null,
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1220166.png",
+        "identified_font": null
+    },
+    {
+        "task_id": "577437",
+        "url": "https://www.dafont.com/forum/read/577437/fonts-please",
+        "title": "Fonts please?",
+        "instructions": null,
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1220165.jpg",
+        "identified_font": null
+    },
+    {
+        "task_id": "577436",
+        "url": "https://www.dafont.com/forum/read/577436/hola-alguien-sabe-como-se-llama-esta-fuente-gracias-y-quedo-atento",
+        "title": "Hola, Alguien sabe como se llama esta fuente?, Gracias y quedo atento",
+        "instructions": null,
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1220164.png",
+        "identified_font": null
+    },
+    {
+        "task_id": "577435",
+        "url": "https://www.dafont.com/forum/read/577435/font-id-request-sonata",
+        "title": "Font ID Request: Sonata",
+        "instructions": "What font did Hyundai use for the Sonata line?",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1220163.jpg",
+        "identified_font": null
+    },
+    {
+        "task_id": "577434",
+        "url": "https://www.dafont.com/forum/read/577434/name-font",
+        "title": "name font???",
+        "instructions": null,
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1220158.png",
+        "identified_font": null
+    },
+    {
+        "task_id": "577433",
+        "url": "https://www.dafont.com/forum/read/577433/font",
+        "title": "Font??",
+        "instructions": null,
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1220157.png",
         "identified_font": null
     }
 ]
