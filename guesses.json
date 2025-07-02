@@ -7756,5 +7756,41 @@
         "candidate_font_3": "Headbanger",
         "candidate_font_4": "Destroy",
         "candidate_font_5": "Beyond Wonderland"
+    },
+    {
+        "task_id": "577451",
+        "model_name": "gpt-4o-mini",
+        "candidate_font_1": "Bebas Neue",
+        "candidate_font_2": "Oswald",
+        "candidate_font_3": "Montserrat",
+        "candidate_font_4": "Anton",
+        "candidate_font_5": "Impact"
+    },
+    {
+        "task_id": "577451",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "DIN Next LT Pro Bold",
+        "candidate_font_2": "Oswald Bold",
+        "candidate_font_3": "Montserrat Bold",
+        "candidate_font_4": "Bebas Neue Bold",
+        "candidate_font_5": "Impact"
+    },
+    {
+        "task_id": "279597",
+        "model_name": "gpt-4o-mini",
+        "candidate_font_1": "Brush Script",
+        "candidate_font_2": "Lobster",
+        "candidate_font_3": "Pacifico",
+        "candidate_font_4": "Dancing Script",
+        "candidate_font_5": ""
+    },
+    {
+        "task_id": "279597",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Bromello",
+        "candidate_font_2": "Playlist Script",
+        "candidate_font_3": "Magnolia Sky",
+        "candidate_font_4": "Lovely Buttercup",
+        "candidate_font_5": "Rouge Script"
     }
 ]
