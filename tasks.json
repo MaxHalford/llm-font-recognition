@@ -4037,7 +4037,7 @@
         "title": "que fonte \u00e9 essa?",
         "instructions": "Por favor me ajudem com essa fonte",
         "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1220023.jpg",
-        "identified_font": null
+        "identified_font": "Kalline"
     },
     {
         "task_id": "577374",
@@ -4429,7 +4429,7 @@
         "title": "Une idee pour cette typo?",
         "instructions": "Bonjour",
         "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1220128.jpg",
-        "identified_font": null
+        "identified_font": "Love Monster"
     },
     {
         "task_id": "577424",
@@ -4718,5 +4718,21 @@
         "instructions": null,
         "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1220174.png",
         "identified_font": "Legendaire"
+    },
+    {
+        "task_id": "577451",
+        "url": "https://www.dafont.com/forum/read/577451/font-request",
+        "title": "Font request",
+        "instructions": "Need help on this font to be engraved in a medal.",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1220198.png",
+        "identified_font": null
+    },
+    {
+        "task_id": "279597",
+        "url": "https://www.dafont.com/forum/read/279597/fonte-da-banda-rouge",
+        "title": "Fonte da banda Rouge",
+        "instructions": "Por favor, algu\u00e9m sabe o nome dessa fonte? Estou editando um v\u00eddeo e ela se encaixaria perfeitamente no trabalho.. Obrigado pessoal",
+        "img_url": "https://www.dafont.com/forum/attach/orig/6/2/625511.png?1",
+        "identified_font": null
     }
 ]
