@@ -4846,5 +4846,37 @@
         "instructions": "What is the font for \"Where You Belong\" text? Thank you!",
         "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1220208.png",
         "identified_font": "Eurostile"
+    },
+    {
+        "task_id": "577466",
+        "url": "https://www.dafont.com/forum/read/577466/what-is-the-name-of-this-font",
+        "title": "What is the name of this font?",
+        "instructions": null,
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1220224.jpg",
+        "identified_font": null
+    },
+    {
+        "task_id": "577470",
+        "url": "https://www.dafont.com/forum/read/577470/m",
+        "title": "M",
+        "instructions": null,
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1220230.jpg",
+        "identified_font": null
+    },
+    {
+        "task_id": "577469",
+        "url": "https://www.dafont.com/forum/read/577469/arano",
+        "title": "arano",
+        "instructions": null,
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1220229.jpg",
+        "identified_font": null
+    },
+    {
+        "task_id": "577467",
+        "url": "https://www.dafont.com/forum/read/577467/a590",
+        "title": "A590",
+        "instructions": null,
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1220227.jpg",
+        "identified_font": null
     }
 ]
