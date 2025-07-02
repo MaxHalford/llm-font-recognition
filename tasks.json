@@ -2165,7 +2165,7 @@
         "title": "HELP",
         "instructions": "What is the name of this font, please?",
         "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1219478.png?1",
-        "identified_font": null
+        "identified_font": "Rafaella"
     },
     {
         "task_id": "577120",
@@ -2669,7 +2669,7 @@
         "title": "Any help guys? Thanks in advance",
         "instructions": null,
         "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1219658.jpg",
-        "identified_font": null
+        "identified_font": "Arial Bold"
     },
     {
         "task_id": "577210",
@@ -4605,7 +4605,7 @@
         "title": "Identifica\u00e7\u00e3o de fonte",
         "instructions": null,
         "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1220166.png",
-        "identified_font": null
+        "identified_font": "Autophobia"
     },
     {
         "task_id": "577437",
@@ -4613,7 +4613,7 @@
         "title": "Fonts please?",
         "instructions": null,
         "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1220165.jpg",
-        "identified_font": null
+        "identified_font": "Bernier"
     },
     {
         "task_id": "577436",
@@ -4646,5 +4646,77 @@
         "instructions": null,
         "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1220157.png",
         "identified_font": null
+    },
+    {
+        "task_id": "577449",
+        "url": "https://www.dafont.com/forum/read/577449/qual-e-essa-fonte",
+        "title": "Qual e essa fonte?",
+        "instructions": null,
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1220192.jpg",
+        "identified_font": null
+    },
+    {
+        "task_id": "577447",
+        "url": "https://www.dafont.com/forum/read/577447/help-what-font-is-this",
+        "title": "Help! What font is this?",
+        "instructions": "THE BOY IS MINE",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1220189.jpg",
+        "identified_font": "Typeka Mix"
+    },
+    {
+        "task_id": "577448",
+        "url": "https://www.dafont.com/forum/read/577448/great-wolf-kids-font",
+        "title": "Great Wolf Kids Font",
+        "instructions": "Hi! Can someone help me identify this font?",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1220190.png?1",
+        "identified_font": null
+    },
+    {
+        "task_id": "577446",
+        "url": "https://www.dafont.com/forum/read/577446/help-what-font-is-this",
+        "title": "Help! What font is this?",
+        "instructions": "urbae",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1220188.jpg",
+        "identified_font": null
+    },
+    {
+        "task_id": "577445",
+        "url": "https://www.dafont.com/forum/read/577445/what-the-font-please",
+        "title": "What the font please?",
+        "instructions": null,
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1220187.jpg",
+        "identified_font": null
+    },
+    {
+        "task_id": "577443",
+        "url": "https://www.dafont.com/forum/read/577443/can-you-help-me-find-this-font-is-this-saltwater",
+        "title": "Can you help me find this font? Is this saltwater?",
+        "instructions": null,
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1220180.png?1",
+        "identified_font": "Augillion"
+    },
+    {
+        "task_id": "577442",
+        "url": "https://www.dafont.com/forum/read/577442/can-you-help-me-find-this-font-thank-you",
+        "title": "Can you help me find this font? Thank you!",
+        "instructions": null,
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1220179.png?1",
+        "identified_font": "Rafaella"
+    },
+    {
+        "task_id": "470634",
+        "url": "https://www.dafont.com/forum/read/470634/help-font-name-of-two-images-true-crimes-and-darkness",
+        "title": "Help,font name of two images, \"true crimes\" and \"darkness\"",
+        "instructions": "Help,font name of two images, \"true crimes\" and \"darkness\"",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/0/1003469.png",
+        "identified_font": "Legendaire"
+    },
+    {
+        "task_id": "577441",
+        "url": "https://www.dafont.com/forum/read/577441/identify-this-font-and-tell-me-what-font-is-ths-pls",
+        "title": "Identify this font and tell me what font is ths PLS",
+        "instructions": null,
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1220174.png",
+        "identified_font": "Legendaire"
     }
 ]
