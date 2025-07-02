@@ -4045,7 +4045,7 @@
         "title": "Can you help me identify the font please?",
         "instructions": null,
         "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1220022.png",
-        "identified_font": null
+        "identified_font": "Jazzy B"
     },
     {
         "task_id": "577373",
@@ -4108,7 +4108,7 @@
         "url": "https://www.dafont.com/forum/read/577367/help",
         "title": "help",
         "instructions": null,
-        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1220013.png",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1220013.png?1",
         "identified_font": null
     },
     {
@@ -5037,7 +5037,7 @@
         "title": "font \"Mia Wicthoff\" please",
         "instructions": "what\u00b4s the name font \"Mia Wicthoff\" please?",
         "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1220263.jpg",
-        "identified_font": null
+        "identified_font": "Pinyon Script"
     },
     {
         "task_id": "577484",
@@ -5045,7 +5045,7 @@
         "title": "font \"Mia Wicthoff\" please",
         "instructions": "what\u00b4s the name font \"\" please?",
         "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1220262.jpg",
-        "identified_font": null
+        "identified_font": "Scholar"
     },
     {
         "task_id": "577481",
@@ -5061,7 +5061,7 @@
         "title": "font \"Luiza Dam\" please",
         "instructions": "what\u00b4s the name font \"ciumes\" please?",
         "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1220260.jpg",
-        "identified_font": null
+        "identified_font": "Kindel Serif"
     },
     {
         "task_id": "577482",
@@ -5093,7 +5093,7 @@
         "title": "OUR TOWN Font",
         "instructions": null,
         "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1220253.png",
-        "identified_font": null
+        "identified_font": "Josefin Sans"
     },
     {
         "task_id": "576656",
@@ -5110,5 +5110,77 @@
         "instructions": "Which is STUSSY, and Stockholm fonts ?",
         "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1220250.jpg",
         "identified_font": null
+    },
+    {
+        "task_id": "577501",
+        "url": "https://www.dafont.com/forum/read/577501/font",
+        "title": "Font?",
+        "instructions": null,
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1220319.jpg",
+        "identified_font": null
+    },
+    {
+        "task_id": "577500",
+        "url": "https://www.dafont.com/forum/read/577500/kinitopet-font",
+        "title": "KinitoPET font?",
+        "instructions": null,
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1220316.png",
+        "identified_font": null
+    },
+    {
+        "task_id": "577499",
+        "url": "https://www.dafont.com/forum/read/577499/help-please",
+        "title": "Help please ??",
+        "instructions": "Hi,",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1220312.png?1",
+        "identified_font": "Halmera"
+    },
+    {
+        "task_id": "577498",
+        "url": "https://www.dafont.com/forum/read/577498/1991-still-crusin-font",
+        "title": "1991 Still Crusin font",
+        "instructions": "Please and thank you! Been trying to track down!",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1220301.jpg",
+        "identified_font": "Freestyle Script"
+    },
+    {
+        "task_id": "577497",
+        "url": "https://www.dafont.com/forum/read/577497/help-please",
+        "title": "Help Please",
+        "instructions": "What font is used here Please",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1220299.png",
+        "identified_font": null
+    },
+    {
+        "task_id": "577495",
+        "url": "https://www.dafont.com/forum/read/577495/game-over",
+        "title": "\"GAME OVER\"",
+        "instructions": null,
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1220294.png?1",
+        "identified_font": "DIN Next Bold"
+    },
+    {
+        "task_id": "564620",
+        "url": "https://www.dafont.com/forum/read/564620/font-please",
+        "title": "Font, please.",
+        "instructions": null,
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/1/1194152.png?1",
+        "identified_font": null
+    },
+    {
+        "task_id": "562196",
+        "url": "https://www.dafont.com/forum/read/562196/what-font-is-used-please",
+        "title": "What Font is Used Please",
+        "instructions": "What Font is Used Please",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/1/1189015.png",
+        "identified_font": null
+    },
+    {
+        "task_id": "541148",
+        "url": "https://www.dafont.com/forum/read/541148/what-font-is-this",
+        "title": "what font is this?",
+        "instructions": "Hello!! what font is this?",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/1/1143958.png?1",
+        "identified_font": "Mexcellent"
     }
 ]
