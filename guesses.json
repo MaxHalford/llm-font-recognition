@@ -7684,5 +7684,77 @@
         "candidate_font_3": "",
         "candidate_font_4": "",
         "candidate_font_5": ""
+    },
+    {
+        "task_id": "577449",
+        "model_name": "gpt-4o-mini",
+        "candidate_font_1": "Lobster",
+        "candidate_font_2": "Pacifico",
+        "candidate_font_3": "Dancing Script",
+        "candidate_font_4": "Great Vibes",
+        "candidate_font_5": "Cookie"
+    },
+    {
+        "task_id": "577449",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Adora Bouton",
+        "candidate_font_2": "The California",
+        "candidate_font_3": "Magnolia Sky",
+        "candidate_font_4": "Lovely Home",
+        "candidate_font_5": "Brittany Signature"
+    },
+    {
+        "task_id": "577448",
+        "model_name": "gpt-4o-mini",
+        "candidate_font_1": "Kidprint",
+        "candidate_font_2": "Bubblegum Sans",
+        "candidate_font_3": "Comic Sans MS",
+        "candidate_font_4": "Pea Ryan",
+        "candidate_font_5": "Rounded Elegance"
+    },
+    {
+        "task_id": "577448",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Porky's",
+        "candidate_font_2": "Kids Rock",
+        "candidate_font_3": "Plumpkin",
+        "candidate_font_4": "Comical Cartoon",
+        "candidate_font_5": "Chewy"
+    },
+    {
+        "task_id": "577446",
+        "model_name": "gpt-4o-mini",
+        "candidate_font_1": "Bodoni Moda",
+        "candidate_font_2": "Playfair Display",
+        "candidate_font_3": "Cinzel Decorative",
+        "candidate_font_4": "Great Vibes",
+        "candidate_font_5": "Ruthie"
+    },
+    {
+        "task_id": "577446",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Moonlight (by Vuuuds Studio)",
+        "candidate_font_2": "South Australia (by Bluestudio)",
+        "candidate_font_3": "Montserrat",
+        "candidate_font_4": "Bright Light (by Vuuuds Studio)",
+        "candidate_font_5": "Lovelyn (by Letterhend Studio)"
+    },
+    {
+        "task_id": "577445",
+        "model_name": "gpt-4o-mini",
+        "candidate_font_1": "Creepster",
+        "candidate_font_2": "Carnivalee Freakshow",
+        "candidate_font_3": "Blood Crow",
+        "candidate_font_4": "Cursed",
+        "candidate_font_5": "Freaky"
+    },
+    {
+        "task_id": "577445",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Death Rattle",
+        "candidate_font_2": "Necrofonticon",
+        "candidate_font_3": "Headbanger",
+        "candidate_font_4": "Destroy",
+        "candidate_font_5": "Beyond Wonderland"
     }
 ]
