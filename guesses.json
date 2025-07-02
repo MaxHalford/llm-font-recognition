@@ -8080,5 +8080,131 @@
         "candidate_font_3": "Vialog Italic",
         "candidate_font_4": "Open Sans Italic",
         "candidate_font_5": "Roboto Italic"
+    },
+    {
+        "task_id": "572710",
+        "model_name": "gpt-4o-mini",
+        "candidate_font_1": "Comic Sans MS",
+        "candidate_font_2": "SpongeBob SquarePants",
+        "candidate_font_3": "BubbleGum",
+        "candidate_font_4": "Chalkboard SE",
+        "candidate_font_5": "Dancing Script"
+    },
+    {
+        "task_id": "572710",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Boogaloo",
+        "candidate_font_2": "Chewy",
+        "candidate_font_3": "Bubblegum Sans",
+        "candidate_font_4": "Luckiest Guy",
+        "candidate_font_5": "Bangers"
+    },
+    {
+        "task_id": "566714",
+        "model_name": "gpt-4o-mini",
+        "candidate_font_1": "Nike Dotted",
+        "candidate_font_2": "N/A",
+        "candidate_font_3": "N/A",
+        "candidate_font_4": "N/A",
+        "candidate_font_5": "N/A"
+    },
+    {
+        "task_id": "566714",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Brasil 2004 (Numbers) by FFFFonts",
+        "candidate_font_2": "Brasil 2004 by FFFFonts",
+        "candidate_font_3": "",
+        "candidate_font_4": "",
+        "candidate_font_5": ""
+    },
+    {
+        "task_id": "577474",
+        "model_name": "gpt-4o-mini",
+        "candidate_font_1": "Bebas Neue",
+        "candidate_font_2": "ChunkFive",
+        "candidate_font_3": "Fjalla One",
+        "candidate_font_4": "Black Han Sans",
+        "candidate_font_5": "Rock Salt"
+    },
+    {
+        "task_id": "577474",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "SF Collegiate",
+        "candidate_font_2": "Varsity Team",
+        "candidate_font_3": "Freshman",
+        "candidate_font_4": "College Block",
+        "candidate_font_5": "ChunkFive Roman"
+    },
+    {
+        "task_id": "577473",
+        "model_name": "gpt-4o-mini",
+        "candidate_font_1": "Comic Sans MS",
+        "candidate_font_2": "Chalkboard",
+        "candidate_font_3": "Dancing Script",
+        "candidate_font_4": "Marker Felt",
+        "candidate_font_5": ""
+    },
+    {
+        "task_id": "577473",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Kalam",
+        "candidate_font_2": "Rock Salt",
+        "candidate_font_3": "Gochi Hand",
+        "candidate_font_4": "Patrick Hand",
+        "candidate_font_5": "Indie Flower"
+    },
+    {
+        "task_id": "577472",
+        "model_name": "gpt-4o-mini",
+        "candidate_font_1": "Lobster",
+        "candidate_font_2": "Pacifico",
+        "candidate_font_3": "Dancing Script",
+        "candidate_font_4": "Brush Script MT",
+        "candidate_font_5": "Great Vibes"
+    },
+    {
+        "task_id": "577472",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "The Braggest",
+        "candidate_font_2": "Hello Beautiful",
+        "candidate_font_3": "Summer Hearts",
+        "candidate_font_4": "Stay High",
+        "candidate_font_5": "Lovely Buttercup"
+    },
+    {
+        "task_id": "576644",
+        "model_name": "gpt-4o-mini",
+        "candidate_font_1": "Bebas Neue",
+        "candidate_font_2": "Anton",
+        "candidate_font_3": "Impact",
+        "candidate_font_4": "Oswald",
+        "candidate_font_5": "Fjalla One"
+    },
+    {
+        "task_id": "576644",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Compacta",
+        "candidate_font_2": "Impact",
+        "candidate_font_3": "Anton",
+        "candidate_font_4": "DIN Condensed",
+        "candidate_font_5": "Neue Plak Extended"
+    },
+    {
+        "task_id": "577471",
+        "model_name": "gpt-4o-mini",
+        "candidate_font_1": "BubbleGum",
+        "candidate_font_2": "Comic Sans MS",
+        "candidate_font_3": "Lobster",
+        "candidate_font_4": "Chalkboard",
+        "candidate_font_5": "Baloo"
+    },
+    {
+        "task_id": "577471",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Love Ya Like A Sister",
+        "candidate_font_2": "KG Summer Sunshine Outline",
+        "candidate_font_3": "Fredoka One",
+        "candidate_font_4": "Bubblegum Sans",
+        "candidate_font_5": "KG Primary Penmanship Outline"
     }
 ]
