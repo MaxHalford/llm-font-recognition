@@ -4741,7 +4741,7 @@
         "title": "Let's glow girls / Glossary",
         "instructions": "Any guesses? thanks",
         "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1220206.png",
-        "identified_font": null
+        "identified_font": "Very Vogue"
     },
     {
         "task_id": "577453",
@@ -4758,5 +4758,93 @@
         "instructions": "\"LUIZA DAM\" fonteeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee",
         "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1220203.png",
         "identified_font": null
+    },
+    {
+        "task_id": "577465",
+        "url": "https://www.dafont.com/forum/read/577465/chiller",
+        "title": "CHILLER",
+        "instructions": null,
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1220223.png",
+        "identified_font": null
+    },
+    {
+        "task_id": "577462",
+        "url": "https://www.dafont.com/forum/read/577462/this-font-please",
+        "title": "this font please",
+        "instructions": null,
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1220219.png",
+        "identified_font": null
+    },
+    {
+        "task_id": "577464",
+        "url": "https://www.dafont.com/forum/read/577464/my-first",
+        "title": "MY FIRST",
+        "instructions": null,
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1220221.png",
+        "identified_font": null
+    },
+    {
+        "task_id": "577463",
+        "url": "https://www.dafont.com/forum/read/577463/sugar-pop-we-re-stronger",
+        "title": "Sugar pop, we're stronger",
+        "instructions": null,
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1220220.png",
+        "identified_font": null
+    },
+    {
+        "task_id": "577461",
+        "url": "https://www.dafont.com/forum/read/577461/bomb",
+        "title": "bomb",
+        "instructions": null,
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1220218.jpg",
+        "identified_font": null
+    },
+    {
+        "task_id": "577460",
+        "url": "https://www.dafont.com/forum/read/577460/remixes",
+        "title": "Remixes",
+        "instructions": null,
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1220217.jpg",
+        "identified_font": null
+    },
+    {
+        "task_id": "577459",
+        "url": "https://www.dafont.com/forum/read/577459/what-font",
+        "title": "wHAT FONT?",
+        "instructions": "wHAT FONT?",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1220216.png",
+        "identified_font": null
+    },
+    {
+        "task_id": "577458",
+        "url": "https://www.dafont.com/forum/read/577458/kpop-demon-hunters-font",
+        "title": "Kpop Demon Hunters Font",
+        "instructions": "The logo font please",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1220215.jpg",
+        "identified_font": null
+    },
+    {
+        "task_id": "577457",
+        "url": "https://www.dafont.com/forum/read/577457/identify-this-font",
+        "title": "Identify this font",
+        "instructions": null,
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1220212.png",
+        "identified_font": "Bank Gothic"
+    },
+    {
+        "task_id": "577456",
+        "url": "https://www.dafont.com/forum/read/577456/font-find",
+        "title": "FONT FIND",
+        "instructions": "What is the font used in Where You Belong?",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1220211.jpg",
+        "identified_font": null
+    },
+    {
+        "task_id": "577455",
+        "url": "https://www.dafont.com/forum/read/577455/font-find",
+        "title": "FONT FIND",
+        "instructions": "What is the font for \"Where You Belong\" text? Thank you!",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1220208.png",
+        "identified_font": "Eurostile"
     }
 ]
