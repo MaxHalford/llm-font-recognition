@@ -8008,5 +8008,77 @@
         "candidate_font_3": "Dancing Script",
         "candidate_font_4": "Pacifico",
         "candidate_font_5": "Brush Script"
+    },
+    {
+        "task_id": "577466",
+        "model_name": "gpt-4o-mini",
+        "candidate_font_1": "Cinzel",
+        "candidate_font_2": "Garamond",
+        "candidate_font_3": "Trajan Pro",
+        "candidate_font_4": "Bodoni",
+        "candidate_font_5": ""
+    },
+    {
+        "task_id": "577466",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Pagan",
+        "candidate_font_2": "",
+        "candidate_font_3": "",
+        "candidate_font_4": "",
+        "candidate_font_5": ""
+    },
+    {
+        "task_id": "577470",
+        "model_name": "gpt-4o-mini",
+        "candidate_font_1": "Mistral",
+        "candidate_font_2": "Playlist Script",
+        "candidate_font_3": "Lobster",
+        "candidate_font_4": "Pacifico",
+        "candidate_font_5": ""
+    },
+    {
+        "task_id": "577470",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Zapfino",
+        "candidate_font_2": "Pristina",
+        "candidate_font_3": "Edwardian Script ITC",
+        "candidate_font_4": "Beautiful People",
+        "candidate_font_5": "Signatra"
+    },
+    {
+        "task_id": "577469",
+        "model_name": "gpt-4o-mini",
+        "candidate_font_1": "Pacifico",
+        "candidate_font_2": "Brush Script",
+        "candidate_font_3": "Allura",
+        "candidate_font_4": "Lobster",
+        "candidate_font_5": ""
+    },
+    {
+        "task_id": "577469",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Arano",
+        "candidate_font_2": "Bickham Script Pro",
+        "candidate_font_3": "Pinyon Script",
+        "candidate_font_4": "Great Vibes",
+        "candidate_font_5": "Allura"
+    },
+    {
+        "task_id": "577467",
+        "model_name": "gpt-4o-mini",
+        "candidate_font_1": "Bebas Neue",
+        "candidate_font_2": "Anton",
+        "candidate_font_3": "Oswald",
+        "candidate_font_4": "Impact",
+        "candidate_font_5": ""
+    },
+    {
+        "task_id": "577467",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "FF DIN Italic",
+        "candidate_font_2": "DIN 1451 Mittelschrift Italic",
+        "candidate_font_3": "Vialog Italic",
+        "candidate_font_4": "Open Sans Italic",
+        "candidate_font_5": "Roboto Italic"
     }
 ]
