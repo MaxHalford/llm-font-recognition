@@ -7792,5 +7792,59 @@
         "candidate_font_3": "Magnolia Sky",
         "candidate_font_4": "Lovely Buttercup",
         "candidate_font_5": "Rouge Script"
+    },
+    {
+        "task_id": "577454",
+        "model_name": "gpt-4o-mini",
+        "candidate_font_1": "Futura",
+        "candidate_font_2": "Bodoni",
+        "candidate_font_3": "Playfair Display",
+        "candidate_font_4": "Didot",
+        "candidate_font_5": "Garamond"
+    },
+    {
+        "task_id": "577454",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Recife Display",
+        "candidate_font_2": "GT Alpina Italic",
+        "candidate_font_3": "Canela Display",
+        "candidate_font_4": "Freight Text Italic",
+        "candidate_font_5": "Mrs Eaves Italic"
+    },
+    {
+        "task_id": "577453",
+        "model_name": "gpt-4o-mini",
+        "candidate_font_1": "Bebas Neue",
+        "candidate_font_2": "Montserrat",
+        "candidate_font_3": "Garamond",
+        "candidate_font_4": "Raleway",
+        "candidate_font_5": "Playfair Display"
+    },
+    {
+        "task_id": "577453",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Playfair Display",
+        "candidate_font_2": "Butler",
+        "candidate_font_3": "Glamour Absolute",
+        "candidate_font_4": "Didot",
+        "candidate_font_5": "Cormorant Garamond"
+    },
+    {
+        "task_id": "577452",
+        "model_name": "gpt-4o-mini",
+        "candidate_font_1": "Futura",
+        "candidate_font_2": "Montserrat",
+        "candidate_font_3": "Arial Rounded",
+        "candidate_font_4": "Poppins",
+        "candidate_font_5": "Avant Garde"
+    },
+    {
+        "task_id": "577452",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Code Pro Light",
+        "candidate_font_2": "Heroic Light",
+        "candidate_font_3": "Bebas Neue Thin",
+        "candidate_font_4": "Moderne Sans",
+        "candidate_font_5": "Montserrat Hairline"
     }
 ]
