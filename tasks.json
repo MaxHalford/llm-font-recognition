@@ -3772,7 +3772,7 @@
         "url": "https://www.dafont.com/forum/read/577332/que-font-es",
         "title": "QUE FONT ES",
         "instructions": null,
-        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1219946.jpg",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1219946.png?1",
         "identified_font": null
     },
     {
@@ -3780,7 +3780,7 @@
         "url": "https://www.dafont.com/forum/read/577331/que-fuente-es-esta",
         "title": "QUE FUENTE ES ESTA",
         "instructions": null,
-        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1219945.jpg",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1219945.png?1",
         "identified_font": null
     },
     {
@@ -3788,7 +3788,7 @@
         "url": "https://www.dafont.com/forum/read/577330/que-fuenteses-esta",
         "title": "QUE FUENTESES ESTA",
         "instructions": null,
-        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1219943.jpg",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1219943.png?1",
         "identified_font": null
     },
     {
@@ -5182,5 +5182,77 @@
         "instructions": "Hello!! what font is this?",
         "img_url": "https://www.dafont.com/forum/attach/orig/1/1/1143958.png?1",
         "identified_font": "Mexcellent"
+    },
+    {
+        "task_id": "545307",
+        "url": "https://www.dafont.com/forum/read/545307/font-identification",
+        "title": "font identification",
+        "instructions": "any leads similar ?",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/1/1153000.jpg",
+        "identified_font": null
+    },
+    {
+        "task_id": "577508",
+        "url": "https://www.dafont.com/forum/read/577508/font",
+        "title": "Font?",
+        "instructions": "Help me find this font pretty please with sugar on top!",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1220336.png",
+        "identified_font": "Supreme"
+    },
+    {
+        "task_id": "577509",
+        "url": "https://www.dafont.com/forum/read/577509/the-music-industry-font-please",
+        "title": "\"THE MUSIC INDUSTRY\" font, please.",
+        "instructions": null,
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1220337.jpg",
+        "identified_font": null
+    },
+    {
+        "task_id": "577507",
+        "url": "https://www.dafont.com/forum/read/577507/number-font",
+        "title": "Number font?",
+        "instructions": "Anyone know what font this is? Thanks",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1220335.png",
+        "identified_font": null
+    },
+    {
+        "task_id": "577506",
+        "url": "https://www.dafont.com/forum/read/577506/rosalia-font",
+        "title": "ROSAL\u00cdA FONT?",
+        "instructions": null,
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1220333.jpg",
+        "identified_font": null
+    },
+    {
+        "task_id": "577505",
+        "url": "https://www.dafont.com/forum/read/577505/and-fabulous-font-please",
+        "title": "\u0093And fabulous\u0094 font please",
+        "instructions": null,
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1220325.jpg",
+        "identified_font": "Samantha"
+    },
+    {
+        "task_id": "577503",
+        "url": "https://www.dafont.com/forum/read/577503/id-font",
+        "title": "ID FONT?",
+        "instructions": null,
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1220323.png",
+        "identified_font": "Elegant Line 7"
+    },
+    {
+        "task_id": "577504",
+        "url": "https://www.dafont.com/forum/read/577504/font-name-please",
+        "title": "Font name please :)",
+        "instructions": "\"run-it x nuts\u0093",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1220324.jpg",
+        "identified_font": null
+    },
+    {
+        "task_id": "577502",
+        "url": "https://www.dafont.com/forum/read/577502/font-name-pls",
+        "title": "Font name pls :)",
+        "instructions": null,
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1220322.jpg",
+        "identified_font": null
     }
 ]
