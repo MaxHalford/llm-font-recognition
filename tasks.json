@@ -5261,7 +5261,7 @@
         "title": "What is the script font used on this shirt?",
         "instructions": null,
         "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1220351.jpg",
-        "identified_font": null
+        "identified_font": "Lovely Mothers Script"
     },
     {
         "task_id": "577516",
@@ -5309,7 +5309,7 @@
         "title": "What font? (source web: text in tumblr)",
         "instructions": null,
         "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1220342.jpg",
-        "identified_font": null
+        "identified_font": "Favorit Tumblr"
     },
     {
         "task_id": "577521",
@@ -5476,8 +5476,8 @@
         "url": "https://www.dafont.com/forum/read/577539/what-the-font-please",
         "title": "What the font? Please",
         "instructions": null,
-        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1220397.jpg",
-        "identified_font": null
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1220397.jpg?1",
+        "identified_font": "Charming Strangulation"
     },
     {
         "task_id": "577538",
@@ -5509,6 +5509,78 @@
         "title": "Please find this font on \"CAST\" please!",
         "instructions": "please find this font!!!",
         "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1220386.jpg",
+        "identified_font": null
+    },
+    {
+        "task_id": "577551",
+        "url": "https://www.dafont.com/forum/read/577551/can-you-identify-this-font",
+        "title": "Can you identify this font?",
+        "instructions": null,
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1220424.png",
+        "identified_font": null
+    },
+    {
+        "task_id": "577550",
+        "url": "https://www.dafont.com/forum/read/577550/glossary",
+        "title": "Glossary",
+        "instructions": "Any guesses?",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1220423.png",
+        "identified_font": null
+    },
+    {
+        "task_id": "577549",
+        "url": "https://www.dafont.com/forum/read/577549/name-nombre-porfavor",
+        "title": "name nombre porfavor!!",
+        "instructions": null,
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1220421.png",
+        "identified_font": null
+    },
+    {
+        "task_id": "577544",
+        "url": "https://www.dafont.com/forum/read/577544/hello-can-someone-please-help-me-identify-the-ampersand-in-the-photo",
+        "title": "Hello, can someone please help me identify the ampersand in the photo?",
+        "instructions": "Hello, can someone please help me identify the ampersand in the photo?",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1220405.jpg",
+        "identified_font": "Chalisa Oktavia"
+    },
+    {
+        "task_id": "577548",
+        "url": "https://www.dafont.com/forum/read/577548/what-is-the-font",
+        "title": "what is the font",
+        "instructions": "hello, what is the font ?",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1220416.png",
+        "identified_font": null
+    },
+    {
+        "task_id": "577547",
+        "url": "https://www.dafont.com/forum/read/577547/tigers-font-name",
+        "title": "Tigers font name?",
+        "instructions": null,
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1220413.png?1",
+        "identified_font": null
+    },
+    {
+        "task_id": "577546",
+        "url": "https://www.dafont.com/forum/read/577546/iso-font",
+        "title": "ISO font",
+        "instructions": "Need help finding the font for the info text. Can't find it for the life of me and any help is appreciated!",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1220409.jpg",
+        "identified_font": "Fraunces"
+    },
+    {
+        "task_id": "577543",
+        "url": "https://www.dafont.com/forum/read/577543/identificar-tipografia",
+        "title": "Identificar tipografia",
+        "instructions": "Alguien sabe que tipografia es?",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1220404.png",
+        "identified_font": null
+    },
+    {
+        "task_id": "577541",
+        "url": "https://www.dafont.com/forum/read/577541/font-please",
+        "title": "font, please",
+        "instructions": null,
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1220400.jpg",
         "identified_font": null
     }
 ]
