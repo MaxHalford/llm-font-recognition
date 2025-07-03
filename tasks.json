@@ -3746,7 +3746,7 @@
     {
         "task_id": "577329",
         "url": "https://www.dafont.com/forum/read/577329/wich-one-is-this-font",
-        "title": "wich one is this font?",
+        "title": "wich one is this font???",
         "instructions": null,
         "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1219939.png",
         "identified_font": null
@@ -5301,7 +5301,7 @@
         "title": "What font? (source web: text in reddit)",
         "instructions": null,
         "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1220343.jpg",
-        "identified_font": null
+        "identified_font": "Segoe UI"
     },
     {
         "task_id": "577510",
@@ -5405,6 +5405,62 @@
         "title": "KEDAI RASA",
         "instructions": "what font is it? please help me to find it",
         "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1220359.jpg",
+        "identified_font": null
+    },
+    {
+        "task_id": "577532",
+        "url": "https://www.dafont.com/forum/read/577532/which-this-fonts-please",
+        "title": "Which this fonts, please?",
+        "instructions": null,
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1220378.png",
+        "identified_font": null
+    },
+    {
+        "task_id": "577534",
+        "url": "https://www.dafont.com/forum/read/577534/what-s-the-numbers-font",
+        "title": "What's the numbers font?",
+        "instructions": "Hello! Can you identify the numbers font?",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1220382.png",
+        "identified_font": null
+    },
+    {
+        "task_id": "577533",
+        "url": "https://www.dafont.com/forum/read/577533/do-you-this-font-pls",
+        "title": "Do you this font pls?",
+        "instructions": null,
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1220380.jpg",
+        "identified_font": null
+    },
+    {
+        "task_id": "577531",
+        "url": "https://www.dafont.com/forum/read/577531/font-by-shadowbyyoongi",
+        "title": "FONT BY SHADOWBYYOONGI",
+        "instructions": "Hot Sauce",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1220377.jpg",
+        "identified_font": null
+    },
+    {
+        "task_id": "577530",
+        "url": "https://www.dafont.com/forum/read/577530/que-tipografia-es",
+        "title": "Que tipograf\u00eda es?",
+        "instructions": "Me podr\u00edais decir cual es, gracias y un saludo",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1220374.jpg",
+        "identified_font": null
+    },
+    {
+        "task_id": "577529",
+        "url": "https://www.dafont.com/forum/read/577529/ayuda-de-identificacion-tipografia",
+        "title": "AYUDA DE IDENTIFICACION TIPOGRAFIA",
+        "instructions": "Buenas, \u00bfAlguien sabr\u00eda decirme la tipograf\u00eda de esta imagen? Gracias",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1220373.png",
+        "identified_font": null
+    },
+    {
+        "task_id": "577528",
+        "url": "https://www.dafont.com/forum/read/577528/identificar-tipografia",
+        "title": "Identificar tipografia",
+        "instructions": "Alguien conoce esta tipografia?",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1220371.jpg",
         "identified_font": null
     }
 ]
