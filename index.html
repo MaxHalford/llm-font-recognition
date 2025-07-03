@@ -31,23 +31,31 @@ This process avoids benchmark contamination.
                                                                                 
 The source code for this benchmark is available on <a class="r2" href="https://github.com/MaxHalford/llm-font-recognition">GitHub</a>.                      
                                                                                 
-<span class="r3">Updated at 2025-07-03T14:44:00</span>                                                  
+<span class="r3">Updated at 2025-07-03T17:13:00</span>                                                  
 
 <span class="r4">Metrics                                                          </span>
 ┏━━━━━━━━━━━━━━━━┳━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┳━━━━━━━━━━━━━┓
 ┃     Metric     ┃ gemini-2.5-flash-preview-05-20 ┃ gpt-4o-mini ┃
 ┡━━━━━━━━━━━━━━━━╇━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━╇━━━━━━━━━━━━━┩
-│<span class="r5"> Top-1 accuracy </span>│             1.32%              │    2.63%    │
-│<span class="r5"> Top-2 accuracy </span>│             1.32%              │    3.95%    │
-│<span class="r5"> Top-3 accuracy </span>│             1.32%              │    3.95%    │
-│<span class="r5"> Top-4 accuracy </span>│             2.63%              │    3.95%    │
-│<span class="r5"> Top-5 accuracy </span>│             3.95%              │    3.95%    │
+│<span class="r5"> Top-1 accuracy </span>│             1.30%              │    2.60%    │
+│<span class="r5"> Top-2 accuracy </span>│             2.60%              │    3.90%    │
+│<span class="r5"> Top-3 accuracy </span>│             2.60%              │    3.90%    │
+│<span class="r5"> Top-4 accuracy </span>│             3.90%              │    3.90%    │
+│<span class="r5"> Top-5 accuracy </span>│             5.19%              │    3.90%    │
 └────────────────┴────────────────────────────────┴─────────────┘
 
 <span class="r4">Breakdown                                                                       </span>
 ┏━━━━━━━━┳━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┳━━━━━━━━━━━━━━━┳━━━━━━━━━━━━━━━┓
 ┃  Task  ┃           Identified font           ┃ gemini-2.5-f… ┃  gpt-4o-mini  ┃
 ┡━━━━━━━━╇━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━╇━━━━━━━━━━━━━━━╇━━━━━━━━━━━━━━━┩
+│<span class="r6"> </span><a class="r6" href="https://www.dafont.com/forum/read/577530/que-tipografia-es">577530</a><span class="r6"> </span>│            Magnolia Sky             │<span class="r7">   </span><span class="r8">Beautiful</span><span class="r7">   </span>│<span class="r7"> </span><span class="r8">Cursive Font</span><span class="r9">,</span><span class="r7"> </span>│
+│<span class="r6">        </span>│                                     │<span class="r7">    </span><span class="r8">Bloom</span><span class="r9">,</span><span class="r7">     </span>│<span class="r7"> </span><span class="r8">Script Font</span><span class="r9">,</span><span class="r7">  </span>│
+│<span class="r6">        </span>│                                     │<span class="r7"> </span><span class="r10">Magnolia Sky</span><span class="r9">,</span><span class="r7"> </span>│<span class="r7"> </span><span class="r8">Wavy Script</span><span class="r9">,</span><span class="r7">  </span>│
+│<span class="r6">        </span>│                                     │<span class="r7">    </span><span class="r8">Better</span><span class="r7">     </span>│<span class="r7">    </span><span class="r8">Modern</span><span class="r7">     </span>│
+│<span class="r6">        </span>│                                     │<span class="r7">   </span><span class="r8">Together</span><span class="r9">,</span><span class="r7">   </span>│<span class="r7"> </span><span class="r8">Calligraphy</span><span class="r9">,</span><span class="r7">  </span>│
+│<span class="r6">        </span>│                                     │<span class="r7">     </span><span class="r8">Hello</span><span class="r7">     </span>│<span class="r7">  </span><span class="r8">Handwritten</span><span class="r7">  </span>│
+│<span class="r6">        </span>│                                     │<span class="r7">  </span><span class="r8">Beautiful</span><span class="r9">,</span><span class="r7">   </span>│<span class="r7">     </span><span class="r8">Style</span><span class="r7">     </span>│
+│<span class="r6">        </span>│                                     │<span class="r7"> </span><span class="r8">The Amsterdam</span><span class="r7"> </span>│<span class="r7">               </span>│
 │<span class="r6"> </span><a class="r6" href="https://www.dafont.com/forum/read/577511/what-font-source-web-text-in-reddit">577511</a><span class="r6"> </span>│              Segoe UI               │<span class="r7"> </span><span class="r8">Roboto</span><span class="r9">, </span><span class="r8">Open</span><span class="r7">  </span>│<span class="r7"> </span><span class="r8">Roboto</span><span class="r9">, </span><span class="r8">Open</span><span class="r7">  </span>│
 │<span class="r6">        </span>│                                     │<span class="r7">  </span><span class="r8">Sans</span><span class="r9">, </span><span class="r8">Noto</span><span class="r7">   </span>│<span class="r7">  </span><span class="r8">Sans</span><span class="r9">, </span><span class="r8">Lato</span><span class="r9">,</span><span class="r7">  </span>│
 │<span class="r6">        </span>│                                     │<span class="r7"> </span><span class="r8">Sans</span><span class="r9">, </span><span class="r8">Arial</span><span class="r9">,</span><span class="r7">  </span>│<span class="r7">  </span><span class="r8">Helvetica</span><span class="r9">,</span><span class="r7">   </span>│
