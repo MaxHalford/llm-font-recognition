@@ -5445,14 +5445,14 @@
         "title": "Que tipograf\u00eda es?",
         "instructions": "Me podr\u00edais decir cual es, gracias y un saludo",
         "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1220374.jpg",
-        "identified_font": null
+        "identified_font": "Magnolia Sky"
     },
     {
         "task_id": "577529",
         "url": "https://www.dafont.com/forum/read/577529/ayuda-de-identificacion-tipografia",
         "title": "AYUDA DE IDENTIFICACION TIPOGRAFIA",
         "instructions": "Buenas, \u00bfAlguien sabr\u00eda decirme la tipograf\u00eda de esta imagen? Gracias",
-        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1220373.png",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1220373.png?1",
         "identified_font": null
     },
     {
@@ -5461,6 +5461,54 @@
         "title": "Identificar tipografia",
         "instructions": "Alguien conoce esta tipografia?",
         "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1220371.jpg",
+        "identified_font": null
+    },
+    {
+        "task_id": "577540",
+        "url": "https://www.dafont.com/forum/read/577540/font-id-help",
+        "title": "Font ID Help",
+        "instructions": "Can someone help me figure this out? I have a picture of a screen in Word that says the font is Calibri, but thats not Calibri. The ampersand and S look like Calibri but thats about it. Anyone know what this actually is?",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1220398.jpg",
+        "identified_font": null
+    },
+    {
+        "task_id": "577539",
+        "url": "https://www.dafont.com/forum/read/577539/what-the-font-please",
+        "title": "What the font? Please",
+        "instructions": null,
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1220397.jpg",
+        "identified_font": null
+    },
+    {
+        "task_id": "577538",
+        "url": "https://www.dafont.com/forum/read/577538/font",
+        "title": "Font?",
+        "instructions": null,
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1220394.png",
+        "identified_font": null
+    },
+    {
+        "task_id": "577537",
+        "url": "https://www.dafont.com/forum/read/577537/esta-fuente-por-favor",
+        "title": "Esta fuente por favor",
+        "instructions": "Sobretodo la letra \"C\" es particular",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1220393.png",
+        "identified_font": null
+    },
+    {
+        "task_id": "577536",
+        "url": "https://www.dafont.com/forum/read/577536/chucky",
+        "title": "Chucky",
+        "instructions": "Thank you!",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1220391.jpg",
+        "identified_font": null
+    },
+    {
+        "task_id": "577535",
+        "url": "https://www.dafont.com/forum/read/577535/please-find-this-font-on-cast-please",
+        "title": "Please find this font on \"CAST\" please!",
+        "instructions": "please find this font!!!",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1220386.jpg",
         "identified_font": null
     }
 ]
