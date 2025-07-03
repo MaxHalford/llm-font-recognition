@@ -5310,5 +5310,45 @@
         "instructions": null,
         "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1220342.jpg",
         "identified_font": null
+    },
+    {
+        "task_id": "577521",
+        "url": "https://www.dafont.com/forum/read/577521/sakuya-style",
+        "title": "Sakuya Style",
+        "instructions": null,
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1220358.png",
+        "identified_font": null
+    },
+    {
+        "task_id": "469220",
+        "url": "https://www.dafont.com/forum/read/469220/toronto-raptors-classic-font",
+        "title": "Toronto Raptors Classic Font?",
+        "instructions": "Trying to find this for a personal project?",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/0/1000314.png",
+        "identified_font": null
+    },
+    {
+        "task_id": "577520",
+        "url": "https://www.dafont.com/forum/read/577520/font-name",
+        "title": "Font Name?",
+        "instructions": "does anyone know the name of this font?",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1220355.jpg",
+        "identified_font": null
+    },
+    {
+        "task_id": "577519",
+        "url": "https://www.dafont.com/forum/read/577519/nope",
+        "title": "Nope",
+        "instructions": null,
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1220353.jpg",
+        "identified_font": null
+    },
+    {
+        "task_id": "577518",
+        "url": "https://www.dafont.com/forum/read/577518/ure",
+        "title": "URE",
+        "instructions": null,
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1220352.png",
+        "identified_font": null
     }
 ]
