@@ -31,23 +31,30 @@ This process avoids benchmark contamination.
                                                                                 
 The source code for this benchmark is available on <a class="r2" href="https://github.com/MaxHalford/llm-font-recognition">GitHub</a>.                      
                                                                                 
-<span class="r3">Updated at 2025-07-03T17:13:00</span>                                                  
+<span class="r3">Updated at 2025-07-03T20:19:00</span>                                                  
 
 <span class="r4">Metrics                                                          </span>
 ┏━━━━━━━━━━━━━━━━┳━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┳━━━━━━━━━━━━━┓
 ┃     Metric     ┃ gemini-2.5-flash-preview-05-20 ┃ gpt-4o-mini ┃
 ┡━━━━━━━━━━━━━━━━╇━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━╇━━━━━━━━━━━━━┩
-│<span class="r5"> Top-1 accuracy </span>│             1.30%              │    2.60%    │
-│<span class="r5"> Top-2 accuracy </span>│             2.60%              │    3.90%    │
-│<span class="r5"> Top-3 accuracy </span>│             2.60%              │    3.90%    │
-│<span class="r5"> Top-4 accuracy </span>│             3.90%              │    3.90%    │
-│<span class="r5"> Top-5 accuracy </span>│             5.19%              │    3.90%    │
+│<span class="r5"> Top-1 accuracy </span>│             1.25%              │    2.50%    │
+│<span class="r5"> Top-2 accuracy </span>│             2.50%              │    3.75%    │
+│<span class="r5"> Top-3 accuracy </span>│             2.50%              │    3.75%    │
+│<span class="r5"> Top-4 accuracy </span>│             3.75%              │    3.75%    │
+│<span class="r5"> Top-5 accuracy </span>│             5.00%              │    3.75%    │
 └────────────────┴────────────────────────────────┴─────────────┘
 
 <span class="r4">Breakdown                                                                       </span>
 ┏━━━━━━━━┳━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┳━━━━━━━━━━━━━━━┳━━━━━━━━━━━━━━━┓
 ┃  Task  ┃           Identified font           ┃ gemini-2.5-f… ┃  gpt-4o-mini  ┃
 ┡━━━━━━━━╇━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━╇━━━━━━━━━━━━━━━╇━━━━━━━━━━━━━━━┩
+│<span class="r6"> </span><a class="r6" href="https://www.dafont.com/forum/read/577539/what-the-font-please">577539</a><span class="r6"> </span>│       Charming Strangulation        │<span class="r7"> </span><span class="r8">Montas Font</span><span class="r9">,</span><span class="r7">  </span>│<span class="r7"> </span><span class="r8">Great Vibes</span><span class="r9">,</span><span class="r7">  </span>│
+│<span class="r6">        </span>│                                     │<span class="r7"> </span><span class="r8">The Historia</span><span class="r9">,</span><span class="r7"> </span>│<span class="r7">    </span><span class="r8">Dancing</span><span class="r7">    </span>│
+│<span class="r6">        </span>│                                     │<span class="r7">   </span><span class="r8">Bellasya</span><span class="r7">    </span>│<span class="r7">    </span><span class="r8">Script</span><span class="r9">,</span><span class="r7">    </span>│
+│<span class="r6">        </span>│                                     │<span class="r7">    </span><span class="r8">Script</span><span class="r9">,</span><span class="r7">    </span>│<span class="r7">   </span><span class="r8">Pacifico</span><span class="r9">,</span><span class="r7">   </span>│
+│<span class="r6">        </span>│                                     │<span class="r7">    </span><span class="r8">Adelia</span><span class="r7">     </span>│<span class="r7">    </span><span class="r8">Lobster</span><span class="r7">    </span>│
+│<span class="r6">        </span>│                                     │<span class="r7">    </span><span class="r8">Script</span><span class="r9">,</span><span class="r7">    </span>│<span class="r7">               </span>│
+│<span class="r6">        </span>│                                     │<span class="r7"> </span><span class="r8">Golden Script</span><span class="r7"> </span>│<span class="r7">               </span>│
 │<span class="r6"> </span><a class="r6" href="https://www.dafont.com/forum/read/577530/que-tipografia-es">577530</a><span class="r6"> </span>│            Magnolia Sky             │<span class="r7">   </span><span class="r8">Beautiful</span><span class="r7">   </span>│<span class="r7"> </span><span class="r8">Cursive Font</span><span class="r9">,</span><span class="r7"> </span>│
 │<span class="r6">        </span>│                                     │<span class="r7">    </span><span class="r8">Bloom</span><span class="r9">,</span><span class="r7">     </span>│<span class="r7"> </span><span class="r8">Script Font</span><span class="r9">,</span><span class="r7">  </span>│
 │<span class="r6">        </span>│                                     │<span class="r7"> </span><span class="r10">Magnolia Sky</span><span class="r9">,</span><span class="r7"> </span>│<span class="r7"> </span><span class="r8">Wavy Script</span><span class="r9">,</span><span class="r7">  </span>│
@@ -56,10 +63,21 @@ The source code for this benchmark is available on <a class="r2" href="https://g
 │<span class="r6">        </span>│                                     │<span class="r7">     </span><span class="r8">Hello</span><span class="r7">     </span>│<span class="r7">  </span><span class="r8">Handwritten</span><span class="r7">  </span>│
 │<span class="r6">        </span>│                                     │<span class="r7">  </span><span class="r8">Beautiful</span><span class="r9">,</span><span class="r7">   </span>│<span class="r7">     </span><span class="r8">Style</span><span class="r7">     </span>│
 │<span class="r6">        </span>│                                     │<span class="r7"> </span><span class="r8">The Amsterdam</span><span class="r7"> </span>│<span class="r7">               </span>│
+│<span class="r6"> </span><a class="r6" href="https://www.dafont.com/forum/read/577510/what-font-source-web-text-in-tumblr">577510</a><span class="r6"> </span>│           Favorit Tumblr            │<span class="r7"> </span><span class="r8">SF Pro Text</span><span class="r9">,</span><span class="r7">  </span>│<span class="r7">  </span><span class="r8">Helvetica</span><span class="r9">,</span><span class="r7">   </span>│
+│<span class="r6">        </span>│                                     │<span class="r7">  </span><span class="r8">Open Sans</span><span class="r9">,</span><span class="r7">   </span>│<span class="r7">    </span><span class="r8">Arial</span><span class="r9">,</span><span class="r7">     </span>│
+│<span class="r6">        </span>│                                     │<span class="r7">    </span><span class="r8">Inter</span><span class="r9">,</span><span class="r7">     </span>│<span class="r7"> </span><span class="r8">Roboto</span><span class="r9">, </span><span class="r8">Open</span><span class="r7">  </span>│
+│<span class="r6">        </span>│                                     │<span class="r7"> </span><span class="r8">Roboto</span><span class="r9">, </span><span class="r8">Segoe</span><span class="r7"> </span>│<span class="r7">     </span><span class="r8">Sans</span><span class="r7">      </span>│
+│<span class="r6">        </span>│                                     │<span class="r7">      </span><span class="r8">UI</span><span class="r7">       </span>│<span class="r7">               </span>│
 │<span class="r6"> </span><a class="r6" href="https://www.dafont.com/forum/read/577511/what-font-source-web-text-in-reddit">577511</a><span class="r6"> </span>│              Segoe UI               │<span class="r7"> </span><span class="r8">Roboto</span><span class="r9">, </span><span class="r8">Open</span><span class="r7">  </span>│<span class="r7"> </span><span class="r8">Roboto</span><span class="r9">, </span><span class="r8">Open</span><span class="r7">  </span>│
 │<span class="r6">        </span>│                                     │<span class="r7">  </span><span class="r8">Sans</span><span class="r9">, </span><span class="r8">Noto</span><span class="r7">   </span>│<span class="r7">  </span><span class="r8">Sans</span><span class="r9">, </span><span class="r8">Lato</span><span class="r9">,</span><span class="r7">  </span>│
 │<span class="r6">        </span>│                                     │<span class="r7"> </span><span class="r8">Sans</span><span class="r9">, </span><span class="r8">Arial</span><span class="r9">,</span><span class="r7">  </span>│<span class="r7">  </span><span class="r8">Helvetica</span><span class="r9">,</span><span class="r7">   </span>│
 │<span class="r6">        </span>│                                     │<span class="r7">   </span><span class="r10">Segoe UI</span><span class="r7">    </span>│<span class="r7">     </span><span class="r8">Arial</span><span class="r7">     </span>│
+│<span class="r6"> </span><a class="r6" href="https://www.dafont.com/forum/read/577517/what-is-the-script-font-used-on-this-shirt">577517</a><span class="r6"> </span>│        Lovely Mothers Script        │<span class="r7">    </span><span class="r8">Lovely</span><span class="r7">     </span>│<span class="r7">   </span><span class="r8">Pacifico</span><span class="r9">,</span><span class="r7">   </span>│
+│<span class="r6">        </span>│                                     │<span class="r7">   </span><span class="r8">Feelings</span><span class="r9">,</span><span class="r7">   </span>│<span class="r7">   </span><span class="r8">Alegreya</span><span class="r9">,</span><span class="r7">   </span>│
+│<span class="r6">        </span>│                                     │<span class="r7">   </span><span class="r8">Creattion</span><span class="r7">   </span>│<span class="r7">    </span><span class="r8">Dancing</span><span class="r7">    </span>│
+│<span class="r6">        </span>│                                     │<span class="r7">   </span><span class="r8">Demo</span><span class="r9">, </span><span class="r8">KG</span><span class="r7">    </span>│<span class="r7">    </span><span class="r8">Script</span><span class="r9">,</span><span class="r7">    </span>│
+│<span class="r6">        </span>│                                     │<span class="r7">    </span><span class="r8">Summer</span><span class="r7">     </span>│<span class="r7">   </span><span class="r8">Lobster</span><span class="r9">,</span><span class="r7">    </span>│
+│<span class="r6">        </span>│                                     │<span class="r7">   </span><span class="r8">Sunshine</span><span class="r7">    </span>│<span class="r7">    </span><span class="r8">Satisfy</span><span class="r7">    </span>│
 │<span class="r6"> </span><a class="r6" href="https://www.dafont.com/forum/read/577480/our-town-font">577480</a><span class="r6"> </span>│            Josefin Sans             │<span class="r7">  </span><span class="r8">Montserrat</span><span class="r9">,</span><span class="r7">  </span>│<span class="r7">  </span><span class="r8">Montserrat</span><span class="r9">,</span><span class="r7">  </span>│
 │<span class="r6">        </span>│                                     │<span class="r7">    </span><span class="r8">Gotham</span><span class="r9">,</span><span class="r7">    </span>│<span class="r7">   </span><span class="r8">Raleway</span><span class="r9">,</span><span class="r7">    </span>│
 │<span class="r6">        </span>│                                     │<span class="r7"> </span><span class="r8">Proxima Nova</span><span class="r9">,</span><span class="r7"> </span>│<span class="r7"> </span><span class="r8">Poppins</span><span class="r9">, </span><span class="r8">Lato</span><span class="r7"> </span>│
