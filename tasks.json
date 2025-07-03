@@ -5254,5 +5254,61 @@
         "instructions": null,
         "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1220322.jpg",
         "identified_font": null
+    },
+    {
+        "task_id": "577517",
+        "url": "https://www.dafont.com/forum/read/577517/what-is-the-script-font-used-on-this-shirt",
+        "title": "What is the script font used on this shirt?",
+        "instructions": null,
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1220351.jpg",
+        "identified_font": null
+    },
+    {
+        "task_id": "577516",
+        "url": "https://www.dafont.com/forum/read/577516/please-help-me-i-need-the-font-for-enfoca-and-en-lo-mio",
+        "title": "Please help me, I need the font for \"enfoca\" and \"en lo mio\"",
+        "instructions": null,
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1220350.png",
+        "identified_font": null
+    },
+    {
+        "task_id": "577515",
+        "url": "https://www.dafont.com/forum/read/577515/help-please-what-font-they-used",
+        "title": "Help please! What font they used?",
+        "instructions": null,
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1220349.png",
+        "identified_font": null
+    },
+    {
+        "task_id": "577512",
+        "url": "https://www.dafont.com/forum/read/577512/anyone-know-the-name-of-this-font",
+        "title": "Anyone know the name of this font?",
+        "instructions": "It wasn't originally distressed, needing to get the font that spells Ricky",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1220345.jpg",
+        "identified_font": "Kleymissky"
+    },
+    {
+        "task_id": "577513",
+        "url": "https://www.dafont.com/forum/read/577513/handwritten-font",
+        "title": "Handwritten font",
+        "instructions": "Any leads? \ud83e\udd1d",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1220346.jpg",
+        "identified_font": null
+    },
+    {
+        "task_id": "577511",
+        "url": "https://www.dafont.com/forum/read/577511/what-font-source-web-text-in-reddit",
+        "title": "What font? (source web: text in reddit)",
+        "instructions": null,
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1220343.jpg",
+        "identified_font": null
+    },
+    {
+        "task_id": "577510",
+        "url": "https://www.dafont.com/forum/read/577510/what-font-source-web-text-in-tumblr",
+        "title": "What font? (source web: text in tumblr)",
+        "instructions": null,
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1220342.jpg",
+        "identified_font": null
     }
 ]
