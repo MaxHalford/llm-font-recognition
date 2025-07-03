@@ -9232,5 +9232,131 @@
         "candidate_font_3": "Luckiest Guy",
         "candidate_font_4": "Komika Axis",
         "candidate_font_5": "Bangers"
+    },
+    {
+        "task_id": "577551",
+        "model_name": "gpt-4o-mini",
+        "candidate_font_1": "Blazing Dagger",
+        "candidate_font_2": "Vigilante",
+        "candidate_font_3": "Armalite",
+        "candidate_font_4": "Mermaid",
+        "candidate_font_5": "Graffiti Font"
+    },
+    {
+        "task_id": "577551",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Whoa Mama",
+        "candidate_font_2": "Most Wasted",
+        "candidate_font_3": "Broken Home",
+        "candidate_font_4": "Subway",
+        "candidate_font_5": "Vandalism"
+    },
+    {
+        "task_id": "577550",
+        "model_name": "gpt-4o-mini",
+        "candidate_font_1": "Didot",
+        "candidate_font_2": "Bodoni",
+        "candidate_font_3": "Playfair Display",
+        "candidate_font_4": "Cinzel",
+        "candidate_font_5": "Mina"
+    },
+    {
+        "task_id": "577550",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "TAN - NIMBUS",
+        "candidate_font_2": "Didot",
+        "candidate_font_3": "Bodoni",
+        "candidate_font_4": "Playfair Display",
+        "candidate_font_5": "Prata"
+    },
+    {
+        "task_id": "577549",
+        "model_name": "gpt-4o-mini",
+        "candidate_font_1": "Bebas Neue",
+        "candidate_font_2": "Anton",
+        "candidate_font_3": "Oswald",
+        "candidate_font_4": "Impact",
+        "candidate_font_5": ""
+    },
+    {
+        "task_id": "577549",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Grading Sans Heavy",
+        "candidate_font_2": "Bebas Neue",
+        "candidate_font_3": "Anton",
+        "candidate_font_4": "Oswald",
+        "candidate_font_5": "Impact"
+    },
+    {
+        "task_id": "577548",
+        "model_name": "gpt-4o-mini",
+        "candidate_font_1": "Blade Runner",
+        "candidate_font_2": "Bebas Neue",
+        "candidate_font_3": "Avenir Black",
+        "candidate_font_4": "Oswald",
+        "candidate_font_5": ""
+    },
+    {
+        "task_id": "577548",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "SF Hyperspace",
+        "candidate_font_2": "Terminator Real NFI",
+        "candidate_font_3": "Avengeance",
+        "candidate_font_4": "Carbon Black",
+        "candidate_font_5": "BankGothic Std"
+    },
+    {
+        "task_id": "577547",
+        "model_name": "gpt-4o-mini",
+        "candidate_font_1": "Bouncy",
+        "candidate_font_2": "Tigernuts",
+        "candidate_font_3": "Blacker Sans",
+        "candidate_font_4": "Lobster",
+        "candidate_font_5": "Pacifico"
+    },
+    {
+        "task_id": "577547",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Varsity Team",
+        "candidate_font_2": "Retro Team",
+        "candidate_font_3": "School Sport",
+        "candidate_font_4": "High Sport",
+        "candidate_font_5": "Varsity Player"
+    },
+    {
+        "task_id": "577543",
+        "model_name": "gpt-4o-mini",
+        "candidate_font_1": "Bizarre",
+        "candidate_font_2": "Freaky",
+        "candidate_font_3": "Grunge",
+        "candidate_font_4": "Woodland",
+        "candidate_font_5": "Cracked"
+    },
+    {
+        "task_id": "577543",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Obelix Pro Broken",
+        "candidate_font_2": "Glitch Progress",
+        "candidate_font_3": "Bloody",
+        "candidate_font_4": "Damage Inc",
+        "candidate_font_5": "Distorted Reality"
+    },
+    {
+        "task_id": "577541",
+        "model_name": "gpt-4o-mini",
+        "candidate_font_1": "Circular Std",
+        "candidate_font_2": "Avenir Next",
+        "candidate_font_3": "Futura",
+        "candidate_font_4": "Suisse Int'l",
+        "candidate_font_5": ""
+    },
+    {
+        "task_id": "577541",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Circular Std",
+        "candidate_font_2": "Gotham",
+        "candidate_font_3": "Montserrat",
+        "candidate_font_4": "Proxima Nova",
+        "candidate_font_5": "Avenir"
     }
 ]
