@@ -8872,5 +8872,131 @@
         "candidate_font_3": "Gotham Black",
         "candidate_font_4": "Bebas Neue",
         "candidate_font_5": "Open Sans ExtraBold"
+    },
+    {
+        "task_id": "577527",
+        "model_name": "gpt-4o-mini",
+        "candidate_font_1": "Great Vibes",
+        "candidate_font_2": "Dancing Script",
+        "candidate_font_3": "Pacifico",
+        "candidate_font_4": "Allura",
+        "candidate_font_5": "Satisfy"
+    },
+    {
+        "task_id": "577527",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Signerica",
+        "candidate_font_2": "The Bradey Signature",
+        "candidate_font_3": "Billie Signature",
+        "candidate_font_4": "Northwell",
+        "candidate_font_5": "Amsterdam Script"
+    },
+    {
+        "task_id": "577526",
+        "model_name": "gpt-4o-mini",
+        "candidate_font_1": "Didot",
+        "candidate_font_2": "Bodoni",
+        "candidate_font_3": "Playfair Display",
+        "candidate_font_4": "Cinzel",
+        "candidate_font_5": "Libre Baskerville"
+    },
+    {
+        "task_id": "577526",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Trajan",
+        "candidate_font_2": "Forum",
+        "candidate_font_3": "Baskerville",
+        "candidate_font_4": "Palatino",
+        "candidate_font_5": "Minion Pro"
+    },
+    {
+        "task_id": "567353",
+        "model_name": "gpt-4o-mini",
+        "candidate_font_1": "Javanese Text",
+        "candidate_font_2": "Balinese Script",
+        "candidate_font_3": "Bali Kawi",
+        "candidate_font_4": "Krama Inggil",
+        "candidate_font_5": ""
+    },
+    {
+        "task_id": "567353",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Modak",
+        "candidate_font_2": "Baloo Bhai 2",
+        "candidate_font_3": "Gotu",
+        "candidate_font_4": "Sarala",
+        "candidate_font_5": "Rasa"
+    },
+    {
+        "task_id": "567769",
+        "model_name": "gpt-4o-mini",
+        "candidate_font_1": "Futura Bold",
+        "candidate_font_2": "Impact",
+        "candidate_font_3": "Bebas Neue",
+        "candidate_font_4": "Eurostile",
+        "candidate_font_5": "Exo"
+    },
+    {
+        "task_id": "567769",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Eurostile Extended Bold",
+        "candidate_font_2": "Microgramma Bold Extended",
+        "candidate_font_3": "Bank Gothic Medium",
+        "candidate_font_4": "Octin Sports Free",
+        "candidate_font_5": "Pricedown"
+    },
+    {
+        "task_id": "577524",
+        "model_name": "gpt-4o-mini",
+        "candidate_font_1": "Bubblegum Sans",
+        "candidate_font_2": "Fluffy",
+        "candidate_font_3": "Comic Sans MS",
+        "candidate_font_4": "Giddyup Regular",
+        "candidate_font_5": "Berad"
+    },
+    {
+        "task_id": "577524",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Stay Groovy",
+        "candidate_font_2": "Bohemian Soul",
+        "candidate_font_3": "Lovelyn",
+        "candidate_font_4": "Funky Retro",
+        "candidate_font_5": "Groovy Melody"
+    },
+    {
+        "task_id": "577523",
+        "model_name": "gpt-4o-mini",
+        "candidate_font_1": "Pixelated",
+        "candidate_font_2": "Digital",
+        "candidate_font_3": "Bitmap",
+        "candidate_font_4": "Rounded",
+        "candidate_font_5": "Bubble"
+    },
+    {
+        "task_id": "577523",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Perfect DOS VGA 437",
+        "candidate_font_2": "MSX-DOS",
+        "candidate_font_3": "ZX Spectrum Font",
+        "candidate_font_4": "Press Start 2P",
+        "candidate_font_5": "VCR OSD Mono"
+    },
+    {
+        "task_id": "577522",
+        "model_name": "gpt-4o-mini",
+        "candidate_font_1": "Lobster",
+        "candidate_font_2": "Pacifico",
+        "candidate_font_3": "Cinzel",
+        "candidate_font_4": "Baloo Bhai 2",
+        "candidate_font_5": "Satisfy"
+    },
+    {
+        "task_id": "577522",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Authentic Rough",
+        "candidate_font_2": "Rustica",
+        "candidate_font_3": "Brotherhood Grunge",
+        "candidate_font_4": "Road Rage",
+        "candidate_font_5": "Varsity Team"
     }
 ]
