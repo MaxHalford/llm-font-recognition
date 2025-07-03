@@ -8566,5 +8566,113 @@
         "candidate_font_3": "",
         "candidate_font_4": "",
         "candidate_font_5": ""
+    },
+    {
+        "task_id": "545307",
+        "model_name": "gpt-4o-mini",
+        "candidate_font_1": "Bebas Neue",
+        "candidate_font_2": "Futura",
+        "candidate_font_3": "Montserrat",
+        "candidate_font_4": "Raleway",
+        "candidate_font_5": "Oswald"
+    },
+    {
+        "task_id": "545307",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Modak",
+        "candidate_font_2": "FK Grotesk",
+        "candidate_font_3": "Neue Machina",
+        "candidate_font_4": "Circular Std",
+        "candidate_font_5": "Avant Garde Gothic"
+    },
+    {
+        "task_id": "577509",
+        "model_name": "gpt-4o-mini",
+        "candidate_font_1": "Bodoni",
+        "candidate_font_2": "Didot",
+        "candidate_font_3": "Trajan Pro",
+        "candidate_font_4": "Playfair Display",
+        "candidate_font_5": "Baskerville"
+    },
+    {
+        "task_id": "577509",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Glamor",
+        "candidate_font_2": "Didot LT Std Bold",
+        "candidate_font_3": "Bodoni Std Bold",
+        "candidate_font_4": "HTF Didot Black",
+        "candidate_font_5": "Walbaum Display Black"
+    },
+    {
+        "task_id": "577507",
+        "model_name": "gpt-4o-mini",
+        "candidate_font_1": "Bebas Neue",
+        "candidate_font_2": "Impact",
+        "candidate_font_3": "Anton",
+        "candidate_font_4": "Oswald",
+        "candidate_font_5": "Roboto Condensed"
+    },
+    {
+        "task_id": "577507",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "SF Collegiate",
+        "candidate_font_2": "Octin Sports R03",
+        "candidate_font_3": "Bebas Neue Bold",
+        "candidate_font_4": "College Bold Inline",
+        "candidate_font_5": "Varsity Team Inline"
+    },
+    {
+        "task_id": "577506",
+        "model_name": "gpt-4o-mini",
+        "candidate_font_1": "Rough Script",
+        "candidate_font_2": "Dancing Script",
+        "candidate_font_3": "Freestyle Script",
+        "candidate_font_4": "Brush Script MT",
+        "candidate_font_5": "Cedarville Cursive"
+    },
+    {
+        "task_id": "577506",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Against",
+        "candidate_font_2": "Rough Draft",
+        "candidate_font_3": "Hensa",
+        "candidate_font_4": "Rustico",
+        "candidate_font_5": "The Rustic"
+    },
+    {
+        "task_id": "577504",
+        "model_name": "gpt-4o-mini",
+        "candidate_font_1": "Bebas Neue",
+        "candidate_font_2": "Pacifico",
+        "candidate_font_3": "Lobster",
+        "candidate_font_4": "Dancing Script",
+        "candidate_font_5": ""
+    },
+    {
+        "task_id": "577504",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Hanzel",
+        "candidate_font_2": "Another Danger",
+        "candidate_font_3": "Quick Marker",
+        "candidate_font_4": "Bebas Neue",
+        "candidate_font_5": "The Bragade"
+    },
+    {
+        "task_id": "577502",
+        "model_name": "gpt-4o-mini",
+        "candidate_font_1": "Freestyle Script",
+        "candidate_font_2": "Brush Script MT",
+        "candidate_font_3": "Comic Sans MS",
+        "candidate_font_4": "Chalkboard SE",
+        "candidate_font_5": "Dancing Script"
+    },
+    {
+        "task_id": "577502",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Indie Flower",
+        "candidate_font_2": "Patrick Hand",
+        "candidate_font_3": "Handlee",
+        "candidate_font_4": "Gochi Hand",
+        "candidate_font_5": "Architects Daughter"
     }
 ]
