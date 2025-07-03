@@ -4323,8 +4323,8 @@
         "task_id": "577403",
         "url": "https://www.dafont.com/forum/read/577403/what-font-is-this",
         "title": "what font is this?",
-        "instructions": "i was scrolling on pinterest and this post caught my attention..i think the font is very pretty, but i can't identify it.",
-        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1220082.png?1",
+        "instructions": "i saw this post on instagram and i think the font is very pretty, but i can't identify it. can someone help me?",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1220082.jpg?2",
         "identified_font": null
     },
     {
@@ -5389,7 +5389,7 @@
         "title": "help font",
         "instructions": null,
         "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1220361.jpg",
-        "identified_font": null
+        "identified_font": "Bratsy Script"
     },
     {
         "task_id": "577523",
@@ -5517,7 +5517,7 @@
         "title": "Can you identify this font?",
         "instructions": null,
         "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1220424.png",
-        "identified_font": null
+        "identified_font": "Marsneveneksk"
     },
     {
         "task_id": "577550",
@@ -5529,11 +5529,11 @@
     },
     {
         "task_id": "577549",
-        "url": "https://www.dafont.com/forum/read/577549/name-nombre-porfavor",
-        "title": "name nombre porfavor!!",
-        "instructions": null,
-        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1220421.png",
-        "identified_font": null
+        "url": "https://www.dafont.com/forum/read/577549/trastorno",
+        "title": "Trastorno",
+        "instructions": "Nombre, \u00a1por favor!",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1220421.png?1",
+        "identified_font": "Le Murmure"
     },
     {
         "task_id": "577544",
@@ -5581,6 +5581,38 @@
         "title": "font, please",
         "instructions": null,
         "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1220400.jpg",
+        "identified_font": null
+    },
+    {
+        "task_id": "577555",
+        "url": "https://www.dafont.com/forum/read/577555/help-font-please",
+        "title": "HELP! FONT PLEASE",
+        "instructions": null,
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1220432.jpg",
+        "identified_font": null
+    },
+    {
+        "task_id": "577553",
+        "url": "https://www.dafont.com/forum/read/577553/qual-a-fonte",
+        "title": "Qual a fonte?",
+        "instructions": null,
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1220428.png",
+        "identified_font": "Beauty Mothers"
+    },
+    {
+        "task_id": "577554",
+        "url": "https://www.dafont.com/forum/read/577554/sac",
+        "title": "SAC",
+        "instructions": "HELP PLEASE",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1220429.jpg",
+        "identified_font": null
+    },
+    {
+        "task_id": "577552",
+        "url": "https://www.dafont.com/forum/read/577552/bc-pizza-font",
+        "title": "BC PIZZA font",
+        "instructions": "Looking for this openface font ;=;",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1220426.png",
         "identified_font": null
     }
 ]
