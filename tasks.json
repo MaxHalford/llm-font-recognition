@@ -5580,8 +5580,8 @@
         "url": "https://www.dafont.com/forum/read/577541/font-please",
         "title": "font, please",
         "instructions": null,
-        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1220400.jpg",
-        "identified_font": null
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1220400.jpg?1",
+        "identified_font": "Neue Regrade"
     },
     {
         "task_id": "577555",
@@ -5613,7 +5613,7 @@
         "title": "BC PIZZA font",
         "instructions": "Looking for this openface font ;=;",
         "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1220426.png",
-        "identified_font": null
+        "identified_font": "New Bill C"
     },
     {
         "task_id": "577559",
@@ -5645,6 +5645,22 @@
         "title": "What the font is? Help me",
         "instructions": null,
         "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1220438.png?1",
+        "identified_font": null
+    },
+    {
+        "task_id": "562732",
+        "url": "https://www.dafont.com/forum/read/562732/weeks-font-please",
+        "title": "\u0093weeks\u0094 font, please.",
+        "instructions": null,
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/1/1190242.png",
+        "identified_font": null
+    },
+    {
+        "task_id": "577560",
+        "url": "https://www.dafont.com/forum/read/577560/3-different-fonts-please",
+        "title": "3 different fonts, please",
+        "instructions": null,
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1220456.jpg",
         "identified_font": null
     }
 ]
