@@ -3788,8 +3788,8 @@
         "url": "https://www.dafont.com/forum/read/577330/que-fuenteses-esta",
         "title": "QUE FUENTESES ESTA",
         "instructions": null,
-        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1219943.png?1",
-        "identified_font": null
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1219943.png?2",
+        "identified_font": "Batman Forever"
     },
     {
         "task_id": "577336",
@@ -4796,7 +4796,7 @@
         "url": "https://www.dafont.com/forum/read/577461/bomb",
         "title": "bomb",
         "instructions": null,
-        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1220218.jpg",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1220218.png?1",
         "identified_font": null
     },
     {
@@ -5301,7 +5301,7 @@
         "title": "What font? (source web: text in reddit)",
         "instructions": null,
         "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1220343.jpg",
-        "identified_font": "Segoe UI"
+        "identified_font": null
     },
     {
         "task_id": "577510",
@@ -5501,7 +5501,7 @@
         "title": "Chucky",
         "instructions": "Thank you!",
         "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1220391.jpg",
-        "identified_font": null
+        "identified_font": "28 Days Later"
     },
     {
         "task_id": "577535",
@@ -5701,6 +5701,46 @@
         "title": "DEADLINE FONT",
         "instructions": null,
         "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1217544.jpg",
+        "identified_font": null
+    },
+    {
+        "task_id": "577569",
+        "url": "https://www.dafont.com/forum/read/577569/ana-laura-lopes",
+        "title": "ANA LAURA LOPES",
+        "instructions": "ANA LAURA LOPES",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1220490.png",
+        "identified_font": null
+    },
+    {
+        "task_id": "577566",
+        "url": "https://www.dafont.com/forum/read/577566/recherche-de-police-alcaniz",
+        "title": "Recherche de police alcaniz",
+        "instructions": "Bonjour.",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1220487.png?1",
+        "identified_font": "Motter Femina"
+    },
+    {
+        "task_id": "577571",
+        "url": "https://www.dafont.com/forum/read/577571/what-is-3-tri-u-binh-ch-n-font",
+        "title": "What is \"3 Tri&#7879;u B\u00ecnh Ch&#7885;n\" font?",
+        "instructions": null,
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1220494.jpg",
+        "identified_font": null
+    },
+    {
+        "task_id": "577567",
+        "url": "https://www.dafont.com/forum/read/577567/what-is-this-font",
+        "title": "what is this font",
+        "instructions": null,
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1220488.png?1",
+        "identified_font": null
+    },
+    {
+        "task_id": "577565",
+        "url": "https://www.dafont.com/forum/read/577565/vichy",
+        "title": "Vichy",
+        "instructions": null,
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1220482.png",
         "identified_font": null
     }
 ]
