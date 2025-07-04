@@ -9556,5 +9556,59 @@
         "candidate_font_3": "Charming Script",
         "candidate_font_4": "Billionaire Signature",
         "candidate_font_5": "Adelicia Script"
+    },
+    {
+        "task_id": "577564",
+        "model_name": "gpt-4o-mini",
+        "candidate_font_1": "Bodoni",
+        "candidate_font_2": "Didot",
+        "candidate_font_3": "Raleway",
+        "candidate_font_4": "Garamond",
+        "candidate_font_5": ""
+    },
+    {
+        "task_id": "577564",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Augusta",
+        "candidate_font_2": "Charlemagne Std",
+        "candidate_font_3": "Engravers Roman",
+        "candidate_font_4": "Perpetua",
+        "candidate_font_5": ""
+    },
+    {
+        "task_id": "574400",
+        "model_name": "gpt-4o-mini",
+        "candidate_font_1": "Bloodlust",
+        "candidate_font_2": "Gotham",
+        "candidate_font_3": "Bebas Neue",
+        "candidate_font_4": "American Captain",
+        "candidate_font_5": "Noirden"
+    },
+    {
+        "task_id": "574400",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Bloodshed",
+        "candidate_font_2": "Samurai",
+        "candidate_font_3": "Rough Brush",
+        "candidate_font_4": "Broken Brush",
+        "candidate_font_5": "Shogun"
+    },
+    {
+        "task_id": "576257",
+        "model_name": "gpt-4o-mini",
+        "candidate_font_1": "Bodoni Moda",
+        "candidate_font_2": "Didot",
+        "candidate_font_3": "Nizami",
+        "candidate_font_4": "Serifa",
+        "candidate_font_5": "Playfair Display"
+    },
+    {
+        "task_id": "576257",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Glamor Display Typeface",
+        "candidate_font_2": "Didot",
+        "candidate_font_3": "Bodoni",
+        "candidate_font_4": "Playfair Display",
+        "candidate_font_5": "Vidaloka"
     }
 ]
