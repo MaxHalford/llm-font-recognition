@@ -9520,5 +9520,41 @@
         "candidate_font_3": "Akira Expanded",
         "candidate_font_4": "Eurostile Black Extended",
         "candidate_font_5": "Impact"
+    },
+    {
+        "task_id": "577563",
+        "model_name": "gpt-4o-mini",
+        "candidate_font_1": "Cormorant Garamond",
+        "candidate_font_2": "Playfair Display",
+        "candidate_font_3": "Libre Baskerville",
+        "candidate_font_4": "Garamond",
+        "candidate_font_5": ""
+    },
+    {
+        "task_id": "577563",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Adobe Garamond Pro",
+        "candidate_font_2": "Garamond Premier Pro",
+        "candidate_font_3": "EB Garamond",
+        "candidate_font_4": "Palatino Linotype",
+        "candidate_font_5": "Janson Text"
+    },
+    {
+        "task_id": "577561",
+        "model_name": "gpt-4o-mini",
+        "candidate_font_1": "Playfair Display",
+        "candidate_font_2": "Abril Fatface",
+        "candidate_font_3": "Bodoni",
+        "candidate_font_4": "Didot",
+        "candidate_font_5": "Garamond"
+    },
+    {
+        "task_id": "577561",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Madelyn Script",
+        "candidate_font_2": "Beautiful Minds",
+        "candidate_font_3": "Charming Script",
+        "candidate_font_4": "Billionaire Signature",
+        "candidate_font_5": "Adelicia Script"
     }
 ]
