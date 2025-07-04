@@ -5524,8 +5524,8 @@
         "url": "https://www.dafont.com/forum/read/577550/glossary",
         "title": "Glossary",
         "instructions": "Any guesses?",
-        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1220423.png",
-        "identified_font": null
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1220423.jpg?1",
+        "identified_font": "Julitho"
     },
     {
         "task_id": "577549",
@@ -5613,6 +5613,38 @@
         "title": "BC PIZZA font",
         "instructions": "Looking for this openface font ;=;",
         "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1220426.png",
+        "identified_font": null
+    },
+    {
+        "task_id": "577559",
+        "url": "https://www.dafont.com/forum/read/577559/help-me",
+        "title": "Help Me!",
+        "instructions": "I need both sources",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1220454.jpg",
+        "identified_font": null
+    },
+    {
+        "task_id": "577557",
+        "url": "https://www.dafont.com/forum/read/577557/help",
+        "title": "Help",
+        "instructions": "I know it's a Frankenstein, I need to know what fonts they used",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1220448.png",
+        "identified_font": null
+    },
+    {
+        "task_id": "577558",
+        "url": "https://www.dafont.com/forum/read/577558/what-is-this-font",
+        "title": "What is this font",
+        "instructions": "What the font?",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1220450.jpg",
+        "identified_font": null
+    },
+    {
+        "task_id": "577556",
+        "url": "https://www.dafont.com/forum/read/577556/what-the-font-is-help-me",
+        "title": "What the font is? Help me",
+        "instructions": null,
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1220438.png?1",
         "identified_font": null
     }
 ]
