@@ -5301,7 +5301,7 @@
         "title": "What font? (source web: text in reddit)",
         "instructions": null,
         "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1220343.jpg",
-        "identified_font": null
+        "identified_font": "Roboto"
     },
     {
         "task_id": "577510",
@@ -5628,7 +5628,7 @@
         "url": "https://www.dafont.com/forum/read/577557/help",
         "title": "Help",
         "instructions": "I know it's a Frankenstein, I need to know what fonts they used",
-        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1220448.png",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1220448.png?1",
         "identified_font": null
     },
     {
@@ -5741,6 +5741,86 @@
         "title": "Vichy",
         "instructions": null,
         "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1220482.png",
+        "identified_font": null
+    },
+    {
+        "task_id": "577582",
+        "url": "https://www.dafont.com/forum/read/577582/anyone-know-this-font-thanks",
+        "title": "Anyone know this font? Thanks!",
+        "instructions": null,
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1220524.png",
+        "identified_font": null
+    },
+    {
+        "task_id": "577581",
+        "url": "https://www.dafont.com/forum/read/577581/me-gustaria-que-me-ayudaran-a-crear-este-tipo-de-letras",
+        "title": "me gustaria que me ayudaran a crear este tipo de letras",
+        "instructions": "la letra la he buscado en casi todas sus fuentes y aun no la consigo si oudieran ayudarme por favor",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1220522.png?1",
+        "identified_font": null
+    },
+    {
+        "task_id": "577575",
+        "url": "https://www.dafont.com/forum/read/577575/jaeguchi-font",
+        "title": "Jaeguchi font",
+        "instructions": "NEVA PLAY",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1220506.png",
+        "identified_font": "Mister Firley"
+    },
+    {
+        "task_id": "577573",
+        "url": "https://www.dafont.com/forum/read/577573/jaeguchi-font",
+        "title": "Jaeguchi font",
+        "instructions": "Toxic Till The End",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1220504.jpg",
+        "identified_font": "Milestone"
+    },
+    {
+        "task_id": "562676",
+        "url": "https://www.dafont.com/forum/read/562676/wonderman",
+        "title": "Wonderman",
+        "instructions": "Guys i need the font pls",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/1/1190125.png?1",
+        "identified_font": null
+    },
+    {
+        "task_id": "577578",
+        "url": "https://www.dafont.com/forum/read/577578/dime-a-vel",
+        "title": "DIME A VEL",
+        "instructions": "HELP CON LA FONT",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1220513.png?1",
+        "identified_font": null
+    },
+    {
+        "task_id": "577577",
+        "url": "https://www.dafont.com/forum/read/577577/fonts-name",
+        "title": "Fonts Name?",
+        "instructions": null,
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1220512.png?2",
+        "identified_font": null
+    },
+    {
+        "task_id": "577580",
+        "url": "https://www.dafont.com/forum/read/577580/fonts-name",
+        "title": "Fonts Name?",
+        "instructions": null,
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1220520.png",
+        "identified_font": null
+    },
+    {
+        "task_id": "576724",
+        "url": "https://www.dafont.com/forum/read/576724/what-font-dose-adam-katz-used-as-subtitles-in-his-youtube-shorts",
+        "title": "What font dose Adam Katz used as subtitles in his YouTube shorts",
+        "instructions": "I googled this and no results were found! Please I need to know what font is this! (Probaly not all uppercase\u0085)",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1218563.jpg",
+        "identified_font": "Gilroy Extra Bold"
+    },
+    {
+        "task_id": "573444",
+        "url": "https://www.dafont.com/forum/read/573444/sh2-2024-soundtrack",
+        "title": "SH2 2024 soundtrack",
+        "instructions": "Hello!",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1211875.jpg",
         "identified_font": null
     }
 ]
