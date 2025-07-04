@@ -5652,7 +5652,7 @@
         "url": "https://www.dafont.com/forum/read/562732/weeks-font-please",
         "title": "\u0093weeks\u0094 font, please.",
         "instructions": null,
-        "img_url": "https://www.dafont.com/forum/attach/orig/1/1/1190242.png",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/1/1190242.png?1",
         "identified_font": null
     },
     {
@@ -5685,7 +5685,7 @@
         "title": "What is the \u0093Sabrina Carpenter\u0094 name font?",
         "instructions": null,
         "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1220475.jpg",
-        "identified_font": null
+        "identified_font": "Doz\u00e9 Traditional"
     },
     {
         "task_id": "574400",
@@ -5822,5 +5822,101 @@
         "instructions": "Hello!",
         "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1211875.jpg",
         "identified_font": null
+    },
+    {
+        "task_id": "577595",
+        "url": "https://www.dafont.com/forum/read/577595/fonte-urgenteeeeeeeeeeeeeeeeeeeeeeeeeeeeee",
+        "title": "Fonte URGENTEEEEEEEEEEEEEEEEEEEEEEEEEEEEEE...!!!",
+        "instructions": "\"SINA\" \"CONSTRUTORA\" fonteeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1220544.jpg",
+        "identified_font": null
+    },
+    {
+        "task_id": "577594",
+        "url": "https://www.dafont.com/forum/read/577594/help-please",
+        "title": "Help please :)",
+        "instructions": null,
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1220543.jpg",
+        "identified_font": null
+    },
+    {
+        "task_id": "577591",
+        "url": "https://www.dafont.com/forum/read/577591/fonte",
+        "title": "fonte",
+        "instructions": null,
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1220540.png",
+        "identified_font": null
+    },
+    {
+        "task_id": "577590",
+        "url": "https://www.dafont.com/forum/read/577590/do-not-jump-blackpink",
+        "title": "do not jump blackpink",
+        "instructions": null,
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1220539.jpg",
+        "identified_font": null
+    },
+    {
+        "task_id": "577589",
+        "url": "https://www.dafont.com/forum/read/577589/fontes",
+        "title": "fontes",
+        "instructions": "Viver Sa\u00fade",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1220538.jpg",
+        "identified_font": null
+    },
+    {
+        "task_id": "577588",
+        "url": "https://www.dafont.com/forum/read/577588/font-please",
+        "title": "Font, please.",
+        "instructions": null,
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1220536.jpg",
+        "identified_font": null
+    },
+    {
+        "task_id": "577587",
+        "url": "https://www.dafont.com/forum/read/577587/font-please",
+        "title": "Font, please.",
+        "instructions": null,
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1220535.jpg",
+        "identified_font": null
+    },
+    {
+        "task_id": "577586",
+        "url": "https://www.dafont.com/forum/read/577586/une-marque-de-biere-italienne",
+        "title": "Une marque de bi\u00e8re italienne",
+        "instructions": null,
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1220531.png?1",
+        "identified_font": null
+    },
+    {
+        "task_id": "577585",
+        "url": "https://www.dafont.com/forum/read/577585/jump",
+        "title": "JUMP",
+        "instructions": null,
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1220530.jpg",
+        "identified_font": null
+    },
+    {
+        "task_id": "577584",
+        "url": "https://www.dafont.com/forum/read/577584/font-find",
+        "title": "FONT FIND",
+        "instructions": "What is the font used in YOUTH?",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1220528.png",
+        "identified_font": null
+    },
+    {
+        "task_id": "577583",
+        "url": "https://www.dafont.com/forum/read/577583/fonte-cha-de-bebe",
+        "title": "fonte cha de bebe",
+        "instructions": "ola gostaria de saber o nome dessa fonte geralemnte usado em cha de bebe?",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1220525.jpg",
+        "identified_font": "Aloha March"
+    },
+    {
+        "task_id": "572960",
+        "url": "https://www.dafont.com/forum/read/572960/bento-e-toto",
+        "title": "bento e toto",
+        "instructions": "font bento and toto",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1210979.jpg",
+        "identified_font": "Angelina"
     }
 ]
