@@ -9988,5 +9988,293 @@
         "candidate_font_3": "Hensa",
         "candidate_font_4": "The Quick Fox",
         "candidate_font_5": "Buffalo Gal"
+    },
+    {
+        "task_id": "577614",
+        "model_name": "gpt-4o-mini",
+        "candidate_font_1": "Bodoni",
+        "candidate_font_2": "Didot",
+        "candidate_font_3": "Playfair Display",
+        "candidate_font_4": "Abril Fatface",
+        "candidate_font_5": ""
+    },
+    {
+        "task_id": "577614",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Bodoni BE Regular",
+        "candidate_font_2": "Bauer Bodoni",
+        "candidate_font_3": "ITC Bodoni",
+        "candidate_font_4": "Linotype Bodoni",
+        "candidate_font_5": "Didot"
+    },
+    {
+        "task_id": "577613",
+        "model_name": "gpt-4o-mini",
+        "candidate_font_1": "Arial",
+        "candidate_font_2": "Helvetica",
+        "candidate_font_3": "Calibri",
+        "candidate_font_4": "Verdana",
+        "candidate_font_5": ""
+    },
+    {
+        "task_id": "577613",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Arial",
+        "candidate_font_2": "Helvetica",
+        "candidate_font_3": "Open Sans",
+        "candidate_font_4": "Roboto",
+        "candidate_font_5": "Calibri"
+    },
+    {
+        "task_id": "577612",
+        "model_name": "gpt-4o-mini",
+        "candidate_font_1": "Blackletter",
+        "candidate_font_2": "Gothic",
+        "candidate_font_3": "Viking",
+        "candidate_font_4": "Celtic",
+        "candidate_font_5": ""
+    },
+    {
+        "task_id": "577612",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Old London",
+        "candidate_font_2": "Metal Mania",
+        "candidate_font_3": "Cardinal",
+        "candidate_font_4": "Cloister Black",
+        "candidate_font_5": "Fette Fraktur"
+    },
+    {
+        "task_id": "577611",
+        "model_name": "gpt-4o-mini",
+        "candidate_font_1": "Trajan Pro",
+        "candidate_font_2": "Garamond",
+        "candidate_font_3": "Bodoni",
+        "candidate_font_4": "Cinzel",
+        "candidate_font_5": "Playfair Display"
+    },
+    {
+        "task_id": "577611",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Optimus Princeps",
+        "candidate_font_2": "Trajan Pro",
+        "candidate_font_3": "Augustus",
+        "candidate_font_4": "Requiem",
+        "candidate_font_5": ""
+    },
+    {
+        "task_id": "577610",
+        "model_name": "gpt-4o-mini",
+        "candidate_font_1": "Playfair Display",
+        "candidate_font_2": "Bodoni",
+        "candidate_font_3": "Cormorant Garamond",
+        "candidate_font_4": "Didot",
+        "candidate_font_5": "Garamond"
+    },
+    {
+        "task_id": "577610",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Loverine Display",
+        "candidate_font_2": "Linotype Didot",
+        "candidate_font_3": "Bodoni Moda",
+        "candidate_font_4": "Glamor",
+        "candidate_font_5": "Walbaum"
+    },
+    {
+        "task_id": "577609",
+        "model_name": "gpt-4o-mini",
+        "candidate_font_1": "Pacifico",
+        "candidate_font_2": "Lobster",
+        "candidate_font_3": "Sacramento",
+        "candidate_font_4": "Dancing Script",
+        "candidate_font_5": ""
+    },
+    {
+        "task_id": "577609",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Delightful",
+        "candidate_font_2": "Stay Grateful",
+        "candidate_font_3": "Magnificent Script",
+        "candidate_font_4": "Bellaluna",
+        "candidate_font_5": "Lovely Home"
+    },
+    {
+        "task_id": "577608",
+        "model_name": "gpt-4o-mini",
+        "candidate_font_1": "Lobster",
+        "candidate_font_2": "Great Vibes",
+        "candidate_font_3": "Dancing Script",
+        "candidate_font_4": "Pacifico",
+        "candidate_font_5": ""
+    },
+    {
+        "task_id": "577608",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Autumn Chant",
+        "candidate_font_2": "",
+        "candidate_font_3": "",
+        "candidate_font_4": "",
+        "candidate_font_5": ""
+    },
+    {
+        "task_id": "577607",
+        "model_name": "gpt-4o-mini",
+        "candidate_font_1": "Pacifico",
+        "candidate_font_2": "Lobster",
+        "candidate_font_3": "Brush Script",
+        "candidate_font_4": "Bebas Neue",
+        "candidate_font_5": ""
+    },
+    {
+        "task_id": "577607",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Kaufmann Bold",
+        "candidate_font_2": "SignPainter House Script",
+        "candidate_font_3": "Ambassador Script",
+        "candidate_font_4": "Balmoral Script",
+        "candidate_font_5": "Park Avenue"
+    },
+    {
+        "task_id": "577606",
+        "model_name": "gpt-4o-mini",
+        "candidate_font_1": "Cochin",
+        "candidate_font_2": "Garamond",
+        "candidate_font_3": "Bodoni",
+        "candidate_font_4": "Helvetica Neue",
+        "candidate_font_5": "Didot"
+    },
+    {
+        "task_id": "577606",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Gotham Bold",
+        "candidate_font_2": "SF Pro Text",
+        "candidate_font_3": "SF Pro Display",
+        "candidate_font_4": "Nexa Bold",
+        "candidate_font_5": "Montserrat Bold"
+    },
+    {
+        "task_id": "577605",
+        "model_name": "gpt-4o-mini",
+        "candidate_font_1": "Comic Sans MS",
+        "candidate_font_2": "Arial Rounded MT Bold",
+        "candidate_font_3": "Verdana",
+        "candidate_font_4": "Chalkboard SE",
+        "candidate_font_5": ""
+    },
+    {
+        "task_id": "577605",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "VAG Rounded Bold",
+        "candidate_font_2": "Gotham Black",
+        "candidate_font_3": "Montserrat Black",
+        "candidate_font_4": "Proxima Nova Black",
+        "candidate_font_5": "Open Sans Extrabold"
+    },
+    {
+        "task_id": "577604",
+        "model_name": "gpt-4o-mini",
+        "candidate_font_1": "Playfair Display",
+        "candidate_font_2": "Bodoni",
+        "candidate_font_3": "Didot",
+        "candidate_font_4": "Libre Baskerville",
+        "candidate_font_5": "Garamond"
+    },
+    {
+        "task_id": "577604",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Didot",
+        "candidate_font_2": "Bodoni",
+        "candidate_font_3": "Playfair Display",
+        "candidate_font_4": "Glamorosa",
+        "candidate_font_5": "Cinzel"
+    },
+    {
+        "task_id": "577601",
+        "model_name": "gpt-4o-mini",
+        "candidate_font_1": "Bebas Neue",
+        "candidate_font_2": "Futura",
+        "candidate_font_3": "Gotham",
+        "candidate_font_4": "Avenir",
+        "candidate_font_5": ""
+    },
+    {
+        "task_id": "577601",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Globo Esporte Font",
+        "candidate_font_2": "Helvetica Bold",
+        "candidate_font_3": "Univers Bold",
+        "candidate_font_4": "Arial Bold",
+        "candidate_font_5": "Futura Bold"
+    },
+    {
+        "task_id": "577599",
+        "model_name": "gpt-4o-mini",
+        "candidate_font_1": "Bebas Neue",
+        "candidate_font_2": "Impact",
+        "candidate_font_3": "Old School",
+        "candidate_font_4": "Streetbrush",
+        "candidate_font_5": "Graffiti Regular"
+    },
+    {
+        "task_id": "577599",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Compacta Bold",
+        "candidate_font_2": "Univers Black Condensed",
+        "candidate_font_3": "Bank Gothic Medium",
+        "candidate_font_4": "Agency FB Bold",
+        "candidate_font_5": "Aachen Bold"
+    },
+    {
+        "task_id": "577598",
+        "model_name": "gpt-4o-mini",
+        "candidate_font_1": "Impact",
+        "candidate_font_2": "Bebas Neue",
+        "candidate_font_3": "Anton",
+        "candidate_font_4": "Roboto Condensed",
+        "candidate_font_5": "Oswald"
+    },
+    {
+        "task_id": "577598",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Pump Ultra",
+        "candidate_font_2": "VAG Rounded",
+        "candidate_font_3": "Eras Bold ITC",
+        "candidate_font_4": "Frankfurter",
+        "candidate_font_5": "Bauhaus 93"
+    },
+    {
+        "task_id": "577597",
+        "model_name": "gpt-4o-mini",
+        "candidate_font_1": "Bebas Neue",
+        "candidate_font_2": "Righteous",
+        "candidate_font_3": "Pacifico",
+        "candidate_font_4": "Lobster",
+        "candidate_font_5": "Montserrat"
+    },
+    {
+        "task_id": "577597",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Old School United",
+        "candidate_font_2": "Riesling",
+        "candidate_font_3": "College Block 2.0 Distressed",
+        "candidate_font_4": "Blackbeard",
+        "candidate_font_5": "Saloon"
+    },
+    {
+        "task_id": "577596",
+        "model_name": "gpt-4o-mini",
+        "candidate_font_1": "Old English Text MT",
+        "candidate_font_2": "Blackletter",
+        "candidate_font_3": "Gothic",
+        "candidate_font_4": "Fraktur",
+        "candidate_font_5": "Bodoni"
+    },
+    {
+        "task_id": "577596",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Weihrauch",
+        "candidate_font_2": "URW Weihrauch",
+        "candidate_font_3": "Fette Fraktur",
+        "candidate_font_4": "Wallau",
+        "candidate_font_5": "Lucian Fraktur"
     }
 ]
