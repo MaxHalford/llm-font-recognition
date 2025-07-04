@@ -4585,10 +4585,10 @@
     },
     {
         "task_id": "577440",
-        "url": "https://www.dafont.com/forum/read/577440/trying-to-find-where-this-font-can-be-purchased",
-        "title": "trying to find where this font can be purchased",
-        "instructions": "hi! This creator said this font is called \"Merry Christmas\" but anywhere i look I cant find out where this one is from specifically. I just got a bunch of Christmas-related fonts, but not this specific one. would love anyhelp",
-        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1220170.jpg",
+        "url": "https://www.dafont.com/forum/read/577440/trying-to-find-where-this-font-please",
+        "title": "trying to find where this font please",
+        "instructions": "hi! This creator said this font is called \"Merry Christmas\" but anywhere i look I cant find out where this one is from specifically. I don't think its called that. would love any help",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1220170.png?1",
         "identified_font": null
     },
     {
@@ -5620,8 +5620,8 @@
         "url": "https://www.dafont.com/forum/read/577559/help-me",
         "title": "Help Me!",
         "instructions": "I need both sources",
-        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1220454.jpg",
-        "identified_font": null
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1220454.png?1",
+        "identified_font": "Fonseca Thin"
     },
     {
         "task_id": "577557",
@@ -5661,6 +5661,22 @@
         "title": "3 different fonts, please",
         "instructions": null,
         "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1220456.jpg",
+        "identified_font": null
+    },
+    {
+        "task_id": "577563",
+        "url": "https://www.dafont.com/forum/read/577563/help-me",
+        "title": "Help Me!",
+        "instructions": null,
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1220471.png?1",
+        "identified_font": null
+    },
+    {
+        "task_id": "577561",
+        "url": "https://www.dafont.com/forum/read/577561/what-is-this-font",
+        "title": "what is this font?",
+        "instructions": "trying to find the font the word \"yourself\" is in the picture. would love any help, thank you!",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1220466.jpg",
         "identified_font": null
     }
 ]
