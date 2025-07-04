@@ -1685,7 +1685,7 @@
         "title": "\u00931 BILLION\u0094 font, please.",
         "instructions": null,
         "img_url": "https://www.dafont.com/forum/attach/orig/1/1/1193362.png?1",
-        "identified_font": null
+        "identified_font": "Twentieth Century Medium Condensed"
     },
     {
         "task_id": "577079",
@@ -5292,7 +5292,7 @@
         "url": "https://www.dafont.com/forum/read/577513/handwritten-font",
         "title": "Handwritten font",
         "instructions": "Any leads? \ud83e\udd1d",
-        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1220346.jpg",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1220346.png?1",
         "identified_font": null
     },
     {
@@ -5444,7 +5444,7 @@
         "url": "https://www.dafont.com/forum/read/577530/que-tipografia-es",
         "title": "Que tipograf\u00eda es?",
         "instructions": "Me podr\u00edais decir cual es, gracias y un saludo",
-        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1220374.jpg",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1220374.png?1",
         "identified_font": "Magnolia Sky"
     },
     {
@@ -5668,7 +5668,7 @@
         "url": "https://www.dafont.com/forum/read/577563/help-me",
         "title": "Help Me!",
         "instructions": null,
-        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1220471.png?1",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1220471.png?2",
         "identified_font": null
     },
     {
@@ -5677,6 +5677,30 @@
         "title": "what is this font?",
         "instructions": "trying to find the font the word \"yourself\" is in the picture. would love any help, thank you!",
         "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1220466.jpg",
+        "identified_font": null
+    },
+    {
+        "task_id": "577564",
+        "url": "https://www.dafont.com/forum/read/577564/what-is-the-sabrina-carpenter-name-font",
+        "title": "What is the \u0093Sabrina Carpenter\u0094 name font?",
+        "instructions": null,
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1220475.jpg",
+        "identified_font": null
+    },
+    {
+        "task_id": "574400",
+        "url": "https://www.dafont.com/forum/read/574400/tmnt-the-last-ronin-font",
+        "title": "TMNT The Last Ronin font",
+        "instructions": "Does anyone know if this is an actual font and what it is?",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1213724.jpg",
+        "identified_font": null
+    },
+    {
+        "task_id": "576257",
+        "url": "https://www.dafont.com/forum/read/576257/deadline-font",
+        "title": "DEADLINE FONT",
+        "instructions": null,
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1217544.jpg",
         "identified_font": null
     }
 ]
