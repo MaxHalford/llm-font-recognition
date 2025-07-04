@@ -5789,7 +5789,7 @@
         "title": "DIME A VEL",
         "instructions": "HELP CON LA FONT",
         "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1220513.png?1",
-        "identified_font": null
+        "identified_font": "Laundromat 1967"
     },
     {
         "task_id": "577577",
@@ -5918,5 +5918,149 @@
         "instructions": "font bento and toto",
         "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1210979.jpg",
         "identified_font": "Angelina"
+    },
+    {
+        "task_id": "577614",
+        "url": "https://www.dafont.com/forum/read/577614/font-please",
+        "title": "Font, please.",
+        "instructions": null,
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1220570.png",
+        "identified_font": null
+    },
+    {
+        "task_id": "577613",
+        "url": "https://www.dafont.com/forum/read/577613/font-please",
+        "title": "Font Please??!!..",
+        "instructions": "Name Please?",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1220569.jpg",
+        "identified_font": null
+    },
+    {
+        "task_id": "577612",
+        "url": "https://www.dafont.com/forum/read/577612/logo",
+        "title": "logo",
+        "instructions": null,
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1220568.jpg",
+        "identified_font": null
+    },
+    {
+        "task_id": "577611",
+        "url": "https://www.dafont.com/forum/read/577611/what-is-the-name-of-the-font-in-word-amanecer",
+        "title": "What is the name of the font in word  \"Amanecer\"",
+        "instructions": "Please",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1220567.jpg",
+        "identified_font": null
+    },
+    {
+        "task_id": "577610",
+        "url": "https://www.dafont.com/forum/read/577610/font-please",
+        "title": "Font, please.",
+        "instructions": null,
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1220566.png",
+        "identified_font": null
+    },
+    {
+        "task_id": "577600",
+        "url": "https://www.dafont.com/forum/read/577600/font-yellow-sweater-sasha-prendes-please",
+        "title": "font \"yellow sweater sasha prendes\" please",
+        "instructions": "what\u00b4s the font \"yellow sweater\"?",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1220553.jpg",
+        "identified_font": "Homemade Apple"
+    },
+    {
+        "task_id": "577609",
+        "url": "https://www.dafont.com/forum/read/577609/id-font",
+        "title": "ID FONT?",
+        "instructions": null,
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1220562.png",
+        "identified_font": null
+    },
+    {
+        "task_id": "577608",
+        "url": "https://www.dafont.com/forum/read/577608/font-please",
+        "title": "Font, please.",
+        "instructions": null,
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1220561.jpg",
+        "identified_font": null
+    },
+    {
+        "task_id": "577607",
+        "url": "https://www.dafont.com/forum/read/577607/rossmore-font",
+        "title": "Rossmore font?",
+        "instructions": null,
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1220560.jpg",
+        "identified_font": null
+    },
+    {
+        "task_id": "577606",
+        "url": "https://www.dafont.com/forum/read/577606/chartstswift-font-please",
+        "title": "\"@chartstswift\" font, please.",
+        "instructions": null,
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1220559.png",
+        "identified_font": null
+    },
+    {
+        "task_id": "577605",
+        "url": "https://www.dafont.com/forum/read/577605/please-identify",
+        "title": "Please Identify",
+        "instructions": "I have been looking for this font for literal years! Please try to identify it PLEASE!",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1220558.png",
+        "identified_font": null
+    },
+    {
+        "task_id": "577604",
+        "url": "https://www.dafont.com/forum/read/577604/font-percocets-sasha-prendes-please",
+        "title": "font \"percocets sasha prendes\" please",
+        "instructions": "what\u00b4s the font \"percocets\"?",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1220557.jpg",
+        "identified_font": null
+    },
+    {
+        "task_id": "577601",
+        "url": "https://www.dafont.com/forum/read/577601/como-e-o-nome-da-fonte-do-quarta-pobre-parodia-do-quarta-nobre",
+        "title": "Como \u00e9 o nome da fonte do Quarta Pobre (par\u00f3dia do Quarta Nobre)?",
+        "instructions": "Foi encontrada no canal Rede Clone (par\u00f3dia da TV Globo) e que tamb\u00e9m \u00e9 marca do Esporte Espetacular.",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1220554.png",
+        "identified_font": null
+    },
+    {
+        "task_id": "548195",
+        "url": "https://www.dafont.com/forum/read/548195/font-sasha-prendes-please",
+        "title": "font \"Sasha Prendes\" please",
+        "instructions": "what\u00b4s font \"Sasha\"?",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/1/1159229.png?1",
+        "identified_font": "Gotham"
+    },
+    {
+        "task_id": "577599",
+        "url": "https://www.dafont.com/forum/read/577599/hip-hop",
+        "title": "hip hop",
+        "instructions": "esta fuente esta en un cartel que se pega en las calles en la pelicula de honey, la reina del baile",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1220549.png",
+        "identified_font": null
+    },
+    {
+        "task_id": "577598",
+        "url": "https://www.dafont.com/forum/read/577598/pueden-ayudarme-a-encontra-la-fuente-de-este-cartel-que-esta-en-la-pelicula-honey-la-reyna-del-baile",
+        "title": "pueden ayudarme a encontra la fuente de este cartel, que esta en la pelicula Honey, la reyna del baile",
+        "instructions": "es un cartel que pegan en la calle en la pelicula de honey, la reina del baile",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1220548.png",
+        "identified_font": null
+    },
+    {
+        "task_id": "577597",
+        "url": "https://www.dafont.com/forum/read/577597/help",
+        "title": "HELP",
+        "instructions": "What are not the fonts?",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1220546.jpg",
+        "identified_font": null
+    },
+    {
+        "task_id": "577596",
+        "url": "https://www.dafont.com/forum/read/577596/police-gothic",
+        "title": "police gothic ?",
+        "instructions": "Quelqu'un a une id\u00e9e ?",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1220545.png",
+        "identified_font": null
     }
 ]
