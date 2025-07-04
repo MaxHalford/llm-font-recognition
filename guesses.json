@@ -9412,5 +9412,77 @@
         "candidate_font_3": "Woodcut Outline",
         "candidate_font_4": "Western Outline",
         "candidate_font_5": "Mesquite Std Outline"
+    },
+    {
+        "task_id": "577559",
+        "model_name": "gpt-4o-mini",
+        "candidate_font_1": "Playfair Display",
+        "candidate_font_2": "Libre Baskerville",
+        "candidate_font_3": "Cinzel",
+        "candidate_font_4": "",
+        "candidate_font_5": ""
+    },
+    {
+        "task_id": "577559",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Palatino Linotype",
+        "candidate_font_2": "Adobe Caslon Pro",
+        "candidate_font_3": "Garamond Premier Pro",
+        "candidate_font_4": "Source Serif Pro",
+        "candidate_font_5": "Montserrat"
+    },
+    {
+        "task_id": "577557",
+        "model_name": "gpt-4o-mini",
+        "candidate_font_1": "Frankenstein",
+        "candidate_font_2": "Bebas Neue",
+        "candidate_font_3": "Arial Black",
+        "candidate_font_4": "Impact",
+        "candidate_font_5": ""
+    },
+    {
+        "task_id": "577557",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Proxima Nova Rounded Bold",
+        "candidate_font_2": "Couture Bold",
+        "candidate_font_3": "Gotham Rounded Bold",
+        "candidate_font_4": "Uniform Bold",
+        "candidate_font_5": "Effra Rounded Bold"
+    },
+    {
+        "task_id": "577558",
+        "model_name": "gpt-4o-mini",
+        "candidate_font_1": "Rockwell",
+        "candidate_font_2": "Lobster",
+        "candidate_font_3": "Bodoni",
+        "candidate_font_4": "Cinzel",
+        "candidate_font_5": ""
+    },
+    {
+        "task_id": "577558",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Woodland Park",
+        "candidate_font_2": "Playbill",
+        "candidate_font_3": "Mesquite Std",
+        "candidate_font_4": "Desperado M54",
+        "candidate_font_5": "Wanted M54"
+    },
+    {
+        "task_id": "577556",
+        "model_name": "gpt-4o-mini",
+        "candidate_font_1": "Lobster",
+        "candidate_font_2": "Pacifico",
+        "candidate_font_3": "Fredericka the Great",
+        "candidate_font_4": "Baloo Bhai",
+        "candidate_font_5": "Righteous"
+    },
+    {
+        "task_id": "577556",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Amatic SC",
+        "candidate_font_2": "Permanent Marker",
+        "candidate_font_3": "Rock Salt",
+        "candidate_font_4": "Architects Daughter",
+        "candidate_font_5": "Coming Soon"
     }
 ]
