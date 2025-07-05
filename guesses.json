@@ -10960,5 +10960,167 @@
         "candidate_font_3": "Neon Glow",
         "candidate_font_4": "Neon Club Music",
         "candidate_font_5": "Neoneon"
+    },
+    {
+        "task_id": "577678",
+        "model_name": "gpt-4o-mini",
+        "candidate_font_1": "Helvetica Bold",
+        "candidate_font_2": "Futura",
+        "candidate_font_3": "Avenir",
+        "candidate_font_4": "Frank Ruhl Libre",
+        "candidate_font_5": ""
+    },
+    {
+        "task_id": "577678",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Rubik Medium Italic",
+        "candidate_font_2": "Venera 900 Italic",
+        "candidate_font_3": "Lato Light Italic",
+        "candidate_font_4": "Open Sans Italic",
+        "candidate_font_5": "Montserrat Bold Italic"
+    },
+    {
+        "task_id": "577677",
+        "model_name": "gpt-4o-mini",
+        "candidate_font_1": "Bebas Neue",
+        "candidate_font_2": "Oswald",
+        "candidate_font_3": "DIN Condensed",
+        "candidate_font_4": "Anton",
+        "candidate_font_5": "Impact"
+    },
+    {
+        "task_id": "577677",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Gobold Extra Bold",
+        "candidate_font_2": "Compacta Black",
+        "candidate_font_3": "Impact",
+        "candidate_font_4": "Bebas Neue Bold",
+        "candidate_font_5": "Trade Gothic Condensed No. 18"
+    },
+    {
+        "task_id": "577675",
+        "model_name": "gpt-4o-mini",
+        "candidate_font_1": "Gothic Hand",
+        "candidate_font_2": "Old English Text",
+        "candidate_font_3": "Blackletter",
+        "candidate_font_4": "",
+        "candidate_font_5": ""
+    },
+    {
+        "task_id": "577675",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Beauty and the Beast (KC Fonts)",
+        "candidate_font_2": "Victorian Parlor",
+        "candidate_font_3": "Blackmoor",
+        "candidate_font_4": "Trajan Pro",
+        "candidate_font_5": "Albertus"
+    },
+    {
+        "task_id": "577676",
+        "model_name": "gpt-4o-mini",
+        "candidate_font_1": "Bebas Neue",
+        "candidate_font_2": "Oswald",
+        "candidate_font_3": "Impact",
+        "candidate_font_4": "Nexa Bold",
+        "candidate_font_5": "Anton"
+    },
+    {
+        "task_id": "577676",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Gobold Black",
+        "candidate_font_2": "Gobold Block",
+        "candidate_font_3": "Compacta",
+        "candidate_font_4": "Impact",
+        "candidate_font_5": "Anton"
+    },
+    {
+        "task_id": "399849",
+        "model_name": "gpt-4o-mini",
+        "candidate_font_1": "Futura Bold",
+        "candidate_font_2": "Bebas Neue",
+        "candidate_font_3": "Eurostile",
+        "candidate_font_4": "Impact",
+        "candidate_font_5": ""
+    },
+    {
+        "task_id": "399849",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "This appears to be a custom-designed logotype rather than a specific font.",
+        "candidate_font_2": "",
+        "candidate_font_3": "",
+        "candidate_font_4": "",
+        "candidate_font_5": ""
+    },
+    {
+        "task_id": "577674",
+        "model_name": "gpt-4o-mini",
+        "candidate_font_1": "Press Start 2P",
+        "candidate_font_2": "Game Over",
+        "candidate_font_3": "Pixelated",
+        "candidate_font_4": "8-Bit",
+        "candidate_font_5": "Arcade Classic"
+    },
+    {
+        "task_id": "577674",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Gameboy",
+        "candidate_font_2": "Gameboy Classic",
+        "candidate_font_3": "Pixelmix",
+        "candidate_font_4": "Press Start 2P",
+        "candidate_font_5": "VCR OSD Mono"
+    },
+    {
+        "task_id": "577673",
+        "model_name": "gpt-4o-mini",
+        "candidate_font_1": "Lobster",
+        "candidate_font_2": "Pacifico",
+        "candidate_font_3": "Brush Script",
+        "candidate_font_4": "Dancing Script",
+        "candidate_font_5": "Great Vibes"
+    },
+    {
+        "task_id": "577673",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Lemon Tuesday",
+        "candidate_font_2": "Bromello",
+        "candidate_font_3": "Better Together",
+        "candidate_font_4": "Hattori Hanzo",
+        "candidate_font_5": "Salted Mocha"
+    },
+    {
+        "task_id": "577672",
+        "model_name": "gpt-4o-mini",
+        "candidate_font_1": "Lobster",
+        "candidate_font_2": "Cinzel",
+        "candidate_font_3": "Pacifico",
+        "candidate_font_4": "Montserrat",
+        "candidate_font_5": "Playfair Display"
+    },
+    {
+        "task_id": "577672",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Frankenstein",
+        "candidate_font_2": "Sue Ellen Francisco",
+        "candidate_font_3": "KG Summer Sunshine",
+        "candidate_font_4": "Open Sans",
+        "candidate_font_5": "Roboto"
+    },
+    {
+        "task_id": "518564",
+        "model_name": "gpt-4o-mini",
+        "candidate_font_1": "Impact",
+        "candidate_font_2": "Eurostile",
+        "candidate_font_3": "Roboto",
+        "candidate_font_4": "Bebas Neue",
+        "candidate_font_5": ""
+    },
+    {
+        "task_id": "518564",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Codec Warm Rounded",
+        "candidate_font_2": "Product Sans",
+        "candidate_font_3": "Sofia Pro Soft",
+        "candidate_font_4": "VAG Rounded",
+        "candidate_font_5": "Proxima Nova Soft"
     }
 ]
