@@ -10942,5 +10942,23 @@
         "candidate_font_3": "Bubblegum Sans",
         "candidate_font_4": "Fredoka One",
         "candidate_font_5": "Boogaloo"
+    },
+    {
+        "task_id": "552392",
+        "model_name": "gpt-4o-mini",
+        "candidate_font_1": "Neon Lights",
+        "candidate_font_2": "Blippo",
+        "candidate_font_3": "Century Gothic",
+        "candidate_font_4": "Lazer85",
+        "candidate_font_5": ""
+    },
+    {
+        "task_id": "552392",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Neon Lights",
+        "candidate_font_2": "Neon Tubes",
+        "candidate_font_3": "Neon Glow",
+        "candidate_font_4": "Neon Club Music",
+        "candidate_font_5": "Neoneon"
     }
 ]
