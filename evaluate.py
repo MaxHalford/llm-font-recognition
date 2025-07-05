@@ -7,6 +7,7 @@
 
 
 import dataclasses
+import functools
 import itertools
 import json
 
@@ -109,6 +110,16 @@ The source code for this benchmark is available on [GitHub](https://github.com/M
     metrics.add_column("Metric", justify="center", style="magenta", no_wrap=True)
     for model in models:
         metrics.add_column(model, justify="center", no_wrap=True)
+    row = ["Total tasks"]
+    for model in models:
+        total_tasks = sum(
+            1
+            for task in complete_tasks
+            if task.task_id in guesses_by_task
+            and model in guesses_by_task[task.task_id]
+        )
+        row.append(f"{total_tasks:,d}")
+    metrics.add_row(*row)
     ## TOP-K ACCURACY
     for k in range(1, 6):
         row = [f"Top-{k} accuracy"]
@@ -156,19 +167,23 @@ The source code for this benchmark is available on [GitHub](https://github.com/M
             if guess := guesses_by_task[task.task_id].get(model):
                 cell = rich.text.Text()
                 guessed_fonts = guess.as_list()
-                for i, font in enumerate(guessed_fonts):
-                    cell.append(
-                        font,
-                        style=(
-                            "green"
-                            if check_if_guess_is_correct(
-                                guessed_font=font, identified_font=task.identified_font
-                            )
-                            else "red"
+                font_to_show = next(
+                    filter(
+                        functools.partial(
+                            check_if_guess_is_correct,
+                            identified_font=task.identified_font,
                         ),
-                    )
-                    if i < len(guessed_fonts) - 1:
-                        cell.append(", ", style="dim")
+                        guessed_fonts,
+                    ),
+                    None,
+                )
+                index = guessed_fonts.index(font_to_show) if font_to_show else None
+                cell.append(
+                    f"{font_to_show} ({index + 1})"
+                    if font_to_show
+                    else guessed_fonts[0],
+                    style=("green" if font_to_show else "red"),
+                )
                 row.append(cell)
             else:
                 row.append("")
