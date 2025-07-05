@@ -10780,5 +10780,41 @@
         "candidate_font_3": "Gloop",
         "candidate_font_4": "Psychedelia",
         "candidate_font_5": "Organic Groovy"
+    },
+    {
+        "task_id": "577662",
+        "model_name": "gpt-4o-mini",
+        "candidate_font_1": "Bangers",
+        "candidate_font_2": "Fjalla One",
+        "candidate_font_3": "Rock Salt",
+        "candidate_font_4": "Luckiest Guy",
+        "candidate_font_5": "Cabin"
+    },
+    {
+        "task_id": "577662",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "BadaBoom BB",
+        "candidate_font_2": "Porky's",
+        "candidate_font_3": "Komika Title",
+        "candidate_font_4": "Luckiest Guy",
+        "candidate_font_5": "Bangers"
+    },
+    {
+        "task_id": "577654",
+        "model_name": "gpt-4o-mini",
+        "candidate_font_1": "Brush Script",
+        "candidate_font_2": "Pacifico",
+        "candidate_font_3": "Cursive",
+        "candidate_font_4": "Lobster",
+        "candidate_font_5": "Luminari"
+    },
+    {
+        "task_id": "577654",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Balsamiq Sans",
+        "candidate_font_2": "Quicksand",
+        "candidate_font_3": "Fredoka One",
+        "candidate_font_4": "Varela Round",
+        "candidate_font_5": "Sniglet"
     }
 ]
