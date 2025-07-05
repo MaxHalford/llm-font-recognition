@@ -6269,7 +6269,7 @@
         "title": "Jaeguchi font",
         "instructions": "Tittle Font",
         "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1220591.jpg",
-        "identified_font": null
+        "identified_font": "Uertas"
     },
     {
         "task_id": "577625",
@@ -6437,6 +6437,78 @@
         "title": "Dress to Impress Roblox Game Font",
         "instructions": null,
         "img_url": "https://www.dafont.com/forum/attach/orig/1/1/1168448.png",
+        "identified_font": null
+    },
+    {
+        "task_id": "577678",
+        "url": "https://www.dafont.com/forum/read/577678/help-font-please",
+        "title": "HELP!!!!! FONT PLEASE",
+        "instructions": null,
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1220690.png",
+        "identified_font": null
+    },
+    {
+        "task_id": "577677",
+        "url": "https://www.dafont.com/forum/read/577677/id-font",
+        "title": "ID FONT?",
+        "instructions": "A BOA PARTE",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1220687.png",
+        "identified_font": null
+    },
+    {
+        "task_id": "577675",
+        "url": "https://www.dafont.com/forum/read/577675/gabriela",
+        "title": "Gabriela",
+        "instructions": null,
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1220683.jpg",
+        "identified_font": null
+    },
+    {
+        "task_id": "577676",
+        "url": "https://www.dafont.com/forum/read/577676/beautiful-chaos",
+        "title": "BEAUTIFUL CHAOS",
+        "instructions": null,
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1220684.jpg",
+        "identified_font": null
+    },
+    {
+        "task_id": "399849",
+        "url": "https://www.dafont.com/forum/read/399849/1995-2000-ytv-logo",
+        "title": "1995-2000 YTV Logo",
+        "instructions": "Hi Everyone,",
+        "img_url": "https://www.dafont.com/forum/attach/orig/8/6/864229.png",
+        "identified_font": null
+    },
+    {
+        "task_id": "577674",
+        "url": "https://www.dafont.com/forum/read/577674/gameboy",
+        "title": "GAMEBOY",
+        "instructions": null,
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1220681.jpg",
+        "identified_font": null
+    },
+    {
+        "task_id": "577673",
+        "url": "https://www.dafont.com/forum/read/577673/i-need-the-name-of-this-font-ty",
+        "title": "i need the name of this font! TY",
+        "instructions": null,
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1220680.jpg",
+        "identified_font": null
+    },
+    {
+        "task_id": "577672",
+        "url": "https://www.dafont.com/forum/read/577672/la-llorona",
+        "title": "La Llorona",
+        "instructions": "Nombre de esta tipograf\u00eda o similar",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1220678.png?1",
+        "identified_font": null
+    },
+    {
+        "task_id": "518564",
+        "url": "https://www.dafont.com/forum/read/518564/font-sportv",
+        "title": "Font SPORTV",
+        "instructions": null,
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/0/1098199.png",
         "identified_font": null
     }
 ]
