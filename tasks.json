@@ -6253,7 +6253,7 @@
         "title": "Jaeguchi font",
         "instructions": "Tittle Font",
         "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1220593.jpg",
-        "identified_font": null
+        "identified_font": "Glamora"
     },
     {
         "task_id": "577629",
@@ -6413,7 +6413,7 @@
         "title": "Logo Countdown",
         "instructions": "Kinemaster Logo Countdown Font?",
         "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1220665.jpg",
-        "identified_font": null
+        "identified_font": "VAG Rounded"
     },
     {
         "task_id": "577669",
@@ -6445,7 +6445,7 @@
         "title": "HELP!!!!! FONT PLEASE",
         "instructions": null,
         "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1220690.png",
-        "identified_font": null
+        "identified_font": "Verdana"
     },
     {
         "task_id": "577677",
@@ -6501,7 +6501,7 @@
         "title": "La Llorona",
         "instructions": "Nombre de esta tipograf\u00eda o similar",
         "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1220678.png?1",
-        "identified_font": null
+        "identified_font": "The Serif Hand"
     },
     {
         "task_id": "518564",
@@ -6509,6 +6509,54 @@
         "title": "Font SPORTV",
         "instructions": null,
         "img_url": "https://www.dafont.com/forum/attach/orig/1/0/1098199.png",
+        "identified_font": null
+    },
+    {
+        "task_id": "577683",
+        "url": "https://www.dafont.com/forum/read/577683/s",
+        "title": "S",
+        "instructions": null,
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1220708.png",
+        "identified_font": null
+    },
+    {
+        "task_id": "572788",
+        "url": "https://www.dafont.com/forum/read/572788/pes6-logo-the-number-6",
+        "title": "PES6 LOGO (THE NUMBER \"6\")",
+        "instructions": "I need the font of PES 6 (only the font of the number \"6\" no the font of the text)",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1210630.png",
+        "identified_font": "Bullet Small Caps"
+    },
+    {
+        "task_id": "577682",
+        "url": "https://www.dafont.com/forum/read/577682/does-anyone-know-this-font",
+        "title": "does anyone know this font",
+        "instructions": null,
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1220704.jpg",
+        "identified_font": null
+    },
+    {
+        "task_id": "577679",
+        "url": "https://www.dafont.com/forum/read/577679/kaejyung-font",
+        "title": "Kaejyung font",
+        "instructions": "Can you help me with the name of this font, please?",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1220694.jpg",
+        "identified_font": "Existence"
+    },
+    {
+        "task_id": "577680",
+        "url": "https://www.dafont.com/forum/read/577680/please-help-me",
+        "title": "Please help me",
+        "instructions": "Can you help me identify this font?",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1220697.jpg",
+        "identified_font": "Big Noodle Titling"
+    },
+    {
+        "task_id": "577681",
+        "url": "https://www.dafont.com/forum/read/577681/degollado",
+        "title": "DEGOLLADO",
+        "instructions": "Expo feria degollado",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1220699.jpg",
         "identified_font": null
     }
 ]
