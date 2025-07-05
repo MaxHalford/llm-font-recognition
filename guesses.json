@@ -10816,5 +10816,59 @@
         "candidate_font_3": "Fredoka One",
         "candidate_font_4": "Varela Round",
         "candidate_font_5": "Sniglet"
+    },
+    {
+        "task_id": "577666",
+        "model_name": "gpt-4o-mini",
+        "candidate_font_1": "Brush Script",
+        "candidate_font_2": "Bangers",
+        "candidate_font_3": "Grunge",
+        "candidate_font_4": "Impact",
+        "candidate_font_5": "Metallic"
+    },
+    {
+        "task_id": "577666",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "DestroGojira",
+        "candidate_font_2": "Destroyer",
+        "candidate_font_3": "Blackhawk",
+        "candidate_font_4": "Smash It",
+        "candidate_font_5": "Bloodthirsty"
+    },
+    {
+        "task_id": "493781",
+        "model_name": "gpt-4o-mini",
+        "candidate_font_1": "Bubblegum Sans",
+        "candidate_font_2": "Lobster",
+        "candidate_font_3": "Pacifico",
+        "candidate_font_4": "Dancing Script",
+        "candidate_font_5": "Baloo"
+    },
+    {
+        "task_id": "493781",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Pocahontas",
+        "candidate_font_2": "VAG Rounded",
+        "candidate_font_3": "KG Summer Sunshine",
+        "candidate_font_4": "Bubblegum Sans",
+        "candidate_font_5": "Good Dog"
+    },
+    {
+        "task_id": "577663",
+        "model_name": "gpt-4o-mini",
+        "candidate_font_1": "Roboto",
+        "candidate_font_2": "Bebas Neue",
+        "candidate_font_3": "Oswald",
+        "candidate_font_4": "Anton",
+        "candidate_font_5": "Montserrat"
+    },
+    {
+        "task_id": "577663",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Montserrat Black",
+        "candidate_font_2": "Oswald ExtraBold",
+        "candidate_font_3": "Bebas Neue Bold",
+        "candidate_font_4": "Roboto Black",
+        "candidate_font_5": "Impact"
     }
 ]
