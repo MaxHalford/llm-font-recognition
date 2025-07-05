@@ -11122,5 +11122,59 @@
         "candidate_font_3": "Sofia Pro Soft",
         "candidate_font_4": "VAG Rounded",
         "candidate_font_5": "Proxima Nova Soft"
+    },
+    {
+        "task_id": "577683",
+        "model_name": "gpt-4o-mini",
+        "candidate_font_1": "Allura",
+        "candidate_font_2": "Lobster",
+        "candidate_font_3": "Dancing Script",
+        "candidate_font_4": "Script MT Bold",
+        "candidate_font_5": "Brush Script MT"
+    },
+    {
+        "task_id": "577683",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Autumn Embrace",
+        "candidate_font_2": "LHF Royal Initialen",
+        "candidate_font_3": "Fleuron Initials",
+        "candidate_font_4": "Initialen One",
+        "candidate_font_5": "Engravers MT"
+    },
+    {
+        "task_id": "577682",
+        "model_name": "gpt-4o-mini",
+        "candidate_font_1": "Adventure",
+        "candidate_font_2": "Brush Script",
+        "candidate_font_3": "Wildstyle",
+        "candidate_font_4": "Bebas Neue",
+        "candidate_font_5": ""
+    },
+    {
+        "task_id": "577682",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "KG Red Hands",
+        "candidate_font_2": "Action Jackson",
+        "candidate_font_3": "Cream Cake",
+        "candidate_font_4": "Bangers",
+        "candidate_font_5": "Grinched"
+    },
+    {
+        "task_id": "577681",
+        "model_name": "gpt-4o-mini",
+        "candidate_font_1": "Poppins",
+        "candidate_font_2": "Baloo",
+        "candidate_font_3": "Rubik",
+        "candidate_font_4": "Noto Sans",
+        "candidate_font_5": ""
+    },
+    {
+        "task_id": "577681",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Rocketeers",
+        "candidate_font_2": "Baloo 2",
+        "candidate_font_3": "Coming Soon",
+        "candidate_font_4": "Fredoka One",
+        "candidate_font_5": "Luckiest Guy"
     }
 ]
