@@ -5957,7 +5957,7 @@
         "title": "Font, please.",
         "instructions": null,
         "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1220566.png",
-        "identified_font": null
+        "identified_font": "Gyahegi"
     },
     {
         "task_id": "577600",
@@ -6061,6 +6061,294 @@
         "title": "police gothic ?",
         "instructions": "Quelqu'un a une id\u00e9e ?",
         "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1220545.png",
+        "identified_font": null
+    },
+    {
+        "task_id": "577635",
+        "url": "https://www.dafont.com/forum/read/577635/jaeguchi-font",
+        "title": "Jaeguchi font",
+        "instructions": "Tittle Font",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1220598.jpg",
+        "identified_font": "Robot Wonders"
+    },
+    {
+        "task_id": "577648",
+        "url": "https://www.dafont.com/forum/read/577648/jaeguchi-font",
+        "title": "Jaeguchi font",
+        "instructions": "Tittle Font",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1220616.jpg",
+        "identified_font": "Monas"
+    },
+    {
+        "task_id": "577633",
+        "url": "https://www.dafont.com/forum/read/577633/jaeguchi-font",
+        "title": "Jaeguchi font",
+        "instructions": "Tittle Font",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1220596.jpg",
+        "identified_font": "Damsterdam"
+    },
+    {
+        "task_id": "577626",
+        "url": "https://www.dafont.com/forum/read/577626/jaeguchi-font",
+        "title": "Jaeguchi font",
+        "instructions": "Tittle Font",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1220589.jpg?1",
+        "identified_font": "Weird Words"
+    },
+    {
+        "task_id": "577632",
+        "url": "https://www.dafont.com/forum/read/577632/kaejyung-font",
+        "title": "Kaejyung font",
+        "instructions": "Tittle Font",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1220595.jpg",
+        "identified_font": "d Dialien"
+    },
+    {
+        "task_id": "577622",
+        "url": "https://www.dafont.com/forum/read/577622/jaeguchi-font",
+        "title": "Jaeguchi font",
+        "instructions": "Tittle Font",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1220585.jpg",
+        "identified_font": "MPF Kidnapped"
+    },
+    {
+        "task_id": "577642",
+        "url": "https://www.dafont.com/forum/read/577642/jaeguchi-font",
+        "title": "Jaeguchi font",
+        "instructions": "Tittle Font",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1220610.jpg",
+        "identified_font": "h Halua"
+    },
+    {
+        "task_id": "577647",
+        "url": "https://www.dafont.com/forum/read/577647/font-by-shadowbyyoongi",
+        "title": "FONT BY SHADOWBYYOONGI",
+        "instructions": "Tittle Font",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1220615.jpg",
+        "identified_font": null
+    },
+    {
+        "task_id": "577645",
+        "url": "https://www.dafont.com/forum/read/577645/jaeguchi-font",
+        "title": "Jaeguchi font",
+        "instructions": "Tittle Font",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1220613.jpg",
+        "identified_font": null
+    },
+    {
+        "task_id": "577644",
+        "url": "https://www.dafont.com/forum/read/577644/zatty-farhani-font",
+        "title": "Zatty Farhani Font",
+        "instructions": "Tittle Font",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1220612.jpg",
+        "identified_font": null
+    },
+    {
+        "task_id": "577643",
+        "url": "https://www.dafont.com/forum/read/577643/jaeguchi-font",
+        "title": "Jaeguchi font",
+        "instructions": "Tittle Font",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1220611.jpg",
+        "identified_font": null
+    },
+    {
+        "task_id": "577641",
+        "url": "https://www.dafont.com/forum/read/577641/jaeguchi-font",
+        "title": "Jaeguchi font",
+        "instructions": "Tittle Font",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1220609.jpg",
+        "identified_font": null
+    },
+    {
+        "task_id": "577640",
+        "url": "https://www.dafont.com/forum/read/577640/jaeguchi-font",
+        "title": "Jaeguchi font",
+        "instructions": "Tittle Font",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1220608.jpg",
+        "identified_font": null
+    },
+    {
+        "task_id": "577639",
+        "url": "https://www.dafont.com/forum/read/577639/font-by-shadowbyyoongi",
+        "title": "FONT BY SHADOWBYYOONGI",
+        "instructions": "Tittle Font",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1220607.jpg",
+        "identified_font": null
+    },
+    {
+        "task_id": "577638",
+        "url": "https://www.dafont.com/forum/read/577638/jaeguchi-font",
+        "title": "Jaeguchi font",
+        "instructions": "Tittle Font",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1220606.jpg",
+        "identified_font": null
+    },
+    {
+        "task_id": "539560",
+        "url": "https://www.dafont.com/forum/read/539560/madame-web-new-logo",
+        "title": "Madame Web New Logo",
+        "instructions": "guys need help with the fonts please",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/1/1140588.jpg",
+        "identified_font": null
+    },
+    {
+        "task_id": "551831",
+        "url": "https://www.dafont.com/forum/read/551831/daredevil-born-again-new-logo",
+        "title": "Daredevil born again new logo",
+        "instructions": "guys new logo fonts pleaseT ?",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/1/1167272.jpg",
+        "identified_font": null
+    },
+    {
+        "task_id": "577637",
+        "url": "https://www.dafont.com/forum/read/577637/jaeguchi-font",
+        "title": "Jaeguchi font",
+        "instructions": "Tittle Font",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1220603.jpg",
+        "identified_font": null
+    },
+    {
+        "task_id": "551832",
+        "url": "https://www.dafont.com/forum/read/551832/the-last-dance",
+        "title": "The Last DAnce",
+        "instructions": "Fonts for the last dance pleasE ????",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/1/1167273.png?1",
+        "identified_font": null
+    },
+    {
+        "task_id": "551833",
+        "url": "https://www.dafont.com/forum/read/551833/iron-heart-new-logo",
+        "title": "iron heart new logo",
+        "instructions": "the font please ?",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/1/1167276.jpg",
+        "identified_font": null
+    },
+    {
+        "task_id": "577636",
+        "url": "https://www.dafont.com/forum/read/577636/jaeguchi-font",
+        "title": "Jaeguchi font",
+        "instructions": "Tittle Font",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1220600.jpg",
+        "identified_font": null
+    },
+    {
+        "task_id": "562675",
+        "url": "https://www.dafont.com/forum/read/562675/eyes-of-wakanda",
+        "title": "Eyes Of WAkanda",
+        "instructions": "The font please asap tq",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/1/1190124.jpg",
+        "identified_font": null
+    },
+    {
+        "task_id": "577631",
+        "url": "https://www.dafont.com/forum/read/577631/font-by-shadowbyyoongi",
+        "title": "FONT BY SHADOWBYYOONGI",
+        "instructions": "Tittle Font",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1220594.jpg",
+        "identified_font": null
+    },
+    {
+        "task_id": "577630",
+        "url": "https://www.dafont.com/forum/read/577630/jaeguchi-font",
+        "title": "Jaeguchi font",
+        "instructions": "Tittle Font",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1220593.jpg",
+        "identified_font": null
+    },
+    {
+        "task_id": "577629",
+        "url": "https://www.dafont.com/forum/read/577629/jaeguchi-font",
+        "title": "Jaeguchi font",
+        "instructions": "Tittle Font",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1220592.jpg",
+        "identified_font": null
+    },
+    {
+        "task_id": "577628",
+        "url": "https://www.dafont.com/forum/read/577628/jaeguchi-font",
+        "title": "Jaeguchi font",
+        "instructions": "Tittle Font",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1220591.jpg",
+        "identified_font": null
+    },
+    {
+        "task_id": "577625",
+        "url": "https://www.dafont.com/forum/read/577625/jaeguchi-font",
+        "title": "Jaeguchi font",
+        "instructions": "Tittle Font",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1220588.jpg",
+        "identified_font": null
+    },
+    {
+        "task_id": "577623",
+        "url": "https://www.dafont.com/forum/read/577623/font-by-shadowbyyoongi",
+        "title": "FONT BY SHADOWBYYOONGI",
+        "instructions": "Tittle Font",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1220586.jpg",
+        "identified_font": null
+    },
+    {
+        "task_id": "577621",
+        "url": "https://www.dafont.com/forum/read/577621/font-by-shadowbyyoongi",
+        "title": "FONT BY SHADOWBYYOONGI",
+        "instructions": "The Japapnese font",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1220584.png",
+        "identified_font": null
+    },
+    {
+        "task_id": "577620",
+        "url": "https://www.dafont.com/forum/read/577620/nombre-de-esta-tipografia",
+        "title": "NOMBRE DE ESTA TIPOGRAFIA?",
+        "instructions": "DE LA QUE DICE VIVA MEXICO",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1220583.jpg",
+        "identified_font": null
+    },
+    {
+        "task_id": "577619",
+        "url": "https://www.dafont.com/forum/read/577619/anyone-know-if-the-nintendogs-font-is-publicly-available",
+        "title": "anyone know if the nintendogs font is publicly available?",
+        "instructions": null,
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1220582.png",
+        "identified_font": null
+    },
+    {
+        "task_id": "577618",
+        "url": "https://www.dafont.com/forum/read/577618/font-identification-of-text",
+        "title": "Font Identification of Text",
+        "instructions": "I'm currently trying to figure out what the font used for this text is. I cut out the text from the original image and cleaned it up since it was a bit messy like a white gradient that made the bottom part difficult to see (although the edges are still rough, my apologies). The text is \"DARK WARRIORS\" and obviously the original font isn't curved like that. I assume the \"D\" and \"S\" are also in different font sizes. Only other detail I can think of is the uniqueness of the \"K\" might help identify the font (it's not sharp). I thought it was Evogria but the \"S\" is different from Evogria. I doubt the person who made this used multiple different fonts for the same image. Thanks in advance!",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1220581.png",
+        "identified_font": null
+    },
+    {
+        "task_id": "577617",
+        "url": "https://www.dafont.com/forum/read/577617/hi-could-someone-help-me-identify-this-font-hoping-it-s-high-enough-quality-to-not-get-deleted-again",
+        "title": "Hi! Could someone help me identify this font?? (hoping it's high enough quality to not get deleted again oml)",
+        "instructions": "\"I'M YOUR POOKIE IN THE MORNING",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1220580.jpg",
+        "identified_font": null
+    },
+    {
+        "task_id": "577616",
+        "url": "https://www.dafont.com/forum/read/577616/solucion",
+        "title": "SOLUCION",
+        "instructions": null,
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1220577.png",
+        "identified_font": "Photograph Signature"
+    },
+    {
+        "task_id": "368394",
+        "url": "https://www.dafont.com/forum/read/368394/jayskibean-logo",
+        "title": "JayskiBean Logo",
+        "instructions": "What is the font name that JayskiBean used?",
+        "img_url": "https://www.dafont.com/forum/attach/orig/8/0/802232.jpg",
+        "identified_font": null
+    },
+    {
+        "task_id": "577615",
+        "url": "https://www.dafont.com/forum/read/577615/does-anyone-recognize-the-font",
+        "title": "Does anyone recognize the font?",
+        "instructions": null,
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1220573.png",
         "identified_font": null
     }
 ]
