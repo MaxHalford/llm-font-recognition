@@ -6533,7 +6533,7 @@
         "title": "does anyone know this font",
         "instructions": null,
         "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1220704.jpg",
-        "identified_font": null
+        "identified_font": "Trade Winds"
     },
     {
         "task_id": "577679",
@@ -6557,6 +6557,86 @@
         "title": "DEGOLLADO",
         "instructions": "Expo feria degollado",
         "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1220699.jpg",
+        "identified_font": null
+    },
+    {
+        "task_id": "577692",
+        "url": "https://www.dafont.com/forum/read/577692/what-font-is-this",
+        "title": "what font is this?",
+        "instructions": "does anyone know this font??",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1220726.png",
+        "identified_font": null
+    },
+    {
+        "task_id": "577691",
+        "url": "https://www.dafont.com/forum/read/577691/blackletter-old-english-new-zealand-post-war",
+        "title": "Blackletter - Old English - New Zealand Post-War",
+        "instructions": "Trying to identify the typeface used in this handcart. 'The Hand' and 'Five' are extracts showing the same font in different context. Note the Capital H in 'Hand' and 'A. E. S. Hannan' and the lower case V and W in 'Five', 'Achievements' and 'New Zealand'",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1220725.jpg",
+        "identified_font": null
+    },
+    {
+        "task_id": "577690",
+        "url": "https://www.dafont.com/forum/read/577690/finding",
+        "title": "Finding",
+        "instructions": null,
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1220724.jpg",
+        "identified_font": null
+    },
+    {
+        "task_id": "577685",
+        "url": "https://www.dafont.com/forum/read/577685/anyone-know-the-name-of-this-font",
+        "title": "Anyone know the name of this font",
+        "instructions": null,
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1220716.jpg",
+        "identified_font": null
+    },
+    {
+        "task_id": "577689",
+        "url": "https://www.dafont.com/forum/read/577689/font-id",
+        "title": "Font id",
+        "instructions": "Does anyone know what this font is?",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1220721.png",
+        "identified_font": null
+    },
+    {
+        "task_id": "577688",
+        "url": "https://www.dafont.com/forum/read/577688/upcoming-the-cat-in-the-hat-animated-movie-logo-font",
+        "title": "Upcoming The Cat In The Hat animated movie logo Font",
+        "instructions": "Does anyone know what font or at least one similar to the font used for the logo for the upcoming The Cat In The Hat movie?",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1220720.jpg",
+        "identified_font": null
+    },
+    {
+        "task_id": "575969",
+        "url": "https://www.dafont.com/forum/read/575969/font",
+        "title": "font",
+        "instructions": null,
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1216923.png",
+        "identified_font": "Clemente"
+    },
+    {
+        "task_id": "577687",
+        "url": "https://www.dafont.com/forum/read/577687/help",
+        "title": "HELP",
+        "instructions": "What is the fonts?",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1220718.jpg",
+        "identified_font": null
+    },
+    {
+        "task_id": "577686",
+        "url": "https://www.dafont.com/forum/read/577686/what-font-is-this-please",
+        "title": "What font is this please ?",
+        "instructions": "Can anyone help me to find this font.",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1220717.png",
+        "identified_font": null
+    },
+    {
+        "task_id": "577684",
+        "url": "https://www.dafont.com/forum/read/577684/font-identification",
+        "title": "Font Identification",
+        "instructions": null,
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1220715.png",
         "identified_font": null
     }
 ]
