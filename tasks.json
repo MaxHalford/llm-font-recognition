@@ -6157,7 +6157,7 @@
         "title": "Jaeguchi font",
         "instructions": "Tittle Font",
         "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1220609.jpg",
-        "identified_font": null
+        "identified_font": "Noble Criatura"
     },
     {
         "task_id": "577640",
@@ -6301,7 +6301,7 @@
         "title": "NOMBRE DE ESTA TIPOGRAFIA?",
         "instructions": "DE LA QUE DICE VIVA MEXICO",
         "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1220583.jpg",
-        "identified_font": null
+        "identified_font": "Sancreek"
     },
     {
         "task_id": "577619",
@@ -6349,6 +6349,22 @@
         "title": "Does anyone recognize the font?",
         "instructions": null,
         "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1220573.png",
+        "identified_font": null
+    },
+    {
+        "task_id": "577662",
+        "url": "https://www.dafont.com/forum/read/577662/check",
+        "title": "'check'",
+        "instructions": null,
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1220643.jpg",
+        "identified_font": null
+    },
+    {
+        "task_id": "577654",
+        "url": "https://www.dafont.com/forum/read/577654/do-the-dance-font",
+        "title": "Do the Dance font",
+        "instructions": null,
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1220632.jpg",
         "identified_font": null
     }
 ]
