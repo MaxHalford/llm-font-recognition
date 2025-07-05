@@ -6229,7 +6229,7 @@
         "title": "Jaeguchi font",
         "instructions": "Tittle Font",
         "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1220600.jpg",
-        "identified_font": null
+        "identified_font": "Worship Music"
     },
     {
         "task_id": "562675",
@@ -6283,9 +6283,9 @@
         "task_id": "577623",
         "url": "https://www.dafont.com/forum/read/577623/font-by-shadowbyyoongi",
         "title": "FONT BY SHADOWBYYOONGI",
-        "instructions": "Tittle Font",
+        "instructions": "Title Font",
         "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1220586.jpg",
-        "identified_font": null
+        "identified_font": "Jack Stanislav"
     },
     {
         "task_id": "577621",
@@ -6357,7 +6357,7 @@
         "title": "'check'",
         "instructions": null,
         "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1220643.jpg",
-        "identified_font": null
+        "identified_font": "Asphalt Black"
     },
     {
         "task_id": "577654",
@@ -6365,6 +6365,38 @@
         "title": "Do the Dance font",
         "instructions": null,
         "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1220632.jpg",
+        "identified_font": null
+    },
+    {
+        "task_id": "577667",
+        "url": "https://www.dafont.com/forum/read/577667/font-find",
+        "title": "FONT FIND",
+        "instructions": "What is the font used in the words Earthquake...? Thank you!",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1220660.jpg",
+        "identified_font": "Arnold Boecklin"
+    },
+    {
+        "task_id": "577666",
+        "url": "https://www.dafont.com/forum/read/577666/godzilla-minus-one-font",
+        "title": "Godzilla Minus One font?",
+        "instructions": null,
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1220659.png",
+        "identified_font": null
+    },
+    {
+        "task_id": "493781",
+        "url": "https://www.dafont.com/forum/read/493781/what-font-is-this",
+        "title": "What font is this?",
+        "instructions": null,
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/0/1049995.png",
+        "identified_font": null
+    },
+    {
+        "task_id": "577663",
+        "url": "https://www.dafont.com/forum/read/577663/font-name-pls",
+        "title": "Font name pls :)",
+        "instructions": null,
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1220646.jpg",
         "identified_font": null
     }
 ]
