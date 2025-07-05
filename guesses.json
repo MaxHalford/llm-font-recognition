@@ -10870,5 +10870,77 @@
         "candidate_font_3": "Bebas Neue Bold",
         "candidate_font_4": "Roboto Black",
         "candidate_font_5": "Impact"
+    },
+    {
+        "task_id": "577671",
+        "model_name": "gpt-4o-mini",
+        "candidate_font_1": "Kavoon",
+        "candidate_font_2": "Bungee",
+        "candidate_font_3": "Luckiest Guy",
+        "candidate_font_4": "Fredoka One",
+        "candidate_font_5": "Raleway"
+    },
+    {
+        "task_id": "577671",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Conthrax Bold",
+        "candidate_font_2": "SF TransRobotics Extended",
+        "candidate_font_3": "Microgramma Extended Bold",
+        "candidate_font_4": "Good Times",
+        "candidate_font_5": "Pricedown"
+    },
+    {
+        "task_id": "577670",
+        "model_name": "gpt-4o-mini",
+        "candidate_font_1": "Saira",
+        "candidate_font_2": "Montserrat",
+        "candidate_font_3": "Poppins",
+        "candidate_font_4": "Quicksand",
+        "candidate_font_5": "Circular Std"
+    },
+    {
+        "task_id": "577670",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "VAG Rounded",
+        "candidate_font_2": "Baloo 2",
+        "candidate_font_3": "Fredoka One",
+        "candidate_font_4": "Gotham Rounded",
+        "candidate_font_5": "Nunito Sans"
+    },
+    {
+        "task_id": "577669",
+        "model_name": "gpt-4o-mini",
+        "candidate_font_1": "Pixelated",
+        "candidate_font_2": "Friedfont",
+        "candidate_font_3": "Blitz",
+        "candidate_font_4": "Racer",
+        "candidate_font_5": "Aero"
+    },
+    {
+        "task_id": "577669",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "SF Speedburner Bold Italic",
+        "candidate_font_2": "Velocity Italic",
+        "candidate_font_3": "Acceleration Italic",
+        "candidate_font_4": "Speed Demon",
+        "candidate_font_5": "Turbo Italic"
+    },
+    {
+        "task_id": "577668",
+        "model_name": "gpt-4o-mini",
+        "candidate_font_1": "BubbleGum",
+        "candidate_font_2": "Poppins",
+        "candidate_font_3": "KG Happy",
+        "candidate_font_4": "Baloo Bhai",
+        "candidate_font_5": "Lobster"
+    },
+    {
+        "task_id": "577668",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Quicksand",
+        "candidate_font_2": "Chewy",
+        "candidate_font_3": "Bubblegum Sans",
+        "candidate_font_4": "Fredoka One",
+        "candidate_font_5": "Boogaloo"
     }
 ]
