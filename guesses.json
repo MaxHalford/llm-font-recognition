@@ -11626,5 +11626,41 @@
         "candidate_font_3": "SF Distant Galaxy",
         "candidate_font_4": "United Sans",
         "candidate_font_5": "Bank Gothic"
+    },
+    {
+        "task_id": "577713",
+        "model_name": "gpt-4o-mini",
+        "candidate_font_1": "Burbank Big Condensed Black",
+        "candidate_font_2": "Helvetica Bold",
+        "candidate_font_3": "Impact",
+        "candidate_font_4": "Arial Black",
+        "candidate_font_5": "Frank Ruhl Libre"
+    },
+    {
+        "task_id": "577713",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Pricedown Black",
+        "candidate_font_2": "Trade Gothic LT Std Bold No. 20",
+        "candidate_font_3": "Franklin Gothic Heavy",
+        "candidate_font_4": "Univers 67 Condensed Bold",
+        "candidate_font_5": "Bank Gothic Medium"
+    },
+    {
+        "task_id": "577712",
+        "model_name": "gpt-4o-mini",
+        "candidate_font_1": "Pacifico",
+        "candidate_font_2": "Lobster",
+        "candidate_font_3": "Bodoni",
+        "candidate_font_4": "Great Vibes",
+        "candidate_font_5": ""
+    },
+    {
+        "task_id": "577712",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Park Lane NF",
+        "candidate_font_2": "SignPainter House Script",
+        "candidate_font_3": "Marketing Script",
+        "candidate_font_4": "Hustle Script",
+        "candidate_font_5": "Championship Script"
     }
 ]
