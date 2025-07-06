@@ -6861,7 +6861,7 @@
         "title": "Help please",
         "instructions": "I need this font please. Thank you",
         "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1220823.png",
-        "identified_font": null
+        "identified_font": "Sansterdam Light Script"
     },
     {
         "task_id": "577731",
@@ -6877,6 +6877,54 @@
         "title": "Gomotions logo font",
         "instructions": "looking for the font that Gomotion uses for her logo. if anyone could help i would be very thankful",
         "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1213115.png",
+        "identified_font": null
+    },
+    {
+        "task_id": "577750",
+        "url": "https://www.dafont.com/forum/read/577750/what-font",
+        "title": "what font?",
+        "instructions": null,
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1220838.jpg",
+        "identified_font": null
+    },
+    {
+        "task_id": "577749",
+        "url": "https://www.dafont.com/forum/read/577749/lifestyle-body-academy",
+        "title": "Lifestyle Body Academy",
+        "instructions": null,
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1220837.png",
+        "identified_font": null
+    },
+    {
+        "task_id": "577748",
+        "url": "https://www.dafont.com/forum/read/577748/font-name-please",
+        "title": "Font Name Please",
+        "instructions": null,
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1220836.jpg",
+        "identified_font": null
+    },
+    {
+        "task_id": "577741",
+        "url": "https://www.dafont.com/forum/read/577741/what-is-this-font-name",
+        "title": "what is this font name??",
+        "instructions": null,
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1220829.jpg",
+        "identified_font": null
+    },
+    {
+        "task_id": "577740",
+        "url": "https://www.dafont.com/forum/read/577740/what-is-this-font-name-bold-one",
+        "title": "what is this font name (bold one)",
+        "instructions": null,
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1220828.jpg",
+        "identified_font": null
+    },
+    {
+        "task_id": "383584",
+        "url": "https://www.dafont.com/forum/read/383584/romanzo-criminale",
+        "title": "ROmanzo criminale",
+        "instructions": "il nome del font?",
+        "img_url": "https://www.dafont.com/forum/attach/orig/8/3/831533.jpg",
         "identified_font": null
     }
 ]
