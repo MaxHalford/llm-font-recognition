@@ -11698,5 +11698,23 @@
         "candidate_font_3": "Oswald ExtraBold",
         "candidate_font_4": "Roboto Black",
         "candidate_font_5": "Arial Black"
+    },
+    {
+        "task_id": "577723",
+        "model_name": "gpt-4o-mini",
+        "candidate_font_1": "Asteria",
+        "candidate_font_2": "Astron",
+        "candidate_font_3": "Asterisk",
+        "candidate_font_4": "Astro",
+        "candidate_font_5": ""
+    },
+    {
+        "task_id": "577723",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Asterz",
+        "candidate_font_2": "Hyperspace",
+        "candidate_font_3": "Space Age",
+        "candidate_font_4": "Akira Expanded",
+        "candidate_font_5": "Orbitron"
     }
 ]
