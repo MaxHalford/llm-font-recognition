@@ -11950,5 +11950,77 @@
         "candidate_font_3": "Capture It",
         "candidate_font_4": "Heavy Heap",
         "candidate_font_5": "Agency FB Black"
+    },
+    {
+        "task_id": "577755",
+        "model_name": "gpt-4o-mini",
+        "candidate_font_1": "Beton",
+        "candidate_font_2": "Bebas Neue",
+        "candidate_font_3": "Anton",
+        "candidate_font_4": "Oswald",
+        "candidate_font_5": "Nasalization"
+    },
+    {
+        "task_id": "577755",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Ethnocentric",
+        "candidate_font_2": "Avengeance",
+        "candidate_font_3": "Conthrax",
+        "candidate_font_4": "Sui Generis",
+        "candidate_font_5": "Unreal Regular"
+    },
+    {
+        "task_id": "577754",
+        "model_name": "gpt-4o-mini",
+        "candidate_font_1": "Lobster",
+        "candidate_font_2": "Pacifico",
+        "candidate_font_3": "Bebas Neue",
+        "candidate_font_4": "Brush Script",
+        "candidate_font_5": "Great Vibes"
+    },
+    {
+        "task_id": "577754",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Chocolate Covered Raindrops",
+        "candidate_font_2": "Lemon Tuesday",
+        "candidate_font_3": "Playlist Script",
+        "candidate_font_4": "Pacifico",
+        "candidate_font_5": "Lobster"
+    },
+    {
+        "task_id": "577753",
+        "model_name": "gpt-4o-mini",
+        "candidate_font_1": "Bubble font",
+        "candidate_font_2": "Neon font",
+        "candidate_font_3": "Graffiti style",
+        "candidate_font_4": "Retro script",
+        "candidate_font_5": "Cartoon font"
+    },
+    {
+        "task_id": "577753",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Whoa",
+        "candidate_font_2": "Most Wanted",
+        "candidate_font_3": "Bombing",
+        "candidate_font_4": "Throwup",
+        "candidate_font_5": "Dirty Ego"
+    },
+    {
+        "task_id": "555960",
+        "model_name": "gpt-4o-mini",
+        "candidate_font_1": "Bebas Neue",
+        "candidate_font_2": "Lobster",
+        "candidate_font_3": "Pacifico",
+        "candidate_font_4": "Impact",
+        "candidate_font_5": ""
+    },
+    {
+        "task_id": "555960",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Permanent Marker",
+        "candidate_font_2": "Mostwasted",
+        "candidate_font_3": "Brusher",
+        "candidate_font_4": "The Hustle",
+        "candidate_font_5": "Streetwear"
     }
 ]
