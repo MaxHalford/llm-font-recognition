@@ -11716,5 +11716,95 @@
         "candidate_font_3": "Space Age",
         "candidate_font_4": "Akira Expanded",
         "candidate_font_5": "Orbitron"
+    },
+    {
+        "task_id": "577726",
+        "model_name": "gpt-4o-mini",
+        "candidate_font_1": "Bebas Neue",
+        "candidate_font_2": "Oswald",
+        "candidate_font_3": "Montserrat",
+        "candidate_font_4": "Impact",
+        "candidate_font_5": "Roboto"
+    },
+    {
+        "task_id": "577726",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Gotham Black",
+        "candidate_font_2": "Gotham Bold",
+        "candidate_font_3": "Montserrat Black",
+        "candidate_font_4": "Proxima Nova Black",
+        "candidate_font_5": "Univers 93 Extended Black"
+    },
+    {
+        "task_id": "577728",
+        "model_name": "gpt-4o-mini",
+        "candidate_font_1": "Bubblegum Sans",
+        "candidate_font_2": "Lobster",
+        "candidate_font_3": "Comfortaa",
+        "candidate_font_4": "Pacifico",
+        "candidate_font_5": ""
+    },
+    {
+        "task_id": "577728",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "New Spirit",
+        "candidate_font_2": "Saol Display",
+        "candidate_font_3": "Harmond",
+        "candidate_font_4": "Recife Display",
+        "candidate_font_5": "Magnat Display"
+    },
+    {
+        "task_id": "577730",
+        "model_name": "gpt-4o-mini",
+        "candidate_font_1": "Bebas Neue",
+        "candidate_font_2": "Montserrat",
+        "candidate_font_3": "Arial Black",
+        "candidate_font_4": "Oswald",
+        "candidate_font_5": ""
+    },
+    {
+        "task_id": "577730",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Open 24 Display St",
+        "candidate_font_2": "Perfect DOS VGA",
+        "candidate_font_3": "VCR OSD Mono",
+        "candidate_font_4": "Press Start 2P",
+        "candidate_font_5": "IBM VGA8"
+    },
+    {
+        "task_id": "575606",
+        "model_name": "gpt-4o-mini",
+        "candidate_font_1": "Trajan",
+        "candidate_font_2": "Bodoni",
+        "candidate_font_3": "Garamond",
+        "candidate_font_4": "Didot",
+        "candidate_font_5": "Century"
+    },
+    {
+        "task_id": "575606",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Requiem Display",
+        "candidate_font_2": "Didot LT Pro",
+        "candidate_font_3": "Bodoni Std",
+        "candidate_font_4": "Playfair Display",
+        "candidate_font_5": "Cormorant Garamond"
+    },
+    {
+        "task_id": "577725",
+        "model_name": "gpt-4o-mini",
+        "candidate_font_1": "Squid Game",
+        "candidate_font_2": "Bebas Neue",
+        "candidate_font_3": "Anton",
+        "candidate_font_4": "Oswald",
+        "candidate_font_5": ""
+    },
+    {
+        "task_id": "577725",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Freshman",
+        "candidate_font_2": "Bank Gothic",
+        "candidate_font_3": "Agency FB",
+        "candidate_font_4": "Bebas Neue",
+        "candidate_font_5": "Montserrat"
     }
 ]
