@@ -6125,7 +6125,7 @@
         "title": "FONT BY SHADOWBYYOONGI",
         "instructions": "Tittle Font",
         "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1220615.jpg",
-        "identified_font": null
+        "identified_font": "Glitchland"
     },
     {
         "task_id": "577645",
@@ -6165,7 +6165,7 @@
         "title": "Jaeguchi font",
         "instructions": "Tittle Font",
         "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1220608.jpg",
-        "identified_font": null
+        "identified_font": "Pirata One"
     },
     {
         "task_id": "577639",
@@ -6637,6 +6637,134 @@
         "title": "Font Identification",
         "instructions": null,
         "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1220715.png",
+        "identified_font": null
+    },
+    {
+        "task_id": "574675",
+        "url": "https://www.dafont.com/forum/read/574675/font-name",
+        "title": "Font name?",
+        "instructions": null,
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1214320.png",
+        "identified_font": null
+    },
+    {
+        "task_id": "577711",
+        "url": "https://www.dafont.com/forum/read/577711/font-name-pls",
+        "title": "Font name pls :)",
+        "instructions": null,
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1220755.png",
+        "identified_font": null
+    },
+    {
+        "task_id": "577709",
+        "url": "https://www.dafont.com/forum/read/577709/font-name-pls",
+        "title": "font name pls",
+        "instructions": "\"ZDFtivi\"",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1220753.png",
+        "identified_font": null
+    },
+    {
+        "task_id": "577707",
+        "url": "https://www.dafont.com/forum/read/577707/please",
+        "title": "please!",
+        "instructions": "Hello, what is the source of \"Zanetoni\"",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1220750.png",
+        "identified_font": null
+    },
+    {
+        "task_id": "577706",
+        "url": "https://www.dafont.com/forum/read/577706/please",
+        "title": "Please",
+        "instructions": "Does anyone know what Korean font they used?",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1220749.png",
+        "identified_font": null
+    },
+    {
+        "task_id": "577705",
+        "url": "https://www.dafont.com/forum/read/577705/font-by-shadowbyyoongi",
+        "title": "FONT BY SHADOWBYYOONGI",
+        "instructions": "Tittle Font",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1220748.jpg",
+        "identified_font": null
+    },
+    {
+        "task_id": "577704",
+        "url": "https://www.dafont.com/forum/read/577704/font-by-shadowbyyoongi",
+        "title": "FONT BY SHADOWBYYOONGI",
+        "instructions": "Tittle Font",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1220747.jpg",
+        "identified_font": null
+    },
+    {
+        "task_id": "577703",
+        "url": "https://www.dafont.com/forum/read/577703/font-by-shadowbyyoongi",
+        "title": "FONT BY SHADOWBYYOONGI",
+        "instructions": "Tittle Font",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1220746.jpg",
+        "identified_font": null
+    },
+    {
+        "task_id": "577702",
+        "url": "https://www.dafont.com/forum/read/577702/font-by-shadowbyyoongi",
+        "title": "FONT BY SHADOWBYYOONGI",
+        "instructions": "Tittle Font",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1220745.jpg",
+        "identified_font": null
+    },
+    {
+        "task_id": "577701",
+        "url": "https://www.dafont.com/forum/read/577701/font-by-shadowbyyoongi",
+        "title": "FONT BY SHADOWBYYOONGI",
+        "instructions": "Tittle Font",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1220744.jpg",
+        "identified_font": null
+    },
+    {
+        "task_id": "577700",
+        "url": "https://www.dafont.com/forum/read/577700/font-by-shadowbyyoongi",
+        "title": "FONT BY SHADOWBYYOONGI",
+        "instructions": "Tittle Font",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1220743.jpg",
+        "identified_font": null
+    },
+    {
+        "task_id": "577699",
+        "url": "https://www.dafont.com/forum/read/577699/font-by-shadowbyyoongi",
+        "title": "FONT BY SHADOWBYYOONGI",
+        "instructions": "Tittle Font",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1220742.jpg",
+        "identified_font": null
+    },
+    {
+        "task_id": "577698",
+        "url": "https://www.dafont.com/forum/read/577698/which-font-is-this",
+        "title": "which font is this?",
+        "instructions": "many thanks for your help.",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1220741.png",
+        "identified_font": null
+    },
+    {
+        "task_id": "577696",
+        "url": "https://www.dafont.com/forum/read/577696/please",
+        "title": "Please",
+        "instructions": "Does anyone know the font HaSeul and if you can the korean font?",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1220739.png",
+        "identified_font": null
+    },
+    {
+        "task_id": "577695",
+        "url": "https://www.dafont.com/forum/read/577695/please",
+        "title": "Please",
+        "instructions": "Does anyone know what the three sources of the image are?",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1220738.png",
+        "identified_font": null
+    },
+    {
+        "task_id": "471003",
+        "url": "https://www.dafont.com/forum/read/471003/flash-font-pls",
+        "title": "FLASH FONT PLS",
+        "instructions": "Help me pls wht font is this ?????",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/0/1004292.png",
         "identified_font": null
     }
 ]
