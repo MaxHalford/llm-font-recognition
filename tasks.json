@@ -6798,5 +6798,13 @@
         "instructions": null,
         "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1220770.jpg",
         "identified_font": null
+    },
+    {
+        "task_id": "577723",
+        "url": "https://www.dafont.com/forum/read/577723/qual-o-nome-dessa-fonte",
+        "title": "Qual o nome dessa fonte?",
+        "instructions": "ASTERZ",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1220791.png",
+        "identified_font": null
     }
 ]
