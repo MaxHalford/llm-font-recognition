@@ -11806,5 +11806,41 @@
         "candidate_font_3": "Agency FB",
         "candidate_font_4": "Bebas Neue",
         "candidate_font_5": "Montserrat"
+    },
+    {
+        "task_id": "577739",
+        "model_name": "gpt-4o-mini",
+        "candidate_font_1": "Pacifico",
+        "candidate_font_2": "Great Vibes",
+        "candidate_font_3": "Dancing Script",
+        "candidate_font_4": "Allura",
+        "candidate_font_5": "Satisfy"
+    },
+    {
+        "task_id": "577739",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Beautiful People",
+        "candidate_font_2": "Angelline",
+        "candidate_font_3": "Lovely Valentine",
+        "candidate_font_4": "Adelios",
+        "candidate_font_5": "Bromello"
+    },
+    {
+        "task_id": "574078",
+        "model_name": "gpt-4o-mini",
+        "candidate_font_1": "Bubblegum Sans",
+        "candidate_font_2": "Komika Axis",
+        "candidate_font_3": "Bangers",
+        "candidate_font_4": "Fredoka One",
+        "candidate_font_5": "Cooper Black"
+    },
+    {
+        "task_id": "574078",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Graffogie",
+        "candidate_font_2": "Whoa!",
+        "candidate_font_3": "Urban Decay",
+        "candidate_font_4": "Porkys",
+        "candidate_font_5": "BubbleBoy"
     }
 ]
