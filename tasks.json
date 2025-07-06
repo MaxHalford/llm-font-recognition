@@ -6782,5 +6782,21 @@
         "instructions": null,
         "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1220765.png",
         "identified_font": null
+    },
+    {
+        "task_id": "577714",
+        "url": "https://www.dafont.com/forum/read/577714/essence-cover",
+        "title": "Essence Cover",
+        "instructions": "What are the fonts used for this magazine cover?",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1220769.png",
+        "identified_font": null
+    },
+    {
+        "task_id": "577715",
+        "url": "https://www.dafont.com/forum/read/577715/font",
+        "title": "Font?",
+        "instructions": null,
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1220770.jpg",
+        "identified_font": null
     }
 ]
