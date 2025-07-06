@@ -5665,9 +5665,9 @@
     },
     {
         "task_id": "577563",
-        "url": "https://www.dafont.com/forum/read/577563/help-me",
-        "title": "Help Me!",
-        "instructions": null,
+        "url": "https://www.dafont.com/forum/read/577563/i-need-this-font-urgently",
+        "title": "I need this font urgently!!",
+        "instructions": "I need this font urgently.",
         "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1220471.png?2",
         "identified_font": null
     },
@@ -6757,7 +6757,7 @@
         "title": "Please",
         "instructions": "Does anyone know what the three sources of the image are?",
         "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1220738.png",
-        "identified_font": null
+        "identified_font": "Ting Tong"
     },
     {
         "task_id": "471003",
@@ -6765,6 +6765,22 @@
         "title": "FLASH FONT PLS",
         "instructions": "Help me pls wht font is this ?????",
         "img_url": "https://www.dafont.com/forum/attach/orig/1/0/1004292.png",
+        "identified_font": null
+    },
+    {
+        "task_id": "577713",
+        "url": "https://www.dafont.com/forum/read/577713/font-name",
+        "title": "Font name?",
+        "instructions": "I want to know what font was used for \"ROCKSTAR GAMES PRESENTS\" / \"LIBERTY CITY INVASION\"",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1220768.jpg",
+        "identified_font": null
+    },
+    {
+        "task_id": "577712",
+        "url": "https://www.dafont.com/forum/read/577712/calgary-stampede",
+        "title": "calgary stampede",
+        "instructions": null,
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1220765.png",
         "identified_font": null
     }
 ]
