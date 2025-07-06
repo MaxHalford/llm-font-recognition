@@ -6405,7 +6405,7 @@
         "title": "Krutik",
         "instructions": "Krutik713 Font?",
         "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1220666.jpg",
-        "identified_font": null
+        "identified_font": "Greek Diner Inline"
     },
     {
         "task_id": "577670",
@@ -6925,6 +6925,46 @@
         "title": "ROmanzo criminale",
         "instructions": "il nome del font?",
         "img_url": "https://www.dafont.com/forum/attach/orig/8/3/831533.jpg",
+        "identified_font": null
+    },
+    {
+        "task_id": "577755",
+        "url": "https://www.dafont.com/forum/read/577755/what-font-is-ths",
+        "title": "What font is ths?",
+        "instructions": null,
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1220863.jpg",
+        "identified_font": null
+    },
+    {
+        "task_id": "577754",
+        "url": "https://www.dafont.com/forum/read/577754/font-name",
+        "title": "Font name",
+        "instructions": "Hello everyone. Any idea which font this is?",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1220862.png",
+        "identified_font": null
+    },
+    {
+        "task_id": "577752",
+        "url": "https://www.dafont.com/forum/read/577752/fuente-usada-en-esta-imagen",
+        "title": "fuente usada en esta imagen?",
+        "instructions": null,
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1220853.png",
+        "identified_font": "Streamster"
+    },
+    {
+        "task_id": "577753",
+        "url": "https://www.dafont.com/forum/read/577753/de-ti-pa-mi-mc-aese-romo-one",
+        "title": "DE TI PA MI MC AESE ROMO ONE",
+        "instructions": "alguien podria decirme por favor el nombre de estas fuentes de letra se los agradecere muchisimo",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1220854.png",
+        "identified_font": null
+    },
+    {
+        "task_id": "555960",
+        "url": "https://www.dafont.com/forum/read/555960/font-please",
+        "title": "Font, please.",
+        "instructions": null,
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/1/1175747.png",
         "identified_font": null
     }
 ]
