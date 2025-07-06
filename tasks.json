@@ -4587,8 +4587,8 @@
         "task_id": "577440",
         "url": "https://www.dafont.com/forum/read/577440/trying-to-find-where-this-font-please",
         "title": "trying to find where this font please",
-        "instructions": "hi! This creator said this font is called \"Merry Christmas\" but anywhere i look I cant find out where this one is from specifically. I don't think its called that. would love any help",
-        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1220170.png?1",
+        "instructions": "hi! looking to find this font. would love any help",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1220170.jpg?2",
         "identified_font": null
     },
     {
@@ -6789,7 +6789,7 @@
         "title": "Essence Cover",
         "instructions": "What are the fonts used for this magazine cover?",
         "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1220769.png",
-        "identified_font": null
+        "identified_font": "Rizoma"
     },
     {
         "task_id": "577715",
@@ -6845,6 +6845,38 @@
         "title": "What font is this? (Squid Game)",
         "instructions": "I need it pls",
         "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1220794.jpg",
+        "identified_font": "Trost"
+    },
+    {
+        "task_id": "577733",
+        "url": "https://www.dafont.com/forum/read/577733/what-is-the-name-of-this-font",
+        "title": "What is the name of this font?",
+        "instructions": "\"A Usurpadora\"",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1220817.jpg",
+        "identified_font": "Niagara"
+    },
+    {
+        "task_id": "577739",
+        "url": "https://www.dafont.com/forum/read/577739/help-please",
+        "title": "Help please",
+        "instructions": "I need this font please. Thank you",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1220823.png",
+        "identified_font": null
+    },
+    {
+        "task_id": "577731",
+        "url": "https://www.dafont.com/forum/read/577731/help-me",
+        "title": "HELP ME",
+        "instructions": "HELP ME PLEASE",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1220809.jpg",
+        "identified_font": "Benguiat"
+    },
+    {
+        "task_id": "574078",
+        "url": "https://www.dafont.com/forum/read/574078/gomotions-logo-font",
+        "title": "Gomotions logo font",
+        "instructions": "looking for the font that Gomotion uses for her logo. if anyone could help i would be very thankful",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1213115.png",
         "identified_font": null
     }
 ]
