@@ -12022,5 +12022,131 @@
         "candidate_font_3": "Brusher",
         "candidate_font_4": "The Hustle",
         "candidate_font_5": "Streetwear"
+    },
+    {
+        "task_id": "577761",
+        "model_name": "gpt-4o-mini",
+        "candidate_font_1": "Highway Gothic",
+        "candidate_font_2": "Clearview",
+        "candidate_font_3": "Dunbar",
+        "candidate_font_4": "Transport",
+        "candidate_font_5": ""
+    },
+    {
+        "task_id": "577761",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Canadian Highway Gothic (1970s variant)",
+        "candidate_font_2": "Roadgeek 2005 Highway E",
+        "candidate_font_3": "FHWA Series E (Canadian Adaptation)",
+        "candidate_font_4": "Traffic Type (by Robert Trogman)",
+        "candidate_font_5": "Univers 85 ExtraBlack"
+    },
+    {
+        "task_id": "577765",
+        "model_name": "gpt-4o-mini",
+        "candidate_font_1": "Lobster",
+        "candidate_font_2": "Pacifico",
+        "candidate_font_3": "Dancing Script",
+        "candidate_font_4": "Great Vibes",
+        "candidate_font_5": "Sacramento"
+    },
+    {
+        "task_id": "577765",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Bubbleboddy",
+        "candidate_font_2": "Porky's",
+        "candidate_font_3": "Chewy",
+        "candidate_font_4": "Burbank Big Condensed Bold",
+        "candidate_font_5": "Bubblegum Sans"
+    },
+    {
+        "task_id": "577764",
+        "model_name": "gpt-4o-mini",
+        "candidate_font_1": "Nerdy",
+        "candidate_font_2": "Brix Slab",
+        "candidate_font_3": "Viga",
+        "candidate_font_4": "Ultra",
+        "candidate_font_5": ""
+    },
+    {
+        "task_id": "577764",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Pricedown Black",
+        "candidate_font_2": "Pricedown",
+        "candidate_font_3": "San Andreas",
+        "candidate_font_4": "Bignoodle Titling",
+        "candidate_font_5": "Grobold"
+    },
+    {
+        "task_id": "577763",
+        "model_name": "gpt-4o-mini",
+        "candidate_font_1": "Bebas Neue",
+        "candidate_font_2": "Oswald",
+        "candidate_font_3": "Anton",
+        "candidate_font_4": "Montserrat",
+        "candidate_font_5": ""
+    },
+    {
+        "task_id": "577763",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Avengeance",
+        "candidate_font_2": "Compacta Bold",
+        "candidate_font_3": "Impact",
+        "candidate_font_4": "Oswald ExtraBold",
+        "candidate_font_5": "Bebas Neue Bold"
+    },
+    {
+        "task_id": "577762",
+        "model_name": "gpt-4o-mini",
+        "candidate_font_1": "Bubblegum Sans",
+        "candidate_font_2": "Lobster",
+        "candidate_font_3": "Pacifico",
+        "candidate_font_4": "Bangers",
+        "candidate_font_5": "Fredericka the Great"
+    },
+    {
+        "task_id": "577762",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Pudding",
+        "candidate_font_2": "Bubblegum Sans",
+        "candidate_font_3": "Chewy",
+        "candidate_font_4": "Luckiest Guy",
+        "candidate_font_5": "Fredoka One"
+    },
+    {
+        "task_id": "577760",
+        "model_name": "gpt-4o-mini",
+        "candidate_font_1": "Arial Black",
+        "candidate_font_2": "Impact",
+        "candidate_font_3": "Futura Bold",
+        "candidate_font_4": "Bank Gothic",
+        "candidate_font_5": "Helvetica Bold"
+    },
+    {
+        "task_id": "577760",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Agency FB Bold",
+        "candidate_font_2": "Agency Gothic",
+        "candidate_font_3": "Compacta",
+        "candidate_font_4": "Eurostile Extended Bold",
+        "candidate_font_5": "DIN Condensed Bold"
+    },
+    {
+        "task_id": "577758",
+        "model_name": "gpt-4o-mini",
+        "candidate_font_1": "Cinzel",
+        "candidate_font_2": "Bodoni",
+        "candidate_font_3": "Didot",
+        "candidate_font_4": "Garamond",
+        "candidate_font_5": "Playfair Display"
+    },
+    {
+        "task_id": "577758",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Cinzel Decorative",
+        "candidate_font_2": "Cinzel",
+        "candidate_font_3": "Playfair Display",
+        "candidate_font_4": "Garamond",
+        "candidate_font_5": "Trajan Pro"
     }
 ]
