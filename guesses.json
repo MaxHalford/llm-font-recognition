@@ -12220,5 +12220,77 @@
         "candidate_font_3": "BankGothic Medium Oblique",
         "candidate_font_4": "SF Square Head Italic",
         "candidate_font_5": "Hyperspace Bold"
+    },
+    {
+        "task_id": "577779",
+        "model_name": "gpt-4o-mini",
+        "candidate_font_1": "Futura",
+        "candidate_font_2": "Eurostile",
+        "candidate_font_3": "Futura Bold",
+        "candidate_font_4": "Avenir",
+        "candidate_font_5": ""
+    },
+    {
+        "task_id": "577779",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Future Now",
+        "candidate_font_2": "Space Race",
+        "candidate_font_3": "SF Alien Encounters",
+        "candidate_font_4": "Orbitron",
+        "candidate_font_5": "Eurostile Extended"
+    },
+    {
+        "task_id": "577777",
+        "model_name": "gpt-4o-mini",
+        "candidate_font_1": "Grunge",
+        "candidate_font_2": "Melted",
+        "candidate_font_3": "Punk Rock",
+        "candidate_font_4": "Dripping",
+        "candidate_font_5": "Handwritten"
+    },
+    {
+        "task_id": "577777",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Melted Monster",
+        "candidate_font_2": "Blobber",
+        "candidate_font_3": "Doughnut",
+        "candidate_font_4": "Squishy",
+        "candidate_font_5": "Chubby Cheeks"
+    },
+    {
+        "task_id": "577774",
+        "model_name": "gpt-4o-mini",
+        "candidate_font_1": "Moop",
+        "candidate_font_2": "Bubblegum Sans",
+        "candidate_font_3": "Cakestyle",
+        "candidate_font_4": "Sugarplum",
+        "candidate_font_5": ""
+    },
+    {
+        "task_id": "577774",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Bumbly",
+        "candidate_font_2": "Pixel Bubbles",
+        "candidate_font_3": "Soft Pixel",
+        "candidate_font_4": "Pixel Rounded",
+        "candidate_font_5": "8-Bit Operator JVE"
+    },
+    {
+        "task_id": "577772",
+        "model_name": "gpt-4o-mini",
+        "candidate_font_1": "ChunkFive",
+        "candidate_font_2": "Bebas Neue",
+        "candidate_font_3": "Grobold",
+        "candidate_font_4": "Bangers",
+        "candidate_font_5": "Monsieur La Doulaise"
+    },
+    {
+        "task_id": "577772",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Chubby Cheeks",
+        "candidate_font_2": "Chewy",
+        "candidate_font_3": "Cherry Bomb One",
+        "candidate_font_4": "Bangers",
+        "candidate_font_5": "Bubblegum Sans"
     }
 ]
