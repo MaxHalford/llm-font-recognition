@@ -3853,7 +3853,7 @@
         "title": "\"Dirty Work\" AESPA font name",
         "instructions": null,
         "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1219967.jpg",
-        "identified_font": null
+        "identified_font": "Broedy"
     },
     {
         "task_id": "577342",
@@ -7133,6 +7133,46 @@
         "title": "\"Hot Sauce\" font",
         "instructions": null,
         "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1220901.jpg",
+        "identified_font": null
+    },
+    {
+        "task_id": "577787",
+        "url": "https://www.dafont.com/forum/read/577787/entingbilbo",
+        "title": "ENTINGBILBO",
+        "instructions": "Hola \u00bfpod\u00e9is ayudarme a identificar esta fuente?...",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1220922.png",
+        "identified_font": null
+    },
+    {
+        "task_id": "577786",
+        "url": "https://www.dafont.com/forum/read/577786/mha-alternative-font",
+        "title": "MHA Alternative font",
+        "instructions": "Anyone know the font from the alternative logo to \"My Hero Academia.\"",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1220921.png",
+        "identified_font": null
+    },
+    {
+        "task_id": "577785",
+        "url": "https://www.dafont.com/forum/read/577785/font-name-please",
+        "title": "Font name please",
+        "instructions": null,
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1220920.png",
+        "identified_font": null
+    },
+    {
+        "task_id": "577782",
+        "url": "https://www.dafont.com/forum/read/577782/font-name-please",
+        "title": "Font name please!",
+        "instructions": "pleasee",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1220917.png",
+        "identified_font": null
+    },
+    {
+        "task_id": "577781",
+        "url": "https://www.dafont.com/forum/read/577781/font-name-plz",
+        "title": "font name plz",
+        "instructions": null,
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1220916.png",
         "identified_font": null
     }
 ]
