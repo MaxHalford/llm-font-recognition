@@ -7189,7 +7189,7 @@
         "title": "FORMAT ORIGINAL",
         "instructions": "Name Font Again",
         "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1220933.png",
-        "identified_font": null
+        "identified_font": "Prometo"
     },
     {
         "task_id": "577795",
@@ -7241,11 +7241,11 @@
     },
     {
         "task_id": "577790",
-        "url": "https://www.dafont.com/forum/read/577790/quelle-est-cette-police-merci",
-        "title": "Quelle est cette police ? Merci !",
-        "instructions": null,
+        "url": "https://www.dafont.com/forum/read/577790/bienvenue",
+        "title": "Bienvenue",
+        "instructions": "Quelle est cette police? Merci!",
         "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1220926.png",
-        "identified_font": null
+        "identified_font": "Bearline"
     },
     {
         "task_id": "577789",
@@ -7261,6 +7261,94 @@
         "title": "does anyone know this font?",
         "instructions": null,
         "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1220923.png",
+        "identified_font": null
+    },
+    {
+        "task_id": "577802",
+        "url": "https://www.dafont.com/forum/read/577802/what-font-is-this-please",
+        "title": "what font is this, please?",
+        "instructions": null,
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1220946.png",
+        "identified_font": null
+    },
+    {
+        "task_id": "577808",
+        "url": "https://www.dafont.com/forum/read/577808/need-to-know-what-font-this-is",
+        "title": "Need to know what font this is",
+        "instructions": null,
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1220968.png",
+        "identified_font": null
+    },
+    {
+        "task_id": "577807",
+        "url": "https://www.dafont.com/forum/read/577807/exit-taito-promotion-release-date-font",
+        "title": "Exit (Taito) Promotion Release Date Font",
+        "instructions": "Looking for the font in red.",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1220966.png",
+        "identified_font": null
+    },
+    {
+        "task_id": "577804",
+        "url": "https://www.dafont.com/forum/read/577804/please-help-id",
+        "title": "Please Help ID",
+        "instructions": null,
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1220948.png",
+        "identified_font": "Ringside Extra Wide Bold"
+    },
+    {
+        "task_id": "577806",
+        "url": "https://www.dafont.com/forum/read/577806/font-o-beijo-do-vampiro-please",
+        "title": "font \"o beijo do vampiro\" please",
+        "instructions": "what\u00b4s the font \"o beijo do vampiro\"?",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1220951.jpg",
+        "identified_font": null
+    },
+    {
+        "task_id": "577805",
+        "url": "https://www.dafont.com/forum/read/577805/please-help-id",
+        "title": "Please Help ID",
+        "instructions": null,
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1220950.png",
+        "identified_font": null
+    },
+    {
+        "task_id": "577803",
+        "url": "https://www.dafont.com/forum/read/577803/what-font-is-this",
+        "title": "what font is this?",
+        "instructions": "can anyone help me with this fonts?",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1220947.jpg",
+        "identified_font": null
+    },
+    {
+        "task_id": "577800",
+        "url": "https://www.dafont.com/forum/read/577800/peace-love-sunshine",
+        "title": "Peace Love Sunshine",
+        "instructions": "I know this has like a 99% chance of getting deleted because it is so blurry. I was",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1220940.jpg",
+        "identified_font": "Adisone"
+    },
+    {
+        "task_id": "577801",
+        "url": "https://www.dafont.com/forum/read/577801/what-s-this-font",
+        "title": "what\u0092s this font ??",
+        "instructions": null,
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1220941.png",
+        "identified_font": "Mrs Blackfort"
+    },
+    {
+        "task_id": "577799",
+        "url": "https://www.dafont.com/forum/read/577799/anyone-know-this-font",
+        "title": "anyone know this font?",
+        "instructions": null,
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1220936.jpg",
+        "identified_font": null
+    },
+    {
+        "task_id": "577798",
+        "url": "https://www.dafont.com/forum/read/577798/please-help-id",
+        "title": "Please Help ID",
+        "instructions": null,
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1220935.jpg",
         "identified_font": null
     }
 ]
