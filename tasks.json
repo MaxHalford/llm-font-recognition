@@ -6980,8 +6980,8 @@
         "url": "https://www.dafont.com/forum/read/577765/adore-font-name",
         "title": "Adore font name?",
         "instructions": null,
-        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1220874.png",
-        "identified_font": null
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1220874.png?1",
+        "identified_font": "Fat Kat"
     },
     {
         "task_id": "577764",
@@ -6997,7 +6997,7 @@
         "title": "font name please",
         "instructions": null,
         "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1220872.jpg",
-        "identified_font": null
+        "identified_font": "Steelfish"
     },
     {
         "task_id": "577762",
@@ -7036,7 +7036,7 @@
         "url": "https://www.dafont.com/forum/read/577769/font-help",
         "title": "Font help??",
         "instructions": "Does anyone know what font this is? Any help is greatly appreciated!!",
-        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1220890.jpg",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1220890.png?1",
         "identified_font": "Aston Script"
     },
     {
@@ -7051,9 +7051,9 @@
         "task_id": "577771",
         "url": "https://www.dafont.com/forum/read/577771/guipa",
         "title": "GUIPA",
-        "instructions": null,
-        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1220893.png",
-        "identified_font": null
+        "instructions": "What Is The Name Font",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1220893.png?1",
+        "identified_font": "Biko"
     },
     {
         "task_id": "577770",
@@ -7085,6 +7085,54 @@
         "title": "2 Fast 2 Furious (End Credits)",
         "instructions": "Does anyone know the font that was used for the end credits of 2 Fast 2 Furious?",
         "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1220880.jpg",
+        "identified_font": null
+    },
+    {
+        "task_id": "577780",
+        "url": "https://www.dafont.com/forum/read/577780/dental-center",
+        "title": "DENTAL CENTER",
+        "instructions": "Please help me to identify this font.",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1220910.jpg",
+        "identified_font": "Gilda Display"
+    },
+    {
+        "task_id": "577776",
+        "url": "https://www.dafont.com/forum/read/577776/deja-vu-font",
+        "title": "\"Deja Vu\" font",
+        "instructions": null,
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1220905.jpg",
+        "identified_font": "Sideware"
+    },
+    {
+        "task_id": "577779",
+        "url": "https://www.dafont.com/forum/read/577779/what-is-the-name-font-can-someone-tell-me-please",
+        "title": "What is the name font? Can someone tell me please!",
+        "instructions": null,
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1220908.png?1",
+        "identified_font": null
+    },
+    {
+        "task_id": "577777",
+        "url": "https://www.dafont.com/forum/read/577777/arise-font",
+        "title": "\"Arise\" font",
+        "instructions": null,
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1220906.jpg",
+        "identified_font": null
+    },
+    {
+        "task_id": "577774",
+        "url": "https://www.dafont.com/forum/read/577774/mood-font",
+        "title": "\"Mood\" font",
+        "instructions": null,
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1220903.jpg",
+        "identified_font": null
+    },
+    {
+        "task_id": "577772",
+        "url": "https://www.dafont.com/forum/read/577772/hot-sauce-font",
+        "title": "\"Hot Sauce\" font",
+        "instructions": null,
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1220901.jpg",
         "identified_font": null
     }
 ]
