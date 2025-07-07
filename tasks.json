@@ -7197,7 +7197,7 @@
         "title": "RACHEL SHEHERAZADE",
         "instructions": "What Is The Name Font Again",
         "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1220932.png",
-        "identified_font": null
+        "identified_font": "Bigdots"
     },
     {
         "task_id": "577794",
@@ -7285,7 +7285,7 @@
         "title": "Exit (Taito) Promotion Release Date Font",
         "instructions": "Looking for the font in red.",
         "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1220966.png",
-        "identified_font": null
+        "identified_font": "Radioactive Granny"
     },
     {
         "task_id": "577804",
@@ -7349,7 +7349,7 @@
         "title": "Please Help ID",
         "instructions": null,
         "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1220935.jpg",
-        "identified_font": null
+        "identified_font": "Teko"
     },
     {
         "task_id": "577828",
@@ -7429,7 +7429,7 @@
         "title": "Font please?",
         "instructions": null,
         "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1220993.jpg",
-        "identified_font": null
+        "identified_font": "Broadway"
     },
     {
         "task_id": "577821",
@@ -7437,7 +7437,7 @@
         "title": "WHAT FONT IS THAT?",
         "instructions": null,
         "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1220990.png",
-        "identified_font": null
+        "identified_font": "Protector"
     },
     {
         "task_id": "577809",
@@ -7461,7 +7461,7 @@
         "title": "which font?",
         "instructions": null,
         "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1220986.png",
-        "identified_font": null
+        "identified_font": "Woodcut"
     },
     {
         "task_id": "577815",
@@ -7485,7 +7485,7 @@
         "title": "can someone help with this one?",
         "instructions": null,
         "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1220976.png",
-        "identified_font": null
+        "identified_font": "Craw"
     },
     {
         "task_id": "571150",
@@ -7494,5 +7494,53 @@
         "instructions": "I found this KIDZ BOP tour post on Facebook and I wonder what fonts are used here?",
         "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1207456.jpg",
         "identified_font": null
+    },
+    {
+        "task_id": "577837",
+        "url": "https://www.dafont.com/forum/read/577837/what-the-font",
+        "title": "What the font?",
+        "instructions": null,
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1221048.png",
+        "identified_font": null
+    },
+    {
+        "task_id": "577836",
+        "url": "https://www.dafont.com/forum/read/577836/shoppes-on-main-creperie-marketplace",
+        "title": "Shoppes on Main Creperie & MARKETPLACE",
+        "instructions": "The calligraphy font seems to have a combination maybe...",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1221047.png",
+        "identified_font": null
+    },
+    {
+        "task_id": "577835",
+        "url": "https://www.dafont.com/forum/read/577835/una-mas-clara",
+        "title": "Una m\u00e1s Clara",
+        "instructions": "Font de 'Castillo Alfa'",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1221043.jpg",
+        "identified_font": null
+    },
+    {
+        "task_id": "577834",
+        "url": "https://www.dafont.com/forum/read/577834/grazie",
+        "title": "grazie",
+        "instructions": "chi mi aiuta con questi due font? grazie",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1221038.png",
+        "identified_font": "Arcane Nine"
+    },
+    {
+        "task_id": "577833",
+        "url": "https://www.dafont.com/forum/read/577833/need-to-know-what-font-this-is",
+        "title": "Need to know what font this is",
+        "instructions": null,
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1221027.png",
+        "identified_font": "Radiant Display Cond No 3"
+    },
+    {
+        "task_id": "577830",
+        "url": "https://www.dafont.com/forum/read/577830/tengo-la-necesidad-de-saber",
+        "title": "TENGO LA NECESIDAD DE SABER",
+        "instructions": null,
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1221011.png",
+        "identified_font": "Photograph Signature"
     }
 ]
