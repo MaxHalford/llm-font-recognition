@@ -30,28 +30,37 @@ This process avoids benchmark contamination.
                                                                                 
 The source code for this benchmark is available on <a class="r2" href="https://github.com/MaxHalford/llm-font-recognition">GitHub</a>.                      
                                                                                 
-<span class="r3">Updated at 2025-07-07T20:31:00</span>                                                  
+<span class="r3">Updated at 2025-07-07T23:00:00</span>                                                  
 
 <span class="r4">Metrics                                                          </span>
 ┏━━━━━━━━━━━━━━━━┳━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┳━━━━━━━━━━━━━┓
 ┃     Metric     ┃ gemini-2.5-flash-preview-05-20 ┃ gpt-4o-mini ┃
 ┡━━━━━━━━━━━━━━━━╇━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━╇━━━━━━━━━━━━━┩
-│<span class="r5">  Total tasks   </span>│              119               │     119     │
-│<span class="r5"> Top-1 accuracy </span>│             2.52%              │    2.52%    │
-│<span class="r5"> Top-2 accuracy </span>│             3.36%              │    3.36%    │
-│<span class="r5"> Top-3 accuracy </span>│             3.36%              │    3.36%    │
-│<span class="r5"> Top-4 accuracy </span>│             4.20%              │    3.36%    │
-│<span class="r5"> Top-5 accuracy </span>│             4.20%              │    3.36%    │
+│<span class="r5">  Total tasks   </span>│              126               │     126     │
+│<span class="r5"> Top-1 accuracy </span>│             2.38%              │    2.38%    │
+│<span class="r5"> Top-2 accuracy </span>│             3.17%              │    3.17%    │
+│<span class="r5"> Top-3 accuracy </span>│             3.17%              │    3.17%    │
+│<span class="r5"> Top-4 accuracy </span>│             3.97%              │    3.17%    │
+│<span class="r5"> Top-5 accuracy </span>│             3.97%              │    3.17%    │
 └────────────────┴────────────────────────────────┴─────────────┘
 
 <span class="r4">Breakdown                                                                       </span>
 ┏━━━━━━━━┳━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┳━━━━━━━━━━━━━━━┳━━━━━━━━━━━━━━━┓
 ┃  Task  ┃           Identified font           ┃ gemini-2.5-f… ┃  gpt-4o-mini  ┃
 ┡━━━━━━━━╇━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━╇━━━━━━━━━━━━━━━╇━━━━━━━━━━━━━━━┩
+│<span class="r6"> </span><a class="r6" href="https://www.dafont.com/forum/read/577813/can-someone-help-with-this-one">577813</a><span class="r6"> </span>│                Craw                 │<span class="r7">    </span><span class="r8">Bodoni</span><span class="r7">     </span>│<span class="r7">    </span><span class="r8">Bodoni</span><span class="r7">     </span>│
+│<span class="r6"> </span><a class="r6" href="https://www.dafont.com/forum/read/577819/which-font">577819</a><span class="r6"> </span>│               Woodcut               │<span class="r7">   </span><span class="r8">Action Is</span><span class="r7">   </span>│<span class="r7">  </span><span class="r8">Bebas Neue</span><span class="r7">   </span>│
+│<span class="r6"> </span><a class="r6" href="https://www.dafont.com/forum/read/577821/what-font-is-that">577821</a><span class="r6"> </span>│              Protector              │<span class="r7">  </span><span class="r8">Obelix Pro</span><span class="r7">   </span>│<span class="r7">    </span><span class="r8">Lobster</span><span class="r7">    </span>│
+│<span class="r6"> </span><a class="r6" href="https://www.dafont.com/forum/read/577822/font-please">577822</a><span class="r6"> </span>│              Broadway               │<span class="r7">  </span><span class="r8">Porky&#x27;s Fat</span><span class="r7">  </span>│<span class="r7">  </span><span class="r8">Burbank Big</span><span class="r7">  </span>│
+│<span class="r6">        </span>│                                     │<span class="r7">               </span>│<span class="r7">   </span><span class="r8">Condensed</span><span class="r7">   </span>│
+│<span class="r6"> </span><a class="r6" href="https://www.dafont.com/forum/read/577798/please-help-id">577798</a><span class="r6"> </span>│                Teko                 │<span class="r7"> </span><span class="r8">Gobold Black</span><span class="r7">  </span>│<span class="r7">    </span><span class="r8">Impact</span><span class="r7">     </span>│
+│<span class="r6"> </span><a class="r6" href="https://www.dafont.com/forum/read/577807/exit-taito-promotion-release-date-font">577807</a><span class="r6"> </span>│         Radioactive Granny          │<span class="r7">  </span><span class="r8">Cut-Throat</span><span class="r7">   </span>│<span class="r7">   </span><span class="r8">BloodCrow</span><span class="r7">   </span>│
 │<span class="r6"> </span><a class="r6" href="https://www.dafont.com/forum/read/577802/what-font-is-this-please">577802</a><span class="r6"> </span>│         Broadway Condensed          │<span class="r7"> </span><span class="r8">ITC Mona Lisa</span><span class="r7"> </span>│<span class="r7">    </span><span class="r8">Bodoni</span><span class="r7">     </span>│
 │<span class="r6">        </span>│                                     │<span class="r7">     </span><span class="r8">Recut</span><span class="r7">     </span>│<span class="r7">               </span>│
 │<span class="r6"> </span><a class="r6" href="https://www.dafont.com/forum/read/577790/bienvenue">577790</a><span class="r6"> </span>│              Bearline               │<span class="r7">  </span><span class="r8">Watermelon</span><span class="r7">   </span>│<span class="r7">    </span><span class="r8">Dancing</span><span class="r7">    </span>│
 │<span class="r6">        </span>│                                     │<span class="r7">    </span><span class="r8">Script</span><span class="r7">     </span>│<span class="r7">    </span><span class="r8">Script</span><span class="r7">     </span>│
+│<span class="r6"> </span><a class="r6" href="https://www.dafont.com/forum/read/577795/rachel-sheherazade">577795</a><span class="r6"> </span>│               Bigdots               │<span class="r7">  </span><span class="r8">Dot Matrix</span><span class="r7">   </span>│<span class="r7">     </span><span class="r8">Dotty</span><span class="r7">     </span>│
+│<span class="r6">        </span>│                                     │<span class="r7">    </span><span class="r8">Regular</span><span class="r7">    </span>│<span class="r7">               </span>│
 │<span class="r6"> </span><a class="r6" href="https://www.dafont.com/forum/read/577796/format-original">577796</a><span class="r6"> </span>│               Prometo               │<span class="r7">    </span><span class="r8">Gobold</span><span class="r7">     </span>│<span class="r7">  </span><span class="r8">Bebas Neue</span><span class="r7">   </span>│
 │<span class="r6"> </span><a class="r6" href="https://www.dafont.com/forum/read/577785/font-name-please">577785</a><span class="r6"> </span>│             Amber Shaie             │<span class="r7">     </span><span class="r8">Hello</span><span class="r7">     </span>│<span class="r7">    </span><span class="r8">Lobster</span><span class="r7">    </span>│
 │<span class="r6">        </span>│                                     │<span class="r7">   </span><span class="r8">Literacy</span><span class="r7">    </span>│<span class="r7">               </span>│
