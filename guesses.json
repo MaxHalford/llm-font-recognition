@@ -12922,5 +12922,59 @@
         "candidate_font_3": "Fredoka One",
         "candidate_font_4": "Open Sans",
         "candidate_font_5": "Oswald SemiBold"
+    },
+    {
+        "task_id": "577837",
+        "model_name": "gpt-4o-mini",
+        "candidate_font_1": "Bebas Neue",
+        "candidate_font_2": "Baloo",
+        "candidate_font_3": "Montserrat",
+        "candidate_font_4": "Poppins",
+        "candidate_font_5": "Raleway"
+    },
+    {
+        "task_id": "577837",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "ITC Clearface Black",
+        "candidate_font_2": "Cooper Black",
+        "candidate_font_3": "Souvenir",
+        "candidate_font_4": "Windsor",
+        "candidate_font_5": "Goudy Heavyface"
+    },
+    {
+        "task_id": "577836",
+        "model_name": "gpt-4o-mini",
+        "candidate_font_1": "Lobster",
+        "candidate_font_2": "Dancing Script",
+        "candidate_font_3": "Great Vibes",
+        "candidate_font_4": "Quicksand",
+        "candidate_font_5": "Pacifico"
+    },
+    {
+        "task_id": "577836",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Blooming Elegant Script",
+        "candidate_font_2": "Gilroy",
+        "candidate_font_3": "Brittany Signature",
+        "candidate_font_4": "Brandon Grotesque",
+        "candidate_font_5": "Gotham"
+    },
+    {
+        "task_id": "577835",
+        "model_name": "gpt-4o-mini",
+        "candidate_font_1": "Lobster",
+        "candidate_font_2": "Memento",
+        "candidate_font_3": "Bebas Neue",
+        "candidate_font_4": "Roboto Condensed",
+        "candidate_font_5": ""
+    },
+    {
+        "task_id": "577835",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Dark Castle",
+        "candidate_font_2": "Metal Lord",
+        "candidate_font_3": "Feast of Flesh",
+        "candidate_font_4": "Vampiak",
+        "candidate_font_5": "Creepsville"
     }
 ]
