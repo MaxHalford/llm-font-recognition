@@ -6756,7 +6756,7 @@
         "url": "https://www.dafont.com/forum/read/577695/please",
         "title": "Please",
         "instructions": "Does anyone know what the three sources of the image are?",
-        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1220738.png",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1220738.png?1",
         "identified_font": "Ting Tong"
     },
     {
@@ -7029,6 +7029,62 @@
         "title": "what is the name of this font?",
         "instructions": "\"a Usurpadora\"",
         "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1220866.jpg",
+        "identified_font": null
+    },
+    {
+        "task_id": "577769",
+        "url": "https://www.dafont.com/forum/read/577769/font-help",
+        "title": "Font help??",
+        "instructions": "Does anyone know what font this is? Any help is greatly appreciated!!",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1220890.jpg",
+        "identified_font": "Aston Script"
+    },
+    {
+        "task_id": "577768",
+        "url": "https://www.dafont.com/forum/read/577768/font-help",
+        "title": "FONT HELP",
+        "instructions": "Anyone know this font? Looks like a custom one. Thanks!",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1220889.jpg",
+        "identified_font": "Sofachrome"
+    },
+    {
+        "task_id": "577771",
+        "url": "https://www.dafont.com/forum/read/577771/guipa",
+        "title": "GUIPA",
+        "instructions": null,
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1220893.png",
+        "identified_font": null
+    },
+    {
+        "task_id": "577770",
+        "url": "https://www.dafont.com/forum/read/577770/you-don-t-know-jack-the-5th-dementia",
+        "title": "You Don't Know Jack: The 5th Dementia",
+        "instructions": "What is this font? I've seen it in all the question segues from this game.",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1220891.jpg",
+        "identified_font": null
+    },
+    {
+        "task_id": "4263",
+        "url": "https://www.dafont.com/forum/read/4263/font",
+        "title": "Font ?",
+        "instructions": null,
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/3/13377.png",
+        "identified_font": "Lainie Day"
+    },
+    {
+        "task_id": "577767",
+        "url": "https://www.dafont.com/forum/read/577767/katrina-stuart-logo-font-identification",
+        "title": "Katrina Stuart - Logo Font Identification",
+        "instructions": "please identify both fonts",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1220881.png",
+        "identified_font": null
+    },
+    {
+        "task_id": "577766",
+        "url": "https://www.dafont.com/forum/read/577766/2-fast-2-furious-end-credits",
+        "title": "2 Fast 2 Furious (End Credits)",
+        "instructions": "Does anyone know the font that was used for the end credits of 2 Fast 2 Furious?",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1220880.jpg",
         "identified_font": null
     }
 ]
