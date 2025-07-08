@@ -12976,5 +12976,185 @@
         "candidate_font_3": "Feast of Flesh",
         "candidate_font_4": "Vampiak",
         "candidate_font_5": "Creepsville"
+    },
+    {
+        "task_id": "577849",
+        "model_name": "gpt-4o-mini",
+        "candidate_font_1": "Shark Attack",
+        "candidate_font_2": "Gothic Ultra",
+        "candidate_font_3": "Blackletter",
+        "candidate_font_4": "Draconis",
+        "candidate_font_5": "Murder Script"
+    },
+    {
+        "task_id": "577849",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Againts",
+        "candidate_font_2": "Wild Blood",
+        "candidate_font_3": "Night Attack",
+        "candidate_font_4": "Blackhawk",
+        "candidate_font_5": "Demonic Brand"
+    },
+    {
+        "task_id": "577848",
+        "model_name": "gpt-4o-mini",
+        "candidate_font_1": "Gyeonggi",
+        "candidate_font_2": "Nanum Gothic",
+        "candidate_font_3": "Noto Sans Korean",
+        "candidate_font_4": "Malgun Gothic",
+        "candidate_font_5": ""
+    },
+    {
+        "task_id": "577848",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Nanum Myeongjo",
+        "candidate_font_2": "KoPub Batang",
+        "candidate_font_3": "Noto Serif CJK KR",
+        "candidate_font_4": "Batang",
+        "candidate_font_5": ""
+    },
+    {
+        "task_id": "577847",
+        "model_name": "gpt-4o-mini",
+        "candidate_font_1": "Comic Sans MS",
+        "candidate_font_2": "Impact",
+        "candidate_font_3": "Jokerman",
+        "candidate_font_4": "Chiller",
+        "candidate_font_5": ""
+    },
+    {
+        "task_id": "577847",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Dirty School",
+        "candidate_font_2": "Smash It",
+        "candidate_font_3": "Wrecked",
+        "candidate_font_4": "Grungesville",
+        "candidate_font_5": "Reckless"
+    },
+    {
+        "task_id": "577845",
+        "model_name": "gpt-4o-mini",
+        "candidate_font_1": "Bebas Neue",
+        "candidate_font_2": "Montserrat",
+        "candidate_font_3": "Oswald",
+        "candidate_font_4": "Impact",
+        "candidate_font_5": "Archivo Black"
+    },
+    {
+        "task_id": "577845",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Montserrat",
+        "candidate_font_2": "Poppins",
+        "candidate_font_3": "Lato",
+        "candidate_font_4": "Open Sans",
+        "candidate_font_5": "Gotham"
+    },
+    {
+        "task_id": "577844",
+        "model_name": "gpt-4o-mini",
+        "candidate_font_1": "Montserrat",
+        "candidate_font_2": "Roboto",
+        "candidate_font_3": "Open Sans",
+        "candidate_font_4": "Lato",
+        "candidate_font_5": "Sans Serif"
+    },
+    {
+        "task_id": "577844",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Proxima Nova",
+        "candidate_font_2": "Gilroy",
+        "candidate_font_3": "Circular Std",
+        "candidate_font_4": "",
+        "candidate_font_5": ""
+    },
+    {
+        "task_id": "208039",
+        "model_name": "gpt-4o-mini",
+        "candidate_font_1": "Open Season",
+        "candidate_font_2": "Comic Sans MS",
+        "candidate_font_3": "Bubble letters",
+        "candidate_font_4": null,
+        "candidate_font_5": "Dancing Script"
+    },
+    {
+        "task_id": "208039",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Porky's",
+        "candidate_font_2": "",
+        "candidate_font_3": "",
+        "candidate_font_4": "",
+        "candidate_font_5": ""
+    },
+    {
+        "task_id": "20167",
+        "model_name": "gpt-4o-mini",
+        "candidate_font_1": "Eurostile",
+        "candidate_font_2": "Bebas Neue",
+        "candidate_font_3": "Futura",
+        "candidate_font_4": "Impact",
+        "candidate_font_5": "Arial Rounded"
+    },
+    {
+        "task_id": "20167",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Blockletter Bold",
+        "candidate_font_2": "Square Deal",
+        "candidate_font_3": "Compacta Bold",
+        "candidate_font_4": "Impact",
+        "candidate_font_5": "Bank Gothic"
+    },
+    {
+        "task_id": "577843",
+        "model_name": "gpt-4o-mini",
+        "candidate_font_1": "Twisted Metal Font",
+        "candidate_font_2": "Metallica Font",
+        "candidate_font_3": "Heavy Metal Font",
+        "candidate_font_4": "Future Font",
+        "candidate_font_5": "Blockade Font"
+    },
+    {
+        "task_id": "577843",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Major Snafu",
+        "candidate_font_2": "Oblivion by Pixel Sagas",
+        "candidate_font_3": "Terminator Gen TB by Iconian Fonts",
+        "candidate_font_4": "SF Sports Night by ShyFonts",
+        "candidate_font_5": "Armageddon by Iconian Fonts"
+    },
+    {
+        "task_id": "577839",
+        "model_name": "gpt-4o-mini",
+        "candidate_font_1": "Obsidian",
+        "candidate_font_2": "Blackletter",
+        "candidate_font_3": "Gothic",
+        "candidate_font_4": "Creepster",
+        "candidate_font_5": "Bloodcrow"
+    },
+    {
+        "task_id": "577839",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Avengeance",
+        "candidate_font_2": "Mortui",
+        "candidate_font_3": "Vampire Wars",
+        "candidate_font_4": "Demon's Kiss",
+        "candidate_font_5": "Metal Mania"
+    },
+    {
+        "task_id": "577838",
+        "model_name": "gpt-4o-mini",
+        "candidate_font_1": "Playfair Display",
+        "candidate_font_2": "Libre Baskerville",
+        "candidate_font_3": "Bodoni",
+        "candidate_font_4": "Garamond",
+        "candidate_font_5": "Georgia"
+    },
+    {
+        "task_id": "577838",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Cochin",
+        "candidate_font_2": "Garamond",
+        "candidate_font_3": "Baskerville",
+        "candidate_font_4": "Palatino",
+        "candidate_font_5": "Georgia"
     }
 ]
