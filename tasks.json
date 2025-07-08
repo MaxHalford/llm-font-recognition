@@ -7261,7 +7261,7 @@
         "title": "does anyone know this font?",
         "instructions": null,
         "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1220923.png",
-        "identified_font": null
+        "identified_font": "News Gothic Condensed"
     },
     {
         "task_id": "577802",
@@ -7813,7 +7813,7 @@
         "title": "Looking for this font please",
         "instructions": "Thank you!",
         "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1221102.png",
-        "identified_font": null
+        "identified_font": "Sirona"
     },
     {
         "task_id": "577854",
@@ -7822,5 +7822,53 @@
         "instructions": "Looking for this typeface. Sorry it's so low-res, it's the highest quality image I'm able to obtain. Thank you!",
         "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1221100.png",
         "identified_font": "Felix Titling"
+    },
+    {
+        "task_id": "577862",
+        "url": "https://www.dafont.com/forum/read/577862/what-font-is-this",
+        "title": "what font is this?",
+        "instructions": "it looks like brush script but a bit modified?",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1221117.png",
+        "identified_font": null
+    },
+    {
+        "task_id": "493794",
+        "url": "https://www.dafont.com/forum/read/493794/what-is-the-bloom-font",
+        "title": "what is the bloom font?",
+        "instructions": null,
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/0/1050016.png",
+        "identified_font": null
+    },
+    {
+        "task_id": "577857",
+        "url": "https://www.dafont.com/forum/read/577857/please-help-with-this-script-font",
+        "title": "Please help with this Script font?",
+        "instructions": "Can anybody help me with this schript font?",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1221106.png",
+        "identified_font": "Lilly Mae"
+    },
+    {
+        "task_id": "577860",
+        "url": "https://www.dafont.com/forum/read/577860/",
+        "title": "??",
+        "instructions": "Merci pour votre aide",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1221113.png",
+        "identified_font": null
+    },
+    {
+        "task_id": "577859",
+        "url": "https://www.dafont.com/forum/read/577859/project",
+        "title": "Project",
+        "instructions": null,
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1221112.png",
+        "identified_font": null
+    },
+    {
+        "task_id": "577858",
+        "url": "https://www.dafont.com/forum/read/577858/what-is-that-font",
+        "title": "What is that font?",
+        "instructions": "Any idea?",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1221110.png",
+        "identified_font": null
     }
 ]
