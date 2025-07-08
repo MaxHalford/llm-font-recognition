@@ -13723,5 +13723,23 @@
         "candidate_font_3": "Avenir Next Heavy",
         "candidate_font_4": "Univers Black",
         "candidate_font_5": "Impact"
+    },
+    {
+        "task_id": "577872",
+        "model_name": "gpt-4o-mini",
+        "candidate_font_1": "Bubblegum Sans",
+        "candidate_font_2": "Jelly Donut",
+        "candidate_font_3": "SpongeBob",
+        "candidate_font_4": "Comic Sans MS",
+        "candidate_font_5": ""
+    },
+    {
+        "task_id": "577872",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Bubblegum Sans",
+        "candidate_font_2": "Fredoka One",
+        "candidate_font_3": "Chewy",
+        "candidate_font_4": "Baloo 2",
+        "candidate_font_5": "Lilita One"
     }
 ]
