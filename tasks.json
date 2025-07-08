@@ -7893,7 +7893,7 @@
         "title": "What is this font?",
         "instructions": "What is this font?",
         "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1221138.jpg",
-        "identified_font": null
+        "identified_font": "Sloop Script Three"
     },
     {
         "task_id": "577867",
@@ -7941,13 +7941,13 @@
         "title": "Identify This Font!",
         "instructions": "Can You Identify This Font?",
         "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1221151.jpg",
-        "identified_font": null
+        "identified_font": "House Movements Custom"
     },
     {
         "task_id": "577888",
         "url": "https://www.dafont.com/forum/read/577888/what-is-the-font",
         "title": "what is the font?",
-        "instructions": null,
+        "instructions": "\"Coordinador de\"",
         "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1221178.png",
         "identified_font": null
     },
@@ -7957,7 +7957,7 @@
         "title": "DHP & HANEY fonts",
         "instructions": "I need help finding both of these fonts,thanks",
         "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1221177.jpg",
-        "identified_font": null
+        "identified_font": "Terminator Real NFI"
     },
     {
         "task_id": "577886",
@@ -7965,7 +7965,7 @@
         "title": "font identification",
         "instructions": "hello everyone",
         "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1221176.png",
-        "identified_font": null
+        "identified_font": "Mail Ray Stuff"
     },
     {
         "task_id": "577885",
@@ -8013,7 +8013,7 @@
         "title": "Need help",
         "instructions": "Can you identify this font?  I've found several close but not the exact font.",
         "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1221167.jpg",
-        "identified_font": null
+        "identified_font": "Magnolia"
     },
     {
         "task_id": "577879",
@@ -8069,6 +8069,78 @@
         "title": "Font? Patina",
         "instructions": null,
         "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1221156.jpg",
+        "identified_font": null
+    },
+    {
+        "task_id": "577895",
+        "url": "https://www.dafont.com/forum/read/577895/please-help-id",
+        "title": "Please Help ID",
+        "instructions": null,
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1221206.png",
+        "identified_font": null
+    },
+    {
+        "task_id": "577894",
+        "url": "https://www.dafont.com/forum/read/577894/font-identification",
+        "title": "Font Identification",
+        "instructions": "Evening all, I just wanted to see whether anyone recognised these two fonts - I swear I've seen them before but I can't think of where... Any ideas would be much appreciated!",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1221205.png",
+        "identified_font": null
+    },
+    {
+        "task_id": "577892",
+        "url": "https://www.dafont.com/forum/read/577892/font-pls",
+        "title": "font pls",
+        "instructions": "what font is this thank you for the help <3",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1221194.png",
+        "identified_font": "Winkle"
+    },
+    {
+        "task_id": "502300",
+        "url": "https://www.dafont.com/forum/read/502300/ava-max-maybe-you-re-the-problem-font",
+        "title": "'Ava Max - Maybe You're The Problem' font!!",
+        "instructions": null,
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/0/1066600.jpg",
+        "identified_font": "Loki Cola"
+    },
+    {
+        "task_id": "469045",
+        "url": "https://www.dafont.com/forum/read/469045/justin-bieber-anyone",
+        "title": "justin bieber - anyone",
+        "instructions": "please help me find this font the justin bieber and anyone thank you",
+        "img_url": "https://www.dafont.com/forum/attach/orig/9/9/999946.jpg?1",
+        "identified_font": null
+    },
+    {
+        "task_id": "571090",
+        "url": "https://www.dafont.com/forum/read/571090/serif-font-please",
+        "title": "Serif font, please.",
+        "instructions": null,
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1207317.jpg",
+        "identified_font": null
+    },
+    {
+        "task_id": "557541",
+        "url": "https://www.dafont.com/forum/read/557541/aura-or-not-font",
+        "title": "AURA OR NOT font",
+        "instructions": "AURA OR NOT font",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/1/1179133.png?1",
+        "identified_font": null
+    },
+    {
+        "task_id": "577890",
+        "url": "https://www.dafont.com/forum/read/577890/pls-font-name",
+        "title": "pls font name",
+        "instructions": null,
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1221183.jpg",
+        "identified_font": null
+    },
+    {
+        "task_id": "575816",
+        "url": "https://www.dafont.com/forum/read/575816/help",
+        "title": "help",
+        "instructions": null,
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1216637.png",
         "identified_font": null
     }
 ]
