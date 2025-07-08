@@ -7660,7 +7660,7 @@
         "url": "https://www.dafont.com/forum/read/577853/what-is-this-font-plsss",
         "title": "what is this font ?? plsss",
         "instructions": null,
-        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1221099.png",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1221099.png?1",
         "identified_font": null
     },
     {
@@ -7798,5 +7798,29 @@
         "instructions": "I NEED THE FONT NAME PLS",
         "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1221080.png",
         "identified_font": null
+    },
+    {
+        "task_id": "577856",
+        "url": "https://www.dafont.com/forum/read/577856/entingbilbo",
+        "title": "ENTINGBILBO",
+        "instructions": "Hola, \u00bfalguien que pueda ayudarme a identificar esta fuente?...",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1221103.png",
+        "identified_font": null
+    },
+    {
+        "task_id": "577855",
+        "url": "https://www.dafont.com/forum/read/577855/looking-for-this-font-please",
+        "title": "Looking for this font please",
+        "instructions": "Thank you!",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1221102.png",
+        "identified_font": null
+    },
+    {
+        "task_id": "577854",
+        "url": "https://www.dafont.com/forum/read/577854/font-help-please",
+        "title": "Font help please",
+        "instructions": "Looking for this typeface. Sorry it's so low-res, it's the highest quality image I'm able to obtain. Thank you!",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1221100.png",
+        "identified_font": "Felix Titling"
     }
 ]
