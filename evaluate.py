@@ -157,7 +157,7 @@ The source code for this benchmark is available on [GitHub](https://github.com/M
     breakdown.add_column("Task", justify="center", style="cyan", no_wrap=True)
     breakdown.add_column("Identified font", justify="center", no_wrap=True)
     for model in models:
-        breakdown.add_column(model, justify="center", style="yellow")
+        breakdown.add_column(model, justify="center", style="yellow", no_wrap=True)
 
     for task in complete_tasks:
         if task.task_id not in guesses_by_task:
