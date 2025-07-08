@@ -14029,5 +14029,131 @@
         "candidate_font_3": "Portrait Display",
         "candidate_font_4": "Recife Display",
         "candidate_font_5": "Lygia"
+    },
+    {
+        "task_id": "577895",
+        "model_name": "gpt-4o-mini",
+        "candidate_font_1": "Impact",
+        "candidate_font_2": "Arial Black",
+        "candidate_font_3": "Helvetica Bold",
+        "candidate_font_4": "Frank Ruhl Libre",
+        "candidate_font_5": "Futura Bold"
+    },
+    {
+        "task_id": "577895",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Corporate Gothic Bold",
+        "candidate_font_2": "Trade Gothic Bold No. 2",
+        "candidate_font_3": "News Gothic Bold",
+        "candidate_font_4": "Franklin Gothic Demi Bold",
+        "candidate_font_5": "Graphik Bold"
+    },
+    {
+        "task_id": "577894",
+        "model_name": "gpt-4o-mini",
+        "candidate_font_1": "Lobster",
+        "candidate_font_2": "Pacifico",
+        "candidate_font_3": "Playlist Script",
+        "candidate_font_4": "Dancing Script",
+        "candidate_font_5": "Amatic SC"
+    },
+    {
+        "task_id": "577894",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Playlist Script",
+        "candidate_font_2": "Sketch Block",
+        "candidate_font_3": "Brusher",
+        "candidate_font_4": "Dirty Headline",
+        "candidate_font_5": "Lemon Milk"
+    },
+    {
+        "task_id": "469045",
+        "model_name": "gpt-4o-mini",
+        "candidate_font_1": "Playfair Display",
+        "candidate_font_2": "Bodoni",
+        "candidate_font_3": "Cloister Black",
+        "candidate_font_4": "Cinzel Decorative",
+        "candidate_font_5": ""
+    },
+    {
+        "task_id": "469045",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Playfair Display",
+        "candidate_font_2": "Requiem Text Display",
+        "candidate_font_3": "Lust Display",
+        "candidate_font_4": "Didot EF Swash",
+        "candidate_font_5": "Bodoni Moda Poster"
+    },
+    {
+        "task_id": "571090",
+        "model_name": "gpt-4o-mini",
+        "candidate_font_1": "Bodoni",
+        "candidate_font_2": "Didot",
+        "candidate_font_3": "Georgia",
+        "candidate_font_4": "Garamond",
+        "candidate_font_5": "Times New Roman"
+    },
+    {
+        "task_id": "571090",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Palatino Linotype",
+        "candidate_font_2": "Book Antiqua",
+        "candidate_font_3": "Baskerville",
+        "candidate_font_4": "Adobe Caslon Pro",
+        "candidate_font_5": "Garamond"
+    },
+    {
+        "task_id": "557541",
+        "model_name": "gpt-4o-mini",
+        "candidate_font_1": "Bubblegum Sans",
+        "candidate_font_2": "Bebas Neue",
+        "candidate_font_3": "Comic Sans MS",
+        "candidate_font_4": "Luckiest Guy",
+        "candidate_font_5": "Poppins"
+    },
+    {
+        "task_id": "557541",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Goobly",
+        "candidate_font_2": "Burbank Big Condensed",
+        "candidate_font_3": "Porky's",
+        "candidate_font_4": "Mickey's Muffin",
+        "candidate_font_5": "Bubblegum Sans"
+    },
+    {
+        "task_id": "577890",
+        "model_name": "gpt-4o-mini",
+        "candidate_font_1": "Scriptina",
+        "candidate_font_2": "Great Vibes",
+        "candidate_font_3": "Dancing Script",
+        "candidate_font_4": "Allura",
+        "candidate_font_5": "Alex Brush"
+    },
+    {
+        "task_id": "577890",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Bickham Script Pro",
+        "candidate_font_2": "Regency Script",
+        "candidate_font_3": "Young Baroque",
+        "candidate_font_4": "Kuenstler Script",
+        "candidate_font_5": "Affair"
+    },
+    {
+        "task_id": "575816",
+        "model_name": "gpt-4o-mini",
+        "candidate_font_1": "Blade Runner",
+        "candidate_font_2": "Ghost Rider",
+        "candidate_font_3": "KAVALIER",
+        "candidate_font_4": "Monolith",
+        "candidate_font_5": "Bebas Neue"
+    },
+    {
+        "task_id": "575816",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Slasher Flick",
+        "candidate_font_2": "Ghoulish",
+        "candidate_font_3": "Friday13 V2",
+        "candidate_font_4": "Horror Hotel",
+        "candidate_font_5": "You Murderer"
     }
 ]
