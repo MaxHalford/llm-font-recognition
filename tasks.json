@@ -5844,7 +5844,7 @@
         "url": "https://www.dafont.com/forum/read/577591/fonte",
         "title": "fonte",
         "instructions": null,
-        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1220540.png",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1220540.png?1",
         "identified_font": null
     },
     {
@@ -5860,7 +5860,7 @@
         "url": "https://www.dafont.com/forum/read/577589/fontes",
         "title": "fontes",
         "instructions": "Viver Sa\u00fade",
-        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1220538.jpg",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1220538.png?1",
         "identified_font": null
     },
     {
@@ -7925,6 +7925,22 @@
         "title": "Any idea please?",
         "instructions": null,
         "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1221124.png",
+        "identified_font": null
+    },
+    {
+        "task_id": "577871",
+        "url": "https://www.dafont.com/forum/read/577871/anyone-know-this-font-where-it-says-thank-you",
+        "title": "Anyone know this font where it says \u0093Thank You\u0094?",
+        "instructions": "This looks like a Wedding type font\u0085.",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1221145.jpg",
+        "identified_font": "King Basil"
+    },
+    {
+        "task_id": "577872",
+        "url": "https://www.dafont.com/forum/read/577872/identify-this-font",
+        "title": "Identify This Font!",
+        "instructions": "Can You Identify This Font?",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1221151.jpg",
         "identified_font": null
     }
 ]
