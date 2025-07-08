@@ -7849,8 +7849,8 @@
     },
     {
         "task_id": "577860",
-        "url": "https://www.dafont.com/forum/read/577860/",
-        "title": "??",
+        "url": "https://www.dafont.com/forum/read/577860/mer",
+        "title": "Mer",
         "instructions": "Merci pour votre aide",
         "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1221113.png",
         "identified_font": null
@@ -7869,6 +7869,62 @@
         "title": "What is that font?",
         "instructions": "Any idea?",
         "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1221110.png",
+        "identified_font": "Petit Formal Script"
+    },
+    {
+        "task_id": "577870",
+        "url": "https://www.dafont.com/forum/read/577870/la-la-love-me",
+        "title": "La La Love Me",
+        "instructions": null,
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1221140.jpg",
+        "identified_font": null
+    },
+    {
+        "task_id": "577869",
+        "url": "https://www.dafont.com/forum/read/577869/do-you-this-three-fonts-pls",
+        "title": "Do you this three fonts pls?",
+        "instructions": null,
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1221139.png",
+        "identified_font": null
+    },
+    {
+        "task_id": "577868",
+        "url": "https://www.dafont.com/forum/read/577868/what-is-this-font",
+        "title": "What is this font?",
+        "instructions": "What is this font?",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1221138.jpg",
+        "identified_font": null
+    },
+    {
+        "task_id": "577867",
+        "url": "https://www.dafont.com/forum/read/577867/blooming-font-only",
+        "title": "Blooming font only",
+        "instructions": null,
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1221135.jpg",
+        "identified_font": null
+    },
+    {
+        "task_id": "577866",
+        "url": "https://www.dafont.com/forum/read/577866/font",
+        "title": "Font?",
+        "instructions": "I need a font for the URC 2025",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1221133.png",
+        "identified_font": null
+    },
+    {
+        "task_id": "577863",
+        "url": "https://www.dafont.com/forum/read/577863/pls-help-me-find-this-fonttt",
+        "title": "Pls help me find this fonttt",
+        "instructions": "\"Routine\" / \"0%\"",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1221121.jpg",
+        "identified_font": null
+    },
+    {
+        "task_id": "577864",
+        "url": "https://www.dafont.com/forum/read/577864/any-idea-please",
+        "title": "Any idea please?",
+        "instructions": null,
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1221124.png",
         "identified_font": null
     }
 ]
