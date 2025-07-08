@@ -13480,5 +13480,23 @@
         "candidate_font_3": "Press Start 2P",
         "candidate_font_4": "VT323",
         "candidate_font_5": ""
+    },
+    {
+        "task_id": "577856",
+        "model_name": "gpt-4o-mini",
+        "candidate_font_1": "Bebas Neue",
+        "candidate_font_2": "ChunkFive",
+        "candidate_font_3": "Futura",
+        "candidate_font_4": "Impact",
+        "candidate_font_5": "Oswald"
+    },
+    {
+        "task_id": "577855",
+        "model_name": "gpt-4o-mini",
+        "candidate_font_1": "Creepster",
+        "candidate_font_2": "Rock Salt",
+        "candidate_font_3": "Gothic Ultra OT",
+        "candidate_font_4": "Garamond",
+        "candidate_font_5": ""
     }
 ]
