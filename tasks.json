@@ -5420,7 +5420,7 @@
         "url": "https://www.dafont.com/forum/read/577534/what-s-the-numbers-font",
         "title": "What's the numbers font?",
         "instructions": "Hello! Can you identify the numbers font?",
-        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1220382.png",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1220382.png?1",
         "identified_font": null
     },
     {
@@ -8036,7 +8036,7 @@
         "url": "https://www.dafont.com/forum/read/577877/help-finding-font",
         "title": "Help finding font",
         "instructions": "Anyone know the script font in use in this wedding invitation?",
-        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1221161.png",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1221161.jpg?1",
         "identified_font": null
     },
     {
@@ -8269,7 +8269,7 @@
         "title": "que tipografia es",
         "instructions": "busco la tipograf\u00eda de la palabra secundar\u00eda, gracias",
         "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1221250.jpg",
-        "identified_font": null
+        "identified_font": "Jokewood"
     },
     {
         "task_id": "501266",
@@ -8406,5 +8406,53 @@
         "instructions": null,
         "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1221281.png",
         "identified_font": null
+    },
+    {
+        "task_id": "577934",
+        "url": "https://www.dafont.com/forum/read/577934/help-name-of-the-font-pleaseeeee",
+        "title": "Help! Name of the font pleaseeeee",
+        "instructions": null,
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1221321.png",
+        "identified_font": null
+    },
+    {
+        "task_id": "577932",
+        "url": "https://www.dafont.com/forum/read/577932/help",
+        "title": "help",
+        "instructions": null,
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1221316.jpg",
+        "identified_font": null
+    },
+    {
+        "task_id": "11078",
+        "url": "https://www.dafont.com/forum/read/11078/video-game",
+        "title": "video game",
+        "instructions": "im looking 4 the font from the devil may cry games",
+        "img_url": "https://www.dafont.com/forum/attach/orig/3/1/31001.jpg",
+        "identified_font": null
+    },
+    {
+        "task_id": "577931",
+        "url": "https://www.dafont.com/forum/read/577931/can-you-help-me-find-this-font-please",
+        "title": "can you help me find this font please",
+        "instructions": "can you help me find this font please",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1221314.jpg",
+        "identified_font": null
+    },
+    {
+        "task_id": "577930",
+        "url": "https://www.dafont.com/forum/read/577930/can-anybody-help-me-with-the-marina-sena-and-26-de-abril-font-thank-you",
+        "title": "Can anybody help me with the \"MARINA SENA\" and \"26 DE ABRIL\" font? Thank you!",
+        "instructions": null,
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1221309.jpg",
+        "identified_font": null
+    },
+    {
+        "task_id": "577929",
+        "url": "https://www.dafont.com/forum/read/577929/font",
+        "title": "Font",
+        "instructions": "Could someone identfy this font please? I have found similiar, but no exact match.",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1221304.png",
+        "identified_font": "Athena Inline"
     }
 ]
