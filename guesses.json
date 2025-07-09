@@ -14371,5 +14371,77 @@
         "candidate_font_3": "Melting Point",
         "candidate_font_4": "Liquidism",
         "candidate_font_5": "Fluid Grot"
+    },
+    {
+        "task_id": "577913",
+        "model_name": "gpt-4o-mini",
+        "candidate_font_1": "Bubblegum Sans",
+        "candidate_font_2": "Fredoka One",
+        "candidate_font_3": "Comfortaa",
+        "candidate_font_4": "Poppins",
+        "candidate_font_5": "Baloo Bhai 2"
+    },
+    {
+        "task_id": "577913",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Rubik Bubbles",
+        "candidate_font_2": "Balsamiq Sans",
+        "candidate_font_3": "Hey Comic",
+        "candidate_font_4": "Roboto",
+        "candidate_font_5": "Porky's"
+    },
+    {
+        "task_id": "577912",
+        "model_name": "gpt-4o-mini",
+        "candidate_font_1": "Lobster",
+        "candidate_font_2": "Quicksand",
+        "candidate_font_3": "Playfair Display",
+        "candidate_font_4": "Dancing Script",
+        "candidate_font_5": "Great Vibes"
+    },
+    {
+        "task_id": "577912",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Delightful Script",
+        "candidate_font_2": "Magnolia Script",
+        "candidate_font_3": "Angellica",
+        "candidate_font_4": "Billgates Script",
+        "candidate_font_5": "Beauty Dream"
+    },
+    {
+        "task_id": "577910",
+        "model_name": "gpt-4o-mini",
+        "candidate_font_1": "BubbleGum",
+        "candidate_font_2": "Comic Sans MS",
+        "candidate_font_3": "Fredoka One",
+        "candidate_font_4": "Lobster",
+        "candidate_font_5": "Baloo"
+    },
+    {
+        "task_id": "577910",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Bubblegum Sans (similar shape, dots likely an added effect or a specific variant)",
+        "candidate_font_2": "Chewy (similar rounded, playful style, dots likely an added effect)",
+        "candidate_font_3": "Jokerman (has internal patterns but different style of dots/shapes)",
+        "candidate_font_4": "KG Red Hands (similar playful, rounded block style, dots likely an added effect)",
+        "candidate_font_5": "Custom lettering or a specialized children's display font with internal dotted texture (specific name not commonly available)"
+    },
+    {
+        "task_id": "501266",
+        "model_name": "gpt-4o-mini",
+        "candidate_font_1": "Sonic 2",
+        "candidate_font_2": "Sonic Boom",
+        "candidate_font_3": "Demonized",
+        "candidate_font_4": "Impact",
+        "candidate_font_5": "Eurostile"
+    },
+    {
+        "task_id": "501266",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Movie Sonic",
+        "candidate_font_2": "Sonic Cutscene",
+        "candidate_font_3": "SF Transrobotics",
+        "candidate_font_4": "Orbitron Black",
+        "candidate_font_5": "Montserrat Black"
     }
 ]
