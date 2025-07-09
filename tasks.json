@@ -5948,7 +5948,7 @@
         "url": "https://www.dafont.com/forum/read/577611/what-is-the-name-of-the-font-in-word-amanecer",
         "title": "What is the name of the font in word  \"Amanecer\"",
         "instructions": "Please",
-        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1220567.jpg",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1220567.png?1",
         "identified_font": null
     },
     {
@@ -8061,7 +8061,7 @@
         "title": "fontes",
         "instructions": "ALIAN\u00c7A BRASIL",
         "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1221157.jpg",
-        "identified_font": null
+        "identified_font": "Arial"
     },
     {
         "task_id": "577873",
@@ -8148,8 +8148,8 @@
         "url": "https://www.dafont.com/forum/read/577906/what-is-this-font",
         "title": "what is this font?",
         "instructions": null,
-        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1221233.png",
-        "identified_font": null
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1221233.jpg?1",
+        "identified_font": "Colonial"
     },
     {
         "task_id": "577904",
@@ -8157,7 +8157,7 @@
         "title": "What is the font?",
         "instructions": null,
         "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1221231.jpg",
-        "identified_font": null
+        "identified_font": "Flyer Hardcore"
     },
     {
         "task_id": "577903",
@@ -8165,7 +8165,7 @@
         "title": "Care Bears Cover Font",
         "instructions": "Does anyone know the font used in \"Care Bear Stare\"?",
         "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1221230.jpg",
-        "identified_font": null
+        "identified_font": "Peachy Keen"
     },
     {
         "task_id": "577902",
@@ -8205,7 +8205,7 @@
         "title": "Hola, buenas noches. Alguien sabe como se llama esta fuente?, Gracias quedo atento?",
         "instructions": null,
         "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1221221.png",
-        "identified_font": null
+        "identified_font": "Fredoka"
     },
     {
         "task_id": "577897",
@@ -8229,6 +8229,22 @@
         "title": "La bella vita",
         "instructions": "LA BELLA VITA FONT?",
         "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1208162.png",
+        "identified_font": null
+    },
+    {
+        "task_id": "577909",
+        "url": "https://www.dafont.com/forum/read/577909/font-please",
+        "title": "Font, please.",
+        "instructions": null,
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1221248.jpg",
+        "identified_font": null
+    },
+    {
+        "task_id": "577908",
+        "url": "https://www.dafont.com/forum/read/577908/help-what-font-is-this",
+        "title": "help, What font is this?",
+        "instructions": null,
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1221246.jpg",
         "identified_font": null
     }
 ]
