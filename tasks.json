@@ -7172,7 +7172,7 @@
         "url": "https://www.dafont.com/forum/read/577781/font-name-plz",
         "title": "font name plz",
         "instructions": null,
-        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1220916.png",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1220916.png?1",
         "identified_font": null
     },
     {
@@ -8245,6 +8245,38 @@
         "title": "help, What font is this?",
         "instructions": null,
         "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1221246.jpg",
+        "identified_font": null
+    },
+    {
+        "task_id": "577913",
+        "url": "https://www.dafont.com/forum/read/577913/mini-acrylic-charm",
+        "title": "MINI ACRYLIC CHARM",
+        "instructions": null,
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1221255.jpg",
+        "identified_font": null
+    },
+    {
+        "task_id": "577912",
+        "url": "https://www.dafont.com/forum/read/577912/4th-mini-album",
+        "title": "4th Mini Album",
+        "instructions": null,
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1221254.png",
+        "identified_font": null
+    },
+    {
+        "task_id": "577910",
+        "url": "https://www.dafont.com/forum/read/577910/que-tipografia-es",
+        "title": "que tipografia es",
+        "instructions": "busco la tipograf\u00eda de la palabra secundar\u00eda, gracias",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1221250.jpg",
+        "identified_font": null
+    },
+    {
+        "task_id": "501266",
+        "url": "https://www.dafont.com/forum/read/501266/font-name-sonic",
+        "title": "Font Name? Sonic",
+        "instructions": "Just the Big, Bolded \"SONIC\" is the font I need you to identify!",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/0/1064558.png",
         "identified_font": null
     }
 ]
