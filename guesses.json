@@ -14335,5 +14335,41 @@
         "candidate_font_3": "Mostwasted",
         "candidate_font_4": "Playbill",
         "candidate_font_5": "Aachen Bold Condensed"
+    },
+    {
+        "task_id": "577909",
+        "model_name": "gpt-4o-mini",
+        "candidate_font_1": "Billion",
+        "candidate_font_2": "Billiontype",
+        "candidate_font_3": "Billionaire",
+        "candidate_font_4": "Gloock",
+        "candidate_font_5": ""
+    },
+    {
+        "task_id": "577909",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Deco Neue Outline",
+        "candidate_font_2": "ITC Bodoni Seventy Two",
+        "candidate_font_3": "Bodoni Poster",
+        "candidate_font_4": "Didot Headline",
+        "candidate_font_5": "Playfair Display"
+    },
+    {
+        "task_id": "577908",
+        "model_name": "gpt-4o-mini",
+        "candidate_font_1": "Bebas Neue",
+        "candidate_font_2": "Creepster",
+        "candidate_font_3": "Blackletter",
+        "candidate_font_4": "",
+        "candidate_font_5": ""
+    },
+    {
+        "task_id": "577908",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Acid Type",
+        "candidate_font_2": "Wavy Dash",
+        "candidate_font_3": "Melting Point",
+        "candidate_font_4": "Liquidism",
+        "candidate_font_5": "Fluid Grot"
     }
 ]
