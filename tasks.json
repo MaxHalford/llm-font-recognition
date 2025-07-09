@@ -8077,7 +8077,7 @@
         "title": "Please Help ID",
         "instructions": null,
         "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1221206.png",
-        "identified_font": null
+        "identified_font": "Whitney Semibold"
     },
     {
         "task_id": "577894",
@@ -8085,7 +8085,7 @@
         "title": "Font Identification",
         "instructions": "Evening all, I just wanted to see whether anyone recognised these two fonts - I swear I've seen them before but I can't think of where... Any ideas would be much appreciated!",
         "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1221205.png",
-        "identified_font": null
+        "identified_font": "Zabaglione"
     },
     {
         "task_id": "577892",
@@ -8141,6 +8141,94 @@
         "title": "help",
         "instructions": null,
         "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1216637.png",
+        "identified_font": null
+    },
+    {
+        "task_id": "577906",
+        "url": "https://www.dafont.com/forum/read/577906/what-is-this-font",
+        "title": "what is this font?",
+        "instructions": null,
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1221233.png",
+        "identified_font": null
+    },
+    {
+        "task_id": "577904",
+        "url": "https://www.dafont.com/forum/read/577904/what-is-the-font",
+        "title": "What is the font?",
+        "instructions": null,
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1221231.jpg",
+        "identified_font": null
+    },
+    {
+        "task_id": "577903",
+        "url": "https://www.dafont.com/forum/read/577903/care-bears-cover-font",
+        "title": "Care Bears Cover Font",
+        "instructions": "Does anyone know the font used in \"Care Bear Stare\"?",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1221230.jpg",
+        "identified_font": null
+    },
+    {
+        "task_id": "577902",
+        "url": "https://www.dafont.com/forum/read/577902/what-is-this-font",
+        "title": "what is this font????",
+        "instructions": null,
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1221229.jpg",
+        "identified_font": null
+    },
+    {
+        "task_id": "577901",
+        "url": "https://www.dafont.com/forum/read/577901/ace",
+        "title": "ACE",
+        "instructions": "HELP PLEASE",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1221228.jpg",
+        "identified_font": null
+    },
+    {
+        "task_id": "577899",
+        "url": "https://www.dafont.com/forum/read/577899/alguem-sabe-dizer-qual-o-nome-dessa-fonte",
+        "title": "Algu\u00e9m sabe dizer qual o nome dessa fonte?",
+        "instructions": null,
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1221222.jpg",
+        "identified_font": null
+    },
+    {
+        "task_id": "577900",
+        "url": "https://www.dafont.com/forum/read/577900/riesling-trocken-swoopy-ascenders-and-descenders",
+        "title": "Riesling Trocken swoopy ascenders and descenders",
+        "instructions": null,
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1221225.png",
+        "identified_font": null
+    },
+    {
+        "task_id": "577898",
+        "url": "https://www.dafont.com/forum/read/577898/hola-buenas-noches-alguien-sabe-como-se-llama-esta-fuente-gracias-quedo-atento",
+        "title": "Hola, buenas noches. Alguien sabe como se llama esta fuente?, Gracias quedo atento?",
+        "instructions": null,
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1221221.png",
+        "identified_font": null
+    },
+    {
+        "task_id": "577897",
+        "url": "https://www.dafont.com/forum/read/577897/looking-for-this-font-please",
+        "title": "Looking for this font please",
+        "instructions": "Any help finding this font would be amazing. Thank you!",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1221220.png",
+        "identified_font": null
+    },
+    {
+        "task_id": "577896",
+        "url": "https://www.dafont.com/forum/read/577896/font-for-joe-biden-s-2008-presidential-campaign",
+        "title": "Font for Joe Biden's 2008 presidential campaign?",
+        "instructions": "I really need the font in this image for a passion project.",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1221218.png",
+        "identified_font": "Baskerville"
+    },
+    {
+        "task_id": "571518",
+        "url": "https://www.dafont.com/forum/read/571518/la-bella-vita",
+        "title": "La bella vita",
+        "instructions": "LA BELLA VITA FONT?",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1208162.png",
         "identified_font": null
     }
 ]
