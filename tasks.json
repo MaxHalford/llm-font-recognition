@@ -6684,8 +6684,8 @@
         "url": "https://www.dafont.com/forum/read/577705/font-by-shadowbyyoongi",
         "title": "FONT BY SHADOWBYYOONGI",
         "instructions": "Tittle Font",
-        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1220748.jpg",
-        "identified_font": null
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1220748.jpg?1",
+        "identified_font": "Turbolence"
     },
     {
         "task_id": "577704",
@@ -6700,7 +6700,7 @@
         "url": "https://www.dafont.com/forum/read/577703/font-by-shadowbyyoongi",
         "title": "FONT BY SHADOWBYYOONGI",
         "instructions": "Tittle Font",
-        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1220746.jpg",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1220746.jpg?1",
         "identified_font": null
     },
     {
@@ -6708,7 +6708,7 @@
         "url": "https://www.dafont.com/forum/read/577702/font-by-shadowbyyoongi",
         "title": "FONT BY SHADOWBYYOONGI",
         "instructions": "Tittle Font",
-        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1220745.jpg",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1220745.png?1",
         "identified_font": null
     },
     {
@@ -8277,6 +8277,38 @@
         "title": "Font Name? Sonic",
         "instructions": "Just the Big, Bolded \"SONIC\" is the font I need you to identify!",
         "img_url": "https://www.dafont.com/forum/attach/orig/1/0/1064558.png",
+        "identified_font": null
+    },
+    {
+        "task_id": "577916",
+        "url": "https://www.dafont.com/forum/read/577916/what-font",
+        "title": "What font ?",
+        "instructions": null,
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1221280.jpg",
+        "identified_font": null
+    },
+    {
+        "task_id": "577915",
+        "url": "https://www.dafont.com/forum/read/577915/font-name-pls",
+        "title": "Font name pls :)",
+        "instructions": "\u0084hitschies\u0093 and \u0084Schn\u00fcre\u0093",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1221277.png",
+        "identified_font": null
+    },
+    {
+        "task_id": "577914",
+        "url": "https://www.dafont.com/forum/read/577914/font-name-please",
+        "title": "Font name please",
+        "instructions": "spread",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1221275.jpg",
+        "identified_font": null
+    },
+    {
+        "task_id": "515392",
+        "url": "https://www.dafont.com/forum/read/515392/quantumania-font-plls",
+        "title": "Quantumania font plls",
+        "instructions": "The font please",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/0/1091923.png?1",
         "identified_font": null
     }
 ]
