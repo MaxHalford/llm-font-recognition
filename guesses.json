@@ -14443,5 +14443,77 @@
         "candidate_font_3": "SF Transrobotics",
         "candidate_font_4": "Orbitron Black",
         "candidate_font_5": "Montserrat Black"
+    },
+    {
+        "task_id": "577916",
+        "model_name": "gpt-4o-mini",
+        "candidate_font_1": "Brush Script",
+        "candidate_font_2": "Pacifico",
+        "candidate_font_3": "Lobster",
+        "candidate_font_4": "Allura",
+        "candidate_font_5": "Dancing Script"
+    },
+    {
+        "task_id": "577916",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Hooligan Brush Font",
+        "candidate_font_2": "Better Grade",
+        "candidate_font_3": "Blackhawk",
+        "candidate_font_4": "Quentin",
+        "candidate_font_5": "Brush King"
+    },
+    {
+        "task_id": "577915",
+        "model_name": "gpt-4o-mini",
+        "candidate_font_1": "Pacifico",
+        "candidate_font_2": "Lobster",
+        "candidate_font_3": "Kalam",
+        "candidate_font_4": "Dancing Script",
+        "candidate_font_5": "Baloo Bhai"
+    },
+    {
+        "task_id": "577915",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Lobster",
+        "candidate_font_2": "Lemon Tuesday",
+        "candidate_font_3": "VAG Rounded",
+        "candidate_font_4": "Quicksand",
+        "candidate_font_5": "Chocolate Milk"
+    },
+    {
+        "task_id": "577914",
+        "model_name": "gpt-4o-mini",
+        "candidate_font_1": "Playfair Display",
+        "candidate_font_2": "Garamond",
+        "candidate_font_3": "Baskerville",
+        "candidate_font_4": "Libre Baskerville",
+        "candidate_font_5": ""
+    },
+    {
+        "task_id": "577914",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Bitstream Charter",
+        "candidate_font_2": "New Century Schoolbook",
+        "candidate_font_3": "Book Antiqua",
+        "candidate_font_4": "Palatino Linotype",
+        "candidate_font_5": "Crimson Text"
+    },
+    {
+        "task_id": "515392",
+        "model_name": "gpt-4o-mini",
+        "candidate_font_1": "Eurostile",
+        "candidate_font_2": "Nexa",
+        "candidate_font_3": "Bebas Neue",
+        "candidate_font_4": "Orbitron",
+        "candidate_font_5": "Anton"
+    },
+    {
+        "task_id": "515392",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "SF Transrobotics",
+        "candidate_font_2": "Orbitron",
+        "candidate_font_3": "Exo 2",
+        "candidate_font_4": "Bank Gothic",
+        "candidate_font_5": "Eurostile Extended"
     }
 ]
