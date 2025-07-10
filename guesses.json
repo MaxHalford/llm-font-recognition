@@ -15145,5 +15145,77 @@
         "candidate_font_3": "Disneylands",
         "candidate_font_4": "D Disney",
         "candidate_font_5": "Disney Script"
+    },
+    {
+        "task_id": "577961",
+        "model_name": "gpt-4o-mini",
+        "candidate_font_1": "Scriptina",
+        "candidate_font_2": "Great Vibes",
+        "candidate_font_3": "Alex Brush",
+        "candidate_font_4": "Bickham Script Pro",
+        "candidate_font_5": "Dancing Script"
+    },
+    {
+        "task_id": "577961",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Oliviarose",
+        "candidate_font_2": "",
+        "candidate_font_3": "",
+        "candidate_font_4": "",
+        "candidate_font_5": ""
+    },
+    {
+        "task_id": "576111",
+        "model_name": "gpt-4o-mini",
+        "candidate_font_1": "Nintendo Sans",
+        "candidate_font_2": "Jellybelly",
+        "candidate_font_3": "Blox",
+        "candidate_font_4": "Bauhaus",
+        "candidate_font_5": "Impact"
+    },
+    {
+        "task_id": "576111",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Mario Kart DS",
+        "candidate_font_2": "Luckiest Guy",
+        "candidate_font_3": "Super Mario 256",
+        "candidate_font_4": "FOT-Rodin B",
+        "candidate_font_5": "Bangers"
+    },
+    {
+        "task_id": "577960",
+        "model_name": "gpt-4o-mini",
+        "candidate_font_1": "Bebas Neue",
+        "candidate_font_2": "Poppins",
+        "candidate_font_3": "Baloo",
+        "candidate_font_4": "Quicksand",
+        "candidate_font_5": "Nunito"
+    },
+    {
+        "task_id": "577960",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Komu A",
+        "candidate_font_2": "Varela Round",
+        "candidate_font_3": "Quicksand",
+        "candidate_font_4": "Baloo Bhai 2",
+        "candidate_font_5": "Sofia Pro Soft"
+    },
+    {
+        "task_id": "577959",
+        "model_name": "gpt-4o-mini",
+        "candidate_font_1": "Cosablanca",
+        "candidate_font_2": "Cursive Script",
+        "candidate_font_3": "Burbank",
+        "candidate_font_4": "Dancing Script",
+        "candidate_font_5": "Lobster"
+    },
+    {
+        "task_id": "577959",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Montserrat Rounded",
+        "candidate_font_2": "Quicksand",
+        "candidate_font_3": "VAG Rounded",
+        "candidate_font_4": "Futura Round",
+        "candidate_font_5": "Arial Rounded MT Bold"
     }
 ]
