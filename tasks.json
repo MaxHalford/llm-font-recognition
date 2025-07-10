@@ -8236,7 +8236,7 @@
         "url": "https://www.dafont.com/forum/read/577909/font-please",
         "title": "Font, please.",
         "instructions": null,
-        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1221248.jpg",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1221248.png?1",
         "identified_font": null
     },
     {
@@ -8646,5 +8646,37 @@
         "instructions": "Also, is the title font the same as the authors' names?",
         "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1221363.jpg",
         "identified_font": "Highsens"
+    },
+    {
+        "task_id": "577961",
+        "url": "https://www.dafont.com/forum/read/577961/font-name-please-oliviarose",
+        "title": "Font name, please. (Oliviarose)",
+        "instructions": null,
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1221392.png",
+        "identified_font": null
+    },
+    {
+        "task_id": "576111",
+        "url": "https://www.dafont.com/forum/read/576111/mario-kart-world-logo",
+        "title": "Mario Kart World logo",
+        "instructions": null,
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1217217.jpg",
+        "identified_font": null
+    },
+    {
+        "task_id": "577960",
+        "url": "https://www.dafont.com/forum/read/577960/what-font-it-is-please-thanks",
+        "title": "What font it is?, please, thanks",
+        "instructions": null,
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1221389.jpg",
+        "identified_font": null
+    },
+    {
+        "task_id": "577959",
+        "url": "https://www.dafont.com/forum/read/577959/what-is-the-fonte",
+        "title": "what is the fonte",
+        "instructions": null,
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1221388.png?1",
+        "identified_font": null
     }
 ]
