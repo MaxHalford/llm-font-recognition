@@ -5421,7 +5421,7 @@
         "title": "What's the numbers font?",
         "instructions": "Hello! Can you identify the numbers font?",
         "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1220382.png?1",
-        "identified_font": null
+        "identified_font": "Bebas Neue"
     },
     {
         "task_id": "577533",
@@ -8348,8 +8348,8 @@
         "url": "https://www.dafont.com/forum/read/577926/thanks-for-your-help",
         "title": "Thanks for your help!",
         "instructions": null,
-        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1221297.jpg",
-        "identified_font": null
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1221297.png?1",
+        "identified_font": "Triplex Serif"
     },
     {
         "task_id": "577925",
@@ -8757,6 +8757,54 @@
         "title": "'Lady Gaga - The MAYHEM Ball' font!!!",
         "instructions": null,
         "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1221420.png",
+        "identified_font": null
+    },
+    {
+        "task_id": "577982",
+        "url": "https://www.dafont.com/forum/read/577982/font-name-pls",
+        "title": "Font name pls :)",
+        "instructions": null,
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1221439.jpg",
+        "identified_font": null
+    },
+    {
+        "task_id": "577979",
+        "url": "https://www.dafont.com/forum/read/577979/font-name-pls",
+        "title": "Font name pls :)",
+        "instructions": null,
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1221436.jpg",
+        "identified_font": null
+    },
+    {
+        "task_id": "576289",
+        "url": "https://www.dafont.com/forum/read/576289/twice-this-is-for-world-tour-in-japan",
+        "title": "TWICE <THIS IS FOR> WORLD TOUR IN JAPAN",
+        "instructions": null,
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1217601.png",
+        "identified_font": null
+    },
+    {
+        "task_id": "577978",
+        "url": "https://www.dafont.com/forum/read/577978/help-what-font-is-this",
+        "title": "Help! What font is this?",
+        "instructions": "EMERALD CITY",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1221432.jpg",
+        "identified_font": null
+    },
+    {
+        "task_id": "94706",
+        "url": "https://www.dafont.com/forum/read/94706/pokemon-firered-logo",
+        "title": "Pokemon FireRed Logo",
+        "instructions": "Can anyone tell me the font used in this logo? thanks..",
+        "img_url": "https://www.dafont.com/forum/attach/orig/2/3/230772.png?1",
+        "identified_font": null
+    },
+    {
+        "task_id": "577976",
+        "url": "https://www.dafont.com/forum/read/577976/what-font-is-this",
+        "title": "What font is this?",
+        "instructions": "What font is used here? Anyone? Thank you!!",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1221425.png",
         "identified_font": null
     }
 ]
