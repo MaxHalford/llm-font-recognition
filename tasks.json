@@ -8588,7 +8588,7 @@
         "url": "https://www.dafont.com/forum/read/577946/font-from-opening-of-accattone-by-passolini-1961",
         "title": "Font from opening of \"Accattone\" by Passolini (1961)",
         "instructions": null,
-        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1221347.png",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1221347.png?1",
         "identified_font": null
     },
     {
@@ -8741,6 +8741,22 @@
         "title": "Teenieping",
         "instructions": null,
         "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1221401.jpg",
+        "identified_font": null
+    },
+    {
+        "task_id": "577974",
+        "url": "https://www.dafont.com/forum/read/577974/mackner-and-excavating-fonts-please",
+        "title": "Mackner  and Excavating fonts please",
+        "instructions": null,
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1221423.png",
+        "identified_font": null
+    },
+    {
+        "task_id": "577973",
+        "url": "https://www.dafont.com/forum/read/577973/lady-gaga-the-mayhem-ball-font",
+        "title": "'Lady Gaga - The MAYHEM Ball' font!!!",
+        "instructions": null,
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1221420.png",
         "identified_font": null
     }
 ]
