@@ -15217,5 +15217,23 @@
         "candidate_font_3": "VAG Rounded",
         "candidate_font_4": "Futura Round",
         "candidate_font_5": "Arial Rounded MT Bold"
+    },
+    {
+        "task_id": "577962",
+        "model_name": "gpt-4o-mini",
+        "candidate_font_1": "Aurelia",
+        "candidate_font_2": "Bodoni Moda",
+        "candidate_font_3": "Didot",
+        "candidate_font_4": "Nexa",
+        "candidate_font_5": "Gloock"
+    },
+    {
+        "task_id": "577962",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Bright Melody",
+        "candidate_font_2": "Gisella",
+        "candidate_font_3": "Aisha",
+        "candidate_font_4": "The Queentish",
+        "candidate_font_5": "Nordin"
     }
 ]
