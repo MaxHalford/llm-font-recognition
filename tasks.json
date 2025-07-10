@@ -8649,11 +8649,11 @@
     },
     {
         "task_id": "577961",
-        "url": "https://www.dafont.com/forum/read/577961/font-name-please-oliviarose",
-        "title": "Font name, please. (Oliviarose)",
-        "instructions": null,
+        "url": "https://www.dafont.com/forum/read/577961/oliviarose",
+        "title": "OliviaRose",
+        "instructions": "Font name, please.",
         "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1221392.png",
-        "identified_font": null
+        "identified_font": "Fleur Display"
     },
     {
         "task_id": "576111",
@@ -8677,6 +8677,14 @@
         "title": "what is the fonte",
         "instructions": null,
         "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1221388.png?1",
+        "identified_font": null
+    },
+    {
+        "task_id": "577962",
+        "url": "https://www.dafont.com/forum/read/577962/sia-charts-font-please",
+        "title": "\u0093sia charts\u0094 font, please.",
+        "instructions": null,
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1221395.jpg",
         "identified_font": null
     }
 ]
