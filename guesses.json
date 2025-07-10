@@ -15055,5 +15055,95 @@
         "candidate_font_3": "Didot",
         "candidate_font_4": "Walbaum",
         "candidate_font_5": "ATF Bodoni"
+    },
+    {
+        "task_id": "577958",
+        "model_name": "gpt-4o-mini",
+        "candidate_font_1": "Bebas Neue",
+        "candidate_font_2": "Oswald",
+        "candidate_font_3": "Impact",
+        "candidate_font_4": "Anton",
+        "candidate_font_5": "Fjalla One"
+    },
+    {
+        "task_id": "577958",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Trajan Pro Bold",
+        "candidate_font_2": "Palatino Linotype Bold",
+        "candidate_font_3": "Century Schoolbook Bold",
+        "candidate_font_4": "Georgia Bold",
+        "candidate_font_5": "Bookman Old Style Bold"
+    },
+    {
+        "task_id": "577957",
+        "model_name": "gpt-4o-mini",
+        "candidate_font_1": "Futura Bold",
+        "candidate_font_2": "Montserrat",
+        "candidate_font_3": "Helvetica Bold",
+        "candidate_font_4": "Avenir Next Bold",
+        "candidate_font_5": ""
+    },
+    {
+        "task_id": "577957",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Object Sans Heavy Italic",
+        "candidate_font_2": "GT America Standard Bold Italic",
+        "candidate_font_3": "Basis Grotesque Bold Italic",
+        "candidate_font_4": "Fira Sans Black Italic",
+        "candidate_font_5": "Graphik Black Italic"
+    },
+    {
+        "task_id": "577956",
+        "model_name": "gpt-4o-mini",
+        "candidate_font_1": "Pacifico",
+        "candidate_font_2": "Lobster",
+        "candidate_font_3": "Baloo",
+        "candidate_font_4": "Poppins",
+        "candidate_font_5": ""
+    },
+    {
+        "task_id": "577956",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Hello Sunshine",
+        "candidate_font_2": "Open Sans Bold",
+        "candidate_font_3": "Playland",
+        "candidate_font_4": "",
+        "candidate_font_5": ""
+    },
+    {
+        "task_id": "577954",
+        "model_name": "gpt-4o-mini",
+        "candidate_font_1": "Creepster",
+        "candidate_font_2": "Bloodlust",
+        "candidate_font_3": "Zombie Holocaust",
+        "candidate_font_4": "Crimson Text",
+        "candidate_font_5": "Dark Circus"
+    },
+    {
+        "task_id": "577954",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Blood Drip",
+        "candidate_font_2": "",
+        "candidate_font_3": "",
+        "candidate_font_4": "",
+        "candidate_font_5": ""
+    },
+    {
+        "task_id": "577953",
+        "model_name": "gpt-4o-mini",
+        "candidate_font_1": "Waltograph",
+        "candidate_font_2": "Mickey",
+        "candidate_font_3": "Disney Script",
+        "candidate_font_4": "Mouse Memoirs",
+        "candidate_font_5": ""
+    },
+    {
+        "task_id": "577953",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Waltograph",
+        "candidate_font_2": "LHF Disneyland Script",
+        "candidate_font_3": "Disneylands",
+        "candidate_font_4": "D Disney",
+        "candidate_font_5": "Disney Script"
     }
 ]
