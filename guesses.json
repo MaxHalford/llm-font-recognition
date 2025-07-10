@@ -15361,5 +15361,41 @@
         "candidate_font_3": "Hello Sunshine",
         "candidate_font_4": "Chocolate Heart",
         "candidate_font_5": "Lovely Heart"
+    },
+    {
+        "task_id": "577974",
+        "model_name": "gpt-4o-mini",
+        "candidate_font_1": "Bouncy",
+        "candidate_font_2": "Macklin",
+        "candidate_font_3": "BubbleGum",
+        "candidate_font_4": "Comic Sans MS",
+        "candidate_font_5": ""
+    },
+    {
+        "task_id": "577974",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Obelix Pro",
+        "candidate_font_2": "Cream Peach",
+        "candidate_font_3": "Bubbly Brown Sugar",
+        "candidate_font_4": "Bubblegum Pop",
+        "candidate_font_5": "Komica Title"
+    },
+    {
+        "task_id": "577973",
+        "model_name": "gpt-4o-mini",
+        "candidate_font_1": "Blackletter",
+        "candidate_font_2": "Gothic",
+        "candidate_font_3": "Celtic",
+        "candidate_font_4": "Medieval",
+        "candidate_font_5": ""
+    },
+    {
+        "task_id": "577973",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Blackletter Hand",
+        "candidate_font_2": "Cardinal",
+        "candidate_font_3": "Satanas",
+        "candidate_font_4": "Heavy G",
+        "candidate_font_5": "Old London"
     }
 ]
