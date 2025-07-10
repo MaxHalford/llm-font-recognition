@@ -8789,7 +8789,7 @@
         "title": "Help! What font is this?",
         "instructions": "EMERALD CITY",
         "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1221432.jpg",
-        "identified_font": null
+        "identified_font": "The Holidays"
     },
     {
         "task_id": "94706",
@@ -8812,8 +8812,8 @@
         "url": "https://www.dafont.com/forum/read/578004/ayuda-con-esta-fuente-por-favor",
         "title": "Ayuda con esta fuente por favor!",
         "instructions": "Necesito saber cual es la fuente que dice wedding. Gracias",
-        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1221469.png",
-        "identified_font": null
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1221469.png?1",
+        "identified_font": "Cinzel"
     },
     {
         "task_id": "577999",
@@ -8853,7 +8853,7 @@
         "title": "Please Help ID",
         "instructions": null,
         "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1221458.png",
-        "identified_font": null
+        "identified_font": "Baskerville"
     },
     {
         "task_id": "577993",
@@ -8885,7 +8885,7 @@
         "title": "Please Help ID",
         "instructions": null,
         "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1221454.png",
-        "identified_font": null
+        "identified_font": "Cormorant"
     },
     {
         "task_id": "577990",
@@ -8901,7 +8901,7 @@
         "title": "Help with font identification",
         "instructions": "Hey everyone, any idea what font it is? i've seen it but can't remember the name and Whats the font, Chat GPT are no help ;(",
         "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1221447.png",
-        "identified_font": null
+        "identified_font": "Aurora Condensed"
     },
     {
         "task_id": "577987",
@@ -8925,6 +8925,86 @@
         "title": "Help what font is this??",
         "instructions": null,
         "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1221440.png",
+        "identified_font": "Instrument Serif"
+    },
+    {
+        "task_id": "578021",
+        "url": "https://www.dafont.com/forum/read/578021/font-name-plis",
+        "title": "FONT NAME PLIS",
+        "instructions": null,
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1221504.png",
+        "identified_font": null
+    },
+    {
+        "task_id": "578020",
+        "url": "https://www.dafont.com/forum/read/578020/font-identification",
+        "title": "Font Identification",
+        "instructions": "Anyone recognize the font on the name?",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1221501.png",
+        "identified_font": null
+    },
+    {
+        "task_id": "578019",
+        "url": "https://www.dafont.com/forum/read/578019/font-identification",
+        "title": "Font Identification",
+        "instructions": "Anyone reconize the 2 fonts use on this logo please?",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1221500.jpg",
+        "identified_font": null
+    },
+    {
+        "task_id": "578018",
+        "url": "https://www.dafont.com/forum/read/578018/identify-this-font-and-tell-me-what-font-is-ths-pls",
+        "title": "Identify this font and tell me what font is ths PLS",
+        "instructions": null,
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1221498.jpg",
+        "identified_font": null
+    },
+    {
+        "task_id": "578017",
+        "url": "https://www.dafont.com/forum/read/578017/font-id",
+        "title": "Font ID?",
+        "instructions": "Does anyone recognize the 2 fonts in this file?",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1221497.png",
+        "identified_font": null
+    },
+    {
+        "task_id": "578016",
+        "url": "https://www.dafont.com/forum/read/578016/circulo",
+        "title": "circulo",
+        "instructions": "help please",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1221496.jpg",
+        "identified_font": null
+    },
+    {
+        "task_id": "256853",
+        "url": "https://www.dafont.com/forum/read/256853/whats-the-name-of-the-skype-font",
+        "title": "Whats the Name of the Skype Font?",
+        "instructions": null,
+        "img_url": "https://www.dafont.com/forum/attach/orig/5/8/580694.png?1",
+        "identified_font": "Helvetica Rounded"
+    },
+    {
+        "task_id": "578015",
+        "url": "https://www.dafont.com/forum/read/578015/please",
+        "title": "please!",
+        "instructions": "Hello, what is the source of \"Borba\"",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1221489.jpg",
+        "identified_font": null
+    },
+    {
+        "task_id": "578014",
+        "url": "https://www.dafont.com/forum/read/578014/looking-for-the-font-used-in-this-album-announcement-banner",
+        "title": "Looking for the font used in this album announcement banner!!",
+        "instructions": "I already know the 'pendulum' font uses 'Square 71,' looking for the font used for the rest of the text (New album out 22.8.25).",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1221488.png",
+        "identified_font": null
+    },
+    {
+        "task_id": "578012",
+        "url": "https://www.dafont.com/forum/read/578012/please-help-i-m-looking-for-this-two-fonts",
+        "title": "Please!!! Help!  I\u00b4m looking for this two fonts",
+        "instructions": "",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1221485.jpg",
         "identified_font": null
     }
 ]
