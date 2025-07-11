@@ -15928,5 +15928,77 @@
         "candidate_font_3": "",
         "candidate_font_4": "",
         "candidate_font_5": ""
+    },
+    {
+        "task_id": "578034",
+        "model_name": "gpt-4o-mini",
+        "candidate_font_1": "Cowboy Western",
+        "candidate_font_2": "Wanted",
+        "candidate_font_3": "Old West",
+        "candidate_font_4": "Rodeo",
+        "candidate_font_5": "Rustic"
+    },
+    {
+        "task_id": "578034",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Cowboys & Crooks",
+        "candidate_font_2": "Western Grit",
+        "candidate_font_3": "Wanted (Imagex)",
+        "candidate_font_4": "Fredoka One",
+        "candidate_font_5": "Luckiest Guy"
+    },
+    {
+        "task_id": "578033",
+        "model_name": "gpt-4o-mini",
+        "candidate_font_1": "Bangers",
+        "candidate_font_2": "Luckiest Guy",
+        "candidate_font_3": "Comic Sans MS",
+        "candidate_font_4": "Badaboom",
+        "candidate_font_5": ""
+    },
+    {
+        "task_id": "578033",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Comeback Home",
+        "candidate_font_2": "",
+        "candidate_font_3": "",
+        "candidate_font_4": "",
+        "candidate_font_5": ""
+    },
+    {
+        "task_id": "377914",
+        "model_name": "gpt-4o-mini",
+        "candidate_font_1": "BadaBoom",
+        "candidate_font_2": "Comic Sans MS",
+        "candidate_font_3": "Impact",
+        "candidate_font_4": "SWEET",
+        "candidate_font_5": "SpongeBob SquarePants"
+    },
+    {
+        "task_id": "377914",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "VCR OSD Mono",
+        "candidate_font_2": "Damage",
+        "candidate_font_3": "Impact",
+        "candidate_font_4": "Compacta Bold",
+        "candidate_font_5": "Freshman"
+    },
+    {
+        "task_id": "578029",
+        "model_name": "gpt-4o-mini",
+        "candidate_font_1": "Dancing Script",
+        "candidate_font_2": "Pacifico",
+        "candidate_font_3": "Lobster",
+        "candidate_font_4": "Cedarville Cursive",
+        "candidate_font_5": "Quicksand"
+    },
+    {
+        "task_id": "578029",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "The Bubblegum",
+        "candidate_font_2": "Mochiy Pop P One",
+        "candidate_font_3": "",
+        "candidate_font_4": "",
+        "candidate_font_5": ""
     }
 ]
