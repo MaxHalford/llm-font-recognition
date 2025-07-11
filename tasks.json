@@ -6140,7 +6140,7 @@
         "url": "https://www.dafont.com/forum/read/577644/zatty-farhani-font",
         "title": "Zatty Farhani Font",
         "instructions": "Tittle Font",
-        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1220612.png?1",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1220612.jpg?2",
         "identified_font": "Navada"
     },
     {
@@ -7316,7 +7316,7 @@
         "url": "https://www.dafont.com/forum/read/577803/what-font-is-this",
         "title": "what font is this?",
         "instructions": "can anyone help me with this fonts?",
-        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1220947.jpg",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1220947.png?1",
         "identified_font": null
     },
     {
@@ -7932,7 +7932,7 @@
         "url": "https://www.dafont.com/forum/read/577871/anyone-know-this-font-where-it-says-thank-you",
         "title": "Anyone know this font where it says \u0093Thank You\u0094?",
         "instructions": "This looks like a Wedding type font\u0085.",
-        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1221145.jpg",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1221145.png?1",
         "identified_font": "King Basil"
     },
     {
@@ -9125,6 +9125,46 @@
         "title": "Wammybox Records",
         "instructions": "Any ID on this font? Thanks in advance.",
         "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1221558.png",
+        "identified_font": null
+    },
+    {
+        "task_id": "578052",
+        "url": "https://www.dafont.com/forum/read/578052/help-me-pls-this-is-from-this-is-for-album-by-twice",
+        "title": "Help me pls, this is from \"THIS IS FOR\" album by TWICE",
+        "instructions": null,
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1221583.jpg",
+        "identified_font": null
+    },
+    {
+        "task_id": "578051",
+        "url": "https://www.dafont.com/forum/read/578051/no-internet-connection",
+        "title": "NO INTERNET CONNECTION",
+        "instructions": null,
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1221582.png",
+        "identified_font": null
+    },
+    {
+        "task_id": "578050",
+        "url": "https://www.dafont.com/forum/read/578050/happy-birthday",
+        "title": "Happy Birthday",
+        "instructions": null,
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1221580.png",
+        "identified_font": null
+    },
+    {
+        "task_id": "578049",
+        "url": "https://www.dafont.com/forum/read/578049/good-girl",
+        "title": "GOOD GIRL",
+        "instructions": null,
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1221579.jpg?1",
+        "identified_font": null
+    },
+    {
+        "task_id": "62724",
+        "url": "https://www.dafont.com/forum/read/62724/tuesday-night-tutoring",
+        "title": "Tuesday Night Tutoring",
+        "instructions": null,
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/5/150597.png",
         "identified_font": null
     }
 ]
