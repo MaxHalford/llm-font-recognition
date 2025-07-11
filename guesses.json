@@ -16000,5 +16000,41 @@
         "candidate_font_3": "",
         "candidate_font_4": "",
         "candidate_font_5": ""
+    },
+    {
+        "task_id": "578037",
+        "model_name": "gpt-4o-mini",
+        "candidate_font_1": "Dancing Script",
+        "candidate_font_2": "Pacifico",
+        "candidate_font_3": "Great Vibes",
+        "candidate_font_4": "Quicksand",
+        "candidate_font_5": ""
+    },
+    {
+        "task_id": "578037",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "The Braggest Script",
+        "candidate_font_2": "Gobold Block Bold",
+        "candidate_font_3": "Bebas Neue",
+        "candidate_font_4": "Source Serif 4 Regular",
+        "candidate_font_5": ""
+    },
+    {
+        "task_id": "578036",
+        "model_name": "gpt-4o-mini",
+        "candidate_font_1": "Bubblegum Sans",
+        "candidate_font_2": "Candy Script",
+        "candidate_font_3": "Kawaii Alphabet",
+        "candidate_font_4": "Bubbly",
+        "candidate_font_5": "Sweetheart"
+    },
+    {
+        "task_id": "578036",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Puffy",
+        "candidate_font_2": "Bubblegum Sans",
+        "candidate_font_3": "Pangolin",
+        "candidate_font_4": "Baloo Bhai 2",
+        "candidate_font_5": "Fredoka One"
     }
 ]
