@@ -6131,17 +6131,17 @@
         "task_id": "577645",
         "url": "https://www.dafont.com/forum/read/577645/jaeguchi-font",
         "title": "Jaeguchi font",
-        "instructions": "Tittle Font",
+        "instructions": "Title Font",
         "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1220613.jpg",
-        "identified_font": null
+        "identified_font": "New Gothic Textura"
     },
     {
         "task_id": "577644",
         "url": "https://www.dafont.com/forum/read/577644/zatty-farhani-font",
         "title": "Zatty Farhani Font",
         "instructions": "Tittle Font",
-        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1220612.jpg",
-        "identified_font": null
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1220612.png?1",
+        "identified_font": "Navada"
     },
     {
         "task_id": "577643",
@@ -6715,9 +6715,9 @@
         "task_id": "577701",
         "url": "https://www.dafont.com/forum/read/577701/font-by-shadowbyyoongi",
         "title": "FONT BY SHADOWBYYOONGI",
-        "instructions": "Tittle Font",
-        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1220744.jpg",
-        "identified_font": null
+        "instructions": "Title Font",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1220744.jpg?1",
+        "identified_font": "VTC Angora Chik"
     },
     {
         "task_id": "577700",
@@ -6733,7 +6733,7 @@
         "title": "FONT BY SHADOWBYYOONGI",
         "instructions": "Tittle Font",
         "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1220742.jpg",
-        "identified_font": null
+        "identified_font": "Built Titling"
     },
     {
         "task_id": "577698",
@@ -7077,7 +7077,7 @@
         "title": "Katrina Stuart - Logo Font Identification",
         "instructions": "please identify both fonts",
         "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1220881.png",
-        "identified_font": null
+        "identified_font": "Delicate"
     },
     {
         "task_id": "577766",
@@ -8669,7 +8669,7 @@
         "title": "What font it is?, please, thanks",
         "instructions": null,
         "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1221389.jpg",
-        "identified_font": null
+        "identified_font": "Champ Black"
     },
     {
         "task_id": "577959",
@@ -9094,5 +9094,37 @@
         "instructions": null,
         "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1221545.png",
         "identified_font": "Athene Voyage"
+    },
+    {
+        "task_id": "578041",
+        "url": "https://www.dafont.com/forum/read/578041/font-name-please",
+        "title": "Font name please!?",
+        "instructions": null,
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1221566.png?1",
+        "identified_font": null
+    },
+    {
+        "task_id": "578038",
+        "url": "https://www.dafont.com/forum/read/578038/lyrics",
+        "title": "lyrics",
+        "instructions": null,
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1221556.png?1",
+        "identified_font": "Sunrays"
+    },
+    {
+        "task_id": "578040",
+        "url": "https://www.dafont.com/forum/read/578040/what-font-is-this",
+        "title": "what font is this?",
+        "instructions": "please, what font is this?",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1221559.png?1",
+        "identified_font": "Genty"
+    },
+    {
+        "task_id": "578039",
+        "url": "https://www.dafont.com/forum/read/578039/wammybox-records",
+        "title": "Wammybox Records",
+        "instructions": "Any ID on this font? Thanks in advance.",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1221558.png",
+        "identified_font": null
     }
 ]
