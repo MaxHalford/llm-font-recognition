@@ -17620,5 +17620,77 @@
         "candidate_font_3": "Bodoni",
         "candidate_font_4": "Playfair Display",
         "candidate_font_5": "Adobe Didot"
+    },
+    {
+        "task_id": "578167",
+        "model_name": "gpt-4o-mini",
+        "candidate_font_1": "Bebas Neue",
+        "candidate_font_2": "Impact",
+        "candidate_font_3": "Anton",
+        "candidate_font_4": "Oswald",
+        "candidate_font_5": ""
+    },
+    {
+        "task_id": "578167",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Vitesse Black Condensed",
+        "candidate_font_2": "Bebas Neue",
+        "candidate_font_3": "SF Collegiate Solid",
+        "candidate_font_4": "College Slab",
+        "candidate_font_5": "Antonio"
+    },
+    {
+        "task_id": "578166",
+        "model_name": "gpt-4o-mini",
+        "candidate_font_1": "Bebas Neue",
+        "candidate_font_2": "Oswald",
+        "candidate_font_3": "Montserrat",
+        "candidate_font_4": "Anton",
+        "candidate_font_5": ""
+    },
+    {
+        "task_id": "578166",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Formular Condensed Black",
+        "candidate_font_2": "Gobold Block",
+        "candidate_font_3": "Compacta Bold",
+        "candidate_font_4": "Oswald Regular",
+        "candidate_font_5": "Roboto Condensed Regular"
+    },
+    {
+        "task_id": "578163",
+        "model_name": "gpt-4o-mini",
+        "candidate_font_1": "Bubblegum Sans",
+        "candidate_font_2": "Baloo",
+        "candidate_font_3": "Kawaii",
+        "candidate_font_4": "Poppins",
+        "candidate_font_5": "Arial Rounded MT Bold"
+    },
+    {
+        "task_id": "578163",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Motoya L Cedar (Rounded)",
+        "candidate_font_2": "VAG Rounded Bold",
+        "candidate_font_3": "Fredoka One",
+        "candidate_font_4": "UD Maru Go Bold",
+        "candidate_font_5": "Noto Sans CJK JP Round Bold"
+    },
+    {
+        "task_id": "578158",
+        "model_name": "gpt-4o-mini",
+        "candidate_font_1": "BubbleGum",
+        "candidate_font_2": "Comic Sans MS",
+        "candidate_font_3": "Marker Felt",
+        "candidate_font_4": "Baloo",
+        "candidate_font_5": "Chalkboard SE"
+    },
+    {
+        "task_id": "578158",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Fredoka One",
+        "candidate_font_2": "Comfortaa",
+        "candidate_font_3": "Quicksand",
+        "candidate_font_4": "Varela Round",
+        "candidate_font_5": "Chewy"
     }
 ]
