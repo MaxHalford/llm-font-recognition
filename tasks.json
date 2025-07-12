@@ -9773,7 +9773,7 @@
         "title": "font name pls",
         "instructions": null,
         "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1221776.png",
-        "identified_font": null
+        "identified_font": "Marvin Round"
     },
     {
         "task_id": "576697",
@@ -9877,6 +9877,54 @@
         "title": "welche font ist das ?",
         "instructions": null,
         "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1221800.png",
+        "identified_font": "Arrow"
+    },
+    {
+        "task_id": "578165",
+        "url": "https://www.dafont.com/forum/read/578165/font-help-please",
+        "title": "Font help please",
+        "instructions": null,
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1221833.png",
+        "identified_font": "Aurora"
+    },
+    {
+        "task_id": "578167",
+        "url": "https://www.dafont.com/forum/read/578167/font-identification",
+        "title": "Font identification",
+        "instructions": "Please help me identify this font",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1221835.jpg",
+        "identified_font": null
+    },
+    {
+        "task_id": "578166",
+        "url": "https://www.dafont.com/forum/read/578166/help-me-please",
+        "title": "Help me, please",
+        "instructions": "Can you help me identify this font?",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1221834.jpg",
+        "identified_font": null
+    },
+    {
+        "task_id": "578163",
+        "url": "https://www.dafont.com/forum/read/578163/bang-dream-girls-band-party-judgement-font",
+        "title": "BanG Dream! Girls Band Party! judgement font",
+        "instructions": null,
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1221828.png",
+        "identified_font": null
+    },
+    {
+        "task_id": "578160",
+        "url": "https://www.dafont.com/forum/read/578160/tipografia",
+        "title": "tipografia",
+        "instructions": "buenas alguien sabe que tipogria es esta del titulo del mayor de las ranas?",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1221821.jpg",
+        "identified_font": "Graffiti City"
+    },
+    {
+        "task_id": "578158",
+        "url": "https://www.dafont.com/forum/read/578158/mattnexus-channel-font",
+        "title": "MattNexus Channel Font",
+        "instructions": "DaisyHiley555",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1221819.png",
         "identified_font": null
     }
 ]
