@@ -9846,5 +9846,37 @@
         "instructions": "Does anyone know what fonts were used for the Marvel Studios Fantastic Four text and logo or any similar fonts",
         "img_url": "https://www.dafont.com/forum/attach/orig/1/1/1175413.png?1",
         "identified_font": null
+    },
+    {
+        "task_id": "578156",
+        "url": "https://www.dafont.com/forum/read/578156/rio",
+        "title": "RIO",
+        "instructions": "C\u00f3mo se llama la tipograf\u00eda de r\u00edo",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1221815.jpg",
+        "identified_font": null
+    },
+    {
+        "task_id": "326174",
+        "url": "https://www.dafont.com/forum/read/326174/boboiboy-font",
+        "title": "Boboiboy Font",
+        "instructions": null,
+        "img_url": "https://www.dafont.com/forum/attach/orig/7/1/716835.png",
+        "identified_font": null
+    },
+    {
+        "task_id": "244686",
+        "url": "https://www.dafont.com/forum/read/244686/font-plz",
+        "title": "font plz?",
+        "instructions": null,
+        "img_url": "https://www.dafont.com/forum/attach/orig/5/5/554569.png?1",
+        "identified_font": null
+    },
+    {
+        "task_id": "578155",
+        "url": "https://www.dafont.com/forum/read/578155/welche-font-ist-das",
+        "title": "welche font ist das ?",
+        "instructions": null,
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1221800.png",
+        "identified_font": null
     }
 ]
