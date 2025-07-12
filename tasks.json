@@ -9790,5 +9790,29 @@
         "instructions": null,
         "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1221765.jpg",
         "identified_font": null
+    },
+    {
+        "task_id": "578151",
+        "url": "https://www.dafont.com/forum/read/578151/what-font-name",
+        "title": "What font name",
+        "instructions": "Font name help.",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1221783.jpg",
+        "identified_font": null
+    },
+    {
+        "task_id": "578150",
+        "url": "https://www.dafont.com/forum/read/578150/bichhoo-c-font-name",
+        "title": "BICHHOO & \"C\" font name?",
+        "instructions": null,
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1221779.jpg",
+        "identified_font": null
+    },
+    {
+        "task_id": "576625",
+        "url": "https://www.dafont.com/forum/read/576625/identificacion-de-fuente",
+        "title": "Identificaci\u00f3n de fuente",
+        "instructions": null,
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1218328.png",
+        "identified_font": null
     }
 ]
