@@ -4908,7 +4908,7 @@
         "url": "https://www.dafont.com/forum/read/577474/album-release",
         "title": "Album Release",
         "instructions": null,
-        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1220237.png",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1220237.png?1",
         "identified_font": null
     },
     {
@@ -9525,7 +9525,7 @@
         "title": "Font names pls :)",
         "instructions": "\"NEW\" and \"discoveries\"",
         "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1221672.png",
-        "identified_font": null
+        "identified_font": "Black Script"
     },
     {
         "task_id": "578102",
@@ -9629,7 +9629,7 @@
         "title": "Help to find the source",
         "instructions": "I don\u00b4t remember what type of font I used.",
         "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1221730.png",
-        "identified_font": null
+        "identified_font": "Andaray"
     },
     {
         "task_id": "578128",
@@ -9721,10 +9721,42 @@
     },
     {
         "task_id": "578135",
-        "url": "https://www.dafont.com/forum/read/578135/font-for-the-lyric-video-of-soda-pop-from-kpop-demon-hunters",
-        "title": "Font for the Lyric Video of 'Soda Pop' from Kpop Demon Hunters",
+        "url": "https://www.dafont.com/forum/read/578135/soda-pop-from-kpop-demon-hunters",
+        "title": "'Soda Pop' from Kpop Demon Hunters",
         "instructions": "What font do they use for the official lyric video of Soda Pop by Saja Boys posted by Netflix on Youtube",
-        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1221738.png",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1221738.jpg?1",
+        "identified_font": "Modak"
+    },
+    {
+        "task_id": "578144",
+        "url": "https://www.dafont.com/forum/read/578144/crossroads-font",
+        "title": "\"Crossroads\" font?",
+        "instructions": null,
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1221759.jpg",
+        "identified_font": null
+    },
+    {
+        "task_id": "578141",
+        "url": "https://www.dafont.com/forum/read/578141/font-name-pls",
+        "title": "font name pls",
+        "instructions": "font name pls",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1221753.jpg",
+        "identified_font": "Billa Mount"
+    },
+    {
+        "task_id": "578142",
+        "url": "https://www.dafont.com/forum/read/578142/need-help-finding-this-font",
+        "title": "Need help finding this font!",
+        "instructions": "Can anyone tell me what is this font im having a hard time lol",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1221755.png",
+        "identified_font": null
+    },
+    {
+        "task_id": "578140",
+        "url": "https://www.dafont.com/forum/read/578140/hi-anyone-know-this-title-font-for-eagle-brothers-thank-you",
+        "title": "Hi, anyone know this title font \"FOR EAGLE BROTHERS\"? Thank you",
+        "instructions": null,
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1221750.jpg",
         "identified_font": null
     }
 ]
