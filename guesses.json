@@ -17368,5 +17368,77 @@
         "candidate_font_3": "Proxima Nova",
         "candidate_font_4": "Gotham",
         "candidate_font_5": "Montserrat"
+    },
+    {
+        "task_id": "578149",
+        "model_name": "gpt-4o-mini",
+        "candidate_font_1": "Block Letters",
+        "candidate_font_2": "Geometric Sans",
+        "candidate_font_3": "Retro Display",
+        "candidate_font_4": "Outline Font",
+        "candidate_font_5": ""
+    },
+    {
+        "task_id": "578149",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Broadway",
+        "candidate_font_2": "Rockwell Extra Bold",
+        "candidate_font_3": "Memphis",
+        "candidate_font_4": "Varsity Block",
+        "candidate_font_5": "Big Top"
+    },
+    {
+        "task_id": "578148",
+        "model_name": "gpt-4o-mini",
+        "candidate_font_1": "Bubblegum Sans",
+        "candidate_font_2": "Baloo",
+        "candidate_font_3": "Comic Sans MS",
+        "candidate_font_4": "Pusab",
+        "candidate_font_5": "Sniglet"
+    },
+    {
+        "task_id": "578148",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Fredoka One",
+        "candidate_font_2": "Chewy",
+        "candidate_font_3": "Baloo 2",
+        "candidate_font_4": "Bubblegum Sans",
+        "candidate_font_5": "VAG Rounded"
+    },
+    {
+        "task_id": "576697",
+        "model_name": "gpt-4o-mini",
+        "candidate_font_1": "Montserrat",
+        "candidate_font_2": "Raleway",
+        "candidate_font_3": "Roboto",
+        "candidate_font_4": "Open Sans",
+        "candidate_font_5": "Lato"
+    },
+    {
+        "task_id": "576697",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Nexa Bold",
+        "candidate_font_2": "Montserrat Light Italic",
+        "candidate_font_3": "",
+        "candidate_font_4": "",
+        "candidate_font_5": ""
+    },
+    {
+        "task_id": "578147",
+        "model_name": "gpt-4o-mini",
+        "candidate_font_1": "Bebas Neue",
+        "candidate_font_2": "Impact",
+        "candidate_font_3": "Oswald",
+        "candidate_font_4": "Anton",
+        "candidate_font_5": ""
+    },
+    {
+        "task_id": "578147",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Rogue Hero Slant Alt Stripes",
+        "candidate_font_2": "Rogue Hero Slant",
+        "candidate_font_3": "Accelerate",
+        "candidate_font_4": "Velocity",
+        "candidate_font_5": "Blacklisted"
     }
 ]
