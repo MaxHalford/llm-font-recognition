@@ -17548,5 +17548,77 @@
         "candidate_font_3": "Montserrat Black Italic",
         "candidate_font_4": "Bebas Neue Pro Bold Italic",
         "candidate_font_5": "Univers 83 Extended ExtraBlack Oblique"
+    },
+    {
+        "task_id": "578156",
+        "model_name": "gpt-4o-mini",
+        "candidate_font_1": "Brush Script",
+        "candidate_font_2": "Pacifico",
+        "candidate_font_3": "Lobster",
+        "candidate_font_4": "Dancing Script",
+        "candidate_font_5": "Great Vibes"
+    },
+    {
+        "task_id": "578156",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Streetwear",
+        "candidate_font_2": "Great Vibes",
+        "candidate_font_3": "Brannboll FS",
+        "candidate_font_4": "Lobster",
+        "candidate_font_5": "Allura"
+    },
+    {
+        "task_id": "326174",
+        "model_name": "gpt-4o-mini",
+        "candidate_font_1": "Boboiboy Bold",
+        "candidate_font_2": "Comic Sans MS",
+        "candidate_font_3": "Impact",
+        "candidate_font_4": "Marker Felt",
+        "candidate_font_5": "Funky Fonts"
+    },
+    {
+        "task_id": "326174",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Komika Axis",
+        "candidate_font_2": "Luckiest Guy",
+        "candidate_font_3": "Bubblegum Sans",
+        "candidate_font_4": "Chewy",
+        "candidate_font_5": "Porky's"
+    },
+    {
+        "task_id": "244686",
+        "model_name": "gpt-4o-mini",
+        "candidate_font_1": "Bebas Neue",
+        "candidate_font_2": "Futura",
+        "candidate_font_3": "Montserrat",
+        "candidate_font_4": "Raleway",
+        "candidate_font_5": ""
+    },
+    {
+        "task_id": "244686",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Lineat",
+        "candidate_font_2": "Geometric Hurdle",
+        "candidate_font_3": "Ponsi Display",
+        "candidate_font_4": "Rostov",
+        "candidate_font_5": "Modulus"
+    },
+    {
+        "task_id": "578155",
+        "model_name": "gpt-4o-mini",
+        "candidate_font_1": "Playfair Display",
+        "candidate_font_2": "Merriweather",
+        "candidate_font_3": "Libre Baskerville",
+        "candidate_font_4": "Crimson Pro",
+        "candidate_font_5": ""
+    },
+    {
+        "task_id": "578155",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Didot",
+        "candidate_font_2": "Linotype Didot",
+        "candidate_font_3": "Bodoni",
+        "candidate_font_4": "Playfair Display",
+        "candidate_font_5": "Adobe Didot"
     }
 ]
