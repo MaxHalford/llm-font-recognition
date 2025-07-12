@@ -17314,5 +17314,59 @@
         "candidate_font_3": "Burbank Big",
         "candidate_font_4": "Komika Axis",
         "candidate_font_5": "Komika Display"
+    },
+    {
+        "task_id": "578144",
+        "model_name": "gpt-4o-mini",
+        "candidate_font_1": "Brush Script MT",
+        "candidate_font_2": "Wild Youth",
+        "candidate_font_3": "Chalkboard SE",
+        "candidate_font_4": "Pacifico",
+        "candidate_font_5": "Cypress Script"
+    },
+    {
+        "task_id": "578144",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Road Rage",
+        "candidate_font_2": "Blacktop",
+        "candidate_font_3": "Dirty & Classic",
+        "candidate_font_4": "Wasted Youth",
+        "candidate_font_5": "Brush King"
+    },
+    {
+        "task_id": "578142",
+        "model_name": "gpt-4o-mini",
+        "candidate_font_1": "Neon Lights",
+        "candidate_font_2": "Blade Runner",
+        "candidate_font_3": "SF UI Display",
+        "candidate_font_4": "Bebas Neue",
+        "candidate_font_5": "Roboto Condensed"
+    },
+    {
+        "task_id": "578142",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Uni Sans Heavy",
+        "candidate_font_2": "Gobold Bold",
+        "candidate_font_3": "Riffic Bold",
+        "candidate_font_4": "Bebas Neue Rounded",
+        "candidate_font_5": "Mont Heavy"
+    },
+    {
+        "task_id": "578140",
+        "model_name": "gpt-4o-mini",
+        "candidate_font_1": "Bebas Neue",
+        "candidate_font_2": "Anton",
+        "candidate_font_3": "Oswald",
+        "candidate_font_4": "Impact",
+        "candidate_font_5": ""
+    },
+    {
+        "task_id": "578140",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Brandon Grotesque",
+        "candidate_font_2": "Sofia Pro",
+        "candidate_font_3": "Proxima Nova",
+        "candidate_font_4": "Gotham",
+        "candidate_font_5": "Montserrat"
     }
 ]
