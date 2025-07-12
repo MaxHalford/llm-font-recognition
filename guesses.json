@@ -17494,5 +17494,59 @@
         "candidate_font_3": "Roboto",
         "candidate_font_4": "Lato",
         "candidate_font_5": "Open Sans"
+    },
+    {
+        "task_id": "578153",
+        "model_name": "gpt-4o-mini",
+        "candidate_font_1": "Didone",
+        "candidate_font_2": "Bodoni",
+        "candidate_font_3": "Playfair Display",
+        "candidate_font_4": "Cinzel",
+        "candidate_font_5": "Libre Baskerville"
+    },
+    {
+        "task_id": "578153",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Cochin Sans",
+        "candidate_font_2": "Optima Nova",
+        "candidate_font_3": "Brandon Grotesque Light",
+        "candidate_font_4": "Avenir Light",
+        "candidate_font_5": "Gotham Light"
+    },
+    {
+        "task_id": "578152",
+        "model_name": "gpt-4o-mini",
+        "candidate_font_1": "Bebas Neue",
+        "candidate_font_2": "Anton",
+        "candidate_font_3": "Impact",
+        "candidate_font_4": "Oswald",
+        "candidate_font_5": "DIN Condensed"
+    },
+    {
+        "task_id": "578152",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Road Rage",
+        "candidate_font_2": "Defeat Typeface",
+        "candidate_font_3": "Knucklehead",
+        "candidate_font_4": "Victory Typeface",
+        "candidate_font_5": "Rustico"
+    },
+    {
+        "task_id": "555780",
+        "model_name": "gpt-4o-mini",
+        "candidate_font_1": "Sonic Avenue",
+        "candidate_font_2": "Neon Lights",
+        "candidate_font_3": "Bebas Neue",
+        "candidate_font_4": "Futura",
+        "candidate_font_5": "Lobster"
+    },
+    {
+        "task_id": "555780",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "ITC Avant Garde Gothic Extra Bold Oblique",
+        "candidate_font_2": "Gotham Black Italic",
+        "candidate_font_3": "Montserrat Black Italic",
+        "candidate_font_4": "Bebas Neue Pro Bold Italic",
+        "candidate_font_5": "Univers 83 Extended ExtraBlack Oblique"
     }
 ]
