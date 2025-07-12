@@ -17242,5 +17242,77 @@
         "candidate_font_3": "Blood Lust",
         "candidate_font_4": "Insanity",
         "candidate_font_5": "Bloodsuckers"
+    },
+    {
+        "task_id": "578139",
+        "model_name": "gpt-4o-mini",
+        "candidate_font_1": "Bodoni",
+        "candidate_font_2": "Didot",
+        "candidate_font_3": "Playfair Display",
+        "candidate_font_4": "Garamond",
+        "candidate_font_5": "Almendra"
+    },
+    {
+        "task_id": "578139",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Didot",
+        "candidate_font_2": "Bodoni",
+        "candidate_font_3": "Butler",
+        "candidate_font_4": "Playfair Display",
+        "candidate_font_5": "ITC Bodoni"
+    },
+    {
+        "task_id": "578136",
+        "model_name": "gpt-4o-mini",
+        "candidate_font_1": "Dancing Script",
+        "candidate_font_2": "Sacramento",
+        "candidate_font_3": "Lobster Two",
+        "candidate_font_4": "Playfair Display",
+        "candidate_font_5": "Great Vibes"
+    },
+    {
+        "task_id": "578136",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Beauty and the Beast",
+        "candidate_font_2": "Bromello",
+        "candidate_font_3": "Magnolia Sky",
+        "candidate_font_4": "Playlist Script",
+        "candidate_font_5": "Lemon Tuesday"
+    },
+    {
+        "task_id": "578138",
+        "model_name": "gpt-4o-mini",
+        "candidate_font_1": "Great Vibes",
+        "candidate_font_2": "Allura",
+        "candidate_font_3": "Dancing Script",
+        "candidate_font_4": "Alex Brush",
+        "candidate_font_5": "Sacramento"
+    },
+    {
+        "task_id": "578138",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Better Together",
+        "candidate_font_2": "Amsterdam Signature",
+        "candidate_font_3": "White Garden",
+        "candidate_font_4": "Adora Bouton",
+        "candidate_font_5": "Hello Honey"
+    },
+    {
+        "task_id": "578135",
+        "model_name": "gpt-4o-mini",
+        "candidate_font_1": "BubbleGum",
+        "candidate_font_2": "Pinky Promise",
+        "candidate_font_3": "Comic Sans MS",
+        "candidate_font_4": "Baloo",
+        "candidate_font_5": "Fredoka One"
+    },
+    {
+        "task_id": "578135",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Bubblegum Sans",
+        "candidate_font_2": "Grobold",
+        "candidate_font_3": "Burbank Big",
+        "candidate_font_4": "Komika Axis",
+        "candidate_font_5": "Komika Display"
     }
 ]
