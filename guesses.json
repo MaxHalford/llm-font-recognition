@@ -17926,5 +17926,41 @@
         "candidate_font_3": "",
         "candidate_font_4": "",
         "candidate_font_5": ""
+    },
+    {
+        "task_id": "578185",
+        "model_name": "gpt-4o-mini",
+        "candidate_font_1": "Streetbrush",
+        "candidate_font_2": "Graffiti One",
+        "candidate_font_3": "Wildstyle",
+        "candidate_font_4": "Fat Cap",
+        "candidate_font_5": "Rebellion"
+    },
+    {
+        "task_id": "578185",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Tag Type",
+        "candidate_font_2": "Vandalism",
+        "candidate_font_3": "Whoa! It's A Tag!",
+        "candidate_font_4": "Throwup",
+        "candidate_font_5": "Street Brush"
+    },
+    {
+        "task_id": "578184",
+        "model_name": "gpt-4o-mini",
+        "candidate_font_1": "Bodoni",
+        "candidate_font_2": "Didot",
+        "candidate_font_3": "Garamond",
+        "candidate_font_4": "Aprime",
+        "candidate_font_5": ""
+    },
+    {
+        "task_id": "578184",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Stranger Back Home",
+        "candidate_font_2": "Road Radio Rough",
+        "candidate_font_3": "College Condensed",
+        "candidate_font_4": "Bignord",
+        "candidate_font_5": "Vintage Distress"
     }
 ]
