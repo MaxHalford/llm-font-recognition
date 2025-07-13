@@ -10037,7 +10037,7 @@
         "title": "SABRINA CARPENTER FONT:",
         "instructions": null,
         "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1221874.png",
-        "identified_font": null
+        "identified_font": "Nugia Vintage"
     },
     {
         "task_id": "576558",
@@ -10054,5 +10054,21 @@
         "instructions": null,
         "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1221869.jpg",
         "identified_font": null
+    },
+    {
+        "task_id": "578182",
+        "url": "https://www.dafont.com/forum/read/578182/trending-handwritten-font",
+        "title": "trending handwritten font",
+        "instructions": null,
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1221879.png",
+        "identified_font": "Biro Script"
+    },
+    {
+        "task_id": "578183",
+        "url": "https://www.dafont.com/forum/read/578183/untungnya-untungnya",
+        "title": "\"untungnya untungnya\"",
+        "instructions": "need the name of the font in the middle",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1221880.png",
+        "identified_font": "Miss Fajardose"
     }
 ]
