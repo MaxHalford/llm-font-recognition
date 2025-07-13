@@ -17818,5 +17818,41 @@
         "candidate_font_3": "Newgate Display",
         "candidate_font_4": "Playfair Display",
         "candidate_font_5": "Great Vibes"
+    },
+    {
+        "task_id": "578178",
+        "model_name": "gpt-4o-mini",
+        "candidate_font_1": "Bebas Neue",
+        "candidate_font_2": "Impact",
+        "candidate_font_3": "Anton",
+        "candidate_font_4": "Oswald",
+        "candidate_font_5": ""
+    },
+    {
+        "task_id": "578178",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Anton",
+        "candidate_font_2": "Saira Black",
+        "candidate_font_3": "League Gothic",
+        "candidate_font_4": "Oswald ExtraBold",
+        "candidate_font_5": "Bebas Neue"
+    },
+    {
+        "task_id": "280071",
+        "model_name": "gpt-4o-mini",
+        "candidate_font_1": "Bebas Neue",
+        "candidate_font_2": "Impact",
+        "candidate_font_3": "Comic Sans MS",
+        "candidate_font_4": "Luckiest Guy",
+        "candidate_font_5": ""
+    },
+    {
+        "task_id": "280071",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Porky's",
+        "candidate_font_2": "Evil Empire",
+        "candidate_font_3": "Disturbed",
+        "candidate_font_4": "",
+        "candidate_font_5": ""
     }
 ]
