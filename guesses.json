@@ -18052,5 +18052,131 @@
         "candidate_font_3": "Oxanium ExtraBold Italic",
         "candidate_font_4": "Montserrat Black Italic",
         "candidate_font_5": "Industry Black Italic"
+    },
+    {
+        "task_id": "578197",
+        "model_name": "gpt-4o-mini",
+        "candidate_font_1": "Brush Script",
+        "candidate_font_2": "Lobster",
+        "candidate_font_3": "Pacifico",
+        "candidate_font_4": "Viga",
+        "candidate_font_5": "Grand Hotel"
+    },
+    {
+        "task_id": "578197",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Another Danger",
+        "candidate_font_2": "Blackhawk Script",
+        "candidate_font_3": "Brush King",
+        "candidate_font_4": "Reis",
+        "candidate_font_5": "Stay Grumpy"
+    },
+    {
+        "task_id": "578196",
+        "model_name": "gpt-4o-mini",
+        "candidate_font_1": "Bebas Neue",
+        "candidate_font_2": "Impact",
+        "candidate_font_3": "Stencil",
+        "candidate_font_4": "Eurostile",
+        "candidate_font_5": "Heavy Metal"
+    },
+    {
+        "task_id": "578196",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Destroy",
+        "candidate_font_2": "Blood Blocks",
+        "candidate_font_3": "Dirty Headline",
+        "candidate_font_4": "Capture It",
+        "candidate_font_5": "Grunger"
+    },
+    {
+        "task_id": "578195",
+        "model_name": "gpt-4o-mini",
+        "candidate_font_1": "Blackletter",
+        "candidate_font_2": "Gothic",
+        "candidate_font_3": "Fraktur",
+        "candidate_font_4": "Old English",
+        "candidate_font_5": "Cloister Black"
+    },
+    {
+        "task_id": "578195",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Kingthings Gothics",
+        "candidate_font_2": "Old London",
+        "candidate_font_3": "Anglican Text",
+        "candidate_font_4": "Blackmoor",
+        "candidate_font_5": "Gothic Ultra"
+    },
+    {
+        "task_id": "578194",
+        "model_name": "gpt-4o-mini",
+        "candidate_font_1": "Bucket of Blood",
+        "candidate_font_2": "Creepster",
+        "candidate_font_3": "Zombie",
+        "candidate_font_4": "Horror",
+        "candidate_font_5": "Dracula"
+    },
+    {
+        "task_id": "578194",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Annihilator",
+        "candidate_font_2": "",
+        "candidate_font_3": "",
+        "candidate_font_4": "",
+        "candidate_font_5": ""
+    },
+    {
+        "task_id": "578193",
+        "model_name": "gpt-4o-mini",
+        "candidate_font_1": "Lobster",
+        "candidate_font_2": "Great Vibes",
+        "candidate_font_3": "Pacifico",
+        "candidate_font_4": "Sacramento",
+        "candidate_font_5": "Allura"
+    },
+    {
+        "task_id": "578193",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Playbill",
+        "candidate_font_2": "St. Bernard Roman Bold",
+        "candidate_font_3": "Windsor Bold",
+        "candidate_font_4": "CollegiateFLF",
+        "candidate_font_5": "Aachen Bold"
+    },
+    {
+        "task_id": "233965",
+        "model_name": "gpt-4o-mini",
+        "candidate_font_1": "Product Sans",
+        "candidate_font_2": "Google Logo",
+        "candidate_font_3": "Sans Serif",
+        "candidate_font_4": "Roboto",
+        "candidate_font_5": ""
+    },
+    {
+        "task_id": "233965",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Product Sans",
+        "candidate_font_2": "Google Sans",
+        "candidate_font_3": "Montserrat",
+        "candidate_font_4": "Futura",
+        "candidate_font_5": "Gotham"
+    },
+    {
+        "task_id": "578192",
+        "model_name": "gpt-4o-mini",
+        "candidate_font_1": "Bubblegum Sans",
+        "candidate_font_2": "Comic Sans MS",
+        "candidate_font_3": "Becky",
+        "candidate_font_4": "Funky Font",
+        "candidate_font_5": ""
+    },
+    {
+        "task_id": "578192",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Porky's",
+        "candidate_font_2": "Bubblegum Sans",
+        "candidate_font_3": "Burbank Big Condensed Bold",
+        "candidate_font_4": "Balloon Extra Bold",
+        "candidate_font_5": "KGLifeIsGood"
     }
 ]
