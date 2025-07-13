@@ -10070,5 +10070,21 @@
         "instructions": "need the name of the font in the middle",
         "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1221880.png",
         "identified_font": "Miss Fajardose"
+    },
+    {
+        "task_id": "578185",
+        "url": "https://www.dafont.com/forum/read/578185/font-name-pls",
+        "title": "Font name pls :)",
+        "instructions": null,
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1221884.jpg",
+        "identified_font": null
+    },
+    {
+        "task_id": "578184",
+        "url": "https://www.dafont.com/forum/read/578184/stranger-bcole",
+        "title": "Stranger bCole",
+        "instructions": "do u know this fint?",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1221883.png",
+        "identified_font": null
     }
 ]
