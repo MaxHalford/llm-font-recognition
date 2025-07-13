@@ -17854,5 +17854,77 @@
         "candidate_font_3": "Disturbed",
         "candidate_font_4": "",
         "candidate_font_5": ""
+    },
+    {
+        "task_id": "578180",
+        "model_name": "gpt-4o-mini",
+        "candidate_font_1": "Lobster",
+        "candidate_font_2": "Pacifico",
+        "candidate_font_3": "Bebas Neue",
+        "candidate_font_4": "Raleway",
+        "candidate_font_5": "Montserrat"
+    },
+    {
+        "task_id": "578180",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Grotley Display",
+        "candidate_font_2": "Bebas Neue",
+        "candidate_font_3": "Montserrat",
+        "candidate_font_4": "Inter",
+        "candidate_font_5": "Maison Neue"
+    },
+    {
+        "task_id": "578181",
+        "model_name": "gpt-4o-mini",
+        "candidate_font_1": "Bodoni",
+        "candidate_font_2": "Didot",
+        "candidate_font_3": "Rockwell",
+        "candidate_font_4": "Playfair Display",
+        "candidate_font_5": ""
+    },
+    {
+        "task_id": "578181",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "ITC Caslon 224 Book Italic",
+        "candidate_font_2": "Adobe Caslon Italic",
+        "candidate_font_3": "Big Caslon Italic",
+        "candidate_font_4": "LTC Caslon Italic",
+        "candidate_font_5": "Caslon Old Face Italic"
+    },
+    {
+        "task_id": "576558",
+        "model_name": "gpt-4o-mini",
+        "candidate_font_1": "Sacramento",
+        "candidate_font_2": "Dancing Script",
+        "candidate_font_3": "Great Vibes",
+        "candidate_font_4": "Lobster",
+        "candidate_font_5": ""
+    },
+    {
+        "task_id": "576558",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Delius",
+        "candidate_font_2": "Handlee",
+        "candidate_font_3": "Coming Soon",
+        "candidate_font_4": "Gloria Hallelujah",
+        "candidate_font_5": "Indie Flower"
+    },
+    {
+        "task_id": "578179",
+        "model_name": "gpt-4o-mini",
+        "candidate_font_1": "Wave",
+        "candidate_font_2": "Wavy Script",
+        "candidate_font_3": "Fluid",
+        "candidate_font_4": "Ocean",
+        "candidate_font_5": "Wavy Tune"
+    },
+    {
+        "task_id": "578179",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "",
+        "candidate_font_2": "",
+        "candidate_font_3": "",
+        "candidate_font_4": "",
+        "candidate_font_5": ""
     }
 ]
