@@ -9953,9 +9953,9 @@
     },
     {
         "task_id": "578176",
-        "url": "https://www.dafont.com/forum/read/578176/detectar-fuentes-urgente",
-        "title": "Detectar fuentes urgente!",
-        "instructions": "Buenas! necesito saber cuales son las fuentes de esta tarjeta por favor...",
+        "url": "https://www.dafont.com/forum/read/578176/fuentes",
+        "title": "Fuentes",
+        "instructions": "Buenas. Necesito saber cuales son las fuentes de esta tarjeta, por favor...",
         "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1221848.png",
         "identified_font": "Amalfi Coast"
     },
@@ -10013,7 +10013,7 @@
         "title": "Serie:nadie nos va a extra\u00f1ar de Amazon prime",
         "instructions": null,
         "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1221857.png",
-        "identified_font": null
+        "identified_font": "Anton"
     },
     {
         "task_id": "280071",
@@ -10134,5 +10134,61 @@
         "instructions": "Un logo de Bluey y  Bingo, Soy el Furro M\u00e1s Fuerte de Roblox con One-Punch Man, Desde One-Punch Furry",
         "img_url": "https://www.dafont.com/forum/attach/orig/1/1/1190427.png",
         "identified_font": "Heyam"
+    },
+    {
+        "task_id": "578197",
+        "url": "https://www.dafont.com/forum/read/578197/font-name",
+        "title": "Font name? :)",
+        "instructions": "\"Replay\"",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1221923.png",
+        "identified_font": null
+    },
+    {
+        "task_id": "578196",
+        "url": "https://www.dafont.com/forum/read/578196/font-identification",
+        "title": "Font Identification",
+        "instructions": "Hey anyone knows the font use here ?",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1221921.png",
+        "identified_font": null
+    },
+    {
+        "task_id": "578195",
+        "url": "https://www.dafont.com/forum/read/578195/font-name",
+        "title": "Font name?",
+        "instructions": "pleese",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1221920.png",
+        "identified_font": null
+    },
+    {
+        "task_id": "578194",
+        "url": "https://www.dafont.com/forum/read/578194/bucket-of-death-font",
+        "title": "Bucket Of Death font",
+        "instructions": null,
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1221917.jpg",
+        "identified_font": null
+    },
+    {
+        "task_id": "578193",
+        "url": "https://www.dafont.com/forum/read/578193/what-is-the-font-used-here-please",
+        "title": "What is the font used here, please?",
+        "instructions": "Hi all! I would appreciate any help with identifying this font. Thanks in advance!",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1221915.png",
+        "identified_font": null
+    },
+    {
+        "task_id": "233965",
+        "url": "https://www.dafont.com/forum/read/233965/new-google-logo",
+        "title": "New Google Logo",
+        "instructions": "What is New Google Logo's font?",
+        "img_url": "https://www.dafont.com/forum/attach/orig/5/3/531754.png?1",
+        "identified_font": null
+    },
+    {
+        "task_id": "578192",
+        "url": "https://www.dafont.com/forum/read/578192/what-s-the-font-name-of-this-pls-help-me",
+        "title": "what's the font name of this pls help me",
+        "instructions": null,
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1221905.png",
+        "identified_font": null
     }
 ]
