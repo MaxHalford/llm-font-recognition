@@ -17692,5 +17692,131 @@
         "candidate_font_3": "Quicksand",
         "candidate_font_4": "Varela Round",
         "candidate_font_5": "Chewy"
+    },
+    {
+        "task_id": "578170",
+        "model_name": "gpt-4o-mini",
+        "candidate_font_1": "Brush Script",
+        "candidate_font_2": "Dancing Script",
+        "candidate_font_3": "Pacifico",
+        "candidate_font_4": "Bebas Neue",
+        "candidate_font_5": "Lobster"
+    },
+    {
+        "task_id": "578170",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Go Big Or Go Home",
+        "candidate_font_2": "Brush King",
+        "candidate_font_3": "Wild Ones",
+        "candidate_font_4": "Chasing Embers",
+        "candidate_font_5": "Bad Signal"
+    },
+    {
+        "task_id": "578176",
+        "model_name": "gpt-4o-mini",
+        "candidate_font_1": "Serif font (similar to Times New Roman)",
+        "candidate_font_2": "Script font (similar to Great Vibes)",
+        "candidate_font_3": "Sans-serif font (similar to Helvetica)",
+        "candidate_font_4": "Display font (similar to Playfair Display)",
+        "candidate_font_5": ""
+    },
+    {
+        "task_id": "578176",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Playfair Display",
+        "candidate_font_2": "Adora Bouton",
+        "candidate_font_3": "Montserrat",
+        "candidate_font_4": "",
+        "candidate_font_5": ""
+    },
+    {
+        "task_id": "578175",
+        "model_name": "gpt-4o-mini",
+        "candidate_font_1": "Comic Sans MS",
+        "candidate_font_2": "Bangers",
+        "candidate_font_3": null,
+        "candidate_font_4": null,
+        "candidate_font_5": null
+    },
+    {
+        "task_id": "578175",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Bubblegum Pop",
+        "candidate_font_2": "Passion One",
+        "candidate_font_3": "",
+        "candidate_font_4": "",
+        "candidate_font_5": ""
+    },
+    {
+        "task_id": "578174",
+        "model_name": "gpt-4o-mini",
+        "candidate_font_1": "Pacifico",
+        "candidate_font_2": "Lobster",
+        "candidate_font_3": null,
+        "candidate_font_4": null,
+        "candidate_font_5": null
+    },
+    {
+        "task_id": "578174",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Pixel Split",
+        "candidate_font_2": "Cute Bubblegum Outline",
+        "candidate_font_3": "Broken 15",
+        "candidate_font_4": "Bubbly Lovely Outline",
+        "candidate_font_5": "Minecrafter"
+    },
+    {
+        "task_id": "578173",
+        "model_name": "gpt-4o-mini",
+        "candidate_font_1": "Psychedelic",
+        "candidate_font_2": "Cherry Cream Soda",
+        "candidate_font_3": "Gelato",
+        "candidate_font_4": "Circumference",
+        "candidate_font_5": "Caffeine"
+    },
+    {
+        "task_id": "578173",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Chocolate Milk",
+        "candidate_font_2": "Super Bubble",
+        "candidate_font_3": "Bubble Gum",
+        "candidate_font_4": "Puffy",
+        "candidate_font_5": "Melted Monster"
+    },
+    {
+        "task_id": "578169",
+        "model_name": "gpt-4o-mini",
+        "candidate_font_1": "Honey Script",
+        "candidate_font_2": "Dancing Script",
+        "candidate_font_3": "Lobster",
+        "candidate_font_4": "Brush Script MT",
+        "candidate_font_5": ""
+    },
+    {
+        "task_id": "578169",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Milk And Honey",
+        "candidate_font_2": "Salt & Pepper",
+        "candidate_font_3": "Honey Bun",
+        "candidate_font_4": "Lemon Tuesday",
+        "candidate_font_5": "Handlee"
+    },
+    {
+        "task_id": "578168",
+        "model_name": "gpt-4o-mini",
+        "candidate_font_1": "Bodoni",
+        "candidate_font_2": "Didot",
+        "candidate_font_3": "Playfair Display",
+        "candidate_font_4": "Libre Baskerville",
+        "candidate_font_5": ""
+    },
+    {
+        "task_id": "578168",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Lovera Display",
+        "candidate_font_2": "Amsterdam Four",
+        "candidate_font_3": "Newgate Display",
+        "candidate_font_4": "Playfair Display",
+        "candidate_font_5": "Great Vibes"
     }
 ]
