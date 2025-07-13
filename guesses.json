@@ -17962,5 +17962,77 @@
         "candidate_font_3": "College Condensed",
         "candidate_font_4": "Bignord",
         "candidate_font_5": "Vintage Distress"
+    },
+    {
+        "task_id": "578187",
+        "model_name": "gpt-4o-mini",
+        "candidate_font_1": "Lobster",
+        "candidate_font_2": "Bebas Neue",
+        "candidate_font_3": "Impact",
+        "candidate_font_4": "Anton",
+        "candidate_font_5": ""
+    },
+    {
+        "task_id": "578187",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "SF Sports Night",
+        "candidate_font_2": "Victory Type",
+        "candidate_font_3": "Team Spirit",
+        "candidate_font_4": "College Slab",
+        "candidate_font_5": "Graduate"
+    },
+    {
+        "task_id": "578189",
+        "model_name": "gpt-4o-mini",
+        "candidate_font_1": "Bodoni",
+        "candidate_font_2": "Didot",
+        "candidate_font_3": "Playfair Display",
+        "candidate_font_4": "Libre Baskerville",
+        "candidate_font_5": ""
+    },
+    {
+        "task_id": "578189",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "ITC Clearface",
+        "candidate_font_2": "Palatino",
+        "candidate_font_3": "Book Antiqua",
+        "candidate_font_4": "Hoefler Text",
+        "candidate_font_5": "Garamond"
+    },
+    {
+        "task_id": "578188",
+        "model_name": "gpt-4o-mini",
+        "candidate_font_1": "Avenir",
+        "candidate_font_2": "Helvetica Neue",
+        "candidate_font_3": "Futura",
+        "candidate_font_4": "Gotham",
+        "candidate_font_5": "Proxima Nova"
+    },
+    {
+        "task_id": "578188",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Avenir",
+        "candidate_font_2": "Sofia Pro",
+        "candidate_font_3": "Futura",
+        "candidate_font_4": "Brandon Grotesque",
+        "candidate_font_5": "Proxima Soft"
+    },
+    {
+        "task_id": "578186",
+        "model_name": "gpt-4o-mini",
+        "candidate_font_1": "Futuristic",
+        "candidate_font_2": "Geometric",
+        "candidate_font_3": "Digital",
+        "candidate_font_4": "Tech",
+        "candidate_font_5": ""
+    },
+    {
+        "task_id": "578186",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Circuitry",
+        "candidate_font_2": "SF Transrobotics",
+        "candidate_font_3": "BankGothic Md BT",
+        "candidate_font_4": "Orbitron",
+        "candidate_font_5": "Hyperspace"
     }
 ]
