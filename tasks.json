@@ -10022,5 +10022,37 @@
         "instructions": null,
         "img_url": "https://www.dafont.com/forum/attach/orig/6/2/626453.jpg",
         "identified_font": null
+    },
+    {
+        "task_id": "578180",
+        "url": "https://www.dafont.com/forum/read/578180/maximalism",
+        "title": "maximalism",
+        "instructions": null,
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1221870.png",
+        "identified_font": null
+    },
+    {
+        "task_id": "578181",
+        "url": "https://www.dafont.com/forum/read/578181/sabrina-carpenter-font",
+        "title": "SABRINA CARPENTER FONT:",
+        "instructions": null,
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1221874.png",
+        "identified_font": null
+    },
+    {
+        "task_id": "576558",
+        "url": "https://www.dafont.com/forum/read/576558/name-font",
+        "title": "Name font?",
+        "instructions": null,
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1218185.png?1",
+        "identified_font": null
+    },
+    {
+        "task_id": "578179",
+        "url": "https://www.dafont.com/forum/read/578179/wave-font",
+        "title": "Wave font?",
+        "instructions": null,
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1221869.jpg",
+        "identified_font": null
     }
 ]
