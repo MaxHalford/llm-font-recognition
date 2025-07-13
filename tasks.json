@@ -9957,7 +9957,7 @@
         "title": "Detectar fuentes urgente!",
         "instructions": "Buenas! necesito saber cuales son las fuentes de esta tarjeta por favor...",
         "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1221848.png",
-        "identified_font": null
+        "identified_font": "Amalfi Coast"
     },
     {
         "task_id": "578175",
@@ -10118,5 +10118,21 @@
         "instructions": null,
         "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1221892.jpg",
         "identified_font": null
+    },
+    {
+        "task_id": "578191",
+        "url": "https://www.dafont.com/forum/read/578191/tittle-font-name-pls",
+        "title": "tittle font name pls",
+        "instructions": null,
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1221902.jpg",
+        "identified_font": null
+    },
+    {
+        "task_id": "562822",
+        "url": "https://www.dafont.com/forum/read/562822/cual-es-el-bluey-y-bingo-la-fuente-de-logo",
+        "title": "\u00bfCual es el Bluey y Bingo la fuente de logo?",
+        "instructions": "Un logo de Bluey y  Bingo, Soy el Furro M\u00e1s Fuerte de Roblox con One-Punch Man, Desde One-Punch Furry",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/1/1190427.png",
+        "identified_font": "Heyam"
     }
 ]
