@@ -18322,5 +18322,95 @@
         "candidate_font_3": "Komika Axis",
         "candidate_font_4": "Baloo Paaji 2",
         "candidate_font_5": "Bubblegum Sans"
+    },
+    {
+        "task_id": "578217",
+        "model_name": "gpt-4o-mini",
+        "candidate_font_1": "Bodoni",
+        "candidate_font_2": "Playfair Display",
+        "candidate_font_3": "Renaissance",
+        "candidate_font_4": "Copperplate Gothic",
+        "candidate_font_5": "Old English Text"
+    },
+    {
+        "task_id": "578217",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Interlocking Monogram JNL",
+        "candidate_font_2": "Monogram World Two",
+        "candidate_font_3": "ITC Edwardian Script",
+        "candidate_font_4": "Victorian Initials DS",
+        "candidate_font_5": "Aluminia Initials"
+    },
+    {
+        "task_id": "578216",
+        "model_name": "gpt-4o-mini",
+        "candidate_font_1": "Montserrat",
+        "candidate_font_2": "Bebas Neue",
+        "candidate_font_3": "Poppins",
+        "candidate_font_4": "Oswald",
+        "candidate_font_5": ""
+    },
+    {
+        "task_id": "578216",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Montserrat Black",
+        "candidate_font_2": "DIN Condensed Bold",
+        "candidate_font_3": "DIN Next Rounded Heavy",
+        "candidate_font_4": "University Roman Bold",
+        "candidate_font_5": "IBM Plex Serif Medium"
+    },
+    {
+        "task_id": "578214",
+        "model_name": "gpt-4o-mini",
+        "candidate_font_1": "Bebas Neue",
+        "candidate_font_2": "Montserrat",
+        "candidate_font_3": "Poppins",
+        "candidate_font_4": "Oswald",
+        "candidate_font_5": "Roboto"
+    },
+    {
+        "task_id": "578214",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Fredoka One",
+        "candidate_font_2": "Gobold Bold",
+        "candidate_font_3": "Impact",
+        "candidate_font_4": "Anton",
+        "candidate_font_5": "Pricedown"
+    },
+    {
+        "task_id": "578213",
+        "model_name": "gpt-4o-mini",
+        "candidate_font_1": "Comic Sans MS",
+        "candidate_font_2": "Patrick Hand",
+        "candidate_font_3": "Quicksand",
+        "candidate_font_4": "Lobster",
+        "candidate_font_5": ""
+    },
+    {
+        "task_id": "578213",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Good Dog",
+        "candidate_font_2": "Chewy",
+        "candidate_font_3": "Fredoka One",
+        "candidate_font_4": "Bubblegum Sans",
+        "candidate_font_5": "Varela Round"
+    },
+    {
+        "task_id": "578207",
+        "model_name": "gpt-4o-mini",
+        "candidate_font_1": "Pixelated",
+        "candidate_font_2": "Retro Display",
+        "candidate_font_3": "Blocky Sans Serifs",
+        "candidate_font_4": "Digital",
+        "candidate_font_5": ""
+    },
+    {
+        "task_id": "578207",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Arcade Classic",
+        "candidate_font_2": "Minecraft Evenings",
+        "candidate_font_3": "8bitoperator HB",
+        "candidate_font_4": "Press Start 2P",
+        "candidate_font_5": "Dot Matrix"
     }
 ]
