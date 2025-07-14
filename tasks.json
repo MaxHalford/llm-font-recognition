@@ -9765,7 +9765,7 @@
         "title": "PUT",
         "instructions": "Do you know this font?",
         "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1221777.png?1",
-        "identified_font": null
+        "identified_font": "Jim Crow"
     },
     {
         "task_id": "578148",
@@ -10325,7 +10325,7 @@
         "title": "\u0093Plush Vanilla\u0094 font please",
         "instructions": null,
         "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1221969.png",
-        "identified_font": null
+        "identified_font": "Bright Live"
     },
     {
         "task_id": "572785",
@@ -10357,6 +10357,94 @@
         "title": "Font name?",
         "instructions": null,
         "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1221972.jpg",
+        "identified_font": null
+    },
+    {
+        "task_id": "578235",
+        "url": "https://www.dafont.com/forum/read/578235/what-is-this-font-please",
+        "title": "what is this font please",
+        "instructions": null,
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1221993.png",
+        "identified_font": null
+    },
+    {
+        "task_id": "578234",
+        "url": "https://www.dafont.com/forum/read/578234/rosalia",
+        "title": "Rosalia",
+        "instructions": null,
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1221992.jpg",
+        "identified_font": null
+    },
+    {
+        "task_id": "578233",
+        "url": "https://www.dafont.com/forum/read/578233/uncle-john-s",
+        "title": "Uncle John's",
+        "instructions": null,
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1221991.png",
+        "identified_font": null
+    },
+    {
+        "task_id": "578232",
+        "url": "https://www.dafont.com/forum/read/578232/can-you-help-me-identify-the-font-used-here",
+        "title": "Can you help me identify the font used here?",
+        "instructions": null,
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1221990.jpg",
+        "identified_font": null
+    },
+    {
+        "task_id": "578229",
+        "url": "https://www.dafont.com/forum/read/578229/plush-vanilla",
+        "title": "plush vanilla",
+        "instructions": "I really need to know the font used in \u0093plush vanilla\u0094",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1221983.png",
+        "identified_font": "Bright Live"
+    },
+    {
+        "task_id": "578231",
+        "url": "https://www.dafont.com/forum/read/578231/what-font-is-it",
+        "title": "What font is it?",
+        "instructions": "hello!",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1221986.jpg",
+        "identified_font": null
+    },
+    {
+        "task_id": "578230",
+        "url": "https://www.dafont.com/forum/read/578230/font-id",
+        "title": "font ID",
+        "instructions": "Does anyone know what fonts these are?",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1221984.jpg",
+        "identified_font": null
+    },
+    {
+        "task_id": "578228",
+        "url": "https://www.dafont.com/forum/read/578228/virat",
+        "title": "VIRAT",
+        "instructions": null,
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1221982.jpg",
+        "identified_font": null
+    },
+    {
+        "task_id": "578227",
+        "url": "https://www.dafont.com/forum/read/578227/authentic-off-the-wall",
+        "title": "Authentic - Off The Wall",
+        "instructions": "All text apart from the logo - thanks",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1221981.jpg",
+        "identified_font": null
+    },
+    {
+        "task_id": "578226",
+        "url": "https://www.dafont.com/forum/read/578226/what-is-the-font-please",
+        "title": "what is the font please",
+        "instructions": "what font is this text please",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1221980.jpg",
+        "identified_font": null
+    },
+    {
+        "task_id": "578225",
+        "url": "https://www.dafont.com/forum/read/578225/help-please",
+        "title": "Help please ??",
+        "instructions": "Hi;",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1221979.png",
         "identified_font": null
     }
 ]
