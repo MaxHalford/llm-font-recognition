@@ -18538,5 +18538,185 @@
         "candidate_font_3": "Expose Regular",
         "candidate_font_4": "Space Mission",
         "candidate_font_5": "Cyberfunk"
+    },
+    {
+        "task_id": "578235",
+        "model_name": "gpt-4o-mini",
+        "candidate_font_1": "Brushed Script",
+        "candidate_font_2": "Amatic SC",
+        "candidate_font_3": "Knewave",
+        "candidate_font_4": "Freestyle Script",
+        "candidate_font_5": "Rock Salt"
+    },
+    {
+        "task_id": "578235",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Road Rage",
+        "candidate_font_2": "Moon Get!",
+        "candidate_font_3": "Hokjesgeest",
+        "candidate_font_4": "Rough Cut",
+        "candidate_font_5": "Banaue"
+    },
+    {
+        "task_id": "578234",
+        "model_name": "gpt-4o-mini",
+        "candidate_font_1": "Brush Script",
+        "candidate_font_2": "Pacifico",
+        "candidate_font_3": "Raleway",
+        "candidate_font_4": "Dancing Script",
+        "candidate_font_5": "Lobster"
+    },
+    {
+        "task_id": "578234",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Blacklisted",
+        "candidate_font_2": "Dirty Line",
+        "candidate_font_3": "Streetwear",
+        "candidate_font_4": "Road Rage",
+        "candidate_font_5": "Against Type"
+    },
+    {
+        "task_id": "578233",
+        "model_name": "gpt-4o-mini",
+        "candidate_font_1": "Bubblegum Sans",
+        "candidate_font_2": "ChunkFive",
+        "candidate_font_3": "Balloony",
+        "candidate_font_4": "Cooper Black",
+        "candidate_font_5": "Lobster"
+    },
+    {
+        "task_id": "578233",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Cooper Black",
+        "candidate_font_2": "Balloon Bold",
+        "candidate_font_3": "Porky's",
+        "candidate_font_4": "Gumbo",
+        "candidate_font_5": "Obelix Pro"
+    },
+    {
+        "task_id": "578232",
+        "model_name": "gpt-4o-mini",
+        "candidate_font_1": "Bubblegum Sans",
+        "candidate_font_2": "Baloo",
+        "candidate_font_3": "Lobster",
+        "candidate_font_4": "Fredoka One",
+        "candidate_font_5": "Poppins"
+    },
+    {
+        "task_id": "578232",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Bubblegum Sans",
+        "candidate_font_2": "Cheeky Grub",
+        "candidate_font_3": "Cream Peach",
+        "candidate_font_4": "Gagalin",
+        "candidate_font_5": "Keep on Truckin'"
+    },
+    {
+        "task_id": "578231",
+        "model_name": "gpt-4o-mini",
+        "candidate_font_1": "Rockwell",
+        "candidate_font_2": "Bebas Neue",
+        "candidate_font_3": "Elephant",
+        "candidate_font_4": "Impact",
+        "candidate_font_5": ""
+    },
+    {
+        "task_id": "578231",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Stardos Stencil",
+        "candidate_font_2": "United States Stencil",
+        "candidate_font_3": "Top Secret Stencil",
+        "candidate_font_4": "Special Forces Stencil",
+        "candidate_font_5": "Cargo Stencil"
+    },
+    {
+        "task_id": "578230",
+        "model_name": "gpt-4o-mini",
+        "candidate_font_1": "Bebas Neue",
+        "candidate_font_2": "Impact",
+        "candidate_font_3": "Trade Gothic",
+        "candidate_font_4": "Oswald",
+        "candidate_font_5": ""
+    },
+    {
+        "task_id": "578230",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "SF Sports Night Italic",
+        "candidate_font_2": "SF Collegiate Solid",
+        "candidate_font_3": "Varsity Team",
+        "candidate_font_4": "Collegiate Heavy",
+        "candidate_font_5": "Impact"
+    },
+    {
+        "task_id": "578228",
+        "model_name": "gpt-4o-mini",
+        "candidate_font_1": "Bebas Neue",
+        "candidate_font_2": "Oswald",
+        "candidate_font_3": "Impact",
+        "candidate_font_4": "Montserrat",
+        "candidate_font_5": ""
+    },
+    {
+        "task_id": "578228",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Exo 2 Black",
+        "candidate_font_2": "Montserrat Black",
+        "candidate_font_3": "Agency FB Black",
+        "candidate_font_4": "Bebas Neue Bold",
+        "candidate_font_5": "Bank Gothic Bold"
+    },
+    {
+        "task_id": "578227",
+        "model_name": "gpt-4o-mini",
+        "candidate_font_1": "Bebas Neue",
+        "candidate_font_2": "Lobster",
+        "candidate_font_3": "Raleway",
+        "candidate_font_4": "Montserrat",
+        "candidate_font_5": "Oswald"
+    },
+    {
+        "task_id": "578227",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Futura Condensed Extra Bold",
+        "candidate_font_2": "Magnolia Script",
+        "candidate_font_3": "Gotham Book",
+        "candidate_font_4": "Compacta Bold",
+        "candidate_font_5": "Montserrat Regular"
+    },
+    {
+        "task_id": "578226",
+        "model_name": "gpt-4o-mini",
+        "candidate_font_1": "Brush Script",
+        "candidate_font_2": "Pacifico",
+        "candidate_font_3": "Berkshire Swash",
+        "candidate_font_4": "Dancing Script",
+        "candidate_font_5": ""
+    },
+    {
+        "task_id": "578226",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Redemption Script",
+        "candidate_font_2": "Motorcity",
+        "candidate_font_3": "Rallies",
+        "candidate_font_4": "Hot Rod Gang",
+        "candidate_font_5": "Speedball Script"
+    },
+    {
+        "task_id": "578225",
+        "model_name": "gpt-4o-mini",
+        "candidate_font_1": "Bebas Neue",
+        "candidate_font_2": "Montserrat",
+        "candidate_font_3": "Raleway",
+        "candidate_font_4": "Oswald",
+        "candidate_font_5": ""
+    },
+    {
+        "task_id": "578225",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "KG Primary Penmanship Outline",
+        "candidate_font_2": "Print Clearly Outline",
+        "candidate_font_3": "Hello School Basic Lined",
+        "candidate_font_4": "Elementary School",
+        "candidate_font_5": "Schoolhouse Printed"
     }
 ]
