@@ -1309,7 +1309,7 @@
         "title": "Tessas",
         "instructions": "What is the name of this font, please? \ud83d\ude4f\ud83c\udffc",
         "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1217316.jpg?1",
-        "identified_font": null
+        "identified_font": "Begin"
     },
     {
         "task_id": "576894",
@@ -10193,11 +10193,11 @@
     },
     {
         "task_id": "578201",
-        "url": "https://www.dafont.com/forum/read/578201/fonts-used-on-the-hot-wheels-car-blisters-model-names",
-        "title": "Fonts Used On The Hot Wheels Car Blisters Model Names",
-        "instructions": "I wonder what are the names of the fonts used on 2023/2024 and 2025 hot wheels packagings where the cars names goes.",
-        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1221931.png",
-        "identified_font": null
+        "url": "https://www.dafont.com/forum/read/578201/font-used-on-the-hot-wheels-car-blisters-model-names",
+        "title": "Font Used On The Hot Wheels Car Blisters Model Names",
+        "instructions": "I wonder what is the name of the font used on hot wheels packagings where the cars names goes.",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1221931.png?1",
+        "identified_font": "Barlow Condensed ExtraBold Italic"
     },
     {
         "task_id": "578202",
@@ -10237,7 +10237,7 @@
         "title": "'In Your Fantasy' font",
         "instructions": null,
         "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1221941.jpg",
-        "identified_font": null
+        "identified_font": "Aqila"
     },
     {
         "task_id": "578204",
@@ -10253,6 +10253,54 @@
         "title": "please help",
         "instructions": null,
         "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1221935.png",
+        "identified_font": "Aachen Bold"
+    },
+    {
+        "task_id": "578217",
+        "url": "https://www.dafont.com/forum/read/578217/identificar-fuente",
+        "title": "IDENTIFICAR FUENTE",
+        "instructions": null,
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1221959.png?1",
+        "identified_font": null
+    },
+    {
+        "task_id": "578216",
+        "url": "https://www.dafont.com/forum/read/578216/caf-african-cup-of-nations-marrocos-2025",
+        "title": "CAF African Cup of Nations Marrocos 2025",
+        "instructions": null,
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1221957.jpg",
+        "identified_font": null
+    },
+    {
+        "task_id": "578214",
+        "url": "https://www.dafont.com/forum/read/578214/fifa-womens-futsal-world-cup-phillipines-2025",
+        "title": "FIFA WOMENS FUTSAL WORLD CUP PHILLIPINES 2025",
+        "instructions": null,
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1221955.png",
+        "identified_font": null
+    },
+    {
+        "task_id": "578213",
+        "url": "https://www.dafont.com/forum/read/578213/font-please",
+        "title": "Font, please?",
+        "instructions": null,
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1221954.png",
+        "identified_font": null
+    },
+    {
+        "task_id": "578208",
+        "url": "https://www.dafont.com/forum/read/578208/sunrise-font",
+        "title": "\"Sunrise\" font",
+        "instructions": null,
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1221944.png?1",
+        "identified_font": "Thirthy"
+    },
+    {
+        "task_id": "578207",
+        "url": "https://www.dafont.com/forum/read/578207/do-the-dance-font",
+        "title": "\"Do The Dance\" font",
+        "instructions": null,
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1221943.jpg",
         "identified_font": null
     }
 ]
