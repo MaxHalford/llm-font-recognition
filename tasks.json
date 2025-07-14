@@ -5332,7 +5332,7 @@
         "url": "https://www.dafont.com/forum/read/577520/font-name",
         "title": "Font Name?",
         "instructions": "does anyone know the name of this font?",
-        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1220355.jpg",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1220355.png?1",
         "identified_font": null
     },
     {
@@ -9764,7 +9764,7 @@
         "url": "https://www.dafont.com/forum/read/578149/put",
         "title": "PUT",
         "instructions": "Do you know this font?",
-        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1221777.png",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1221777.png?1",
         "identified_font": null
     },
     {
@@ -10163,7 +10163,7 @@
         "task_id": "578194",
         "url": "https://www.dafont.com/forum/read/578194/bucket-of-death-font",
         "title": "Bucket Of Death font",
-        "instructions": null,
+        "instructions": "Anyone know this font?",
         "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1221917.jpg",
         "identified_font": null
     },
@@ -10229,6 +10229,30 @@
         "title": "font identification",
         "instructions": "does anyone know what this font is called?",
         "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1221928.jpg?1",
+        "identified_font": null
+    },
+    {
+        "task_id": "578205",
+        "url": "https://www.dafont.com/forum/read/578205/in-your-fantasy-font",
+        "title": "'In Your Fantasy' font",
+        "instructions": null,
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1221941.jpg",
+        "identified_font": null
+    },
+    {
+        "task_id": "578204",
+        "url": "https://www.dafont.com/forum/read/578204/please",
+        "title": "please!",
+        "instructions": "Hello, what is the source of \"Borba\" and \"Temperos naturais\"",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1221939.jpg",
+        "identified_font": null
+    },
+    {
+        "task_id": "578203",
+        "url": "https://www.dafont.com/forum/read/578203/please-help",
+        "title": "please help",
+        "instructions": null,
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1221935.png",
         "identified_font": null
     }
 ]
