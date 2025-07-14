@@ -18268,5 +18268,59 @@
         "candidate_font_3": "Cheeky Peach",
         "candidate_font_4": "Gumball Bubble",
         "candidate_font_5": "Love Peace"
+    },
+    {
+        "task_id": "578205",
+        "model_name": "gpt-4o-mini",
+        "candidate_font_1": "Cloister Black",
+        "candidate_font_2": "Cinzel Decorative",
+        "candidate_font_3": "Garamond",
+        "candidate_font_4": "Bodoni",
+        "candidate_font_5": "Playfair Display"
+    },
+    {
+        "task_id": "578205",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Royal Crescent",
+        "candidate_font_2": "Mordred",
+        "candidate_font_3": "Queen of Camelot",
+        "candidate_font_4": "Cinzel Decorative",
+        "candidate_font_5": "Luminari"
+    },
+    {
+        "task_id": "578204",
+        "model_name": "gpt-4o-mini",
+        "candidate_font_1": "Rockwell",
+        "candidate_font_2": "Playfair Display",
+        "candidate_font_3": "Garamond",
+        "candidate_font_4": "Bebas Neue",
+        "candidate_font_5": "Lobster"
+    },
+    {
+        "task_id": "578204",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "BadaBoom BB",
+        "candidate_font_2": "Hominis Outline",
+        "candidate_font_3": "Impacted",
+        "candidate_font_4": "Salted Mocha",
+        "candidate_font_5": "Always In My Heart"
+    },
+    {
+        "task_id": "578203",
+        "model_name": "gpt-4o-mini",
+        "candidate_font_1": "BubbleGum",
+        "candidate_font_2": "Comic Sans MS",
+        "candidate_font_3": "Cooper Black",
+        "candidate_font_4": "Bangers",
+        "candidate_font_5": "Lobster"
+    },
+    {
+        "task_id": "578203",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Porky's",
+        "candidate_font_2": "Komika Title",
+        "candidate_font_3": "Komika Axis",
+        "candidate_font_4": "Baloo Paaji 2",
+        "candidate_font_5": "Bubblegum Sans"
     }
 ]
