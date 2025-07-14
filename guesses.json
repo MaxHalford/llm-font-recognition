@@ -18502,5 +18502,41 @@
         "candidate_font_3": "FOT-UD Shin Maru Go StdN H",
         "candidate_font_4": "Motoya L Maru Std W6",
         "candidate_font_5": "HGS Maru Gothic Bold"
+    },
+    {
+        "task_id": "578224",
+        "model_name": "gpt-4o-mini",
+        "candidate_font_1": "Blob",
+        "candidate_font_2": "Bubblegum Sans",
+        "candidate_font_3": "Dancing Script",
+        "candidate_font_4": "Playful",
+        "candidate_font_5": ""
+    },
+    {
+        "task_id": "578224",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Liquidism",
+        "candidate_font_2": "Melted Monster",
+        "candidate_font_3": "Rubber Duck",
+        "candidate_font_4": "Splat",
+        "candidate_font_5": "Soft Liquid"
+    },
+    {
+        "task_id": "578223",
+        "model_name": "gpt-4o-mini",
+        "candidate_font_1": "Bebas Neue",
+        "candidate_font_2": "Montserrat",
+        "candidate_font_3": "Anton",
+        "candidate_font_4": "Oswald",
+        "candidate_font_5": ""
+    },
+    {
+        "task_id": "578223",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Space Age",
+        "candidate_font_2": "SF TransRobotics",
+        "candidate_font_3": "Expose Regular",
+        "candidate_font_4": "Space Mission",
+        "candidate_font_5": "Cyberfunk"
     }
 ]
