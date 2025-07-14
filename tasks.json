@@ -10405,7 +10405,7 @@
         "title": "What font is it?",
         "instructions": "hello!",
         "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1221986.jpg",
-        "identified_font": null
+        "identified_font": "Stencil"
     },
     {
         "task_id": "578230",
@@ -10421,7 +10421,7 @@
         "title": "VIRAT",
         "instructions": null,
         "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1221982.jpg",
-        "identified_font": null
+        "identified_font": "Beyond 2025"
     },
     {
         "task_id": "578227",
@@ -10429,7 +10429,7 @@
         "title": "Authentic - Off The Wall",
         "instructions": "All text apart from the logo - thanks",
         "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1221981.jpg",
-        "identified_font": null
+        "identified_font": "Fenway Park"
     },
     {
         "task_id": "578226",
@@ -10445,6 +10445,142 @@
         "title": "Help please ??",
         "instructions": "Hi;",
         "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1221979.png",
+        "identified_font": null
+    },
+    {
+        "task_id": "578262",
+        "url": "https://www.dafont.com/forum/read/578262/sport-klub-reklame",
+        "title": "Sport klub reklame",
+        "instructions": null,
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1222030.jpg",
+        "identified_font": null
+    },
+    {
+        "task_id": "578259",
+        "url": "https://www.dafont.com/forum/read/578259/font-caminata-2025-please",
+        "title": "font \"CAMINATA 2025\" please!",
+        "instructions": null,
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1222022.png",
+        "identified_font": "Permanent Marker"
+    },
+    {
+        "task_id": "578252",
+        "url": "https://www.dafont.com/forum/read/578252/krsto-spoljar-vrijeme-i-pau-ina",
+        "title": "Krsto \u008apoljar - Vrijeme i pau&#269;ina",
+        "instructions": null,
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1222012.jpg",
+        "identified_font": null
+    },
+    {
+        "task_id": "578260",
+        "url": "https://www.dafont.com/forum/read/578260/first-choice-feature-presentation-bumper",
+        "title": "First Choice Feature Presentation bumper",
+        "instructions": null,
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1222023.jpg",
+        "identified_font": null
+    },
+    {
+        "task_id": "578258",
+        "url": "https://www.dafont.com/forum/read/578258/what-font-is",
+        "title": "what font is?",
+        "instructions": null,
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1222021.png",
+        "identified_font": null
+    },
+    {
+        "task_id": "578255",
+        "url": "https://www.dafont.com/forum/read/578255/robert",
+        "title": "Robert",
+        "instructions": "Thanks for your help",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1222016.png",
+        "identified_font": null
+    },
+    {
+        "task_id": "578253",
+        "url": "https://www.dafont.com/forum/read/578253/font-please",
+        "title": "Font please",
+        "instructions": "For this show Life Hacks for Kids font please?",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1222013.png",
+        "identified_font": null
+    },
+    {
+        "task_id": "578251",
+        "url": "https://www.dafont.com/forum/read/578251/ivan-kusan-veliki-dan",
+        "title": "Ivan Ku\u009aan - Veliki Dan",
+        "instructions": null,
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1222011.jpg",
+        "identified_font": null
+    },
+    {
+        "task_id": "578250",
+        "url": "https://www.dafont.com/forum/read/578250/dalibor-cvitan-ironi-ni-narcis",
+        "title": "Dalibor Cvitan - Ironi&#269;ni Narcis",
+        "instructions": null,
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1222010.jpg",
+        "identified_font": null
+    },
+    {
+        "task_id": "578249",
+        "url": "https://www.dafont.com/forum/read/578249/please-help",
+        "title": "Please help",
+        "instructions": null,
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1222009.png",
+        "identified_font": null
+    },
+    {
+        "task_id": "578248",
+        "url": "https://www.dafont.com/forum/read/578248/josip-barkovi-sante",
+        "title": "Josip Barkovi&#263; - Sante",
+        "instructions": null,
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1222008.jpg",
+        "identified_font": null
+    },
+    {
+        "task_id": "578246",
+        "url": "https://www.dafont.com/forum/read/578246/ivo-vidan-nepouzdani-pripovjeda",
+        "title": "Ivo Vidan - Nepouzdani Pripovjeda&#269;",
+        "instructions": null,
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1222006.jpg",
+        "identified_font": null
+    },
+    {
+        "task_id": "578245",
+        "url": "https://www.dafont.com/forum/read/578245/nikola-puli-procesija",
+        "title": "Nikola Puli&#263; - Procesija",
+        "instructions": null,
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1222005.jpg",
+        "identified_font": null
+    },
+    {
+        "task_id": "578244",
+        "url": "https://www.dafont.com/forum/read/578244/ivan-mestrovi-ludi-mile",
+        "title": "Ivan Mestrovi&#263; - Ludi Mile",
+        "instructions": null,
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1222004.jpg",
+        "identified_font": null
+    },
+    {
+        "task_id": "578242",
+        "url": "https://www.dafont.com/forum/read/578242/ve-eslav-holjevac-zapisi-iz-rodnog-grada",
+        "title": "Ve&#269;eslav Holjevac - Zapisi iz rodnog grada",
+        "instructions": null,
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1222002.jpg",
+        "identified_font": null
+    },
+    {
+        "task_id": "578240",
+        "url": "https://www.dafont.com/forum/read/578240/what-font-is-used",
+        "title": "What font is used?",
+        "instructions": null,
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1222000.png",
+        "identified_font": null
+    },
+    {
+        "task_id": "578238",
+        "url": "https://www.dafont.com/forum/read/578238/help-does-anyone-know-what-font-this-could-be",
+        "title": "Help, does anyone know what font this could be?",
+        "instructions": null,
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1221998.png",
         "identified_font": null
     }
 ]
