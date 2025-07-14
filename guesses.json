@@ -18412,5 +18412,95 @@
         "candidate_font_3": "8bitoperator HB",
         "candidate_font_4": "Press Start 2P",
         "candidate_font_5": "Dot Matrix"
+    },
+    {
+        "task_id": "578222",
+        "model_name": "gpt-4o-mini",
+        "candidate_font_1": "Poppins",
+        "candidate_font_2": "Montserrat",
+        "candidate_font_3": "Avenir Next",
+        "candidate_font_4": "Baloo",
+        "candidate_font_5": "MPlusRounded"
+    },
+    {
+        "task_id": "578222",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Fredoka One",
+        "candidate_font_2": "Avenir",
+        "candidate_font_3": "",
+        "candidate_font_4": "",
+        "candidate_font_5": ""
+    },
+    {
+        "task_id": "578221",
+        "model_name": "gpt-4o-mini",
+        "candidate_font_1": "Trajan Pro",
+        "candidate_font_2": "Garamond",
+        "candidate_font_3": "Bodoni",
+        "candidate_font_4": "Serifa",
+        "candidate_font_5": ""
+    },
+    {
+        "task_id": "578221",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Trajan Pro",
+        "candidate_font_2": "Charlemagne Pro",
+        "candidate_font_3": "Hadriano",
+        "candidate_font_4": "Augustea",
+        "candidate_font_5": "Engravers Roman"
+    },
+    {
+        "task_id": "578220",
+        "model_name": "gpt-4o-mini",
+        "candidate_font_1": "Lobster",
+        "candidate_font_2": "Pacifico",
+        "candidate_font_3": "Fredoka One",
+        "candidate_font_4": "Amatic SC",
+        "candidate_font_5": "Baloo Bhai"
+    },
+    {
+        "task_id": "578220",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "The Quickest",
+        "candidate_font_2": "Bouncy House",
+        "candidate_font_3": "Hello Honey",
+        "candidate_font_4": "Sugar Candy",
+        "candidate_font_5": "Lovelovers"
+    },
+    {
+        "task_id": "572785",
+        "model_name": "gpt-4o-mini",
+        "candidate_font_1": "Deadly",
+        "candidate_font_2": "Creepster",
+        "candidate_font_3": "Zombie Holocaust",
+        "candidate_font_4": "Bloodlust",
+        "candidate_font_5": "Impact"
+    },
+    {
+        "task_id": "572785",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Prototype",
+        "candidate_font_2": "Impact",
+        "candidate_font_3": "Bebas Neue",
+        "candidate_font_4": "Agency FB",
+        "candidate_font_5": "Compacta Black"
+    },
+    {
+        "task_id": "578219",
+        "model_name": "gpt-4o-mini",
+        "candidate_font_1": "Noto Sans JP",
+        "candidate_font_2": "Hiragino Kaku Gothic Pro",
+        "candidate_font_3": "Yu Gothic",
+        "candidate_font_4": "M PLUS 1p",
+        "candidate_font_5": "Kozuka Gothic Pro"
+    },
+    {
+        "task_id": "578219",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "A-OTF Shin Maru Go Std B",
+        "candidate_font_2": "DFP Maru Gothic H",
+        "candidate_font_3": "FOT-UD Shin Maru Go StdN H",
+        "candidate_font_4": "Motoya L Maru Std W6",
+        "candidate_font_5": "HGS Maru Gothic Bold"
     }
 ]
