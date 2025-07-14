@@ -10212,8 +10212,8 @@
         "url": "https://www.dafont.com/forum/read/578200/wich-font-pls",
         "title": "Wich font pls &#9829;&#65038;",
         "instructions": "The letter M",
-        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1221930.png",
-        "identified_font": null
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1221930.png?1",
+        "identified_font": "Darleston"
     },
     {
         "task_id": "578199",
@@ -10301,6 +10301,46 @@
         "title": "\"Do The Dance\" font",
         "instructions": null,
         "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1221943.jpg",
+        "identified_font": null
+    },
+    {
+        "task_id": "578222",
+        "url": "https://www.dafont.com/forum/read/578222/help",
+        "title": "help!",
+        "instructions": "I got AI to help with a logo, now Im needing help to identify the fonts as it's not coming up!",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1221971.png",
+        "identified_font": null
+    },
+    {
+        "task_id": "578221",
+        "url": "https://www.dafont.com/forum/read/578221/what-is-this-font-please",
+        "title": "what is this font please",
+        "instructions": null,
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1221970.png",
+        "identified_font": null
+    },
+    {
+        "task_id": "578220",
+        "url": "https://www.dafont.com/forum/read/578220/plush-vanilla-font-please",
+        "title": "\u0093Plush Vanilla\u0094 font please",
+        "instructions": null,
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1221969.png",
+        "identified_font": null
+    },
+    {
+        "task_id": "572785",
+        "url": "https://www.dafont.com/forum/read/572785/que-font-es",
+        "title": "\u00bfQu\u00e9 font es?",
+        "instructions": null,
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1210624.png?1",
+        "identified_font": null
+    },
+    {
+        "task_id": "578219",
+        "url": "https://www.dafont.com/forum/read/578219/can-anyone-help-me-identify-this-japanese-font",
+        "title": "Can anyone help me identify this Japanese font?",
+        "instructions": "I need to know the font for the subtitles. The screenshot is from the second opening of Pokemon XY.",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1221965.png?1",
         "identified_font": null
     }
 ]
