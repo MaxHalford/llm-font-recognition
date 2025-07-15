@@ -8773,7 +8773,7 @@
         "title": "Font name pls :)",
         "instructions": null,
         "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1221436.jpg",
-        "identified_font": null
+        "identified_font": "Sense Black"
     },
     {
         "task_id": "576289",
@@ -11277,6 +11277,118 @@
         "title": "What the font?",
         "instructions": "Ivan Me\u009atrovi\u0107 - Ludi Mile (1970)",
         "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1222206.jpg",
+        "identified_font": null
+    },
+    {
+        "task_id": "578398",
+        "url": "https://www.dafont.com/forum/read/578398/what-s-this-font-please",
+        "title": "What's this font? Please",
+        "instructions": null,
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1222270.png",
+        "identified_font": null
+    },
+    {
+        "task_id": "578397",
+        "url": "https://www.dafont.com/forum/read/578397/robert-tomovi-bratovstina-labuda-lumbrelasa",
+        "title": "Robert Tomovi&#263; - Bratov\u009atina labuda lumbrela\u009aa",
+        "instructions": null,
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1222269.jpg",
+        "identified_font": null
+    },
+    {
+        "task_id": "488416",
+        "url": "https://www.dafont.com/forum/read/488416/help-me-identify-the-font",
+        "title": "help me identify the font",
+        "instructions": "there's 2 fonts in the picture",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/0/1039095.png",
+        "identified_font": null
+    },
+    {
+        "task_id": "578396",
+        "url": "https://www.dafont.com/forum/read/578396/what-the-font-please",
+        "title": "What the Font please.",
+        "instructions": null,
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1222250.png",
+        "identified_font": null
+    },
+    {
+        "task_id": "578395",
+        "url": "https://www.dafont.com/forum/read/578395/ole-miss",
+        "title": "OLE MISS",
+        "instructions": null,
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1222249.png",
+        "identified_font": null
+    },
+    {
+        "task_id": "578394",
+        "url": "https://www.dafont.com/forum/read/578394/edo-pri-a-dobrotvori",
+        "title": "&#268;edo Pri&#269;a - Dobrotvori",
+        "instructions": null,
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1222245.png",
+        "identified_font": null
+    },
+    {
+        "task_id": "578393",
+        "url": "https://www.dafont.com/forum/read/578393/sasa-veres-ahmed-i-hanibal",
+        "title": "Sa\u009aa Vere\u009a - Ahmed i Hanibal",
+        "instructions": null,
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1222244.png",
+        "identified_font": null
+    },
+    {
+        "task_id": "578389",
+        "url": "https://www.dafont.com/forum/read/578389/font-name-pls",
+        "title": "Font name pls :)",
+        "instructions": null,
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1222239.png",
+        "identified_font": null
+    },
+    {
+        "task_id": "578387",
+        "url": "https://www.dafont.com/forum/read/578387/petar-segedin-crni-smijesak",
+        "title": "Petar \u008aegedin - Crni Smije\u009aak",
+        "instructions": null,
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1222236.png",
+        "identified_font": null
+    },
+    {
+        "task_id": "578386",
+        "url": "https://www.dafont.com/forum/read/578386/grgo-gamulin-ilarijin-smijesak",
+        "title": "Grgo Gamulin - Ilarijin Smije\u009aak",
+        "instructions": null,
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1222235.png",
+        "identified_font": null
+    },
+    {
+        "task_id": "578385",
+        "url": "https://www.dafont.com/forum/read/578385/ivan-supek-heretik",
+        "title": "Ivan Supek - Heretik",
+        "instructions": null,
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1222234.jpg",
+        "identified_font": null
+    },
+    {
+        "task_id": "578383",
+        "url": "https://www.dafont.com/forum/read/578383/cual-es-la-fuente",
+        "title": "Cual es la fuente?",
+        "instructions": null,
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1222232.png",
+        "identified_font": null
+    },
+    {
+        "task_id": "578382",
+        "url": "https://www.dafont.com/forum/read/578382/hbo-the-great-entertainment-alternative",
+        "title": "HBO - The Great Entertainment Alternative",
+        "instructions": null,
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1222231.jpg",
+        "identified_font": null
+    },
+    {
+        "task_id": "578381",
+        "url": "https://www.dafont.com/forum/read/578381/tomislav-slavica-kunara",
+        "title": "Tomislav Slavica - Kunara",
+        "instructions": null,
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1222230.jpg",
         "identified_font": null
     }
 ]
