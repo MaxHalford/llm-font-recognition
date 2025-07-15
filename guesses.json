@@ -19528,5 +19528,131 @@
         "candidate_font_3": "Futura Bold Outline",
         "candidate_font_4": "Bauhaus 93 Outline",
         "candidate_font_5": "Neutraface No. 2 Display Inline"
+    },
+    {
+        "task_id": "578334",
+        "model_name": "gpt-4o-mini",
+        "candidate_font_1": "Bebas Neue",
+        "candidate_font_2": "Impact",
+        "candidate_font_3": "Anton",
+        "candidate_font_4": "Oswald",
+        "candidate_font_5": "Roboto Condensed"
+    },
+    {
+        "task_id": "578334",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Saber",
+        "candidate_font_2": "Headliner No. 45",
+        "candidate_font_3": "Impact",
+        "candidate_font_4": "Bebas Neue Bold",
+        "candidate_font_5": "Octin Sports"
+    },
+    {
+        "task_id": "578333",
+        "model_name": "gpt-4o-mini",
+        "candidate_font_1": "Gamer",
+        "candidate_font_2": "Sabo",
+        "candidate_font_3": "Bebas Neue",
+        "candidate_font_4": "Condensed",
+        "candidate_font_5": "Creepster"
+    },
+    {
+        "task_id": "578333",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Ska",
+        "candidate_font_2": "SF Squarehead",
+        "candidate_font_3": "Big Noodle Titling",
+        "candidate_font_4": "Bank Gothic",
+        "candidate_font_5": "Microgramma"
+    },
+    {
+        "task_id": "578332",
+        "model_name": "gpt-4o-mini",
+        "candidate_font_1": "Bebas Neue",
+        "candidate_font_2": "Impact",
+        "candidate_font_3": "Anton",
+        "candidate_font_4": "Oswald",
+        "candidate_font_5": "Archivo Black"
+    },
+    {
+        "task_id": "578332",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Jersey M54",
+        "candidate_font_2": "Varsity Team",
+        "candidate_font_3": "SF Collegiate Solid",
+        "candidate_font_4": "College Block 2.0",
+        "candidate_font_5": "Octin Sports"
+    },
+    {
+        "task_id": "578331",
+        "model_name": "gpt-4o-mini",
+        "candidate_font_1": "Bebas Neue",
+        "candidate_font_2": "Nexa",
+        "candidate_font_3": "Oswald",
+        "candidate_font_4": "Copperplate Gothic",
+        "candidate_font_5": "Custom Serif"
+    },
+    {
+        "task_id": "578331",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "The font for 'ZACH HILL' appears to be custom lettering or a highly modified Art Deco display font, featuring a unique geometric inline pattern.",
+        "candidate_font_2": "For 'ASTROLOGICAL STRAITS', a very close stylistic match is Mostra Nuova by Mark Simonson Studio, an Art Deco geometric sans-serif.",
+        "candidate_font_3": "Another strong candidate for 'ASTROLOGICAL STRAITS' is a bold or display variant of the Futura typeface family, due to its geometric nature.",
+        "candidate_font_4": "The 'ZACH HILL' font could also be a custom application of a decorative geometric stencil font combined with a patterned fill.",
+        "candidate_font_5": "Consider other highly stylized Art Deco fonts from the 1920s-1930s that often feature unique inline or decorative elements, as inspiration for 'ZACH HILL'."
+    },
+    {
+        "task_id": "578330",
+        "model_name": "gpt-4o-mini",
+        "candidate_font_1": "Bodoni",
+        "candidate_font_2": "Didot",
+        "candidate_font_3": "Serifa",
+        "candidate_font_4": "Playfair Display",
+        "candidate_font_5": "Lora"
+    },
+    {
+        "task_id": "578330",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "The Signature Monoline",
+        "candidate_font_2": "Hello Lary",
+        "candidate_font_3": "Brittany Signature",
+        "candidate_font_4": "Bright Sunshine",
+        "candidate_font_5": "Better Together"
+    },
+    {
+        "task_id": "550769",
+        "model_name": "gpt-4o-mini",
+        "candidate_font_1": "Bebas Neue",
+        "candidate_font_2": "Montserrat",
+        "candidate_font_3": "Oswald",
+        "candidate_font_4": "Raleway",
+        "candidate_font_5": ""
+    },
+    {
+        "task_id": "550769",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Bank Gothic",
+        "candidate_font_2": "Agency FB",
+        "candidate_font_3": "Bebas Neue",
+        "candidate_font_4": "Impact",
+        "candidate_font_5": "Compacta"
+    },
+    {
+        "task_id": "578329",
+        "model_name": "gpt-4o-mini",
+        "candidate_font_1": "Roboto",
+        "candidate_font_2": "Bebas Neue",
+        "candidate_font_3": "Montserrat",
+        "candidate_font_4": "Avenir",
+        "candidate_font_5": ""
+    },
+    {
+        "task_id": "578329",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Industry Black",
+        "candidate_font_2": "Agency FB Black",
+        "candidate_font_3": "United Sans Heavy",
+        "candidate_font_4": "Bank Gothic Bold",
+        "candidate_font_5": "FF Din Black"
     }
 ]
