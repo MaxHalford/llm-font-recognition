@@ -6149,7 +6149,7 @@
         "title": "Jaeguchi font",
         "instructions": "Tittle Font",
         "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1220611.jpg",
-        "identified_font": null
+        "identified_font": "Operina"
     },
     {
         "task_id": "577641",
@@ -8581,7 +8581,7 @@
         "title": "\"Entertainment\"",
         "instructions": null,
         "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1221352.png",
-        "identified_font": null
+        "identified_font": "Goudy Old Style Bold"
     },
     {
         "task_id": "577946",
@@ -10541,7 +10541,7 @@
         "title": "Ivo Vidan - Nepouzdani Pripovjeda&#269;",
         "instructions": null,
         "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1222006.jpg",
-        "identified_font": null
+        "identified_font": "Windsor Elongated"
     },
     {
         "task_id": "578245",
@@ -10677,7 +10677,7 @@
         "title": "Nova TV",
         "instructions": null,
         "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1222052.png",
-        "identified_font": null
+        "identified_font": "Trade Marker Bold Italic"
     },
     {
         "task_id": "578278",
@@ -10773,7 +10773,7 @@
         "title": "Font pleasee or similar?",
         "instructions": null,
         "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1222123.png",
-        "identified_font": null
+        "identified_font": "Nulshock"
     },
     {
         "task_id": "578328",
@@ -10869,6 +10869,62 @@
         "title": "Nedeljko Fabrio - Apeninski eseji",
         "instructions": null,
         "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1222089.jpg",
+        "identified_font": null
+    },
+    {
+        "task_id": "578334",
+        "url": "https://www.dafont.com/forum/read/578334/jugamos",
+        "title": "JUGAMOS",
+        "instructions": "Please!! Font of \"JUGAMOS\"??",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1222159.jpg",
+        "identified_font": null
+    },
+    {
+        "task_id": "578333",
+        "url": "https://www.dafont.com/forum/read/578333/aniversario",
+        "title": "ANIVERSARIO",
+        "instructions": "Please!! Font of \"ANIVERSARIO\"??",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1222158.png?1",
+        "identified_font": null
+    },
+    {
+        "task_id": "578332",
+        "url": "https://www.dafont.com/forum/read/578332/2025",
+        "title": "2025",
+        "instructions": "Please!! Font of \"2025\"??",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1222157.png",
+        "identified_font": null
+    },
+    {
+        "task_id": "578331",
+        "url": "https://www.dafont.com/forum/read/578331/main-font-for-astrological-straits",
+        "title": "Main font for Astrological Straits?",
+        "instructions": "Does anybody know the main font for Zach Hill's album \"Astrological Straits\"? Tried searching everywhere, couldn't find anything about it. Is it just a heavily modified font, please tell me, I'm on the hunt to finding this font.",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1222156.jpg",
+        "identified_font": null
+    },
+    {
+        "task_id": "578330",
+        "url": "https://www.dafont.com/forum/read/578330/font-name",
+        "title": "font name??",
+        "instructions": null,
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1222155.jpg",
+        "identified_font": null
+    },
+    {
+        "task_id": "550769",
+        "url": "https://www.dafont.com/forum/read/550769/please-font-of-takashi-miike-s",
+        "title": "Please!! Font of \"TAKASHI MIIKE'S\"?",
+        "instructions": null,
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/1/1164921.png",
+        "identified_font": null
+    },
+    {
+        "task_id": "578329",
+        "url": "https://www.dafont.com/forum/read/578329/iris-official-vengeance",
+        "title": "IRIS Official \u0096 Vengeance",
+        "instructions": "does anyone know the font in \u00b4\u00b4Vengence\u00b4\u00b4",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1222141.png",
         "identified_font": null
     }
 ]
