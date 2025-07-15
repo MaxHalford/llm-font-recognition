@@ -19654,5 +19654,185 @@
         "candidate_font_3": "United Sans Heavy",
         "candidate_font_4": "Bank Gothic Bold",
         "candidate_font_5": "FF Din Black"
+    },
+    {
+        "task_id": "578344",
+        "model_name": "gpt-4o-mini",
+        "candidate_font_1": "Bank Gothic",
+        "candidate_font_2": "Avenir Next",
+        "candidate_font_3": "Helvetica",
+        "candidate_font_4": "DIN",
+        "candidate_font_5": "Montserrat"
+    },
+    {
+        "task_id": "578344",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Arcade Classic",
+        "candidate_font_2": "VCR OSD Mono",
+        "candidate_font_3": "Fredoka One",
+        "candidate_font_4": "Comfortaa",
+        "candidate_font_5": "M+ Rounded 1c"
+    },
+    {
+        "task_id": "578343",
+        "model_name": "gpt-4o-mini",
+        "candidate_font_1": "Comic Sans MS",
+        "candidate_font_2": "Arial Rounded",
+        "candidate_font_3": "Brush Script",
+        "candidate_font_4": "Chalkboard",
+        "candidate_font_5": "Lobster"
+    },
+    {
+        "task_id": "578343",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Fredoka One",
+        "candidate_font_2": "Luckiest Guy",
+        "candidate_font_3": "Baloo 2",
+        "candidate_font_4": "Sniglet",
+        "candidate_font_5": "Poetsen One"
+    },
+    {
+        "task_id": "578342",
+        "model_name": "gpt-4o-mini",
+        "candidate_font_1": "Helvetica",
+        "candidate_font_2": "Arial",
+        "candidate_font_3": "Futura",
+        "candidate_font_4": "Univers",
+        "candidate_font_5": ""
+    },
+    {
+        "task_id": "578342",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "DIN 1451 Mittelschrift",
+        "candidate_font_2": "Univers 67 (Bold Condensed)",
+        "candidate_font_3": "Akzidenz-Grotesk Condensed",
+        "candidate_font_4": "Trade Gothic Condensed No. 18",
+        "candidate_font_5": "News Gothic Condensed"
+    },
+    {
+        "task_id": "578341",
+        "model_name": "gpt-4o-mini",
+        "candidate_font_1": "Helvetica Bold",
+        "candidate_font_2": "Arial Rounded",
+        "candidate_font_3": "Futura",
+        "candidate_font_4": "Avenir",
+        "candidate_font_5": ""
+    },
+    {
+        "task_id": "578341",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "FF Mark",
+        "candidate_font_2": "Open Sans",
+        "candidate_font_3": "Lato",
+        "candidate_font_4": "Roboto",
+        "candidate_font_5": "Circular"
+    },
+    {
+        "task_id": "578340",
+        "model_name": "gpt-4o-mini",
+        "candidate_font_1": "Lobster",
+        "candidate_font_2": "Pacifico",
+        "candidate_font_3": "Dancing Script",
+        "candidate_font_4": "Great Vibes",
+        "candidate_font_5": "Satisfy"
+    },
+    {
+        "task_id": "578340",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "The Confession",
+        "candidate_font_2": "Magnolia Sky",
+        "candidate_font_3": "Salted Mocha",
+        "candidate_font_4": "Hello Beautiful",
+        "candidate_font_5": "The Moonlight"
+    },
+    {
+        "task_id": "578339",
+        "model_name": "gpt-4o-mini",
+        "candidate_font_1": "Bebas Neue",
+        "candidate_font_2": "Impact",
+        "candidate_font_3": "Oswald",
+        "candidate_font_4": "Anton",
+        "candidate_font_5": ""
+    },
+    {
+        "task_id": "578339",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Gotham Ultra",
+        "candidate_font_2": "Gotham Black",
+        "candidate_font_3": "Gotham Black",
+        "candidate_font_4": "Inter Medium",
+        "candidate_font_5": "Inter Medium"
+    },
+    {
+        "task_id": "578337",
+        "model_name": "gpt-4o-mini",
+        "candidate_font_1": "Bebas Neue",
+        "candidate_font_2": "Helvetica Bold",
+        "candidate_font_3": "Arial Black",
+        "candidate_font_4": "Futura Bold",
+        "candidate_font_5": ""
+    },
+    {
+        "task_id": "578337",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Agency FB Bold",
+        "candidate_font_2": "Univers 67 Condensed Bold",
+        "candidate_font_3": "Helvetica Bold",
+        "candidate_font_4": "Univers 55 Roman",
+        "candidate_font_5": "ITC Machine Bold"
+    },
+    {
+        "task_id": "298109",
+        "model_name": "gpt-4o-mini",
+        "candidate_font_1": "Eurostile",
+        "candidate_font_2": "DIN",
+        "candidate_font_3": "Bank Gothic",
+        "candidate_font_4": "Aero",
+        "candidate_font_5": ""
+    },
+    {
+        "task_id": "298109",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Pricedown Black",
+        "candidate_font_2": "Agency FB Extended Bold Italic",
+        "candidate_font_3": "Eurostile Extended Two Bold Oblique",
+        "candidate_font_4": "Big Noodle Titling Oblique",
+        "candidate_font_5": "Impact (manually skewed)"
+    },
+    {
+        "task_id": "578336",
+        "model_name": "gpt-4o-mini",
+        "candidate_font_1": "Bebas Neue",
+        "candidate_font_2": "Anton",
+        "candidate_font_3": "Impact",
+        "candidate_font_4": "Oswald",
+        "candidate_font_5": "Russo One"
+    },
+    {
+        "task_id": "578336",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Chankas Display Font",
+        "candidate_font_2": "SF Collegiate Solid",
+        "candidate_font_3": "Bank Gothic",
+        "candidate_font_4": "Industry",
+        "candidate_font_5": "Bebas Neue"
+    },
+    {
+        "task_id": "578335",
+        "model_name": "gpt-4o-mini",
+        "candidate_font_1": "Oswald",
+        "candidate_font_2": "Bebas Neue",
+        "candidate_font_3": "Impact",
+        "candidate_font_4": "Anton",
+        "candidate_font_5": "Fjalla One"
+    },
+    {
+        "task_id": "578335",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Built Titling",
+        "candidate_font_2": "Big Noodle Titling",
+        "candidate_font_3": "Agency FB Extended",
+        "candidate_font_4": "Impact",
+        "candidate_font_5": "Mostwasted"
     }
 ]
