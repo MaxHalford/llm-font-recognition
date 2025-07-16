@@ -11630,5 +11630,53 @@
         "instructions": "I used it on capcut but i deleted the project so now i can\u0092t find the original one anymore. Pls help find it",
         "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1222362.png",
         "identified_font": "Unutterable"
+    },
+    {
+        "task_id": "578445",
+        "url": "https://www.dafont.com/forum/read/578445/what-s-the-font-please",
+        "title": "What's the font please ?",
+        "instructions": "Hello, I'm looking for this one please.",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1222377.png",
+        "identified_font": null
+    },
+    {
+        "task_id": "578447",
+        "url": "https://www.dafont.com/forum/read/578447/identifier-le-font",
+        "title": "Identifier le font",
+        "instructions": "Je cherche cette typo depuis quelque jours mais aucun r\u00e9sultat, est-ce-que quelqu'un peut m'aider?",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1222383.png",
+        "identified_font": null
+    },
+    {
+        "task_id": "578446",
+        "url": "https://www.dafont.com/forum/read/578446/sur-les-cadenas",
+        "title": "Sur les cadenas",
+        "instructions": "Quelle police approchante me conseillez-vous ? C'est juste pour les chiffres.",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1222379.png",
+        "identified_font": null
+    },
+    {
+        "task_id": "578443",
+        "url": "https://www.dafont.com/forum/read/578443/what-font-is-this",
+        "title": "What font is this",
+        "instructions": null,
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1222375.png",
+        "identified_font": null
+    },
+    {
+        "task_id": "578442",
+        "url": "https://www.dafont.com/forum/read/578442/what-s-this-font",
+        "title": "what\u0092s this font ??",
+        "instructions": null,
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1222374.jpg",
+        "identified_font": null
+    },
+    {
+        "task_id": "578441",
+        "url": "https://www.dafont.com/forum/read/578441/fonte-urgenteeeeeeeeeeeeeeeeeeeeeeeeeeeeee",
+        "title": "Fonte URGENTEEEEEEEEEEEEEEEEEEEEEEEEEEEEEE...!!!",
+        "instructions": "\"FELICIDADES ANGELICA\" fonteeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1222370.jpg",
+        "identified_font": null
     }
 ]
