@@ -20914,5 +20914,41 @@
         "candidate_font_3": "Gotham Black",
         "candidate_font_4": "Proxima Nova Black",
         "candidate_font_5": "Open Sans ExtraBold"
+    },
+    {
+        "task_id": "578435",
+        "model_name": "gpt-4o-mini",
+        "candidate_font_1": "Montserrat",
+        "candidate_font_2": "Bebas Neue",
+        "candidate_font_3": "Oswald",
+        "candidate_font_4": "Archivo Black",
+        "candidate_font_5": "Anton"
+    },
+    {
+        "task_id": "578435",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Goblin One",
+        "candidate_font_2": "Barlow Condensed",
+        "candidate_font_3": "Fredoka One",
+        "candidate_font_4": "Bebas Neue",
+        "candidate_font_5": "Oswald"
+    },
+    {
+        "task_id": "578434",
+        "model_name": "gpt-4o-mini",
+        "candidate_font_1": "Bourbon Street",
+        "candidate_font_2": "Kingthings Petrock",
+        "candidate_font_3": "Old Print F",
+        "candidate_font_4": "Victor Script",
+        "candidate_font_5": ""
+    },
+    {
+        "task_id": "578434",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Circus Display",
+        "candidate_font_2": "Carnivalee Freakshow",
+        "candidate_font_3": "Playbill",
+        "candidate_font_4": "Victorian Supremacy",
+        "candidate_font_5": ""
     }
 ]
