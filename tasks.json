@@ -10869,7 +10869,7 @@
         "title": "Nedeljko Fabrio - Apeninski eseji",
         "instructions": null,
         "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1222089.jpg",
-        "identified_font": null
+        "identified_font": "Cooper Black"
     },
     {
         "task_id": "578334",
@@ -11637,14 +11637,14 @@
         "title": "What's the font please ?",
         "instructions": "Hello, I'm looking for this one please.",
         "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1222377.png",
-        "identified_font": null
+        "identified_font": "Forte"
     },
     {
         "task_id": "578447",
         "url": "https://www.dafont.com/forum/read/578447/identifier-le-font",
         "title": "Identifier le font",
         "instructions": "Je cherche cette typo depuis quelque jours mais aucun r\u00e9sultat, est-ce-que quelqu'un peut m'aider?",
-        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1222383.png",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1222383.png?1",
         "identified_font": null
     },
     {
@@ -11669,7 +11669,7 @@
         "title": "what\u0092s this font ??",
         "instructions": null,
         "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1222374.jpg",
-        "identified_font": null
+        "identified_font": "Cooper Hewitt Medium"
     },
     {
         "task_id": "578441",
@@ -11677,6 +11677,86 @@
         "title": "Fonte URGENTEEEEEEEEEEEEEEEEEEEEEEEEEEEEEE...!!!",
         "instructions": "\"FELICIDADES ANGELICA\" fonteeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee",
         "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1222370.jpg",
+        "identified_font": null
+    },
+    {
+        "task_id": "578462",
+        "url": "https://www.dafont.com/forum/read/578462/what-the-font-esquire-realty-please",
+        "title": "What The font ESQUIRE REALTY please.",
+        "instructions": null,
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1222414.jpg",
+        "identified_font": null
+    },
+    {
+        "task_id": "578460",
+        "url": "https://www.dafont.com/forum/read/578460/find-font",
+        "title": "find font",
+        "instructions": "Bonjour, je cherche cette typo du groupe oingo boingo. Peut \u00eatre qu'elle n'existe pas et qu'elle \u00e0 \u00e9t\u00e9 cr\u00e9\u00e9e uniquement pour l'album ? Je demande on ne sait jamais !",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1222411.png",
+        "identified_font": null
+    },
+    {
+        "task_id": "578455",
+        "url": "https://www.dafont.com/forum/read/578455/ahmed-i-hanibal",
+        "title": "Ahmed i Hanibal",
+        "instructions": null,
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1222403.jpg",
+        "identified_font": "Compacta"
+    },
+    {
+        "task_id": "578459",
+        "url": "https://www.dafont.com/forum/read/578459/boho-night-font",
+        "title": "Boho Night font",
+        "instructions": null,
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1222407.png",
+        "identified_font": null
+    },
+    {
+        "task_id": "578458",
+        "url": "https://www.dafont.com/forum/read/578458/help-with-fonts-used-please",
+        "title": "Help with fonts used please",
+        "instructions": "I would like to know what fonts are used here please. The main one I am looking for is the one for the words \"Rhea\" and \"Gerrick\", but if you know the other fonts any help is highly appreciated.",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1222406.png",
+        "identified_font": null
+    },
+    {
+        "task_id": "578454",
+        "url": "https://www.dafont.com/forum/read/578454/pijanstva",
+        "title": "Pijanstva",
+        "instructions": null,
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1222401.jpg",
+        "identified_font": null
+    },
+    {
+        "task_id": "578453",
+        "url": "https://www.dafont.com/forum/read/578453/mirisi-zlato-tamjan",
+        "title": "Mirisi Zlato Tamjan",
+        "instructions": null,
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1222400.jpg?1",
+        "identified_font": null
+    },
+    {
+        "task_id": "578452",
+        "url": "https://www.dafont.com/forum/read/578452/hello-can-someone-tell-me-the-name-of-this-font-please",
+        "title": "Hello! Can someone tell me the name of this font, please?",
+        "instructions": null,
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1222397.jpg",
+        "identified_font": null
+    },
+    {
+        "task_id": "578451",
+        "url": "https://www.dafont.com/forum/read/578451/polo-font-please",
+        "title": "POLO font please",
+        "instructions": null,
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1222396.jpg",
+        "identified_font": null
+    },
+    {
+        "task_id": "578448",
+        "url": "https://www.dafont.com/forum/read/578448/gutschein-gestalten",
+        "title": "Gutschein gestalten",
+        "instructions": null,
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1222391.png",
         "identified_font": null
     }
 ]
