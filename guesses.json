@@ -20950,5 +20950,41 @@
         "candidate_font_3": "Playbill",
         "candidate_font_4": "Victorian Supremacy",
         "candidate_font_5": ""
+    },
+    {
+        "task_id": "578439",
+        "model_name": "gpt-4o-mini",
+        "candidate_font_1": "Distant Galaxy",
+        "candidate_font_2": "DBZ Font",
+        "candidate_font_3": "Arcade Classic",
+        "candidate_font_4": "Komika Display",
+        "candidate_font_5": "Futura Condensed"
+    },
+    {
+        "task_id": "578439",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Saiyan Sans",
+        "candidate_font_2": "DBZ KAI",
+        "candidate_font_3": "Pachinko",
+        "candidate_font_4": "Destroyer",
+        "candidate_font_5": "Agency FB Bold Italic"
+    },
+    {
+        "task_id": "578438",
+        "model_name": "gpt-4o-mini",
+        "candidate_font_1": "Barker",
+        "candidate_font_2": "Carnivalee Freakshow",
+        "candidate_font_3": "Circus Extraordinaire",
+        "candidate_font_4": "Showcard Gothic",
+        "candidate_font_5": "Westside"
+    },
+    {
+        "task_id": "578438",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Circus King",
+        "candidate_font_2": "Fairground",
+        "candidate_font_3": "CF Spaceship",
+        "candidate_font_4": "Carnivalee Freakshow",
+        "candidate_font_5": "Barnum"
     }
 ]
