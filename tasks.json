@@ -7773,7 +7773,7 @@
         "title": "Please tell me, what font this is?",
         "instructions": "Please",
         "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1211437.jpg",
-        "identified_font": null
+        "identified_font": "Jitzu Swash Bold"
     },
     {
         "task_id": "573197",
@@ -10877,7 +10877,7 @@
         "title": "JUGAMOS",
         "instructions": "Please!! Font of \"JUGAMOS\"??",
         "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1222159.jpg",
-        "identified_font": null
+        "identified_font": "Ingame"
     },
     {
         "task_id": "578333",
@@ -10997,7 +10997,7 @@
         "title": "SOMOS CHANKAS",
         "instructions": "Please!! Font of \"SOMOS CHANKAS\"??",
         "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1222161.jpg",
-        "identified_font": null
+        "identified_font": "Knight Warrior"
     },
     {
         "task_id": "578335",
@@ -11237,7 +11237,7 @@
         "title": "Congrats",
         "instructions": "Please!! Font of \"Congrats\"??",
         "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1222211.png",
-        "identified_font": null
+        "identified_font": "Pearl Stacy"
     },
     {
         "task_id": "578370",
@@ -11574,5 +11574,29 @@
         "instructions": null,
         "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1222300.png",
         "identified_font": null
+    },
+    {
+        "task_id": "578435",
+        "url": "https://www.dafont.com/forum/read/578435/both-fonts-please",
+        "title": "Both fonts please",
+        "instructions": null,
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1222357.png",
+        "identified_font": null
+    },
+    {
+        "task_id": "578434",
+        "url": "https://www.dafont.com/forum/read/578434/what-fountain-is-the-pan-american-it-has-some-crowns-on-top",
+        "title": "What fountain is the Pan American? It has some crowns on top.",
+        "instructions": "What fountain is the Pan American? It has some crowns on top.",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1222356.png",
+        "identified_font": null
+    },
+    {
+        "task_id": "578432",
+        "url": "https://www.dafont.com/forum/read/578432/need-to-find-this-font",
+        "title": "NEED TO FIND THIS FONT",
+        "instructions": "Please ive looked everywhere its for game dev, i dont know where it came from i just know it was from here.",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1222345.png",
+        "identified_font": "Gotham"
     }
 ]
