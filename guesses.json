@@ -20734,5 +20734,185 @@
         "candidate_font_3": "ITC Ronda",
         "candidate_font_4": "Cooper Black",
         "candidate_font_5": "Blippo"
+    },
+    {
+        "task_id": "578431",
+        "model_name": "gpt-4o-mini",
+        "candidate_font_1": "Bebas Neue",
+        "candidate_font_2": "Impact",
+        "candidate_font_3": "Oswald",
+        "candidate_font_4": "Anton",
+        "candidate_font_5": "Air Canada"
+    },
+    {
+        "task_id": "578431",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Obelix Pro",
+        "candidate_font_2": "Army Grunge",
+        "candidate_font_3": "Headliner No. 45",
+        "candidate_font_4": "BLK Sans",
+        "candidate_font_5": "Dirtybox"
+    },
+    {
+        "task_id": "578429",
+        "model_name": "gpt-4o-mini",
+        "candidate_font_1": "Cursive",
+        "candidate_font_2": "Modern Serif",
+        "candidate_font_3": "Bodoni",
+        "candidate_font_4": "Didot",
+        "candidate_font_5": ""
+    },
+    {
+        "task_id": "578429",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Glamour Absolute",
+        "candidate_font_2": "Crocante",
+        "candidate_font_3": "Valerie",
+        "candidate_font_4": "Requiem",
+        "candidate_font_5": "Didot"
+    },
+    {
+        "task_id": "578428",
+        "model_name": "gpt-4o-mini",
+        "candidate_font_1": "Didot",
+        "candidate_font_2": "Bodoni",
+        "candidate_font_3": "Playfair Display",
+        "candidate_font_4": "Tisa",
+        "candidate_font_5": ""
+    },
+    {
+        "task_id": "578428",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Uncial Antiqua",
+        "candidate_font_2": "Augusta",
+        "candidate_font_3": "Requiem",
+        "candidate_font_4": "Ancient Geek",
+        "candidate_font_5": "Mythos"
+    },
+    {
+        "task_id": "578427",
+        "model_name": "gpt-4o-mini",
+        "candidate_font_1": "Spray Paint Font",
+        "candidate_font_2": "Urban Jungle",
+        "candidate_font_3": "Graffiti Font",
+        "candidate_font_4": "Tag Type",
+        "candidate_font_5": "Street Art Font"
+    },
+    {
+        "task_id": "578427",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Bombing",
+        "candidate_font_2": "Can Control",
+        "candidate_font_3": "Whoa!",
+        "candidate_font_4": "Graffiti Classic",
+        "candidate_font_5": "Reska Grafiti"
+    },
+    {
+        "task_id": "578426",
+        "model_name": "gpt-4o-mini",
+        "candidate_font_1": "Enchanted",
+        "candidate_font_2": "Mistral",
+        "candidate_font_3": "Bebas Neue",
+        "candidate_font_4": "Futura",
+        "candidate_font_5": ""
+    },
+    {
+        "task_id": "578426",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Regina Black",
+        "candidate_font_2": "Nostra Sett",
+        "candidate_font_3": "Recital Didone",
+        "candidate_font_4": "Glamour Absolute",
+        "candidate_font_5": "Loverine Serif"
+    },
+    {
+        "task_id": "578425",
+        "model_name": "gpt-4o-mini",
+        "candidate_font_1": "Bodoni",
+        "candidate_font_2": "Didot",
+        "candidate_font_3": "Futura",
+        "candidate_font_4": "Avant Garde",
+        "candidate_font_5": "Gotham"
+    },
+    {
+        "task_id": "578425",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Gooey",
+        "candidate_font_2": "Acid Bubble",
+        "candidate_font_3": "Melted",
+        "candidate_font_4": "Psychedelic Blob",
+        "candidate_font_5": "Liquid Flow"
+    },
+    {
+        "task_id": "339542",
+        "model_name": "gpt-4o-mini",
+        "candidate_font_1": "Lobster",
+        "candidate_font_2": "Brush Script",
+        "candidate_font_3": "Pacifico",
+        "candidate_font_4": "Dancing Script",
+        "candidate_font_5": ""
+    },
+    {
+        "task_id": "339542",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "GoBold Bold",
+        "candidate_font_2": "Against",
+        "candidate_font_3": "Hokjesgeest",
+        "candidate_font_4": "Adrenaline",
+        "candidate_font_5": "Brushability"
+    },
+    {
+        "task_id": "578420",
+        "model_name": "gpt-4o-mini",
+        "candidate_font_1": "New York Yankees Font",
+        "candidate_font_2": "Jersey M54",
+        "candidate_font_3": "Varsity",
+        "candidate_font_4": "",
+        "candidate_font_5": ""
+    },
+    {
+        "task_id": "578420",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Varsity Block",
+        "candidate_font_2": "College",
+        "candidate_font_3": "Jersey M5",
+        "candidate_font_4": "SF Collegiate",
+        "candidate_font_5": "Athletic Block"
+    },
+    {
+        "task_id": "578418",
+        "model_name": "gpt-4o-mini",
+        "candidate_font_1": "Varsity",
+        "candidate_font_2": "Impact",
+        "candidate_font_3": "Bebas Neue",
+        "candidate_font_4": "Athletic",
+        "candidate_font_5": "Rugged"
+    },
+    {
+        "task_id": "578418",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Headliner No. 45",
+        "candidate_font_2": "Octin College Bold",
+        "candidate_font_3": "SF Collegiate Solid",
+        "candidate_font_4": "College Block 2.0",
+        "candidate_font_5": "Varsity Team"
+    },
+    {
+        "task_id": "578415",
+        "model_name": "gpt-4o-mini",
+        "candidate_font_1": "Bebas Neue",
+        "candidate_font_2": "Oswald",
+        "candidate_font_3": "Montserrat",
+        "candidate_font_4": "Raleway",
+        "candidate_font_5": "DIN"
+    },
+    {
+        "task_id": "578415",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Avenir Next Heavy",
+        "candidate_font_2": "Avenir Black",
+        "candidate_font_3": "Gotham Black",
+        "candidate_font_4": "Proxima Nova Black",
+        "candidate_font_5": "Open Sans ExtraBold"
     }
 ]
