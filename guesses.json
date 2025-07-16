@@ -20986,5 +20986,113 @@
         "candidate_font_3": "CF Spaceship",
         "candidate_font_4": "Carnivalee Freakshow",
         "candidate_font_5": "Barnum"
+    },
+    {
+        "task_id": "578445",
+        "model_name": "gpt-4o-mini",
+        "candidate_font_1": "Brush Script",
+        "candidate_font_2": "Pacifico",
+        "candidate_font_3": "Lobster",
+        "candidate_font_4": "Dancing Script",
+        "candidate_font_5": "Allura"
+    },
+    {
+        "task_id": "578445",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Lobster",
+        "candidate_font_2": "Pacifico",
+        "candidate_font_3": "Grand Hotel",
+        "candidate_font_4": "Playlist Script",
+        "candidate_font_5": "Lemon Tuesday"
+    },
+    {
+        "task_id": "578447",
+        "model_name": "gpt-4o-mini",
+        "candidate_font_1": "Brush Script",
+        "candidate_font_2": "Pacifico",
+        "candidate_font_3": "Lobster",
+        "candidate_font_4": "Dancing Script",
+        "candidate_font_5": "Caveat"
+    },
+    {
+        "task_id": "578447",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Brusher",
+        "candidate_font_2": "Mistrully",
+        "candidate_font_3": "Blacksword",
+        "candidate_font_4": "Stay High",
+        "candidate_font_5": "Wild Youth"
+    },
+    {
+        "task_id": "578446",
+        "model_name": "gpt-4o-mini",
+        "candidate_font_1": "DIN",
+        "candidate_font_2": "OCR A Extended",
+        "candidate_font_3": "Arial Rounded",
+        "candidate_font_4": "Roboto Mono",
+        "candidate_font_5": "Futura"
+    },
+    {
+        "task_id": "578446",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "SF Square Head Bold",
+        "candidate_font_2": "DIN Next Rounded Heavy",
+        "candidate_font_3": "Agency FB Black",
+        "candidate_font_4": "Bebas Neue Bold",
+        "candidate_font_5": "Eurostile Extended Bold"
+    },
+    {
+        "task_id": "578443",
+        "model_name": "gpt-4o-mini",
+        "candidate_font_1": "Bebas Neue",
+        "candidate_font_2": "Oswald",
+        "candidate_font_3": "Anton",
+        "candidate_font_4": "Roboto Condensed",
+        "candidate_font_5": ""
+    },
+    {
+        "task_id": "578443",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Jersey M54",
+        "candidate_font_2": "Athletic Block",
+        "candidate_font_3": "",
+        "candidate_font_4": "Oswald",
+        "candidate_font_5": "Square 721 BT"
+    },
+    {
+        "task_id": "578442",
+        "model_name": "gpt-4o-mini",
+        "candidate_font_1": "Arial",
+        "candidate_font_2": "Helvetica",
+        "candidate_font_3": "Calibri",
+        "candidate_font_4": "Roboto",
+        "candidate_font_5": "Open Sans"
+    },
+    {
+        "task_id": "578442",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Venti CF",
+        "candidate_font_2": "GT Walsheim",
+        "candidate_font_3": "Graphik",
+        "candidate_font_4": "Quicksand",
+        "candidate_font_5": "Montserrat"
+    },
+    {
+        "task_id": "578441",
+        "model_name": "gpt-4o-mini",
+        "candidate_font_1": "Lobster",
+        "candidate_font_2": "Bubblegum Sans",
+        "candidate_font_3": "Bangers",
+        "candidate_font_4": "ChunkFive",
+        "candidate_font_5": "Lazer 84"
+    },
+    {
+        "task_id": "578441",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "SF Collegiate",
+        "candidate_font_2": "Porky's",
+        "candidate_font_3": "Action Man",
+        "candidate_font_4": "Burbank Big Condensed",
+        "candidate_font_5": "Gobold"
     }
 ]
