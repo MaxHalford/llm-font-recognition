@@ -21256,5 +21256,239 @@
         "candidate_font_3": "Celtic Hand",
         "candidate_font_4": "Uncial Antiqua",
         "candidate_font_5": "Feathergraphy Decoration"
+    },
+    {
+        "task_id": "578479",
+        "model_name": "gpt-4o-mini",
+        "candidate_font_1": "Futura",
+        "candidate_font_2": "Avant Garde Gothic",
+        "candidate_font_3": "Roboto",
+        "candidate_font_4": "Avenir",
+        "candidate_font_5": ""
+    },
+    {
+        "task_id": "578479",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Geomitr",
+        "candidate_font_2": "Orbitron",
+        "candidate_font_3": "Ethnocentric",
+        "candidate_font_4": "Space Mono",
+        "candidate_font_5": ""
+    },
+    {
+        "task_id": "578470",
+        "model_name": "gpt-4o-mini",
+        "candidate_font_1": "Arial Black",
+        "candidate_font_2": "Helvetica",
+        "candidate_font_3": "Futura Bold",
+        "candidate_font_4": "Impact",
+        "candidate_font_5": "Bebas Neue"
+    },
+    {
+        "task_id": "578470",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Architects Daughter",
+        "candidate_font_2": "Handlee",
+        "candidate_font_3": "Gloria Hallelujah",
+        "candidate_font_4": "Compacta Bold",
+        "candidate_font_5": "Boton"
+    },
+    {
+        "task_id": "578477",
+        "model_name": "gpt-4o-mini",
+        "candidate_font_1": "Zombie",
+        "candidate_font_2": "Ghoulish",
+        "candidate_font_3": "Creepy Crawly",
+        "candidate_font_4": "Chiller",
+        "candidate_font_5": "Grotesque"
+    },
+    {
+        "task_id": "578477",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Zombified",
+        "candidate_font_2": "Damaged Goods",
+        "candidate_font_3": "Ghoulish",
+        "candidate_font_4": "Metal Mania",
+        "candidate_font_5": "Gunmetal Grunge"
+    },
+    {
+        "task_id": "578468",
+        "model_name": "gpt-4o-mini",
+        "candidate_font_1": "Bebas Neue",
+        "candidate_font_2": "Montserrat",
+        "candidate_font_3": "Raleway",
+        "candidate_font_4": "Roboto",
+        "candidate_font_5": ""
+    },
+    {
+        "task_id": "578468",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Nexa Bold",
+        "candidate_font_2": "Nexa Regular",
+        "candidate_font_3": "Montserrat",
+        "candidate_font_4": "Open Sans",
+        "candidate_font_5": "Lato"
+    },
+    {
+        "task_id": "578476",
+        "model_name": "gpt-4o-mini",
+        "candidate_font_1": "Pacifico",
+        "candidate_font_2": "Lobster",
+        "candidate_font_3": "Dancing Script",
+        "candidate_font_4": "Brush Script MT",
+        "candidate_font_5": ""
+    },
+    {
+        "task_id": "578476",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Adrenaline Brush",
+        "candidate_font_2": "Stay High",
+        "candidate_font_3": "Blacksword",
+        "candidate_font_4": "Beyond The Mountains",
+        "candidate_font_5": "Lemon Tuesday"
+    },
+    {
+        "task_id": "578474",
+        "model_name": "gpt-4o-mini",
+        "candidate_font_1": "Open Sans",
+        "candidate_font_2": "Roboto",
+        "candidate_font_3": "Lato",
+        "candidate_font_4": "Montserrat",
+        "candidate_font_5": "Ubuntu"
+    },
+    {
+        "task_id": "578474",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Helvetica Neue",
+        "candidate_font_2": "Inter",
+        "candidate_font_3": "IBM Plex Sans",
+        "candidate_font_4": "Lato",
+        "candidate_font_5": "Arial"
+    },
+    {
+        "task_id": "578473",
+        "model_name": "gpt-4o-mini",
+        "candidate_font_1": "Montserrat",
+        "candidate_font_2": "Raleway",
+        "candidate_font_3": "Poppins",
+        "candidate_font_4": "Lato",
+        "candidate_font_5": "Open Sans"
+    },
+    {
+        "task_id": "578473",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Open Sans",
+        "candidate_font_2": "Source Sans Pro",
+        "candidate_font_3": "Lato",
+        "candidate_font_4": "Roboto",
+        "candidate_font_5": "Noto Sans"
+    },
+    {
+        "task_id": "578472",
+        "model_name": "gpt-4o-mini",
+        "candidate_font_1": "Playfair Display",
+        "candidate_font_2": "Libre Baskerville",
+        "candidate_font_3": "Cormorant Garamond",
+        "candidate_font_4": "Bodoni Moda",
+        "candidate_font_5": "Cinzel"
+    },
+    {
+        "task_id": "578472",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Janson Text",
+        "candidate_font_2": "Requiem Text",
+        "candidate_font_3": "Adobe Garamond Pro",
+        "candidate_font_4": "Garamond Premier Pro",
+        "candidate_font_5": "Hoefler Text"
+    },
+    {
+        "task_id": "578471",
+        "model_name": "gpt-4o-mini",
+        "candidate_font_1": "Helvetica Neue",
+        "candidate_font_2": "Futura",
+        "candidate_font_3": "Arial Rounded",
+        "candidate_font_4": "Avenir",
+        "candidate_font_5": "Montserrat"
+    },
+    {
+        "task_id": "578471",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "FF Corporate A Bold",
+        "candidate_font_2": "Eurostile Extended Bold",
+        "candidate_font_3": "Microgramma Extended Bold",
+        "candidate_font_4": "Futura Extra Bold",
+        "candidate_font_5": "DIN 1451 Mittelschrift"
+    },
+    {
+        "task_id": "578469",
+        "model_name": "gpt-4o-mini",
+        "candidate_font_1": "Lobster",
+        "candidate_font_2": "Pacifico",
+        "candidate_font_3": "Berkshire Swash",
+        "candidate_font_4": "Great Vibes",
+        "candidate_font_5": "Dancing Script"
+    },
+    {
+        "task_id": "578469",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Hello Sophia",
+        "candidate_font_2": "Sophia Script",
+        "candidate_font_3": "Bellwether",
+        "candidate_font_4": "Oswald Light",
+        "candidate_font_5": "Bebas Neue"
+    },
+    {
+        "task_id": "578467",
+        "model_name": "gpt-4o-mini",
+        "candidate_font_1": "Lobster",
+        "candidate_font_2": "Montserrat",
+        "candidate_font_3": "Pacifico",
+        "candidate_font_4": "Raleway",
+        "candidate_font_5": "Poppins"
+    },
+    {
+        "task_id": "578467",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "ITC Avant Garde Gothic",
+        "candidate_font_2": "Century Gothic",
+        "candidate_font_3": "URW Gothic L",
+        "candidate_font_4": "Geometric 706",
+        "candidate_font_5": "Adobe Avant Garde"
+    },
+    {
+        "task_id": "578466",
+        "model_name": "gpt-4o-mini",
+        "candidate_font_1": "BubbleGum",
+        "candidate_font_2": "Fluffy",
+        "candidate_font_3": "Puffy",
+        "candidate_font_4": "Sugar Plums",
+        "candidate_font_5": "Good Times"
+    },
+    {
+        "task_id": "578466",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Burbank Big Condensed Black",
+        "candidate_font_2": "Puffy Stuff",
+        "candidate_font_3": "Comfy Bubble",
+        "candidate_font_4": "Luckiest Guy",
+        "candidate_font_5": "Fredoka One"
+    },
+    {
+        "task_id": "578464",
+        "model_name": "gpt-4o-mini",
+        "candidate_font_1": "Futura",
+        "candidate_font_2": "Helvetica",
+        "candidate_font_3": "Bebas Neue",
+        "candidate_font_4": "Oswald",
+        "candidate_font_5": "Arial"
+    },
+    {
+        "task_id": "578464",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Akzidenz-Grotesk",
+        "candidate_font_2": "Standard (Berthold)",
+        "candidate_font_3": "Helvetica",
+        "candidate_font_4": "Univers",
+        "candidate_font_5": "Trade Gothic"
     }
 ]
