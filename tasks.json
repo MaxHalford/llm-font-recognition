@@ -8573,7 +8573,7 @@
         "title": "font ID",
         "instructions": "Does anyone know what font this is?",
         "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1221353.png",
-        "identified_font": null
+        "identified_font": "Monument Extended Bold"
     },
     {
         "task_id": "577947",
@@ -16637,7 +16637,7 @@
         "title": "ECW Hardcore Heaven",
         "instructions": null,
         "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1224090.jpg",
-        "identified_font": null
+        "identified_font": "Iron Horse"
     },
     {
         "task_id": "579310",
@@ -16645,7 +16645,7 @@
         "title": "ECW Heat Wave 2000",
         "instructions": null,
         "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1224089.jpg",
-        "identified_font": null
+        "identified_font": "Old Stamper"
     },
     {
         "task_id": "579309",
@@ -16653,7 +16653,7 @@
         "title": "Anarchy & Rulz font name?",
         "instructions": null,
         "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1224088.jpg",
-        "identified_font": null
+        "identified_font": "Iron Horse"
     },
     {
         "task_id": "579308",
@@ -16702,5 +16702,77 @@
         "instructions": null,
         "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1224080.png",
         "identified_font": null
+    },
+    {
+        "task_id": "436350",
+        "url": "https://www.dafont.com/forum/read/436350/serif-italic-font",
+        "title": "Serif Italic Font",
+        "instructions": "Need this font!",
+        "img_url": "https://www.dafont.com/forum/attach/orig/9/3/935593.png",
+        "identified_font": "Cormorant"
+    },
+    {
+        "task_id": "579321",
+        "url": "https://www.dafont.com/forum/read/579321/por-favor-necesito-saber-el-nombre-de-esta-fuente",
+        "title": "por favor necesito saber el nombre de esta fuente",
+        "instructions": null,
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1224115.png",
+        "identified_font": null
+    },
+    {
+        "task_id": "574495",
+        "url": "https://www.dafont.com/forum/read/574495/cual-es",
+        "title": "Cual es",
+        "instructions": "Me dir\u00edan que font es la de Bienvenidx?",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1213948.png",
+        "identified_font": "Morning"
+    },
+    {
+        "task_id": "579320",
+        "url": "https://www.dafont.com/forum/read/579320/cual-es",
+        "title": "Cual es?",
+        "instructions": "Que font es la de \"mi rol es\"",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1224114.png",
+        "identified_font": null
+    },
+    {
+        "task_id": "579319",
+        "url": "https://www.dafont.com/forum/read/579319/leslie-y-munditos",
+        "title": "\"Leslie\" y \"munditos\"",
+        "instructions": "Me dir\u00edan que font son la de \"Leslie\" y la de \"munditos\"",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1224113.png",
+        "identified_font": null
+    },
+    {
+        "task_id": "579315",
+        "url": "https://www.dafont.com/forum/read/579315/help-please-font-senhor",
+        "title": "Help, please! Font \"Senhor\"",
+        "instructions": null,
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1224104.jpg",
+        "identified_font": null
+    },
+    {
+        "task_id": "579318",
+        "url": "https://www.dafont.com/forum/read/579318/identify-this-font-and-tell-me-what-font-is-ths-pls",
+        "title": "Identify this font and tell me what font is ths PLS",
+        "instructions": "",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1224109.png",
+        "identified_font": null
+    },
+    {
+        "task_id": "579316",
+        "url": "https://www.dafont.com/forum/read/579316/village-pharmacy",
+        "title": "Village Pharmacy",
+        "instructions": null,
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1224105.png",
+        "identified_font": null
+    },
+    {
+        "task_id": "579317",
+        "url": "https://www.dafont.com/forum/read/579317/what-is-this-font-please",
+        "title": "What is this Font, Please??",
+        "instructions": "I'm looking for this font. If someone can help me, please.",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1224106.jpg",
+        "identified_font": "Eurofurence"
     }
 ]
