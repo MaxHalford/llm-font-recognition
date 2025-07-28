@@ -11907,7 +11907,7 @@
         "task_id": "579298",
         "url": "https://www.dafont.com/forum/read/579298/name",
         "title": "name",
-        "instructions": null,
+        "instructions": "name please ?",
         "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1224072.png?1",
         "identified_font": null
     },
@@ -11947,9 +11947,9 @@
         "task_id": "579295",
         "url": "https://www.dafont.com/forum/read/579295/font-name",
         "title": "font name",
-        "instructions": null,
+        "instructions": "anybody know the name ?",
         "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1224067.png?1",
-        "identified_font": null
+        "identified_font": "Blaster"
     },
     {
         "task_id": "579293",
@@ -16733,7 +16733,7 @@
         "title": "Cual es?",
         "instructions": "Que font es la de \"mi rol es\"",
         "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1224114.png",
-        "identified_font": null
+        "identified_font": "Vintages"
     },
     {
         "task_id": "579319",
@@ -16741,7 +16741,7 @@
         "title": "\"Leslie\" y \"munditos\"",
         "instructions": "Me dir\u00edan que font son la de \"Leslie\" y la de \"munditos\"",
         "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1224113.png",
-        "identified_font": null
+        "identified_font": "Bluenesia"
     },
     {
         "task_id": "579315",
@@ -16757,7 +16757,7 @@
         "title": "Identify this font and tell me what font is ths PLS",
         "instructions": "",
         "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1224109.png",
-        "identified_font": null
+        "identified_font": "Bad Boys"
     },
     {
         "task_id": "579316",
@@ -16853,6 +16853,102 @@
         "title": "Font?",
         "instructions": null,
         "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1224127.jpg",
+        "identified_font": "Cooper Black"
+    },
+    {
+        "task_id": "579337",
+        "url": "https://www.dafont.com/forum/read/579337/font",
+        "title": "Font?",
+        "instructions": null,
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1224167.jpg",
+        "identified_font": "Nordin Slab Rounded Drawn"
+    },
+    {
+        "task_id": "579340",
+        "url": "https://www.dafont.com/forum/read/579340/hrvatski-preporod-jsjs",
+        "title": "Hrvatski preporod jsjs",
+        "instructions": null,
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1224171.jpg",
+        "identified_font": null
+    },
+    {
+        "task_id": "579343",
+        "url": "https://www.dafont.com/forum/read/579343/retifica-font",
+        "title": "RETIFICA FONT?",
+        "instructions": "RET\u00cdFICA FONT?",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1224176.png",
+        "identified_font": null
+    },
+    {
+        "task_id": "579342",
+        "url": "https://www.dafont.com/forum/read/579342/font-name-pls",
+        "title": "Font name pls :)",
+        "instructions": null,
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1224175.jpg",
+        "identified_font": null
+    },
+    {
+        "task_id": "579341",
+        "url": "https://www.dafont.com/forum/read/579341/clean-bubles",
+        "title": "CLEAN BUBLES",
+        "instructions": "Plis Help",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1224173.png",
+        "identified_font": "Lucky Coin"
+    },
+    {
+        "task_id": "579339",
+        "url": "https://www.dafont.com/forum/read/579339/font-pls",
+        "title": "Font? Pls",
+        "instructions": null,
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1224169.jpg",
+        "identified_font": null
+    },
+    {
+        "task_id": "579338",
+        "url": "https://www.dafont.com/forum/read/579338/font-obsessed",
+        "title": "Font 'Obsessed'?",
+        "instructions": null,
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1224168.jpg",
+        "identified_font": null
+    },
+    {
+        "task_id": "579335",
+        "url": "https://www.dafont.com/forum/read/579335/font-extra",
+        "title": "Font 'Extra'?",
+        "instructions": null,
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1224165.jpg",
+        "identified_font": null
+    },
+    {
+        "task_id": "579334",
+        "url": "https://www.dafont.com/forum/read/579334/font",
+        "title": "Font?",
+        "instructions": null,
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1224162.jpg",
+        "identified_font": null
+    },
+    {
+        "task_id": "579333",
+        "url": "https://www.dafont.com/forum/read/579333/id-font",
+        "title": "ID FONT?",
+        "instructions": null,
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1224161.png",
+        "identified_font": null
+    },
+    {
+        "task_id": "579332",
+        "url": "https://www.dafont.com/forum/read/579332/can-someone-identify-the-font-for-the-red-text-please",
+        "title": "Can someone identify the font for the red text please?",
+        "instructions": null,
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1224158.png",
+        "identified_font": "Long Shot"
+    },
+    {
+        "task_id": "579331",
+        "url": "https://www.dafont.com/forum/read/579331/font-name",
+        "title": "Font Name?",
+        "instructions": null,
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1224146.jpg",
         "identified_font": null
     }
 ]
