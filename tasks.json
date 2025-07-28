@@ -16774,5 +16774,85 @@
         "instructions": "I'm looking for this font. If someone can help me, please.",
         "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1224106.jpg",
         "identified_font": "Eurofurence"
+    },
+    {
+        "task_id": "579322",
+        "url": "https://www.dafont.com/forum/read/579322/our-place-part-of-the-family-fonts",
+        "title": "Our Place & Part of the Family fonts",
+        "instructions": "Anyone know these 2 font names?",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1224124.jpg?1",
+        "identified_font": "Euphorigenic"
+    },
+    {
+        "task_id": "579330",
+        "url": "https://www.dafont.com/forum/read/579330/fonte",
+        "title": "Fonte",
+        "instructions": "\"MUNDO AO INVERSO\"",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1224143.jpg",
+        "identified_font": null
+    },
+    {
+        "task_id": "579329",
+        "url": "https://www.dafont.com/forum/read/579329/anyone-know-this-font-thanks",
+        "title": "Anyone know this font? Thanks!",
+        "instructions": null,
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1224135.png",
+        "identified_font": null
+    },
+    {
+        "task_id": "548124",
+        "url": "https://www.dafont.com/forum/read/548124/the-saturdays-notorious-font",
+        "title": "The Saturdays 'NOTORIOUS' Font",
+        "instructions": "I know it's highly likely that it has been altered.",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/1/1159063.jpg",
+        "identified_font": null
+    },
+    {
+        "task_id": "579328",
+        "url": "https://www.dafont.com/forum/read/579328/whatthefont",
+        "title": "WhatTheFont",
+        "instructions": "Cannot find that one can you help me ?",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1224133.png",
+        "identified_font": null
+    },
+    {
+        "task_id": "579327",
+        "url": "https://www.dafont.com/forum/read/579327/sans-serif-font",
+        "title": "Sans Serif font",
+        "instructions": "WhatTheFont doesn't seem to detect the actual font, I'm hoping y'all can help me",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1224132.png",
+        "identified_font": null
+    },
+    {
+        "task_id": "579326",
+        "url": "https://www.dafont.com/forum/read/579326/anyone-know-this-font",
+        "title": "Anyone know this font?",
+        "instructions": "TIA",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1224130.jpg",
+        "identified_font": null
+    },
+    {
+        "task_id": "579325",
+        "url": "https://www.dafont.com/forum/read/579325/nytforge-font-please-anyone",
+        "title": "NYTFORGE font please anyone",
+        "instructions": null,
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1224129.png",
+        "identified_font": null
+    },
+    {
+        "task_id": "579323",
+        "url": "https://www.dafont.com/forum/read/579323/font-help",
+        "title": "Font Help",
+        "instructions": null,
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1224126.png",
+        "identified_font": null
+    },
+    {
+        "task_id": "579324",
+        "url": "https://www.dafont.com/forum/read/579324/font",
+        "title": "Font?",
+        "instructions": null,
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1224127.jpg",
+        "identified_font": null
     }
 ]
