@@ -28240,5 +28240,113 @@
         "candidate_font_3": "Allura",
         "candidate_font_4": "Dancing Script",
         "candidate_font_5": "Sacramento"
+    },
+    {
+        "task_id": "579321",
+        "model_name": "gpt-4o-mini",
+        "candidate_font_1": "Bodoni",
+        "candidate_font_2": "Didot",
+        "candidate_font_3": "Playfair Display",
+        "candidate_font_4": "Cinzel",
+        "candidate_font_5": ""
+    },
+    {
+        "task_id": "579321",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Glamor",
+        "candidate_font_2": "Butler",
+        "candidate_font_3": "Playfair Display",
+        "candidate_font_4": "DM Serif Display",
+        "candidate_font_5": "Cormorant Garamond"
+    },
+    {
+        "task_id": "579320",
+        "model_name": "gpt-4o-mini",
+        "candidate_font_1": "Comic Sans MS",
+        "candidate_font_2": "Bangers",
+        "candidate_font_3": "Action Man",
+        "candidate_font_4": "Kiddie Font",
+        "candidate_font_5": "Comic Book"
+    },
+    {
+        "task_id": "579320",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Poppins Black",
+        "candidate_font_2": "Nunito Sans Black",
+        "candidate_font_3": "Gabarito Black",
+        "candidate_font_4": "Montserrat Black",
+        "candidate_font_5": "Manrope ExtraBold"
+    },
+    {
+        "task_id": "579319",
+        "model_name": "gpt-4o-mini",
+        "candidate_font_1": "Comic Sans MS",
+        "candidate_font_2": "Bubblegum Sans",
+        "candidate_font_3": "Lobster",
+        "candidate_font_4": "Pacifico",
+        "candidate_font_5": "Chalkboard"
+    },
+    {
+        "task_id": "579319",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Pangolin",
+        "candidate_font_2": "Chewy",
+        "candidate_font_3": "Bubblegum Sans",
+        "candidate_font_4": "Komikz Outline",
+        "candidate_font_5": "Fredoka One"
+    },
+    {
+        "task_id": "579315",
+        "model_name": "gpt-4o-mini",
+        "candidate_font_1": "Brush Script MT",
+        "candidate_font_2": "Pacifico",
+        "candidate_font_3": "Dancing Script",
+        "candidate_font_4": "Lobster",
+        "candidate_font_5": "Freestyle Script"
+    },
+    {
+        "task_id": "579315",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Beautyheart",
+        "candidate_font_2": "Playlist Script",
+        "candidate_font_3": "Hello Stockholm",
+        "candidate_font_4": "Brighton Lovely",
+        "candidate_font_5": "Quick Kiss"
+    },
+    {
+        "task_id": "579318",
+        "model_name": "gpt-4o-mini",
+        "candidate_font_1": "Blackletter",
+        "candidate_font_2": "Gothic",
+        "candidate_font_3": "Fraktur",
+        "candidate_font_4": "Uncial",
+        "candidate_font_5": "Lombardic"
+    },
+    {
+        "task_id": "579318",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Engravers Old English",
+        "candidate_font_2": "Old English Text MT",
+        "candidate_font_3": "Fette Fraktur",
+        "candidate_font_4": "Cloister Black",
+        "candidate_font_5": "Goudy Text"
+    },
+    {
+        "task_id": "579316",
+        "model_name": "gpt-4o-mini",
+        "candidate_font_1": "Montserrat",
+        "candidate_font_2": "Raleway",
+        "candidate_font_3": "Poppins",
+        "candidate_font_4": "Lato",
+        "candidate_font_5": "Roboto"
+    },
+    {
+        "task_id": "579316",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Gotham",
+        "candidate_font_2": "Proxima Nova",
+        "candidate_font_3": "Titillium Web",
+        "candidate_font_4": "Circular",
+        "candidate_font_5": "Averta"
     }
 ]
