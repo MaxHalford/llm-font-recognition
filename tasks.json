@@ -17053,6 +17053,38 @@
         "title": "ID FONT?",
         "instructions": null,
         "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1224203.png",
+        "identified_font": "Berlin Sans"
+    },
+    {
+        "task_id": "579367",
+        "url": "https://www.dafont.com/forum/read/579367/which-this-font-please",
+        "title": "Which this font, please?",
+        "instructions": null,
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1224218.png",
+        "identified_font": null
+    },
+    {
+        "task_id": "579364",
+        "url": "https://www.dafont.com/forum/read/579364/font-name",
+        "title": "font name?",
+        "instructions": "please let me know the \"C&C\" font name",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1224215.png?1",
+        "identified_font": null
+    },
+    {
+        "task_id": "579362",
+        "url": "https://www.dafont.com/forum/read/579362/pls-help-what-s-the-font",
+        "title": "Pls Help what's the Font",
+        "instructions": null,
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1224213.png",
+        "identified_font": null
+    },
+    {
+        "task_id": "579361",
+        "url": "https://www.dafont.com/forum/read/579361/font-name-please",
+        "title": "Font name, please",
+        "instructions": null,
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1224211.jpg",
         "identified_font": null
     }
 ]
