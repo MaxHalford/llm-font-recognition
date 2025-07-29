@@ -28960,5 +28960,59 @@
         "candidate_font_3": "SF TransRobotics",
         "candidate_font_4": "Cyberdyne",
         "candidate_font_5": "Digital Strip"
+    },
+    {
+        "task_id": "579370",
+        "model_name": "gpt-4o-mini",
+        "candidate_font_1": "Outersludge",
+        "candidate_font_2": "Pixelated",
+        "candidate_font_3": "Graffiti",
+        "candidate_font_4": "Futuristic",
+        "candidate_font_5": "Comic"
+    },
+    {
+        "task_id": "579370",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Vermin Vibes 2 Italic",
+        "candidate_font_2": "Outrun Future",
+        "candidate_font_3": "SF Fourche Oblique",
+        "candidate_font_4": "Digital Dismay",
+        "candidate_font_5": "Arcade Classic Italic"
+    },
+    {
+        "task_id": "579369",
+        "model_name": "gpt-4o-mini",
+        "candidate_font_1": "Dancing Script",
+        "candidate_font_2": "Pacifico",
+        "candidate_font_3": "Great Vibes",
+        "candidate_font_4": "Satisfy",
+        "candidate_font_5": "Allura"
+    },
+    {
+        "task_id": "579369",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Adelina Script",
+        "candidate_font_2": "Great Vibes",
+        "candidate_font_3": "Pinyon Script",
+        "candidate_font_4": "Rouge Script",
+        "candidate_font_5": "Herr Von Muellerhoff"
+    },
+    {
+        "task_id": "579368",
+        "model_name": "gpt-4o-mini",
+        "candidate_font_1": "Bubblegum Sans",
+        "candidate_font_2": "Poppins",
+        "candidate_font_3": "Baloo",
+        "candidate_font_4": "Comic Sans MS",
+        "candidate_font_5": ""
+    },
+    {
+        "task_id": "579368",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Pangolin",
+        "candidate_font_2": "Chewy",
+        "candidate_font_3": "Dimbo",
+        "candidate_font_4": "Bubblegum Sans",
+        "candidate_font_5": "Fredoka One"
     }
 ]
