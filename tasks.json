@@ -11468,7 +11468,7 @@
         "url": "https://www.dafont.com/forum/read/578431/i-want-it-font-only",
         "title": "I WANT IT font only",
         "instructions": null,
-        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1222342.png",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1222342.png?1",
         "identified_font": null
     },
     {
@@ -16965,7 +16965,7 @@
         "title": "Fluffy's font",
         "instructions": "Anyone know this font?",
         "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1224197.png",
-        "identified_font": null
+        "identified_font": "Beach Club"
     },
     {
         "task_id": "579351",
@@ -17013,6 +17013,46 @@
         "title": "Uvod u kibernetiku j",
         "instructions": null,
         "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1224185.jpg",
+        "identified_font": null
+    },
+    {
+        "task_id": "579360",
+        "url": "https://www.dafont.com/forum/read/579360/font-please",
+        "title": "Font, please!",
+        "instructions": "The 3 fonts of this image, please!",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1224208.png",
+        "identified_font": null
+    },
+    {
+        "task_id": "579359",
+        "url": "https://www.dafont.com/forum/read/579359/what-is-this-font-called-thank-you",
+        "title": "What is this font called thank you",
+        "instructions": null,
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1224207.jpg",
+        "identified_font": null
+    },
+    {
+        "task_id": "579358",
+        "url": "https://www.dafont.com/forum/read/579358/ancing-alone-font-only",
+        "title": "ANCING ALONE font only",
+        "instructions": null,
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1224206.png",
+        "identified_font": null
+    },
+    {
+        "task_id": "579356",
+        "url": "https://www.dafont.com/forum/read/579356/barney-let-s-go-to-the-zoo",
+        "title": "Barney Let's Go to the Zoo",
+        "instructions": "What font is for Barney Let's Go to the Zoo?",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1224204.jpg",
+        "identified_font": null
+    },
+    {
+        "task_id": "579355",
+        "url": "https://www.dafont.com/forum/read/579355/id-font",
+        "title": "ID FONT?",
+        "instructions": null,
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1224203.png",
         "identified_font": null
     }
 ]
