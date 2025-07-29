@@ -17261,7 +17261,7 @@
         "title": "What font is this",
         "instructions": "Font used by a Twitch streamer for a video he posted on TikTok. Caught my attention whole death scrolling.",
         "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1224299.jpg",
-        "identified_font": null
+        "identified_font": "Komika Axis"
     },
     {
         "task_id": "579397",
@@ -17325,7 +17325,7 @@
         "title": "what this font?",
         "instructions": "\"imagina\u00e7\u00e3o\"",
         "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1224286.png",
-        "identified_font": null
+        "identified_font": "Bricolage Grotesque"
     },
     {
         "task_id": "579403",
@@ -17373,6 +17373,14 @@
         "title": "Anyone know this font? Thanks!",
         "instructions": null,
         "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1224273.png",
+        "identified_font": null
+    },
+    {
+        "task_id": "579415",
+        "url": "https://www.dafont.com/forum/read/579415/qual-e-essa-fonte",
+        "title": "QUAL \u00c9 ESSA FONTE?",
+        "instructions": null,
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1224307.jpg",
         "identified_font": null
     }
 ]

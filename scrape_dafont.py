@@ -16,6 +16,9 @@ import typing
 import bs4
 import requests
 
+GUESSES_PATH = "src/data/guesses.json"
+TASKS_PATH = "src/data/tasks.json"
+
 
 @dataclasses.dataclass
 class Task:
@@ -98,7 +101,7 @@ def loop_task_thumbs(
         page_no += 1
 
 
-def save_tasks(tasks: dict[int, Task], filename: str = "tasks.json") -> None:
+def save_tasks(tasks: dict[int, Task], filename: str = TASKS_PATH) -> None:
     with open(filename, "w") as f:
         json.dump(
             [dataclasses.asdict(task) for task_id, task in tasks.items()], f, indent=4
@@ -119,7 +122,7 @@ def main():
         }
     )
 
-    with open("tasks.json") as f:
+    with open(TASKS_PATH) as f:
         tasks = {task["task_id"]: Task(**task) for task in json.load(f)}
 
     with open("last_scraped_at.txt") as f:
@@ -150,6 +153,9 @@ def main():
 
     with open("last_scraped_at.txt", "w") as f:
         f.write(new_last_scraped_at.isoformat())
+
+    with open("src/data/last_scraped_at.json", "w") as f:
+        json.dump({"last_scraped_at": new_last_scraped_at.isoformat()}, f, indent=4)
 
 
 if __name__ == "__main__":

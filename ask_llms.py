@@ -24,6 +24,9 @@ import pydantic
 # Load environment variables from .env file
 dotenv.load_dotenv()
 
+GUESSES_PATH = "src/data/guesses.json"
+TASKS_PATH = "src/data/tasks.json"
+
 
 @dataclasses.dataclass
 class Task:
@@ -109,7 +112,7 @@ def make_guess(task: Task, model_name: str) -> Guess:
 
 
 def save_guesses(
-    guesses: dict[tuple[str, str], Guess], filename: str = "guesses.json"
+    guesses: dict[tuple[str, str], Guess], filename: str = GUESSES_PATH
 ) -> None:
     with open(filename, "w") as f:
         json.dump(
@@ -126,13 +129,13 @@ def main():
         # "mistral-large",  # doesn't support attachments
     ]
 
-    with open("guesses.json", "r") as f:
+    with open(GUESSES_PATH, "r") as f:
         guesses = {
             (guess["task_id"], guess["model_name"]): Guess(**guess)
             for guess in json.load(f)
         }
 
-    with open("tasks.json") as f:
+    with open(TASKS_PATH) as f:
         tasks = [Task(**task) for task in json.load(f)]
         incomplete_tasks = [task for task in tasks if task.identified_font is None]
 
