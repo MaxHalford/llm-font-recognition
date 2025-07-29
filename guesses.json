@@ -28798,5 +28798,95 @@
         "candidate_font_3": "Akzidenz-Grotesk Black",
         "candidate_font_4": "Franklin Gothic Heavy",
         "candidate_font_5": "News Gothic Std Black"
+    },
+    {
+        "task_id": "579360",
+        "model_name": "gpt-4o-mini",
+        "candidate_font_1": "Lobster",
+        "candidate_font_2": "Baloo",
+        "candidate_font_3": "Bebas Neue",
+        "candidate_font_4": "Pacifico",
+        "candidate_font_5": ""
+    },
+    {
+        "task_id": "579360",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Frankfurter",
+        "candidate_font_2": "Chewy",
+        "candidate_font_3": "Quigley Wiggly",
+        "candidate_font_4": "Cooper Black",
+        "candidate_font_5": "Permanent Marker"
+    },
+    {
+        "task_id": "579359",
+        "model_name": "gpt-4o-mini",
+        "candidate_font_1": "Eurostile",
+        "candidate_font_2": "Bank Gothic",
+        "candidate_font_3": "Exo",
+        "candidate_font_4": "Orbitron",
+        "candidate_font_5": "Audiowide"
+    },
+    {
+        "task_id": "579359",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Terminator Real NFI",
+        "candidate_font_2": "Terminator Two NFI",
+        "candidate_font_3": "Eurostile Extended Bold",
+        "candidate_font_4": "BankGothic Bold",
+        "candidate_font_5": "Microgramma D Extended Bold"
+    },
+    {
+        "task_id": "579358",
+        "model_name": "gpt-4o-mini",
+        "candidate_font_1": "Bodoni",
+        "candidate_font_2": "Didot",
+        "candidate_font_3": "Playfair Display",
+        "candidate_font_4": "Miller",
+        "candidate_font_5": "Abril Fatface"
+    },
+    {
+        "task_id": "579358",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Bodoni XT",
+        "candidate_font_2": "Bickham Script Pro",
+        "candidate_font_3": "Poster Bodoni",
+        "candidate_font_4": "Didot",
+        "candidate_font_5": ""
+    },
+    {
+        "task_id": "579356",
+        "model_name": "gpt-4o-mini",
+        "candidate_font_1": "Bubblegum Sans",
+        "candidate_font_2": "Comic Sans MS",
+        "candidate_font_3": "Kiddie Font",
+        "candidate_font_4": "Wooden Planks",
+        "candidate_font_5": "Jokerman"
+    },
+    {
+        "task_id": "579356",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "ITC Souvenir Bold Italic",
+        "candidate_font_2": "Porky's",
+        "candidate_font_3": "African Jungle",
+        "candidate_font_4": "VAG Rounded Bold",
+        "candidate_font_5": "Balloon Bold"
+    },
+    {
+        "task_id": "579355",
+        "model_name": "gpt-4o-mini",
+        "candidate_font_1": "BubbleGum",
+        "candidate_font_2": "Kool Beans",
+        "candidate_font_3": "Vampiro One",
+        "candidate_font_4": "Bouncy",
+        "candidate_font_5": "Lobster"
+    },
+    {
+        "task_id": "579355",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Rubik",
+        "candidate_font_2": "Nunito",
+        "candidate_font_3": "M PLUS Rounded 1c",
+        "candidate_font_4": "Comfortaa",
+        "candidate_font_5": "Varela Round"
     }
 ]
