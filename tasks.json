@@ -16812,7 +16812,7 @@
         "url": "https://www.dafont.com/forum/read/579328/whatthefont",
         "title": "WhatTheFont",
         "instructions": "Cannot find that one can you help me ?",
-        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1224133.png",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1224133.png?1",
         "identified_font": null
     },
     {
@@ -16828,7 +16828,7 @@
         "url": "https://www.dafont.com/forum/read/579326/anyone-know-this-font",
         "title": "Anyone know this font?",
         "instructions": "TIA",
-        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1224130.jpg",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1224130.png?1",
         "identified_font": null
     },
     {
@@ -17109,6 +17109,46 @@
         "title": "font name plsss",
         "instructions": null,
         "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1224219.jpg",
+        "identified_font": null
+    },
+    {
+        "task_id": "579375",
+        "url": "https://www.dafont.com/forum/read/579375/erika-queen-font-pls",
+        "title": "Erika Queen font pls&#128140;",
+        "instructions": "the picture isn\u0092t blurry it\u0092s just that they put a grainy overlay!",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1224241.jpg",
+        "identified_font": null
+    },
+    {
+        "task_id": "579374",
+        "url": "https://www.dafont.com/forum/read/579374/mocidade-independente-1995-carnaval-logo-theme",
+        "title": "Mocidade independente 1995 carnaval logo theme",
+        "instructions": null,
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1224235.jpg",
+        "identified_font": null
+    },
+    {
+        "task_id": "579373",
+        "url": "https://www.dafont.com/forum/read/579373/marche-aux-affaires",
+        "title": "MARCHE AUX AFFAIRES",
+        "instructions": null,
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1224232.png",
+        "identified_font": null
+    },
+    {
+        "task_id": "579372",
+        "url": "https://www.dafont.com/forum/read/579372/strata-and-the-detailing-font-below-anyone",
+        "title": "STRATA and the detailing font below anyone?",
+        "instructions": null,
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1224231.png?1",
+        "identified_font": null
+    },
+    {
+        "task_id": "579371",
+        "url": "https://www.dafont.com/forum/read/579371/help-please",
+        "title": "Help Please!!",
+        "instructions": null,
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1224230.png",
         "identified_font": null
     }
 ]
