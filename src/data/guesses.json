@@ -29626,5 +29626,23 @@
         "candidate_font_3": "Varsity Regular",
         "candidate_font_4": "Bebas Neue Bold",
         "candidate_font_5": "Impact"
+    },
+    {
+        "task_id": "579425",
+        "model_name": "gpt-4o-mini",
+        "candidate_font_1": "Missa",
+        "candidate_font_2": "",
+        "candidate_font_3": "",
+        "candidate_font_4": "",
+        "candidate_font_5": ""
+    },
+    {
+        "task_id": "579425",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "ITC Berkeley Old Style",
+        "candidate_font_2": "Goudy Old Style",
+        "candidate_font_3": "Requiem Text",
+        "candidate_font_4": "Windsor",
+        "candidate_font_5": "Monotype Garamond"
     }
 ]
