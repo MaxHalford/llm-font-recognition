@@ -28672,5 +28672,131 @@
         "candidate_font_3": "Butler",
         "candidate_font_4": "Valverde",
         "candidate_font_5": "Recife Display"
+    },
+    {
+        "task_id": "579353",
+        "model_name": "gpt-4o-mini",
+        "candidate_font_1": "Bebas Neue",
+        "candidate_font_2": "Impact",
+        "candidate_font_3": "Anton",
+        "candidate_font_4": "Oswald",
+        "candidate_font_5": "Blackletter"
+    },
+    {
+        "task_id": "579353",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Graduate",
+        "candidate_font_2": "United Serif Black",
+        "candidate_font_3": "Ultra",
+        "candidate_font_4": "Bebas Slab",
+        "candidate_font_5": "Rockwell Extra Bold"
+    },
+    {
+        "task_id": "579352",
+        "model_name": "gpt-4o-mini",
+        "candidate_font_1": "Brush Script",
+        "candidate_font_2": "Pacifico",
+        "candidate_font_3": "Lobster",
+        "candidate_font_4": "Dancing Script",
+        "candidate_font_5": "Great Vibes"
+    },
+    {
+        "task_id": "579352",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Hattori Hanzo",
+        "candidate_font_2": "Brush King",
+        "candidate_font_3": "Wild Youth",
+        "candidate_font_4": "Shorelines Script",
+        "candidate_font_5": "Bromello"
+    },
+    {
+        "task_id": "579351",
+        "model_name": "gpt-4o-mini",
+        "candidate_font_1": "Noto Sans CJK SC",
+        "candidate_font_2": "Source Han Sans",
+        "candidate_font_3": "SimSun",
+        "candidate_font_4": "Wawati SC",
+        "candidate_font_5": "Microsoft YaHei"
+    },
+    {
+        "task_id": "579351",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "DynaFont DFHei",
+        "candidate_font_2": "Arphic AR Hei",
+        "candidate_font_3": "LiHei",
+        "candidate_font_4": "Hanyi Hei",
+        "candidate_font_5": "Microsoft JhengHei"
+    },
+    {
+        "task_id": "579350",
+        "model_name": "gpt-4o-mini",
+        "candidate_font_1": "SimSun",
+        "candidate_font_2": "KaiTi",
+        "candidate_font_3": "Microsoft YaHei",
+        "candidate_font_4": "STKaiti",
+        "candidate_font_5": "Songti"
+    },
+    {
+        "task_id": "579350",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Microsoft YaHei",
+        "candidate_font_2": "SimHei",
+        "candidate_font_3": "PingFang SC",
+        "candidate_font_4": "Noto Sans CJK SC",
+        "candidate_font_5": "DengXian"
+    },
+    {
+        "task_id": "579349",
+        "model_name": "gpt-4o-mini",
+        "candidate_font_1": "Futura",
+        "candidate_font_2": "Helvetica",
+        "candidate_font_3": "Arial",
+        "candidate_font_4": "Bodoni",
+        "candidate_font_5": ""
+    },
+    {
+        "task_id": "579349",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Ionic No. 5 Bold",
+        "candidate_font_2": "Clarendon Bold Condensed",
+        "candidate_font_3": "Helvetica Black Extended",
+        "candidate_font_4": "Univers 93 Extra Black Extended",
+        "candidate_font_5": "American Scribe"
+    },
+    {
+        "task_id": "579348",
+        "model_name": "gpt-4o-mini",
+        "candidate_font_1": "MengHua Rounded",
+        "candidate_font_2": "PingFang Rounded",
+        "candidate_font_3": "Hiragino Rounded",
+        "candidate_font_4": "Noto Sans CJK Rounded",
+        "candidate_font_5": ""
+    },
+    {
+        "task_id": "579348",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "DynaComware HanaRounded (\u83ef\u5eb7\u5713\u9ad4)",
+        "candidate_font_2": "Arphic DFPPOP (\u6587\u9f0e\uff30\uff2f\uff30\u4f53)",
+        "candidate_font_3": "FounderType FZCuYuan (\u65b9\u6b63\u7c97\u5706)",
+        "candidate_font_4": "Monotype MT Rounded (\u8499\u7d0d\u5713\u9ad4)",
+        "candidate_font_5": ""
+    },
+    {
+        "task_id": "579347",
+        "model_name": "gpt-4o-mini",
+        "candidate_font_1": "Helvetica",
+        "candidate_font_2": "Arial",
+        "candidate_font_3": "Futura",
+        "candidate_font_4": "Grotesque",
+        "candidate_font_5": ""
+    },
+    {
+        "task_id": "579347",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Futura Heavy",
+        "candidate_font_2": "Univers Black",
+        "candidate_font_3": "Akzidenz-Grotesk Black",
+        "candidate_font_4": "Franklin Gothic Heavy",
+        "candidate_font_5": "News Gothic Std Black"
     }
 ]
