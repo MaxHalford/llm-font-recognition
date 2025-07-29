@@ -16813,7 +16813,7 @@
         "title": "WhatTheFont",
         "instructions": "Cannot find that one can you help me ?",
         "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1224133.png?1",
-        "identified_font": null
+        "identified_font": "Arcane Nine"
     },
     {
         "task_id": "579327",
@@ -17149,6 +17149,86 @@
         "title": "Help Please!!",
         "instructions": null,
         "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1224230.png",
+        "identified_font": null
+    },
+    {
+        "task_id": "579395",
+        "url": "https://www.dafont.com/forum/read/579395/which-japanese-font",
+        "title": "Which Japanese font?",
+        "instructions": "Used on a wara1227's video",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1224272.png",
+        "identified_font": null
+    },
+    {
+        "task_id": "579394",
+        "url": "https://www.dafont.com/forum/read/579394/star-logo-font",
+        "title": "Star logo font",
+        "instructions": null,
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1224271.png",
+        "identified_font": null
+    },
+    {
+        "task_id": "579378",
+        "url": "https://www.dafont.com/forum/read/579378/qual-font",
+        "title": "Qual font?",
+        "instructions": null,
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1224251.png?1",
+        "identified_font": "Academic M54"
+    },
+    {
+        "task_id": "579393",
+        "url": "https://www.dafont.com/forum/read/579393/hotel-europe-font-help",
+        "title": "Hotel Europe! Font Help!",
+        "instructions": "Dear people, pls help! Can somebody help me identify the font in the image attached?",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1224268.jpg",
+        "identified_font": null
+    },
+    {
+        "task_id": "579392",
+        "url": "https://www.dafont.com/forum/read/579392/fonte-capa-de-album",
+        "title": "Fonte capa de album",
+        "instructions": null,
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1224267.png",
+        "identified_font": null
+    },
+    {
+        "task_id": "579391",
+        "url": "https://www.dafont.com/forum/read/579391/podovi-knjiga",
+        "title": "Podovi knjiga",
+        "instructions": null,
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1224266.png",
+        "identified_font": null
+    },
+    {
+        "task_id": "579381",
+        "url": "https://www.dafont.com/forum/read/579381/font-names-pls",
+        "title": "Font names pls :)",
+        "instructions": null,
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1224255.jpg",
+        "identified_font": null
+    },
+    {
+        "task_id": "579379",
+        "url": "https://www.dafont.com/forum/read/579379/font-id",
+        "title": "font ID",
+        "instructions": "Does anyone know what font this is?",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1224253.jpg",
+        "identified_font": null
+    },
+    {
+        "task_id": "579377",
+        "url": "https://www.dafont.com/forum/read/579377/preciso-dessa-fonte",
+        "title": "preciso dessa fonte!!",
+        "instructions": "vou fazer uma camiseta para uma escola e eles escolheram essa fonte, por\u00e9m n\u00e3o consigo achar ela, me ajudemmm",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1224249.jpg",
+        "identified_font": null
+    },
+    {
+        "task_id": "579376",
+        "url": "https://www.dafont.com/forum/read/579376/joyride",
+        "title": "JOYRIDE",
+        "instructions": "Any idea of which font is in \"Joyride\" text? Thanks a lot.",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1224245.jpg",
         "identified_font": null
     }
 ]
