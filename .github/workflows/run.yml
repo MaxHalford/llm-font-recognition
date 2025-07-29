@@ -26,7 +26,7 @@ jobs:
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
-          git add tasks.json last_scraped_at.txt
+          git add src/data/tasks.json last_scraped_at.txt
           git commit -m "Update tasks and last_scraped_at [auto]" || echo "No changes to commit"
           git push
 
@@ -41,7 +41,7 @@ jobs:
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
-          git add guesses.json
+          git add src/data/guesses.json
           git commit -m "Classify tasks [auto]" || echo "No changes to commit"
           git push
 
