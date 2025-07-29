@@ -29536,5 +29536,95 @@
         "candidate_font_3": "Franklin Gothic Black",
         "candidate_font_4": "News Gothic Bold",
         "candidate_font_5": "Trade Gothic Bold"
+    },
+    {
+        "task_id": "579423",
+        "model_name": "gpt-4o-mini",
+        "candidate_font_1": "Burbank Big Condensed",
+        "candidate_font_2": "Varsity",
+        "candidate_font_3": "Impact",
+        "candidate_font_4": "Action Man",
+        "candidate_font_5": ""
+    },
+    {
+        "task_id": "579423",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "SF Sports Night",
+        "candidate_font_2": "College Block",
+        "candidate_font_3": "Octin Sports",
+        "candidate_font_4": "Varsity Team",
+        "candidate_font_5": "Athletic Block"
+    },
+    {
+        "task_id": "579421",
+        "model_name": "gpt-4o-mini",
+        "candidate_font_1": "Bodoni",
+        "candidate_font_2": "Didot",
+        "candidate_font_3": "Playfair Display",
+        "candidate_font_4": "Garamond",
+        "candidate_font_5": ""
+    },
+    {
+        "task_id": "579421",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Montserrat Black",
+        "candidate_font_2": "Montserrat Thin",
+        "candidate_font_3": "Montserrat Regular",
+        "candidate_font_4": "Gotham Black",
+        "candidate_font_5": "Lato Thin"
+    },
+    {
+        "task_id": "579420",
+        "model_name": "gpt-4o-mini",
+        "candidate_font_1": "Bebas Neue",
+        "candidate_font_2": "Impact",
+        "candidate_font_3": "Anton",
+        "candidate_font_4": "Exo",
+        "candidate_font_5": "Bungee"
+    },
+    {
+        "task_id": "579420",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Impact",
+        "candidate_font_2": "Akira Expanded",
+        "candidate_font_3": "Aero Matics Bold Italic",
+        "candidate_font_4": "Compacta",
+        "candidate_font_5": ""
+    },
+    {
+        "task_id": "541182",
+        "model_name": "gpt-4o-mini",
+        "candidate_font_1": "Lobster",
+        "candidate_font_2": "Pacifico",
+        "candidate_font_3": "Bebas Neue",
+        "candidate_font_4": "Raleway",
+        "candidate_font_5": "Brush Script"
+    },
+    {
+        "task_id": "541182",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Thousand Sunny",
+        "candidate_font_2": "Beautiful People Personal Use",
+        "candidate_font_3": "Amsterdam One",
+        "candidate_font_4": "Brotherhood Script",
+        "candidate_font_5": "Alex Brush"
+    },
+    {
+        "task_id": "579418",
+        "model_name": "gpt-4o-mini",
+        "candidate_font_1": "Bebas Neue",
+        "candidate_font_2": "Impact",
+        "candidate_font_3": "Anton",
+        "candidate_font_4": "ChunkFive",
+        "candidate_font_5": ""
+    },
+    {
+        "task_id": "579418",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "SF Collegiate Block",
+        "candidate_font_2": "College Block 2.0",
+        "candidate_font_3": "Varsity Regular",
+        "candidate_font_4": "Bebas Neue Bold",
+        "candidate_font_5": "Impact"
     }
 ]
