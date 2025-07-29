@@ -28888,5 +28888,77 @@
         "candidate_font_3": "M PLUS Rounded 1c",
         "candidate_font_4": "Comfortaa",
         "candidate_font_5": "Varela Round"
+    },
+    {
+        "task_id": "579367",
+        "model_name": "gpt-4o-mini",
+        "candidate_font_1": "Futura",
+        "candidate_font_2": "Bebas Neue",
+        "candidate_font_3": "Montserrat",
+        "candidate_font_4": "Archivo Black",
+        "candidate_font_5": "Poppins"
+    },
+    {
+        "task_id": "579367",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Blobby",
+        "candidate_font_2": "Chawp",
+        "candidate_font_3": "Good Dog",
+        "candidate_font_4": "Blippo Black",
+        "candidate_font_5": "VAG Rounded"
+    },
+    {
+        "task_id": "579364",
+        "model_name": "gpt-4o-mini",
+        "candidate_font_1": "Bodoni",
+        "candidate_font_2": "Didot",
+        "candidate_font_3": "Playfair Display",
+        "candidate_font_4": "Lora",
+        "candidate_font_5": ""
+    },
+    {
+        "task_id": "579364",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Magnolia Sky",
+        "candidate_font_2": "Hello Beautiful",
+        "candidate_font_3": "Delightful Script",
+        "candidate_font_4": "Loverine",
+        "candidate_font_5": "Playfair Display"
+    },
+    {
+        "task_id": "579362",
+        "model_name": "gpt-4o-mini",
+        "candidate_font_1": "Nugor",
+        "candidate_font_2": "Nugget",
+        "candidate_font_3": "Nocturne",
+        "candidate_font_4": "Nubank",
+        "candidate_font_5": ""
+    },
+    {
+        "task_id": "579362",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Megatron",
+        "candidate_font_2": "",
+        "candidate_font_3": "",
+        "candidate_font_4": "",
+        "candidate_font_5": ""
+    },
+    {
+        "task_id": "579361",
+        "model_name": "gpt-4o-mini",
+        "candidate_font_1": "Futura",
+        "candidate_font_2": "Gotham",
+        "candidate_font_3": "Bebas Neue",
+        "candidate_font_4": "Impact",
+        "candidate_font_5": ""
+    },
+    {
+        "task_id": "579361",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Outer Limits",
+        "candidate_font_2": "SF Hyperspace",
+        "candidate_font_3": "SF TransRobotics",
+        "candidate_font_4": "Cyberdyne",
+        "candidate_font_5": "Digital Strip"
     }
 ]
