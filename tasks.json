@@ -16869,7 +16869,7 @@
         "title": "Hrvatski preporod jsjs",
         "instructions": null,
         "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1224171.jpg",
-        "identified_font": null
+        "identified_font": "Egyytian Bold Condensed"
     },
     {
         "task_id": "579343",
@@ -16877,7 +16877,7 @@
         "title": "RETIFICA FONT?",
         "instructions": "RET\u00cdFICA FONT?",
         "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1224176.png",
-        "identified_font": null
+        "identified_font": "Futura Pro Extra Bold Oblique"
     },
     {
         "task_id": "579342",
@@ -16949,6 +16949,70 @@
         "title": "Font Name?",
         "instructions": null,
         "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1224146.jpg",
+        "identified_font": null
+    },
+    {
+        "task_id": "579353",
+        "url": "https://www.dafont.com/forum/read/579353/font-id",
+        "title": "font ID",
+        "instructions": "Does anyone know what font this is?",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1224198.jpg",
+        "identified_font": null
+    },
+    {
+        "task_id": "579352",
+        "url": "https://www.dafont.com/forum/read/579352/fluffy-s-font",
+        "title": "Fluffy's font",
+        "instructions": "Anyone know this font?",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1224197.png",
+        "identified_font": null
+    },
+    {
+        "task_id": "579351",
+        "url": "https://www.dafont.com/forum/read/579351/",
+        "title": "&#40657;&#20307;&#32321;&#20307;&#23383;",
+        "instructions": "Can anybody tell me the name of the font that is in Chinese and has these flat ends to the words in Chinese from \u6eda\u77f3\u5531\u7247? Or someone should remake it with font creators or some other Font recretors? Sometimes, they are not perfectly to the same height except bigger or smaller or whatever to the words.",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1224191.png",
+        "identified_font": null
+    },
+    {
+        "task_id": "579346",
+        "url": "https://www.dafont.com/forum/read/579346/font-name-please",
+        "title": "Font name please",
+        "instructions": "they ain't 100\"font name please",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1224184.jpg",
+        "identified_font": "Dharma Gothic Heavy Italic"
+    },
+    {
+        "task_id": "579350",
+        "url": "https://www.dafont.com/forum/read/579350/",
+        "title": "&#23435;&#20307;&#26126;&#20307;&#23601;&#20687;&#19968;&#28857;&#30340;&#23383;&#20307;",
+        "instructions": "\u4e2d\u6587/\u666e\u901a\uff1a",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1224189.png",
+        "identified_font": null
+    },
+    {
+        "task_id": "579349",
+        "url": "https://www.dafont.com/forum/read/579349/osvetnik-ginter",
+        "title": "Osvetnik ginter",
+        "instructions": null,
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1224188.jpg",
+        "identified_font": null
+    },
+    {
+        "task_id": "579348",
+        "url": "https://www.dafont.com/forum/read/579348/",
+        "title": "&#28378;&#30707;&#21809;&#29255;&#30340;&#22278;&#20307;&#23383;&#20307;",
+        "instructions": "Hey there. I'm trying to look for a Chinese Rounded '\u6eda\u77f3\u5531\u7247\u5706\u4f53\u5b57' Font from all songs made by Chinese song artists, but I cannot find or download it to my file explorer folders because they are copyright infringement and customly made with a font creator and something FontLab or FontForge-something. Could someone tell me the names and/or something about the font from wherever or somebody could recreate and remake the lyrical font filled in with green, blue, and pink from the 80s and 90s?",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1224187.png",
+        "identified_font": null
+    },
+    {
+        "task_id": "579347",
+        "url": "https://www.dafont.com/forum/read/579347/uvod-u-kibernetiku-j",
+        "title": "Uvod u kibernetiku j",
+        "instructions": null,
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1224185.jpg",
         "identified_font": null
     }
 ]
