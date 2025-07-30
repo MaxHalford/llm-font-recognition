@@ -17517,7 +17517,7 @@
         "title": "Font pls?",
         "instructions": null,
         "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1224347.png",
-        "identified_font": null
+        "identified_font": "Slime And Blood"
     },
     {
         "task_id": "463584",
@@ -17525,6 +17525,38 @@
         "title": "How is this font called?",
         "instructions": null,
         "img_url": "https://www.dafont.com/forum/attach/orig/9/8/988820.png?1",
+        "identified_font": null
+    },
+    {
+        "task_id": "579439",
+        "url": "https://www.dafont.com/forum/read/579439/font-id",
+        "title": "FONT ID",
+        "instructions": "Can you please help me to identify this font??",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1224366.png",
+        "identified_font": null
+    },
+    {
+        "task_id": "579435",
+        "url": "https://www.dafont.com/forum/read/579435/id-font",
+        "title": "ID FONT?",
+        "instructions": null,
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1224362.png",
+        "identified_font": null
+    },
+    {
+        "task_id": "579433",
+        "url": "https://www.dafont.com/forum/read/579433/what-font-is-this-aqui-agora",
+        "title": "What font is this? \"Aqui Agora\"",
+        "instructions": "Please",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1224359.jpg",
+        "identified_font": null
+    },
+    {
+        "task_id": "579431",
+        "url": "https://www.dafont.com/forum/read/579431/uniao-de-marica-2026-carnaval-logo-enredo-theme",
+        "title": "Uni\u00e3o de Maric\u00e1 2026 Carnaval logo enredo theme",
+        "instructions": null,
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1224357.png",
         "identified_font": null
     }
 ]
