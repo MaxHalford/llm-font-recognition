@@ -17045,7 +17045,7 @@
         "title": "Barney Let's Go to the Zoo",
         "instructions": "What font is for Barney Let's Go to the Zoo?",
         "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1224204.jpg",
-        "identified_font": null
+        "identified_font": "ComicsCarToon"
     },
     {
         "task_id": "579355",
@@ -17558,5 +17558,13 @@
         "instructions": null,
         "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1224357.png",
         "identified_font": null
+    },
+    {
+        "task_id": "579441",
+        "url": "https://www.dafont.com/forum/read/579441/pls-help-meeee",
+        "title": "PLS HELP MEEEE",
+        "instructions": "editing & kca",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1224371.jpg",
+        "identified_font": "Outfit Bold"
     }
 ]
