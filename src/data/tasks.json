@@ -17790,5 +17790,93 @@
         "instructions": null,
         "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1224409.png",
         "identified_font": null
+    },
+    {
+        "task_id": "579488",
+        "url": "https://www.dafont.com/forum/read/579488/i-should-know-this-one-but-here-i-am",
+        "title": "I should know this one, but.... here I am.",
+        "instructions": null,
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1224470.png",
+        "identified_font": "Trajan"
+    },
+    {
+        "task_id": "579480",
+        "url": "https://www.dafont.com/forum/read/579480/carattere",
+        "title": "carattere",
+        "instructions": null,
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1224454.jpg",
+        "identified_font": "Pringle & Tweed"
+    },
+    {
+        "task_id": "579487",
+        "url": "https://www.dafont.com/forum/read/579487/fonte-please",
+        "title": "Fonte, please!!!",
+        "instructions": null,
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1224469.jpg",
+        "identified_font": null
+    },
+    {
+        "task_id": "579484",
+        "url": "https://www.dafont.com/forum/read/579484/name-the-font",
+        "title": "Name the font?",
+        "instructions": "The font that the girls' names are written in",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1224466.png",
+        "identified_font": null
+    },
+    {
+        "task_id": "579476",
+        "url": "https://www.dafont.com/forum/read/579476/que-fuentes-es-gracias",
+        "title": "QUE FUENTES ES? GRACIAS!!!",
+        "instructions": null,
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1224439.png",
+        "identified_font": "DIN Medium"
+    },
+    {
+        "task_id": "579483",
+        "url": "https://www.dafont.com/forum/read/579483/what-the-font",
+        "title": "WHAT THE FONT?",
+        "instructions": null,
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1224464.jpg",
+        "identified_font": null
+    },
+    {
+        "task_id": "579482",
+        "url": "https://www.dafont.com/forum/read/579482/mehanizmi-organskih-reakcija",
+        "title": "MEHANIZMI ORGANSKIH REAKCIJA",
+        "instructions": null,
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1224462.jpg",
+        "identified_font": null
+    },
+    {
+        "task_id": "579481",
+        "url": "https://www.dafont.com/forum/read/579481/ekonomija-i-organizacija-ugostiteljstva",
+        "title": "Ekonomija i organizacija ugostiteljstva",
+        "instructions": null,
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1224460.jpg",
+        "identified_font": null
+    },
+    {
+        "task_id": "579475",
+        "url": "https://www.dafont.com/forum/read/579475/please-help",
+        "title": "Please Help",
+        "instructions": null,
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1224438.jpg",
+        "identified_font": "IM Fell Types"
+    },
+    {
+        "task_id": "579479",
+        "url": "https://www.dafont.com/forum/read/579479/font-fd",
+        "title": "Font fd",
+        "instructions": null,
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1224445.jpg",
+        "identified_font": null
+    },
+    {
+        "task_id": "579478",
+        "url": "https://www.dafont.com/forum/read/579478/font-name-please",
+        "title": "Font name please!!!",
+        "instructions": null,
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1224443.jpg",
+        "identified_font": null
     }
 ]
