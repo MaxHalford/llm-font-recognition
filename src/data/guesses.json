@@ -29644,5 +29644,95 @@
         "candidate_font_3": "Requiem Text",
         "candidate_font_4": "Windsor",
         "candidate_font_5": "Monotype Garamond"
+    },
+    {
+        "task_id": "579430",
+        "model_name": "gpt-4o-mini",
+        "candidate_font_1": "Montserrat",
+        "candidate_font_2": "Oswald",
+        "candidate_font_3": "Poppins",
+        "candidate_font_4": "Raleway",
+        "candidate_font_5": "Nunito"
+    },
+    {
+        "task_id": "579430",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Oli",
+        "candidate_font_2": "Varela Round",
+        "candidate_font_3": "",
+        "candidate_font_4": "",
+        "candidate_font_5": ""
+    },
+    {
+        "task_id": "579429",
+        "model_name": "gpt-4o-mini",
+        "candidate_font_1": "Bebas Neue",
+        "candidate_font_2": "Impact",
+        "candidate_font_3": "Anton",
+        "candidate_font_4": "DIN Condensed",
+        "candidate_font_5": "Futura"
+    },
+    {
+        "task_id": "579429",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "VCR OSD Mono",
+        "candidate_font_2": "Press Start 2P",
+        "candidate_font_3": "8-bit Arcade Out",
+        "candidate_font_4": "Minecraftia",
+        "candidate_font_5": "Arcade Classic"
+    },
+    {
+        "task_id": "579428",
+        "model_name": "gpt-4o-mini",
+        "candidate_font_1": "Bouncy",
+        "candidate_font_2": "Bubblegum Sans",
+        "candidate_font_3": "Chewy",
+        "candidate_font_4": "Comic Sans MS",
+        "candidate_font_5": "Party LET"
+    },
+    {
+        "task_id": "579428",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Bubblegum Sans",
+        "candidate_font_2": "Fredoka One",
+        "candidate_font_3": "Chewy",
+        "candidate_font_4": "VAG Rounded Bold",
+        "candidate_font_5": "Lilita One"
+    },
+    {
+        "task_id": "579426",
+        "model_name": "gpt-4o-mini",
+        "candidate_font_1": "Creepy",
+        "candidate_font_2": "Dripping Marker",
+        "candidate_font_3": "Zombie",
+        "candidate_font_4": "Demonized",
+        "candidate_font_5": "Horror Font"
+    },
+    {
+        "task_id": "579426",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Meltdown",
+        "candidate_font_2": "Liquid Science",
+        "candidate_font_3": "Something Wild",
+        "candidate_font_4": "YouMurderer BB",
+        "candidate_font_5": "Dripping Blood"
+    },
+    {
+        "task_id": "463584",
+        "model_name": "gpt-4o-mini",
+        "candidate_font_1": "Basilisk",
+        "candidate_font_2": "Blackletter",
+        "candidate_font_3": "Garamond",
+        "candidate_font_4": "Bodoni",
+        "candidate_font_5": "Cloister Black"
+    },
+    {
+        "task_id": "463584",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Basilisk",
+        "candidate_font_2": "Romie",
+        "candidate_font_3": "Glamour Absolute",
+        "candidate_font_4": "Regal King",
+        "candidate_font_5": "Requiem"
     }
 ]
