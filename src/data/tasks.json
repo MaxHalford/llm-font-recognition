@@ -17478,5 +17478,53 @@
         "instructions": null,
         "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1224341.png",
         "identified_font": null
+    },
+    {
+        "task_id": "579430",
+        "url": "https://www.dafont.com/forum/read/579430/font-id",
+        "title": "Font ID?",
+        "instructions": "Does any recognize the sans serif fonts in this logo?",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1224356.jpg",
+        "identified_font": null
+    },
+    {
+        "task_id": "579429",
+        "url": "https://www.dafont.com/forum/read/579429/need-help-identifying-font",
+        "title": "Need Help Identifying Font",
+        "instructions": null,
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1224355.png",
+        "identified_font": null
+    },
+    {
+        "task_id": "579427",
+        "url": "https://www.dafont.com/forum/read/579427/font-please-it-s-not-arial-or-arial-black",
+        "title": "Font, please (It's not Arial or Arial Black!)",
+        "instructions": null,
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1224348.png",
+        "identified_font": "Trebuchet"
+    },
+    {
+        "task_id": "579428",
+        "url": "https://www.dafont.com/forum/read/579428/hey-can-anyone-tell-me-the-name-of-this-font-i-can-t-find-it-anywhere",
+        "title": "Hey, can anyone tell me the name of this font? I can't find it anywhere.",
+        "instructions": "From the game: Reader Rabbit, (In Portuguese, Coelho Sabido)",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1224349.png",
+        "identified_font": null
+    },
+    {
+        "task_id": "579426",
+        "url": "https://www.dafont.com/forum/read/579426/font-pls",
+        "title": "Font pls?",
+        "instructions": null,
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1224347.png",
+        "identified_font": null
+    },
+    {
+        "task_id": "463584",
+        "url": "https://www.dafont.com/forum/read/463584/how-is-this-font-called",
+        "title": "How is this font called?",
+        "instructions": null,
+        "img_url": "https://www.dafont.com/forum/attach/orig/9/8/988820.png?1",
+        "identified_font": null
     }
 ]
