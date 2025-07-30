@@ -29734,5 +29734,77 @@
         "candidate_font_3": "Glamour Absolute",
         "candidate_font_4": "Regal King",
         "candidate_font_5": "Requiem"
+    },
+    {
+        "task_id": "579439",
+        "model_name": "gpt-4o-mini",
+        "candidate_font_1": "Brush Script MT",
+        "candidate_font_2": "Pacifico",
+        "candidate_font_3": "Lobster Two",
+        "candidate_font_4": "Freestyle Script",
+        "candidate_font_5": "Lemon Tuesday"
+    },
+    {
+        "task_id": "579439",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Throwupz",
+        "candidate_font_2": "Hardkore Tag",
+        "candidate_font_3": "Bombshell Tag",
+        "candidate_font_4": "Vandalism",
+        "candidate_font_5": "Graffiti Paint Brush"
+    },
+    {
+        "task_id": "579435",
+        "model_name": "gpt-4o-mini",
+        "candidate_font_1": "Dancing Script",
+        "candidate_font_2": "Pacifico",
+        "candidate_font_3": "Great Vibes",
+        "candidate_font_4": "Satisfy",
+        "candidate_font_5": "Allura"
+    },
+    {
+        "task_id": "579435",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Shelley Andante BT",
+        "candidate_font_2": "Great Vibes",
+        "candidate_font_3": "Allura",
+        "candidate_font_4": "Pinyon Script",
+        "candidate_font_5": "Kuenstler Script"
+    },
+    {
+        "task_id": "579433",
+        "model_name": "gpt-4o-mini",
+        "candidate_font_1": "Bebas Neue",
+        "candidate_font_2": "Oswald",
+        "candidate_font_3": "Anton",
+        "candidate_font_4": "Impact",
+        "candidate_font_5": "Barlow Condensed"
+    },
+    {
+        "task_id": "579433",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "SF TransRobotics",
+        "candidate_font_2": "Hyperspace Race",
+        "candidate_font_3": "Space Marine",
+        "candidate_font_4": "Capture It",
+        "candidate_font_5": "Countdown"
+    },
+    {
+        "task_id": "579431",
+        "model_name": "gpt-4o-mini",
+        "candidate_font_1": "Bebas Neue",
+        "candidate_font_2": "Oswald",
+        "candidate_font_3": "Montserrat",
+        "candidate_font_4": "Righteous",
+        "candidate_font_5": "Lobster"
+    },
+    {
+        "task_id": "579431",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Open Sans Bold",
+        "candidate_font_2": "Mandingo",
+        "candidate_font_3": "Ethnocentric Regular",
+        "candidate_font_4": "Eurostile Bold",
+        "candidate_font_5": "Bebas Neue Bold"
     }
 ]
