@@ -31048,5 +31048,131 @@
         "candidate_font_3": "Chewy",
         "candidate_font_4": "Bubblegum Sans",
         "candidate_font_5": "Fredoka One"
+    },
+    {
+        "task_id": "579543",
+        "model_name": "gpt-4o-mini",
+        "candidate_font_1": "Georgia",
+        "candidate_font_2": "Garamond",
+        "candidate_font_3": "Merriweather",
+        "candidate_font_4": "Palatino Linotype",
+        "candidate_font_5": "Charter"
+    },
+    {
+        "task_id": "579543",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Times New Roman Pro",
+        "candidate_font_2": "Minion Pro",
+        "candidate_font_3": "Adobe Utopia",
+        "candidate_font_4": "STIX Two Text",
+        "candidate_font_5": "Times LT Std"
+    },
+    {
+        "task_id": "579552",
+        "model_name": "gpt-4o-mini",
+        "candidate_font_1": "Comic Sans MS",
+        "candidate_font_2": "Chalkboard SE",
+        "candidate_font_3": "BubbleGum",
+        "candidate_font_4": "Kawaii Future",
+        "candidate_font_5": "Dancing Script"
+    },
+    {
+        "task_id": "579552",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Porky's",
+        "candidate_font_2": "Squeaky Gumbo",
+        "candidate_font_3": "Cheeky Monkey",
+        "candidate_font_4": "Arial Narrow",
+        "candidate_font_5": "Arial Bold"
+    },
+    {
+        "task_id": "579551",
+        "model_name": "gpt-4o-mini",
+        "candidate_font_1": "Luckiest Guy",
+        "candidate_font_2": "Comic Sans MS",
+        "candidate_font_3": "Arial Rounded MT Bold",
+        "candidate_font_4": "Raleway",
+        "candidate_font_5": "Bangers"
+    },
+    {
+        "task_id": "579551",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Roboto Black",
+        "candidate_font_2": "Barlow Black",
+        "candidate_font_3": "Montserrat Black",
+        "candidate_font_4": "Archivo Black",
+        "candidate_font_5": "Open Sans ExtraBold"
+    },
+    {
+        "task_id": "579550",
+        "model_name": "gpt-4o-mini",
+        "candidate_font_1": "BubbleGum",
+        "candidate_font_2": "Bouncy",
+        "candidate_font_3": "FunkySponge",
+        "candidate_font_4": "Playtime",
+        "candidate_font_5": "DoodlePop"
+    },
+    {
+        "task_id": "579550",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Puffy",
+        "candidate_font_2": "Gelli",
+        "candidate_font_3": "Bubble Butt",
+        "candidate_font_4": "Bubblegum Sans",
+        "candidate_font_5": "Gumzilla"
+    },
+    {
+        "task_id": "579549",
+        "model_name": "gpt-4o-mini",
+        "candidate_font_1": "Gothic Full Moon",
+        "candidate_font_2": "Blackletter",
+        "candidate_font_3": "Old English Text",
+        "candidate_font_4": "Cloister Black",
+        "candidate_font_5": "Fraktur"
+    },
+    {
+        "task_id": "579549",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "California Gothic",
+        "candidate_font_2": "California Dreamer",
+        "candidate_font_3": "Blackletter Swash",
+        "candidate_font_4": "Metal Lord",
+        "candidate_font_5": "Old English Swash"
+    },
+    {
+        "task_id": "579547",
+        "model_name": "gpt-4o-mini",
+        "candidate_font_1": "Poppins",
+        "candidate_font_2": "Nunito",
+        "candidate_font_3": "Baloo",
+        "candidate_font_4": "Quicksand",
+        "candidate_font_5": "Montserrat"
+    },
+    {
+        "task_id": "579547",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Quicksand",
+        "candidate_font_2": "Nunito",
+        "candidate_font_3": "Varela Round",
+        "candidate_font_4": "Muli",
+        "candidate_font_5": "Fredoka"
+    },
+    {
+        "task_id": "579544",
+        "model_name": "gpt-4o-mini",
+        "candidate_font_1": "Comic Sans MS",
+        "candidate_font_2": "Arial Rounded MT Bold",
+        "candidate_font_3": "Poppins",
+        "candidate_font_4": "Baloo",
+        "candidate_font_5": "Open Sans"
+    },
+    {
+        "task_id": "579544",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Komika Title Italic",
+        "candidate_font_2": "Love Ya Like A Sister",
+        "candidate_font_3": "Gochi Hand",
+        "candidate_font_4": "Patrick Hand SC",
+        "candidate_font_5": "Schoolbell"
     }
 ]
