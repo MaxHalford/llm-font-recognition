@@ -30796,5 +30796,59 @@
         "candidate_font_3": "Octin Sports",
         "candidate_font_4": "Cyberdyne Italic",
         "candidate_font_5": "Agency FB Bold Extended Oblique"
+    },
+    {
+        "task_id": "579525",
+        "model_name": "gpt-4o-mini",
+        "candidate_font_1": "Blacker",
+        "candidate_font_2": "Metal Lord",
+        "candidate_font_3": "Celtic Warrior",
+        "candidate_font_4": "Cloister Black",
+        "candidate_font_5": "Blackadder ITC"
+    },
+    {
+        "task_id": "579525",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Ozzy Font",
+        "candidate_font_2": "Satanas",
+        "candidate_font_3": "Deathrattle",
+        "candidate_font_4": "Metal Lord",
+        "candidate_font_5": "Againts"
+    },
+    {
+        "task_id": "579523",
+        "model_name": "gpt-4o-mini",
+        "candidate_font_1": "Bodoni",
+        "candidate_font_2": "Cinzel",
+        "candidate_font_3": "Playfair Display",
+        "candidate_font_4": "Garamond",
+        "candidate_font_5": "Vesper Libre"
+    },
+    {
+        "task_id": "579523",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Montserrat",
+        "candidate_font_2": "Open Sans",
+        "candidate_font_3": "Lato",
+        "candidate_font_4": "Poppins",
+        "candidate_font_5": "Raleway"
+    },
+    {
+        "task_id": "579522",
+        "model_name": "gpt-4o-mini",
+        "candidate_font_1": "Gold Rush",
+        "candidate_font_2": "Bebas Neue",
+        "candidate_font_3": "Impact",
+        "candidate_font_4": "Futura Bold",
+        "candidate_font_5": "Arial Black"
+    },
+    {
+        "task_id": "579522",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Impact",
+        "candidate_font_2": "Bebas Neue Bold",
+        "candidate_font_3": "Gobold Black",
+        "candidate_font_4": "Anton",
+        "candidate_font_5": "Oswald ExtraBold"
     }
 ]
