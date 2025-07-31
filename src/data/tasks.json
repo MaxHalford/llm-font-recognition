@@ -17533,7 +17533,7 @@
         "title": "FONT ID",
         "instructions": "Can you please help me to identify this font??",
         "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1224366.png",
-        "identified_font": null
+        "identified_font": "Luna Bar"
     },
     {
         "task_id": "579435",
@@ -18077,6 +18077,38 @@
         "title": "AO ASHI - Anime",
         "instructions": null,
         "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1224536.png",
+        "identified_font": null
+    },
+    {
+        "task_id": "579524",
+        "url": "https://www.dafont.com/forum/read/579524/font-charla",
+        "title": "Font \"charla\"",
+        "instructions": "alguien sabe c\u00f3mo se llama la font que dice \"charla\"? las letras verdes",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1224560.jpg",
+        "identified_font": "ED Lavonia"
+    },
+    {
+        "task_id": "579525",
+        "url": "https://www.dafont.com/forum/read/579525/what-font",
+        "title": "What font?",
+        "instructions": "Looking for this font!",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1224562.png",
+        "identified_font": null
+    },
+    {
+        "task_id": "579523",
+        "url": "https://www.dafont.com/forum/read/579523/font-for-jaeguchi",
+        "title": "Font For \"JAEGUCHI\"",
+        "instructions": null,
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1224558.png",
+        "identified_font": null
+    },
+    {
+        "task_id": "579522",
+        "url": "https://www.dafont.com/forum/read/579522/font-name",
+        "title": "FONT NAME?",
+        "instructions": "Does anyone know the name of the font of the YBA logo. YBA is a roblox game from 2019 about the animanga series Jojo's Bizarre Adventure. Please can someone tell me what font this is",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1224551.png",
         "identified_font": null
     }
 ]
