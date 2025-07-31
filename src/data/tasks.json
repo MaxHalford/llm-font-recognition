@@ -269,7 +269,7 @@
         "title": "ERES EL",
         "instructions": "Please! Font of \"ERES EL\"?",
         "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1218157.png",
-        "identified_font": null
+        "identified_font": "Prequel"
     },
     {
         "task_id": "576746",
@@ -17661,7 +17661,7 @@
         "title": "Vanessas. Flowers",
         "instructions": null,
         "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1224403.jpg",
-        "identified_font": null
+        "identified_font": "Peignot Demi"
     },
     {
         "task_id": "576569",
@@ -18110,5 +18110,13 @@
         "instructions": "Does anyone know the name of the font of the YBA logo. YBA is a roblox game from 2019 about the animanga series Jojo's Bizarre Adventure. Please can someone tell me what font this is",
         "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1224551.png",
         "identified_font": null
+    },
+    {
+        "task_id": "579526",
+        "url": "https://www.dafont.com/forum/read/579526/which-this-font-please",
+        "title": "Which this font, please?",
+        "instructions": null,
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1224569.png",
+        "identified_font": "Halimun"
     }
 ]
