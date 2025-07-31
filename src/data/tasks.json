@@ -17340,7 +17340,7 @@
         "url": "https://www.dafont.com/forum/read/579401/font-for-blink-and-breath",
         "title": "Font for Blink and breath",
         "instructions": "I need this bro",
-        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1224280.png",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1224280.png?1",
         "identified_font": null
     },
     {
@@ -18237,7 +18237,7 @@
         "title": "ID font",
         "instructions": "ID",
         "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1224616.png",
-        "identified_font": null
+        "identified_font": "Impact"
     },
     {
         "task_id": "579550",
@@ -18253,7 +18253,7 @@
         "title": "Gothic 90s font",
         "instructions": "I need this font please help me",
         "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1224612.png",
-        "identified_font": null
+        "identified_font": "LaBrit"
     },
     {
         "task_id": "579547",
@@ -18269,6 +18269,94 @@
         "title": "font for  thumbnail please",
         "instructions": "i made it",
         "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1224607.png",
+        "identified_font": "Comic Sans"
+    },
+    {
+        "task_id": "579569",
+        "url": "https://www.dafont.com/forum/read/579569/help-with-salty",
+        "title": "help with salty",
+        "instructions": "help with salty",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1224649.jpg",
+        "identified_font": null
+    },
+    {
+        "task_id": "579560",
+        "url": "https://www.dafont.com/forum/read/579560/what-s-this-font-need-something-as-close-as-possible",
+        "title": "What\u0092s this font? Need something as close as possible",
+        "instructions": null,
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1224633.png",
+        "identified_font": "Avenir 85 Heavy"
+    },
+    {
+        "task_id": "579568",
+        "url": "https://www.dafont.com/forum/read/579568/font-from-yves-album-spoiler",
+        "title": "Font from YVES album spoiler",
+        "instructions": "Hi, I'm looking for the font in the image.",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1224645.png",
+        "identified_font": null
+    },
+    {
+        "task_id": "572067",
+        "url": "https://www.dafont.com/forum/read/572067/font-name-for-hangul-rom-and-english",
+        "title": "Font name for Hangul Rom and English?",
+        "instructions": null,
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1209237.png?1",
+        "identified_font": null
+    },
+    {
+        "task_id": "579567",
+        "url": "https://www.dafont.com/forum/read/579567/someone-know-this-font",
+        "title": "someone know this font ?",
+        "instructions": "what s the font pls ?",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1224642.jpg",
+        "identified_font": null
+    },
+    {
+        "task_id": "579566",
+        "url": "https://www.dafont.com/forum/read/579566/can-you-help-with-this-font",
+        "title": "Can you help with this font?",
+        "instructions": null,
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1224641.png",
+        "identified_font": null
+    },
+    {
+        "task_id": "579565",
+        "url": "https://www.dafont.com/forum/read/579565/jjjhbk",
+        "title": "Jjjhbk",
+        "instructions": null,
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1224640.jpg",
+        "identified_font": null
+    },
+    {
+        "task_id": "579564",
+        "url": "https://www.dafont.com/forum/read/579564/what-the-font",
+        "title": "What the font?",
+        "instructions": null,
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1224639.jpg",
+        "identified_font": null
+    },
+    {
+        "task_id": "579562",
+        "url": "https://www.dafont.com/forum/read/579562/que-tipografias-usaron",
+        "title": "que tipografias usaron?????",
+        "instructions": null,
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1224637.jpg",
+        "identified_font": null
+    },
+    {
+        "task_id": "579553",
+        "url": "https://www.dafont.com/forum/read/579553/fonte-name",
+        "title": "Fonte Name?",
+        "instructions": null,
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1224620.png",
+        "identified_font": "Neulis Sans"
+    },
+    {
+        "task_id": "579554",
+        "url": "https://www.dafont.com/forum/read/579554/which-font-for-the-title",
+        "title": "which font for the title?",
+        "instructions": null,
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1224621.png",
         "identified_font": null
     }
 ]
