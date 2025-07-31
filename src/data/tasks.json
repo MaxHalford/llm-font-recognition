@@ -12237,7 +12237,7 @@
         "title": "Font ?",
         "instructions": null,
         "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1223990.png?1",
-        "identified_font": null
+        "identified_font": "Street Van Haulnhouse"
     },
     {
         "task_id": "579263",
@@ -17796,7 +17796,7 @@
         "url": "https://www.dafont.com/forum/read/579488/i-should-know-this-one-but-here-i-am",
         "title": "I should know this one, but.... here I am.",
         "instructions": null,
-        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1224470.png",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1224470.png?1",
         "identified_font": "Trajan"
     },
     {
@@ -18053,7 +18053,7 @@
         "title": "BRAZIL",
         "instructions": null,
         "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1224542.png",
-        "identified_font": null
+        "identified_font": "Enchanted Land"
     },
     {
         "task_id": "579517",
@@ -18092,7 +18092,7 @@
         "url": "https://www.dafont.com/forum/read/579525/what-font",
         "title": "What font?",
         "instructions": "Looking for this font!",
-        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1224562.png",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1224562.png?1",
         "identified_font": null
     },
     {
@@ -18156,8 +18156,8 @@
         "url": "https://www.dafont.com/forum/read/579529/what-is-this-font-please",
         "title": "what is this font please",
         "instructions": null,
-        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1224580.png",
-        "identified_font": null
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1224580.png?1",
+        "identified_font": "Tiempos Fine"
     },
     {
         "task_id": "579527",
@@ -18213,7 +18213,7 @@
         "title": "Font name pls? Thanks!",
         "instructions": null,
         "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1224587.png",
-        "identified_font": null
+        "identified_font": "Crunchy Stick"
     },
     {
         "task_id": "579543",
@@ -18293,7 +18293,7 @@
         "title": "Font from YVES album spoiler",
         "instructions": "Hi, I'm looking for the font in the image.",
         "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1224645.png",
-        "identified_font": null
+        "identified_font": "Herbus"
     },
     {
         "task_id": "572067",
@@ -18357,6 +18357,78 @@
         "title": "which font for the title?",
         "instructions": null,
         "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1224621.png",
+        "identified_font": null
+    },
+    {
+        "task_id": "579581",
+        "url": "https://www.dafont.com/forum/read/579581/font-name-helpmeee",
+        "title": "FONT NAME? HELPMEEE",
+        "instructions": null,
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1224671.jpg",
+        "identified_font": null
+    },
+    {
+        "task_id": "579580",
+        "url": "https://www.dafont.com/forum/read/579580/please-help-find-font",
+        "title": "Please help find font",
+        "instructions": "I need to know the font that BISON and SOCCER are in?",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1224670.png",
+        "identified_font": null
+    },
+    {
+        "task_id": "579570",
+        "url": "https://www.dafont.com/forum/read/579570/ayuda-con-el-nombre-de-las-fuentes",
+        "title": "Ayuda con el nombre de las fuentes.",
+        "instructions": "Me podr\u00edan ayudar con las fuentes de \"TAQUERIA\" y \"ESQUINA\" por favor.",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1224652.jpg",
+        "identified_font": "Brady Bunch Remastered"
+    },
+    {
+        "task_id": "579577",
+        "url": "https://www.dafont.com/forum/read/579577/rtv-duga",
+        "title": "RTV Duga",
+        "instructions": null,
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1224666.jpg",
+        "identified_font": null
+    },
+    {
+        "task_id": "579576",
+        "url": "https://www.dafont.com/forum/read/579576/font",
+        "title": "Font?",
+        "instructions": "White Cat",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1224664.png",
+        "identified_font": null
+    },
+    {
+        "task_id": "579575",
+        "url": "https://www.dafont.com/forum/read/579575/font-of-lanolips-logo",
+        "title": "font of Lanolips logo",
+        "instructions": "Hello, what is the base of typography for this Lanolips logo?",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1224662.png",
+        "identified_font": null
+    },
+    {
+        "task_id": "579574",
+        "url": "https://www.dafont.com/forum/read/579574/pavillion-studios-thanks-in-advance",
+        "title": "Pavillion Studios - Thanks in advance :)",
+        "instructions": null,
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1224661.jpg",
+        "identified_font": null
+    },
+    {
+        "task_id": "579573",
+        "url": "https://www.dafont.com/forum/read/579573/what-font-is-in-the-cinnamon-text",
+        "title": "What font is in the \"CINNAMON\" text?",
+        "instructions": null,
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1224657.png",
+        "identified_font": null
+    },
+    {
+        "task_id": "579572",
+        "url": "https://www.dafont.com/forum/read/579572/qual-fonte-e",
+        "title": "Qual fonte \u00e9?",
+        "instructions": null,
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1224654.jpg",
         "identified_font": null
     }
 ]
