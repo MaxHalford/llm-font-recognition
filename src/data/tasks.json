@@ -17965,7 +17965,7 @@
         "title": "font \"s\u00f3 voc\u00ea n\u00e3o viu\" and \"luiza dam\" please",
         "instructions": "what\u00b4s the font \"s\u00f3 voc\u00ea n\u00e3o viu\"?",
         "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1224504.jpg",
-        "identified_font": null
+        "identified_font": "Rumble Brave"
     },
     {
         "task_id": "579492",
@@ -18021,7 +18021,7 @@
         "title": "font \"pela metade\" luiza dam",
         "instructions": "what\u00b4s the font \"pela\"?",
         "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1224485.jpg",
-        "identified_font": null
+        "identified_font": "Almagro"
     },
     {
         "task_id": "579489",
@@ -18029,6 +18029,54 @@
         "title": "Hola a todos!! Me ayudan a encontrar el nombre de esta fuente por favor? Muchas gracias!!",
         "instructions": null,
         "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1224482.jpg",
+        "identified_font": null
+    },
+    {
+        "task_id": "579515",
+        "url": "https://www.dafont.com/forum/read/579515/font-name",
+        "title": "Font name?",
+        "instructions": "I would love your help to identify this font, please",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1224538.png",
+        "identified_font": null
+    },
+    {
+        "task_id": "579521",
+        "url": "https://www.dafont.com/forum/read/579521/brazil",
+        "title": "BRAZIL",
+        "instructions": null,
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1224547.jpg",
+        "identified_font": null
+    },
+    {
+        "task_id": "579518",
+        "url": "https://www.dafont.com/forum/read/579518/brazil",
+        "title": "BRAZIL",
+        "instructions": null,
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1224542.png",
+        "identified_font": null
+    },
+    {
+        "task_id": "579517",
+        "url": "https://www.dafont.com/forum/read/579517/foto",
+        "title": "Foto",
+        "instructions": "What font",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1224540.jpg",
+        "identified_font": "Rolling Love"
+    },
+    {
+        "task_id": "579516",
+        "url": "https://www.dafont.com/forum/read/579516/script-fonts",
+        "title": "Script fonts",
+        "instructions": "Please!! What font are the black color script fonts???? Thank you very much in advance.",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1224539.png",
+        "identified_font": null
+    },
+    {
+        "task_id": "579514",
+        "url": "https://www.dafont.com/forum/read/579514/ao-ashi-anime",
+        "title": "AO ASHI - Anime",
+        "instructions": null,
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1224536.png",
         "identified_font": null
     }
 ]
