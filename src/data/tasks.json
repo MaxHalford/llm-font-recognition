@@ -18060,7 +18060,7 @@
         "url": "https://www.dafont.com/forum/read/579517/foto",
         "title": "Foto",
         "instructions": "What font",
-        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1224540.jpg",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1224540.png?1",
         "identified_font": "Rolling Love"
     },
     {
@@ -18356,8 +18356,8 @@
         "url": "https://www.dafont.com/forum/read/579554/which-font-for-the-title",
         "title": "which font for the title?",
         "instructions": null,
-        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1224621.png",
-        "identified_font": null
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1224621.png?1",
+        "identified_font": "Supertalls"
     },
     {
         "task_id": "579581",
@@ -18373,7 +18373,7 @@
         "title": "Please help find font",
         "instructions": "I need to know the font that BISON and SOCCER are in?",
         "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1224670.png",
-        "identified_font": null
+        "identified_font": "Square Slabserif 711"
     },
     {
         "task_id": "579570",
@@ -18436,7 +18436,7 @@
         "url": "https://www.dafont.com/forum/read/579591/font",
         "title": "Font?",
         "instructions": "\"STUDY\"",
-        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1224694.png",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1224694.png?1",
         "identified_font": null
     },
     {
@@ -18460,8 +18460,8 @@
         "url": "https://www.dafont.com/forum/read/579589/the-glyphs-serifs-fonts-aplicaciones-font",
         "title": "The Glyphs Serifs Fonts (APLICACIONES font)",
         "instructions": null,
-        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1224690.jpg",
-        "identified_font": null
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1224690.png?1",
+        "identified_font": "Dirtyline 36Daysoftype 2022"
     },
     {
         "task_id": "579584",
@@ -18477,7 +18477,7 @@
         "title": "What font is this?",
         "instructions": "I should add: I've used all font search tools at hand. No results.",
         "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1224687.png",
-        "identified_font": null
+        "identified_font": "Spumante"
     },
     {
         "task_id": "579582",
@@ -18509,6 +18509,62 @@
         "title": "what is a font? cual es la fuente??",
         "instructions": null,
         "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1224675.jpg",
+        "identified_font": null
+    },
+    {
+        "task_id": "579602",
+        "url": "https://www.dafont.com/forum/read/579602/zooba-font",
+        "title": "Zooba font",
+        "instructions": "Does anyone the font used in the Zooba logo",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1224715.png?1",
+        "identified_font": null
+    },
+    {
+        "task_id": "579601",
+        "url": "https://www.dafont.com/forum/read/579601/id-font",
+        "title": "ID FONT?",
+        "instructions": null,
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1224711.png",
+        "identified_font": "Peignot Demi"
+    },
+    {
+        "task_id": "579600",
+        "url": "https://www.dafont.com/forum/read/579600/jaeguchi-font",
+        "title": "Jaeguchi font",
+        "instructions": "font name please",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1224710.png",
+        "identified_font": "Bruteforce"
+    },
+    {
+        "task_id": "579599",
+        "url": "https://www.dafont.com/forum/read/579599/wild-cherry",
+        "title": "Wild Cherry",
+        "instructions": null,
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1224709.jpg",
+        "identified_font": null
+    },
+    {
+        "task_id": "579595",
+        "url": "https://www.dafont.com/forum/read/579595/walt-disney-pictures-text-font",
+        "title": "Walt Disney Pictures text font",
+        "instructions": "What font is for Walt Disney Pictures?",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1224699.jpg",
+        "identified_font": null
+    },
+    {
+        "task_id": "579594",
+        "url": "https://www.dafont.com/forum/read/579594/bj-and-the-rockets",
+        "title": "BJ and the Rockets",
+        "instructions": "What font is for BJ and the Rockets?",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1224698.jpg",
+        "identified_font": null
+    },
+    {
+        "task_id": "579593",
+        "url": "https://www.dafont.com/forum/read/579593/barney-s-dino-dancin-tunes",
+        "title": "Barney's Dino Dancin' Tunes",
+        "instructions": "What font is for Barney's Dino Dancin' Tunes?",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1224697.png?1",
         "identified_font": null
     }
 ]
