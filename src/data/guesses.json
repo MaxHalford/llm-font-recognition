@@ -31624,5 +31624,95 @@
         "candidate_font_3": "",
         "candidate_font_4": "",
         "candidate_font_5": ""
+    },
+    {
+        "task_id": "579602",
+        "model_name": "gpt-4o-mini",
+        "candidate_font_1": "Balloons",
+        "candidate_font_2": "BubbleGum",
+        "candidate_font_3": "Funky Chunky",
+        "candidate_font_4": "Raging Red",
+        "candidate_font_5": "Action Man"
+    },
+    {
+        "task_id": "579602",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Luckiest Guy",
+        "candidate_font_2": "Titan One",
+        "candidate_font_3": "Chewy",
+        "candidate_font_4": "Bangers",
+        "candidate_font_5": "Grilled Cheese NF"
+    },
+    {
+        "task_id": "579599",
+        "model_name": "gpt-4o-mini",
+        "candidate_font_1": "Lobster",
+        "candidate_font_2": "Pacifico",
+        "candidate_font_3": "Satisfy",
+        "candidate_font_4": "Dancing Script",
+        "candidate_font_5": "Brush Script MT"
+    },
+    {
+        "task_id": "579599",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Wild Mango",
+        "candidate_font_2": "Goblin",
+        "candidate_font_3": "Roboto",
+        "candidate_font_4": "",
+        "candidate_font_5": ""
+    },
+    {
+        "task_id": "579595",
+        "model_name": "gpt-4o-mini",
+        "candidate_font_1": "Waltograph",
+        "candidate_font_2": "Disney Script",
+        "candidate_font_3": "Mickey Mouse",
+        "candidate_font_4": "Comic Sans MS",
+        "candidate_font_5": ""
+    },
+    {
+        "task_id": "579595",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Waltograph",
+        "candidate_font_2": "ITC Avant Garde Gothic",
+        "candidate_font_3": "Futura Bold",
+        "candidate_font_4": "Disney Park",
+        "candidate_font_5": "Univers Bold"
+    },
+    {
+        "task_id": "579594",
+        "model_name": "gpt-4o-mini",
+        "candidate_font_1": "Comic Sans MS",
+        "candidate_font_2": "Bubblegum Sans",
+        "candidate_font_3": "Funky Gothic",
+        "candidate_font_4": "Kool Beans",
+        "candidate_font_5": "Henny Penny"
+    },
+    {
+        "task_id": "579594",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Burbank Big Condensed Black",
+        "candidate_font_2": "Bubblegum Sans",
+        "candidate_font_3": "Chewy",
+        "candidate_font_4": "Cream Puff",
+        "candidate_font_5": "Porky's"
+    },
+    {
+        "task_id": "579593",
+        "model_name": "gpt-4o-mini",
+        "candidate_font_1": "Burbank Big Condensed Black",
+        "candidate_font_2": "Gabriela",
+        "candidate_font_3": "Comic Sans MS",
+        "candidate_font_4": "Lobster",
+        "candidate_font_5": ""
+    },
+    {
+        "task_id": "579593",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Porky's",
+        "candidate_font_2": "Action Man",
+        "candidate_font_3": "Comix Heavy",
+        "candidate_font_4": "Kristen ITC",
+        "candidate_font_5": "Burbank Script"
     }
 ]
