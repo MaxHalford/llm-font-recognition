@@ -31714,5 +31714,23 @@
         "candidate_font_3": "Comix Heavy",
         "candidate_font_4": "Kristen ITC",
         "candidate_font_5": "Burbank Script"
+    },
+    {
+        "task_id": "579603",
+        "model_name": "gpt-4o-mini",
+        "candidate_font_1": "Cultivated",
+        "candidate_font_2": "Balloon",
+        "candidate_font_3": "BubbleGum",
+        "candidate_font_4": "Lobster",
+        "candidate_font_5": "Bebas Neue"
+    },
+    {
+        "task_id": "579603",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Cheeze",
+        "candidate_font_2": "Goop Typeface",
+        "candidate_font_3": "Roudy",
+        "candidate_font_4": "Bloopy",
+        "candidate_font_5": "Bubblegum Pop"
     }
 ]
