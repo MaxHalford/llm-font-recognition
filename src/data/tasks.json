@@ -10108,7 +10108,7 @@
         "url": "https://www.dafont.com/forum/read/578188/what-is-the-name-of-this-font",
         "title": "What is the name of this font?",
         "instructions": null,
-        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1221894.jpg",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1221894.png?1",
         "identified_font": null
     },
     {
@@ -18549,7 +18549,7 @@
         "title": "Walt Disney Pictures text font",
         "instructions": "What font is for Walt Disney Pictures?",
         "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1224699.jpg",
-        "identified_font": null
+        "identified_font": "Lubalin Graph"
     },
     {
         "task_id": "579594",
@@ -18565,6 +18565,14 @@
         "title": "Barney's Dino Dancin' Tunes",
         "instructions": "What font is for Barney's Dino Dancin' Tunes?",
         "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1224697.png?1",
+        "identified_font": null
+    },
+    {
+        "task_id": "579603",
+        "url": "https://www.dafont.com/forum/read/579603/haloo-cant-anyone-identification-this-cult-font",
+        "title": "haloo, cant anyone identification this cult font",
+        "instructions": "haloo, cant anyone identification this cult font, thx",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1224728.jpg",
         "identified_font": null
     }
 ]
