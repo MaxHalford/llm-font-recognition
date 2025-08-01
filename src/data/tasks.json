@@ -18069,7 +18069,7 @@
         "title": "Script fonts",
         "instructions": "Please!! What font are the black color script fonts???? Thank you very much in advance.",
         "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1224539.png",
-        "identified_font": null
+        "identified_font": "Farmhouse"
     },
     {
         "task_id": "579514",
@@ -18637,7 +18637,7 @@
         "title": "Font \"Free\"",
         "instructions": null,
         "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1224751.jpg",
-        "identified_font": null
+        "identified_font": "Emiken Display"
     },
     {
         "task_id": "579616",
@@ -18653,7 +18653,7 @@
         "title": "brand name",
         "instructions": "need urgent",
         "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1224749.png",
-        "identified_font": null
+        "identified_font": "Appears"
     },
     {
         "task_id": "579614",
@@ -18694,5 +18694,69 @@
         "instructions": null,
         "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1224739.jpg",
         "identified_font": "Android"
+    },
+    {
+        "task_id": "579629",
+        "url": "https://www.dafont.com/forum/read/579629/font-name",
+        "title": "Font name?",
+        "instructions": null,
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1224770.jpg",
+        "identified_font": null
+    },
+    {
+        "task_id": "579628",
+        "url": "https://www.dafont.com/forum/read/579628/is-it-only-one-font-or-multiple",
+        "title": "Is it only one font or multiple?",
+        "instructions": "I don't know if it is only one font or multiple. Can you help to discover which fonts?",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1224769.png",
+        "identified_font": null
+    },
+    {
+        "task_id": "579627",
+        "url": "https://www.dafont.com/forum/read/579627/the-font-used-at-the-beginning-of-an-old-youtube-video",
+        "title": "The font used at the beginning of an old YouTube video",
+        "instructions": null,
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1224767.jpg",
+        "identified_font": null
+    },
+    {
+        "task_id": "579626",
+        "url": "https://www.dafont.com/forum/read/579626/boat-name-please",
+        "title": "Boat name please",
+        "instructions": "St. Somewhere",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1224766.jpg",
+        "identified_font": null
+    },
+    {
+        "task_id": "579625",
+        "url": "https://www.dafont.com/forum/read/579625/help-what-font-is-this",
+        "title": "Help! What font is this?",
+        "instructions": "urbae",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1224765.jpg?1",
+        "identified_font": null
+    },
+    {
+        "task_id": "579623",
+        "url": "https://www.dafont.com/forum/read/579623/nombre-de-la-fuente-gonzalena",
+        "title": "Nombre de la fuente Gonzale\u00f1a",
+        "instructions": "Hola, me pueden ayudar a saber que fuente es la de \"LA GONZALE\u00d1A\" por favor.",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1224763.jpg",
+        "identified_font": null
+    },
+    {
+        "task_id": "579621",
+        "url": "https://www.dafont.com/forum/read/579621/what-font",
+        "title": "What font?",
+        "instructions": null,
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1224761.png",
+        "identified_font": null
+    },
+    {
+        "task_id": "579619",
+        "url": "https://www.dafont.com/forum/read/579619/font-name",
+        "title": "Font Name?",
+        "instructions": null,
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1224753.jpg",
+        "identified_font": null
     }
 ]
