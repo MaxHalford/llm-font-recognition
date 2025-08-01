@@ -31732,5 +31732,59 @@
         "candidate_font_3": "Roudy",
         "candidate_font_4": "Bloopy",
         "candidate_font_5": "Bubblegum Pop"
+    },
+    {
+        "task_id": "579607",
+        "model_name": "gpt-4o-mini",
+        "candidate_font_1": "Cute Font",
+        "candidate_font_2": "Lima",
+        "candidate_font_3": "Funky Font",
+        "candidate_font_4": "Cartoonist Hand",
+        "candidate_font_5": "Bubbles"
+    },
+    {
+        "task_id": "579607",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Chunky Monkey",
+        "candidate_font_2": "Bubblegum Sans",
+        "candidate_font_3": "Chewy",
+        "candidate_font_4": "Gochi Hand",
+        "candidate_font_5": "Coming Soon"
+    },
+    {
+        "task_id": "551293",
+        "model_name": "gpt-4o-mini",
+        "candidate_font_1": "Bubblegum Sans",
+        "candidate_font_2": "Comic Sans MS",
+        "candidate_font_3": "Giddyup Std",
+        "candidate_font_4": "Poppins",
+        "candidate_font_5": "Jellyka - Estrya's Handwriting"
+    },
+    {
+        "task_id": "551293",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Helvetica Rounded Bold",
+        "candidate_font_2": "Helvetica Neue Rounded Bold",
+        "candidate_font_3": "Arial Rounded MT Bold",
+        "candidate_font_4": "VAG Rounded",
+        "candidate_font_5": "Gotham Rounded"
+    },
+    {
+        "task_id": "579604",
+        "model_name": "gpt-4o-mini",
+        "candidate_font_1": "Bubblegum Sans",
+        "candidate_font_2": "Baloo",
+        "candidate_font_3": "Comic Sans",
+        "candidate_font_4": "Poppins",
+        "candidate_font_5": "Kawaii"
+    },
+    {
+        "task_id": "579604",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Pump Demi Bold Outline",
+        "candidate_font_2": "Souper Krush",
+        "candidate_font_3": "Bubblegum Sans Outline",
+        "candidate_font_4": "Balloon Outline",
+        "candidate_font_5": ""
     }
 ]
