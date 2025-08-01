@@ -14525,7 +14525,7 @@
         "title": "Hello, what font is used in this image please?",
         "instructions": "Ursinho pimpao",
         "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1223265.png?1",
-        "identified_font": null
+        "identified_font": "Family Guy"
     },
     {
         "task_id": "578894",
@@ -18573,6 +18573,54 @@
         "title": "haloo, cant anyone identification this cult font",
         "instructions": "haloo, cant anyone identification this cult font, thx",
         "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1224728.jpg",
+        "identified_font": null
+    },
+    {
+        "task_id": "579607",
+        "url": "https://www.dafont.com/forum/read/579607/what-the-font",
+        "title": "What the font?",
+        "instructions": null,
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1224737.jpg",
+        "identified_font": null
+    },
+    {
+        "task_id": "579606",
+        "url": "https://www.dafont.com/forum/read/579606/whats-the-font",
+        "title": "whats the font",
+        "instructions": null,
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1224733.jpg",
+        "identified_font": "Komika Axis"
+    },
+    {
+        "task_id": "529562",
+        "url": "https://www.dafont.com/forum/read/529562/youf-font",
+        "title": "Youf font?",
+        "instructions": null,
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/1/1119564.png",
+        "identified_font": "Pasta"
+    },
+    {
+        "task_id": "579605",
+        "url": "https://www.dafont.com/forum/read/579605/searching-this-font-of-400cc-discplay",
+        "title": "searching this font of 400cc discplay",
+        "instructions": "estoy buscando las fuentes de \"400\", \"cc\", y \"discplay\"",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1224731.jpg",
+        "identified_font": "Choc"
+    },
+    {
+        "task_id": "551293",
+        "url": "https://www.dafont.com/forum/read/551293/newjenas-font",
+        "title": "newjenas font",
+        "instructions": null,
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/1/1166070.png",
+        "identified_font": null
+    },
+    {
+        "task_id": "579604",
+        "url": "https://www.dafont.com/forum/read/579604/goood-ole-day",
+        "title": "GOOOD OLE DAY",
+        "instructions": null,
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1224729.png",
         "identified_font": null
     }
 ]
