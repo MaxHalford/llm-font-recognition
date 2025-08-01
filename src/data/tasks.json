@@ -18196,7 +18196,7 @@
         "url": "https://www.dafont.com/forum/read/579539/blue-font",
         "title": "Blue font",
         "instructions": "Anybody know what this font is? Thank you",
-        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1224596.jpg",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1224596.png?1",
         "identified_font": null
     },
     {
@@ -18389,7 +18389,7 @@
         "title": "RTV Duga",
         "instructions": null,
         "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1224666.jpg",
-        "identified_font": null
+        "identified_font": "Dom Casual Bold"
     },
     {
         "task_id": "579576",
@@ -18429,6 +18429,86 @@
         "title": "Qual fonte \u00e9?",
         "instructions": null,
         "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1224654.jpg",
+        "identified_font": null
+    },
+    {
+        "task_id": "579591",
+        "url": "https://www.dafont.com/forum/read/579591/font",
+        "title": "Font?",
+        "instructions": "\"STUDY\"",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1224694.png",
+        "identified_font": null
+    },
+    {
+        "task_id": "579590",
+        "url": "https://www.dafont.com/forum/read/579590/id-font",
+        "title": "ID FONT?",
+        "instructions": null,
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1224693.png",
+        "identified_font": null
+    },
+    {
+        "task_id": "579587",
+        "url": "https://www.dafont.com/forum/read/579587/ive-secret",
+        "title": "IVE SECRET",
+        "instructions": null,
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1224681.png",
+        "identified_font": null
+    },
+    {
+        "task_id": "579589",
+        "url": "https://www.dafont.com/forum/read/579589/the-glyphs-serifs-fonts-aplicaciones-font",
+        "title": "The Glyphs Serifs Fonts (APLICACIONES font)",
+        "instructions": null,
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1224690.jpg",
+        "identified_font": null
+    },
+    {
+        "task_id": "579584",
+        "url": "https://www.dafont.com/forum/read/579584/hey-can-anyone-tell-me-the-name-of-this-font",
+        "title": "Hey, can anyone tell me the name of this font?",
+        "instructions": null,
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1224676.png",
+        "identified_font": "Myriad"
+    },
+    {
+        "task_id": "579588",
+        "url": "https://www.dafont.com/forum/read/579588/what-font-is-this",
+        "title": "What font is this?",
+        "instructions": "I should add: I've used all font search tools at hand. No results.",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1224687.png",
+        "identified_font": null
+    },
+    {
+        "task_id": "579582",
+        "url": "https://www.dafont.com/forum/read/579582/nfl-own-sundays",
+        "title": "NFL Own Sundays",
+        "instructions": "Can someone help me identify the font used for \"OWN SUNDAYS\" I will greatly appreciate it!",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1224672.png",
+        "identified_font": null
+    },
+    {
+        "task_id": "579586",
+        "url": "https://www.dafont.com/forum/read/579586/what-s-this-font",
+        "title": "What's this font?",
+        "instructions": null,
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1224680.jpg",
+        "identified_font": "The Rivened"
+    },
+    {
+        "task_id": "579585",
+        "url": "https://www.dafont.com/forum/read/579585/can-t-find-these-fonts-anywhere",
+        "title": "Can't find these fonts anywhere",
+        "instructions": "I can't find the fonts of these words in the picture: banners, tonight",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1224678.jpg",
+        "identified_font": null
+    },
+    {
+        "task_id": "579583",
+        "url": "https://www.dafont.com/forum/read/579583/what-is-a-font-cual-es-la-fuente",
+        "title": "what is a font? cual es la fuente??",
+        "instructions": null,
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1224675.jpg",
         "identified_font": null
     }
 ]
