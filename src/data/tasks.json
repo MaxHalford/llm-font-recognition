@@ -18741,7 +18741,7 @@
         "title": "Nombre de la fuente Gonzale\u00f1a",
         "instructions": "Hola, me pueden ayudar a saber que fuente es la de \"LA GONZALE\u00d1A\" por favor.",
         "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1224763.jpg",
-        "identified_font": null
+        "identified_font": "Bira"
     },
     {
         "task_id": "579621",
@@ -18757,6 +18757,86 @@
         "title": "Font Name?",
         "instructions": null,
         "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1224753.jpg",
+        "identified_font": null
+    },
+    {
+        "task_id": "579644",
+        "url": "https://www.dafont.com/forum/read/579644/avengers-doomsday-font",
+        "title": "Avengers Doomsday font",
+        "instructions": "Does anyone know what font is used for the word Doomsday in The Avengers Doomsday logo or at least a font similar to it?",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1224792.png",
+        "identified_font": null
+    },
+    {
+        "task_id": "579643",
+        "url": "https://www.dafont.com/forum/read/579643/qual-a-fonte",
+        "title": "Qual a fonte?",
+        "instructions": null,
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1224791.png",
+        "identified_font": null
+    },
+    {
+        "task_id": "579642",
+        "url": "https://www.dafont.com/forum/read/579642/id-font",
+        "title": "ID FONT?",
+        "instructions": null,
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1224789.png",
+        "identified_font": null
+    },
+    {
+        "task_id": "579637",
+        "url": "https://www.dafont.com/forum/read/579637/hola",
+        "title": "hola",
+        "instructions": "que tipo de letra es?",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1224779.png",
+        "identified_font": "Sakkal Majalla Bold"
+    },
+    {
+        "task_id": "579641",
+        "url": "https://www.dafont.com/forum/read/579641/anyone-know-this-font",
+        "title": "anyone know this font?",
+        "instructions": null,
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1224787.png",
+        "identified_font": null
+    },
+    {
+        "task_id": "579640",
+        "url": "https://www.dafont.com/forum/read/579640/please-help",
+        "title": "Please Help",
+        "instructions": "Can anyone help with these 2 fonts?",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1224784.jpg",
+        "identified_font": null
+    },
+    {
+        "task_id": "579638",
+        "url": "https://www.dafont.com/forum/read/579638/font-please",
+        "title": "Font, please. &#128591;&#127996;",
+        "instructions": null,
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1224782.jpg",
+        "identified_font": null
+    },
+    {
+        "task_id": "579636",
+        "url": "https://www.dafont.com/forum/read/579636/font-please",
+        "title": "Font, please. &#128591;&#127996;",
+        "instructions": null,
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1224778.jpg",
+        "identified_font": null
+    },
+    {
+        "task_id": "579634",
+        "url": "https://www.dafont.com/forum/read/579634/pls-tell-me-which-font-that-is",
+        "title": "Pls tell me which font that is",
+        "instructions": null,
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1224776.png?1",
+        "identified_font": null
+    },
+    {
+        "task_id": "579633",
+        "url": "https://www.dafont.com/forum/read/579633/font-please",
+        "title": "Font please?",
+        "instructions": null,
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1224775.png?1",
         "identified_font": null
     }
 ]
