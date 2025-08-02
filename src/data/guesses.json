@@ -32704,5 +32704,59 @@
         "candidate_font_3": "Noto Sans",
         "candidate_font_4": "Hello Neon",
         "candidate_font_5": "Amsterdam Script"
+    },
+    {
+        "task_id": "579689",
+        "model_name": "gpt-4o-mini",
+        "candidate_font_1": "Bebas Neue",
+        "candidate_font_2": "Impact",
+        "candidate_font_3": "Comic Sans MS",
+        "candidate_font_4": "ChunkFive",
+        "candidate_font_5": "Arial Black"
+    },
+    {
+        "task_id": "579689",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Obelix Pro",
+        "candidate_font_2": "Luckiest Guy",
+        "candidate_font_3": "Gobold Extra Bold",
+        "candidate_font_4": "Passion One Black",
+        "candidate_font_5": "Acme"
+    },
+    {
+        "task_id": "579687",
+        "model_name": "gpt-4o-mini",
+        "candidate_font_1": "Kult",
+        "candidate_font_2": "Fresca",
+        "candidate_font_3": "Bebas Neue",
+        "candidate_font_4": "Blackout",
+        "candidate_font_5": ""
+    },
+    {
+        "task_id": "579687",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Headhunter",
+        "candidate_font_2": "Grimptown",
+        "candidate_font_3": "The Devil's Own",
+        "candidate_font_4": "Death Rattle",
+        "candidate_font_5": "Blacklisted"
+    },
+    {
+        "task_id": "38651",
+        "model_name": "gpt-4o-mini",
+        "candidate_font_1": "Bangers",
+        "candidate_font_2": "Comic Sans MS",
+        "candidate_font_3": "Lobster",
+        "candidate_font_4": "Bubblegum Sans",
+        "candidate_font_5": "Rock Salt"
+    },
+    {
+        "task_id": "38651",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "SF Fourche",
+        "candidate_font_2": "Varsity Team",
+        "candidate_font_3": "Pump Demi Bold",
+        "candidate_font_4": "Athletic Outlined",
+        "candidate_font_5": "Impact Label"
     }
 ]
