@@ -32758,5 +32758,23 @@
         "candidate_font_3": "Pump Demi Bold",
         "candidate_font_4": "Athletic Outlined",
         "candidate_font_5": "Impact Label"
+    },
+    {
+        "task_id": "579690",
+        "model_name": "gpt-4o-mini",
+        "candidate_font_1": "Montserrat",
+        "candidate_font_2": "Raleway",
+        "candidate_font_3": "Playfair Display",
+        "candidate_font_4": "Futura",
+        "candidate_font_5": "Lora"
+    },
+    {
+        "task_id": "579690",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Circular Std",
+        "candidate_font_2": "Graphik",
+        "candidate_font_3": "Maison Neue",
+        "candidate_font_4": "Gilroy",
+        "candidate_font_5": "Proxima Nova"
     }
 ]
