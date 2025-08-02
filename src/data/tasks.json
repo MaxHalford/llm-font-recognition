@@ -19222,5 +19222,69 @@
         "instructions": null,
         "img_url": "https://www.dafont.com/forum/attach/orig/8/3/839419.png?1",
         "identified_font": null
+    },
+    {
+        "task_id": "494508",
+        "url": "https://www.dafont.com/forum/read/494508/caramella-girls",
+        "title": "Caramella Girls",
+        "instructions": "A music group most well-known for their work on the song \"Caramelldansen\".",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/0/1051516.png",
+        "identified_font": null
+    },
+    {
+        "task_id": "579700",
+        "url": "https://www.dafont.com/forum/read/579700/font-with-a-cross",
+        "title": "font with a cross",
+        "instructions": null,
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1224937.png",
+        "identified_font": "Mason Serif"
+    },
+    {
+        "task_id": "579706",
+        "url": "https://www.dafont.com/forum/read/579706/font",
+        "title": "Font?",
+        "instructions": null,
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1224944.jpg",
+        "identified_font": null
+    },
+    {
+        "task_id": "579705",
+        "url": "https://www.dafont.com/forum/read/579705/font",
+        "title": "Font?",
+        "instructions": null,
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1224942.png",
+        "identified_font": "Segoe Script"
+    },
+    {
+        "task_id": "579704",
+        "url": "https://www.dafont.com/forum/read/579704/que-tipografia-es-what-font-is-it-part-2",
+        "title": "\u00bfQu\u00e9 tipografi\u00e1 es?/What font is it? Part 2",
+        "instructions": "\u00a1Hola buenas! Este es el logo de la universidad en la que asisto y estoy realizando un trabajo acad\u00e9mico, y me gustar\u00eda que tenga exactamente el mismo tipo de tipograf\u00eda. \u00bfAlguien sabe como se llama?",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1224941.png",
+        "identified_font": null
+    },
+    {
+        "task_id": "579702",
+        "url": "https://www.dafont.com/forum/read/579702/font",
+        "title": "Font?",
+        "instructions": null,
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1224939.jpg",
+        "identified_font": null
+    },
+    {
+        "task_id": "579701",
+        "url": "https://www.dafont.com/forum/read/579701/que-tipografia-es-what-font-is-it",
+        "title": "\u00bfQu\u00e9 tipografi\u00e1 es?/What font is it?",
+        "instructions": "\u00a1Hola buenas! Este es el logo de la universidad en la que asisto y estoy realizando un trabajo acad\u00e9mico, y me gustar\u00eda que tenga exactamente el mismo tipo de tipograf\u00eda. \u00bfAlguien sabe como se llama?",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1224938.png",
+        "identified_font": null
+    },
+    {
+        "task_id": "579698",
+        "url": "https://www.dafont.com/forum/read/579698/qual-a-fonte",
+        "title": "qual a fonte?",
+        "instructions": "help me please",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1224935.png",
+        "identified_font": null
     }
 ]
