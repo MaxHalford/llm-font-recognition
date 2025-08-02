@@ -18301,7 +18301,7 @@
         "title": "Font name for Hangul Rom and English?",
         "instructions": null,
         "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1209237.png?1",
-        "identified_font": null
+        "identified_font": "MiSeang"
     },
     {
         "task_id": "579567",
@@ -19053,7 +19053,7 @@
         "title": "CLASSIC CHRISTMAS",
         "instructions": "Please!! Font of \"CLASSIC CHRISTMAS\"?? Thank you very much in advance",
         "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1224874.png",
-        "identified_font": null
+        "identified_font": "Fleur"
     },
     {
         "task_id": "555240",
@@ -19134,5 +19134,45 @@
         "instructions": "What font is this ?",
         "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1224899.jpg",
         "identified_font": null
+    },
+    {
+        "task_id": "579693",
+        "url": "https://www.dafont.com/forum/read/579693/fonts-name",
+        "title": "Fonts name?",
+        "instructions": null,
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1224910.jpg",
+        "identified_font": null
+    },
+    {
+        "task_id": "579692",
+        "url": "https://www.dafont.com/forum/read/579692/font-name",
+        "title": "Font Name",
+        "instructions": null,
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1224908.jpg",
+        "identified_font": null
+    },
+    {
+        "task_id": "579691",
+        "url": "https://www.dafont.com/forum/read/579691/no-way-out-font",
+        "title": "NO Way OUT font",
+        "instructions": null,
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1224906.jpg",
+        "identified_font": null
+    },
+    {
+        "task_id": "576003",
+        "url": "https://www.dafont.com/forum/read/576003/font-by-chaereve",
+        "title": "FONT BY CHAEREVE",
+        "instructions": "All Fonts name used in the picture",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1216983.png",
+        "identified_font": "MiSeang"
+    },
+    {
+        "task_id": "570189",
+        "url": "https://www.dafont.com/forum/read/570189/what-fonts-are-these",
+        "title": "What fonts are these",
+        "instructions": "What fonts are these ?",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1205489.png?1",
+        "identified_font": "Pirata One"
     }
 ]
