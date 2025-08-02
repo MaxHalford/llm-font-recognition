@@ -18989,7 +18989,7 @@
         "title": "Font name please",
         "instructions": "MAKE A MESS FONT",
         "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1224882.jpg",
-        "identified_font": null
+        "identified_font": "Quake n' Shake"
     },
     {
         "task_id": "579684",
@@ -18997,7 +18997,7 @@
         "title": "Font name please",
         "instructions": "HELP ME",
         "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1224881.jpg",
-        "identified_font": null
+        "identified_font": "Series Orbit"
     },
     {
         "task_id": "579683",
@@ -19005,7 +19005,7 @@
         "title": "Font name please",
         "instructions": "Font name?",
         "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1224880.jpg",
-        "identified_font": null
+        "identified_font": "Nightclub"
     },
     {
         "task_id": "579682",
@@ -19101,7 +19101,7 @@
         "title": "Nome da fonte",
         "instructions": "Alguma ideia do nome dessa font?",
         "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1224896.png",
-        "identified_font": null
+        "identified_font": "Toonish"
     },
     {
         "task_id": "579688",
@@ -19285,6 +19285,110 @@
         "title": "qual a fonte?",
         "instructions": "help me please",
         "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1224935.png",
+        "identified_font": null
+    },
+    {
+        "task_id": "579718",
+        "url": "https://www.dafont.com/forum/read/579718/cookie-jar-logo-font",
+        "title": "Cookie Jar logo font",
+        "instructions": null,
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1224973.png",
+        "identified_font": null
+    },
+    {
+        "task_id": "579717",
+        "url": "https://www.dafont.com/forum/read/579717/noody-font",
+        "title": "Noody font",
+        "instructions": null,
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1224972.jpg",
+        "identified_font": null
+    },
+    {
+        "task_id": "579716",
+        "url": "https://www.dafont.com/forum/read/579716/el-centro-font",
+        "title": "El Centro font",
+        "instructions": "Can anyone help me identify the font used in this image, I would really appreciate it!",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1224970.png",
+        "identified_font": null
+    },
+    {
+        "task_id": "579715",
+        "url": "https://www.dafont.com/forum/read/579715/font-name",
+        "title": "Font Name?",
+        "instructions": null,
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1224969.png",
+        "identified_font": null
+    },
+    {
+        "task_id": "579711",
+        "url": "https://www.dafont.com/forum/read/579711/font-id-request",
+        "title": "Font ID Request",
+        "instructions": "Thank you.",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1224960.jpg",
+        "identified_font": "Rockwell Bold Condensed"
+    },
+    {
+        "task_id": "579712",
+        "url": "https://www.dafont.com/forum/read/579712/font-id-request",
+        "title": "Font ID Request",
+        "instructions": "Thank you.",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1224962.png",
+        "identified_font": "Futura Extra Bold"
+    },
+    {
+        "task_id": "579714",
+        "url": "https://www.dafont.com/forum/read/579714/name-fonts-tiltle-please",
+        "title": "Name fonts tiltle please!",
+        "instructions": null,
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1224966.jpg",
+        "identified_font": null
+    },
+    {
+        "task_id": "579713",
+        "url": "https://www.dafont.com/forum/read/579713/psychedelic-1960s-style-font-id-request",
+        "title": "Psychedelic 1960s Style Font ID Request",
+        "instructions": "Thank you.",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1224965.png",
+        "identified_font": null
+    },
+    {
+        "task_id": "579710",
+        "url": "https://www.dafont.com/forum/read/579710/portico-font",
+        "title": "Portico font",
+        "instructions": null,
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1224959.jpg?1",
+        "identified_font": null
+    },
+    {
+        "task_id": "579707",
+        "url": "https://www.dafont.com/forum/read/579707/beauty-and-the-beast-enchanted-christmas-logo-font",
+        "title": "Beauty and the Beast Enchanted Christmas Logo Font?",
+        "instructions": "Does anyone know what this font is called?",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1224948.png",
+        "identified_font": "Novarese"
+    },
+    {
+        "task_id": "579709",
+        "url": "https://www.dafont.com/forum/read/579709/watching-you-font",
+        "title": "WATCHING YOU FONT",
+        "instructions": "Font?",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1224950.jpg",
+        "identified_font": "Dynamo"
+    },
+    {
+        "task_id": "552673",
+        "url": "https://www.dafont.com/forum/read/552673/what-s-this-font-highschool-of-the-dead-anime",
+        "title": "What's this font (Highschool of the Dead - Anime).",
+        "instructions": "This is a bit of an old series, but the closes thing I've found to this would be homebrew's 321 Impact (link at the end). Any help would be appreciated.",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/1/1169083.jpg",
+        "identified_font": null
+    },
+    {
+        "task_id": "579708",
+        "url": "https://www.dafont.com/forum/read/579708/fishbone-skate-deluxe",
+        "title": "fishbone skate deluxe",
+        "instructions": "i wanna find the font for this, found the shirt on google",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1224949.jpg",
         "identified_font": null
     }
 ]
