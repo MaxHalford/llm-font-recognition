@@ -17821,7 +17821,7 @@
         "title": "Name the font?",
         "instructions": "The font that the girls' names are written in",
         "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1224466.png",
-        "identified_font": null
+        "identified_font": "Nanum Brush Script"
     },
     {
         "task_id": "579476",
@@ -18125,7 +18125,7 @@
         "title": "what's the font of the title",
         "instructions": null,
         "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1224585.png",
-        "identified_font": null
+        "identified_font": "Delirian Script"
     },
     {
         "task_id": "579531",
@@ -18669,7 +18669,7 @@
         "title": "Hallo, ich suche diese Schriftart.. Kann mir jemand helfen?",
         "instructions": null,
         "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1224746.png?1",
-        "identified_font": null
+        "identified_font": "Half Freak"
     },
     {
         "task_id": "579611",
@@ -18724,8 +18724,8 @@
         "url": "https://www.dafont.com/forum/read/579626/boat-name-please",
         "title": "Boat name please",
         "instructions": "St. Somewhere",
-        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1224766.jpg",
-        "identified_font": null
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1224766.png?1",
+        "identified_font": "Snyder Speed Brush"
     },
     {
         "task_id": "579625",
@@ -18941,6 +18941,38 @@
         "title": "Please Help ID",
         "instructions": null,
         "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1224800.jpg",
+        "identified_font": null
+    },
+    {
+        "task_id": "579670",
+        "url": "https://www.dafont.com/forum/read/579670/qual-fonte",
+        "title": "Qual fonte?",
+        "instructions": "Qual fonte??",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1224855.png",
+        "identified_font": "Siry"
+    },
+    {
+        "task_id": "579668",
+        "url": "https://www.dafont.com/forum/read/579668/plsss-pls-help",
+        "title": "PLSSS PLS HELP!!!",
+        "instructions": "I already posted this picture before on my other account but it got removed and I couldn't even see if anyone replied to it and I couldn't post a second one because the system said my post would be a duplicate, even though my photo already got deleted. if anyone could please help me find the fonts of these words in the photo: tonight, and banners, it would be truly appreciated! I really need these fonts so plssss plsssssss help! thank you so much for your time",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1224852.png",
+        "identified_font": null
+    },
+    {
+        "task_id": "579665",
+        "url": "https://www.dafont.com/forum/read/579665/font-for-forget-my-name",
+        "title": "Font For Forget my name",
+        "instructions": null,
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1224846.png",
+        "identified_font": null
+    },
+    {
+        "task_id": "579664",
+        "url": "https://www.dafont.com/forum/read/579664/the-fragrant-flower-blooms-with-dignity-anime",
+        "title": "The Fragrant Flower Blooms with Dignity - Anime",
+        "instructions": null,
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1224837.jpg",
         "identified_font": null
     }
 ]
