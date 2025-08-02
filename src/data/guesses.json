@@ -32398,5 +32398,59 @@
         "candidate_font_3": "Road Rage",
         "candidate_font_4": "Black Jack",
         "candidate_font_5": "Brushtroke"
+    },
+    {
+        "task_id": "579668",
+        "model_name": "gpt-4o-mini",
+        "candidate_font_1": "Bodoni",
+        "candidate_font_2": "Playfair Display",
+        "candidate_font_3": "Dancing Script",
+        "candidate_font_4": "Great Vibes",
+        "candidate_font_5": "Lobster"
+    },
+    {
+        "task_id": "579668",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Beautiful People Personal Use",
+        "candidate_font_2": "Beyond the Mountains",
+        "candidate_font_3": "Angellica",
+        "candidate_font_4": "Autumn Chant",
+        "candidate_font_5": "The Queen"
+    },
+    {
+        "task_id": "579665",
+        "model_name": "gpt-4o-mini",
+        "candidate_font_1": "Baskerville",
+        "candidate_font_2": "Garamond",
+        "candidate_font_3": "Trajan Pro",
+        "candidate_font_4": "Didot",
+        "candidate_font_5": ""
+    },
+    {
+        "task_id": "579665",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Trajan Pro",
+        "candidate_font_2": "Cinzel",
+        "candidate_font_3": "Augustus",
+        "candidate_font_4": "Goudy Old Style",
+        "candidate_font_5": "Perpetua"
+    },
+    {
+        "task_id": "579664",
+        "model_name": "gpt-4o-mini",
+        "candidate_font_1": "Bodoni",
+        "candidate_font_2": "Playfair Display",
+        "candidate_font_3": "Great Vibes",
+        "candidate_font_4": "Lobster",
+        "candidate_font_5": "Cinzel"
+    },
+    {
+        "task_id": "579664",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "The Seasons Display",
+        "candidate_font_2": "EB Garamond",
+        "candidate_font_3": "Rouge Script",
+        "candidate_font_4": "Montserrat",
+        "candidate_font_5": "Voga Display"
     }
 ]
