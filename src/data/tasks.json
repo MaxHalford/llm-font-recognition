@@ -19013,7 +19013,7 @@
         "title": "Font name please",
         "instructions": "Font i found on MAKE A MESS",
         "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1224879.jpg",
-        "identified_font": null
+        "identified_font": "VTC-Karnival"
     },
     {
         "task_id": "579681",
@@ -19029,7 +19029,7 @@
         "title": "Font help please",
         "instructions": "Any ideas?",
         "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1224877.jpg",
-        "identified_font": null
+        "identified_font": "Supa Mega Fantastic"
     },
     {
         "task_id": "579679",
@@ -19037,7 +19037,7 @@
         "title": "DISPLAY ONLY!!!!!!! DO NOT TOUCH Font?",
         "instructions": "Need a help on this font please!!!!!!!! PLEASE?!?!??!",
         "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1224876.jpg",
-        "identified_font": null
+        "identified_font": "Super Mario 256"
     },
     {
         "task_id": "579674",
@@ -19093,6 +19093,38 @@
         "title": "Fonts name? Percik Kecil Behind the Scene",
         "instructions": "Help me please",
         "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1224864.jpg",
+        "identified_font": null
+    },
+    {
+        "task_id": "579689",
+        "url": "https://www.dafont.com/forum/read/579689/nome-da-fonte",
+        "title": "Nome da fonte",
+        "instructions": "Alguma ideia do nome dessa font?",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1224896.png",
+        "identified_font": null
+    },
+    {
+        "task_id": "579688",
+        "url": "https://www.dafont.com/forum/read/579688/id-font",
+        "title": "ID FONT?",
+        "instructions": null,
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1224889.png",
+        "identified_font": "Boulevard"
+    },
+    {
+        "task_id": "579687",
+        "url": "https://www.dafont.com/forum/read/579687/cult-the-lamb-titel-font",
+        "title": "Cult the Lamb Titel font",
+        "instructions": "What font is that? o:",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1224886.png",
+        "identified_font": null
+    },
+    {
+        "task_id": "38651",
+        "url": "https://www.dafont.com/forum/read/38651/help-with-what-is-probably-a-very-simple-font-my-brain-is-dead",
+        "title": "Help with what is probably a very simple font & my brain is dead",
+        "instructions": "Any help is mucho appreciated.",
+        "img_url": "https://www.dafont.com/forum/attach/orig/9/5/95392.jpg",
         "identified_font": null
     }
 ]
