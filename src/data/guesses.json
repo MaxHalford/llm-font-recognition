@@ -32776,5 +32776,59 @@
         "candidate_font_3": "Maison Neue",
         "candidate_font_4": "Gilroy",
         "candidate_font_5": "Proxima Nova"
+    },
+    {
+        "task_id": "579693",
+        "model_name": "gpt-4o-mini",
+        "candidate_font_1": "Lobster",
+        "candidate_font_2": "Dancing Script",
+        "candidate_font_3": "Pacifico",
+        "candidate_font_4": "Playfair Display",
+        "candidate_font_5": "Raleway"
+    },
+    {
+        "task_id": "579693",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Cormorant Garamond Italic",
+        "candidate_font_2": "Pacifico Regular",
+        "candidate_font_3": "Montserrat Regular",
+        "candidate_font_4": "Playfair Display Italic",
+        "candidate_font_5": "EB Garamond Italic"
+    },
+    {
+        "task_id": "579692",
+        "model_name": "gpt-4o-mini",
+        "candidate_font_1": "Lobster",
+        "candidate_font_2": "Pacifico",
+        "candidate_font_3": "Dancing Script",
+        "candidate_font_4": "Jura",
+        "candidate_font_5": ""
+    },
+    {
+        "task_id": "579692",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Stay Grateful",
+        "candidate_font_2": "Magnolia Sky",
+        "candidate_font_3": "Billion Dreams",
+        "candidate_font_4": "Beautiful People",
+        "candidate_font_5": "Pacifico"
+    },
+    {
+        "task_id": "579691",
+        "model_name": "gpt-4o-mini",
+        "candidate_font_1": "Bodoni",
+        "candidate_font_2": "Didot",
+        "candidate_font_3": "Playfair Display",
+        "candidate_font_4": "Lora",
+        "candidate_font_5": ""
+    },
+    {
+        "task_id": "579691",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Playfair Display",
+        "candidate_font_2": "EB Garamond",
+        "candidate_font_3": "Montserrat",
+        "candidate_font_4": "Bodoni",
+        "candidate_font_5": "Didot"
     }
 ]
