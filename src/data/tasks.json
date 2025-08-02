@@ -17932,7 +17932,7 @@
         "url": "https://www.dafont.com/forum/read/579502/dus-font-name",
         "title": "DUS font name?",
         "instructions": null,
-        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1224509.jpg",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1224509.png?1",
         "identified_font": null
     },
     {
@@ -19140,7 +19140,7 @@
         "url": "https://www.dafont.com/forum/read/579693/fonts-name",
         "title": "Fonts name?",
         "instructions": null,
-        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1224910.jpg",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1224910.jpg?1",
         "identified_font": null
     },
     {
@@ -19174,5 +19174,53 @@
         "instructions": "What fonts are these ?",
         "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1205489.png?1",
         "identified_font": "Pirata One"
+    },
+    {
+        "task_id": "579697",
+        "url": "https://www.dafont.com/forum/read/579697/comida-vs-musica",
+        "title": "Comida VS m\u00fasica",
+        "instructions": null,
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1224934.png",
+        "identified_font": null
+    },
+    {
+        "task_id": "579696",
+        "url": "https://www.dafont.com/forum/read/579696/what-the-font",
+        "title": "what the font?",
+        "instructions": "What the font please or similar",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1224933.jpg",
+        "identified_font": null
+    },
+    {
+        "task_id": "579695",
+        "url": "https://www.dafont.com/forum/read/579695/help",
+        "title": "help",
+        "instructions": "help me please",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1224931.png",
+        "identified_font": null
+    },
+    {
+        "task_id": "579694",
+        "url": "https://www.dafont.com/forum/read/579694/ayuda",
+        "title": "ayuda",
+        "instructions": "por favor alguien logra identificar esa fuente?",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1224930.png",
+        "identified_font": null
+    },
+    {
+        "task_id": "323428",
+        "url": "https://www.dafont.com/forum/read/323428/uncensored-both-fonts",
+        "title": "uncensored both fonts ?",
+        "instructions": null,
+        "img_url": "https://www.dafont.com/forum/attach/orig/7/1/711614.png?2",
+        "identified_font": null
+    },
+    {
+        "task_id": "387153",
+        "url": "https://www.dafont.com/forum/read/387153/kahaani",
+        "title": "Kahaani  ?",
+        "instructions": null,
+        "img_url": "https://www.dafont.com/forum/attach/orig/8/3/839419.png?1",
+        "identified_font": null
     }
 ]
