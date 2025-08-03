@@ -33244,5 +33244,59 @@
         "candidate_font_3": "Cloister Black",
         "candidate_font_4": "Fette Fraktur",
         "candidate_font_5": ""
+    },
+    {
+        "task_id": "579727",
+        "model_name": "gpt-4o-mini",
+        "candidate_font_1": "Bebas Neue",
+        "candidate_font_2": "Oswald",
+        "candidate_font_3": "Impact",
+        "candidate_font_4": "Anton",
+        "candidate_font_5": "Montserrat"
+    },
+    {
+        "task_id": "579727",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Hyperspace Extended",
+        "candidate_font_2": "Compacta Bold",
+        "candidate_font_3": "Agency FB Black",
+        "candidate_font_4": "Bebas Neue Bold",
+        "candidate_font_5": "United Sans Heavy Condensed"
+    },
+    {
+        "task_id": "579726",
+        "model_name": "gpt-4o-mini",
+        "candidate_font_1": "BubbleGum",
+        "candidate_font_2": "Lipstick",
+        "candidate_font_3": "Rounded Fuzzy",
+        "candidate_font_4": "Funhouse",
+        "candidate_font_5": "Cartoonist Hand"
+    },
+    {
+        "task_id": "579726",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Bubblegum Sans",
+        "candidate_font_2": "Chewy",
+        "candidate_font_3": "Burbank Big Condensed",
+        "candidate_font_4": "VAG Rounded",
+        "candidate_font_5": "Porky's"
+    },
+    {
+        "task_id": "579725",
+        "model_name": "gpt-4o-mini",
+        "candidate_font_1": "Futuristic",
+        "candidate_font_2": "Retro Wave",
+        "candidate_font_3": "Impact",
+        "candidate_font_4": "Exo",
+        "candidate_font_5": ""
+    },
+    {
+        "task_id": "579725",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Laserian",
+        "candidate_font_2": "SF TransRobotics Extended",
+        "candidate_font_3": "Neon 80s",
+        "candidate_font_4": "SF TransRobotics",
+        "candidate_font_5": "Gunship Wide Bold"
     }
 ]
