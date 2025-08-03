@@ -19181,7 +19181,7 @@
         "title": "Comida VS m\u00fasica",
         "instructions": null,
         "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1224934.png",
-        "identified_font": null
+        "identified_font": "Quarantype Hangout"
     },
     {
         "task_id": "579696",
@@ -19405,6 +19405,30 @@
         "title": "Undefined font",
         "instructions": null,
         "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1224974.jpg",
+        "identified_font": null
+    },
+    {
+        "task_id": "579727",
+        "url": "https://www.dafont.com/forum/read/579727/font-help-please",
+        "title": "Font help please",
+        "instructions": "Looking for both fonts for \"Championship\" and \"Series\". Many thanks!",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1224986.png",
+        "identified_font": null
+    },
+    {
+        "task_id": "579726",
+        "url": "https://www.dafont.com/forum/read/579726/teddy-grahams-font",
+        "title": "Teddy Grahams font",
+        "instructions": "What font is for Teddy Grahams?",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1224985.png",
+        "identified_font": null
+    },
+    {
+        "task_id": "579725",
+        "url": "https://www.dafont.com/forum/read/579725/what-are-the-names-of-these-two-fonts",
+        "title": "What are the names of these two fonts?",
+        "instructions": "\"Vale Tudo\"",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1224984.jpg",
         "identified_font": null
     }
 ]
