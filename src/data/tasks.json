@@ -19390,5 +19390,21 @@
         "instructions": "i wanna find the font for this, found the shirt on google",
         "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1224949.jpg",
         "identified_font": null
+    },
+    {
+        "task_id": "579721",
+        "url": "https://www.dafont.com/forum/read/579721/help-what-font-is-this",
+        "title": "HELP! What font is this?",
+        "instructions": "urbae",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1224976.jpg",
+        "identified_font": null
+    },
+    {
+        "task_id": "579719",
+        "url": "https://www.dafont.com/forum/read/579719/undefined-font",
+        "title": "Undefined font",
+        "instructions": null,
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1224974.jpg",
+        "identified_font": null
     }
 ]
