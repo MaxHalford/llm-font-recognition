@@ -33298,5 +33298,23 @@
         "candidate_font_3": "Neon 80s",
         "candidate_font_4": "SF TransRobotics",
         "candidate_font_5": "Gunship Wide Bold"
+    },
+    {
+        "task_id": "579731",
+        "model_name": "gpt-4o-mini",
+        "candidate_font_1": "Lobster",
+        "candidate_font_2": "Bebas Neue",
+        "candidate_font_3": "Dancing Script",
+        "candidate_font_4": "Pacifico",
+        "candidate_font_5": "Baloo"
+    },
+    {
+        "task_id": "579731",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Fredoka One",
+        "candidate_font_2": "Baloo Bhai 2",
+        "candidate_font_3": "Luckiest Guy",
+        "candidate_font_4": "Bubblegum Sans",
+        "candidate_font_5": "Chewy"
     }
 ]
