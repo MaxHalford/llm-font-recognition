@@ -33208,5 +33208,41 @@
         "candidate_font_3": "Pump Pro",
         "candidate_font_4": "Frankfurter",
         "candidate_font_5": "ITC Bauhaus"
+    },
+    {
+        "task_id": "579721",
+        "model_name": "gpt-4o-mini",
+        "candidate_font_1": "Dancing Script",
+        "candidate_font_2": "Allura",
+        "candidate_font_3": "Pacifico",
+        "candidate_font_4": "Lobster",
+        "candidate_font_5": ""
+    },
+    {
+        "task_id": "579721",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Monday Blues",
+        "candidate_font_2": "Playlist Script",
+        "candidate_font_3": "Brighton Script",
+        "candidate_font_4": "Brittany Signature",
+        "candidate_font_5": "Madelyn"
+    },
+    {
+        "task_id": "579719",
+        "model_name": "gpt-4o-mini",
+        "candidate_font_1": "Bodoni",
+        "candidate_font_2": "Blackletter",
+        "candidate_font_3": "Garamond",
+        "candidate_font_4": "Caslon",
+        "candidate_font_5": ""
+    },
+    {
+        "task_id": "579719",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Requiem Text Blackletter",
+        "candidate_font_2": "Old English Text MT",
+        "candidate_font_3": "Cloister Black",
+        "candidate_font_4": "Fette Fraktur",
+        "candidate_font_5": ""
     }
 ]
