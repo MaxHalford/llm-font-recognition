@@ -19430,5 +19430,13 @@
         "instructions": "\"Vale Tudo\"",
         "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1224984.jpg",
         "identified_font": null
+    },
+    {
+        "task_id": "579730",
+        "url": "https://www.dafont.com/forum/read/579730/the-font-used-in-a-video-about-monks",
+        "title": "The font used in a video about monks",
+        "instructions": null,
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1225002.jpg",
+        "identified_font": "Romana Demi"
     }
 ]
