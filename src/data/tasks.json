@@ -18308,7 +18308,7 @@
         "url": "https://www.dafont.com/forum/read/579567/someone-know-this-font",
         "title": "someone know this font ?",
         "instructions": "what s the font pls ?",
-        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1224642.jpg",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1224642.png?1",
         "identified_font": null
     },
     {
@@ -18628,7 +18628,7 @@
         "url": "https://www.dafont.com/forum/read/579618/font",
         "title": "Font?",
         "instructions": "\"GECANCELT\"",
-        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1224752.jpg",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1224752.png?1",
         "identified_font": null
     },
     {
@@ -19293,7 +19293,7 @@
         "title": "Cookie Jar logo font",
         "instructions": null,
         "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1224973.png",
-        "identified_font": null
+        "identified_font": "Cookie Jar"
     },
     {
         "task_id": "579717",
