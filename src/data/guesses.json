@@ -33514,5 +33514,77 @@
         "candidate_font_3": "The Billionaire",
         "candidate_font_4": "Bright Sunshine",
         "candidate_font_5": "Beautiful Minds"
+    },
+    {
+        "task_id": "579748",
+        "model_name": "gpt-4o-mini",
+        "candidate_font_1": "Playfair Display",
+        "candidate_font_2": "Cinzel",
+        "candidate_font_3": "Abril Fatface",
+        "candidate_font_4": "Garamond",
+        "candidate_font_5": "Bodoni"
+    },
+    {
+        "task_id": "579748",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "LTC Goudy Old Style",
+        "candidate_font_2": "Trajan Pro",
+        "candidate_font_3": "Adobe Garamond Pro Display",
+        "candidate_font_4": "New Century Schoolbook",
+        "candidate_font_5": "Adobe Garamond Pro Italic"
+    },
+    {
+        "task_id": "579746",
+        "model_name": "gpt-4o-mini",
+        "candidate_font_1": "Bodoni",
+        "candidate_font_2": "Lobster",
+        "candidate_font_3": "Pacifico",
+        "candidate_font_4": "Great Vibes",
+        "candidate_font_5": "Dancing Script"
+    },
+    {
+        "task_id": "579746",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Magnolia Sky",
+        "candidate_font_2": "Hello Beautiful",
+        "candidate_font_3": "Brittany Signature",
+        "candidate_font_4": "Gotham Light",
+        "candidate_font_5": "Avenir Light"
+    },
+    {
+        "task_id": "579745",
+        "model_name": "gpt-4o-mini",
+        "candidate_font_1": "Great Vibes",
+        "candidate_font_2": "Dancing Script",
+        "candidate_font_3": "Lobster",
+        "candidate_font_4": "Allura",
+        "candidate_font_5": "Pacifico"
+    },
+    {
+        "task_id": "579745",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Bromello",
+        "candidate_font_2": "Great Vibes",
+        "candidate_font_3": "Alex Brush",
+        "candidate_font_4": "Allura",
+        "candidate_font_5": ""
+    },
+    {
+        "task_id": "579743",
+        "model_name": "gpt-4o-mini",
+        "candidate_font_1": "Bebas Neue",
+        "candidate_font_2": "Arial Rounded",
+        "candidate_font_3": "Futura",
+        "candidate_font_4": "Roboto",
+        "candidate_font_5": "Montserrat"
+    },
+    {
+        "task_id": "579743",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "FF DIN",
+        "candidate_font_2": "DIN Next",
+        "candidate_font_3": "Interstate",
+        "candidate_font_4": "Roboto",
+        "candidate_font_5": "Open Sans"
     }
 ]
