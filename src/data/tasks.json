@@ -19413,7 +19413,7 @@
         "title": "Font help please",
         "instructions": "Looking for both fonts for \"Championship\" and \"Series\". Many thanks!",
         "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1224986.png",
-        "identified_font": null
+        "identified_font": "Tungsten Semibold"
     },
     {
         "task_id": "579726",
@@ -19445,7 +19445,7 @@
         "title": "Please help me finding this font, is from a musical video of christmas.",
         "instructions": null,
         "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1225006.jpg",
-        "identified_font": null
+        "identified_font": "Anyfreak"
     },
     {
         "task_id": "579737",
@@ -19501,7 +19501,7 @@
         "title": "Font identification (game) - The Finals",
         "instructions": "Does anyone know what font this is?",
         "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1225029.jpg",
-        "identified_font": null
+        "identified_font": "Saira Condensed Black"
     },
     {
         "task_id": "579741",
@@ -19509,7 +19509,7 @@
         "title": "what font is this",
         "instructions": "find the font pls",
         "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1225028.jpg",
-        "identified_font": null
+        "identified_font": "Thug Land"
     },
     {
         "task_id": "579740",
@@ -19533,6 +19533,38 @@
         "title": "Font ID Request",
         "instructions": "urbae",
         "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1225025.png",
+        "identified_font": null
+    },
+    {
+        "task_id": "579748",
+        "url": "https://www.dafont.com/forum/read/579748/what-is-font-is-that",
+        "title": "What is font is that?",
+        "instructions": null,
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1225043.jpg",
+        "identified_font": null
+    },
+    {
+        "task_id": "579746",
+        "url": "https://www.dafont.com/forum/read/579746/can-you-help-with-this-font",
+        "title": "Can you help with this font?",
+        "instructions": null,
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1225041.jpg",
+        "identified_font": null
+    },
+    {
+        "task_id": "579745",
+        "url": "https://www.dafont.com/forum/read/579745/can-you-help-with-this-font",
+        "title": "Can you help with this font?",
+        "instructions": null,
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1225038.jpg?1",
+        "identified_font": null
+    },
+    {
+        "task_id": "579743",
+        "url": "https://www.dafont.com/forum/read/579743/what-font-is-this",
+        "title": "What font is this?",
+        "instructions": "Im trying to find the font for the tracklist",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1225031.jpg",
         "identified_font": null
     }
 ]
