@@ -19494,5 +19494,45 @@
         "instructions": null,
         "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1225009.png",
         "identified_font": null
+    },
+    {
+        "task_id": "579742",
+        "url": "https://www.dafont.com/forum/read/579742/font-identification-game-the-finals",
+        "title": "Font identification (game) - The Finals",
+        "instructions": "Does anyone know what font this is?",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1225029.jpg",
+        "identified_font": null
+    },
+    {
+        "task_id": "579741",
+        "url": "https://www.dafont.com/forum/read/579741/what-font-is-this",
+        "title": "what font is this",
+        "instructions": "find the font pls",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1225028.jpg",
+        "identified_font": null
+    },
+    {
+        "task_id": "579740",
+        "url": "https://www.dafont.com/forum/read/579740/walphabet",
+        "title": "Walphabet",
+        "instructions": "What font is this sentence?",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1225027.png",
+        "identified_font": null
+    },
+    {
+        "task_id": "579739",
+        "url": "https://www.dafont.com/forum/read/579739/un-chien-andalou",
+        "title": "Un chien andalou",
+        "instructions": "What font is this on this title?",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1225026.png",
+        "identified_font": null
+    },
+    {
+        "task_id": "579738",
+        "url": "https://www.dafont.com/forum/read/579738/font-id-request",
+        "title": "Font ID Request",
+        "instructions": "urbae",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1225025.png",
+        "identified_font": null
     }
 ]
