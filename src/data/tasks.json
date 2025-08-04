@@ -19293,7 +19293,7 @@
         "title": "Cookie Jar logo font",
         "instructions": null,
         "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1224973.png",
-        "identified_font": "Cookie Jar"
+        "identified_font": null
     },
     {
         "task_id": "579717",
@@ -19461,7 +19461,7 @@
         "title": "Sava Babi&#263; - Na Dlanu",
         "instructions": null,
         "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1225013.jpg",
-        "identified_font": null
+        "identified_font": "Optima Bold"
     },
     {
         "task_id": "579735",
@@ -19580,8 +19580,8 @@
         "url": "https://www.dafont.com/forum/read/579757/whats-the-font",
         "title": "whats the font",
         "instructions": null,
-        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1225055.jpg",
-        "identified_font": null
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1225055.png?1",
+        "identified_font": "Spray Letters"
     },
     {
         "task_id": "579756",
@@ -19677,6 +19677,22 @@
         "title": "What is the font that Moving Shadow used for their MSXEP covers?",
         "instructions": null,
         "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1225058.jpg",
+        "identified_font": null
+    },
+    {
+        "task_id": "579766",
+        "url": "https://www.dafont.com/forum/read/579766/font-name-please",
+        "title": "Font Name Please",
+        "instructions": "Brooklinen font? Thank you!",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1225073.png?1",
+        "identified_font": null
+    },
+    {
+        "task_id": "579765",
+        "url": "https://www.dafont.com/forum/read/579765/all-font-in-the-image",
+        "title": "All font in the image",
+        "instructions": "Identify all font name of this image.",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1225070.png?1",
         "identified_font": null
     }
 ]
