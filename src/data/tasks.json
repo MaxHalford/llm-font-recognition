@@ -19052,7 +19052,7 @@
         "url": "https://www.dafont.com/forum/read/579678/classic-christmas",
         "title": "CLASSIC CHRISTMAS",
         "instructions": "Please!! Font of \"CLASSIC CHRISTMAS\"?? Thank you very much in advance",
-        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1224874.png",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1224874.png?1",
         "identified_font": "Fleur"
     },
     {
@@ -19741,7 +19741,7 @@
         "title": "All Fonts?",
         "instructions": null,
         "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1225111.jpg",
-        "identified_font": null
+        "identified_font": "Ranchino Script"
     },
     {
         "task_id": "579782",
@@ -19749,7 +19749,7 @@
         "title": "need help!",
         "instructions": null,
         "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1225109.jpg",
-        "identified_font": null
+        "identified_font": "Bookman"
     },
     {
         "task_id": "579771",
@@ -19805,7 +19805,7 @@
         "title": "help me to find this font",
         "instructions": null,
         "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1225093.png",
-        "identified_font": null
+        "identified_font": "Hello Branch"
     },
     {
         "task_id": "579775",
@@ -19845,7 +19845,7 @@
         "title": "Font name please",
         "instructions": null,
         "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1225126.jpg",
-        "identified_font": null
+        "identified_font": "Montserrat"
     },
     {
         "task_id": "579792",
@@ -19910,5 +19910,53 @@
         "instructions": null,
         "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1225113.png",
         "identified_font": null
+    },
+    {
+        "task_id": "579799",
+        "url": "https://www.dafont.com/forum/read/579799/id-font",
+        "title": "ID FONT?",
+        "instructions": null,
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1225143.png",
+        "identified_font": null
+    },
+    {
+        "task_id": "579798",
+        "url": "https://www.dafont.com/forum/read/579798/id-font",
+        "title": "ID FONT?",
+        "instructions": null,
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1225142.png",
+        "identified_font": null
+    },
+    {
+        "task_id": "579797",
+        "url": "https://www.dafont.com/forum/read/579797/podrian-ayudarme-con-esta-fuente",
+        "title": "podrian ayudarme con esta fuente?",
+        "instructions": null,
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1225139.jpg",
+        "identified_font": "Euphorigenic"
+    },
+    {
+        "task_id": "579796",
+        "url": "https://www.dafont.com/forum/read/579796/glitter-force-credits",
+        "title": "Glitter Force Credits:",
+        "instructions": "Looking for a font that's similar to the credits of Glitter Force (Smile & Doki Doki's international co-production dub.",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1225137.png",
+        "identified_font": null
+    },
+    {
+        "task_id": "579794",
+        "url": "https://www.dafont.com/forum/read/579794/identify-font",
+        "title": "Identify font",
+        "instructions": "I think this is a common font, but having trouble identifying it.  Need the font used for \"Buckeye Live\".  Thank you!",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1225128.jpg",
+        "identified_font": "Bible Script"
+    },
+    {
+        "task_id": "579795",
+        "url": "https://www.dafont.com/forum/read/579795/fuente-filial-lima",
+        "title": "FUENTE FILIAL LIMA",
+        "instructions": "Buenas tardes comunidad, estoy redise\u00f1ando un logo pero no encuentro la fuente, la fuente que requiero es de la palabra Filial Lima",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1225129.png",
+        "identified_font": "Sailor Gonzalez"
     }
 ]
