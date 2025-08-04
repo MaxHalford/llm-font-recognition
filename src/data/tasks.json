@@ -19733,7 +19733,7 @@
         "title": "Help please",
         "instructions": "Can someone identify this font for me please...Thank you in advance",
         "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1225112.png",
-        "identified_font": null
+        "identified_font": "Schwarzenberg"
     },
     {
         "task_id": "579783",
@@ -19829,6 +19829,86 @@
         "title": "Geenius",
         "instructions": null,
         "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1225088.jpg",
+        "identified_font": null
+    },
+    {
+        "task_id": "522670",
+        "url": "https://www.dafont.com/forum/read/522670/font-identification",
+        "title": "Font identification",
+        "instructions": "Hello, I would like to know the name of the font used in Mira, especially the letter M",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/1/1106168.jpg",
+        "identified_font": null
+    },
+    {
+        "task_id": "579793",
+        "url": "https://www.dafont.com/forum/read/579793/font-name-please",
+        "title": "Font name please",
+        "instructions": null,
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1225126.jpg",
+        "identified_font": null
+    },
+    {
+        "task_id": "579792",
+        "url": "https://www.dafont.com/forum/read/579792/help-me",
+        "title": "help me",
+        "instructions": null,
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1225125.jpg",
+        "identified_font": null
+    },
+    {
+        "task_id": "579791",
+        "url": "https://www.dafont.com/forum/read/579791/vrelo-vrelo-bez",
+        "title": "Vrelo vrelo bez",
+        "instructions": null,
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1225121.jpg",
+        "identified_font": null
+    },
+    {
+        "task_id": "579790",
+        "url": "https://www.dafont.com/forum/read/579790/what-s-this-font-pls",
+        "title": "What's this font pls ?",
+        "instructions": "thanks",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1225118.png",
+        "identified_font": null
+    },
+    {
+        "task_id": "579789",
+        "url": "https://www.dafont.com/forum/read/579789/krabulja",
+        "title": "Krabulja",
+        "instructions": null,
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1225117.png",
+        "identified_font": null
+    },
+    {
+        "task_id": "579788",
+        "url": "https://www.dafont.com/forum/read/579788/edvard-kocbek",
+        "title": "Edvard Kocbek",
+        "instructions": null,
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1225116.jpg",
+        "identified_font": null
+    },
+    {
+        "task_id": "579787",
+        "url": "https://www.dafont.com/forum/read/579787/what-about-this-one",
+        "title": "What about this one?",
+        "instructions": "Hello folks. Does anyone recognize this font?",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1225115.png",
+        "identified_font": null
+    },
+    {
+        "task_id": "579786",
+        "url": "https://www.dafont.com/forum/read/579786/vesna-krmpoti-bhj",
+        "title": "Vesna Krmpoti&#263; bhj",
+        "instructions": null,
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1225114.jpg",
+        "identified_font": null
+    },
+    {
+        "task_id": "579785",
+        "url": "https://www.dafont.com/forum/read/579785/font-la-huerfanita",
+        "title": "Font La Huerfanita",
+        "instructions": null,
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1225113.png",
         "identified_font": null
     }
 ]
