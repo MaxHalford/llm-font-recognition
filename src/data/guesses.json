@@ -34180,5 +34180,185 @@
         "candidate_font_3": "Nunito Sans",
         "candidate_font_4": "Poetsen One",
         "candidate_font_5": "Panton Rounded"
+    },
+    {
+        "task_id": "522670",
+        "model_name": "gpt-4o-mini",
+        "candidate_font_1": "Futura",
+        "candidate_font_2": "Avenir",
+        "candidate_font_3": "Montserrat",
+        "candidate_font_4": "Raleway",
+        "candidate_font_5": ""
+    },
+    {
+        "task_id": "522670",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Loverine",
+        "candidate_font_2": "Luxora",
+        "candidate_font_3": "Wensley",
+        "candidate_font_4": "Glamora Serif Font",
+        "candidate_font_5": "Estella"
+    },
+    {
+        "task_id": "579793",
+        "model_name": "gpt-4o-mini",
+        "candidate_font_1": "Montserrat",
+        "candidate_font_2": "Poppins",
+        "candidate_font_3": "Raleway",
+        "candidate_font_4": "Roboto",
+        "candidate_font_5": ""
+    },
+    {
+        "task_id": "579793",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Montserrat Bold",
+        "candidate_font_2": "Proxima Nova Bold",
+        "candidate_font_3": "Gotham Bold",
+        "candidate_font_4": "Poppins Bold",
+        "candidate_font_5": "Inter Bold"
+    },
+    {
+        "task_id": "579792",
+        "model_name": "gpt-4o-mini",
+        "candidate_font_1": "Bebas Neue",
+        "candidate_font_2": "Oswald",
+        "candidate_font_3": "Anton",
+        "candidate_font_4": "Impact",
+        "candidate_font_5": ""
+    },
+    {
+        "task_id": "579792",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Gotham Black",
+        "candidate_font_2": "Acumin Pro ExtraBlack",
+        "candidate_font_3": "Univers 93 Extended Black",
+        "candidate_font_4": "Proxima Nova ExtraBold",
+        "candidate_font_5": "Titillium Web Black"
+    },
+    {
+        "task_id": "579791",
+        "model_name": "gpt-4o-mini",
+        "candidate_font_1": "Helvetica",
+        "candidate_font_2": "Futura",
+        "candidate_font_3": "Bodoni",
+        "candidate_font_4": "Avenir",
+        "candidate_font_5": ""
+    },
+    {
+        "task_id": "579791",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Helvetica",
+        "candidate_font_2": "Serifa",
+        "candidate_font_3": "Univers",
+        "candidate_font_4": "Rockwell",
+        "candidate_font_5": "Clarendon"
+    },
+    {
+        "task_id": "579790",
+        "model_name": "gpt-4o-mini",
+        "candidate_font_1": "Fjalla One",
+        "candidate_font_2": "Bebas Neue",
+        "candidate_font_3": "Impact",
+        "candidate_font_4": "Anton",
+        "candidate_font_5": "Oswald"
+    },
+    {
+        "task_id": "579790",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Mesquite Std Bold",
+        "candidate_font_2": "Saloon",
+        "candidate_font_3": "Rodeo Corp",
+        "candidate_font_4": "Ponderosa",
+        "candidate_font_5": "Playbill"
+    },
+    {
+        "task_id": "579789",
+        "model_name": "gpt-4o-mini",
+        "candidate_font_1": "Helvetica Bold",
+        "candidate_font_2": "Futura Medium",
+        "candidate_font_3": "Avenir Black",
+        "candidate_font_4": "Bebas Neue",
+        "candidate_font_5": ""
+    },
+    {
+        "task_id": "579789",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Anton",
+        "candidate_font_2": "Oswald Bold",
+        "candidate_font_3": "Bebas Neue Bold",
+        "candidate_font_4": "Akzidenz-Grotesk Condensed",
+        "candidate_font_5": "Univers 57 Condensed"
+    },
+    {
+        "task_id": "579788",
+        "model_name": "gpt-4o-mini",
+        "candidate_font_1": "Bauhaus",
+        "candidate_font_2": "Futura",
+        "candidate_font_3": "Helvetica",
+        "candidate_font_4": "Avenir",
+        "candidate_font_5": "Montserrat"
+    },
+    {
+        "task_id": "579788",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Trade Gothic Bold No. 20",
+        "candidate_font_2": "Futura Light",
+        "candidate_font_3": "News Gothic",
+        "candidate_font_4": "Akzidenz-Grotesk",
+        "candidate_font_5": "Univers"
+    },
+    {
+        "task_id": "579787",
+        "model_name": "gpt-4o-mini",
+        "candidate_font_1": "Arial Black",
+        "candidate_font_2": "Impact",
+        "candidate_font_3": "Futura Bold",
+        "candidate_font_4": "Montserrat",
+        "candidate_font_5": "Lexend Deca"
+    },
+    {
+        "task_id": "579787",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Tw Cen MT Extra Bold",
+        "candidate_font_2": "Twentieth Century MT Extra Bold",
+        "candidate_font_3": "Geometric 415 Std Heavy",
+        "candidate_font_4": "URW Gothic L ExtraBold",
+        "candidate_font_5": ""
+    },
+    {
+        "task_id": "579786",
+        "model_name": "gpt-4o-mini",
+        "candidate_font_1": "Helvetica",
+        "candidate_font_2": "Arial",
+        "candidate_font_3": "Futura",
+        "candidate_font_4": "Univers",
+        "candidate_font_5": ""
+    },
+    {
+        "task_id": "579786",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Akzidenz-Grotesk",
+        "candidate_font_2": "Folio",
+        "candidate_font_3": "Standard",
+        "candidate_font_4": "Helvetica",
+        "candidate_font_5": "Monotype Grotesque"
+    },
+    {
+        "task_id": "579785",
+        "model_name": "gpt-4o-mini",
+        "candidate_font_1": "Lobster",
+        "candidate_font_2": "Henny Penny",
+        "candidate_font_3": "Pacifico",
+        "candidate_font_4": "Comic Sans MS",
+        "candidate_font_5": ""
+    },
+    {
+        "task_id": "579785",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "La Huerfanita",
+        "candidate_font_2": "La Huerfanita",
+        "candidate_font_3": "Carbonized",
+        "candidate_font_4": "",
+        "candidate_font_5": ""
     }
 ]
