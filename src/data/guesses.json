@@ -33838,5 +33838,41 @@
         "candidate_font_3": "Bank Gothic Medium",
         "candidate_font_4": "Machined",
         "candidate_font_5": "Aero Extended"
+    },
+    {
+        "task_id": "579766",
+        "model_name": "gpt-4o-mini",
+        "candidate_font_1": "Bodoni",
+        "candidate_font_2": "Didot",
+        "candidate_font_3": "Playfair Display",
+        "candidate_font_4": "Viga",
+        "candidate_font_5": "Garamond"
+    },
+    {
+        "task_id": "579766",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Brooklinen Display",
+        "candidate_font_2": "Portrait",
+        "candidate_font_3": "Tiempos Fine",
+        "candidate_font_4": "Canela",
+        "candidate_font_5": "Dahmer"
+    },
+    {
+        "task_id": "579765",
+        "model_name": "gpt-4o-mini",
+        "candidate_font_1": "Shrikhand",
+        "candidate_font_2": "Dancing Script",
+        "candidate_font_3": "Pacifico",
+        "candidate_font_4": "Satisfy",
+        "candidate_font_5": ""
+    },
+    {
+        "task_id": "579765",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Nanum Pen Script",
+        "candidate_font_2": "Nanum Gothic",
+        "candidate_font_3": "Malgun Gothic",
+        "candidate_font_4": "Noto Sans CJK KR",
+        "candidate_font_5": "Indie Flower"
     }
 ]
