@@ -14429,7 +14429,7 @@
         "title": "Help with font",
         "instructions": "I have lost my downloaded fonts and need help identifying these 2 fonts",
         "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1223312.png?1",
-        "identified_font": null
+        "identified_font": "Orange Juice"
     },
     {
         "task_id": "578907",
@@ -19541,7 +19541,7 @@
         "title": "What is font is that?",
         "instructions": null,
         "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1225043.jpg",
-        "identified_font": null
+        "identified_font": "Riskeys"
     },
     {
         "task_id": "579746",
@@ -19565,6 +19565,86 @@
         "title": "What font is this?",
         "instructions": "Im trying to find the font for the tracklist",
         "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1225031.jpg",
+        "identified_font": null
+    },
+    {
+        "task_id": "579758",
+        "url": "https://www.dafont.com/forum/read/579758/font-by-chaereve",
+        "title": "FONT BY CHAEREVE",
+        "instructions": "The CHAEREVE font please",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1225056.png?1",
+        "identified_font": null
+    },
+    {
+        "task_id": "579757",
+        "url": "https://www.dafont.com/forum/read/579757/whats-the-font",
+        "title": "whats the font",
+        "instructions": null,
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1225055.jpg",
+        "identified_font": null
+    },
+    {
+        "task_id": "579756",
+        "url": "https://www.dafont.com/forum/read/579756/freebie-font",
+        "title": "freebie font?",
+        "instructions": "looking for this freebie font",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1225054.png",
+        "identified_font": null
+    },
+    {
+        "task_id": "579755",
+        "url": "https://www.dafont.com/forum/read/579755/help-please",
+        "title": "help please",
+        "instructions": "what font is used here please",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1225053.png",
+        "identified_font": null
+    },
+    {
+        "task_id": "579754",
+        "url": "https://www.dafont.com/forum/read/579754/hey-cual-es-esta-fuente-ayuda-por-favor",
+        "title": "Hey, cual es esta fuente? ayuda por favor",
+        "instructions": null,
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1225052.png",
+        "identified_font": null
+    },
+    {
+        "task_id": "579753",
+        "url": "https://www.dafont.com/forum/read/579753/cual-es-esta-fuente",
+        "title": "Cu\u00e1l es esta fuente",
+        "instructions": "Hola, qu\u00e9 tal, quisiera saber cu\u00e1l es el nombre de esta fuente",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1225051.png",
+        "identified_font": null
+    },
+    {
+        "task_id": "579752",
+        "url": "https://www.dafont.com/forum/read/579752/font-id-request",
+        "title": "Font ID Request",
+        "instructions": "Thank you.",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1225050.jpg",
+        "identified_font": null
+    },
+    {
+        "task_id": "579751",
+        "url": "https://www.dafont.com/forum/read/579751/identificar-fuentes-de-la-imagen",
+        "title": "identificar fuentes de la imagen",
+        "instructions": "Estoy buscando el nombre de todas las tipografias de la imagen, saludos y gracias!",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1225049.jpg",
+        "identified_font": null
+    },
+    {
+        "task_id": "579750",
+        "url": "https://www.dafont.com/forum/read/579750/un-chien-andalou",
+        "title": "Un chien andalou",
+        "instructions": "What's the font pf the letters bellow the image?",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1225048.jpg",
+        "identified_font": null
+    },
+    {
+        "task_id": "579749",
+        "url": "https://www.dafont.com/forum/read/579749/font-for-this",
+        "title": "Font for this?",
+        "instructions": "I think it's similar to Comfortaa but I can't find any font that match with the modified K",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1225046.png",
         "identified_font": null
     }
 ]
