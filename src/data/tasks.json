@@ -19605,7 +19605,7 @@
         "title": "Hey, cual es esta fuente? ayuda por favor",
         "instructions": null,
         "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1225052.png",
-        "identified_font": null
+        "identified_font": "Road Rage"
     },
     {
         "task_id": "579753",
@@ -19645,6 +19645,38 @@
         "title": "Font for this?",
         "instructions": "I think it's similar to Comfortaa but I can't find any font that match with the modified K",
         "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1225046.png",
+        "identified_font": null
+    },
+    {
+        "task_id": "579764",
+        "url": "https://www.dafont.com/forum/read/579764/what-font-is-the-wow-wow-wubbzy-logo-using",
+        "title": "What font is the Wow! Wow! Wubbzy! Logo using",
+        "instructions": "This was one of my childhood shows growing up, but for some reason, the font wasn't identified! I had no choice but the post this on Reddit, a user named u/Unable-South-9125 comments to some fonts that are similar to the logo, but it doesn't look like it!",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1225064.png",
+        "identified_font": null
+    },
+    {
+        "task_id": "579762",
+        "url": "https://www.dafont.com/forum/read/579762/font-name-pls-thanks",
+        "title": "Font name pls? Thanks!",
+        "instructions": null,
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1225062.jpg",
+        "identified_font": null
+    },
+    {
+        "task_id": "579761",
+        "url": "https://www.dafont.com/forum/read/579761/i-need-help-finding-both-of-these-fonts-in-this-picture",
+        "title": "I need help finding both of these fonts in this picture",
+        "instructions": "I saw this font on TikTok and I wanted to know where these font came from so I can use them in my thing",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1225061.png",
+        "identified_font": null
+    },
+    {
+        "task_id": "579760",
+        "url": "https://www.dafont.com/forum/read/579760/what-is-the-font-that-moving-shadow-used-for-their-msxep-covers",
+        "title": "What is the font that Moving Shadow used for their MSXEP covers?",
+        "instructions": null,
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1225058.jpg",
         "identified_font": null
     }
 ]
