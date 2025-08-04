@@ -18820,7 +18820,7 @@
         "url": "https://www.dafont.com/forum/read/579636/font-please",
         "title": "Font, please. &#128591;&#127996;",
         "instructions": null,
-        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1224778.jpg",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1224778.png?1",
         "identified_font": null
     },
     {
@@ -18964,7 +18964,7 @@
         "url": "https://www.dafont.com/forum/read/579665/font-for-forget-my-name",
         "title": "Font For Forget my name",
         "instructions": null,
-        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1224846.png",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1224846.png?1",
         "identified_font": null
     },
     {
@@ -19717,7 +19717,7 @@
         "title": "What font is this, pls?",
         "instructions": "Please help me identify this font. Many thanks!",
         "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1225086.png",
-        "identified_font": null
+        "identified_font": "FF Providence Sans"
     },
     {
         "task_id": "579769",
@@ -19725,6 +19725,110 @@
         "title": "SHADOW WIZARD RETRO GANG Font?",
         "instructions": "I need this rn",
         "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1225082.png",
+        "identified_font": null
+    },
+    {
+        "task_id": "579784",
+        "url": "https://www.dafont.com/forum/read/579784/help-please",
+        "title": "Help please",
+        "instructions": "Can someone identify this font for me please...Thank you in advance",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1225112.png",
+        "identified_font": null
+    },
+    {
+        "task_id": "579783",
+        "url": "https://www.dafont.com/forum/read/579783/all-fonts",
+        "title": "All Fonts?",
+        "instructions": null,
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1225111.jpg",
+        "identified_font": null
+    },
+    {
+        "task_id": "579782",
+        "url": "https://www.dafont.com/forum/read/579782/need-help",
+        "title": "need help!",
+        "instructions": null,
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1225109.jpg",
+        "identified_font": null
+    },
+    {
+        "task_id": "579771",
+        "url": "https://www.dafont.com/forum/read/579771/font",
+        "title": "Font",
+        "instructions": "Who knows this font?  Thanks.",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1225087.png",
+        "identified_font": null
+    },
+    {
+        "task_id": "579781",
+        "url": "https://www.dafont.com/forum/read/579781/francoise-sagan-predaja",
+        "title": "Francoise Sagan - Predaja",
+        "instructions": null,
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1225107.jpg",
+        "identified_font": null
+    },
+    {
+        "task_id": "579780",
+        "url": "https://www.dafont.com/forum/read/579780/font-name-in-japanese",
+        "title": "Font name in Japanese?",
+        "instructions": null,
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1225097.png",
+        "identified_font": null
+    },
+    {
+        "task_id": "579779",
+        "url": "https://www.dafont.com/forum/read/579779/font-name",
+        "title": "Font name?",
+        "instructions": null,
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1225096.png",
+        "identified_font": null
+    },
+    {
+        "task_id": "579778",
+        "url": "https://www.dafont.com/forum/read/579778/inazuma-eleven-basic-japanese-hissatsu-font",
+        "title": "Inazuma Eleven (Basic Japanese Hissatsu Font)",
+        "instructions": "I dunno but.... this font seems pretty common but I don't know how to find it.",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1225095.png",
+        "identified_font": null
+    },
+    {
+        "task_id": "579777",
+        "url": "https://www.dafont.com/forum/read/579777/sarkar-font-name",
+        "title": "Sarkar font name?",
+        "instructions": null,
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1225094.png",
+        "identified_font": null
+    },
+    {
+        "task_id": "579776",
+        "url": "https://www.dafont.com/forum/read/579776/help-me-to-find-this-font",
+        "title": "help me to find this font",
+        "instructions": null,
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1225093.png",
+        "identified_font": null
+    },
+    {
+        "task_id": "579775",
+        "url": "https://www.dafont.com/forum/read/579775/seen-on-a-poster",
+        "title": "Seen on a poster",
+        "instructions": null,
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1225092.png",
+        "identified_font": null
+    },
+    {
+        "task_id": "579773",
+        "url": "https://www.dafont.com/forum/read/579773/fonts-use-in-this-logo",
+        "title": "Fonts use in this logo?",
+        "instructions": null,
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1225089.png",
+        "identified_font": null
+    },
+    {
+        "task_id": "579772",
+        "url": "https://www.dafont.com/forum/read/579772/geenius",
+        "title": "Geenius",
+        "instructions": null,
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1225088.jpg",
         "identified_font": null
     }
 ]
