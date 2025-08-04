@@ -33766,5 +33766,77 @@
         "candidate_font_3": "Varela Round",
         "candidate_font_4": "Comfortaa",
         "candidate_font_5": "Muli"
+    },
+    {
+        "task_id": "579764",
+        "model_name": "gpt-4o-mini",
+        "candidate_font_1": "BubbleGum",
+        "candidate_font_2": "Jellycious",
+        "candidate_font_3": "Comic Sans MS",
+        "candidate_font_4": "Chalkboard SE",
+        "candidate_font_5": "Groovy"
+    },
+    {
+        "task_id": "579764",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Burbank Big Condensed Black",
+        "candidate_font_2": "Porky's",
+        "candidate_font_3": "Bubblegum Sans Bold",
+        "candidate_font_4": "Pump Demi Bold",
+        "candidate_font_5": "Comic Relief"
+    },
+    {
+        "task_id": "579762",
+        "model_name": "gpt-4o-mini",
+        "candidate_font_1": "Bebas Neue",
+        "candidate_font_2": "Oswald",
+        "candidate_font_3": "Anton",
+        "candidate_font_4": "Montserrat",
+        "candidate_font_5": ""
+    },
+    {
+        "task_id": "579762",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "ChunkFive",
+        "candidate_font_2": "Times New Roman Italic",
+        "candidate_font_3": "LTC Clarendon Text Bold",
+        "candidate_font_4": "Rockwell Bold",
+        "candidate_font_5": "Georgia Italic"
+    },
+    {
+        "task_id": "579761",
+        "model_name": "gpt-4o-mini",
+        "candidate_font_1": "Great Vibes",
+        "candidate_font_2": "Montserrat",
+        "candidate_font_3": "Lobster",
+        "candidate_font_4": "Dancing Script",
+        "candidate_font_5": "Raleway"
+    },
+    {
+        "task_id": "579761",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Paramount D",
+        "candidate_font_2": "Open Sans",
+        "candidate_font_3": "Ambrosia",
+        "candidate_font_4": "Lato",
+        "candidate_font_5": "Roboto"
+    },
+    {
+        "task_id": "579760",
+        "model_name": "gpt-4o-mini",
+        "candidate_font_1": "Eurostile",
+        "candidate_font_2": "Bank Gothic",
+        "candidate_font_3": "Helvetica Rounded",
+        "candidate_font_4": "Futura",
+        "candidate_font_5": "Bebas Neue"
+    },
+    {
+        "task_id": "579760",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Eurostile Extended Black",
+        "candidate_font_2": "Microgramma D Extended Bold",
+        "candidate_font_3": "Bank Gothic Medium",
+        "candidate_font_4": "Machined",
+        "candidate_font_5": "Aero Extended"
     }
 ]
