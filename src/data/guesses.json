@@ -33874,5 +33874,41 @@
         "candidate_font_3": "Malgun Gothic",
         "candidate_font_4": "Noto Sans CJK KR",
         "candidate_font_5": "Indie Flower"
+    },
+    {
+        "task_id": "579768",
+        "model_name": "gpt-4o-mini",
+        "candidate_font_1": "Arial",
+        "candidate_font_2": "Helvetica",
+        "candidate_font_3": "Verdana",
+        "candidate_font_4": "Tahoma",
+        "candidate_font_5": ""
+    },
+    {
+        "task_id": "579768",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Georgia",
+        "candidate_font_2": "Palatino",
+        "candidate_font_3": "Times New Roman",
+        "candidate_font_4": "Baskerville",
+        "candidate_font_5": "Garamond"
+    },
+    {
+        "task_id": "437196",
+        "model_name": "gpt-4o-mini",
+        "candidate_font_1": "NiseSegaSonic Bold",
+        "candidate_font_2": "",
+        "candidate_font_3": "",
+        "candidate_font_4": "",
+        "candidate_font_5": ""
+    },
+    {
+        "task_id": "437196",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Pricedown",
+        "candidate_font_2": "SF Collegiate",
+        "candidate_font_3": "Varsity Team",
+        "candidate_font_4": "Jersey M54",
+        "candidate_font_5": "Motion Picture"
     }
 ]
