@@ -33910,5 +33910,41 @@
         "candidate_font_3": "Varsity Team",
         "candidate_font_4": "Jersey M54",
         "candidate_font_5": "Motion Picture"
+    },
+    {
+        "task_id": "579770",
+        "model_name": "gpt-4o-mini",
+        "candidate_font_1": "Caveat Brush",
+        "candidate_font_2": "Patrick Hand",
+        "candidate_font_3": "Quicksand",
+        "candidate_font_4": "Lobster",
+        "candidate_font_5": "Amatic SC"
+    },
+    {
+        "task_id": "579770",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Goobers",
+        "candidate_font_2": "Bubbly Boba",
+        "candidate_font_3": "Cream Peach",
+        "candidate_font_4": "Bubblegum Sans",
+        "candidate_font_5": "Komika Text"
+    },
+    {
+        "task_id": "579769",
+        "model_name": "gpt-4o-mini",
+        "candidate_font_1": "Bebas Neue",
+        "candidate_font_2": "Anton",
+        "candidate_font_3": "Impact",
+        "candidate_font_4": "Blackout",
+        "candidate_font_5": "Oswald"
+    },
+    {
+        "task_id": "579769",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Gotham Black",
+        "candidate_font_2": "Proxima Nova Black",
+        "candidate_font_3": "Rockwell Bold",
+        "candidate_font_4": "ChunkFive Roman",
+        "candidate_font_5": "Avenir Black"
     }
 ]
