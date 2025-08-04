@@ -19660,7 +19660,7 @@
         "url": "https://www.dafont.com/forum/read/579762/font-name-pls-thanks",
         "title": "Font name pls? Thanks!",
         "instructions": null,
-        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1225062.jpg",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1225062.png?1",
         "identified_font": null
     },
     {
@@ -19709,6 +19709,22 @@
         "title": "The 2 from the Sonic the Hedgehog 2 Title Screen",
         "instructions": "Hey so for some reason my post got deleted but does anyone know of the origin of the 2 from the sonic 2 title screen? it's different to NiseSegaSonic and I was wondering about its source?",
         "img_url": "https://www.dafont.com/forum/attach/orig/9/3/937251.png?1",
+        "identified_font": null
+    },
+    {
+        "task_id": "579770",
+        "url": "https://www.dafont.com/forum/read/579770/what-font-is-this-pls",
+        "title": "What font is this, pls?",
+        "instructions": "Please help me identify this font. Many thanks!",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1225086.png",
+        "identified_font": null
+    },
+    {
+        "task_id": "579769",
+        "url": "https://www.dafont.com/forum/read/579769/shadow-wizard-retro-gang-font",
+        "title": "SHADOW WIZARD RETRO GANG Font?",
+        "instructions": "I need this rn",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1225082.png",
         "identified_font": null
     }
 ]
