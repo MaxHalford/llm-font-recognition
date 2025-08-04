@@ -33586,5 +33586,185 @@
         "candidate_font_3": "Interstate",
         "candidate_font_4": "Roboto",
         "candidate_font_5": "Open Sans"
+    },
+    {
+        "task_id": "579758",
+        "model_name": "gpt-4o-mini",
+        "candidate_font_1": "Chaereve",
+        "candidate_font_2": "",
+        "candidate_font_3": "",
+        "candidate_font_4": "",
+        "candidate_font_5": ""
+    },
+    {
+        "task_id": "579758",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "CHAEREVE",
+        "candidate_font_2": "",
+        "candidate_font_3": "",
+        "candidate_font_4": "",
+        "candidate_font_5": ""
+    },
+    {
+        "task_id": "579757",
+        "model_name": "gpt-4o-mini",
+        "candidate_font_1": "Groovy",
+        "candidate_font_2": "Bubblegum",
+        "candidate_font_3": "Comic Sans MS",
+        "candidate_font_4": "Bubbler One",
+        "candidate_font_5": "Spray Paint"
+    },
+    {
+        "task_id": "579757",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Hard Spray",
+        "candidate_font_2": "Vandalism",
+        "candidate_font_3": "Reska Sans Spray",
+        "candidate_font_4": "Chaser Spray",
+        "candidate_font_5": "Graffiti Classic"
+    },
+    {
+        "task_id": "579756",
+        "model_name": "gpt-4o-mini",
+        "candidate_font_1": "Bubblegum Sans",
+        "candidate_font_2": "Chewy",
+        "candidate_font_3": "Dancing Script",
+        "candidate_font_4": "CuteFont",
+        "candidate_font_5": ""
+    },
+    {
+        "task_id": "579756",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "KG Strawberry Blossom",
+        "candidate_font_2": "Hello Bubblegum",
+        "candidate_font_3": "Cutie Patootie",
+        "candidate_font_4": "Bubblegum Pop",
+        "candidate_font_5": "DJ Gross"
+    },
+    {
+        "task_id": "579755",
+        "model_name": "gpt-4o-mini",
+        "candidate_font_1": "Digital Disruption",
+        "candidate_font_2": "Chunk Five",
+        "candidate_font_3": "Impact",
+        "candidate_font_4": "Arial Black",
+        "candidate_font_5": ""
+    },
+    {
+        "task_id": "579755",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Pricedown Black",
+        "candidate_font_2": "Terminator Real NFI",
+        "candidate_font_3": "Cyberfall",
+        "candidate_font_4": "Octin Stencil",
+        "candidate_font_5": "Space Age"
+    },
+    {
+        "task_id": "579754",
+        "model_name": "gpt-4o-mini",
+        "candidate_font_1": "Brush Script",
+        "candidate_font_2": "Gamer",
+        "candidate_font_3": "Pacifico",
+        "candidate_font_4": "Freestyle Script",
+        "candidate_font_5": "Lobster"
+    },
+    {
+        "task_id": "579754",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Riot Squad Display",
+        "candidate_font_2": "Riot Squad Script",
+        "candidate_font_3": "Thunder Bold",
+        "candidate_font_4": "Hustle Script",
+        "candidate_font_5": "Montserrat Light"
+    },
+    {
+        "task_id": "579753",
+        "model_name": "gpt-4o-mini",
+        "candidate_font_1": "Blob",
+        "candidate_font_2": "Drippy",
+        "candidate_font_3": "Liquid",
+        "candidate_font_4": "Bubbly",
+        "candidate_font_5": "Melted"
+    },
+    {
+        "task_id": "579753",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Liquidism",
+        "candidate_font_2": "Melted Dream",
+        "candidate_font_3": "Melting Point",
+        "candidate_font_4": "Goo Goo Muck",
+        "candidate_font_5": "Drippy"
+    },
+    {
+        "task_id": "579752",
+        "model_name": "gpt-4o-mini",
+        "candidate_font_1": "Futura Bold",
+        "candidate_font_2": "Eurostile",
+        "candidate_font_3": "Impact",
+        "candidate_font_4": "Square721",
+        "candidate_font_5": ""
+    },
+    {
+        "task_id": "579752",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Microgramma Extended Bold",
+        "candidate_font_2": "Eurostile Extended Black",
+        "candidate_font_3": "Impact",
+        "candidate_font_4": "Univers 75 Black",
+        "candidate_font_5": "Agency FB Bold"
+    },
+    {
+        "task_id": "579751",
+        "model_name": "gpt-4o-mini",
+        "candidate_font_1": "Lobster",
+        "candidate_font_2": "Pacifico",
+        "candidate_font_3": "Bebas Neue",
+        "candidate_font_4": "Montserrat",
+        "candidate_font_5": "Dancing Script"
+    },
+    {
+        "task_id": "579751",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "October Crow",
+        "candidate_font_2": "Garamond",
+        "candidate_font_3": "Open Sans",
+        "candidate_font_4": "SF Collegiate",
+        "candidate_font_5": "Caslon"
+    },
+    {
+        "task_id": "579750",
+        "model_name": "gpt-4o-mini",
+        "candidate_font_1": "Didot",
+        "candidate_font_2": "Bodoni",
+        "candidate_font_3": "Garamond",
+        "candidate_font_4": "Trajan",
+        "candidate_font_5": ""
+    },
+    {
+        "task_id": "579750",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Perpetua",
+        "candidate_font_2": "Centaur",
+        "candidate_font_3": "Baskerville",
+        "candidate_font_4": "Plantin",
+        "candidate_font_5": "Janson Text"
+    },
+    {
+        "task_id": "579749",
+        "model_name": "gpt-4o-mini",
+        "candidate_font_1": "Comfortaa",
+        "candidate_font_2": "Raleway",
+        "candidate_font_3": "Poppins",
+        "candidate_font_4": "Montserrat",
+        "candidate_font_5": "Avenir"
+    },
+    {
+        "task_id": "579749",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Nunito Sans",
+        "candidate_font_2": "Quicksand",
+        "candidate_font_3": "Varela Round",
+        "candidate_font_4": "Comfortaa",
+        "candidate_font_5": "Muli"
     }
 ]
