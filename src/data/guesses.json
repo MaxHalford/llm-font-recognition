@@ -34360,5 +34360,59 @@
         "candidate_font_3": "Carbonized",
         "candidate_font_4": "",
         "candidate_font_5": ""
+    },
+    {
+        "task_id": "579799",
+        "model_name": "gpt-4o-mini",
+        "candidate_font_1": "Scriptina",
+        "candidate_font_2": "Great Vibes",
+        "candidate_font_3": "Allura",
+        "candidate_font_4": "Dancing Script",
+        "candidate_font_5": "Pacifico"
+    },
+    {
+        "task_id": "579799",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Scriptina",
+        "candidate_font_2": "Bickham Script Pro",
+        "candidate_font_3": "Carolyna Pro Black",
+        "candidate_font_4": "Respective Slant",
+        "candidate_font_5": "Aphrodite Pro"
+    },
+    {
+        "task_id": "579798",
+        "model_name": "gpt-4o-mini",
+        "candidate_font_1": "Sofia",
+        "candidate_font_2": "Cardoso",
+        "candidate_font_3": null,
+        "candidate_font_4": null,
+        "candidate_font_5": null
+    },
+    {
+        "task_id": "579798",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Bubblegum Pop",
+        "candidate_font_2": "Marker Felt",
+        "candidate_font_3": "Coming Soon",
+        "candidate_font_4": "Architects Daughter",
+        "candidate_font_5": ""
+    },
+    {
+        "task_id": "579796",
+        "model_name": "gpt-4o-mini",
+        "candidate_font_1": "Bubblegum Sans",
+        "candidate_font_2": "Comic Sans MS",
+        "candidate_font_3": "Bangers",
+        "candidate_font_4": "Fredoka One",
+        "candidate_font_5": "Baloo Bhai"
+    },
+    {
+        "task_id": "579796",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Luckiest Guy",
+        "candidate_font_2": "Burbank Big Condensed",
+        "candidate_font_3": "Bubblegum Sans",
+        "candidate_font_4": "Komika Title",
+        "candidate_font_5": "Acme Regular"
     }
 ]
