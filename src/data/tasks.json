@@ -19694,5 +19694,21 @@
         "instructions": "Identify all font name of this image.",
         "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1225070.png?1",
         "identified_font": null
+    },
+    {
+        "task_id": "579768",
+        "url": "https://www.dafont.com/forum/read/579768/what-is-this-font-please",
+        "title": "What is this font please ?",
+        "instructions": "Hello, I need to identify the font of \"www.lexsc.com\" please. Thank you so much.",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1225080.png",
+        "identified_font": null
+    },
+    {
+        "task_id": "437196",
+        "url": "https://www.dafont.com/forum/read/437196/the-2-from-the-sonic-the-hedgehog-2-title-screen",
+        "title": "The 2 from the Sonic the Hedgehog 2 Title Screen",
+        "instructions": "Hey so for some reason my post got deleted but does anyone know of the origin of the 2 from the sonic 2 title screen? it's different to NiseSegaSonic and I was wondering about its source?",
+        "img_url": "https://www.dafont.com/forum/attach/orig/9/3/937251.png?1",
+        "identified_font": null
     }
 ]
