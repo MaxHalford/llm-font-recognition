@@ -34594,5 +34594,95 @@
         "candidate_font_3": "Gotham",
         "candidate_font_4": "Circular Std",
         "candidate_font_5": "Futura"
+    },
+    {
+        "task_id": "579816",
+        "model_name": "gpt-4o-mini",
+        "candidate_font_1": "Neon Lights",
+        "candidate_font_2": "Barker",
+        "candidate_font_3": "Pacifico",
+        "candidate_font_4": "Cochin",
+        "candidate_font_5": "Lobster"
+    },
+    {
+        "task_id": "579816",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Neon Club Music",
+        "candidate_font_2": "Neon Lights",
+        "candidate_font_3": "Electric City",
+        "candidate_font_4": "Neoneon",
+        "candidate_font_5": "Neon Tubes"
+    },
+    {
+        "task_id": "579815",
+        "model_name": "gpt-4o-mini",
+        "candidate_font_1": "Lobster",
+        "candidate_font_2": "Pacifico",
+        "candidate_font_3": "Dancing Script",
+        "candidate_font_4": "",
+        "candidate_font_5": ""
+    },
+    {
+        "task_id": "579815",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "LHF Ambrosia",
+        "candidate_font_2": "Park Lane NF",
+        "candidate_font_3": "Brody",
+        "candidate_font_4": "Thirsty Script",
+        "candidate_font_5": "Quick Kiss"
+    },
+    {
+        "task_id": "579814",
+        "model_name": "gpt-4o-mini",
+        "candidate_font_1": "Techno",
+        "candidate_font_2": "Orbitron",
+        "candidate_font_3": "Eurostile",
+        "candidate_font_4": "Bank Gothic",
+        "candidate_font_5": "SquareSans"
+    },
+    {
+        "task_id": "579814",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Conthrax Bold",
+        "candidate_font_2": "Bank Gothic",
+        "candidate_font_3": "Agency FB",
+        "candidate_font_4": "Orbitron",
+        "candidate_font_5": "Xolonium"
+    },
+    {
+        "task_id": "579813",
+        "model_name": "gpt-4o-mini",
+        "candidate_font_1": "Pacifico",
+        "candidate_font_2": "Lobster",
+        "candidate_font_3": "Dancing Script",
+        "candidate_font_4": "Lalezar",
+        "candidate_font_5": "Brush Script"
+    },
+    {
+        "task_id": "579813",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Helsing",
+        "candidate_font_2": "Playlist Script",
+        "candidate_font_3": "Lemon Tuesday",
+        "candidate_font_4": "Beyond The Mountains",
+        "candidate_font_5": "Autography"
+    },
+    {
+        "task_id": "579812",
+        "model_name": "gpt-4o-mini",
+        "candidate_font_1": "Montserrat",
+        "candidate_font_2": "Playfair Display",
+        "candidate_font_3": "",
+        "candidate_font_4": "",
+        "candidate_font_5": ""
+    },
+    {
+        "task_id": "579812",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Poppins",
+        "candidate_font_2": "Crimson Text",
+        "candidate_font_3": "Montserrat",
+        "candidate_font_4": "EB Garamond",
+        "candidate_font_5": "Libre Baskerville"
     }
 ]
