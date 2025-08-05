@@ -34414,5 +34414,59 @@
         "candidate_font_3": "Bubblegum Sans",
         "candidate_font_4": "Komika Title",
         "candidate_font_5": "Acme Regular"
+    },
+    {
+        "task_id": "579802",
+        "model_name": "gpt-4o-mini",
+        "candidate_font_1": "Blackletter",
+        "candidate_font_2": "Celtic",
+        "candidate_font_3": "Gothic",
+        "candidate_font_4": "Old English",
+        "candidate_font_5": "Fantasy"
+    },
+    {
+        "task_id": "579802",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Iron On Font",
+        "candidate_font_2": "Pueblo",
+        "candidate_font_3": "Aero Wolves",
+        "candidate_font_4": "",
+        "candidate_font_5": ""
+    },
+    {
+        "task_id": "579801",
+        "model_name": "gpt-4o-mini",
+        "candidate_font_1": "Lobster",
+        "candidate_font_2": "Bebas Neue",
+        "candidate_font_3": "Poppins",
+        "candidate_font_4": "Montserrat",
+        "candidate_font_5": "Raleway"
+    },
+    {
+        "task_id": "579801",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Proxima Nova Soft",
+        "candidate_font_2": "VAG Rounded",
+        "candidate_font_3": "Gotham Rounded",
+        "candidate_font_4": "Pacifico",
+        "candidate_font_5": "Dancing Script"
+    },
+    {
+        "task_id": "579800",
+        "model_name": "gpt-4o-mini",
+        "candidate_font_1": "Brush Script",
+        "candidate_font_2": "Great Vibes",
+        "candidate_font_3": "Lobster",
+        "candidate_font_4": "Dancing Script",
+        "candidate_font_5": ""
+    },
+    {
+        "task_id": "579800",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Montserrat",
+        "candidate_font_2": "Autumn in November",
+        "candidate_font_3": "",
+        "candidate_font_4": "",
+        "candidate_font_5": ""
     }
 ]
