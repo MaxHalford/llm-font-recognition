@@ -19925,7 +19925,7 @@
         "title": "ID FONT?",
         "instructions": null,
         "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1225142.png",
-        "identified_font": null
+        "identified_font": "Matura"
     },
     {
         "task_id": "579797",
@@ -19958,5 +19958,29 @@
         "instructions": "Buenas tardes comunidad, estoy redise\u00f1ando un logo pero no encuentro la fuente, la fuente que requiero es de la palabra Filial Lima",
         "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1225129.png",
         "identified_font": "Sailor Gonzalez"
+    },
+    {
+        "task_id": "579802",
+        "url": "https://www.dafont.com/forum/read/579802/font-id",
+        "title": "Font ID",
+        "instructions": "No luck so far.  Close to Aero Wolves/Pueblo/Iron-On Blackletter but softer.",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1225155.png",
+        "identified_font": null
+    },
+    {
+        "task_id": "579801",
+        "url": "https://www.dafont.com/forum/read/579801/macmillan-s-get-involved-logo",
+        "title": "Macmillan's: Get Involved! logo.",
+        "instructions": null,
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1225153.jpg",
+        "identified_font": null
+    },
+    {
+        "task_id": "579800",
+        "url": "https://www.dafont.com/forum/read/579800/need-help-finding-both-of-these-font",
+        "title": "NEED HELP FINDING BOTH OF THESE FONT",
+        "instructions": "NEED HELP",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1225150.jpg",
+        "identified_font": null
     }
 ]
