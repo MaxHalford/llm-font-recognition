@@ -20053,7 +20053,7 @@
         "title": "need help finding the hey yah font",
         "instructions": null,
         "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1225191.jpg",
-        "identified_font": null
+        "identified_font": "Deftone Stylus"
     },
     {
         "task_id": "579815",
@@ -20061,7 +20061,7 @@
         "title": "Rasa",
         "instructions": null,
         "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1225190.jpg",
-        "identified_font": null
+        "identified_font": "Shelley Script"
     },
     {
         "task_id": "579814",
@@ -20109,6 +20109,38 @@
         "title": "Cracker Barrel Ads",
         "instructions": null,
         "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1225193.png",
+        "identified_font": "Thirsty Rough"
+    },
+    {
+        "task_id": "579822",
+        "url": "https://www.dafont.com/forum/read/579822/fimlog-in-japan",
+        "title": "Fimlog in Japan",
+        "instructions": null,
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1225206.png",
+        "identified_font": null
+    },
+    {
+        "task_id": "579823",
+        "url": "https://www.dafont.com/forum/read/579823/fuente-asociacion-cultural",
+        "title": "FUENTE asociaci\u00f3n cultural",
+        "instructions": "Comunidad buenos d\u00edas necesito encontrar la fuente tipoografica de Asociaci\u00f3n Cultural y de la palabra Filial Lima",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1225210.png",
+        "identified_font": null
+    },
+    {
+        "task_id": "533874",
+        "url": "https://www.dafont.com/forum/read/533874/golden-age-nct-2023-font",
+        "title": "Golden Age NCT 2023 font",
+        "instructions": "Hi. Would anyone know the fonts used for GOLDEN AGE, NCT, and 2023?",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/1/1128667.png",
+        "identified_font": null
+    },
+    {
+        "task_id": "579820",
+        "url": "https://www.dafont.com/forum/read/579820/font-name",
+        "title": "font name?",
+        "instructions": null,
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1225202.png",
         "identified_font": null
     }
 ]
