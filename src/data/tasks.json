@@ -19941,7 +19941,7 @@
         "title": "Glitter Force Credits:",
         "instructions": "Looking for a font that's similar to the credits of Glitter Force (Smile & Doki Doki's international co-production dub.",
         "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1225137.png",
-        "identified_font": null
+        "identified_font": "Junegull"
     },
     {
         "task_id": "579794",
@@ -19981,6 +19981,70 @@
         "title": "NEED HELP FINDING BOTH OF THESE FONT",
         "instructions": "NEED HELP",
         "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1225150.jpg",
+        "identified_font": null
+    },
+    {
+        "task_id": "579811",
+        "url": "https://www.dafont.com/forum/read/579811/90s-font",
+        "title": "90s font",
+        "instructions": "anyone knows this font?",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1225177.png",
+        "identified_font": null
+    },
+    {
+        "task_id": "579810",
+        "url": "https://www.dafont.com/forum/read/579810/please-identify-font",
+        "title": "Please identify font",
+        "instructions": "Can't seem to find this font anywhere",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1225176.jpg",
+        "identified_font": null
+    },
+    {
+        "task_id": "579809",
+        "url": "https://www.dafont.com/forum/read/579809/purity-ring",
+        "title": "Purity Ring",
+        "instructions": "Can anyone identify this font please?",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1225175.png",
+        "identified_font": null
+    },
+    {
+        "task_id": "428675",
+        "url": "https://www.dafont.com/forum/read/428675/cashapp-font",
+        "title": "Cashapp Font?",
+        "instructions": "What font does cashapp use. I\u0092m trying to make an album cover",
+        "img_url": "https://www.dafont.com/forum/attach/orig/9/1/919811.png?1",
+        "identified_font": null
+    },
+    {
+        "task_id": "511025",
+        "url": "https://www.dafont.com/forum/read/511025/one-piece-wanted-poster-font-berries-font",
+        "title": "One Piece wanted poster font?... Berries font",
+        "instructions": null,
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/0/1083546.jpg",
+        "identified_font": "Times New Roman Extra Bold"
+    },
+    {
+        "task_id": "579806",
+        "url": "https://www.dafont.com/forum/read/579806/hola-buenas-noches-alguien-sabe-como-se-llama-esta-fuente-gracias-y-quedo-atento",
+        "title": "Hola, buenas noches. Alguien sabe como se llama esta fuente?, Gracias y quedo atento",
+        "instructions": null,
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1225161.png",
+        "identified_font": null
+    },
+    {
+        "task_id": "579805",
+        "url": "https://www.dafont.com/forum/read/579805/i-love-jkt48-theater",
+        "title": "I Love JKT48 Theater",
+        "instructions": "What is the font type of \"I Love JKT48 Theater\"?",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1225159.jpg",
+        "identified_font": null
+    },
+    {
+        "task_id": "579803",
+        "url": "https://www.dafont.com/forum/read/579803/what-font-is-this",
+        "title": "what font is this",
+        "instructions": null,
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1225157.png?1",
         "identified_font": null
     }
 ]
