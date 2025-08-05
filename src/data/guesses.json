@@ -34738,5 +34738,77 @@
         "candidate_font_3": "Open Sans",
         "candidate_font_4": "Montserrat",
         "candidate_font_5": "Roboto Condensed Light"
+    },
+    {
+        "task_id": "579822",
+        "model_name": "gpt-4o-mini",
+        "candidate_font_1": "BubbleGum",
+        "candidate_font_2": "Fredoka One",
+        "candidate_font_3": "Baloo Bhai",
+        "candidate_font_4": "Poppins",
+        "candidate_font_5": ""
+    },
+    {
+        "task_id": "579822",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Gochi Hand",
+        "candidate_font_2": "Stay Grateful",
+        "candidate_font_3": "Pacifico",
+        "candidate_font_4": "Grand Hotel",
+        "candidate_font_5": "Dancing Script"
+    },
+    {
+        "task_id": "579823",
+        "model_name": "gpt-4o-mini",
+        "candidate_font_1": "Bebas Neue",
+        "candidate_font_2": "Great Vibes",
+        "candidate_font_3": "Pacifico",
+        "candidate_font_4": "Lobster",
+        "candidate_font_5": "Playfair Display"
+    },
+    {
+        "task_id": "579823",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Trajan Pro",
+        "candidate_font_2": "Champignon",
+        "candidate_font_3": "Burgues Script",
+        "candidate_font_4": "Cinzel",
+        "candidate_font_5": "Bickham Script Pro"
+    },
+    {
+        "task_id": "533874",
+        "model_name": "gpt-4o-mini",
+        "candidate_font_1": "Futura Black",
+        "candidate_font_2": "Montserrat",
+        "candidate_font_3": "Bebas Neue",
+        "candidate_font_4": "DIN Condensed",
+        "candidate_font_5": "Gotham Bold"
+    },
+    {
+        "task_id": "533874",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Neue Montreal",
+        "candidate_font_2": "Suisse Int'l Bold",
+        "candidate_font_3": "Custom Artwork (for '2023')",
+        "candidate_font_4": "No additional font identified",
+        "candidate_font_5": "No additional font identified"
+    },
+    {
+        "task_id": "579820",
+        "model_name": "gpt-4o-mini",
+        "candidate_font_1": "Bebas Neue",
+        "candidate_font_2": "Montserrat",
+        "candidate_font_3": "Oswald",
+        "candidate_font_4": "Impact",
+        "candidate_font_5": "Raleway"
+    },
+    {
+        "task_id": "579820",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Bebas Neue",
+        "candidate_font_2": "Oswald",
+        "candidate_font_3": "League Gothic",
+        "candidate_font_4": "Compacta",
+        "candidate_font_5": "Akzidenz-Grotesk Condensed"
     }
 ]
