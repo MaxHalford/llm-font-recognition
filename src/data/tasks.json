@@ -19980,7 +19980,7 @@
         "url": "https://www.dafont.com/forum/read/579800/need-help-finding-both-of-these-font",
         "title": "NEED HELP FINDING BOTH OF THESE FONT",
         "instructions": "NEED HELP",
-        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1225150.jpg",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1225150.png?1",
         "identified_font": null
     },
     {
@@ -20085,6 +20085,30 @@
         "title": "What font",
         "instructions": "Hello, does anyone know what these two fonts are? Thank you!",
         "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1225182.png",
+        "identified_font": null
+    },
+    {
+        "task_id": "579819",
+        "url": "https://www.dafont.com/forum/read/579819/alguien-sabe-cual-es-esta-fuente",
+        "title": "Alguien sabe cual es esta fuente?",
+        "instructions": null,
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1225200.png",
+        "identified_font": null
+    },
+    {
+        "task_id": "579818",
+        "url": "https://www.dafont.com/forum/read/579818/alguien-sabe-cual-es-esta-fuente",
+        "title": "Alguien sabe cual es esta fuente?",
+        "instructions": null,
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1225199.png",
+        "identified_font": null
+    },
+    {
+        "task_id": "579817",
+        "url": "https://www.dafont.com/forum/read/579817/cracker-barrel-ads",
+        "title": "Cracker Barrel Ads",
+        "instructions": null,
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1225193.png",
         "identified_font": null
     }
 ]
