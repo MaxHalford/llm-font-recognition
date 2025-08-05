@@ -34684,5 +34684,59 @@
         "candidate_font_3": "Montserrat",
         "candidate_font_4": "EB Garamond",
         "candidate_font_5": "Libre Baskerville"
+    },
+    {
+        "task_id": "579819",
+        "model_name": "gpt-4o-mini",
+        "candidate_font_1": "Bebas Neue",
+        "candidate_font_2": "Anton",
+        "candidate_font_3": "Oswald",
+        "candidate_font_4": "Montserrat",
+        "candidate_font_5": "Impact"
+    },
+    {
+        "task_id": "579819",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Franklin Gothic Heavy",
+        "candidate_font_2": "Trade Gothic Bold No. 20",
+        "candidate_font_3": "Akzidenz-Grotesk Super",
+        "candidate_font_4": "Gotham Black",
+        "candidate_font_5": "Montserrat Black"
+    },
+    {
+        "task_id": "579818",
+        "model_name": "gpt-4o-mini",
+        "candidate_font_1": "Bebas Neue",
+        "candidate_font_2": "Impact",
+        "candidate_font_3": "Oswald",
+        "candidate_font_4": "Anton",
+        "candidate_font_5": ""
+    },
+    {
+        "task_id": "579818",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Anton",
+        "candidate_font_2": "Oswald ExtraBold",
+        "candidate_font_3": "Passion One",
+        "candidate_font_4": "Archivo Black",
+        "candidate_font_5": "Public Sans Black"
+    },
+    {
+        "task_id": "579817",
+        "model_name": "gpt-4o-mini",
+        "candidate_font_1": "Lobster",
+        "candidate_font_2": "Pacifico",
+        "candidate_font_3": "Brush Script MT",
+        "candidate_font_4": "Dancing Script",
+        "candidate_font_5": "Great Vibes"
+    },
+    {
+        "task_id": "579817",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Southern Script",
+        "candidate_font_2": "Knockout",
+        "candidate_font_3": "Open Sans",
+        "candidate_font_4": "Montserrat",
+        "candidate_font_5": "Roboto Condensed Light"
     }
 ]
