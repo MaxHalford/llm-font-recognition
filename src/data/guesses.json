@@ -36340,5 +36340,77 @@
         "candidate_font_3": "Perpetua",
         "candidate_font_4": "Cochin Regular",
         "candidate_font_5": "Baskerville"
+    },
+    {
+        "task_id": "579925",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Bickham Script Pro",
+        "candidate_font_2": "Edwardian Script ITC",
+        "candidate_font_3": "Burgues Script",
+        "candidate_font_4": "Zapfino",
+        "candidate_font_5": "Kuenstler Script"
+    },
+    {
+        "task_id": "579924",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Beauty Dream",
+        "candidate_font_2": "Brushability",
+        "candidate_font_3": "Better Together",
+        "candidate_font_4": "Lovely Thoughts",
+        "candidate_font_5": "Brittany Signature"
+    },
+    {
+        "task_id": "573593",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Quicksand",
+        "candidate_font_2": "Lexend Deca",
+        "candidate_font_3": "Muli",
+        "candidate_font_4": "Work Sans",
+        "candidate_font_5": "Nunito"
+    },
+    {
+        "task_id": "576570",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Chaereve's Letter",
+        "candidate_font_2": "Chaereve's Everyday",
+        "candidate_font_3": "Chaereve's Childhood",
+        "candidate_font_4": "Chaereve's Love Letter",
+        "candidate_font_5": ""
+    },
+    {
+        "task_id": "579923",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Futura",
+        "candidate_font_2": "Avenir",
+        "candidate_font_3": "Brandon Grotesque",
+        "candidate_font_4": "Gotham",
+        "candidate_font_5": "Montserrat"
+    },
+    {
+        "task_id": "579922",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Chewy",
+        "candidate_font_2": "Bubblegum Sans",
+        "candidate_font_3": "Coming Soon",
+        "candidate_font_4": "Sniglet",
+        "candidate_font_5": "Boogaloo"
+    },
+    {
+        "task_id": "579921",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Avenir Next Bold",
+        "candidate_font_2": "DIN Next LT Pro Stencil",
+        "candidate_font_3": "Stardos Stencil",
+        "candidate_font_4": "Capture it",
+        "candidate_font_5": "Gotham Bold"
+    },
+    {
+        "task_id": "579920",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Permanent Marker",
+        "candidate_font_2": "Stay High",
+        "candidate_font_3": "Road Rage",
+        "candidate_font_4": "Whoa",
+        "candidate_font_5": "Chalkduster"
     }
 ]
