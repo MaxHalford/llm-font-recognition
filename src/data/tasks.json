@@ -20541,7 +20541,7 @@
         "title": "Khakee font?",
         "instructions": null,
         "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1225302.jpg",
-        "identified_font": null
+        "identified_font": "Distress"
     },
     {
         "task_id": "579878",
@@ -20589,7 +20589,7 @@
         "title": "Dhukaan font name?",
         "instructions": null,
         "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1225296.jpg",
-        "identified_font": null
+        "identified_font": "Asman"
     },
     {
         "task_id": "579872",
@@ -20597,7 +20597,7 @@
         "title": "Dobara font name?",
         "instructions": null,
         "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1225295.jpg",
-        "identified_font": null
+        "identified_font": "Edwardian Script"
     },
     {
         "task_id": "579871",
@@ -20717,6 +20717,78 @@
         "title": "Tales of Terror Font",
         "instructions": "Anybody know the font used for \"Tales of Terror\" in this logo? I know it's modified, but what is the base font?",
         "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1225313.png",
+        "identified_font": null
+    },
+    {
+        "task_id": "579904",
+        "url": "https://www.dafont.com/forum/read/579904/font",
+        "title": "Font?",
+        "instructions": null,
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1225362.jpg",
+        "identified_font": null
+    },
+    {
+        "task_id": "165419",
+        "url": "https://www.dafont.com/forum/read/165419/both-fonttttttt-names-plz",
+        "title": "BOTH FONTTTTTTT NAMES PLZ",
+        "instructions": null,
+        "img_url": "https://www.dafont.com/forum/attach/orig/3/8/385511.png?1",
+        "identified_font": null
+    },
+    {
+        "task_id": "579903",
+        "url": "https://www.dafont.com/forum/read/579903/grand-masti-font",
+        "title": "Grand Masti font ?",
+        "instructions": null,
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1225359.jpg",
+        "identified_font": null
+    },
+    {
+        "task_id": "579902",
+        "url": "https://www.dafont.com/forum/read/579902/great-grand-masti-font",
+        "title": "Great Grand Masti font ?",
+        "instructions": null,
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1225358.jpg",
+        "identified_font": null
+    },
+    {
+        "task_id": "579901",
+        "url": "https://www.dafont.com/forum/read/579901/whats-the-font-please",
+        "title": "Whats the font? Please &#128591;",
+        "instructions": null,
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1225357.jpg",
+        "identified_font": null
+    },
+    {
+        "task_id": "579900",
+        "url": "https://www.dafont.com/forum/read/579900/always-fresh-font-name",
+        "title": "Always Fresh Font name ??",
+        "instructions": "Please and Thank you!",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1225347.png",
+        "identified_font": "Brightons"
+    },
+    {
+        "task_id": "579899",
+        "url": "https://www.dafont.com/forum/read/579899/what-is-it-called-font",
+        "title": "what is it called Font",
+        "instructions": "looking for this font",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1225343.png",
+        "identified_font": null
+    },
+    {
+        "task_id": "579898",
+        "url": "https://www.dafont.com/forum/read/579898/id-font",
+        "title": "ID FONT?",
+        "instructions": null,
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1225342.png",
+        "identified_font": null
+    },
+    {
+        "task_id": "579897",
+        "url": "https://www.dafont.com/forum/read/579897/what-font-was-used-here-signos-album-by-soda-stereo",
+        "title": "What font was used here - Signos album by Soda Stereo",
+        "instructions": "I need to know which 2 fonts were used on the yellow ribbon at the top of the album, please. Thanks!",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1225341.jpg",
         "identified_font": null
     }
 ]
