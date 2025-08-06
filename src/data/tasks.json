@@ -20933,7 +20933,7 @@
         "title": "Mencintaimu Sekali Lagi Font",
         "instructions": "What is the font type of \"Mencintaimu Sekali Lagi\"?",
         "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1225395.jpg",
-        "identified_font": null
+        "identified_font": "James Stroker"
     },
     {
         "task_id": "573593",
@@ -21053,7 +21053,7 @@
         "title": "which font for names?",
         "instructions": null,
         "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1225468.png",
-        "identified_font": null
+        "identified_font": "DXMerrygoround"
     },
     {
         "task_id": "579966",
@@ -21093,7 +21093,7 @@
         "title": "What font is this?",
         "instructions": null,
         "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1225459.jpg",
-        "identified_font": null
+        "identified_font": "Didot"
     },
     {
         "task_id": "579961",
@@ -21133,7 +21133,7 @@
         "title": "Swades font?",
         "instructions": null,
         "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1225453.jpg",
-        "identified_font": null
+        "identified_font": "Cochin"
     },
     {
         "task_id": "579955",
@@ -21173,7 +21173,7 @@
         "title": "Shart font?",
         "instructions": null,
         "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1225445.jpg",
-        "identified_font": null
+        "identified_font": "Birmingham"
     },
     {
         "task_id": "579950",
@@ -21213,7 +21213,7 @@
         "title": "Rakht font?",
         "instructions": null,
         "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1225440.jpg",
-        "identified_font": null
+        "identified_font": "Trajan"
     },
     {
         "task_id": "579945",
@@ -21277,7 +21277,7 @@
         "title": "Muskaan font?",
         "instructions": null,
         "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1225431.jpg",
-        "identified_font": null
+        "identified_font": "Viner Hand"
     },
     {
         "task_id": "279822",
@@ -21309,6 +21309,110 @@
         "title": "FInd this font please",
         "instructions": "Can someone identify this font for me please",
         "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1225426.jpg",
+        "identified_font": null
+    },
+    {
+        "task_id": "579982",
+        "url": "https://www.dafont.com/forum/read/579982/font-name",
+        "title": "Font name?",
+        "instructions": "Can anyone identify the font used in this image?",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1225499.jpg",
+        "identified_font": null
+    },
+    {
+        "task_id": "579980",
+        "url": "https://www.dafont.com/forum/read/579980/nombre-de-la-fuente",
+        "title": "Nombre de la fuente?",
+        "instructions": "Me gustar\u00eda saber el nombre de esta fuente. Muchas gracias!",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1225496.jpg",
+        "identified_font": null
+    },
+    {
+        "task_id": "579979",
+        "url": "https://www.dafont.com/forum/read/579979/font-identification",
+        "title": "font identification",
+        "instructions": "Already tried various what the font programs with no luck. Scanned some font foundries too and had no luck.",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1225492.png",
+        "identified_font": null
+    },
+    {
+        "task_id": "579968",
+        "url": "https://www.dafont.com/forum/read/579968/font-name-of-filona-and-vegane-frischecreme",
+        "title": "Font name of Filona and Vegane Frischecreme",
+        "instructions": null,
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1225472.png",
+        "identified_font": null
+    },
+    {
+        "task_id": "579971",
+        "url": "https://www.dafont.com/forum/read/579971/deafheaven-roads-to-judah-font",
+        "title": "deafheaven roads to judah font",
+        "instructions": "anyone knows what font is this?",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1225477.jpg",
+        "identified_font": null
+    },
+    {
+        "task_id": "579977",
+        "url": "https://www.dafont.com/forum/read/579977/alexandra-fedorovna",
+        "title": "ALEXANDRA FEDOROVNA",
+        "instructions": "Can you help me identify this font? TYIA! I know it is not the best quality and I am trying to find the original but even just an idea would help me, I know it is similar to Felix Tilting as someone helped with that but this seems just a little different?",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1225487.jpg",
+        "identified_font": null
+    },
+    {
+        "task_id": "579976",
+        "url": "https://www.dafont.com/forum/read/579976/suncokret-na-ramenu-antologija-slovena-ke-poezije-za-decu",
+        "title": "Suncokret na ramenu: antologija slovena&#269;ke poezije za decu",
+        "instructions": null,
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1225483.jpg",
+        "identified_font": null
+    },
+    {
+        "task_id": "579975",
+        "url": "https://www.dafont.com/forum/read/579975/igra-kao-sloboda-zapisi-o-detinjstvu-i-umetnosti-milan-prazi",
+        "title": "Igra kao sloboda: zapisi o  detinjstvu i umetnosti /Milan Pra\u009ei&#263;",
+        "instructions": null,
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1225482.png",
+        "identified_font": null
+    },
+    {
+        "task_id": "579974",
+        "url": "https://www.dafont.com/forum/read/579974/onde-potok-onde-cvet",
+        "title": "Onde potok, onde cvet",
+        "instructions": null,
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1225481.png",
+        "identified_font": null
+    },
+    {
+        "task_id": "579973",
+        "url": "https://www.dafont.com/forum/read/579973/ziveli-prekosutra",
+        "title": "\u008eiveli prekosutra",
+        "instructions": null,
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1225480.png",
+        "identified_font": null
+    },
+    {
+        "task_id": "579972",
+        "url": "https://www.dafont.com/forum/read/579972/para-un-manga-de-kamen-rider-w",
+        "title": "Para un manga de kamen Rider W",
+        "instructions": "Te estado buscando algo parecido pero nada",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1225479.png",
+        "identified_font": null
+    },
+    {
+        "task_id": "579970",
+        "url": "https://www.dafont.com/forum/read/579970/help-wahts-thats-font",
+        "title": "help!! wahts thats font?",
+        "instructions": "whats thats font?",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1225475.png",
+        "identified_font": null
+    },
+    {
+        "task_id": "579969",
+        "url": "https://www.dafont.com/forum/read/579969/does-anyone-know-the-name-of-this-font",
+        "title": "Does anyone know the name of this font?",
+        "instructions": "If you know tell me, plss",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1225473.jpg",
         "identified_font": null
     }
 ]
