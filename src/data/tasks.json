@@ -18812,7 +18812,7 @@
         "url": "https://www.dafont.com/forum/read/579638/font-please",
         "title": "Font, please. &#128591;&#127996;",
         "instructions": null,
-        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1224782.jpg",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1224782.png?1",
         "identified_font": null
     },
     {
@@ -18829,7 +18829,7 @@
         "title": "Pls tell me which font that is",
         "instructions": null,
         "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1224776.png?1",
-        "identified_font": null
+        "identified_font": "Font"
     },
     {
         "task_id": "579633",
@@ -20773,7 +20773,7 @@
         "title": "what is it called Font",
         "instructions": "looking for this font",
         "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1225343.png",
-        "identified_font": null
+        "identified_font": "Fabiola Script"
     },
     {
         "task_id": "579898",
@@ -20917,7 +20917,7 @@
         "title": "I know this is cursive but I don't know the name",
         "instructions": "i can't find the name of this font",
         "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1225399.jpg",
-        "identified_font": null
+        "identified_font": "Edwardian Script"
     },
     {
         "task_id": "569027",
@@ -20981,6 +20981,70 @@
         "title": "Which this font, please?",
         "instructions": null,
         "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1225386.jpg?2",
+        "identified_font": null
+    },
+    {
+        "task_id": "579934",
+        "url": "https://www.dafont.com/forum/read/579934/favorite-font",
+        "title": "Favorite font",
+        "instructions": "LOVE LOVES TO LOVE LOVE font too please",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1225425.jpg",
+        "identified_font": null
+    },
+    {
+        "task_id": "579933",
+        "url": "https://www.dafont.com/forum/read/579933/and-tears-font-please",
+        "title": "\"And Tears\" font please",
+        "instructions": "\"And Tears\" font please",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1225416.jpg",
+        "identified_font": null
+    },
+    {
+        "task_id": "579932",
+        "url": "https://www.dafont.com/forum/read/579932/whats-the-font",
+        "title": "Whats the font?",
+        "instructions": "Help! Whats the font?",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1225411.png",
+        "identified_font": null
+    },
+    {
+        "task_id": "579931",
+        "url": "https://www.dafont.com/forum/read/579931/font-thx",
+        "title": "Font? Thx",
+        "instructions": null,
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1225408.png",
+        "identified_font": null
+    },
+    {
+        "task_id": "579930",
+        "url": "https://www.dafont.com/forum/read/579930/font-thx",
+        "title": "Font? Thx",
+        "instructions": null,
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1225407.png",
+        "identified_font": null
+    },
+    {
+        "task_id": "579927",
+        "url": "https://www.dafont.com/forum/read/579927/help-find-this-old-font",
+        "title": "Help find this old font?",
+        "instructions": "I am looking for this old font here. I know that Kenner used to use it a lot on the packaging of The Real Ghostbusters toyline. I once had the font, but I think it may have been lost a while back during a computer crash.",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1225403.png?1",
+        "identified_font": null
+    },
+    {
+        "task_id": "579929",
+        "url": "https://www.dafont.com/forum/read/579929/treads",
+        "title": "TREADS",
+        "instructions": "Does anyone know the name of this font? Seems similar to Speed....",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1225405.png",
+        "identified_font": null
+    },
+    {
+        "task_id": "579928",
+        "url": "https://www.dafont.com/forum/read/579928/stanice-na-vremenu",
+        "title": "Stanice na vremenu",
+        "instructions": null,
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1225404.jpg",
         "identified_font": null
     }
 ]
