@@ -19428,7 +19428,7 @@
         "url": "https://www.dafont.com/forum/read/579725/what-are-the-names-of-these-two-fonts",
         "title": "What are the names of these two fonts?",
         "instructions": "\"Vale Tudo\"",
-        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1224984.jpg",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1224984.png?1",
         "identified_font": null
     },
     {
@@ -20509,7 +20509,7 @@
         "title": "Madhoshi font?",
         "instructions": null,
         "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1225308.jpg",
-        "identified_font": null
+        "identified_font": "Skjald"
     },
     {
         "task_id": "579884",
@@ -20517,7 +20517,7 @@
         "title": "Krishna Cottage font?",
         "instructions": null,
         "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1225307.jpg",
-        "identified_font": null
+        "identified_font": "Bon Guia"
     },
     {
         "task_id": "579883",
@@ -20525,7 +20525,7 @@
         "title": "Kiss Kis Ko font ?",
         "instructions": null,
         "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1225306.png",
-        "identified_font": null
+        "identified_font": "Kaixo"
     },
     {
         "task_id": "579882",
@@ -20549,7 +20549,7 @@
         "title": "Inteqam font?",
         "instructions": null,
         "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1225301.jpg",
-        "identified_font": null
+        "identified_font": "Frazzle"
     },
     {
         "task_id": "579877",
@@ -20605,7 +20605,7 @@
         "title": "Dil Ne Jise Apna Kahaa font name?",
         "instructions": null,
         "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1225294.png",
-        "identified_font": null
+        "identified_font": "Percolator"
     },
     {
         "task_id": "579870",
@@ -20653,6 +20653,70 @@
         "title": "Ab... Bas font name?",
         "instructions": null,
         "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1225288.jpg",
+        "identified_font": null
+    },
+    {
+        "task_id": "579895",
+        "url": "https://www.dafont.com/forum/read/579895/ultimate-spider-man-video-game-font",
+        "title": "Ultimate Spider-Man Video Game Font",
+        "instructions": "Been trying to find these two fonts with no luck. Please let me know if you recognise them.",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1225333.png",
+        "identified_font": null
+    },
+    {
+        "task_id": "579893",
+        "url": "https://www.dafont.com/forum/read/579893/can-anyone-identify-this-source-please-please-please",
+        "title": "Can anyone identify this source? please  please please!",
+        "instructions": "\"Oque ser\u00e1?\"",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1225329.jpg",
+        "identified_font": null
+    },
+    {
+        "task_id": "579892",
+        "url": "https://www.dafont.com/forum/read/579892/font-name-pls",
+        "title": "Font name pls :)",
+        "instructions": "\u0084Chuck\u0093",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1225325.jpg",
+        "identified_font": null
+    },
+    {
+        "task_id": "579891",
+        "url": "https://www.dafont.com/forum/read/579891/font-please",
+        "title": "Font please!",
+        "instructions": "Thanks!",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1225324.jpg",
+        "identified_font": null
+    },
+    {
+        "task_id": "570511",
+        "url": "https://www.dafont.com/forum/read/570511/similar-font-please",
+        "title": "Similar font please!",
+        "instructions": "Thanks!",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1206114.png?1",
+        "identified_font": null
+    },
+    {
+        "task_id": "579889",
+        "url": "https://www.dafont.com/forum/read/579889/font-id",
+        "title": "font ID",
+        "instructions": "Does anyone now what font this is?",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1225317.jpg",
+        "identified_font": "Unit Slab"
+    },
+    {
+        "task_id": "579890",
+        "url": "https://www.dafont.com/forum/read/579890/font-id",
+        "title": "font ID",
+        "instructions": "Does anyone know what font this is?",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1225319.jpg",
+        "identified_font": null
+    },
+    {
+        "task_id": "579888",
+        "url": "https://www.dafont.com/forum/read/579888/tales-of-terror-font",
+        "title": "Tales of Terror Font",
+        "instructions": "Anybody know the font used for \"Tales of Terror\" in this logo? I know it's modified, but what is the base font?",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1225313.png",
         "identified_font": null
     }
 ]
