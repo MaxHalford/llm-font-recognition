@@ -20910,5 +20910,77 @@
         "instructions": null,
         "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1225370.png",
         "identified_font": null
+    },
+    {
+        "task_id": "579925",
+        "url": "https://www.dafont.com/forum/read/579925/i-know-this-is-cursive-but-i-don-t-know-the-name",
+        "title": "I know this is cursive but I don't know the name",
+        "instructions": "i can't find the name of this font",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1225399.jpg",
+        "identified_font": null
+    },
+    {
+        "task_id": "569027",
+        "url": "https://www.dafont.com/forum/read/569027/cityroleplay-gg-logo",
+        "title": "CityRoleplay.gg Logo",
+        "instructions": null,
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1203161.png",
+        "identified_font": "Foxlite Script"
+    },
+    {
+        "task_id": "579924",
+        "url": "https://www.dafont.com/forum/read/579924/mencintaimu-sekali-lagi-font",
+        "title": "Mencintaimu Sekali Lagi Font",
+        "instructions": "What is the font type of \"Mencintaimu Sekali Lagi\"?",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1225395.jpg",
+        "identified_font": null
+    },
+    {
+        "task_id": "573593",
+        "url": "https://www.dafont.com/forum/read/573593/romanize-font-pls",
+        "title": "romanize font pls",
+        "instructions": "do you know the name of the rom font?",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1212136.png",
+        "identified_font": null
+    },
+    {
+        "task_id": "576570",
+        "url": "https://www.dafont.com/forum/read/576570/font-by-chaereve",
+        "title": "FONT BY CHAEREVE",
+        "instructions": "Font name please",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1218205.png?1",
+        "identified_font": null
+    },
+    {
+        "task_id": "579923",
+        "url": "https://www.dafont.com/forum/read/579923/what-font",
+        "title": "What font ?",
+        "instructions": "Hi everyone,",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1225391.png",
+        "identified_font": null
+    },
+    {
+        "task_id": "579922",
+        "url": "https://www.dafont.com/forum/read/579922/font-name-pls",
+        "title": "Font name pls :)",
+        "instructions": null,
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1225388.jpg",
+        "identified_font": null
+    },
+    {
+        "task_id": "579921",
+        "url": "https://www.dafont.com/forum/read/579921/font-name-please",
+        "title": "Font name please.",
+        "instructions": "Does anyone know what font this is?",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1225387.png",
+        "identified_font": null
+    },
+    {
+        "task_id": "579920",
+        "url": "https://www.dafont.com/forum/read/579920/which-this-font-please",
+        "title": "Which this font, please?",
+        "instructions": null,
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1225386.jpg?2",
+        "identified_font": null
     }
 ]
