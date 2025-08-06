@@ -36214,5 +36214,32 @@
         "candidate_font_3": "Liner",
         "candidate_font_4": "Parallel Lines",
         "candidate_font_5": "Compacta"
+    },
+    {
+        "task_id": "572759",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "VAG Rounded Bold",
+        "candidate_font_2": "Quicksand Bold",
+        "candidate_font_3": "Sofia Pro Soft Bold",
+        "candidate_font_4": "Mplus Rounded 1c Bold",
+        "candidate_font_5": "Google Sans"
+    },
+    {
+        "task_id": "579907",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Obelix Pro",
+        "candidate_font_2": "VAG Rounded Std Bold",
+        "candidate_font_3": "Mostra Nuova Black",
+        "candidate_font_4": "CGF Locust Resistance",
+        "candidate_font_5": "Intro Thin Condensed"
+    },
+    {
+        "task_id": "579906",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "SF Sports Night",
+        "candidate_font_2": "SportNite",
+        "candidate_font_3": "SF Collegiate",
+        "candidate_font_4": "College Block 2.0",
+        "candidate_font_5": "Octin Sports"
     }
 ]
