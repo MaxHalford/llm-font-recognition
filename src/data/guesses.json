@@ -35944,5 +35944,131 @@
         "candidate_font_3": "Headliner No. 45",
         "candidate_font_4": "Impact Label",
         "candidate_font_5": "Destroy"
+    },
+    {
+        "task_id": "579895",
+        "model_name": "gpt-4o-mini",
+        "candidate_font_1": "Action Man",
+        "candidate_font_2": "Jellyka Delicious Cake",
+        "candidate_font_3": "Lobster",
+        "candidate_font_4": "Comic Sans MS",
+        "candidate_font_5": ""
+    },
+    {
+        "task_id": "579895",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Badaboom BB",
+        "candidate_font_2": "Arial Italic",
+        "candidate_font_3": "Porky's",
+        "candidate_font_4": "SF Action Man",
+        "candidate_font_5": "Helvetica Italic"
+    },
+    {
+        "task_id": "579893",
+        "model_name": "gpt-4o-mini",
+        "candidate_font_1": "Bebas Neue",
+        "candidate_font_2": "Anton",
+        "candidate_font_3": "Oswald",
+        "candidate_font_4": "Archivo Black",
+        "candidate_font_5": "Impact"
+    },
+    {
+        "task_id": "579893",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Exo Stencil",
+        "candidate_font_2": "Exo 2 Stencil",
+        "candidate_font_3": "SF Alien Encounters",
+        "candidate_font_4": "Countdown",
+        "candidate_font_5": "Eurostile Stencil"
+    },
+    {
+        "task_id": "579892",
+        "model_name": "gpt-4o-mini",
+        "candidate_font_1": "Comic Sans MS",
+        "candidate_font_2": "Manga Temple",
+        "candidate_font_3": "Creepster",
+        "candidate_font_4": "Bangers",
+        "candidate_font_5": "Chewy"
+    },
+    {
+        "task_id": "579892",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Graffiti Paint Brush",
+        "candidate_font_2": "Most Wasted",
+        "candidate_font_3": "Hardcore Tag",
+        "candidate_font_4": "Throw Up",
+        "candidate_font_5": "Urban Drip"
+    },
+    {
+        "task_id": "579891",
+        "model_name": "gpt-4o-mini",
+        "candidate_font_1": "Bebas Neue",
+        "candidate_font_2": "Avenir Next",
+        "candidate_font_3": "Roboto Bold",
+        "candidate_font_4": "Montserrat",
+        "candidate_font_5": "Oswald"
+    },
+    {
+        "task_id": "579891",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Hyperspace Race",
+        "candidate_font_2": "BankGothic Medium",
+        "candidate_font_3": "Eurostile Extended Bold",
+        "candidate_font_4": "Inter Thin",
+        "candidate_font_5": "Montserrat Light"
+    },
+    {
+        "task_id": "570511",
+        "model_name": "gpt-4o-mini",
+        "candidate_font_1": "Block letters",
+        "candidate_font_2": "Comic Sans MS",
+        "candidate_font_3": "Bangers",
+        "candidate_font_4": "Marker Felt",
+        "candidate_font_5": "Adventure"
+    },
+    {
+        "task_id": "570511",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Burbank Big Condensed Black",
+        "candidate_font_2": "Obelix Pro",
+        "candidate_font_3": "Luckiest Guy",
+        "candidate_font_4": "Adler Regular",
+        "candidate_font_5": "Bourbon St."
+    },
+    {
+        "task_id": "579890",
+        "model_name": "gpt-4o-mini",
+        "candidate_font_1": "Bebas Neue",
+        "candidate_font_2": "Oswald",
+        "candidate_font_3": "Montserrat",
+        "candidate_font_4": "Poppins",
+        "candidate_font_5": "Raleway"
+    },
+    {
+        "task_id": "579890",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Road Rage",
+        "candidate_font_2": "Impact",
+        "candidate_font_3": "Bebas Neue",
+        "candidate_font_4": "Oswald",
+        "candidate_font_5": "DIN 1451 Mittelschrift"
+    },
+    {
+        "task_id": "579888",
+        "model_name": "gpt-4o-mini",
+        "candidate_font_1": "Creepster",
+        "candidate_font_2": "Bloodcrow",
+        "candidate_font_3": "Covenant",
+        "candidate_font_4": "B horror",
+        "candidate_font_5": "Dracula"
+    },
+    {
+        "task_id": "579888",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Demonized",
+        "candidate_font_2": "Exocet",
+        "candidate_font_3": "Metal Macabre",
+        "candidate_font_4": "Death Rattle",
+        "candidate_font_5": "Nosferatu"
     }
 ]
