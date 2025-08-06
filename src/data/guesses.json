@@ -36412,5 +36412,77 @@
         "candidate_font_3": "Road Rage",
         "candidate_font_4": "Whoa",
         "candidate_font_5": "Chalkduster"
+    },
+    {
+        "task_id": "579934",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Metropolice Inline",
+        "candidate_font_2": "TT Commons Thin",
+        "candidate_font_3": "Montserrat Light",
+        "candidate_font_4": "Montserrat Regular",
+        "candidate_font_5": "DecoNeue"
+    },
+    {
+        "task_id": "579933",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Mistral",
+        "candidate_font_2": "Brush Script MT",
+        "candidate_font_3": "Viner Hand ITC",
+        "candidate_font_4": "Sign Painter",
+        "candidate_font_5": "Pacifico"
+    },
+    {
+        "task_id": "579932",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Coneria Script",
+        "candidate_font_2": "Amelinda",
+        "candidate_font_3": "Scriptina",
+        "candidate_font_4": "Magnolia Sky",
+        "candidate_font_5": "Great Vibes"
+    },
+    {
+        "task_id": "579931",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "SF Sports Night",
+        "candidate_font_2": "Agency FB Black",
+        "candidate_font_3": "Microgramma D Extended Bold",
+        "candidate_font_4": "Bank Gothic Medium",
+        "candidate_font_5": "Countdown"
+    },
+    {
+        "task_id": "579930",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Bourbon Neat",
+        "candidate_font_2": "Nexa Slab Black",
+        "candidate_font_3": "SF Collegiate",
+        "candidate_font_4": "ChunkFive Roman",
+        "candidate_font_5": "Oswald Bold"
+    },
+    {
+        "task_id": "579927",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "ITC Machine Bold Italic",
+        "candidate_font_2": "Impact Italic",
+        "candidate_font_3": "Eurostile Extended Bold Italic",
+        "candidate_font_4": "SF Destroyer",
+        "candidate_font_5": "Custom/Modified Font (Likely from a popular bold italic sans-serif base like Machine or Impact, with added distress)"
+    },
+    {
+        "task_id": "579929",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Top Speed",
+        "candidate_font_2": "Speed",
+        "candidate_font_3": "Velocity",
+        "candidate_font_4": "Accelerate",
+        "candidate_font_5": "SF Sports Night"
+    },
+    {
+        "task_id": "579928",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Gill Sans",
+        "candidate_font_2": "Univers",
+        "candidate_font_3": "Frutiger",
+        "candidate_font_4": "Trade Gothic",
+        "candidate_font_5": "Akzidenz-Grotesk"
     }
 ]
