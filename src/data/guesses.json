@@ -36781,5 +36781,122 @@
         "candidate_font_3": "Ethnocentric Regular",
         "candidate_font_4": "Neuropol X Bold",
         "candidate_font_5": "Cyberdyne"
+    },
+    {
+        "task_id": "579982",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Sailor's Delight",
+        "candidate_font_2": "Burgues Script",
+        "candidate_font_3": "Aphrodite Pro",
+        "candidate_font_4": "Dom Loves Mary",
+        "candidate_font_5": "Adelios"
+    },
+    {
+        "task_id": "579980",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Hello Lovely",
+        "candidate_font_2": "Magnolia Sky",
+        "candidate_font_3": "Stay Grateful",
+        "candidate_font_4": "Brilliant Signature",
+        "candidate_font_5": "Autumn Embrace"
+    },
+    {
+        "task_id": "579979",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Cheyenne Sans",
+        "candidate_font_2": "Mesquite",
+        "candidate_font_3": "Playbill",
+        "candidate_font_4": "Pony Express",
+        "candidate_font_5": "Lawless"
+    },
+    {
+        "task_id": "579968",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Mulish",
+        "candidate_font_2": "Lovely Buttercup",
+        "candidate_font_3": "The Signature",
+        "candidate_font_4": "Bellisia Script",
+        "candidate_font_5": "Magnolia Sky"
+    },
+    {
+        "task_id": "579971",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Custom Logotype (Deafheaven logo)",
+        "candidate_font_2": "Trajan Pro",
+        "candidate_font_3": "Cinzel",
+        "candidate_font_4": "Augustea",
+        "candidate_font_5": ""
+    },
+    {
+        "task_id": "579977",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Felix Titling",
+        "candidate_font_2": "Hadriano Titling",
+        "candidate_font_3": "Augustea",
+        "candidate_font_4": "Goudy Forum",
+        "candidate_font_5": "Monumental Titling"
+    },
+    {
+        "task_id": "579976",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Helvetica",
+        "candidate_font_2": "Arial",
+        "candidate_font_3": "Univers",
+        "candidate_font_4": "Swiss 721",
+        "candidate_font_5": "Nimbus Sans"
+    },
+    {
+        "task_id": "579975",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "ITC Avant Garde Gothic",
+        "candidate_font_2": "Avant Garde Gothic",
+        "candidate_font_3": "URW Gothic L",
+        "candidate_font_4": "Geometric 706",
+        "candidate_font_5": "Gotham"
+    },
+    {
+        "task_id": "579974",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Univers 65 Bold",
+        "candidate_font_2": "Folio Bold",
+        "candidate_font_3": "Avenir Heavy",
+        "candidate_font_4": "Akzidenz-Grotesk Std Bold",
+        "candidate_font_5": "Nimbus Sans Bold"
+    },
+    {
+        "task_id": "579973",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Akzidenz-Grotesk Bold",
+        "candidate_font_2": "Franklin Gothic Heavy",
+        "candidate_font_3": "Times New Roman",
+        "candidate_font_4": "PT Serif",
+        "candidate_font_5": "Pragmatica Bold"
+    },
+    {
+        "task_id": "579972",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "FOT-Rodin Pro N UB",
+        "candidate_font_2": "VDL-Giga Kaku Std B",
+        "candidate_font_3": "A-OTF Shin Go Pr6N Ultra",
+        "candidate_font_4": "DynaFont Kaku Gothic Std W9",
+        "candidate_font_5": "AXIS Std Heavy"
+    },
+    {
+        "task_id": "579970",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "A Love Of Thunder",
+        "candidate_font_2": "Lovely Night",
+        "candidate_font_3": "West Coast",
+        "candidate_font_4": "",
+        "candidate_font_5": ""
+    },
+    {
+        "task_id": "579969",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "SF Pro",
+        "candidate_font_2": "Roboto",
+        "candidate_font_3": "Open Sans",
+        "candidate_font_4": "Inter",
+        "candidate_font_5": "Noto Sans"
     }
 ]
