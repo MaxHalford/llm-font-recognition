@@ -36241,5 +36241,104 @@
         "candidate_font_3": "SF Collegiate",
         "candidate_font_4": "College Block 2.0",
         "candidate_font_5": "Octin Sports"
+    },
+    {
+        "task_id": "579918",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Kalam",
+        "candidate_font_2": "Permanent Marker",
+        "candidate_font_3": "Handlee",
+        "candidate_font_4": "Coming Soon",
+        "candidate_font_5": "Indie Flower"
+    },
+    {
+        "task_id": "579919",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Marketing Script",
+        "candidate_font_2": "Hummingbird",
+        "candidate_font_3": "Playlist Script",
+        "candidate_font_4": "Brannboll FS",
+        "candidate_font_5": "Billion Dreams"
+    },
+    {
+        "task_id": "579917",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Edwardian Script ITC",
+        "candidate_font_2": "Kalligraphia",
+        "candidate_font_3": "Pinyon Script",
+        "candidate_font_4": "Burgues Script",
+        "candidate_font_5": "Zapfino"
+    },
+    {
+        "task_id": "579916",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Baskerville",
+        "candidate_font_2": "Bell",
+        "candidate_font_3": "Fournier",
+        "candidate_font_4": "Times New Roman",
+        "candidate_font_5": "Caslon"
+    },
+    {
+        "task_id": "579915",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Puma Future Font",
+        "candidate_font_2": "Jersey M54",
+        "candidate_font_3": "SPORTY TRACK",
+        "candidate_font_4": "Bundesliga 2017/18 Font",
+        "candidate_font_5": "SF Sports Night"
+    },
+    {
+        "task_id": "579913",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Brush King",
+        "candidate_font_2": "Brusher",
+        "candidate_font_3": "Billion Dreams",
+        "candidate_font_4": "Magnificent",
+        "candidate_font_5": "Playlist Script"
+    },
+    {
+        "task_id": "579911",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Lemon Tuesday",
+        "candidate_font_2": "Playlist Script",
+        "candidate_font_3": "Magnolia Sky",
+        "candidate_font_4": "Autumn Chant",
+        "candidate_font_5": "Hello Lary"
+    },
+    {
+        "task_id": "579912",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Proxima Nova Soft",
+        "candidate_font_2": "Avenir Next Rounded",
+        "candidate_font_3": "Nunito Sans",
+        "candidate_font_4": "Open Sans Rounded",
+        "candidate_font_5": "M PLUS Rounded 1c"
+    },
+    {
+        "task_id": "579910",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "LHF Ambrosia",
+        "candidate_font_2": "LHF Confection",
+        "candidate_font_3": "Blackriver",
+        "candidate_font_4": "Royal Throne",
+        "candidate_font_5": "Charleston"
+    },
+    {
+        "task_id": "579909",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "War Is Over",
+        "candidate_font_2": "Impacted",
+        "candidate_font_3": "Gunship Distressed",
+        "candidate_font_4": "Bunker Distressed",
+        "candidate_font_5": "College Block Distressed"
+    },
+    {
+        "task_id": "579908",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Hadriano",
+        "candidate_font_2": "Trajan Pro",
+        "candidate_font_3": "Perpetua",
+        "candidate_font_4": "Cochin Regular",
+        "candidate_font_5": "Baskerville"
     }
 ]
