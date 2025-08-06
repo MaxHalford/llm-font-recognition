@@ -20822,5 +20822,93 @@
         "instructions": "I'm trying to find this but it's hard the logo has been modified",
         "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1225364.png",
         "identified_font": null
+    },
+    {
+        "task_id": "579918",
+        "url": "https://www.dafont.com/forum/read/579918/font-name",
+        "title": "Font name?",
+        "instructions": "Font name please. Thank you",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1225381.jpg?1",
+        "identified_font": null
+    },
+    {
+        "task_id": "579919",
+        "url": "https://www.dafont.com/forum/read/579919/need-help-what-font-is-this",
+        "title": "Need help! What font is this?",
+        "instructions": "Hi,",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1225384.jpg",
+        "identified_font": null
+    },
+    {
+        "task_id": "579917",
+        "url": "https://www.dafont.com/forum/read/579917/what-is-the-font-please",
+        "title": "what is the font please",
+        "instructions": "what is the font of johnsons please?",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1225380.png",
+        "identified_font": null
+    },
+    {
+        "task_id": "579916",
+        "url": "https://www.dafont.com/forum/read/579916/kastner-fabian",
+        "title": "Kastner Fabian",
+        "instructions": null,
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1225379.jpg",
+        "identified_font": null
+    },
+    {
+        "task_id": "579915",
+        "url": "https://www.dafont.com/forum/read/579915/what-the-font-pls",
+        "title": "what the font pls ?",
+        "instructions": "maybe you reconize this one ?",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1225377.png",
+        "identified_font": null
+    },
+    {
+        "task_id": "579913",
+        "url": "https://www.dafont.com/forum/read/579913/font-name-please-tia",
+        "title": "Font name please! TIA",
+        "instructions": null,
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1225375.png",
+        "identified_font": null
+    },
+    {
+        "task_id": "579911",
+        "url": "https://www.dafont.com/forum/read/579911/polices-perdues-suite-changement-d-ordinateur",
+        "title": "Polices perdues suite changement d'ordinateur",
+        "instructions": "Bonjour,",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1225373.jpg",
+        "identified_font": null
+    },
+    {
+        "task_id": "579912",
+        "url": "https://www.dafont.com/forum/read/579912/font-name-pls",
+        "title": "font name pls?",
+        "instructions": "font name \ud83d\udccc",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1225374.jpg",
+        "identified_font": null
+    },
+    {
+        "task_id": "579910",
+        "url": "https://www.dafont.com/forum/read/579910/taruna-ogha-pravritti-font",
+        "title": "\"Taruna Ogha Pravritti\" font?",
+        "instructions": null,
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1225372.png",
+        "identified_font": null
+    },
+    {
+        "task_id": "579909",
+        "url": "https://www.dafont.com/forum/read/579909/frost-font",
+        "title": "\"FROST\" font?",
+        "instructions": null,
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1225371.png",
+        "identified_font": null
+    },
+    {
+        "task_id": "579908",
+        "url": "https://www.dafont.com/forum/read/579908/sister-tour-font",
+        "title": "\"SISTER TOUR\" font?",
+        "instructions": null,
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1225370.png",
+        "identified_font": null
     }
 ]
