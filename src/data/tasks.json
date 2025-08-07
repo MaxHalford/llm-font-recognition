@@ -16692,7 +16692,7 @@
         "url": "https://www.dafont.com/forum/read/579303/urotsukidoji-font",
         "title": "\"Urotsukidoji\" font?",
         "instructions": "Hi everyone, can anyone help me identify this font or find something similar? Thank you all!",
-        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1224081.jpg",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1224081.png?1",
         "identified_font": null
     },
     {
@@ -21317,7 +21317,7 @@
         "title": "Font name?",
         "instructions": "Can anyone identify the font used in this image?",
         "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1225499.jpg",
-        "identified_font": null
+        "identified_font": "Vondey"
     },
     {
         "task_id": "579980",
@@ -21413,6 +21413,46 @@
         "title": "Does anyone know the name of this font?",
         "instructions": "If you know tell me, plss",
         "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1225473.jpg",
+        "identified_font": null
+    },
+    {
+        "task_id": "579986",
+        "url": "https://www.dafont.com/forum/read/579986/font-used-in-my-website-logo",
+        "title": "Font used in my website logo",
+        "instructions": "Hello,",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1225507.jpg",
+        "identified_font": "Clickuper"
+    },
+    {
+        "task_id": "579987",
+        "url": "https://www.dafont.com/forum/read/579987/por-favor-qual-o-nome-desta-fonte",
+        "title": "Por favor, qual o nome desta fonte?",
+        "instructions": "Qual o nome desta no texto grande desta arte?",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1225510.jpg",
+        "identified_font": null
+    },
+    {
+        "task_id": "579985",
+        "url": "https://www.dafont.com/forum/read/579985/font-tuesday-and-font-monspaced-pls",
+        "title": "FONT TUESDAY AND FONT MONSPACED PLS",
+        "instructions": null,
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1225506.png",
+        "identified_font": null
+    },
+    {
+        "task_id": "579984",
+        "url": "https://www.dafont.com/forum/read/579984/three-star-please",
+        "title": "Three Star Please",
+        "instructions": null,
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1225503.png",
+        "identified_font": null
+    },
+    {
+        "task_id": "579983",
+        "url": "https://www.dafont.com/forum/read/579983/woods-quick-lube-please",
+        "title": "Woods Quick Lube Please",
+        "instructions": null,
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1225502.png",
         "identified_font": null
     }
 ]
