@@ -21484,8 +21484,8 @@
         "url": "https://www.dafont.com/forum/read/579998/please-help-me-ive-been-looking-for-this-font-forever",
         "title": "please help me!! Ive been looking for this font forever!",
         "instructions": null,
-        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1225530.jpg",
-        "identified_font": null
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1225530.png?1",
+        "identified_font": "Amsterdam Four"
     },
     {
         "task_id": "579997",
@@ -21525,6 +21525,14 @@
         "title": "The Simpsons Disney font",
         "instructions": "What font is for The Simpsons from Disney?",
         "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1225518.jpg",
+        "identified_font": null
+    },
+    {
+        "task_id": "580004",
+        "url": "https://www.dafont.com/forum/read/580004/what-font-is-this",
+        "title": "what font is this?",
+        "instructions": "I'm searching this font, please help (:",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1225539.jpg",
         "identified_font": null
     }
 ]
