@@ -21589,6 +21589,30 @@
         "title": "Hola, me apoyan con la fuente de las letras A y E",
         "instructions": null,
         "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1225541.png?1",
+        "identified_font": "Stellina"
+    },
+    {
+        "task_id": "580018",
+        "url": "https://www.dafont.com/forum/read/580018/help-please",
+        "title": "Help please...",
+        "instructions": "TOULOUSE, what font is it? Help please..",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1225557.jpg",
+        "identified_font": null
+    },
+    {
+        "task_id": "580017",
+        "url": "https://www.dafont.com/forum/read/580017/help-please",
+        "title": "Help please ??",
+        "instructions": "Hi;",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1225553.png",
+        "identified_font": null
+    },
+    {
+        "task_id": "580016",
+        "url": "https://www.dafont.com/forum/read/580016/what-is-this-font",
+        "title": "what is this font?",
+        "instructions": "please help identify",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1225552.png",
         "identified_font": null
     }
 ]
