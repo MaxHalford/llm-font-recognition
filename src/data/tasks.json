@@ -6180,8 +6180,8 @@
         "url": "https://www.dafont.com/forum/read/577638/jaeguchi-font",
         "title": "Jaeguchi font",
         "instructions": "Tittle Font",
-        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1220606.jpg",
-        "identified_font": null
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1220606.jpg?1",
+        "identified_font": "New Gothic Textura"
     },
     {
         "task_id": "539560",
@@ -21541,7 +21541,7 @@
         "title": "Identification typo",
         "instructions": null,
         "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1225549.jpg",
-        "identified_font": null
+        "identified_font": "Soljik Dambaek"
     },
     {
         "task_id": "580010",
@@ -21693,7 +21693,7 @@
         "title": "Serving Fremont County Since 1958",
         "instructions": "Need help identifying this font. Thank you.",
         "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1225594.jpg",
-        "identified_font": null
+        "identified_font": "Orange Grove"
     },
     {
         "task_id": "580033",
@@ -21717,7 +21717,7 @@
         "title": "Help please!",
         "instructions": "I need to find this font, thanks!",
         "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1225586.png",
-        "identified_font": null
+        "identified_font": "Allegra Ostade"
     },
     {
         "task_id": "580031",
@@ -21749,6 +21749,46 @@
         "title": "A & A Velez",
         "instructions": null,
         "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1225577.png",
+        "identified_font": "IFC Boothill"
+    },
+    {
+        "task_id": "580049",
+        "url": "https://www.dafont.com/forum/read/580049/font-name",
+        "title": "FONT NAME?",
+        "instructions": "Anyone know this font's name? Thanks",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1225627.jpg",
+        "identified_font": null
+    },
+    {
+        "task_id": "580047",
+        "url": "https://www.dafont.com/forum/read/580047/naach",
+        "title": "NAACH ??",
+        "instructions": null,
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1225625.jpg",
+        "identified_font": null
+    },
+    {
+        "task_id": "580046",
+        "url": "https://www.dafont.com/forum/read/580046/plan",
+        "title": "PLAN ?",
+        "instructions": null,
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1225624.jpg",
+        "identified_font": null
+    },
+    {
+        "task_id": "580044",
+        "url": "https://www.dafont.com/forum/read/580044/what-this-font-western",
+        "title": "What this font? Western?",
+        "instructions": "Please... I used the identifier, but I can't find it",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1225621.png",
+        "identified_font": null
+    },
+    {
+        "task_id": "566412",
+        "url": "https://www.dafont.com/forum/read/566412/font-please",
+        "title": "Font, please. &#128591;&#128591;&#128591;",
+        "instructions": null,
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/1/1198097.png?1",
         "identified_font": null
     }
 ]
