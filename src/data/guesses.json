@@ -37015,5 +37015,14 @@
         "candidate_font_3": "Porky's",
         "candidate_font_4": "Homer Simpson JFE",
         "candidate_font_5": "The Simpsons Movie Font"
+    },
+    {
+        "task_id": "580004",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Circular Std",
+        "candidate_font_2": "Product Sans",
+        "candidate_font_3": "Maison Neue",
+        "candidate_font_4": "Sofia Pro",
+        "candidate_font_5": "Brandon Grotesque"
     }
 ]
