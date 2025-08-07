@@ -37114,5 +37114,68 @@
         "candidate_font_3": "Royal Initialen",
         "candidate_font_4": "Victorian Supremacy",
         "candidate_font_5": "Windsor Great Park"
+    },
+    {
+        "task_id": "580027",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Butler Regular",
+        "candidate_font_2": "Didot",
+        "candidate_font_3": "Bodoni",
+        "candidate_font_4": "Playfair Display",
+        "candidate_font_5": "New York"
+    },
+    {
+        "task_id": "580026",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Gobold Black",
+        "candidate_font_2": "Lemon Milk Bold",
+        "candidate_font_3": "Poppins Black",
+        "candidate_font_4": "Gotham Black",
+        "candidate_font_5": "Montserrat Black"
+    },
+    {
+        "task_id": "576700",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Octin Sports",
+        "candidate_font_2": "Ironstrike",
+        "candidate_font_3": "Pricedown",
+        "candidate_font_4": "SF Fedora",
+        "candidate_font_5": "Gunship"
+    },
+    {
+        "task_id": "580025",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Square Sans Black Extended",
+        "candidate_font_2": "Microgramma Extended Bold",
+        "candidate_font_3": "Eurostile Extended Bold",
+        "candidate_font_4": "Accelerate",
+        "candidate_font_5": "Agency FB Extended"
+    },
+    {
+        "task_id": "580024",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Pinchbeck",
+        "candidate_font_2": "Melodrama",
+        "candidate_font_3": "Plastic Man",
+        "candidate_font_4": "Hippie Movement",
+        "candidate_font_5": "Bubblegum Sans"
+    },
+    {
+        "task_id": "580021",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Nexa Bold",
+        "candidate_font_2": "Montserrat Regular",
+        "candidate_font_3": "Uni Sans Heavy",
+        "candidate_font_4": "Gotham Black",
+        "candidate_font_5": "Poppins"
+    },
+    {
+        "task_id": "580020",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Dot Spot",
+        "candidate_font_2": "Dazed TM Font",
+        "candidate_font_3": "Billabong",
+        "candidate_font_4": "Lato Light",
+        "candidate_font_5": "Oswald Regular"
     }
 ]
