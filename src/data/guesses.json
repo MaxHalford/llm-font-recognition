@@ -36934,5 +36934,86 @@
         "candidate_font_3": "Eurostile Extended Bold Italic",
         "candidate_font_4": "Data 70 Bold Italic",
         "candidate_font_5": "Machine Bold Italic"
+    },
+    {
+        "task_id": "580003",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Budmo Jiggler",
+        "candidate_font_2": "Budmo",
+        "candidate_font_3": "Budmo Jiggler Light",
+        "candidate_font_4": "",
+        "candidate_font_5": ""
+    },
+    {
+        "task_id": "580002",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Chewy Regular",
+        "candidate_font_2": "Bubblegum Sans",
+        "candidate_font_3": "Fredoka One",
+        "candidate_font_4": "Burbank Big Condensed Black",
+        "candidate_font_5": "Porky's"
+    },
+    {
+        "task_id": "580000",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Blackbone",
+        "candidate_font_2": "Wensley",
+        "candidate_font_3": "Montserrat",
+        "candidate_font_4": "",
+        "candidate_font_5": ""
+    },
+    {
+        "task_id": "579998",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Montasya Script",
+        "candidate_font_2": "Montserrat ExtraBold",
+        "candidate_font_3": "Montserrat Light",
+        "candidate_font_4": "Amsterdam One",
+        "candidate_font_5": "Bebas Neue"
+    },
+    {
+        "task_id": "579997",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Better Together Script",
+        "candidate_font_2": "Montserrat Black",
+        "candidate_font_3": "Playlist Script",
+        "candidate_font_4": "Avenir Black",
+        "candidate_font_5": "Stay High Script"
+    },
+    {
+        "task_id": "579989",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Waltograph",
+        "candidate_font_2": "SF Waltograph",
+        "candidate_font_3": "Walter",
+        "candidate_font_4": "Waltograph 42",
+        "candidate_font_5": "Walt Disney Script v4.1"
+    },
+    {
+        "task_id": "579990",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Waltograph",
+        "candidate_font_2": "Bookman Old Style Bold",
+        "candidate_font_3": "Goudy Heavyface",
+        "candidate_font_4": "ITC Cheltenham Bold",
+        "candidate_font_5": "Palatino Nova Black"
+    },
+    {
+        "task_id": "579991",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Waltograph",
+        "candidate_font_2": "Century Schoolbook Bold",
+        "candidate_font_3": "Plantin Bold",
+        "candidate_font_4": "Bookman Old Style Bold",
+        "candidate_font_5": "Georgia Bold"
+    },
+    {
+        "task_id": "579992",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Simpsons Script",
+        "candidate_font_2": "Akbar",
+        "candidate_font_3": "Porky's",
+        "candidate_font_4": "Homer Simpson JFE",
+        "candidate_font_5": "The Simpsons Movie Font"
     }
 ]
