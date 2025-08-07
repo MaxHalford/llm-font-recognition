@@ -37024,5 +37024,68 @@
         "candidate_font_3": "Maison Neue",
         "candidate_font_4": "Sofia Pro",
         "candidate_font_5": "Brandon Grotesque"
+    },
+    {
+        "task_id": "580013",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Black Jack",
+        "candidate_font_2": "Great Vibes",
+        "candidate_font_3": "Allura",
+        "candidate_font_4": "Sacramento",
+        "candidate_font_5": "Herr Von Muellerhoff"
+    },
+    {
+        "task_id": "580010",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Bickham Script Pro",
+        "candidate_font_2": "Afrodita Pro",
+        "candidate_font_3": "Burgues Script",
+        "candidate_font_4": "Samantha Script",
+        "candidate_font_5": "Great Vibes"
+    },
+    {
+        "task_id": "580009",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Pumpkin Story",
+        "candidate_font_2": "Lovely Pumpkin",
+        "candidate_font_3": "Autumn Mood",
+        "candidate_font_4": "Spooky Halloween",
+        "candidate_font_5": "Lemon Tuesday"
+    },
+    {
+        "task_id": "580008",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Big Noodle Titling",
+        "candidate_font_2": "Bebas Neue",
+        "candidate_font_3": "Impact",
+        "candidate_font_4": "Oswald",
+        "candidate_font_5": "Anton"
+    },
+    {
+        "task_id": "580007",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Univers",
+        "candidate_font_2": "Futura",
+        "candidate_font_3": "Gill Sans",
+        "candidate_font_4": "Akzidenz-Grotesk",
+        "candidate_font_5": "Trade Gothic"
+    },
+    {
+        "task_id": "580006",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Black Queen",
+        "candidate_font_2": "Vampire Wars",
+        "candidate_font_3": "Dragon Hunter",
+        "candidate_font_4": "Gothic Leaf",
+        "candidate_font_5": "Windsong"
+    },
+    {
+        "task_id": "580005",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Beautiful People Personal Use",
+        "candidate_font_2": "Amarillo",
+        "candidate_font_3": "Magnolia Sky",
+        "candidate_font_4": "The Historia",
+        "candidate_font_5": "Adora Bouton"
     }
 ]
