@@ -37240,5 +37240,50 @@
         "candidate_font_3": "Street Life",
         "candidate_font_4": "SF Collegiate",
         "candidate_font_5": "Impact"
+    },
+    {
+        "task_id": "580049",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "SF Sports Night",
+        "candidate_font_2": "Varsity Team",
+        "candidate_font_3": "College Block 2.0",
+        "candidate_font_4": "Octin College",
+        "candidate_font_5": "Impact"
+    },
+    {
+        "task_id": "580047",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "True Lies",
+        "candidate_font_2": "Avengeance",
+        "candidate_font_3": "Death Rattle",
+        "candidate_font_4": "Blacklisted",
+        "candidate_font_5": "Dirty Ego"
+    },
+    {
+        "task_id": "580046",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "SF TransRobotics",
+        "candidate_font_2": "Neuropol X Bold",
+        "candidate_font_3": "Compacta Black",
+        "candidate_font_4": "Agency FB Extended Bold",
+        "candidate_font_5": "Carbon Block"
+    },
+    {
+        "task_id": "580044",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Stingray",
+        "candidate_font_2": "Mesquite",
+        "candidate_font_3": "Bootlace",
+        "candidate_font_4": "Smokum",
+        "candidate_font_5": "Black Rose"
+    },
+    {
+        "task_id": "566412",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Gotham Rounded",
+        "candidate_font_2": "Gilroy Bold",
+        "candidate_font_3": "Montserrat Bold",
+        "candidate_font_4": "Proxima Soft",
+        "candidate_font_5": "Nunito Bold"
     }
 ]
