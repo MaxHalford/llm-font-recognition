@@ -20412,7 +20412,7 @@
         "url": "https://www.dafont.com/forum/read/579846/gothic-font",
         "title": "Gothic Font?",
         "instructions": "Help",
-        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1225249.jpg?1",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1225249.png?2",
         "identified_font": null
     },
     {
@@ -21116,8 +21116,8 @@
         "url": "https://www.dafont.com/forum/read/579958/vaastu-shastra",
         "title": "Vaastu Shastra ??",
         "instructions": null,
-        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1225455.jpg",
-        "identified_font": null
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1225455.png?1",
+        "identified_font": "Anorexia"
     },
     {
         "task_id": "579957",
@@ -21453,6 +21453,78 @@
         "title": "Woods Quick Lube Please",
         "instructions": null,
         "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1225502.png",
+        "identified_font": null
+    },
+    {
+        "task_id": "580003",
+        "url": "https://www.dafont.com/forum/read/580003/a-fever-you-can-t-sweat-out-font",
+        "title": "A fever You Can't Sweat Out font?????",
+        "instructions": "Hi! I know its been years since this era was, but I got curious as which font is used at the back. Please, I realy need to know, I remember it from Power Point YEARS AGO, I think.. Pls let me know",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1225537.jpg",
+        "identified_font": null
+    },
+    {
+        "task_id": "580002",
+        "url": "https://www.dafont.com/forum/read/580002/old-agame-logo",
+        "title": "Old Agame Logo",
+        "instructions": "I'm curious. What is the font used in the old Agame.com logo that's used in older flash games?",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1225534.png",
+        "identified_font": null
+    },
+    {
+        "task_id": "580000",
+        "url": "https://www.dafont.com/forum/read/580000/love-more-worry-less",
+        "title": "love more worry less",
+        "instructions": null,
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1225532.jpg",
+        "identified_font": null
+    },
+    {
+        "task_id": "579998",
+        "url": "https://www.dafont.com/forum/read/579998/please-help-me-ive-been-looking-for-this-font-forever",
+        "title": "please help me!! Ive been looking for this font forever!",
+        "instructions": null,
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1225530.jpg",
+        "identified_font": null
+    },
+    {
+        "task_id": "579997",
+        "url": "https://www.dafont.com/forum/read/579997/love-is-love",
+        "title": "Love is Love",
+        "instructions": null,
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1225529.png",
+        "identified_font": null
+    },
+    {
+        "task_id": "579989",
+        "url": "https://www.dafont.com/forum/read/579989/walt-disney-presents-text",
+        "title": "Walt Disney Presents text",
+        "instructions": "What font is for Walt Disney Presents?",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1225515.png",
+        "identified_font": null
+    },
+    {
+        "task_id": "579990",
+        "url": "https://www.dafont.com/forum/read/579990/walt-disney-pictures-text-the-wild",
+        "title": "Walt Disney Pictures text The Wild",
+        "instructions": "What font is for Walt Disney Pictures from The Wild?",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1225516.png",
+        "identified_font": null
+    },
+    {
+        "task_id": "579991",
+        "url": "https://www.dafont.com/forum/read/579991/walt-disney-pictures-text-the-shaggy-dog",
+        "title": "Walt Disney Pictures text The Shaggy Dog",
+        "instructions": "What font is for the Walt Disney Pictures text from The Shaggy Dog?",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1225517.jpg",
+        "identified_font": null
+    },
+    {
+        "task_id": "579992",
+        "url": "https://www.dafont.com/forum/read/579992/the-simpsons-disney-font",
+        "title": "The Simpsons Disney font",
+        "instructions": "What font is for The Simpsons from Disney?",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1225518.jpg",
         "identified_font": null
     }
 ]
