@@ -21012,8 +21012,8 @@
         "url": "https://www.dafont.com/forum/read/579931/font-thx",
         "title": "Font? Thx",
         "instructions": null,
-        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1225408.png",
-        "identified_font": null
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1225408.png?1",
+        "identified_font": "Antique Olive Nord Italic"
     },
     {
         "task_id": "579930",
@@ -21613,6 +21613,62 @@
         "title": "what is this font?",
         "instructions": "please help identify",
         "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1225552.png",
+        "identified_font": null
+    },
+    {
+        "task_id": "580027",
+        "url": "https://www.dafont.com/forum/read/580027/what-is-the-font-name-of-taj-mahal-palace",
+        "title": "what is the font name of \"taj mahal palace\"",
+        "instructions": null,
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1225574.jpg?1",
+        "identified_font": null
+    },
+    {
+        "task_id": "580026",
+        "url": "https://www.dafont.com/forum/read/580026/what-is-the-bold-font-name",
+        "title": "what is the bold font name?",
+        "instructions": null,
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1225573.jpg",
+        "identified_font": null
+    },
+    {
+        "task_id": "576700",
+        "url": "https://www.dafont.com/forum/read/576700/jaeguchi-font",
+        "title": "Jaeguchi font",
+        "instructions": "Font for \"FAMOUS\"",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1218512.jpg",
+        "identified_font": null
+    },
+    {
+        "task_id": "580025",
+        "url": "https://www.dafont.com/forum/read/580025/font-thx",
+        "title": "Font? Thx",
+        "instructions": null,
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1225568.jpg",
+        "identified_font": null
+    },
+    {
+        "task_id": "580024",
+        "url": "https://www.dafont.com/forum/read/580024/what-font-is-this",
+        "title": "what font is this?",
+        "instructions": "can anyone identified this font \"ALL WHITE CULT\"",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1225565.jpg",
+        "identified_font": null
+    },
+    {
+        "task_id": "580021",
+        "url": "https://www.dafont.com/forum/read/580021/fonts",
+        "title": "Fonts?",
+        "instructions": null,
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1225561.jpg",
+        "identified_font": null
+    },
+    {
+        "task_id": "580020",
+        "url": "https://www.dafont.com/forum/read/580020/dot-pixel-font-names",
+        "title": "Dot pixel font names",
+        "instructions": null,
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1225560.png",
         "identified_font": null
     }
 ]
