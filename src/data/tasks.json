@@ -21534,5 +21534,61 @@
         "instructions": "I'm searching this font, please help (:",
         "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1225539.jpg",
         "identified_font": null
+    },
+    {
+        "task_id": "580013",
+        "url": "https://www.dafont.com/forum/read/580013/identification-typo",
+        "title": "Identification typo",
+        "instructions": null,
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1225549.jpg",
+        "identified_font": null
+    },
+    {
+        "task_id": "580010",
+        "url": "https://www.dafont.com/forum/read/580010/what-this-font",
+        "title": "what this font?",
+        "instructions": "Percik Kecil Behind the Scene, please help me",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1225546.jpg",
+        "identified_font": null
+    },
+    {
+        "task_id": "580009",
+        "url": "https://www.dafont.com/forum/read/580009/oh-my-pumpkin-font-name-help-please",
+        "title": "oh my pumpkin! Font name? Help please",
+        "instructions": "Please help me",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1225545.png",
+        "identified_font": null
+    },
+    {
+        "task_id": "580008",
+        "url": "https://www.dafont.com/forum/read/580008/which-this-font-please",
+        "title": "Which this font, please?",
+        "instructions": null,
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1225544.png",
+        "identified_font": null
+    },
+    {
+        "task_id": "580007",
+        "url": "https://www.dafont.com/forum/read/580007/vojvodina-stara",
+        "title": "Vojvodina stara",
+        "instructions": null,
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1225543.jpg",
+        "identified_font": null
+    },
+    {
+        "task_id": "580006",
+        "url": "https://www.dafont.com/forum/read/580006/que-fonte-e-essa",
+        "title": "Que fonte \u00e9 essa?",
+        "instructions": "Me mandaram essa foto sem o nome da fonte, n\u00e3o consigo encontr\u00e1-la no site;",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1225542.jpg",
+        "identified_font": null
+    },
+    {
+        "task_id": "580005",
+        "url": "https://www.dafont.com/forum/read/580005/hola-me-apoyan-con-la-fuente-de-las-letras-a-y-e",
+        "title": "Hola, me apoyan con la fuente de las letras A y E",
+        "instructions": null,
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1225541.png?1",
+        "identified_font": null
     }
 ]
