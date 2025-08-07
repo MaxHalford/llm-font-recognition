@@ -20876,8 +20876,8 @@
         "url": "https://www.dafont.com/forum/read/579911/polices-perdues-suite-changement-d-ordinateur",
         "title": "Polices perdues suite changement d'ordinateur",
         "instructions": "Bonjour,",
-        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1225373.jpg",
-        "identified_font": null
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1225373.png?1",
+        "identified_font": "Awesome Handmade"
     },
     {
         "task_id": "579912",
@@ -21669,6 +21669,86 @@
         "title": "Dot pixel font names",
         "instructions": null,
         "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1225560.png",
+        "identified_font": null
+    },
+    {
+        "task_id": "580039",
+        "url": "https://www.dafont.com/forum/read/580039/qual-a-fonte",
+        "title": "Qual a fonte?",
+        "instructions": null,
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1225596.jpg",
+        "identified_font": null
+    },
+    {
+        "task_id": "580035",
+        "url": "https://www.dafont.com/forum/read/580035/gothic-font",
+        "title": "Gothic font",
+        "instructions": null,
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1225589.png",
+        "identified_font": "Blackmoor"
+    },
+    {
+        "task_id": "580038",
+        "url": "https://www.dafont.com/forum/read/580038/serving-fremont-county-since-1958",
+        "title": "Serving Fremont County Since 1958",
+        "instructions": "Need help identifying this font. Thank you.",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1225594.jpg",
+        "identified_font": null
+    },
+    {
+        "task_id": "580033",
+        "url": "https://www.dafont.com/forum/read/580033/estoy-buscando-esta-fuente",
+        "title": "Estoy buscando esta fuente",
+        "instructions": "Alguien sabe que fuente es la de Tacos Cheo?",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1225585.png",
+        "identified_font": "Berlin Sans"
+    },
+    {
+        "task_id": "580037",
+        "url": "https://www.dafont.com/forum/read/580037/prefeitura-de-lajedo",
+        "title": "Prefeitura de Lajedo",
+        "instructions": null,
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1225591.png",
+        "identified_font": null
+    },
+    {
+        "task_id": "580034",
+        "url": "https://www.dafont.com/forum/read/580034/help-please",
+        "title": "Help please!",
+        "instructions": "I need to find this font, thanks!",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1225586.png",
+        "identified_font": null
+    },
+    {
+        "task_id": "580031",
+        "url": "https://www.dafont.com/forum/read/580031/what-is-the-font",
+        "title": "what is the font?",
+        "instructions": null,
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1225583.png",
+        "identified_font": null
+    },
+    {
+        "task_id": "580030",
+        "url": "https://www.dafont.com/forum/read/580030/busco-esta-fuente",
+        "title": "Busco esta fuente",
+        "instructions": null,
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1225582.png",
+        "identified_font": null
+    },
+    {
+        "task_id": "580028",
+        "url": "https://www.dafont.com/forum/read/580028/towing-recovery",
+        "title": "TOWING & RECOVERY",
+        "instructions": "I need help with this one ;-;",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1225576.png",
+        "identified_font": "Destroy"
+    },
+    {
+        "task_id": "580029",
+        "url": "https://www.dafont.com/forum/read/580029/a-a-velez",
+        "title": "A & A Velez",
+        "instructions": null,
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1225577.png",
         "identified_font": null
     }
 ]
