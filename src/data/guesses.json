@@ -37177,5 +37177,68 @@
         "candidate_font_3": "Billabong",
         "candidate_font_4": "Lato Light",
         "candidate_font_5": "Oswald Regular"
+    },
+    {
+        "task_id": "580039",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Lemon Jelly",
+        "candidate_font_2": "Hello Bubblegum",
+        "candidate_font_3": "KG The Bubble Font",
+        "candidate_font_4": "Cute Story",
+        "candidate_font_5": "Bubblegum Pop"
+    },
+    {
+        "task_id": "580038",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Shelley Script",
+        "candidate_font_2": "Kuenstler Script",
+        "candidate_font_3": "Bickham Script Pro",
+        "candidate_font_4": "Commercial Script",
+        "candidate_font_5": "Monotype Corsiva"
+    },
+    {
+        "task_id": "580037",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Gotham Rounded Black",
+        "candidate_font_2": "Source Sans Pro Bold",
+        "candidate_font_3": "Roboto Condensed Regular",
+        "candidate_font_4": "",
+        "candidate_font_5": ""
+    },
+    {
+        "task_id": "580034",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "La Vie En Rose",
+        "candidate_font_2": "Better Together",
+        "candidate_font_3": "Beautiful People",
+        "candidate_font_4": "Magnolia Sky",
+        "candidate_font_5": "Great Vibes"
+    },
+    {
+        "task_id": "580031",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Wanted M54",
+        "candidate_font_2": "Western Grit",
+        "candidate_font_3": "Mesquite",
+        "candidate_font_4": "October Crow",
+        "candidate_font_5": "Bandito"
+    },
+    {
+        "task_id": "580030",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Rumble Brush",
+        "candidate_font_2": "Go Battle",
+        "candidate_font_3": "Dirty Brush",
+        "candidate_font_4": "Thunderstorm",
+        "candidate_font_5": "Road Race"
+    },
+    {
+        "task_id": "580029",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Most Wazted",
+        "candidate_font_2": "United States",
+        "candidate_font_3": "Street Life",
+        "candidate_font_4": "SF Collegiate",
+        "candidate_font_5": "Impact"
     }
 ]
