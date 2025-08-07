@@ -36898,5 +36898,41 @@
         "candidate_font_3": "Open Sans",
         "candidate_font_4": "Inter",
         "candidate_font_5": "Noto Sans"
+    },
+    {
+        "task_id": "579987",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Public Sans",
+        "candidate_font_2": "IBM Plex Sans",
+        "candidate_font_3": "Inter",
+        "candidate_font_4": "Manrope",
+        "candidate_font_5": "Hanken Grotesk"
+    },
+    {
+        "task_id": "579985",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Tuesday Night",
+        "candidate_font_2": "PT Mono",
+        "candidate_font_3": "",
+        "candidate_font_4": "",
+        "candidate_font_5": ""
+    },
+    {
+        "task_id": "579984",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "SF Collegiate",
+        "candidate_font_2": "Varsity Team",
+        "candidate_font_3": "Impact",
+        "candidate_font_4": "Bookman Old Style Bold Italic",
+        "candidate_font_5": "Franklin Gothic Heavy Italic"
+    },
+    {
+        "task_id": "579983",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Serpentine Bold Italic",
+        "candidate_font_2": "Microgramma D Extended Bold Italic",
+        "candidate_font_3": "Eurostile Extended Bold Italic",
+        "candidate_font_4": "Data 70 Bold Italic",
+        "candidate_font_5": "Machine Bold Italic"
     }
 ]
