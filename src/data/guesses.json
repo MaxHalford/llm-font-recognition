@@ -37087,5 +37087,32 @@
         "candidate_font_3": "Magnolia Sky",
         "candidate_font_4": "The Historia",
         "candidate_font_5": "Adora Bouton"
+    },
+    {
+        "task_id": "580018",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Augustine Serif",
+        "candidate_font_2": "Theodore Font",
+        "candidate_font_3": "Playfair Display Italic",
+        "candidate_font_4": "Lora Italic",
+        "candidate_font_5": "Didot Italic"
+    },
+    {
+        "task_id": "580017",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Autumn Chant",
+        "candidate_font_2": "Magnolia Sky",
+        "candidate_font_3": "Brittany Signature",
+        "candidate_font_4": "Hello Honey",
+        "candidate_font_5": "Farmhouse Script"
+    },
+    {
+        "task_id": "580016",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Old London",
+        "candidate_font_2": "Feathergraphy Decorations",
+        "candidate_font_3": "Royal Initialen",
+        "candidate_font_4": "Victorian Supremacy",
+        "candidate_font_5": "Windsor Great Park"
     }
 ]
