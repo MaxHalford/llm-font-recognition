@@ -37375,5 +37375,32 @@
         "candidate_font_3": "",
         "candidate_font_4": "",
         "candidate_font_5": ""
+    },
+    {
+        "task_id": "580061",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Oswald",
+        "candidate_font_2": "ChunkFive",
+        "candidate_font_3": "Stay High",
+        "candidate_font_4": "Bebas Neue",
+        "candidate_font_5": "Rockwell"
+    },
+    {
+        "task_id": "580060",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Bubbly Bobbly",
+        "candidate_font_2": "Bubblegum Pop",
+        "candidate_font_3": "Porky's",
+        "candidate_font_4": "Chunky Funky",
+        "candidate_font_5": "Bubble Love"
+    },
+    {
+        "task_id": "576457",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Pluto's TV",
+        "candidate_font_2": "Impact",
+        "candidate_font_3": "Compacta Bold",
+        "candidate_font_4": "Anton",
+        "candidate_font_5": "Gobold Bold"
     }
 ]
