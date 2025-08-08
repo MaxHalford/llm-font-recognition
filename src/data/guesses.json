@@ -37285,5 +37285,59 @@
         "candidate_font_3": "Montserrat Bold",
         "candidate_font_4": "Proxima Soft",
         "candidate_font_5": "Nunito Bold"
+    },
+    {
+        "task_id": "580056",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Lemon Tuesday",
+        "candidate_font_2": "The Brisk",
+        "candidate_font_3": "Bromello",
+        "candidate_font_4": "Stay Grateful",
+        "candidate_font_5": "Southamton Script"
+    },
+    {
+        "task_id": "580055",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Palatino Linotype",
+        "candidate_font_2": "Book Antiqua",
+        "candidate_font_3": "Adobe Garamond Pro",
+        "candidate_font_4": "Minion Pro",
+        "candidate_font_5": "Janson Text"
+    },
+    {
+        "task_id": "580053",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Jersey M54",
+        "candidate_font_2": "College Block",
+        "candidate_font_3": "Varsity",
+        "candidate_font_4": "SF Collegiate",
+        "candidate_font_5": "Team Spirit"
+    },
+    {
+        "task_id": "580052",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Demon Sker",
+        "candidate_font_2": "October Crow",
+        "candidate_font_3": "Headhunter",
+        "candidate_font_4": "Evil Empire",
+        "candidate_font_5": "Death Rattle"
+    },
+    {
+        "task_id": "281931",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Varela Round",
+        "candidate_font_2": "Quicksand",
+        "candidate_font_3": "Comfortaa",
+        "candidate_font_4": "Nunito Sans",
+        "candidate_font_5": "M PLUS Rounded 1c"
+    },
+    {
+        "task_id": "580051",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Ink Bleed",
+        "candidate_font_2": "Dirty Ego",
+        "candidate_font_3": "Damaged Goods",
+        "candidate_font_4": "Blood Stains",
+        "candidate_font_5": "Chiller"
     }
 ]
