@@ -21934,5 +21934,45 @@
         "instructions": null,
         "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1225684.png?1",
         "identified_font": null
+    },
+    {
+        "task_id": "580070",
+        "url": "https://www.dafont.com/forum/read/580070/can-t-find-this-one-anyone",
+        "title": "Can't find this one.... anyone?",
+        "instructions": "Can't find this one.... anyone? Off course without the beam below...",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1225698.png",
+        "identified_font": null
+    },
+    {
+        "task_id": "580069",
+        "url": "https://www.dafont.com/forum/read/580069/font-name-please",
+        "title": "Font name please",
+        "instructions": "Font name on logo clipmaker",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1225697.jpg",
+        "identified_font": null
+    },
+    {
+        "task_id": "580068",
+        "url": "https://www.dafont.com/forum/read/580068/wreck-it-ralph-racer-standing-font",
+        "title": "Wreck it ralph racer standing font",
+        "instructions": "whats the font used here? the one in the top left corner and beside the racers pictures.",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1225694.jpg",
+        "identified_font": null
+    },
+    {
+        "task_id": "580067",
+        "url": "https://www.dafont.com/forum/read/580067/umazing-font",
+        "title": "Umazing Font",
+        "instructions": null,
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1225693.png",
+        "identified_font": null
+    },
+    {
+        "task_id": "580066",
+        "url": "https://www.dafont.com/forum/read/580066/cafe-gerico",
+        "title": "Caf\u00e9 Gerico",
+        "instructions": "Hello everyone, I\u0092ve been trying to identify this font for decades. It might be a modified version of Voska Round Expanded, or something else entirely. The brand using it was created in 1956, and since it wasn\u0092t a big company, I suspect they used an existing press font.",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1225691.jpg",
+        "identified_font": null
     }
 ]
