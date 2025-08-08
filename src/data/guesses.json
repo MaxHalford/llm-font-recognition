@@ -37402,5 +37402,32 @@
         "candidate_font_3": "Compacta Bold",
         "candidate_font_4": "Anton",
         "candidate_font_5": "Gobold Bold"
+    },
+    {
+        "task_id": "580065",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "GT Walsheim Rounded",
+        "candidate_font_2": "Gotham Rounded",
+        "candidate_font_3": "Mplus Rounded 1p",
+        "candidate_font_4": "Proxima Nova Soft",
+        "candidate_font_5": "Nunito Sans"
+    },
+    {
+        "task_id": "580064",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Bebas Neue",
+        "candidate_font_2": "Oswald",
+        "candidate_font_3": "Anton",
+        "candidate_font_4": "Montserrat",
+        "candidate_font_5": "Gotham"
+    },
+    {
+        "task_id": "580062",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Amsterdam",
+        "candidate_font_2": "Bellisia Script",
+        "candidate_font_3": "Hello Stockholm",
+        "candidate_font_4": "Lovely Feelings",
+        "candidate_font_5": "Madelyn"
     }
 ]
