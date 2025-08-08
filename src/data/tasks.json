@@ -21124,8 +21124,8 @@
         "url": "https://www.dafont.com/forum/read/579957/tumsa-nahin-dekha-font",
         "title": "Tumsa Nahin Dekha font?",
         "instructions": null,
-        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1225454.jpg",
-        "identified_font": null
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1225454.png?1",
+        "identified_font": "Annifont"
     },
     {
         "task_id": "579956",
@@ -21253,7 +21253,7 @@
         "title": "Shaque font ?",
         "instructions": null,
         "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1225434.png",
-        "identified_font": null
+        "identified_font": "Cooper Black"
     },
     {
         "task_id": "579940",
@@ -21621,7 +21621,7 @@
         "title": "what is the font name of \"taj mahal palace\"",
         "instructions": null,
         "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1225574.jpg?1",
-        "identified_font": null
+        "identified_font": "Apple Garamond"
     },
     {
         "task_id": "580026",
@@ -21653,7 +21653,7 @@
         "title": "what font is this?",
         "instructions": "can anyone identified this font \"ALL WHITE CULT\"",
         "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1225565.jpg",
-        "identified_font": null
+        "identified_font": "Balance Groovy Groovy"
     },
     {
         "task_id": "580021",
@@ -21789,6 +21789,62 @@
         "title": "Font, please. &#128591;&#128591;&#128591;",
         "instructions": null,
         "img_url": "https://www.dafont.com/forum/attach/orig/1/1/1198097.png?1",
+        "identified_font": null
+    },
+    {
+        "task_id": "580056",
+        "url": "https://www.dafont.com/forum/read/580056/tickety-boo",
+        "title": "Tickety-boo",
+        "instructions": null,
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1225663.png",
+        "identified_font": null
+    },
+    {
+        "task_id": "580054",
+        "url": "https://www.dafont.com/forum/read/580054/pai",
+        "title": "\"Pai\"",
+        "instructions": "Ol\u00e1, boa noite, algu\u00e9m sabe o nome da fonte do \"Pai\" agrade\u00e7o imensamente.",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1225656.jpg?1",
+        "identified_font": "Dulcelin"
+    },
+    {
+        "task_id": "580055",
+        "url": "https://www.dafont.com/forum/read/580055/soul-reaver-remastered-font",
+        "title": "Soul Reaver Remastered font",
+        "instructions": "Can someone help me find the name of this font?",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1225661.jpg",
+        "identified_font": null
+    },
+    {
+        "task_id": "580053",
+        "url": "https://www.dafont.com/forum/read/580053/fontid",
+        "title": "FontID",
+        "instructions": "Looking to match this font the best I can...any help is appreciated!",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1225654.jpg",
+        "identified_font": null
+    },
+    {
+        "task_id": "580052",
+        "url": "https://www.dafont.com/forum/read/580052/font-name-please",
+        "title": "font name please",
+        "instructions": "name font ???",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1225653.png",
+        "identified_font": null
+    },
+    {
+        "task_id": "281931",
+        "url": "https://www.dafont.com/forum/read/281931/naqaab",
+        "title": "naqaab",
+        "instructions": null,
+        "img_url": "https://www.dafont.com/forum/attach/orig/6/3/630102.png?2",
+        "identified_font": null
+    },
+    {
+        "task_id": "580051",
+        "url": "https://www.dafont.com/forum/read/580051/raincoat-font",
+        "title": "RAINCOAT font?",
+        "instructions": null,
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1225638.png?1",
         "identified_font": null
     }
 ]
