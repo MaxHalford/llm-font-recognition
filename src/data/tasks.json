@@ -14677,7 +14677,7 @@
         "title": "Font Identification",
         "instructions": "Just trying to find this font name.",
         "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1223213.png",
-        "identified_font": null
+        "identified_font": "Bad Comic"
     },
     {
         "task_id": "578871",
@@ -21604,8 +21604,8 @@
         "url": "https://www.dafont.com/forum/read/580017/help-please",
         "title": "Help please ??",
         "instructions": "Hi;",
-        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1225553.png",
-        "identified_font": null
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1225553.png?1",
+        "identified_font": "Palm Beach Casual Script"
     },
     {
         "task_id": "580016",
@@ -21845,7 +21845,7 @@
         "title": "RAINCOAT font?",
         "instructions": null,
         "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1225638.png?1",
-        "identified_font": null
+        "identified_font": "Escalido Gothico"
     },
     {
         "task_id": "580059",
@@ -21941,7 +21941,7 @@
         "title": "Can't find this one.... anyone?",
         "instructions": "Can't find this one.... anyone? Off course without the beam below...",
         "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1225698.png",
-        "identified_font": null
+        "identified_font": "Tahu!"
     },
     {
         "task_id": "580069",
@@ -21973,6 +21973,54 @@
         "title": "Caf\u00e9 Gerico",
         "instructions": "Hello everyone, I\u0092ve been trying to identify this font for decades. It might be a modified version of Voska Round Expanded, or something else entirely. The brand using it was created in 1956, and since it wasn\u0092t a big company, I suspect they used an existing press font.",
         "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1225691.jpg",
+        "identified_font": null
+    },
+    {
+        "task_id": "580075",
+        "url": "https://www.dafont.com/forum/read/580075/font-please",
+        "title": "Font, please. &#128591;&#127996;",
+        "instructions": null,
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1225710.png?1",
+        "identified_font": "Ravie"
+    },
+    {
+        "task_id": "580077",
+        "url": "https://www.dafont.com/forum/read/580077/modern-slab-serif-doodle-font",
+        "title": "Modern Slab Serif Doodle font",
+        "instructions": "If you recognize this font, please let me know. Thank you!",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1225712.png",
+        "identified_font": null
+    },
+    {
+        "task_id": "580076",
+        "url": "https://www.dafont.com/forum/read/580076/what-font",
+        "title": "What font ?",
+        "instructions": "Hi everyone,",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1225711.png",
+        "identified_font": null
+    },
+    {
+        "task_id": "580074",
+        "url": "https://www.dafont.com/forum/read/580074/font-please",
+        "title": "Font, please. &#128591;&#127996;",
+        "instructions": null,
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1225709.jpg",
+        "identified_font": null
+    },
+    {
+        "task_id": "580071",
+        "url": "https://www.dafont.com/forum/read/580071/fonte",
+        "title": "Fonte",
+        "instructions": "\"O livro oficial da primeira temporada\"",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1225702.jpg?1",
+        "identified_font": null
+    },
+    {
+        "task_id": "236869",
+        "url": "https://www.dafont.com/forum/read/236869/font-plz",
+        "title": "font plz?",
+        "instructions": null,
+        "img_url": "https://www.dafont.com/forum/attach/orig/5/3/537880.jpg",
         "identified_font": null
     }
 ]
