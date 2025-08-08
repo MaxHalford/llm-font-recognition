@@ -37609,5 +37609,41 @@
         "candidate_font_3": "Compacta",
         "candidate_font_4": "Steelfish Regular",
         "candidate_font_5": "Trade Gothic Bold Condensed No. 20"
+    },
+    {
+        "task_id": "580091",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "CC Back In The Box",
+        "candidate_font_2": "BadaBoom BB",
+        "candidate_font_3": "Cream Puff",
+        "candidate_font_4": "Luckiest Guy",
+        "candidate_font_5": "Action Is"
+    },
+    {
+        "task_id": "580089",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Aphrodite Pro",
+        "candidate_font_2": "Bickham Script Pro",
+        "candidate_font_3": "Zapfino",
+        "candidate_font_4": "Shelley Allegro Script",
+        "candidate_font_5": "Exmouth"
+    },
+    {
+        "task_id": "580086",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "ITC Avant Garde Gothic",
+        "candidate_font_2": "Futura",
+        "candidate_font_3": "Univers",
+        "candidate_font_4": "Gotham",
+        "candidate_font_5": "Akzidenz-Grotesk"
+    },
+    {
+        "task_id": "580083",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Univers 93 Extra Black Extended",
+        "candidate_font_2": "Univers LT Std 95 Extra Black",
+        "candidate_font_3": "Univers Black Extended",
+        "candidate_font_4": "Akzidenz-Grotesk Super",
+        "candidate_font_5": "Trade Gothic Bold Extended No. 2"
     }
 ]
