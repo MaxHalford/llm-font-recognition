@@ -37339,5 +37339,41 @@
         "candidate_font_3": "Damaged Goods",
         "candidate_font_4": "Blood Stains",
         "candidate_font_5": "Chiller"
+    },
+    {
+        "task_id": "580059",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Eurostile Extended Bold",
+        "candidate_font_2": "Square 721 Std Extended Bold",
+        "candidate_font_3": "Corporate S Std Extended",
+        "candidate_font_4": "Pricedown",
+        "candidate_font_5": "Michroma"
+    },
+    {
+        "task_id": "580057",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Sweets Quid",
+        "candidate_font_2": "Puffy Fluffy",
+        "candidate_font_3": "Chewy",
+        "candidate_font_4": "Fredoka One",
+        "candidate_font_5": "Mochiy Pop P One"
+    },
+    {
+        "task_id": "580058",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Archivo Black Italic",
+        "candidate_font_2": "Montserrat Black Italic",
+        "candidate_font_3": "Oswald Bold Italic",
+        "candidate_font_4": "Franklin Gothic Heavy Italic",
+        "candidate_font_5": "Univers 75 Black Oblique"
+    },
+    {
+        "task_id": "517290",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Wednesday Font (by Iconian Fonts)",
+        "candidate_font_2": "Wednesday Addams Font",
+        "candidate_font_3": "",
+        "candidate_font_4": "",
+        "candidate_font_5": ""
     }
 ]
