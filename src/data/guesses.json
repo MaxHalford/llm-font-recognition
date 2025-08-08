@@ -37429,5 +37429,50 @@
         "candidate_font_3": "Hello Stockholm",
         "candidate_font_4": "Lovely Feelings",
         "candidate_font_5": "Madelyn"
+    },
+    {
+        "task_id": "580070",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Bridgette",
+        "candidate_font_2": "Playlist Script",
+        "candidate_font_3": "Bromello",
+        "candidate_font_4": "Satisfy",
+        "candidate_font_5": "Dancing Script"
+    },
+    {
+        "task_id": "580069",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Uni Sans Heavy",
+        "candidate_font_2": "Montserrat Black",
+        "candidate_font_3": "Gotham Black",
+        "candidate_font_4": "Inter Black",
+        "candidate_font_5": "Open Sans Extrabold"
+    },
+    {
+        "task_id": "580068",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Luckiest Guy",
+        "candidate_font_2": "Chewy",
+        "candidate_font_3": "Obelix Pro",
+        "candidate_font_4": "Bubblegum One",
+        "candidate_font_5": "Lilita One"
+    },
+    {
+        "task_id": "580067",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Varela Round",
+        "candidate_font_2": "M PLUS Rounded 1c",
+        "candidate_font_3": "Fredoka One",
+        "candidate_font_4": "Quicksand",
+        "candidate_font_5": "Nunito"
+    },
+    {
+        "task_id": "580066",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Voska Round Expanded",
+        "candidate_font_2": "Coronet",
+        "candidate_font_3": "Kuenstler Script",
+        "candidate_font_4": "Palace Script MT",
+        "candidate_font_5": "Park Avenue"
     }
 ]
