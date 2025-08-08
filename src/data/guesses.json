@@ -37519,5 +37519,95 @@
         "candidate_font_3": "Rustico",
         "candidate_font_4": "Brush Strike",
         "candidate_font_5": "Anguish"
+    },
+    {
+        "task_id": "580082",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Road Rage",
+        "candidate_font_2": "Destroy Earth",
+        "candidate_font_3": "Metal Mania",
+        "candidate_font_4": "Creepster",
+        "candidate_font_5": ""
+    },
+    {
+        "task_id": "580079",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "CF College Block Rough",
+        "candidate_font_2": "Brooklyn JNL Rough",
+        "candidate_font_3": "Block Gothic Rough",
+        "candidate_font_4": "Rustico",
+        "candidate_font_5": "Knucklehead"
+    },
+    {
+        "task_id": "568934",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Flamboyant Italic",
+        "candidate_font_2": "Recife Italic",
+        "candidate_font_3": "Cheezy Solid",
+        "candidate_font_4": "Cooper Black Italic",
+        "candidate_font_5": "Pump Up The Volume"
+    },
+    {
+        "task_id": "580081",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "SF Sports Night",
+        "candidate_font_2": "Gridiron",
+        "candidate_font_3": "Techno Homicide",
+        "candidate_font_4": "Audiowide",
+        "candidate_font_5": "Exo 2"
+    },
+    {
+        "task_id": "580080",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Didot",
+        "candidate_font_2": "Bodoni",
+        "candidate_font_3": "Playfair Display",
+        "candidate_font_4": "Butler",
+        "candidate_font_5": "HTF Didot"
+    },
+    {
+        "task_id": "296054",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Agency FB Bold",
+        "candidate_font_2": "BankGothic Medium",
+        "candidate_font_3": "Compacta Std",
+        "candidate_font_4": "DIN Condensed Bold",
+        "candidate_font_5": "Impact"
+    },
+    {
+        "task_id": "580078",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Smokeflower",
+        "candidate_font_2": "Smokeflower",
+        "candidate_font_3": "Smokeflower",
+        "candidate_font_4": "Smokeflower",
+        "candidate_font_5": "Smokeflower"
+    },
+    {
+        "task_id": "281117",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Capture It",
+        "candidate_font_2": "Broken 15",
+        "candidate_font_3": "Death Rattle",
+        "candidate_font_4": "Destroy",
+        "candidate_font_5": "Distort"
+    },
+    {
+        "task_id": "280073",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Big Noodle Titling",
+        "candidate_font_2": "Compacta",
+        "candidate_font_3": "Bebas Neue",
+        "candidate_font_4": "League Gothic",
+        "candidate_font_5": "Impact"
+    },
+    {
+        "task_id": "280069",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Big Noodle Titling",
+        "candidate_font_2": "Gobold Bold",
+        "candidate_font_3": "Compacta",
+        "candidate_font_4": "Steelfish Regular",
+        "candidate_font_5": "Trade Gothic Bold Condensed No. 20"
     }
 ]
