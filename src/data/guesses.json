@@ -37474,5 +37474,50 @@
         "candidate_font_3": "Kuenstler Script",
         "candidate_font_4": "Palace Script MT",
         "candidate_font_5": "Park Avenue"
+    },
+    {
+        "task_id": "580077",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Chunky Doodle Font",
+        "candidate_font_2": "Varsity Doodle Font",
+        "candidate_font_3": "Game Day Doodle Font",
+        "candidate_font_4": "Stitched Outline Font",
+        "candidate_font_5": "Distressed Slab Serif"
+    },
+    {
+        "task_id": "580076",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Circular Std Bold",
+        "candidate_font_2": "Circular Std Light",
+        "candidate_font_3": "Circular Std Book",
+        "candidate_font_4": "Graphik Regular",
+        "candidate_font_5": null
+    },
+    {
+        "task_id": "580074",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Salloma Script",
+        "candidate_font_2": "Butterflies Font",
+        "candidate_font_3": "Amsterdam Five",
+        "candidate_font_4": "The Historia",
+        "candidate_font_5": "Adeline Script"
+    },
+    {
+        "task_id": "580071",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Count Orlok",
+        "candidate_font_2": "Chiller",
+        "candidate_font_3": "Vampiak",
+        "candidate_font_4": "Avenge the Fallen",
+        "candidate_font_5": "Darkest Hour"
+    },
+    {
+        "task_id": "236869",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Quick Brush",
+        "candidate_font_2": "Hustle Brush",
+        "candidate_font_3": "Rustico",
+        "candidate_font_4": "Brush Strike",
+        "candidate_font_5": "Anguish"
     }
 ]
