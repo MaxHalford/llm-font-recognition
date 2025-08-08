@@ -21885,7 +21885,7 @@
         "title": "What are the fonts? TIA",
         "instructions": null,
         "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1225675.png",
-        "identified_font": null
+        "identified_font": "The Foreign"
     },
     {
         "task_id": "580060",
@@ -21901,6 +21901,38 @@
         "title": "Font from Tenna Deltarune",
         "instructions": "Greetings! Please, can you help me find this font?",
         "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1217967.png",
+        "identified_font": null
+    },
+    {
+        "task_id": "580065",
+        "url": "https://www.dafont.com/forum/read/580065/finnish-font-2",
+        "title": "finnish font 2",
+        "instructions": "ty!",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1225690.jpg",
+        "identified_font": null
+    },
+    {
+        "task_id": "580064",
+        "url": "https://www.dafont.com/forum/read/580064/finnish-font",
+        "title": "finnish font",
+        "instructions": "any ideas? thanks!",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1225689.jpg",
+        "identified_font": null
+    },
+    {
+        "task_id": "580063",
+        "url": "https://www.dafont.com/forum/read/580063/need-help-with-handwritten-font",
+        "title": "Need help with handwritten font",
+        "instructions": "PLease help me identify this font",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1225685.png",
+        "identified_font": "Fabulous Script"
+    },
+    {
+        "task_id": "580062",
+        "url": "https://www.dafont.com/forum/read/580062/af-font-please",
+        "title": "af font please?",
+        "instructions": null,
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1225684.png?1",
         "identified_font": null
     }
 ]
