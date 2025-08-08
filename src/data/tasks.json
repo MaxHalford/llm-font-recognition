@@ -21813,7 +21813,7 @@
         "title": "Soul Reaver Remastered font",
         "instructions": "Can someone help me find the name of this font?",
         "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1225661.jpg",
-        "identified_font": null
+        "identified_font": "Caudex"
     },
     {
         "task_id": "580053",
@@ -21845,6 +21845,38 @@
         "title": "RAINCOAT font?",
         "instructions": null,
         "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1225638.png?1",
+        "identified_font": null
+    },
+    {
+        "task_id": "580059",
+        "url": "https://www.dafont.com/forum/read/580059/what-font-thanks",
+        "title": "What font? Thanks",
+        "instructions": null,
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1225672.png",
+        "identified_font": null
+    },
+    {
+        "task_id": "580057",
+        "url": "https://www.dafont.com/forum/read/580057/font-of-center-text",
+        "title": "Font of center text",
+        "instructions": null,
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1225666.jpg",
+        "identified_font": null
+    },
+    {
+        "task_id": "580058",
+        "url": "https://www.dafont.com/forum/read/580058/id-font",
+        "title": "ID FONT?",
+        "instructions": null,
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1225670.png",
+        "identified_font": null
+    },
+    {
+        "task_id": "517290",
+        "url": "https://www.dafont.com/forum/read/517290/wednesday-wandinha-mercredi-mercoledi-netflix-series-font",
+        "title": "Wednesday Wandinha Mercredi Mercoledi Netflix series font",
+        "instructions": "Hey! I need to know what font is this. Thank you.",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/0/1095742.png",
         "identified_font": null
     }
 ]
