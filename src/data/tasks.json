@@ -22102,5 +22102,69 @@
         "instructions": null,
         "img_url": "https://www.dafont.com/forum/attach/orig/6/2/626451.png?1",
         "identified_font": null
+    },
+    {
+        "task_id": "580090",
+        "url": "https://www.dafont.com/forum/read/580090/name-of-these-two-fonts-plis",
+        "title": "Name of these two fonts plis?",
+        "instructions": "Do you know the name of these two fonts?",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1225760.png",
+        "identified_font": "Simplicity"
+    },
+    {
+        "task_id": "580091",
+        "url": "https://www.dafont.com/forum/read/580091/goudurix-parc-asterix",
+        "title": "Goudurix - Parc Asterix",
+        "instructions": "Hola! Me gustaria saber que fuente se usa para el rotulo de esta atraccion de Parc Asterix, Goudurix.",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1225761.png",
+        "identified_font": null
+    },
+    {
+        "task_id": "580088",
+        "url": "https://www.dafont.com/forum/read/580088/what-this",
+        "title": "What this?",
+        "instructions": null,
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1225753.png",
+        "identified_font": "A Auto Signature"
+    },
+    {
+        "task_id": "580089",
+        "url": "https://www.dafont.com/forum/read/580089/hello-can-someone-please-help-me-identify-the-ampersand-in-the-photo",
+        "title": "Hello, can someone please help me identify the ampersand in the photo?",
+        "instructions": "Hello, can someone please help me identify the ampersand in the photo?",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1225756.jpg",
+        "identified_font": null
+    },
+    {
+        "task_id": "580087",
+        "url": "https://www.dafont.com/forum/read/580087/alguien-sabra-que-fuente-es-se-los-agradeceria-mucho-si-me-pudieran-decir",
+        "title": "alguien sabr\u00e1 que fuente es se los agradecer\u00eda mucho si me pudieran decir &#128591;&#127995;",
+        "instructions": "Epicenter Bass HD",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1225752.png",
+        "identified_font": "Colors Of Autumn"
+    },
+    {
+        "task_id": "580085",
+        "url": "https://www.dafont.com/forum/read/580085/font-name-helpmeee",
+        "title": "FONT NAME? HELPMEEE",
+        "instructions": null,
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1225750.jpg",
+        "identified_font": "Blacksword"
+    },
+    {
+        "task_id": "580086",
+        "url": "https://www.dafont.com/forum/read/580086/disciplina-maste",
+        "title": "Disciplina ma\u009ate",
+        "instructions": null,
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1225751.jpg",
+        "identified_font": null
+    },
+    {
+        "task_id": "580083",
+        "url": "https://www.dafont.com/forum/read/580083/please-what-is-this-font",
+        "title": "Please what is this font",
+        "instructions": "hello,",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1225746.png",
+        "identified_font": null
     }
 ]
