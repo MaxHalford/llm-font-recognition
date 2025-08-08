@@ -5437,7 +5437,7 @@
         "title": "FONT BY SHADOWBYYOONGI",
         "instructions": "Hot Sauce",
         "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1220377.jpg",
-        "identified_font": null
+        "identified_font": "Mind The Caps"
     },
     {
         "task_id": "577530",
@@ -6277,7 +6277,7 @@
         "title": "Jaeguchi font",
         "instructions": "Tittle Font",
         "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1220588.jpg",
-        "identified_font": null
+        "identified_font": "Agero!"
     },
     {
         "task_id": "577623",
@@ -16677,7 +16677,7 @@
         "title": "ECW Holiday Hell",
         "instructions": null,
         "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1224085.jpg",
-        "identified_font": null
+        "identified_font": "Rebucked"
     },
     {
         "task_id": "579304",
@@ -20341,7 +20341,7 @@
         "title": "Chetna font name?",
         "instructions": null,
         "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1225258.jpg",
-        "identified_font": null
+        "identified_font": "Fandango"
     },
     {
         "task_id": "579854",
@@ -21141,7 +21141,7 @@
         "title": "Suno Sasurjee font?",
         "instructions": null,
         "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1225452.jpg",
-        "identified_font": null
+        "identified_font": "Le Asterix"
     },
     {
         "task_id": "579954",
@@ -21828,8 +21828,8 @@
         "url": "https://www.dafont.com/forum/read/580052/font-name-please",
         "title": "font name please",
         "instructions": "name font ???",
-        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1225653.png",
-        "identified_font": null
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1225653.png?1",
+        "identified_font": "Modern Thrash"
     },
     {
         "task_id": "281931",
@@ -21877,6 +21877,30 @@
         "title": "Wednesday Wandinha Mercredi Mercoledi Netflix series font",
         "instructions": "Hey! I need to know what font is this. Thank you.",
         "img_url": "https://www.dafont.com/forum/attach/orig/1/0/1095742.png",
+        "identified_font": null
+    },
+    {
+        "task_id": "580061",
+        "url": "https://www.dafont.com/forum/read/580061/what-are-the-fonts-tia",
+        "title": "What are the fonts? TIA",
+        "instructions": null,
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1225675.png",
+        "identified_font": null
+    },
+    {
+        "task_id": "580060",
+        "url": "https://www.dafont.com/forum/read/580060/font-help-please",
+        "title": "Font help please",
+        "instructions": "Anyone know this font or something similar",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1225674.png",
+        "identified_font": null
+    },
+    {
+        "task_id": "576457",
+        "url": "https://www.dafont.com/forum/read/576457/font-from-tenna-deltarune",
+        "title": "Font from Tenna Deltarune",
+        "instructions": "Greetings! Please, can you help me find this font?",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1217967.png",
         "identified_font": null
     }
 ]
