@@ -37771,5 +37771,32 @@
         "candidate_font_3": "Avengeance",
         "candidate_font_4": "Gotham Bold",
         "candidate_font_5": "Valiant"
+    },
+    {
+        "task_id": "489462",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Billionaire Medium",
+        "candidate_font_2": "Amsterdam",
+        "candidate_font_3": "Mightype",
+        "candidate_font_4": "Quicksilver",
+        "candidate_font_5": "Playlist Script"
+    },
+    {
+        "task_id": "580122",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Requiem Text",
+        "candidate_font_2": "Livre",
+        "candidate_font_3": "Adobe Jenson Pro",
+        "candidate_font_4": "Garamond Premier Pro",
+        "candidate_font_5": "Palatino Linotype"
+    },
+    {
+        "task_id": "580121",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Swiss 721 Bold",
+        "candidate_font_2": "Helvetica Neue Bold",
+        "candidate_font_3": "Univers 65 Bold",
+        "candidate_font_4": "Akzidenz-Grotesk Bold",
+        "candidate_font_5": "Trade Gothic Bold"
     }
 ]
