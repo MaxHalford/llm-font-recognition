@@ -22190,5 +22190,29 @@
         "instructions": null,
         "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1225767.jpg",
         "identified_font": null
+    },
+    {
+        "task_id": "580096",
+        "url": "https://www.dafont.com/forum/read/580096/heyy-babby",
+        "title": "Heyy Babby?",
+        "instructions": null,
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1225774.png",
+        "identified_font": "Cuisine"
+    },
+    {
+        "task_id": "580097",
+        "url": "https://www.dafont.com/forum/read/580097/disney-s-the-mighty-ducks-green-jersey-number-font",
+        "title": "Disney's The Mighty Ducks (green) jersey number font",
+        "instructions": "I have been trying for so long to figure out the fonts used on the jerseys from the first Mighty Ducks movie (unofficially \"D1\"",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1225788.png",
+        "identified_font": null
+    },
+    {
+        "task_id": "580095",
+        "url": "https://www.dafont.com/forum/read/580095/i-need-the-name-of-the-font-please-if-someone-knows",
+        "title": "I need the name of the font, please if someone knows",
+        "instructions": null,
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1225773.png",
+        "identified_font": null
     }
 ]
