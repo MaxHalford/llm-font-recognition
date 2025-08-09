@@ -37645,5 +37645,23 @@
         "candidate_font_3": "Univers Black Extended",
         "candidate_font_4": "Akzidenz-Grotesk Super",
         "candidate_font_5": "Trade Gothic Bold Extended No. 2"
+    },
+    {
+        "task_id": "580093",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Pixel Blackletter",
+        "candidate_font_2": "Digital Gothic",
+        "candidate_font_3": "8-Bit Blackletter",
+        "candidate_font_4": "Hexagonal Blackletter",
+        "candidate_font_5": "Cyberpunk Gothic"
+    },
+    {
+        "task_id": "580092",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Interstate Regular",
+        "candidate_font_2": "Highway Gothic",
+        "candidate_font_3": "Nimbus Sans L Regular",
+        "candidate_font_4": "Univers 55 Roman",
+        "candidate_font_5": "Akzidenz-Grotesk BQ Regular"
     }
 ]
