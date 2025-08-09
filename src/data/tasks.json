@@ -22317,7 +22317,7 @@
         "title": "THE FAREWELL TOUR FONT",
         "instructions": "NOMBRE DE LA FONT DE \"THE FAREWELL TOUR\".",
         "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1225832.png",
-        "identified_font": null
+        "identified_font": "Fandango"
     },
     {
         "task_id": "169430",
@@ -22357,7 +22357,7 @@
         "title": "Sonsio font please",
         "instructions": null,
         "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1225853.png",
-        "identified_font": null
+        "identified_font": "Bell"
     },
     {
         "task_id": "580121",
@@ -22397,7 +22397,7 @@
         "title": "help been looking all morning",
         "instructions": null,
         "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1225869.png",
-        "identified_font": null
+        "identified_font": "Straight"
     },
     {
         "task_id": "580127",
@@ -22446,5 +22446,53 @@
         "instructions": "Font of the game Kimetsu and Naruto Storm 4",
         "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1225857.png",
         "identified_font": "Reggae One"
+    },
+    {
+        "task_id": "580137",
+        "url": "https://www.dafont.com/forum/read/580137/etrdeset-pet-vitezova",
+        "title": "&#268;etrdeset pet vitezova",
+        "instructions": null,
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1225885.jpg",
+        "identified_font": null
+    },
+    {
+        "task_id": "580136",
+        "url": "https://www.dafont.com/forum/read/580136/what-s-this-font",
+        "title": "What's this font?",
+        "instructions": "The text says \"MONTAGEM RENICHT SUCO\"",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1225884.jpg",
+        "identified_font": null
+    },
+    {
+        "task_id": "580135",
+        "url": "https://www.dafont.com/forum/read/580135/ptica-bez-krila",
+        "title": "Ptica bez krila",
+        "instructions": null,
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1225883.jpg",
+        "identified_font": null
+    },
+    {
+        "task_id": "580134",
+        "url": "https://www.dafont.com/forum/read/580134/can-anyone-help-me-find-this-font-please",
+        "title": "Can anyone help me find this font please?",
+        "instructions": "Hello,",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1225882.jpg",
+        "identified_font": null
+    },
+    {
+        "task_id": "580132",
+        "url": "https://www.dafont.com/forum/read/580132/matko-pei-skitnje",
+        "title": "Matko Pei&#263; - Skitnje",
+        "instructions": null,
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1225879.png",
+        "identified_font": null
+    },
+    {
+        "task_id": "580131",
+        "url": "https://www.dafont.com/forum/read/580131/brodolomnici",
+        "title": "Brodolomnici",
+        "instructions": null,
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1225875.jpg",
+        "identified_font": null
     }
 ]
