@@ -37681,5 +37681,23 @@
         "candidate_font_3": "SF Collegiate Solid",
         "candidate_font_4": "Freshman",
         "candidate_font_5": "College Block"
+    },
+    {
+        "task_id": "580099",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "IBM Plex Sans Black",
+        "candidate_font_2": "Inter Black",
+        "candidate_font_3": "Open Sans Extrabold",
+        "candidate_font_4": "Gotham Black",
+        "candidate_font_5": "Montserrat Black"
+    },
+    {
+        "task_id": "580098",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Impact",
+        "candidate_font_2": "Anton",
+        "candidate_font_3": "Bigniz",
+        "candidate_font_4": "Bebas Kai",
+        "candidate_font_5": "Univers Black Extended"
     }
 ]
