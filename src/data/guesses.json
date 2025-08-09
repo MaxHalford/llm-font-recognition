@@ -37735,5 +37735,41 @@
         "candidate_font_3": "The Skinny",
         "candidate_font_4": "Amatic SC",
         "candidate_font_5": "Simple Rae"
+    },
+    {
+        "task_id": "580118",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Cochin",
+        "candidate_font_2": "ITC Fenice",
+        "candidate_font_3": "Trajan Pro",
+        "candidate_font_4": "Centaur",
+        "candidate_font_5": "Palatino"
+    },
+    {
+        "task_id": "169430",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Arial",
+        "candidate_font_2": "Verdana",
+        "candidate_font_3": "Tahoma",
+        "candidate_font_4": "Helvetica",
+        "candidate_font_5": "Segoe UI"
+    },
+    {
+        "task_id": "580117",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Poppins Black",
+        "candidate_font_2": "Gotham Black",
+        "candidate_font_3": "Montserrat Black",
+        "candidate_font_4": "Open Sans Extrabold",
+        "candidate_font_5": "Lato Black"
+    },
+    {
+        "task_id": "580116",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Blade 2",
+        "candidate_font_2": "Montserrat Bold",
+        "candidate_font_3": "Avengeance",
+        "candidate_font_4": "Gotham Bold",
+        "candidate_font_5": "Valiant"
     }
 ]
