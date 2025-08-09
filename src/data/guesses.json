@@ -37798,5 +37798,68 @@
         "candidate_font_3": "Univers 65 Bold",
         "candidate_font_4": "Akzidenz-Grotesk Bold",
         "candidate_font_5": "Trade Gothic Bold"
+    },
+    {
+        "task_id": "580130",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Glamor",
+        "candidate_font_2": "Didot",
+        "candidate_font_3": "Bodoni",
+        "candidate_font_4": "Playfair Display",
+        "candidate_font_5": "Butler"
+    },
+    {
+        "task_id": "580129",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Beach Ball",
+        "candidate_font_2": "Shorelines Script",
+        "candidate_font_3": "Lemon Tuesday",
+        "candidate_font_4": "Grand Hotel",
+        "candidate_font_5": "Pacifico"
+    },
+    {
+        "task_id": "580127",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Pump Up The Volume JNL",
+        "candidate_font_2": "Balloon",
+        "candidate_font_3": "Bubblegum Sans",
+        "candidate_font_4": "Gelly",
+        "candidate_font_5": "Arial Narrow Bold Italic"
+    },
+    {
+        "task_id": "580128",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Vanta",
+        "candidate_font_2": "Better Together",
+        "candidate_font_3": "Geom Sans",
+        "candidate_font_4": "Amsterdam Two",
+        "candidate_font_5": "Magnolia Sky"
+    },
+    {
+        "task_id": "542173",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Compacta Bold",
+        "candidate_font_2": "Eurostile Extended Bold",
+        "candidate_font_3": "Trade Gothic Extended Bold",
+        "candidate_font_4": "Akzidenz-Grotesk Extended Bold",
+        "candidate_font_5": "Impact"
+    },
+    {
+        "task_id": "580125",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Titillium Web Bold",
+        "candidate_font_2": "Exo 2 Bold",
+        "candidate_font_3": "Orbitron Bold",
+        "candidate_font_4": "Quantico Bold",
+        "candidate_font_5": "Aldrich"
+    },
+    {
+        "task_id": "580124",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Brush King",
+        "candidate_font_2": "Southmost",
+        "candidate_font_3": "Wildcat Script",
+        "candidate_font_4": "Better Together",
+        "candidate_font_5": "Mightype"
     }
 ]
