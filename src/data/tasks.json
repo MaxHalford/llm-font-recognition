@@ -8237,7 +8237,7 @@
         "title": "Font, please.",
         "instructions": null,
         "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1221248.png?1",
-        "identified_font": null
+        "identified_font": "Afterglow"
     },
     {
         "task_id": "577908",
@@ -22133,7 +22133,7 @@
         "title": "Hello, can someone please help me identify the ampersand in the photo?",
         "instructions": "Hello, can someone please help me identify the ampersand in the photo?",
         "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1225756.jpg",
-        "identified_font": null
+        "identified_font": "Romantic Rhapsody"
     },
     {
         "task_id": "580087",
@@ -22230,5 +22230,85 @@
         "instructions": null,
         "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1225796.png",
         "identified_font": null
+    },
+    {
+        "task_id": "580110",
+        "url": "https://www.dafont.com/forum/read/580110/barbour-and-beacon-est-1894",
+        "title": "Barbour and beacon est 1894?",
+        "instructions": null,
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1225822.jpg",
+        "identified_font": null
+    },
+    {
+        "task_id": "580109",
+        "url": "https://www.dafont.com/forum/read/580109/napul-e-font-please",
+        "title": "\u0093Napul\u0092 \u00e8\u0094 font please",
+        "instructions": null,
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1225820.jpg",
+        "identified_font": null
+    },
+    {
+        "task_id": "580107",
+        "url": "https://www.dafont.com/forum/read/580107/premisljanja",
+        "title": "Premi\u009aljanja",
+        "instructions": null,
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1225808.png",
+        "identified_font": "Gothic 725"
+    },
+    {
+        "task_id": "580108",
+        "url": "https://www.dafont.com/forum/read/580108/glinda",
+        "title": "Glinda",
+        "instructions": "can you help me to find this font?!",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1225818.jpg",
+        "identified_font": null
+    },
+    {
+        "task_id": "580100",
+        "url": "https://www.dafont.com/forum/read/580100/name-of-the-font-help-please",
+        "title": "Name of the font?? Help please",
+        "instructions": null,
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1225800.jpg",
+        "identified_font": "Filosofia"
+    },
+    {
+        "task_id": "580102",
+        "url": "https://www.dafont.com/forum/read/580102/name-of-the-font-help-please",
+        "title": "Name of the font?? Help please",
+        "instructions": null,
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1225803.jpg",
+        "identified_font": "Mockine"
+    },
+    {
+        "task_id": "580103",
+        "url": "https://www.dafont.com/forum/read/580103/name-of-the-font-help-please",
+        "title": "Name of the font?? Help please",
+        "instructions": null,
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1225804.jpg",
+        "identified_font": "Josemima"
+    },
+    {
+        "task_id": "580101",
+        "url": "https://www.dafont.com/forum/read/580101/name-of-the-font-help-please",
+        "title": "Name of the font?? Help please",
+        "instructions": null,
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1225801.jpg",
+        "identified_font": null
+    },
+    {
+        "task_id": "580106",
+        "url": "https://www.dafont.com/forum/read/580106/name-of-the-font-help-please",
+        "title": "Name of the font?? Help please",
+        "instructions": null,
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1225807.jpg",
+        "identified_font": "Fox in the snow"
+    },
+    {
+        "task_id": "580104",
+        "url": "https://www.dafont.com/forum/read/580104/name-of-the-font-help-please",
+        "title": "Name of the font?? Help please",
+        "instructions": null,
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1225805.jpg",
+        "identified_font": "Tiffany Script"
     }
 ]
