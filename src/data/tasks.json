@@ -22061,7 +22061,7 @@
         "title": "Font, please. &#128591;&#127996;",
         "instructions": null,
         "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1225735.jpg",
-        "identified_font": null
+        "identified_font": "Fragile  "
     },
     {
         "task_id": "296054",
@@ -22085,7 +22085,7 @@
         "title": "zinda",
         "instructions": null,
         "img_url": "https://www.dafont.com/forum/attach/orig/6/2/628510.png?1",
-        "identified_font": null
+        "identified_font": "Astonished"
     },
     {
         "task_id": "280073",
@@ -22165,6 +22165,30 @@
         "title": "Please what is this font",
         "instructions": "hello,",
         "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1225746.png",
+        "identified_font": null
+    },
+    {
+        "task_id": "580094",
+        "url": "https://www.dafont.com/forum/read/580094/big-brother",
+        "title": "Big Brother",
+        "instructions": null,
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1225770.jpg",
+        "identified_font": "Groovy Script"
+    },
+    {
+        "task_id": "580093",
+        "url": "https://www.dafont.com/forum/read/580093/font-please",
+        "title": "font please",
+        "instructions": null,
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1225769.png",
+        "identified_font": null
+    },
+    {
+        "task_id": "580092",
+        "url": "https://www.dafont.com/forum/read/580092/font-please",
+        "title": "Font, please. &#128591;&#127996;",
+        "instructions": null,
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1225767.jpg",
         "identified_font": null
     }
 ]
