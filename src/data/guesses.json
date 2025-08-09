@@ -37663,5 +37663,23 @@
         "candidate_font_3": "Nimbus Sans L Regular",
         "candidate_font_4": "Univers 55 Roman",
         "candidate_font_5": "Akzidenz-Grotesk BQ Regular"
+    },
+    {
+        "task_id": "580097",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "SF Collegiate Solid",
+        "candidate_font_2": "Team Spirit",
+        "candidate_font_3": "Jersey M54",
+        "candidate_font_4": "Varsity Regular",
+        "candidate_font_5": "College Boy"
+    },
+    {
+        "task_id": "580095",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Varsity Team",
+        "candidate_font_2": "Octin Sports",
+        "candidate_font_3": "SF Collegiate Solid",
+        "candidate_font_4": "Freshman",
+        "candidate_font_5": "College Block"
     }
 ]
