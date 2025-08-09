@@ -22245,7 +22245,7 @@
         "title": "\u0093Napul\u0092 \u00e8\u0094 font please",
         "instructions": null,
         "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1225820.jpg",
-        "identified_font": null
+        "identified_font": "Genty"
     },
     {
         "task_id": "580107",
@@ -22342,5 +22342,37 @@
         "instructions": "ZAH1DE - Kotti d'Azur",
         "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1225828.jpg",
         "identified_font": null
+    },
+    {
+        "task_id": "489462",
+        "url": "https://www.dafont.com/forum/read/489462/does-anyone-know-what-font-is-this-or-something-similar",
+        "title": "Does anyone know what font is this or something similar",
+        "instructions": "It's said trap united",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/0/1041169.jpg",
+        "identified_font": null
+    },
+    {
+        "task_id": "580122",
+        "url": "https://www.dafont.com/forum/read/580122/sonsio-font-please",
+        "title": "Sonsio font please",
+        "instructions": null,
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1225853.png",
+        "identified_font": null
+    },
+    {
+        "task_id": "580121",
+        "url": "https://www.dafont.com/forum/read/580121/xerox-font",
+        "title": "XEROX Font",
+        "instructions": null,
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1225849.png",
+        "identified_font": null
+    },
+    {
+        "task_id": "580119",
+        "url": "https://www.dafont.com/forum/read/580119/need-help-please",
+        "title": "Need Help Please.",
+        "instructions": null,
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1225843.png",
+        "identified_font": "SD Prostreet"
     }
 ]
