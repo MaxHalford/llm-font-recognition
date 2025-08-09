@@ -22310,5 +22310,37 @@
         "instructions": null,
         "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1225805.jpg",
         "identified_font": "Tiffany Script"
+    },
+    {
+        "task_id": "580118",
+        "url": "https://www.dafont.com/forum/read/580118/the-farewell-tour-font",
+        "title": "THE FAREWELL TOUR FONT",
+        "instructions": "NOMBRE DE LA FONT DE \"THE FAREWELL TOUR\".",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1225832.png",
+        "identified_font": null
+    },
+    {
+        "task_id": "169430",
+        "url": "https://www.dafont.com/forum/read/169430/microsoft-windows-95-typeface",
+        "title": "Microsoft Windows 95 typeface?",
+        "instructions": "Does anyone know the family of typeface the old Microsoft logo belongs to?",
+        "img_url": "https://www.dafont.com/forum/attach/orig/3/9/394396.png",
+        "identified_font": null
+    },
+    {
+        "task_id": "580117",
+        "url": "https://www.dafont.com/forum/read/580117/font-name-please",
+        "title": "FONT NAME PLEASE???",
+        "instructions": null,
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1225829.jpg",
+        "identified_font": null
+    },
+    {
+        "task_id": "580116",
+        "url": "https://www.dafont.com/forum/read/580116/zah1de-kotti-d-azur",
+        "title": "ZAH1DE - Kotti d'Azur",
+        "instructions": "ZAH1DE - Kotti d'Azur",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1225828.jpg",
+        "identified_font": null
     }
 ]
