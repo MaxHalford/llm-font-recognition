@@ -37861,5 +37861,59 @@
         "candidate_font_3": "Wildcat Script",
         "candidate_font_4": "Better Together",
         "candidate_font_5": "Mightype"
+    },
+    {
+        "task_id": "580137",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "TT Commons Bold",
+        "candidate_font_2": "TT Commons Black",
+        "candidate_font_3": "Avenir Next LT Pro Bold",
+        "candidate_font_4": "Avenir Next LT Pro Black",
+        "candidate_font_5": "Montserrat ExtraBold"
+    },
+    {
+        "task_id": "580136",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Ruthless",
+        "candidate_font_2": "Bombing",
+        "candidate_font_3": "Vandalism",
+        "candidate_font_4": "Chicano",
+        "candidate_font_5": "Whoa!"
+    },
+    {
+        "task_id": "580135",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Akzidenz-Grotesk Extended",
+        "candidate_font_2": "Trade Gothic Bold Extended",
+        "candidate_font_3": "Folio Bold Extended",
+        "candidate_font_4": "Univers 75 Black Extended",
+        "candidate_font_5": "Monotype Grotesque No. 9 Extended"
+    },
+    {
+        "task_id": "580134",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "LHF Ambrosia",
+        "candidate_font_2": "Requiem Display",
+        "candidate_font_3": "Queen of Camelot",
+        "candidate_font_4": "PF Regal Display",
+        "candidate_font_5": "Victorian Parlor"
+    },
+    {
+        "task_id": "580132",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Woodcutter Whiskey",
+        "candidate_font_2": "Alamo",
+        "candidate_font_3": "Mesquite Std",
+        "candidate_font_4": "Wanted (Distressed)",
+        "candidate_font_5": "Goudy Old Style"
+    },
+    {
+        "task_id": "580131",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Trade Gothic Condensed No. 20",
+        "candidate_font_2": "Franklin Gothic Condensed",
+        "candidate_font_3": "Impact",
+        "candidate_font_4": "Akzidenz-Grotesk Bold",
+        "candidate_font_5": "Great Vibes"
     }
 ]
