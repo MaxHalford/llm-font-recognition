@@ -37699,5 +37699,41 @@
         "candidate_font_3": "Bigniz",
         "candidate_font_4": "Bebas Kai",
         "candidate_font_5": "Univers Black Extended"
+    },
+    {
+        "task_id": "580110",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Gotham Bold",
+        "candidate_font_2": "Montserrat Bold",
+        "candidate_font_3": "Grand Hotel",
+        "candidate_font_4": "Pacifico",
+        "candidate_font_5": "Lobster"
+    },
+    {
+        "task_id": "580109",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Funkies Script",
+        "candidate_font_2": "Press Gothic",
+        "candidate_font_3": "Funkydori",
+        "candidate_font_4": "Square 721 Std Cn Bold",
+        "candidate_font_5": "The Breakaways"
+    },
+    {
+        "task_id": "580108",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Glinda Script",
+        "candidate_font_2": "Magnolia Sky",
+        "candidate_font_3": "The Beautiful Lyla",
+        "candidate_font_4": "Lovely Home",
+        "candidate_font_5": "Adora Bouton"
+    },
+    {
+        "task_id": "580101",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Kind Heart",
+        "candidate_font_2": "Better Grade",
+        "candidate_font_3": "The Skinny",
+        "candidate_font_4": "Amatic SC",
+        "candidate_font_5": "Simple Rae"
     }
 ]
