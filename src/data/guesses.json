@@ -38158,5 +38158,131 @@
         "candidate_font_3": "Didot Display",
         "candidate_font_4": "Bodoni Poster",
         "candidate_font_5": "Requiem"
+    },
+    {
+        "task_id": "580188",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Revue (Harold's Fonts)",
+        "candidate_font_2": "Playbill",
+        "candidate_font_3": "Stagecoach (Harold's Fonts)",
+        "candidate_font_4": "Mesquite",
+        "candidate_font_5": "Colt (Harold's Fonts)"
+    },
+    {
+        "task_id": "580187",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Old English Text MT",
+        "candidate_font_2": "Vampiress",
+        "candidate_font_3": "Pagan Winter",
+        "candidate_font_4": "Augusta",
+        "candidate_font_5": "Dragonwick"
+    },
+    {
+        "task_id": "580186",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Death Rattle",
+        "candidate_font_2": "Prototype",
+        "candidate_font_3": "Hard Grunges",
+        "candidate_font_4": "American Lemon",
+        "candidate_font_5": "Heavy G"
+    },
+    {
+        "task_id": "580185",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Samurai",
+        "candidate_font_2": "Slasher Flick",
+        "candidate_font_3": "Broken Brush",
+        "candidate_font_4": "Chopstick",
+        "candidate_font_5": "Grind and Grab"
+    },
+    {
+        "task_id": "580184",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Domaine Display",
+        "candidate_font_2": "Montserrat",
+        "candidate_font_3": "Open Sans",
+        "candidate_font_4": "Inter",
+        "candidate_font_5": "Poppins"
+    },
+    {
+        "task_id": "580183",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Montserrat",
+        "candidate_font_2": "Proxima Nova",
+        "candidate_font_3": "Nunito",
+        "candidate_font_4": "Gotham",
+        "candidate_font_5": "Lato"
+    },
+    {
+        "task_id": "580182",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Nunito Sans",
+        "candidate_font_2": "Roboto",
+        "candidate_font_3": "Maison Neue",
+        "candidate_font_4": "",
+        "candidate_font_5": ""
+    },
+    {
+        "task_id": "580181",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Gontle Script",
+        "candidate_font_2": "Montserrat",
+        "candidate_font_3": "Lato",
+        "candidate_font_4": "Poppins",
+        "candidate_font_5": "Magista Script"
+    },
+    {
+        "task_id": "580180",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Lato",
+        "candidate_font_2": "Stardos Stencil",
+        "candidate_font_3": "Inter",
+        "candidate_font_4": "Roboto",
+        "candidate_font_5": "Open Sans"
+    },
+    {
+        "task_id": "580179",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Nunito Sans",
+        "candidate_font_2": "Montserrat",
+        "candidate_font_3": "Inter",
+        "candidate_font_4": "Figtree",
+        "candidate_font_5": "Lato"
+    },
+    {
+        "task_id": "580178",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Cremona Display",
+        "candidate_font_2": "Gotham Black",
+        "candidate_font_3": "Gotham Book",
+        "candidate_font_4": "Roboto",
+        "candidate_font_5": null
+    },
+    {
+        "task_id": "580177",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Montserrat",
+        "candidate_font_2": "Open Sans",
+        "candidate_font_3": "Lato",
+        "candidate_font_4": "Roboto",
+        "candidate_font_5": "Source Sans Pro"
+    },
+    {
+        "task_id": "580175",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Madelyn",
+        "candidate_font_2": "Samantha Script",
+        "candidate_font_3": "Great Vibes",
+        "candidate_font_4": "Allura",
+        "candidate_font_5": "Pacifico"
+    },
+    {
+        "task_id": "580174",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Custom Roblox 2006 Logo Typeface",
+        "candidate_font_2": "Roblox 2006 (Fan-made recreation)",
+        "candidate_font_3": "Ponyo Express",
+        "candidate_font_4": "Burbank Big Condensed Bold Italic",
+        "candidate_font_5": "Exo 2.0 Black Italic"
     }
 ]
