@@ -22541,7 +22541,7 @@
         "title": "Font help please",
         "instructions": null,
         "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1225910.png",
-        "identified_font": null
+        "identified_font": "Monotype Corsiva"
     },
     {
         "task_id": "580148",
@@ -22557,7 +22557,7 @@
         "title": "SIMOSA font name?",
         "instructions": null,
         "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1225903.png",
-        "identified_font": null
+        "identified_font": "Lostar"
     },
     {
         "task_id": "580145",
@@ -22581,6 +22581,46 @@
         "title": "ONE MONTH FONT",
         "instructions": "Font name please???????????????????????????????",
         "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1225899.jpg",
+        "identified_font": "Mary Kate"
+    },
+    {
+        "task_id": "580156",
+        "url": "https://www.dafont.com/forum/read/580156/name-font-please",
+        "title": "Name Font please",
+        "instructions": "Help me, is from Absolute Batman #10",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1225923.png?1",
+        "identified_font": null
+    },
+    {
+        "task_id": "580155",
+        "url": "https://www.dafont.com/forum/read/580155/gol-logo-font",
+        "title": "Gol logo Font?",
+        "instructions": "I've been looking for this font for a while but I can't find one that's exact or very similar to the original. If you find one, please tell me.",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1225920.png",
+        "identified_font": null
+    },
+    {
+        "task_id": "580153",
+        "url": "https://www.dafont.com/forum/read/580153/name-font-please",
+        "title": "Name Font please",
+        "instructions": "Is from Absolute Batman #10",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1225918.jpg",
+        "identified_font": null
+    },
+    {
+        "task_id": "580152",
+        "url": "https://www.dafont.com/forum/read/580152/fonte-urgenteeeeeeeeeeeeeeeeeeeeeeeeeeeeee",
+        "title": "Fonte URGENTEEEEEEEEEEEEEEEEEEEEEEEEEEEEEE...!!!",
+        "instructions": "\"TALITA MEL\" fonteeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1225917.jpg",
+        "identified_font": null
+    },
+    {
+        "task_id": "580151",
+        "url": "https://www.dafont.com/forum/read/580151/fonte-urgenteeeeeeeeeeeeeeeeeeeeeeeeeeeeee",
+        "title": "Fonte URGENTEEEEEEEEEEEEEEEEEEEEEEEEEEEEEE...!!!",
+        "instructions": "\"TALITA MEL\" \"NA BATIDA DO SEU CORA\u00c7\u00c3O!\" fonteeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1225916.jpg",
         "identified_font": null
     }
 ]
