@@ -37942,5 +37942,14 @@
         "candidate_font_3": "Streamster",
         "candidate_font_4": "Road Rage",
         "candidate_font_5": "Billion Dreams"
+    },
+    {
+        "task_id": "580142",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Veles",
+        "candidate_font_2": "Perun",
+        "candidate_font_3": "Old Slavonic",
+        "candidate_font_4": "Druzhba",
+        "candidate_font_5": "Cyrillic Gothic"
     }
 ]
