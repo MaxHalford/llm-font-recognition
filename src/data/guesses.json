@@ -38077,5 +38077,86 @@
         "candidate_font_3": "SF Collegiate",
         "candidate_font_4": "Bank Gothic Medium",
         "candidate_font_5": "Anton"
+    },
+    {
+        "task_id": "580172",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Penalty 2016",
+        "candidate_font_2": "EC Bahia 2016",
+        "candidate_font_3": "Bebas Neue",
+        "candidate_font_4": "Anton",
+        "candidate_font_5": "Sporting Grotesque"
+    },
+    {
+        "task_id": "580171",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "VAG Rounded",
+        "candidate_font_2": "Gotham Rounded",
+        "candidate_font_3": "Avenir Next Rounded",
+        "candidate_font_4": "DIN Next Rounded",
+        "candidate_font_5": "Montserrat"
+    },
+    {
+        "task_id": "580170",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Interstate",
+        "candidate_font_2": "Trade Gothic Extended",
+        "candidate_font_3": "Bureau Grot",
+        "candidate_font_4": "Futura Bold",
+        "candidate_font_5": "Spartan Bold"
+    },
+    {
+        "task_id": "580169",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Impact Label Reversed",
+        "candidate_font_2": "Impact",
+        "candidate_font_3": "Anton",
+        "candidate_font_4": "Ultra",
+        "candidate_font_5": "Compacta Bold"
+    },
+    {
+        "task_id": "580168",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "DeepLick",
+        "candidate_font_2": "QuickKiss",
+        "candidate_font_3": "Goofball",
+        "candidate_font_4": "Spudnik",
+        "candidate_font_5": "Bubblegum"
+    },
+    {
+        "task_id": "580167",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "CalliGothic",
+        "candidate_font_2": "Goudy Text MT",
+        "candidate_font_3": "Cloister Black",
+        "candidate_font_4": "Old English Text MT",
+        "candidate_font_5": "Fette Fraktur"
+    },
+    {
+        "task_id": "580165",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Eurostile Extended Black",
+        "candidate_font_2": "Bank Gothic Medium",
+        "candidate_font_3": "Impact",
+        "candidate_font_4": "Audiowide",
+        "candidate_font_5": "SF Collegiate"
+    },
+    {
+        "task_id": "580163",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Bubblegum Sans",
+        "candidate_font_2": "Fredoka One",
+        "candidate_font_3": "Chewy",
+        "candidate_font_4": "Luckiest Guy",
+        "candidate_font_5": "Baloo 2"
+    },
+    {
+        "task_id": "580162",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Loverine",
+        "candidate_font_2": "Phantom Serif",
+        "candidate_font_3": "Didot Display",
+        "candidate_font_4": "Bodoni Poster",
+        "candidate_font_5": "Requiem"
     }
 ]
