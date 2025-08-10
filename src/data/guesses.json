@@ -37915,5 +37915,32 @@
         "candidate_font_3": "Impact",
         "candidate_font_4": "Akzidenz-Grotesk Bold",
         "candidate_font_5": "Great Vibes"
+    },
+    {
+        "task_id": "580141",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Sports World Italic",
+        "candidate_font_2": "Impact Label Reverse Italic",
+        "candidate_font_3": "College Slab Serif Italic",
+        "candidate_font_4": "Arial Bold",
+        "candidate_font_5": "Helvetica Bold"
+    },
+    {
+        "task_id": "580140",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Top Speed",
+        "candidate_font_2": "SF Fedora",
+        "candidate_font_3": "Race Italic",
+        "candidate_font_4": "Laser Disco",
+        "candidate_font_5": "Aero Italic"
+    },
+    {
+        "task_id": "580139",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Kuro Bold Italic",
+        "candidate_font_2": "The Blacklist",
+        "candidate_font_3": "Streamster",
+        "candidate_font_4": "Road Rage",
+        "candidate_font_5": "Billion Dreams"
     }
 ]
