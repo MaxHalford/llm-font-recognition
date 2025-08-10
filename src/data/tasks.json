@@ -22749,7 +22749,7 @@
         "title": "Gothic flyer fonts",
         "instructions": "I'm looking for every fonts used in this flyer",
         "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1225977.jpg",
-        "identified_font": null
+        "identified_font": "Mariage"
     },
     {
         "task_id": "580186",
@@ -22845,6 +22845,62 @@
         "title": "ROBLOX's Early 2006 Logo.",
         "instructions": "Anyone know if there's a font for this logo? Thanks.",
         "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1225964.png",
+        "identified_font": null
+    },
+    {
+        "task_id": "580196",
+        "url": "https://www.dafont.com/forum/read/580196/what-is-this-font",
+        "title": "what is this font?",
+        "instructions": "Can you help me identify this font?",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1225990.jpg",
+        "identified_font": null
+    },
+    {
+        "task_id": "580195",
+        "url": "https://www.dafont.com/forum/read/580195/pls-help-me-what-font-is-this-i-been-trying-to-find-this-font-name",
+        "title": "pls help me what font is this? i been trying to find this font name",
+        "instructions": null,
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1225987.png",
+        "identified_font": null
+    },
+    {
+        "task_id": "580194",
+        "url": "https://www.dafont.com/forum/read/580194/ivan-katusi-osinjak",
+        "title": "Ivan Katu\u009ai&#263; - Osinjak",
+        "instructions": null,
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1225986.jpg",
+        "identified_font": null
+    },
+    {
+        "task_id": "580191",
+        "url": "https://www.dafont.com/forum/read/580191/font",
+        "title": "Font?",
+        "instructions": null,
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1225982.jpg",
+        "identified_font": "Aardvark Cafe"
+    },
+    {
+        "task_id": "580193",
+        "url": "https://www.dafont.com/forum/read/580193/font",
+        "title": "Font?",
+        "instructions": null,
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1225984.jpg",
+        "identified_font": null
+    },
+    {
+        "task_id": "580192",
+        "url": "https://www.dafont.com/forum/read/580192/good-skin-font",
+        "title": "'Good Skin' font?",
+        "instructions": null,
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1225983.jpg",
+        "identified_font": null
+    },
+    {
+        "task_id": "580190",
+        "url": "https://www.dafont.com/forum/read/580190/volkswagen-bora-jetta-font",
+        "title": "Volkswagen BORA/JETTA font",
+        "instructions": "I searched everywhere for this font but I couldn\u00b4t find an .svg or .ttf. Does anyone know a very similar font or the same one? Thanks",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1225981.jpg",
         "identified_font": null
     }
 ]
