@@ -38284,5 +38284,59 @@
         "candidate_font_3": "Ponyo Express",
         "candidate_font_4": "Burbank Big Condensed Bold Italic",
         "candidate_font_5": "Exo 2.0 Black Italic"
+    },
+    {
+        "task_id": "580196",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Big Noodle Titling",
+        "candidate_font_2": "League Gothic",
+        "candidate_font_3": "Oswald Bold",
+        "candidate_font_4": "Bebas Neue",
+        "candidate_font_5": "Impact"
+    },
+    {
+        "task_id": "580195",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Baloo 2 ExtraBold",
+        "candidate_font_2": "Chicle Regular",
+        "candidate_font_3": "VAG Rounded Std Bold",
+        "candidate_font_4": "Burbank Big Condensed Black",
+        "candidate_font_5": "Fredoka One"
+    },
+    {
+        "task_id": "580194",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Futura Extra Black",
+        "candidate_font_2": "Akzidenz-Grotesk Condensed Bold",
+        "candidate_font_3": "Mom's Typewriter",
+        "candidate_font_4": "Public Sans Black",
+        "candidate_font_5": "Trade Gothic LT Std Bold Condensed No 20"
+    },
+    {
+        "task_id": "580193",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Gobold Bold",
+        "candidate_font_2": "Montserrat Black",
+        "candidate_font_3": "Oswald Bold",
+        "candidate_font_4": "Bebas Neue Bold",
+        "candidate_font_5": "Impact"
+    },
+    {
+        "task_id": "580192",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Sofia Pro",
+        "candidate_font_2": "Quicksand",
+        "candidate_font_3": "Josefin Sans",
+        "candidate_font_4": "Circular Std",
+        "candidate_font_5": "Avenir Next LT Pro"
+    },
+    {
+        "task_id": "580190",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Gotham Black",
+        "candidate_font_2": "Montserrat Black",
+        "candidate_font_3": "Proxima Nova Black",
+        "candidate_font_4": "Avenir Next Heavy",
+        "candidate_font_5": "Inter Black"
     }
 ]
