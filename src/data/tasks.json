@@ -22435,7 +22435,7 @@
         "task_id": "580124",
         "url": "https://www.dafont.com/forum/read/580124/the-what-font",
         "title": "The What Font",
-        "instructions": "What is the name of this font?",
+        "instructions": "What is the name of this font? \u0093mam\u00e3e\u0094",
         "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1225859.png",
         "identified_font": null
     },
@@ -22493,6 +22493,38 @@
         "title": "Brodolomnici",
         "instructions": null,
         "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1225875.jpg",
+        "identified_font": null
+    },
+    {
+        "task_id": "580141",
+        "url": "https://www.dafont.com/forum/read/580141/please-help-font",
+        "title": "PLEASE HELP FONT",
+        "instructions": null,
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1225893.png",
+        "identified_font": null
+    },
+    {
+        "task_id": "580138",
+        "url": "https://www.dafont.com/forum/read/580138/help",
+        "title": "Help!",
+        "instructions": null,
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1225888.png",
+        "identified_font": "Showcard Gothic"
+    },
+    {
+        "task_id": "580140",
+        "url": "https://www.dafont.com/forum/read/580140/woh",
+        "title": "...woh",
+        "instructions": null,
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1225890.jpg",
+        "identified_font": null
+    },
+    {
+        "task_id": "580139",
+        "url": "https://www.dafont.com/forum/read/580139/36-town-font-name",
+        "title": "36 & town font name?",
+        "instructions": null,
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1225889.jpg",
         "identified_font": null
     }
 ]
