@@ -37951,5 +37951,59 @@
         "candidate_font_3": "Old Slavonic",
         "candidate_font_4": "Druzhba",
         "candidate_font_5": "Cyrillic Gothic"
+    },
+    {
+        "task_id": "580149",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Edwardian Script ITC",
+        "candidate_font_2": "Exmouth",
+        "candidate_font_3": "French Script MT",
+        "candidate_font_4": "Monotype Corsiva",
+        "candidate_font_5": "Zapf Chancery"
+    },
+    {
+        "task_id": "580148",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Bloody",
+        "candidate_font_2": "",
+        "candidate_font_3": "",
+        "candidate_font_4": "",
+        "candidate_font_5": ""
+    },
+    {
+        "task_id": "580146",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Groovy Mellow",
+        "candidate_font_2": "Recife",
+        "candidate_font_3": "Grovley",
+        "candidate_font_4": "Milk and Honey",
+        "candidate_font_5": "Mellow World"
+    },
+    {
+        "task_id": "580145",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Bickham Script Pro",
+        "candidate_font_2": "Kuenstler Script",
+        "candidate_font_3": "Ambrosia",
+        "candidate_font_4": "Edwardian Script ITC",
+        "candidate_font_5": "Feel Script"
+    },
+    {
+        "task_id": "580144",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Varsity Team",
+        "candidate_font_2": "Athletic Block",
+        "candidate_font_3": "SF Sports Night Shaded",
+        "candidate_font_4": "Jersey M54",
+        "candidate_font_5": "College Block"
+    },
+    {
+        "task_id": "580143",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Kids Story",
+        "candidate_font_2": "Burbank Big Bold",
+        "candidate_font_3": "Bubblegum Sans",
+        "candidate_font_4": "Luckiest Guy",
+        "candidate_font_5": "Chewy"
     }
 ]
