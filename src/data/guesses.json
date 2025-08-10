@@ -38005,5 +38005,50 @@
         "candidate_font_3": "Bubblegum Sans",
         "candidate_font_4": "Luckiest Guy",
         "candidate_font_5": "Chewy"
+    },
+    {
+        "task_id": "580156",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Komika Text Kaps",
+        "candidate_font_2": "Action Man",
+        "candidate_font_3": "CC Wild Words",
+        "candidate_font_4": "Anime Ace",
+        "candidate_font_5": "SF Wonder Comic"
+    },
+    {
+        "task_id": "580155",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Eurostile Extended Black Oblique",
+        "candidate_font_2": "Gotham Black Italic",
+        "candidate_font_3": "Univers 85 Extra Black Oblique",
+        "candidate_font_4": "Avenir Next Heavy Italic",
+        "candidate_font_5": "Titillium Web Black Italic"
+    },
+    {
+        "task_id": "580153",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Badaboom BB",
+        "candidate_font_2": "Komika Axis",
+        "candidate_font_3": "Action Is",
+        "candidate_font_4": "Mister Q BB",
+        "candidate_font_5": "Wild Words"
+    },
+    {
+        "task_id": "580152",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Ethnocentric",
+        "candidate_font_2": "Oxanium",
+        "candidate_font_3": "Quantico",
+        "candidate_font_4": "Montserrat",
+        "candidate_font_5": "Samantha"
+    },
+    {
+        "task_id": "580151",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Bebas Neue Bold",
+        "candidate_font_2": "Libre Baskerville",
+        "candidate_font_3": "Impact",
+        "candidate_font_4": "Oswald",
+        "candidate_font_5": "Source Serif Pro"
     }
 ]
