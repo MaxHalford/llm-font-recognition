@@ -38050,5 +38050,32 @@
         "candidate_font_3": "Impact",
         "candidate_font_4": "Oswald",
         "candidate_font_5": "Source Serif Pro"
+    },
+    {
+        "task_id": "580161",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Montserrat Bold",
+        "candidate_font_2": "Open Sans Bold",
+        "candidate_font_3": "Lato Bold",
+        "candidate_font_4": "Roboto Bold",
+        "candidate_font_5": "Poppins Bold"
+    },
+    {
+        "task_id": "580160",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Square Deal",
+        "candidate_font_2": "Anarchy",
+        "candidate_font_3": "Hard Edge",
+        "candidate_font_4": "Pricedown",
+        "candidate_font_5": "Acid House"
+    },
+    {
+        "task_id": "580159",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Compacta Bold",
+        "candidate_font_2": "Impact",
+        "candidate_font_3": "SF Collegiate",
+        "candidate_font_4": "Bank Gothic Medium",
+        "candidate_font_5": "Anton"
     }
 ]
