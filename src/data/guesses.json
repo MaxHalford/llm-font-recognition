@@ -38680,5 +38680,50 @@
         "candidate_font_3": "Pinyon Script",
         "candidate_font_4": "Alex Brush",
         "candidate_font_5": "Herr Von Muellerhoff"
+    },
+    {
+        "task_id": "580245",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Ponyville Slab",
+        "candidate_font_2": "Road Rage",
+        "candidate_font_3": "Bango Regular",
+        "candidate_font_4": "Good Morning Sunday",
+        "candidate_font_5": "Dirty Slab"
+    },
+    {
+        "task_id": "580243",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Industry Black Condensed",
+        "candidate_font_2": "Futura Extra Bold Condensed",
+        "candidate_font_3": "Agency FB Bold",
+        "candidate_font_4": "Bebas Neue Bold",
+        "candidate_font_5": "Impact"
+    },
+    {
+        "task_id": "580241",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Bubblegum Pop",
+        "candidate_font_2": "Chewy",
+        "candidate_font_3": "Komika Title",
+        "candidate_font_4": "Luckiest Guy",
+        "candidate_font_5": "Balloon XBd BT"
+    },
+    {
+        "task_id": "580239",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Go Bold",
+        "candidate_font_2": "Burbank Big Condensed",
+        "candidate_font_3": "Luckiest Guy",
+        "candidate_font_4": "Obelix Pro",
+        "candidate_font_5": "Impact"
+    },
+    {
+        "task_id": "580238",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "SF Collegiate",
+        "candidate_font_2": "Varsity Regular",
+        "candidate_font_3": "Pricedown",
+        "candidate_font_4": "New Athletic M54",
+        "candidate_font_5": "Gotham Rounded Black"
     }
 ]
