@@ -16916,8 +16916,8 @@
         "url": "https://www.dafont.com/forum/read/579335/font-extra",
         "title": "Font 'Extra'?",
         "instructions": null,
-        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1224165.jpg",
-        "identified_font": null
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1224165.png?1",
+        "identified_font": "Sharky"
     },
     {
         "task_id": "579334",
@@ -22004,7 +22004,7 @@
         "url": "https://www.dafont.com/forum/read/580074/font-please",
         "title": "Font, please. &#128591;&#127996;",
         "instructions": null,
-        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1225709.jpg",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1225709.png?1",
         "identified_font": null
     },
     {
@@ -23325,7 +23325,7 @@
         "title": "What font is this? Thanks!",
         "instructions": null,
         "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1226085.jpg",
-        "identified_font": null
+        "identified_font": "Pink Shark"
     },
     {
         "task_id": "580250",
@@ -23357,6 +23357,46 @@
         "title": "Polo Font please",
         "instructions": null,
         "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1226079.png",
+        "identified_font": null
+    },
+    {
+        "task_id": "580263",
+        "url": "https://www.dafont.com/forum/read/580263/please-find-this-font-name",
+        "title": "PLEASE FIND THIS FONT NAME???",
+        "instructions": null,
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1226115.jpg",
+        "identified_font": null
+    },
+    {
+        "task_id": "580259",
+        "url": "https://www.dafont.com/forum/read/580259/pero-zubac-razgovori",
+        "title": "Pero Zubac - Razgovori",
+        "instructions": null,
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1226109.jpg",
+        "identified_font": null
+    },
+    {
+        "task_id": "580262",
+        "url": "https://www.dafont.com/forum/read/580262/",
+        "title": "?",
+        "instructions": null,
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1226113.png",
+        "identified_font": null
+    },
+    {
+        "task_id": "580261",
+        "url": "https://www.dafont.com/forum/read/580261/please-help-me-find-this-font-d",
+        "title": "Please Help me find this font :D",
+        "instructions": "Please Help me find this font",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1226111.jpg",
+        "identified_font": "Berlin Sans Bold"
+    },
+    {
+        "task_id": "580260",
+        "url": "https://www.dafont.com/forum/read/580260/what-the-font",
+        "title": "What the font?",
+        "instructions": null,
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1226110.png",
         "identified_font": null
     }
 ]
