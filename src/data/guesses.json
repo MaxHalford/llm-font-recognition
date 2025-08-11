@@ -38446,5 +38446,68 @@
         "candidate_font_3": "Fox Classic",
         "candidate_font_4": "Futura Display",
         "candidate_font_5": "Bank Gothic"
+    },
+    {
+        "task_id": "580216",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Sofia Pro",
+        "candidate_font_2": "Product Sans",
+        "candidate_font_3": "Gilroy",
+        "candidate_font_4": "Proxima Nova",
+        "candidate_font_5": "Circular Std"
+    },
+    {
+        "task_id": "580215",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Lavanderia",
+        "candidate_font_2": "Pinyon Script",
+        "candidate_font_3": "Herr Von Muellerhoff",
+        "candidate_font_4": "Alex Brush",
+        "candidate_font_5": "Rouge Script"
+    },
+    {
+        "task_id": "580214",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "The Richline",
+        "candidate_font_2": "Loverica",
+        "candidate_font_3": "",
+        "candidate_font_4": "",
+        "candidate_font_5": ""
+    },
+    {
+        "task_id": "580213",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "KG Red Hands",
+        "candidate_font_2": "Permanent Marker",
+        "candidate_font_3": "Rock Salt",
+        "candidate_font_4": "Architects Daughter",
+        "candidate_font_5": "Just Me Again Down Here"
+    },
+    {
+        "task_id": "580212",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Metrolpolis",
+        "candidate_font_2": "SF Transrobotics",
+        "candidate_font_3": "Destroyer Font",
+        "candidate_font_4": "Cyberdyne",
+        "candidate_font_5": "Avengeance"
+    },
+    {
+        "task_id": "580211",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Gotham Black",
+        "candidate_font_2": "Nexa Heavy",
+        "candidate_font_3": "Montserrat Black",
+        "candidate_font_4": "Proxima Nova Black",
+        "candidate_font_5": "Brandon Grotesque Black"
+    },
+    {
+        "task_id": "580210",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Bromello",
+        "candidate_font_2": "Josefin Sans",
+        "candidate_font_3": "",
+        "candidate_font_4": "",
+        "candidate_font_5": ""
     }
 ]
