@@ -22940,8 +22940,8 @@
         "url": "https://www.dafont.com/forum/read/580207/does-anyone-know-these-fonts",
         "title": "Does anyone know these fonts?",
         "instructions": "Specially the ily:1 font, but both fontana is okey hehe, thank u! \u2661",
-        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1226019.jpg",
-        "identified_font": null
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1226019.png?2",
+        "identified_font": "Goldfish"
     },
     {
         "task_id": "580206",
@@ -23269,6 +23269,94 @@
         "title": "font",
         "instructions": null,
         "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1226064.jpg?2",
+        "identified_font": null
+    },
+    {
+        "task_id": "580255",
+        "url": "https://www.dafont.com/forum/read/580255/vine-city-supply-hardware",
+        "title": "Vine City Supply & Hardware",
+        "instructions": null,
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1226089.jpg",
+        "identified_font": "Calafia"
+    },
+    {
+        "task_id": "580253",
+        "url": "https://www.dafont.com/forum/read/580253/what-font-is-this-thanks",
+        "title": "What font is this? Thanks!",
+        "instructions": null,
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1226087.jpg",
+        "identified_font": "Bembo"
+    },
+    {
+        "task_id": "580258",
+        "url": "https://www.dafont.com/forum/read/580258/brazil",
+        "title": "BRAZIL",
+        "instructions": null,
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1226092.jpg",
+        "identified_font": null
+    },
+    {
+        "task_id": "580257",
+        "url": "https://www.dafont.com/forum/read/580257/chaeyoung",
+        "title": "Chaeyoung",
+        "instructions": null,
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1226091.jpg",
+        "identified_font": null
+    },
+    {
+        "task_id": "580256",
+        "url": "https://www.dafont.com/forum/read/580256/the-last-dinner-party-from-the-pyre",
+        "title": "The Last Dinner Party, From the Pyre",
+        "instructions": "I tried to find it, but I never found out which font they use.",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1226090.jpg",
+        "identified_font": null
+    },
+    {
+        "task_id": "580254",
+        "url": "https://www.dafont.com/forum/read/580254/total-drama-island-2023-credits-font",
+        "title": "Total Drama Island (2023) Credits font",
+        "instructions": "What kind of font do they use for the end credits of the total drama reboot?",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1226088.png",
+        "identified_font": null
+    },
+    {
+        "task_id": "580251",
+        "url": "https://www.dafont.com/forum/read/580251/what-font-is-this-thanks",
+        "title": "What font is this? Thanks!",
+        "instructions": null,
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1226085.jpg",
+        "identified_font": null
+    },
+    {
+        "task_id": "580250",
+        "url": "https://www.dafont.com/forum/read/580250/what-font-is-visual-studio-code-s-terminal-using-on-macos",
+        "title": "What font is Visual Studio Code\u0092s terminal using on macOS?",
+        "instructions": "Hi everyone,",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1226084.png",
+        "identified_font": null
+    },
+    {
+        "task_id": "580249",
+        "url": "https://www.dafont.com/forum/read/580249/what-font-is-google-chrome-using-on-macos",
+        "title": "What font is Google Chrome using on macOS?",
+        "instructions": "Hi everyone,",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1226083.png",
+        "identified_font": null
+    },
+    {
+        "task_id": "580246",
+        "url": "https://www.dafont.com/forum/read/580246/font-to-find",
+        "title": "font to find",
+        "instructions": "hi, i need to find this font from image.",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1226078.png",
+        "identified_font": "Crillee"
+    },
+    {
+        "task_id": "580247",
+        "url": "https://www.dafont.com/forum/read/580247/polo-font-please",
+        "title": "Polo Font please",
+        "instructions": null,
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1226079.png",
         "identified_font": null
     }
 ]
