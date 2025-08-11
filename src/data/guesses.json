@@ -38599,5 +38599,86 @@
         "candidate_font_3": "Compacta Black",
         "candidate_font_4": "Century Schoolbook Bold",
         "candidate_font_5": "Bookman Old Style Bold"
+    },
+    {
+        "task_id": "580232",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Compacta Bold",
+        "candidate_font_2": "Univers 67 Condensed Black",
+        "candidate_font_3": "Impact",
+        "candidate_font_4": "Franklin Gothic Heavy Condensed",
+        "candidate_font_5": "Bebas Neue"
+    },
+    {
+        "task_id": "580236",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Poppins Black",
+        "candidate_font_2": "The Bragade",
+        "candidate_font_3": "Poppins Regular",
+        "candidate_font_4": "Roboto Condensed",
+        "candidate_font_5": "Poppins Medium"
+    },
+    {
+        "task_id": "580235",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Roadgeek 2005 Series D",
+        "candidate_font_2": "DIN Next",
+        "candidate_font_3": "Univers",
+        "candidate_font_4": "Open Sans",
+        "candidate_font_5": "Roboto Condensed"
+    },
+    {
+        "task_id": "580234",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Porto Serif",
+        "candidate_font_2": "Glamora Display",
+        "candidate_font_3": "Giveny",
+        "candidate_font_4": "Noe Display",
+        "candidate_font_5": "TT Tsars"
+    },
+    {
+        "task_id": "580233",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Targa IT",
+        "candidate_font_2": "Licence Plate (Blue Vinyl Fonts)",
+        "candidate_font_3": "DIN 1451 Mittelschrift",
+        "candidate_font_4": "Euro Plate",
+        "candidate_font_5": "Motorway"
+    },
+    {
+        "task_id": "580231",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Codec Pro Heavy",
+        "candidate_font_2": "Bw Modelica Black",
+        "candidate_font_3": "Archivo Black",
+        "candidate_font_4": "Fredoka One",
+        "candidate_font_5": "Khand ExtraBold"
+    },
+    {
+        "task_id": "580230",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Raleway Hairline",
+        "candidate_font_2": "Raleway Thin",
+        "candidate_font_3": "Josefin Sans Thin",
+        "candidate_font_4": "Avenir Light",
+        "candidate_font_5": "Futura Light"
+    },
+    {
+        "task_id": "580229",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Helvetica",
+        "candidate_font_2": "Univers",
+        "candidate_font_3": "Folio",
+        "candidate_font_4": "Akzidenz-Grotesk",
+        "candidate_font_5": "Monotype Grotesque"
+    },
+    {
+        "task_id": "580228",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Great Vibes",
+        "candidate_font_2": "Allura",
+        "candidate_font_3": "Pinyon Script",
+        "candidate_font_4": "Alex Brush",
+        "candidate_font_5": "Herr Von Muellerhoff"
     }
 ]
