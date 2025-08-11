@@ -38509,5 +38509,95 @@
         "candidate_font_3": "",
         "candidate_font_4": "",
         "candidate_font_5": ""
+    },
+    {
+        "task_id": "580226",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Chubby Bubble",
+        "candidate_font_2": "Bubbly Love",
+        "candidate_font_3": "Cutie Bear",
+        "candidate_font_4": "Sweet Candy",
+        "candidate_font_5": "Bubblegum"
+    },
+    {
+        "task_id": "580225",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Mochiy Pop P One",
+        "candidate_font_2": "Great Vibes",
+        "candidate_font_3": "Allura",
+        "candidate_font_4": "Alex Brush",
+        "candidate_font_5": ""
+    },
+    {
+        "task_id": "580224",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Aero Matics Bold Italic",
+        "candidate_font_2": "Agency FB Italic",
+        "candidate_font_3": "Hyperspace Race",
+        "candidate_font_4": "BignoodleTitling Oblique",
+        "candidate_font_5": "Bank Gothic Medium Italic"
+    },
+    {
+        "task_id": "580223",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Octin Sports",
+        "candidate_font_2": "Octin Stencil",
+        "candidate_font_3": "Sports World",
+        "candidate_font_4": "United Sans Ext Heavy",
+        "candidate_font_5": "Industry"
+    },
+    {
+        "task_id": "580220",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Windsor Bold",
+        "candidate_font_2": "Bookman Old Style Bold",
+        "candidate_font_3": "ITC Cheltenham Ultra",
+        "candidate_font_4": "Clarendon Bold",
+        "candidate_font_5": "Memphis Bold"
+    },
+    {
+        "task_id": "580222",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Almibar Blackletter",
+        "candidate_font_2": "Angelic War",
+        "candidate_font_3": "Blackwood Castle",
+        "candidate_font_4": "Requiem",
+        "candidate_font_5": "Draconian"
+    },
+    {
+        "task_id": "580221",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Gathein",
+        "candidate_font_2": "Luxia",
+        "candidate_font_3": "Loverine",
+        "candidate_font_4": "Glamora",
+        "candidate_font_5": "Giveny"
+    },
+    {
+        "task_id": "580219",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Oswald Bold Italic",
+        "candidate_font_2": "Tw Cen MT Condensed Extra Bold Italic",
+        "candidate_font_3": "Agency FB Bold Italic",
+        "candidate_font_4": "Bebas Neue",
+        "candidate_font_5": "Roboto Condensed Bold Italic"
+    },
+    {
+        "task_id": "580218",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Final Destination",
+        "candidate_font_2": "Trajan Pro",
+        "candidate_font_3": "Augustea Regular",
+        "candidate_font_4": "Cinzel Decorative",
+        "candidate_font_5": "Requiem Text"
+    },
+    {
+        "task_id": "580217",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Franklin Gothic Heavy",
+        "candidate_font_2": "Impact",
+        "candidate_font_3": "Compacta Black",
+        "candidate_font_4": "Century Schoolbook Bold",
+        "candidate_font_5": "Bookman Old Style Bold"
     }
 ]
