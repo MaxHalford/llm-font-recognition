@@ -22821,7 +22821,7 @@
         "title": "alguem me ajuda? Fontes?",
         "instructions": null,
         "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1225968.jpg",
-        "identified_font": null
+        "identified_font": "Edwardian Script"
     },
     {
         "task_id": "580177",
@@ -22925,6 +22925,78 @@
         "title": "Font identification",
         "instructions": null,
         "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1225993.png",
+        "identified_font": null
+    },
+    {
+        "task_id": "580208",
+        "url": "https://www.dafont.com/forum/read/580208/what-is-this-font",
+        "title": "what is this font",
+        "instructions": null,
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1226020.png",
+        "identified_font": null
+    },
+    {
+        "task_id": "580207",
+        "url": "https://www.dafont.com/forum/read/580207/does-anyone-know-these-fonts",
+        "title": "Does anyone know these fonts?",
+        "instructions": "Specially the ily:1 font, but both fontana is okey hehe, thank u! \u2661",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1226019.jpg",
+        "identified_font": null
+    },
+    {
+        "task_id": "580206",
+        "url": "https://www.dafont.com/forum/read/580206/font-name-pls",
+        "title": "Font name pls :)",
+        "instructions": null,
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1226018.jpg",
+        "identified_font": null
+    },
+    {
+        "task_id": "580204",
+        "url": "https://www.dafont.com/forum/read/580204/font-name",
+        "title": "Font name?",
+        "instructions": null,
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1226015.png",
+        "identified_font": null
+    },
+    {
+        "task_id": "140353",
+        "url": "https://www.dafont.com/forum/read/140353/vouyer",
+        "title": "Vouyer ? ? ?",
+        "instructions": null,
+        "img_url": "https://www.dafont.com/forum/attach/orig/3/3/332887.jpg",
+        "identified_font": null
+    },
+    {
+        "task_id": "143351",
+        "url": "https://www.dafont.com/forum/read/143351/bag-girl",
+        "title": "BAG GIRL ? ? ?",
+        "instructions": null,
+        "img_url": "https://www.dafont.com/forum/attach/orig/3/3/339379.jpg",
+        "identified_font": null
+    },
+    {
+        "task_id": "580203",
+        "url": "https://www.dafont.com/forum/read/580203/font",
+        "title": "FONT?",
+        "instructions": "what font is this?",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1226008.jpg",
+        "identified_font": null
+    },
+    {
+        "task_id": "548444",
+        "url": "https://www.dafont.com/forum/read/548444/madonna-the-first-album",
+        "title": "Madonna \"The First Album\"",
+        "instructions": "Looking for matches for the \"The First Album\" text. Pretty sure the top one is Berling. Any help is appreciated!",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/1/1159774.png?1",
+        "identified_font": null
+    },
+    {
+        "task_id": "580201",
+        "url": "https://www.dafont.com/forum/read/580201/fox-2000-pictures-logo",
+        "title": "Fox 2000 Pictures logo",
+        "instructions": "What font is for Fox 2000 Pictures logo",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1226005.png",
         "identified_font": null
     }
 ]
