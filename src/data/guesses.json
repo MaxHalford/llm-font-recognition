@@ -38725,5 +38725,77 @@
         "candidate_font_3": "Pricedown",
         "candidate_font_4": "New Athletic M54",
         "candidate_font_5": "Gotham Rounded Black"
+    },
+    {
+        "task_id": "580258",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Beautyline Script",
+        "candidate_font_2": "The Billionaire",
+        "candidate_font_3": "Alentine Script",
+        "candidate_font_4": "Octavia Script",
+        "candidate_font_5": "Stay Grateful Script"
+    },
+    {
+        "task_id": "580257",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Old English Text MT",
+        "candidate_font_2": "Cloister Black",
+        "candidate_font_3": "Fette Fraktur",
+        "candidate_font_4": "Engravers Old English",
+        "candidate_font_5": "Deutsche Zierschrift"
+    },
+    {
+        "task_id": "580256",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Celesta",
+        "candidate_font_2": "Wicked Ways",
+        "candidate_font_3": "Draconian Type",
+        "candidate_font_4": "Black Chancery",
+        "candidate_font_5": "Angelico"
+    },
+    {
+        "task_id": "580254",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "VAG Rounded",
+        "candidate_font_2": "",
+        "candidate_font_3": "",
+        "candidate_font_4": "",
+        "candidate_font_5": ""
+    },
+    {
+        "task_id": "580251",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Gloria Hallelujah",
+        "candidate_font_2": "Kalam",
+        "candidate_font_3": "Coming Soon",
+        "candidate_font_4": "Architects Daughter",
+        "candidate_font_5": "Caveat"
+    },
+    {
+        "task_id": "580250",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Menlo",
+        "candidate_font_2": "SF Mono",
+        "candidate_font_3": "Fira Code",
+        "candidate_font_4": "Cascadia Code",
+        "candidate_font_5": "JetBrains Mono"
+    },
+    {
+        "task_id": "580249",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "San Francisco",
+        "candidate_font_2": "SF Mono",
+        "candidate_font_3": "Menlo",
+        "candidate_font_4": "Helvetica Neue",
+        "candidate_font_5": "Roboto"
+    },
+    {
+        "task_id": "580247",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Magnolia Sky",
+        "candidate_font_2": "Beautiful Bloom",
+        "candidate_font_3": "Hello Beautiful",
+        "candidate_font_4": "Great Vibes",
+        "candidate_font_5": "Pacifico"
     }
 ]
