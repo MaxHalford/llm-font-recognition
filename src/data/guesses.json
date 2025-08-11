@@ -38365,5 +38365,86 @@
         "candidate_font_3": "Lava Lamp",
         "candidate_font_4": "Liquid Gold",
         "candidate_font_5": "Blobber"
+    },
+    {
+        "task_id": "580208",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "ITC Benguiat",
+        "candidate_font_2": "Windsor",
+        "candidate_font_3": "Cooper Black",
+        "candidate_font_4": "Souvenir",
+        "candidate_font_5": "Arnold B\u00f6cklin"
+    },
+    {
+        "task_id": "580207",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Better Saturday",
+        "candidate_font_2": "Gascogne Serial Regular",
+        "candidate_font_3": "Lovely Feelings",
+        "candidate_font_4": "Playfair Display",
+        "candidate_font_5": "The Wild Things"
+    },
+    {
+        "task_id": "580206",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "The Graffiti Font",
+        "candidate_font_2": "Bombing",
+        "candidate_font_3": "Tags Xtreme",
+        "candidate_font_4": "Misdemeanor",
+        "candidate_font_5": "Throwup"
+    },
+    {
+        "task_id": "580204",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Badaboom BB",
+        "candidate_font_2": "Komika Title",
+        "candidate_font_3": "Bangers",
+        "candidate_font_4": "Luckiest Guy",
+        "candidate_font_5": "Action Man"
+    },
+    {
+        "task_id": "140353",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Metal Mania",
+        "candidate_font_2": "Death Rattle",
+        "candidate_font_3": "Aggressive Attack",
+        "candidate_font_4": "Sickness",
+        "candidate_font_5": "Crusader"
+    },
+    {
+        "task_id": "143351",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Bad Girl",
+        "candidate_font_2": "Anarchy",
+        "candidate_font_3": "Shlop",
+        "candidate_font_4": "You Murderer",
+        "candidate_font_5": "Horror Squad"
+    },
+    {
+        "task_id": "580203",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Alien Encounters Inline",
+        "candidate_font_2": "Transform by Iconian Fonts",
+        "candidate_font_3": "Saber Inline by Iconian Fonts",
+        "candidate_font_4": "Montserrat Italic",
+        "candidate_font_5": "Exo 2 Bold"
+    },
+    {
+        "task_id": "548444",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Bembo",
+        "candidate_font_2": "Monotype Garamond",
+        "candidate_font_3": "Adobe Garamond Pro",
+        "candidate_font_4": "Sabon",
+        "candidate_font_5": ""
+    },
+    {
+        "task_id": "580201",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Fox 2000",
+        "candidate_font_2": "Twentieth Century Fox",
+        "candidate_font_3": "Fox Classic",
+        "candidate_font_4": "Futura Display",
+        "candidate_font_5": "Bank Gothic"
     }
 ]
