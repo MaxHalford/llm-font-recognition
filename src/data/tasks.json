@@ -22933,7 +22933,7 @@
         "title": "what is this font",
         "instructions": null,
         "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1226020.png",
-        "identified_font": null
+        "identified_font": "Gaueko"
     },
     {
         "task_id": "580207",
@@ -22957,7 +22957,7 @@
         "title": "Font name?",
         "instructions": null,
         "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1226015.png",
-        "identified_font": null
+        "identified_font": "Baby Kruffy"
     },
     {
         "task_id": "140353",
@@ -22997,6 +22997,62 @@
         "title": "Fox 2000 Pictures logo",
         "instructions": "What font is for Fox 2000 Pictures logo",
         "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1226005.png",
+        "identified_font": null
+    },
+    {
+        "task_id": "580216",
+        "url": "https://www.dafont.com/forum/read/580216/font-name-pls-thanks",
+        "title": "Font name pls? Thanks!",
+        "instructions": null,
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1226031.png",
+        "identified_font": null
+    },
+    {
+        "task_id": "580215",
+        "url": "https://www.dafont.com/forum/read/580215/lyrics-messages",
+        "title": "Lyrics & Messages",
+        "instructions": null,
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1226030.png",
+        "identified_font": null
+    },
+    {
+        "task_id": "580214",
+        "url": "https://www.dafont.com/forum/read/580214/from-joy-with-love",
+        "title": "From Joy with Love",
+        "instructions": null,
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1226029.png",
+        "identified_font": null
+    },
+    {
+        "task_id": "580213",
+        "url": "https://www.dafont.com/forum/read/580213/font",
+        "title": "Font??",
+        "instructions": null,
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1226027.png",
+        "identified_font": null
+    },
+    {
+        "task_id": "580212",
+        "url": "https://www.dafont.com/forum/read/580212/please-help-me-find-this-font-or-one-very-similar",
+        "title": "Please help me find this font or one very similar!!",
+        "instructions": "EDGE",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1226026.png",
+        "identified_font": null
+    },
+    {
+        "task_id": "580211",
+        "url": "https://www.dafont.com/forum/read/580211/holaaa-buenas-alguien-conoce-esta-font",
+        "title": "Holaaa, buenas!! Algui\u00e9n conoce esta font?",
+        "instructions": "Podr\u00edan ayudarme con el Nombre de esta font porfavor?? \ud83d\ude4f\ud83d\ude4f",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1226024.jpg",
+        "identified_font": null
+    },
+    {
+        "task_id": "580210",
+        "url": "https://www.dafont.com/forum/read/580210/help-me-to-identify-these-fonts-please",
+        "title": "help me to identify these fonts please",
+        "instructions": null,
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1226023.png",
         "identified_font": null
     }
 ]
