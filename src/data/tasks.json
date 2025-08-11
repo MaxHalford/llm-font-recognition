@@ -21468,7 +21468,7 @@
         "url": "https://www.dafont.com/forum/read/580002/old-agame-logo",
         "title": "Old Agame Logo",
         "instructions": "I'm curious. What is the font used in the old Agame.com logo that's used in older flash games?",
-        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1225534.png",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1225534.png?1",
         "identified_font": null
     },
     {
@@ -22901,6 +22901,30 @@
         "title": "Volkswagen BORA/JETTA font",
         "instructions": "I searched everywhere for this font but I couldn\u00b4t find an .svg or .ttf. Does anyone know a very similar font or the same one? Thanks",
         "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1225981.jpg",
+        "identified_font": null
+    },
+    {
+        "task_id": "580200",
+        "url": "https://www.dafont.com/forum/read/580200/what-font-is-this",
+        "title": "What font is this?",
+        "instructions": null,
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1226002.jpg",
+        "identified_font": null
+    },
+    {
+        "task_id": "580198",
+        "url": "https://www.dafont.com/forum/read/580198/what-font-is-this",
+        "title": "what font is this?",
+        "instructions": "I\u0092d like to know the font for \u0093Goodness\u0094 and \u0093Protect.\u0094",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1225996.jpg",
+        "identified_font": null
+    },
+    {
+        "task_id": "580197",
+        "url": "https://www.dafont.com/forum/read/580197/font-identification",
+        "title": "Font identification",
+        "instructions": null,
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1225993.png",
         "identified_font": null
     }
 ]
