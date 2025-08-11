@@ -23206,5 +23206,69 @@
         "instructions": null,
         "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1226045.png",
         "identified_font": null
+    },
+    {
+        "task_id": "580244",
+        "url": "https://www.dafont.com/forum/read/580244/help-please",
+        "title": "Help please ??",
+        "instructions": "Hi;",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1226075.png",
+        "identified_font": "Halimun"
+    },
+    {
+        "task_id": "580245",
+        "url": "https://www.dafont.com/forum/read/580245/cute-slab-serif-font",
+        "title": "Cute Slab Serif Font",
+        "instructions": "Please let me know if you know of a font similar to this. Thank you!",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1226076.png",
+        "identified_font": null
+    },
+    {
+        "task_id": "580243",
+        "url": "https://www.dafont.com/forum/read/580243/can-you-please-find-this-font",
+        "title": "Can You Please Find This Font",
+        "instructions": null,
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1226073.jpg?1",
+        "identified_font": null
+    },
+    {
+        "task_id": "580242",
+        "url": "https://www.dafont.com/forum/read/580242/ayuda-plssss",
+        "title": "ayuda plssss",
+        "instructions": "me podrian indicar alguna fuente similar \" lo de juan\" gracias",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1226068.jpg",
+        "identified_font": "Blippo"
+    },
+    {
+        "task_id": "580240",
+        "url": "https://www.dafont.com/forum/read/580240/maybe-someone-knows-this-font",
+        "title": "maybe someone knows this font?",
+        "instructions": null,
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1226066.png",
+        "identified_font": "Architect's Daughter"
+    },
+    {
+        "task_id": "580241",
+        "url": "https://www.dafont.com/forum/read/580241/recherche-le-nom-de-cette-police",
+        "title": "recherche le nom de cette police",
+        "instructions": "Bonjour,quelle police utilis\u00e9 pour cette \u00e9criture texte",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1226067.png",
+        "identified_font": null
+    },
+    {
+        "task_id": "580239",
+        "url": "https://www.dafont.com/forum/read/580239/font",
+        "title": "font",
+        "instructions": null,
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1226065.jpg",
+        "identified_font": null
+    },
+    {
+        "task_id": "580238",
+        "url": "https://www.dafont.com/forum/read/580238/font",
+        "title": "font",
+        "instructions": null,
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1226064.jpg?2",
+        "identified_font": null
     }
 ]
