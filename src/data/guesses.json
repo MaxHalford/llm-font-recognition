@@ -38797,5 +38797,41 @@
         "candidate_font_3": "Hello Beautiful",
         "candidate_font_4": "Great Vibes",
         "candidate_font_5": "Pacifico"
+    },
+    {
+        "task_id": "580263",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Futura Bold",
+        "candidate_font_2": "Fox Films Corp",
+        "candidate_font_3": "Futura Heavy",
+        "candidate_font_4": "ITC Avant Garde Gothic",
+        "candidate_font_5": "Gotham Bold"
+    },
+    {
+        "task_id": "580259",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Plantin",
+        "candidate_font_2": "Playbill",
+        "candidate_font_3": "Clarendon Condensed",
+        "candidate_font_4": "Stymie Extra Bold Condensed",
+        "candidate_font_5": "Latin MT Bold Condensed"
+    },
+    {
+        "task_id": "580262",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Freshman",
+        "candidate_font_2": "College Block T-Shirt",
+        "candidate_font_3": "Octin College",
+        "candidate_font_4": "Varsity Classic",
+        "candidate_font_5": "Block Berthold"
+    },
+    {
+        "task_id": "580260",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "ITC Avant Garde Gothic",
+        "candidate_font_2": "Montserrat",
+        "candidate_font_3": "Futura",
+        "candidate_font_4": "Sofia Pro",
+        "candidate_font_5": "Neuzeit Grotesk"
     }
 ]
