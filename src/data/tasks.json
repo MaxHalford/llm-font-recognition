@@ -23581,7 +23581,7 @@
         "title": "please help me identifying this font",
         "instructions": "please help me identifying this font or similar font",
         "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1226162.png",
-        "identified_font": null
+        "identified_font": "Bella Stencil"
     },
     {
         "task_id": "550514",
@@ -23590,5 +23590,21 @@
         "instructions": "please help me identifying this font only 13",
         "img_url": "https://www.dafont.com/forum/attach/orig/1/1/1164382.png?1",
         "identified_font": "Nexa"
+    },
+    {
+        "task_id": "580289",
+        "url": "https://www.dafont.com/forum/read/580289/whats-the-font-plz",
+        "title": "whats the font plz ?",
+        "instructions": null,
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1226178.png",
+        "identified_font": null
+    },
+    {
+        "task_id": "580287",
+        "url": "https://www.dafont.com/forum/read/580287/shadow-font",
+        "title": "shadow font",
+        "instructions": "Thanks!",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1226174.jpg",
+        "identified_font": null
     }
 ]
