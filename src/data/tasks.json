@@ -16897,10 +16897,10 @@
     },
     {
         "task_id": "579339",
-        "url": "https://www.dafont.com/forum/read/579339/font-pls",
-        "title": "Font? Pls",
+        "url": "https://www.dafont.com/forum/read/579339/font-midnight-special-pls",
+        "title": "Font \u0091Midnight Special\u0092? Pls",
         "instructions": null,
-        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1224169.jpg",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1224169.png?1",
         "identified_font": null
     },
     {
@@ -16908,7 +16908,7 @@
         "url": "https://www.dafont.com/forum/read/579338/font-obsessed",
         "title": "Font 'Obsessed'?",
         "instructions": null,
-        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1224168.jpg",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1224168.png?1",
         "identified_font": null
     },
     {
@@ -23397,6 +23397,62 @@
         "title": "What the font?",
         "instructions": null,
         "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1226110.png",
+        "identified_font": null
+    },
+    {
+        "task_id": "565578",
+        "url": "https://www.dafont.com/forum/read/565578/font-please",
+        "title": "Font, please. &#128591;",
+        "instructions": null,
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/1/1196269.png?1",
+        "identified_font": null
+    },
+    {
+        "task_id": "580269",
+        "url": "https://www.dafont.com/forum/read/580269/what-is-this-font",
+        "title": "What is this font?",
+        "instructions": null,
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1226123.jpg",
+        "identified_font": null
+    },
+    {
+        "task_id": "580268",
+        "url": "https://www.dafont.com/forum/read/580268/please-help-me-find-this-font-d",
+        "title": "Please Help me find this font :D",
+        "instructions": "Please Help me find this font",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1226121.jpg",
+        "identified_font": null
+    },
+    {
+        "task_id": "580267",
+        "url": "https://www.dafont.com/forum/read/580267/please-i-need-this-font-thanks",
+        "title": "please i need this font, thanks.",
+        "instructions": null,
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1226120.png",
+        "identified_font": null
+    },
+    {
+        "task_id": "580266",
+        "url": "https://www.dafont.com/forum/read/580266/please-help-me-find-this-font-d",
+        "title": "Please Help me find this font :D",
+        "instructions": "Please Help me find this font",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1226119.jpg",
+        "identified_font": null
+    },
+    {
+        "task_id": "580265",
+        "url": "https://www.dafont.com/forum/read/580265/please-help",
+        "title": "Please help!",
+        "instructions": null,
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1226118.png",
+        "identified_font": null
+    },
+    {
+        "task_id": "580264",
+        "url": "https://www.dafont.com/forum/read/580264/font-request",
+        "title": "Font request",
+        "instructions": "Which font was used for this text?",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1226116.jpg?1",
         "identified_font": null
     }
 ]
