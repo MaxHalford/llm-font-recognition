@@ -39040,5 +39040,50 @@
         "candidate_font_3": "Metropolis Stencil",
         "candidate_font_4": "Broadway",
         "candidate_font_5": "Stencil Gothic"
+    },
+    {
+        "task_id": "580294",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Lovely Butter",
+        "candidate_font_2": "The Signature",
+        "candidate_font_3": "Stay Grateful",
+        "candidate_font_4": "Madelina",
+        "candidate_font_5": "Wonderfull"
+    },
+    {
+        "task_id": "580293",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Compacta Bold",
+        "candidate_font_2": "Plantin",
+        "candidate_font_3": "Excelsior",
+        "candidate_font_4": "Ionic No. 5",
+        "candidate_font_5": ""
+    },
+    {
+        "task_id": "580292",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Angelline",
+        "candidate_font_2": "Marthana Script",
+        "candidate_font_3": "Brittany Signature",
+        "candidate_font_4": "The Quickest",
+        "candidate_font_5": "Hello Beautiful"
+    },
+    {
+        "task_id": "580291",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Amsterdam Two",
+        "candidate_font_2": "Magnolia Sky",
+        "candidate_font_3": "Beautiful Heart",
+        "candidate_font_4": "Theodore",
+        "candidate_font_5": "Lovely Couple"
+    },
+    {
+        "task_id": "580290",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Chewy",
+        "candidate_font_2": "Whoa",
+        "candidate_font_3": "Boisterous",
+        "candidate_font_4": "Love Ya Like A Sister",
+        "candidate_font_5": "Handlee"
     }
 ]
