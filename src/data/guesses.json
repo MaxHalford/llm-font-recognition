@@ -39085,5 +39085,86 @@
         "candidate_font_3": "Boisterous",
         "candidate_font_4": "Love Ya Like A Sister",
         "candidate_font_5": "Handlee"
+    },
+    {
+        "task_id": "580304",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Urban Decay",
+        "candidate_font_2": "Rough Draft",
+        "candidate_font_3": "Action Jackson",
+        "candidate_font_4": "Blacklisted",
+        "candidate_font_5": "Permanent Marker"
+    },
+    {
+        "task_id": "580303",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Broken Machine",
+        "candidate_font_2": "Glitch Inside",
+        "candidate_font_3": "Pixel Gore",
+        "candidate_font_4": "Error 404",
+        "candidate_font_5": "8-bit Wonder"
+    },
+    {
+        "task_id": "580301",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Mesquite Std",
+        "candidate_font_2": "Mesquite NF",
+        "candidate_font_3": "Wanted",
+        "candidate_font_4": "Wild West",
+        "candidate_font_5": "Bandero"
+    },
+    {
+        "task_id": "580300",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Cloister Black",
+        "candidate_font_2": "Eil Fantasy",
+        "candidate_font_3": "",
+        "candidate_font_4": "",
+        "candidate_font_5": ""
+    },
+    {
+        "task_id": "580299",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "VascoDaGama (by Iconian Fonts)",
+        "candidate_font_2": "SF Collegiate Heavy",
+        "candidate_font_3": "Compacta Black",
+        "candidate_font_4": "Impact",
+        "candidate_font_5": "Octin College Regular"
+    },
+    {
+        "task_id": "580298",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Shutter Island",
+        "candidate_font_2": "Stay High Script",
+        "candidate_font_3": "Hey October Script",
+        "candidate_font_4": "Pacifico",
+        "candidate_font_5": "Lemon Tuesday"
+    },
+    {
+        "task_id": "580297",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Compacta Bold",
+        "candidate_font_2": "Impact",
+        "candidate_font_3": "Anton",
+        "candidate_font_4": "Bebas Neue",
+        "candidate_font_5": "Squada One"
+    },
+    {
+        "task_id": "580296",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Neon Tubes",
+        "candidate_font_2": "Neon Glow",
+        "candidate_font_3": "Neon Regular",
+        "candidate_font_4": "Neon Light",
+        "candidate_font_5": "Neoneon"
+    },
+    {
+        "task_id": "580295",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Adelina Script",
+        "candidate_font_2": "Bright Sunshine",
+        "candidate_font_3": "Magnolia Sky",
+        "candidate_font_4": "Lemon Tuesday",
+        "candidate_font_5": "Lovable"
     }
 ]
