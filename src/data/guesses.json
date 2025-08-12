@@ -39166,5 +39166,59 @@
         "candidate_font_3": "Magnolia Sky",
         "candidate_font_4": "Lemon Tuesday",
         "candidate_font_5": "Lovable"
+    },
+    {
+        "task_id": "580310",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Cream Cake",
+        "candidate_font_2": "Good Karma",
+        "candidate_font_3": "Porky's",
+        "candidate_font_4": "Adelia Moana",
+        "candidate_font_5": "Stay Grateful"
+    },
+    {
+        "task_id": "580309",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Roboto",
+        "candidate_font_2": "Roboto Medium",
+        "candidate_font_3": "Roboto Regular",
+        "candidate_font_4": "Noto Sans",
+        "candidate_font_5": "Open Sans"
+    },
+    {
+        "task_id": "580308",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "V.P. Condensed",
+        "candidate_font_2": "Egyptian Bold Extended",
+        "candidate_font_3": "Rockwell Condensed Bold",
+        "candidate_font_4": "Trade Gothic Condensed Bold",
+        "candidate_font_5": "Franklin Gothic Condensed Bold"
+    },
+    {
+        "task_id": "580307",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Graphik Bold",
+        "candidate_font_2": "Univers 65 Bold",
+        "candidate_font_3": "Akzidenz-Grotesk Bold",
+        "candidate_font_4": "Suisse Int'l Bold",
+        "candidate_font_5": "Public Sans Bold"
+    },
+    {
+        "task_id": "580305",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Fette Fraktur",
+        "candidate_font_2": "UnifrakturMaguntia",
+        "candidate_font_3": "Old English Text MT",
+        "candidate_font_4": "Deutsch Gothic",
+        "candidate_font_5": "Deutsche Zierschrift"
+    },
+    {
+        "task_id": "580306",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Speed Freaks",
+        "candidate_font_2": "Nitrocharge",
+        "candidate_font_3": "Capture It",
+        "candidate_font_4": "Road Rage",
+        "candidate_font_5": "Autobahn"
     }
 ]
