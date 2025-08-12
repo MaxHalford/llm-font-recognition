@@ -23718,5 +23718,53 @@
         "instructions": "Hi;",
         "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1226188.png",
         "identified_font": null
+    },
+    {
+        "task_id": "580310",
+        "url": "https://www.dafont.com/forum/read/580310/rueda",
+        "title": "Rueda",
+        "instructions": "help please",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1226212.jpg",
+        "identified_font": null
+    },
+    {
+        "task_id": "580309",
+        "url": "https://www.dafont.com/forum/read/580309/mirko-petrovi-dan-ju-erasnji-dan-sutrasnji",
+        "title": "MIRKO PETROVI&#262;-DAN JU&#268;ERA\u008aNJI DAN SUTRA\u008aNJI",
+        "instructions": null,
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1226211.png",
+        "identified_font": null
+    },
+    {
+        "task_id": "580308",
+        "url": "https://www.dafont.com/forum/read/580308/leva-strana-sveta",
+        "title": "Leva strana sveta",
+        "instructions": null,
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1226210.png",
+        "identified_font": null
+    },
+    {
+        "task_id": "580307",
+        "url": "https://www.dafont.com/forum/read/580307/leti-nebom-stefan-crnjanin",
+        "title": "Leti nebom Stefan Crnjanin",
+        "instructions": null,
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1226209.png",
+        "identified_font": null
+    },
+    {
+        "task_id": "580305",
+        "url": "https://www.dafont.com/forum/read/580305/altdeutsche-schrift",
+        "title": "Altdeutsche Schrift",
+        "instructions": "Suche diese altdeutsche Schrift zum herunterladen. Kann mir evtl. jemand bitte weiterhelfen?",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1226207.jpg",
+        "identified_font": null
+    },
+    {
+        "task_id": "580306",
+        "url": "https://www.dafont.com/forum/read/580306/que-tipografia-es",
+        "title": "Qu\u00e9 tipograf\u00eda es?",
+        "instructions": "Ayuda!",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1226208.jpg",
+        "identified_font": null
     }
 ]
