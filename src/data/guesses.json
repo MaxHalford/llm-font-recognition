@@ -38896,5 +38896,104 @@
         "candidate_font_3": "SF Pro Text",
         "candidate_font_4": "Arial",
         "candidate_font_5": "Univers"
+    },
+    {
+        "task_id": "580137",
+        "model_name": "gpt-4o-mini",
+        "candidate_font_1": "Bauhaus 93",
+        "candidate_font_2": "Futura",
+        "candidate_font_3": "Montserrat",
+        "candidate_font_4": "Garamond",
+        "candidate_font_5": "Book Antiqua"
+    },
+    {
+        "task_id": "580278",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Digital Crack",
+        "candidate_font_2": "Broken Console",
+        "candidate_font_3": "Digital Dust",
+        "candidate_font_4": "SF Digital Readout",
+        "candidate_font_5": "Hyperspace"
+    },
+    {
+        "task_id": "572765",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Metal Lord",
+        "candidate_font_2": "Scary Things",
+        "candidate_font_3": "You Scream We Scream",
+        "candidate_font_4": "Before the Dawn",
+        "candidate_font_5": "Creepygirl"
+    },
+    {
+        "task_id": "580283",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Blackletter Rebel",
+        "candidate_font_2": "Roxborough CF",
+        "candidate_font_3": "Butler",
+        "candidate_font_4": "Recife Display",
+        "candidate_font_5": "Aachen Bold"
+    },
+    {
+        "task_id": "580282",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Paganini",
+        "candidate_font_2": "Viner Hand ITC",
+        "candidate_font_3": "ITC Willow",
+        "candidate_font_4": "Mortina",
+        "candidate_font_5": "Windsor"
+    },
+    {
+        "task_id": "580276",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Trade Gothic Bold No. 2",
+        "candidate_font_2": "Franklin Gothic Heavy",
+        "candidate_font_3": "Akzidenz-Grotesk Super",
+        "candidate_font_4": "Alternate Gothic No. 2",
+        "candidate_font_5": "News Gothic Std Bold"
+    },
+    {
+        "task_id": "580277",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Action Is JL",
+        "candidate_font_2": "Grobold",
+        "candidate_font_3": "Balloon Xtra Bold",
+        "candidate_font_4": "Bubblegum Sans",
+        "candidate_font_5": "Porky's"
+    },
+    {
+        "task_id": "580279",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Helvetica",
+        "candidate_font_2": "Helvetica Neue",
+        "candidate_font_3": "Nimbus Sans",
+        "candidate_font_4": "Swiss 721 BT",
+        "candidate_font_5": "FreeSans"
+    },
+    {
+        "task_id": "580275",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "VAG Rounded",
+        "candidate_font_2": "Quicksand",
+        "candidate_font_3": "Baloo 2",
+        "candidate_font_4": "Open Sans Light",
+        "candidate_font_5": "Montserrat Light"
+    },
+    {
+        "task_id": "580273",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Great Vibes",
+        "candidate_font_2": "Pinyon Script",
+        "candidate_font_3": "Allura",
+        "candidate_font_4": "Sacramento",
+        "candidate_font_5": "Herr Von Muellerhoff"
+    },
+    {
+        "task_id": "580272",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Dancing Script",
+        "candidate_font_2": "Nunito Rounded",
+        "candidate_font_3": "Open Sans Rounded",
+        "candidate_font_4": "Chewy",
+        "candidate_font_5": "Pangolin"
     }
 ]
