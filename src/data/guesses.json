@@ -38833,5 +38833,68 @@
         "candidate_font_3": "Futura",
         "candidate_font_4": "Sofia Pro",
         "candidate_font_5": "Neuzeit Grotesk"
+    },
+    {
+        "task_id": "565578",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "FF DIN",
+        "candidate_font_2": "DIN Pro",
+        "candidate_font_3": "Bahnschrift",
+        "candidate_font_4": "Work Sans",
+        "candidate_font_5": "Overpass"
+    },
+    {
+        "task_id": "580269",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Monster Guts",
+        "candidate_font_2": "Scary Things",
+        "candidate_font_3": "Spooky Halloween",
+        "candidate_font_4": "Creepygirl",
+        "candidate_font_5": "Ravie"
+    },
+    {
+        "task_id": "580268",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Beautiful People Personal Use",
+        "candidate_font_2": "Magnolia Sky",
+        "candidate_font_3": "Amsterdam Script",
+        "candidate_font_4": "Hello Honey Script",
+        "candidate_font_5": "Bromello"
+    },
+    {
+        "task_id": "580267",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Bickham Script Pro",
+        "candidate_font_2": "Edwardian Script ITC",
+        "candidate_font_3": "Aphrodite Pro",
+        "candidate_font_4": "Kuenstler Script",
+        "candidate_font_5": "Compendium"
+    },
+    {
+        "task_id": "580266",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Candy Round Buttons",
+        "candidate_font_2": "Sweet Creamy",
+        "candidate_font_3": "Bubblegum Script",
+        "candidate_font_4": "Sugarplum",
+        "candidate_font_5": "Milkyway"
+    },
+    {
+        "task_id": "580265",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Agency FB",
+        "candidate_font_2": "Bank Gothic",
+        "candidate_font_3": "Bebas Neue",
+        "candidate_font_4": "Orbitron",
+        "candidate_font_5": "Xolonium"
+    },
+    {
+        "task_id": "580264",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Helvetica Neue",
+        "candidate_font_2": "Noto Sans",
+        "candidate_font_3": "SF Pro Text",
+        "candidate_font_4": "Arial",
+        "candidate_font_5": "Univers"
     }
 ]
