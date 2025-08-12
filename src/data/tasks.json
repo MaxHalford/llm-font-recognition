@@ -23621,7 +23621,7 @@
         "title": "Vreme Otvaranja",
         "instructions": null,
         "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1226185.png",
-        "identified_font": null
+        "identified_font": "Carousel"
     },
     {
         "task_id": "580292",
@@ -23645,6 +23645,78 @@
         "title": "Font?",
         "instructions": null,
         "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1226181.jpg",
+        "identified_font": null
+    },
+    {
+        "task_id": "580304",
+        "url": "https://www.dafont.com/forum/read/580304/font-name-pls",
+        "title": "Font name pls :)",
+        "instructions": null,
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1226203.png",
+        "identified_font": null
+    },
+    {
+        "task_id": "580303",
+        "url": "https://www.dafont.com/forum/read/580303/font-name-pls",
+        "title": "Font name pls :)",
+        "instructions": "Logo from the Spectrewoods Game",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1226202.jpg",
+        "identified_font": null
+    },
+    {
+        "task_id": "580301",
+        "url": "https://www.dafont.com/forum/read/580301/curtis-font-please",
+        "title": "CURTIS Font please",
+        "instructions": null,
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1226200.png",
+        "identified_font": null
+    },
+    {
+        "task_id": "580300",
+        "url": "https://www.dafont.com/forum/read/580300/chaeyoung",
+        "title": "Chaeyoung",
+        "instructions": null,
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1226199.jpg",
+        "identified_font": null
+    },
+    {
+        "task_id": "580299",
+        "url": "https://www.dafont.com/forum/read/580299/fonte-vasco",
+        "title": "Fonte Vasco",
+        "instructions": "Poderiam me ajudar a identificar essa fonte?",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1226198.jpg",
+        "identified_font": null
+    },
+    {
+        "task_id": "580298",
+        "url": "https://www.dafont.com/forum/read/580298/help-please-what-is-the-the-font-please",
+        "title": "help please, what is the \"THE\" font please ?",
+        "instructions": null,
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1226195.jpg",
+        "identified_font": null
+    },
+    {
+        "task_id": "580297",
+        "url": "https://www.dafont.com/forum/read/580297/that-font-please",
+        "title": "that font please",
+        "instructions": "from Bored Smashing - MARIO KART LIVE",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1226194.png",
+        "identified_font": null
+    },
+    {
+        "task_id": "580296",
+        "url": "https://www.dafont.com/forum/read/580296/font-name-plz",
+        "title": "font name plz",
+        "instructions": null,
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1226193.jpg",
+        "identified_font": null
+    },
+    {
+        "task_id": "580295",
+        "url": "https://www.dafont.com/forum/read/580295/help-please",
+        "title": "Help please ??",
+        "instructions": "Hi;",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1226188.png",
         "identified_font": null
     }
 ]
