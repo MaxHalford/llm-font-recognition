@@ -39022,5 +39022,23 @@
         "candidate_font_3": "Cubao",
         "candidate_font_4": "Regina Black",
         "candidate_font_5": "Mostra Nuova"
+    },
+    {
+        "task_id": "580289",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Bombshell Pro",
+        "candidate_font_2": "Burgues Script",
+        "candidate_font_3": "Respective Swashes",
+        "candidate_font_4": "Bickham Script Pro",
+        "candidate_font_5": "Carolyna Pro Black"
+    },
+    {
+        "task_id": "580287",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "P22 Artista Stencil",
+        "candidate_font_2": "Bifur",
+        "candidate_font_3": "Metropolis Stencil",
+        "candidate_font_4": "Broadway",
+        "candidate_font_5": "Stencil Gothic"
     }
 ]
