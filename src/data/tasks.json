@@ -23317,7 +23317,7 @@
         "title": "Total Drama Island (2023) Credits font",
         "instructions": "What kind of font do they use for the end credits of the total drama reboot?",
         "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1226088.png",
-        "identified_font": null
+        "identified_font": "Poppins"
     },
     {
         "task_id": "580251",
@@ -23420,8 +23420,8 @@
         "url": "https://www.dafont.com/forum/read/580268/please-help-me-find-this-font-d",
         "title": "Please Help me find this font :D",
         "instructions": "Please Help me find this font",
-        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1226121.jpg",
-        "identified_font": null
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1226121.png?1",
+        "identified_font": "Edwardian Script"
     },
     {
         "task_id": "580267",
@@ -23454,5 +23454,93 @@
         "instructions": "Which font was used for this text?",
         "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1226116.jpg?1",
         "identified_font": null
+    },
+    {
+        "task_id": "580278",
+        "url": "https://www.dafont.com/forum/read/580278/helpppp-someone-knows-which-taylor-swift-s-ts12-font-is-this",
+        "title": "HELPPPP someone knows which Taylor Swift's TS12 font is this???",
+        "instructions": null,
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1226145.jpg",
+        "identified_font": null
+    },
+    {
+        "task_id": "572765",
+        "url": "https://www.dafont.com/forum/read/572765/font-for-your-wife",
+        "title": "Font for \"your wife\"",
+        "instructions": "please find",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1210580.png?1",
+        "identified_font": null
+    },
+    {
+        "task_id": "580283",
+        "url": "https://www.dafont.com/forum/read/580283/rebel-angel-s-playground",
+        "title": "Rebel angel's playground",
+        "instructions": null,
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1226153.png",
+        "identified_font": null
+    },
+    {
+        "task_id": "580282",
+        "url": "https://www.dafont.com/forum/read/580282/looking-for-this-font-please",
+        "title": "Looking for this font please",
+        "instructions": null,
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1226152.png",
+        "identified_font": null
+    },
+    {
+        "task_id": "580276",
+        "url": "https://www.dafont.com/forum/read/580276/beer",
+        "title": "Beer",
+        "instructions": null,
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1226143.png",
+        "identified_font": null
+    },
+    {
+        "task_id": "580277",
+        "url": "https://www.dafont.com/forum/read/580277/music",
+        "title": "Music",
+        "instructions": null,
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1226144.jpg",
+        "identified_font": null
+    },
+    {
+        "task_id": "580279",
+        "url": "https://www.dafont.com/forum/read/580279/what-font-is-that-lol",
+        "title": "What font is that? lol",
+        "instructions": null,
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1226146.png",
+        "identified_font": null
+    },
+    {
+        "task_id": "580275",
+        "url": "https://www.dafont.com/forum/read/580275/hey-font",
+        "title": "Hey! Font?!",
+        "instructions": null,
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1226142.png",
+        "identified_font": null
+    },
+    {
+        "task_id": "580273",
+        "url": "https://www.dafont.com/forum/read/580273/lyrics-messages",
+        "title": "Lyrics & Messages",
+        "instructions": null,
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1226138.png?1",
+        "identified_font": null
+    },
+    {
+        "task_id": "580272",
+        "url": "https://www.dafont.com/forum/read/580272/font-find",
+        "title": "FONT FIND",
+        "instructions": "What are the fonts used here?",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1226137.png",
+        "identified_font": null
+    },
+    {
+        "task_id": "580271",
+        "url": "https://www.dafont.com/forum/read/580271/your-love",
+        "title": "Your Love",
+        "instructions": null,
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1226133.png?1",
+        "identified_font": "Jitzu Swash Bold"
     }
 ]
