@@ -23460,8 +23460,8 @@
         "url": "https://www.dafont.com/forum/read/580278/helpppp-someone-knows-which-taylor-swift-s-ts12-font-is-this",
         "title": "HELPPPP someone knows which Taylor Swift's TS12 font is this???",
         "instructions": null,
-        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1226145.jpg",
-        "identified_font": null
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1226145.png?1",
+        "identified_font": "Gazzetta"
     },
     {
         "task_id": "572765",
@@ -23469,7 +23469,7 @@
         "title": "Font for \"your wife\"",
         "instructions": "please find",
         "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1210580.png?1",
-        "identified_font": null
+        "identified_font": "Chiller"
     },
     {
         "task_id": "580283",
@@ -23542,5 +23542,53 @@
         "instructions": null,
         "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1226133.png?1",
         "identified_font": "Jitzu Swash Bold"
+    },
+    {
+        "task_id": "580284",
+        "url": "https://www.dafont.com/forum/read/580284/helpp",
+        "title": "helpp!",
+        "instructions": "finding this font.. i can't find it thru font finder website.. if somebody knows pls tell me, thanks!",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1226158.png",
+        "identified_font": "A Another Tag"
+    },
+    {
+        "task_id": "580286",
+        "url": "https://www.dafont.com/forum/read/580286/heeeeelp",
+        "title": "HEEEEELP",
+        "instructions": "Heeelp i need to know what font is this, from the Taylor Swift web page. taylorswift.com",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1226165.png?1",
+        "identified_font": "Gazzetta"
+    },
+    {
+        "task_id": "122874",
+        "url": "https://www.dafont.com/forum/read/122874/help-ayuda-una-parte-di-me-text",
+        "title": "HELP? AYUDA? UNA PARTE DI ME text?",
+        "instructions": "For the \"UNA PARTE DI ME\" text?",
+        "img_url": "https://www.dafont.com/forum/attach/orig/2/9/295647.jpg",
+        "identified_font": null
+    },
+    {
+        "task_id": "529782",
+        "url": "https://www.dafont.com/forum/read/529782/identifying-font",
+        "title": "identifying font",
+        "instructions": "please help me identifying this font",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/1/1120014.png?1",
+        "identified_font": null
+    },
+    {
+        "task_id": "580285",
+        "url": "https://www.dafont.com/forum/read/580285/please-help-me-identifying-this-font",
+        "title": "please help me identifying this font",
+        "instructions": "please help me identifying this font or similar font",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1226162.png",
+        "identified_font": null
+    },
+    {
+        "task_id": "550514",
+        "url": "https://www.dafont.com/forum/read/550514/please-help-me-identifying-this-font-only-13",
+        "title": "please help me identifying this font only 13",
+        "instructions": "please help me identifying this font only 13",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/1/1164382.png?1",
+        "identified_font": "Nexa"
     }
 ]
