@@ -39580,5 +39580,68 @@
         "candidate_font_3": "Anton",
         "candidate_font_4": "Nunito SemiBold Italic",
         "candidate_font_5": "Quicksand SemiBold Italic"
+    },
+    {
+        "task_id": "580371",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Buttermilk",
+        "candidate_font_2": "",
+        "candidate_font_3": "",
+        "candidate_font_4": "",
+        "candidate_font_5": ""
+    },
+    {
+        "task_id": "580367",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Old Sport",
+        "candidate_font_2": "Bourbon",
+        "candidate_font_3": "Mesquite NF",
+        "candidate_font_4": "Lawless",
+        "candidate_font_5": "Rodeo Slab"
+    },
+    {
+        "task_id": "580370",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Delicia Script",
+        "candidate_font_2": "Edwardian Script ITC",
+        "candidate_font_3": "Kunstler Script",
+        "candidate_font_4": "Georgia Bold",
+        "candidate_font_5": "Magnolia Sky"
+    },
+    {
+        "task_id": "580369",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Bodoni",
+        "candidate_font_2": "Computer Modern Roman",
+        "candidate_font_3": "Didot",
+        "candidate_font_4": "Bauer Bodoni",
+        "candidate_font_5": "ITC Bodoni"
+    },
+    {
+        "task_id": "580368",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Bebas Neue",
+        "candidate_font_2": "Lemon Milk Bold",
+        "candidate_font_3": "SF Collegiate",
+        "candidate_font_4": "Impact",
+        "candidate_font_5": "Anton"
+    },
+    {
+        "task_id": "580366",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Party Business",
+        "candidate_font_2": "Hobbiton",
+        "candidate_font_3": "Ringbearer",
+        "candidate_font_4": "Aniron",
+        "candidate_font_5": "Morris Roman Black"
+    },
+    {
+        "task_id": "580365",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Compacta Bold Italic",
+        "candidate_font_2": "SF Compacta Bold Oblique",
+        "candidate_font_3": "Impact",
+        "candidate_font_4": "Haettenschweiler",
+        "candidate_font_5": "Eurostile Extended Bold Oblique"
     }
 ]
