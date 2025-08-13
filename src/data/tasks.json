@@ -23797,7 +23797,7 @@
         "title": "Font Help",
         "instructions": null,
         "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1226236.jpg",
-        "identified_font": null
+        "identified_font": "Blacklight"
     },
     {
         "task_id": "580320",
@@ -23821,7 +23821,7 @@
         "title": "Slom politike narodne",
         "instructions": null,
         "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1226227.png?1",
-        "identified_font": null
+        "identified_font": "Berling"
     },
     {
         "task_id": "580316",
@@ -23861,7 +23861,7 @@
         "title": "FONTE",
         "instructions": "Que fonte \u00e9 essa?",
         "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1226221.png",
-        "identified_font": null
+        "identified_font": "Dodger"
     },
     {
         "task_id": "580317",
@@ -23910,5 +23910,29 @@
         "instructions": "Does anyone know what font is being used here? \"Vogue\" is fairly close, but I think this font is slightly wider.",
         "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1226213.jpg",
         "identified_font": null
+    },
+    {
+        "task_id": "580334",
+        "url": "https://www.dafont.com/forum/read/580334/what-s-the-specter-font",
+        "title": "What's the SPECTER font?",
+        "instructions": null,
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1226268.png",
+        "identified_font": null
+    },
+    {
+        "task_id": "580332",
+        "url": "https://www.dafont.com/forum/read/580332/looking-for-bar-font",
+        "title": "Looking for 'Bar' font",
+        "instructions": null,
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1226250.jpg",
+        "identified_font": "Aurora"
+    },
+    {
+        "task_id": "580331",
+        "url": "https://www.dafont.com/forum/read/580331/nevertwolate",
+        "title": "NeverTwoLate",
+        "instructions": null,
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1226249.jpg",
+        "identified_font": "Bitcrusher"
     }
 ]
