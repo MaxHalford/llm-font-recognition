@@ -24057,11 +24057,11 @@
     },
     {
         "task_id": "580355",
-        "url": "https://www.dafont.com/forum/read/580355/limitless-culture-if-anyone-can-help-please",
-        "title": "LIMITLESS CULTURE if anyone can help please",
-        "instructions": null,
+        "url": "https://www.dafont.com/forum/read/580355/limitless-culture",
+        "title": "LIMITLESS CULTURE",
+        "instructions": "If anyone can help please",
         "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1226318.png",
-        "identified_font": null
+        "identified_font": "Baltica ExtraCond"
     },
     {
         "task_id": "580354",
@@ -24077,6 +24077,70 @@
         "title": "What are these fonts? Identify me please!",
         "instructions": null,
         "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1226314.jpg",
+        "identified_font": null
+    },
+    {
+        "task_id": "580364",
+        "url": "https://www.dafont.com/forum/read/580364/which-this-font-please",
+        "title": "Which this font, please?",
+        "instructions": null,
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1226335.png",
+        "identified_font": null
+    },
+    {
+        "task_id": "580363",
+        "url": "https://www.dafont.com/forum/read/580363/grand-club-icarus",
+        "title": "Grand Club Icarus",
+        "instructions": null,
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1226333.png",
+        "identified_font": null
+    },
+    {
+        "task_id": "580362",
+        "url": "https://www.dafont.com/forum/read/580362/what-is-this-font",
+        "title": "What is this font?",
+        "instructions": null,
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1226331.png",
+        "identified_font": null
+    },
+    {
+        "task_id": "580361",
+        "url": "https://www.dafont.com/forum/read/580361/milan-kova-evi-nko",
+        "title": "Milan Kova&#269;evi&#263; - NKO",
+        "instructions": null,
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1226329.jpg",
+        "identified_font": null
+    },
+    {
+        "task_id": "580360",
+        "url": "https://www.dafont.com/forum/read/580360/font-names-pls",
+        "title": "Font names pls :)",
+        "instructions": null,
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1226327.jpg",
+        "identified_font": "Curse of the Zombie"
+    },
+    {
+        "task_id": "580359",
+        "url": "https://www.dafont.com/forum/read/580359/fonte",
+        "title": "fonte",
+        "instructions": null,
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1226325.png",
+        "identified_font": null
+    },
+    {
+        "task_id": "580358",
+        "url": "https://www.dafont.com/forum/read/580358/neptuno-films-logo",
+        "title": "Neptuno Films logo",
+        "instructions": null,
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1226324.jpg",
+        "identified_font": null
+    },
+    {
+        "task_id": "570746",
+        "url": "https://www.dafont.com/forum/read/570746/what-font",
+        "title": "what font",
+        "instructions": null,
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1206573.jpg",
         "identified_font": null
     }
 ]
