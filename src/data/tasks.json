@@ -24196,8 +24196,8 @@
         "url": "https://www.dafont.com/forum/read/580365/pro-ex-inc-font",
         "title": "PRO EX INC font",
         "instructions": "I know this has a high chance of being deleted as the image is really bad....",
-        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1226336.jpg",
-        "identified_font": null
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1226336.jpg?1",
+        "identified_font": "Drift Typeface"
     },
     {
         "task_id": "580373",
@@ -24213,7 +24213,7 @@
         "title": "Hola, me apoyan con la fuente",
         "instructions": null,
         "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1226362.png",
-        "identified_font": null
+        "identified_font": "Insaniburger"
     },
     {
         "task_id": "566262",
@@ -24237,6 +24237,70 @@
         "title": "Any ideas on this one?",
         "instructions": "Need help with the name of this one...",
         "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1226354.jpg",
+        "identified_font": null
+    },
+    {
+        "task_id": "580385",
+        "url": "https://www.dafont.com/forum/read/580385/font-name",
+        "title": "Font Name?",
+        "instructions": null,
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1226384.jpg",
+        "identified_font": null
+    },
+    {
+        "task_id": "580384",
+        "url": "https://www.dafont.com/forum/read/580384/font-help-please",
+        "title": "Font help please",
+        "instructions": null,
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1226382.png",
+        "identified_font": null
+    },
+    {
+        "task_id": "580383",
+        "url": "https://www.dafont.com/forum/read/580383/font-name",
+        "title": "Font Name?",
+        "instructions": null,
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1226380.png",
+        "identified_font": "August"
+    },
+    {
+        "task_id": "471302",
+        "url": "https://www.dafont.com/forum/read/471302/toyota-gazoo-racing-font",
+        "title": "Toyota Gazoo Racing font",
+        "instructions": "Hi all, I've tried to find a vector logo of this to make some stickers for a race car but I can't find one anywhere. Does anyone know the font used so I could possibly redraw it please?",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/0/1004920.png",
+        "identified_font": null
+    },
+    {
+        "task_id": "580381",
+        "url": "https://www.dafont.com/forum/read/580381/chiil-font-name",
+        "title": "chiil font name?",
+        "instructions": null,
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1226376.jpg",
+        "identified_font": null
+    },
+    {
+        "task_id": "580380",
+        "url": "https://www.dafont.com/forum/read/580380/any-ideas",
+        "title": "Any Ideas",
+        "instructions": "Any ideas on this one please",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1226372.jpg",
+        "identified_font": null
+    },
+    {
+        "task_id": "580379",
+        "url": "https://www.dafont.com/forum/read/580379/what-font-it-is",
+        "title": "What font it is?",
+        "instructions": null,
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1226370.jpg",
+        "identified_font": null
+    },
+    {
+        "task_id": "580377",
+        "url": "https://www.dafont.com/forum/read/580377/please-help",
+        "title": "please help",
+        "instructions": "what is this font?",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1226368.png",
         "identified_font": null
     }
 ]
