@@ -39445,5 +39445,41 @@
         "candidate_font_3": "Bubblegum Sans",
         "candidate_font_4": "Baloo 2",
         "candidate_font_5": "Nexa Rounded"
+    },
+    {
+        "task_id": "580351",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Nadhine Script",
+        "candidate_font_2": "Magnolia Sky",
+        "candidate_font_3": "Lovely",
+        "candidate_font_4": "Bromello",
+        "candidate_font_5": "Great Vibes"
+    },
+    {
+        "task_id": "452117",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "CEC Pizza Time",
+        "candidate_font_2": "VAG Rounded Bold",
+        "candidate_font_3": "Kidco",
+        "candidate_font_4": "Quicksand Bold",
+        "candidate_font_5": "Handley Master"
+    },
+    {
+        "task_id": "518852",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Bubblegum Script",
+        "candidate_font_2": "Cream Cake",
+        "candidate_font_3": "Krabby Patty",
+        "candidate_font_4": "Sweet Sensation",
+        "candidate_font_5": "Kids Story"
+    },
+    {
+        "task_id": "580349",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Interlocking Monogram",
+        "candidate_font_2": "Octagonal Monogram",
+        "candidate_font_3": "Hexagonal Monogram",
+        "candidate_font_4": "",
+        "candidate_font_5": ""
     }
 ]
