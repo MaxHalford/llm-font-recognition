@@ -39517,5 +39517,68 @@
         "candidate_font_3": "Interstate Regular",
         "candidate_font_4": "",
         "candidate_font_5": ""
+    },
+    {
+        "task_id": "580364",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Billion Dreams",
+        "candidate_font_2": "Amsterdam Four",
+        "candidate_font_3": "Bright Script",
+        "candidate_font_4": "Lovely Monday",
+        "candidate_font_5": ""
+    },
+    {
+        "task_id": "580363",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Grobold",
+        "candidate_font_2": "Panton Rounded Black",
+        "candidate_font_3": "Burbank Big Condensed Black",
+        "candidate_font_4": "Chewy",
+        "candidate_font_5": "VAG Rounded Black"
+    },
+    {
+        "task_id": "580362",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Octin Vintage",
+        "candidate_font_2": "VCR OSD Mono",
+        "candidate_font_3": "Cyberdyne",
+        "candidate_font_4": "Square Outline",
+        "candidate_font_5": "Digital-7"
+    },
+    {
+        "task_id": "580361",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Impact",
+        "candidate_font_2": "Compacta Bold",
+        "candidate_font_3": "Alternate Gothic No. 3",
+        "candidate_font_4": "Haettenschweiler",
+        "candidate_font_5": "Univers 75 Black"
+    },
+    {
+        "task_id": "580359",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Gochi Hand",
+        "candidate_font_2": "Patrick Hand",
+        "candidate_font_3": "Kalam",
+        "candidate_font_4": "Schoolbell",
+        "candidate_font_5": "Architects Daughter"
+    },
+    {
+        "task_id": "580358",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Frankfurter Heavy",
+        "candidate_font_2": "VAG Rounded Bold",
+        "candidate_font_3": "Fredoka One",
+        "candidate_font_4": "Poetsen One",
+        "candidate_font_5": "Frankfurter Medium"
+    },
+    {
+        "task_id": "570746",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Gobold Extra Bold",
+        "candidate_font_2": "Oswald Bold",
+        "candidate_font_3": "Anton",
+        "candidate_font_4": "Nunito SemiBold Italic",
+        "candidate_font_5": "Quicksand SemiBold Italic"
     }
 ]
