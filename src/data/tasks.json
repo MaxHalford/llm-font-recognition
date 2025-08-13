@@ -24149,7 +24149,7 @@
         "title": "Please help me",
         "instructions": "Name font plz",
         "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1226353.png",
-        "identified_font": null
+        "identified_font": "SS Malibu"
     },
     {
         "task_id": "580367",
@@ -24181,7 +24181,7 @@
         "title": "\"Living Now\" Font",
         "instructions": null,
         "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1226340.jpg",
-        "identified_font": null
+        "identified_font": "Alchemio"
     },
     {
         "task_id": "580366",
@@ -24197,6 +24197,46 @@
         "title": "PRO EX INC font",
         "instructions": "I know this has a high chance of being deleted as the image is really bad....",
         "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1226336.jpg",
+        "identified_font": null
+    },
+    {
+        "task_id": "580373",
+        "url": "https://www.dafont.com/forum/read/580373/the-summer-hikaru-died-anime",
+        "title": "The Summer Hikaru Died - Anime",
+        "instructions": "There are two fonts in the main title here. It looks to tswtich from times new roman to some plain font but I wanted a second opinion on the actual two fonts being used if you dont mind?",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1226357.jpg",
+        "identified_font": "Centaur"
+    },
+    {
+        "task_id": "580375",
+        "url": "https://www.dafont.com/forum/read/580375/hola-me-apoyan-con-la-fuente",
+        "title": "Hola, me apoyan con la fuente",
+        "instructions": null,
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1226362.png",
+        "identified_font": null
+    },
+    {
+        "task_id": "566262",
+        "url": "https://www.dafont.com/forum/read/566262/font-please",
+        "title": "Font please!",
+        "instructions": "Thanks!",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/1/1197756.png?5",
+        "identified_font": null
+    },
+    {
+        "task_id": "580374",
+        "url": "https://www.dafont.com/forum/read/580374/what-the-font",
+        "title": "What the font?",
+        "instructions": null,
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1226358.jpg",
+        "identified_font": null
+    },
+    {
+        "task_id": "580372",
+        "url": "https://www.dafont.com/forum/read/580372/any-ideas-on-this-one",
+        "title": "Any ideas on this one?",
+        "instructions": "Need help with the name of this one...",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1226354.jpg",
         "identified_font": null
     }
 ]
