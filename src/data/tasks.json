@@ -3733,7 +3733,7 @@
         "title": "Font \"disfar\u00e7a\" Mia Wicthoff please",
         "instructions": "what\u00b4s the name font \"DISFAR\u00c7A\" please?",
         "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1219906.jpg",
-        "identified_font": null
+        "identified_font": "Imbue"
     },
     {
         "task_id": "576845",
@@ -23437,7 +23437,7 @@
         "title": "Please Help me find this font :D",
         "instructions": "Please Help me find this font",
         "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1226119.jpg",
-        "identified_font": null
+        "identified_font": "Middleton Brush"
     },
     {
         "task_id": "580265",
@@ -24045,6 +24045,38 @@
         "title": "help",
         "instructions": null,
         "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1226296.jpg",
+        "identified_font": null
+    },
+    {
+        "task_id": "580356",
+        "url": "https://www.dafont.com/forum/read/580356/identify-font",
+        "title": "Identify font",
+        "instructions": "Please, could you help me to identify this font? It is in Cyrillic language.",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1226319.png",
+        "identified_font": null
+    },
+    {
+        "task_id": "580355",
+        "url": "https://www.dafont.com/forum/read/580355/limitless-culture-if-anyone-can-help-please",
+        "title": "LIMITLESS CULTURE if anyone can help please",
+        "instructions": null,
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1226318.png",
+        "identified_font": null
+    },
+    {
+        "task_id": "580354",
+        "url": "https://www.dafont.com/forum/read/580354/old-font-name-please",
+        "title": "Old font name please?",
+        "instructions": "Can someone ID this old font? It's similar to Futura and Century Gothic, but it's a little different.",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1226317.png",
+        "identified_font": null
+    },
+    {
+        "task_id": "580353",
+        "url": "https://www.dafont.com/forum/read/580353/what-are-these-fonts-identify-me-please",
+        "title": "What are these fonts? Identify me please!",
+        "instructions": null,
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1226314.jpg",
         "identified_font": null
     }
 ]
