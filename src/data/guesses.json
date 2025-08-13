@@ -39382,5 +39382,68 @@
         "candidate_font_3": "Adobe Garamond Pro",
         "candidate_font_4": "Goudy Old Style",
         "candidate_font_5": "Trajan Pro"
+    },
+    {
+        "task_id": "580348",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Athletic Script",
+        "candidate_font_2": "Baseball Script",
+        "candidate_font_3": "Milwaukee Script",
+        "candidate_font_4": "Fenway Park",
+        "candidate_font_5": "Varsity Script"
+    },
+    {
+        "task_id": "580347",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Bright Sunshine",
+        "candidate_font_2": "Lovely Home",
+        "candidate_font_3": "The Last Dance",
+        "candidate_font_4": "Stay Grumpy",
+        "candidate_font_5": "Beauty Bright"
+    },
+    {
+        "task_id": "580344",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Bahnschrift Bold",
+        "candidate_font_2": "Helvetica Neue LT Std 95 Black",
+        "candidate_font_3": "SF Pro Display Black",
+        "candidate_font_4": "Gotham Black",
+        "candidate_font_5": "Montserrat Black"
+    },
+    {
+        "task_id": "580343",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "ITC Garamond",
+        "candidate_font_2": "Waltograph",
+        "candidate_font_3": "Garamond",
+        "candidate_font_4": "Adobe Garamond",
+        "candidate_font_5": "Disney Script"
+    },
+    {
+        "task_id": "580341",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Waltograph",
+        "candidate_font_2": "Trajan Pro",
+        "candidate_font_3": "Augustea",
+        "candidate_font_4": "Franklin Gothic Condensed",
+        "candidate_font_5": "Forum"
+    },
+    {
+        "task_id": "580339",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Chewy",
+        "candidate_font_2": "Porky's",
+        "candidate_font_3": "Gumballs",
+        "candidate_font_4": "Bubblegum Sans",
+        "candidate_font_5": "Cream Puff"
+    },
+    {
+        "task_id": "580337",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "VAG Rounded",
+        "candidate_font_2": "Fredoka One",
+        "candidate_font_3": "Bubblegum Sans",
+        "candidate_font_4": "Baloo 2",
+        "candidate_font_5": "Nexa Rounded"
     }
 ]
