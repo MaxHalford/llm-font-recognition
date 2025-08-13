@@ -22076,8 +22076,8 @@
         "url": "https://www.dafont.com/forum/read/580078/font-please-thanks",
         "title": "Font Please, Thanks!",
         "instructions": "Font Please, Thanks!",
-        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1225731.png",
-        "identified_font": null
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1225731.png?1",
+        "identified_font": "Scandia Medium"
     },
     {
         "task_id": "281117",
@@ -22852,7 +22852,7 @@
         "url": "https://www.dafont.com/forum/read/580196/what-is-this-font",
         "title": "what is this font?",
         "instructions": "Can you help me identify this font?",
-        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1225990.jpg",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1225990.png?1",
         "identified_font": null
     },
     {
@@ -23837,7 +23837,7 @@
         "title": "Creek Side font",
         "instructions": null,
         "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1226229.jpg",
-        "identified_font": null
+        "identified_font": "Mistress Benedict Brush"
     },
     {
         "task_id": "580323",
@@ -23934,5 +23934,69 @@
         "instructions": null,
         "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1226249.jpg",
         "identified_font": "Bitcrusher"
+    },
+    {
+        "task_id": "580348",
+        "url": "https://www.dafont.com/forum/read/580348/what-font-is-this",
+        "title": "What font is this?",
+        "instructions": "Trying to match for a t-shirt.",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1226294.jpg",
+        "identified_font": null
+    },
+    {
+        "task_id": "580345",
+        "url": "https://www.dafont.com/forum/read/580345/whats-the-font",
+        "title": "Whats the font?",
+        "instructions": null,
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1226288.png",
+        "identified_font": "Times New Roman"
+    },
+    {
+        "task_id": "580347",
+        "url": "https://www.dafont.com/forum/read/580347/me-pueden-ayudar-con-esta-fuente",
+        "title": "Me pueden ayudar con esta fuente",
+        "instructions": "Me podr\u00edan ayudar a identificar la fuente que dice IRLANDA",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1226291.jpg",
+        "identified_font": null
+    },
+    {
+        "task_id": "580344",
+        "url": "https://www.dafont.com/forum/read/580344/what-font-it-is",
+        "title": "What font it is?",
+        "instructions": null,
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1226287.png",
+        "identified_font": null
+    },
+    {
+        "task_id": "580343",
+        "url": "https://www.dafont.com/forum/read/580343/walt-disney-pictures-text-inspector-gadget",
+        "title": "Walt Disney Pictures text Inspector Gadget",
+        "instructions": "What font is for the Walt Disney Pictures text from Inspector Gadget?",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1226284.jpg",
+        "identified_font": null
+    },
+    {
+        "task_id": "580341",
+        "url": "https://www.dafont.com/forum/read/580341/walt-disney-mini-classics-font",
+        "title": "Walt Disney Mini Classics font",
+        "instructions": "What font is for the Walt Disney Mini Classics?",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1226282.png",
+        "identified_font": null
+    },
+    {
+        "task_id": "580339",
+        "url": "https://www.dafont.com/forum/read/580339/barney-says-season-2",
+        "title": "Barney Says Season 2",
+        "instructions": "What font is for Barney Says from Season 2?",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1226280.png",
+        "identified_font": null
+    },
+    {
+        "task_id": "580337",
+        "url": "https://www.dafont.com/forum/read/580337/barney-says-season-7-12",
+        "title": "Barney Says Season 7-12",
+        "instructions": "What font is for Barney Says from Season 7-12?",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1226278.png",
+        "identified_font": null
     }
 ]
