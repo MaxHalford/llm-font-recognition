@@ -21533,7 +21533,7 @@
         "title": "what font is this?",
         "instructions": "I'm searching this font, please help (:",
         "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1225539.jpg",
-        "identified_font": null
+        "identified_font": "Bw Modelica"
     },
     {
         "task_id": "580013",
@@ -23909,7 +23909,7 @@
         "title": "Yungblud Idols",
         "instructions": "Does anyone know what font is being used here? \"Vogue\" is fairly close, but I think this font is slightly wider.",
         "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1226213.jpg",
-        "identified_font": null
+        "identified_font": "Riccione"
     },
     {
         "task_id": "580334",
@@ -23997,6 +23997,54 @@
         "title": "Barney Says Season 7-12",
         "instructions": "What font is for Barney Says from Season 7-12?",
         "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1226278.png",
+        "identified_font": null
+    },
+    {
+        "task_id": "580352",
+        "url": "https://www.dafont.com/forum/read/580352/what-are-these-fonts",
+        "title": "What are these fonts?",
+        "instructions": "IVE tracklist",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1226305.png",
+        "identified_font": "Kalina"
+    },
+    {
+        "task_id": "519697",
+        "url": "https://www.dafont.com/forum/read/519697/chuck-e-cheese-april-2004-2006-show-font",
+        "title": "Chuck E. Cheese April 2004/2006 show font",
+        "instructions": "Does anyone know what font from both Chuck E. Cheese showtapes from April 2004 and April 2006 is?",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/1/1100387.png?1",
+        "identified_font": "SF Groove Machine"
+    },
+    {
+        "task_id": "580351",
+        "url": "https://www.dafont.com/forum/read/580351/count-to-love",
+        "title": "Count to Love",
+        "instructions": null,
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1226303.png",
+        "identified_font": null
+    },
+    {
+        "task_id": "452117",
+        "url": "https://www.dafont.com/forum/read/452117/cec-ptt-logo",
+        "title": "CEC PTT Logo",
+        "instructions": "What fonts were used in the CEC PTT Logo? The Chuck E. Cheese fans want to know!",
+        "img_url": "https://www.dafont.com/forum/attach/orig/9/6/965946.png",
+        "identified_font": null
+    },
+    {
+        "task_id": "518852",
+        "url": "https://www.dafont.com/forum/read/518852/chuck-e-cheese-font-identification",
+        "title": "Chuck E. Cheese Font Identification",
+        "instructions": "Could anyone help me identify the font used for the word \"Pizza\"? Thanks.",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/0/1098810.png",
+        "identified_font": null
+    },
+    {
+        "task_id": "580349",
+        "url": "https://www.dafont.com/forum/read/580349/help",
+        "title": "help",
+        "instructions": null,
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1226296.jpg",
         "identified_font": null
     }
 ]
