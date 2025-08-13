@@ -39481,5 +39481,41 @@
         "candidate_font_3": "Hexagonal Monogram",
         "candidate_font_4": "",
         "candidate_font_5": ""
+    },
+    {
+        "task_id": "580356",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Montserrat",
+        "candidate_font_2": "Lato",
+        "candidate_font_3": "Open Sans",
+        "candidate_font_4": "Poppins",
+        "candidate_font_5": "Manrope"
+    },
+    {
+        "task_id": "580355",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Bodoni",
+        "candidate_font_2": "Didot",
+        "candidate_font_3": "Bodoni MT",
+        "candidate_font_4": "URW Bodoni",
+        "candidate_font_5": "ITC Bodoni"
+    },
+    {
+        "task_id": "580354",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Erbar Grotesk",
+        "candidate_font_2": "Neuzeit Grotesk",
+        "candidate_font_3": "Twentieth Century",
+        "candidate_font_4": "Spartan",
+        "candidate_font_5": "Granby"
+    },
+    {
+        "task_id": "580353",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Montserrat Regular",
+        "candidate_font_2": "Impact",
+        "candidate_font_3": "Interstate Regular",
+        "candidate_font_4": "",
+        "candidate_font_5": ""
     }
 ]
