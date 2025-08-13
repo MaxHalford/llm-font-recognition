@@ -39643,5 +39643,41 @@
         "candidate_font_3": "Impact",
         "candidate_font_4": "Haettenschweiler",
         "candidate_font_5": "Eurostile Extended Bold Oblique"
+    },
+    {
+        "task_id": "580375",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Lemon Milk Bold",
+        "candidate_font_2": "Lovely Heart",
+        "candidate_font_3": "Montserrat Black",
+        "candidate_font_4": "Brittany Signature",
+        "candidate_font_5": "Playlist Script"
+    },
+    {
+        "task_id": "566262",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Didot",
+        "candidate_font_2": "Bodoni",
+        "candidate_font_3": "Luxia Display",
+        "candidate_font_4": "Lighthaus",
+        "candidate_font_5": "Playfair Display"
+    },
+    {
+        "task_id": "580374",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Futura Bold",
+        "candidate_font_2": "Neuzeit Grotesk",
+        "candidate_font_3": "Erbar Grotesk",
+        "candidate_font_4": "Spartan",
+        "candidate_font_5": "Univers"
+    },
+    {
+        "task_id": "580372",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Lovely Saturday",
+        "candidate_font_2": "Brittany Signature",
+        "candidate_font_3": "Amsterdam Script",
+        "candidate_font_4": "The Historia Script",
+        "candidate_font_5": "Lovely Coffee"
     }
 ]
