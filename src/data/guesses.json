@@ -39679,5 +39679,68 @@
         "candidate_font_3": "Amsterdam Script",
         "candidate_font_4": "The Historia Script",
         "candidate_font_5": "Lovely Coffee"
+    },
+    {
+        "task_id": "580385",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Estillo",
+        "candidate_font_2": "Great Vibes",
+        "candidate_font_3": "Lavishly Script",
+        "candidate_font_4": "Alex Brush",
+        "candidate_font_5": "Allura"
+    },
+    {
+        "task_id": "580384",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Engravers Old English BT",
+        "candidate_font_2": "ITC Korinna",
+        "candidate_font_3": "Adobe Caslon Pro Italic",
+        "candidate_font_4": "Monotype Old English Text",
+        "candidate_font_5": "Windsor"
+    },
+    {
+        "task_id": "471302",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Eurostile Extended Oblique",
+        "candidate_font_2": "DIN Next LT Pro Black Italic",
+        "candidate_font_3": "Trade Gothic LT Std Extended Oblique",
+        "candidate_font_4": "Akzidenz-Grotesk Extended Italic",
+        "candidate_font_5": "Industry Bold Italic"
+    },
+    {
+        "task_id": "580381",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Stay Wild",
+        "candidate_font_2": "Thunderstorm",
+        "candidate_font_3": "Streetwear",
+        "candidate_font_4": "Hustle Brush",
+        "candidate_font_5": "Road Rage"
+    },
+    {
+        "task_id": "580380",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Aero Matics Bold Italic",
+        "candidate_font_2": "SF Sports Night",
+        "candidate_font_3": "SF TransRobotics",
+        "candidate_font_4": "Neuropol Italic",
+        "candidate_font_5": "Exo Bold Italic"
+    },
+    {
+        "task_id": "580379",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Neuzeit S",
+        "candidate_font_2": "Eurostile",
+        "candidate_font_3": "Bank Gothic",
+        "candidate_font_4": "Graphik",
+        "candidate_font_5": "Agency FB"
+    },
+    {
+        "task_id": "580377",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "VAG Rounded Std Black",
+        "candidate_font_2": "Montserrat Black",
+        "candidate_font_3": "Rubik Black",
+        "candidate_font_4": "Gobold Black",
+        "candidate_font_5": "Poppins Black"
     }
 ]
