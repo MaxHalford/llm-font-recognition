@@ -39373,5 +39373,14 @@
         "candidate_font_3": "Didot Headline",
         "candidate_font_4": "Bodoni Std",
         "candidate_font_5": ""
+    },
+    {
+        "task_id": "580334",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Augusta",
+        "candidate_font_2": "Requiem Text",
+        "candidate_font_3": "Adobe Garamond Pro",
+        "candidate_font_4": "Goudy Old Style",
+        "candidate_font_5": "Trajan Pro"
     }
 ]
