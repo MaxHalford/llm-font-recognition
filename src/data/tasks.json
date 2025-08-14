@@ -24302,5 +24302,45 @@
         "instructions": "what is this font?",
         "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1226368.png",
         "identified_font": null
+    },
+    {
+        "task_id": "580390",
+        "url": "https://www.dafont.com/forum/read/580390/font",
+        "title": "Font?",
+        "instructions": null,
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1226399.png",
+        "identified_font": null
+    },
+    {
+        "task_id": "580389",
+        "url": "https://www.dafont.com/forum/read/580389/pls-help",
+        "title": "Pls help",
+        "instructions": "What font is this?",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1226394.jpg",
+        "identified_font": null
+    },
+    {
+        "task_id": "580388",
+        "url": "https://www.dafont.com/forum/read/580388/real-beauty",
+        "title": "real beauty",
+        "instructions": "help please",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1226393.jpg",
+        "identified_font": null
+    },
+    {
+        "task_id": "580387",
+        "url": "https://www.dafont.com/forum/read/580387/font-help-please",
+        "title": "Font? Help please",
+        "instructions": null,
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1226392.jpg",
+        "identified_font": null
+    },
+    {
+        "task_id": "580386",
+        "url": "https://www.dafont.com/forum/read/580386/commander-keido-font",
+        "title": "\"Commander Keido\" Font",
+        "instructions": null,
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1226391.png",
+        "identified_font": null
     }
 ]
