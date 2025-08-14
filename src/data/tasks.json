@@ -22948,7 +22948,7 @@
         "url": "https://www.dafont.com/forum/read/580206/font-name-pls",
         "title": "Font name pls :)",
         "instructions": null,
-        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1226018.jpg",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1226018.png?1",
         "identified_font": null
     },
     {
@@ -24085,7 +24085,7 @@
         "title": "Which this font, please?",
         "instructions": null,
         "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1226335.png",
-        "identified_font": null
+        "identified_font": "Baguet"
     },
     {
         "task_id": "580363",
@@ -24293,7 +24293,7 @@
         "title": "What font it is?",
         "instructions": null,
         "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1226370.jpg",
-        "identified_font": null
+        "identified_font": "Organetto"
     },
     {
         "task_id": "580377",
@@ -24501,6 +24501,70 @@
         "title": "Which this font, please?",
         "instructions": null,
         "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1226428.png",
+        "identified_font": null
+    },
+    {
+        "task_id": "580415",
+        "url": "https://www.dafont.com/forum/read/580415/what-is-the-font-please",
+        "title": "what is the font please",
+        "instructions": "what is the font please",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1226450.jpg",
+        "identified_font": null
+    },
+    {
+        "task_id": "580414",
+        "url": "https://www.dafont.com/forum/read/580414/those-who-know-font-needed",
+        "title": "THOSE WHO KNOW... Font Needed",
+        "instructions": "Hello All, Does anyone know what font this is? \"THOSE WHO KNOW... SAVE BIG WITH JOE.",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1226449.jpg",
+        "identified_font": null
+    },
+    {
+        "task_id": "580413",
+        "url": "https://www.dafont.com/forum/read/580413/human-resource-machine-font",
+        "title": "Human Resource Machine font?",
+        "instructions": "Whats the font here?",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1226448.png",
+        "identified_font": null
+    },
+    {
+        "task_id": "580412",
+        "url": "https://www.dafont.com/forum/read/580412/help-with-these-fonts-please",
+        "title": "Help with these fonts please",
+        "instructions": null,
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1226447.png",
+        "identified_font": null
+    },
+    {
+        "task_id": "580411",
+        "url": "https://www.dafont.com/forum/read/580411/nome-del-font",
+        "title": "Nome del font",
+        "instructions": "Nome del font, grazie.",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1226446.jpg",
+        "identified_font": null
+    },
+    {
+        "task_id": "580410",
+        "url": "https://www.dafont.com/forum/read/580410/coffee-font",
+        "title": "Coffee font",
+        "instructions": "Hello can anyone please help me identify the fonts used in this image? I would greatly appreciate it!",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1226445.png",
+        "identified_font": null
+    },
+    {
+        "task_id": "580409",
+        "url": "https://www.dafont.com/forum/read/580409/what-font-is-this",
+        "title": "What font is this?",
+        "instructions": null,
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1226444.png",
+        "identified_font": null
+    },
+    {
+        "task_id": "580408",
+        "url": "https://www.dafont.com/forum/read/580408/what-the-font",
+        "title": "What the Font?",
+        "instructions": null,
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1226436.png",
         "identified_font": null
     }
 ]
