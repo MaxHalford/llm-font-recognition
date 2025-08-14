@@ -39967,5 +39967,77 @@
         "candidate_font_3": "Proxima Nova Black",
         "candidate_font_4": "Rubik Black",
         "candidate_font_5": "Univers 93 Extended Black"
+    },
+    {
+        "task_id": "580415",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Bayshore",
+        "candidate_font_2": "SignPainter House Script",
+        "candidate_font_3": "Hokjesgeest",
+        "candidate_font_4": "Quickpen",
+        "candidate_font_5": "Brannboll FS"
+    },
+    {
+        "task_id": "580414",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Proxima Nova Soft",
+        "candidate_font_2": "VAG Rounded",
+        "candidate_font_3": "Gotham Rounded",
+        "candidate_font_4": "Avenir Next Rounded",
+        "candidate_font_5": "Sofia Pro Rounded"
+    },
+    {
+        "task_id": "580413",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Comfortaa",
+        "candidate_font_2": "",
+        "candidate_font_3": "",
+        "candidate_font_4": "",
+        "candidate_font_5": ""
+    },
+    {
+        "task_id": "580412",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Impact",
+        "candidate_font_2": "Helvetica Neue",
+        "candidate_font_3": "Arial",
+        "candidate_font_4": "Roboto",
+        "candidate_font_5": "Bebas Neue"
+    },
+    {
+        "task_id": "580411",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Team Spirit",
+        "candidate_font_2": "SF Sports Night",
+        "candidate_font_3": "SF Collegiate",
+        "candidate_font_4": "Varsity Block",
+        "candidate_font_5": "Octin College"
+    },
+    {
+        "task_id": "580410",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Poppins ExtraBold",
+        "candidate_font_2": "Eurostile Bold",
+        "candidate_font_3": "",
+        "candidate_font_4": "",
+        "candidate_font_5": ""
+    },
+    {
+        "task_id": "580409",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Springfield",
+        "candidate_font_2": "The Last Dream",
+        "candidate_font_3": "Stay Grumpy",
+        "candidate_font_4": "Hello Mozza",
+        "candidate_font_5": "Butter Cookies"
+    },
+    {
+        "task_id": "580408",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Action Is",
+        "candidate_font_2": "Badaboom BB",
+        "candidate_font_3": "Porker",
+        "candidate_font_4": "Komika Title",
+        "candidate_font_5": "Bangers"
     }
 ]
