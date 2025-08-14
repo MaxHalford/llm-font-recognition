@@ -39742,5 +39742,50 @@
         "candidate_font_3": "Rubik Black",
         "candidate_font_4": "Gobold Black",
         "candidate_font_5": "Poppins Black"
+    },
+    {
+        "task_id": "580390",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Action Is",
+        "candidate_font_2": "Porky's",
+        "candidate_font_3": "Badaboom BB",
+        "candidate_font_4": "Komika Title",
+        "candidate_font_5": ""
+    },
+    {
+        "task_id": "580389",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Big Noodle Titling",
+        "candidate_font_2": "Bebas Neue",
+        "candidate_font_3": "Anton",
+        "candidate_font_4": "League Gothic",
+        "candidate_font_5": "Agency FB"
+    },
+    {
+        "task_id": "580388",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Hello Lary Script",
+        "candidate_font_2": "Futura",
+        "candidate_font_3": "Magnolia Sky",
+        "candidate_font_4": "Beautiful Bloom",
+        "candidate_font_5": "Montserrat"
+    },
+    {
+        "task_id": "580387",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "SF Square Head Bold Italic",
+        "candidate_font_2": "VAG Rounded Bold",
+        "candidate_font_3": "Arial Rounded MT Bold",
+        "candidate_font_4": "Pump Demi Bold",
+        "candidate_font_5": "Stop"
+    },
+    {
+        "task_id": "580386",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Capture it",
+        "candidate_font_2": "Agency FB",
+        "candidate_font_3": "Eurostile",
+        "candidate_font_4": "Bank Gothic",
+        "candidate_font_5": "Bebas Neue"
     }
 ]
