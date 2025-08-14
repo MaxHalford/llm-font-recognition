@@ -39850,5 +39850,14 @@
         "candidate_font_3": "The Man On The Moon",
         "candidate_font_4": "Space Race",
         "candidate_font_5": "Microgramma D Extended"
+    },
+    {
+        "task_id": "580396",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Rosemary Font",
+        "candidate_font_2": "Dancing Alone",
+        "candidate_font_3": "KG Always A Good Time",
+        "candidate_font_4": "October Twilight",
+        "candidate_font_5": "Brush Script MT"
     }
 ]
