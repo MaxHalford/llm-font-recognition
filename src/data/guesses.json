@@ -39787,5 +39787,68 @@
         "candidate_font_3": "Eurostile",
         "candidate_font_4": "Bank Gothic",
         "candidate_font_5": "Bebas Neue"
+    },
+    {
+        "task_id": "580395",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Pangolin",
+        "candidate_font_2": "Gochi Hand",
+        "candidate_font_3": "Handlee",
+        "candidate_font_4": "Architects Daughter",
+        "candidate_font_5": "Coming Soon"
+    },
+    {
+        "task_id": "580394",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Wigglytuff",
+        "candidate_font_2": "Cheesecake",
+        "candidate_font_3": "HVD Peace",
+        "candidate_font_4": "Liquid Milk",
+        "candidate_font_5": "Acid House"
+    },
+    {
+        "task_id": "580391",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Albertus Nova Bold",
+        "candidate_font_2": "Copperplate Gothic Bold",
+        "candidate_font_3": "Engravers Gothic Std Bold",
+        "candidate_font_4": "Montserrat Bold",
+        "candidate_font_5": "Open Sans Extrabold"
+    },
+    {
+        "task_id": "544299",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "HorrorFind",
+        "candidate_font_2": "YouMurderer",
+        "candidate_font_3": "DeathRattle",
+        "candidate_font_4": "Grim Ghost",
+        "candidate_font_5": "Metal Mania"
+    },
+    {
+        "task_id": "580393",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Symphony Script",
+        "candidate_font_2": "Bickham Script Pro",
+        "candidate_font_3": "Ambrosia Script",
+        "candidate_font_4": "Carolina Signature",
+        "candidate_font_5": "Loverine Script"
+    },
+    {
+        "task_id": "580392",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Blobfish",
+        "candidate_font_2": "Good Dog Cool",
+        "candidate_font_3": "Chubby Cheeks",
+        "candidate_font_4": "Bubblegum Sans",
+        "candidate_font_5": "Porky's"
+    },
+    {
+        "task_id": "22337",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Futura Bold",
+        "candidate_font_2": "Kid Cudi Logo",
+        "candidate_font_3": "The Man On The Moon",
+        "candidate_font_4": "Space Race",
+        "candidate_font_5": "Microgramma D Extended"
     }
 ]
