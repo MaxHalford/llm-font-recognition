@@ -24348,7 +24348,7 @@
         "url": "https://www.dafont.com/forum/read/580395/please-help",
         "title": "please help",
         "instructions": "what font?",
-        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1226411.jpg",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1226411.png?1",
         "identified_font": null
     },
     {
@@ -24405,6 +24405,70 @@
         "title": "KiiiKiii and Dancing Alone only",
         "instructions": null,
         "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1226413.png",
+        "identified_font": null
+    },
+    {
+        "task_id": "580404",
+        "url": "https://www.dafont.com/forum/read/580404/help-please",
+        "title": "help please!",
+        "instructions": "this font looks so familiar but i cant find the name anywhere and id love to use it for a tattoo",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1226423.png",
+        "identified_font": null
+    },
+    {
+        "task_id": "580403",
+        "url": "https://www.dafont.com/forum/read/580403/help-please-what-font-they-used",
+        "title": "Help please! What font they used?",
+        "instructions": null,
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1226422.png",
+        "identified_font": null
+    },
+    {
+        "task_id": "580402",
+        "url": "https://www.dafont.com/forum/read/580402/sydney",
+        "title": "Sydney",
+        "instructions": null,
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1226421.png",
+        "identified_font": null
+    },
+    {
+        "task_id": "580401",
+        "url": "https://www.dafont.com/forum/read/580401/steaks",
+        "title": "Steaks",
+        "instructions": null,
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1226420.png",
+        "identified_font": null
+    },
+    {
+        "task_id": "580400",
+        "url": "https://www.dafont.com/forum/read/580400/id-font",
+        "title": "ID FONT?",
+        "instructions": null,
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1226419.png",
+        "identified_font": null
+    },
+    {
+        "task_id": "580399",
+        "url": "https://www.dafont.com/forum/read/580399/dzepna-knjiga-jsjs",
+        "title": "Dzepna knjiga jsjs",
+        "instructions": null,
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1226418.png",
+        "identified_font": null
+    },
+    {
+        "task_id": "580398",
+        "url": "https://www.dafont.com/forum/read/580398/dzepna-knjiga-401-crveni-gusar",
+        "title": "Dzepna Knjiga 401 - Crveni Gusar",
+        "instructions": null,
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1226417.jpg",
+        "identified_font": null
+    },
+    {
+        "task_id": "580397",
+        "url": "https://www.dafont.com/forum/read/580397/dzepna-knjiga-400-etiri-pokojna-serifa",
+        "title": "Dzepna Knjiga 400 - &#268;etiri pokojna \u009aerifa",
+        "instructions": null,
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1226416.jpg",
         "identified_font": null
     }
 ]
