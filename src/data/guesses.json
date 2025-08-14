@@ -39859,5 +39859,77 @@
         "candidate_font_3": "KG Always A Good Time",
         "candidate_font_4": "October Twilight",
         "candidate_font_5": "Brush Script MT"
+    },
+    {
+        "task_id": "580404",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Shelley Allegro",
+        "candidate_font_2": "Monotype Corsiva",
+        "candidate_font_3": "Snell Roundhand",
+        "candidate_font_4": "Kuenstler Script",
+        "candidate_font_5": "Zapf Chancery"
+    },
+    {
+        "task_id": "580403",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "SF Sports Night Italic",
+        "candidate_font_2": "SF Speedburner Italic",
+        "candidate_font_3": "Defuse Italic",
+        "candidate_font_4": "Turbo Racer Italic",
+        "candidate_font_5": "Velocity"
+    },
+    {
+        "task_id": "580402",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "New Baskerville",
+        "candidate_font_2": "Miller Text",
+        "candidate_font_3": "Baskerville",
+        "candidate_font_4": "Minion Pro",
+        "candidate_font_5": "Bookman Old Style"
+    },
+    {
+        "task_id": "580401",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Kuenstler Script",
+        "candidate_font_2": "Bickham Script Pro",
+        "candidate_font_3": "Edwardian Script ITC",
+        "candidate_font_4": "Shelley Script",
+        "candidate_font_5": "Kunstler Script"
+    },
+    {
+        "task_id": "580400",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Raleway Hairline",
+        "candidate_font_2": "Raleway Thin",
+        "candidate_font_3": "Montserrat Light",
+        "candidate_font_4": "Lato Hairline",
+        "candidate_font_5": "Open Sans Light"
+    },
+    {
+        "task_id": "580399",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Brush Script MT",
+        "candidate_font_2": "Franklin Gothic Condensed",
+        "candidate_font_3": "Helvetica Neue Regular",
+        "candidate_font_4": "Helvetica Neue Light",
+        "candidate_font_5": "Trade Gothic Condensed"
+    },
+    {
+        "task_id": "580398",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Impact",
+        "candidate_font_2": "Brush Script Std",
+        "candidate_font_3": "Franklin Gothic Compressed",
+        "candidate_font_4": "SignPainter House Script",
+        "candidate_font_5": "Berkeley Old Style"
+    },
+    {
+        "task_id": "580397",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Compacta Bold",
+        "candidate_font_2": "Mistral",
+        "candidate_font_3": "Franklin Gothic Bold",
+        "candidate_font_4": "",
+        "candidate_font_5": ""
     }
 ]
