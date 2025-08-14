@@ -23772,7 +23772,7 @@
         "url": "https://www.dafont.com/forum/read/580330/font-fuente-thanks",
         "title": "Font? \u00bfFuente? Thanks!",
         "instructions": null,
-        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1226241.jpg",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1226241.png?1",
         "identified_font": null
     },
     {
@@ -23844,7 +23844,7 @@
         "url": "https://www.dafont.com/forum/read/580323/which-font-for-daejeve",
         "title": "which font for daejeve?",
         "instructions": null,
-        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1226226.png",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1226226.png?1",
         "identified_font": null
     },
     {
@@ -24332,7 +24332,7 @@
         "url": "https://www.dafont.com/forum/read/580387/font-help-please",
         "title": "Font? Help please",
         "instructions": null,
-        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1226392.jpg",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1226392.png?1",
         "identified_font": null
     },
     {
@@ -24437,7 +24437,7 @@
         "title": "Steaks",
         "instructions": null,
         "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1226420.png",
-        "identified_font": null
+        "identified_font": "Carta Nueva"
     },
     {
         "task_id": "580400",
@@ -24469,6 +24469,38 @@
         "title": "Dzepna Knjiga 400 - &#268;etiri pokojna \u009aerifa",
         "instructions": null,
         "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1226416.jpg",
+        "identified_font": null
+    },
+    {
+        "task_id": "580407",
+        "url": "https://www.dafont.com/forum/read/580407/what-the-font",
+        "title": "What the Font?",
+        "instructions": null,
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1226435.png",
+        "identified_font": null
+    },
+    {
+        "task_id": "580406",
+        "url": "https://www.dafont.com/forum/read/580406/font-id-please",
+        "title": "Font ID please",
+        "instructions": "Could anyone assist with a font ID for this image, please? TIA",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1226432.jpg",
+        "identified_font": null
+    },
+    {
+        "task_id": "572924",
+        "url": "https://www.dafont.com/forum/read/572924/japenese-font-name-pls",
+        "title": "japenese font name pls",
+        "instructions": "do you know the name of the japanese writing style?",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1210902.png",
+        "identified_font": null
+    },
+    {
+        "task_id": "580405",
+        "url": "https://www.dafont.com/forum/read/580405/which-this-font-please",
+        "title": "Which this font, please?",
+        "instructions": null,
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1226428.png",
         "identified_font": null
     }
 ]
