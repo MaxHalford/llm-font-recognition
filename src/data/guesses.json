@@ -40039,5 +40039,68 @@
         "candidate_font_3": "Porker",
         "candidate_font_4": "Komika Title",
         "candidate_font_5": "Bangers"
+    },
+    {
+        "task_id": "580422",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Legend M54",
+        "candidate_font_2": "Lobster",
+        "candidate_font_3": "Grand Hotel",
+        "candidate_font_4": "Pacifico",
+        "candidate_font_5": "Brush Script MT"
+    },
+    {
+        "task_id": "580421",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Futura",
+        "candidate_font_2": "",
+        "candidate_font_3": "",
+        "candidate_font_4": "",
+        "candidate_font_5": ""
+    },
+    {
+        "task_id": "580420",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Keep on Truckin' FG",
+        "candidate_font_2": "Cheapside",
+        "candidate_font_3": "Action Jackson",
+        "candidate_font_4": "Groovy Happening",
+        "candidate_font_5": "Funkydori"
+    },
+    {
+        "task_id": "580419",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Moonlight Script",
+        "candidate_font_2": "Magnolia Sky",
+        "candidate_font_3": "Brittany Signature",
+        "candidate_font_4": "Stay Grateful",
+        "candidate_font_5": "Hello Stockholm"
+    },
+    {
+        "task_id": "580418",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Big Noodle Titling",
+        "candidate_font_2": "Impact",
+        "candidate_font_3": "Bebas Neue",
+        "candidate_font_4": "Compacta",
+        "candidate_font_5": "Agency FB"
+    },
+    {
+        "task_id": "580417",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Bodoni MT",
+        "candidate_font_2": "Didot",
+        "candidate_font_3": "Bodoni Std",
+        "candidate_font_4": "Bodoni 72",
+        "candidate_font_5": "LTC Pescadero"
+    },
+    {
+        "task_id": "580416",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Quigley Wiggly",
+        "candidate_font_2": "Bayshore",
+        "candidate_font_3": "Milkshake",
+        "candidate_font_4": "Pacifico",
+        "candidate_font_5": "Grand Hotel"
     }
 ]
