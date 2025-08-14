@@ -39931,5 +39931,41 @@
         "candidate_font_3": "Franklin Gothic Bold",
         "candidate_font_4": "",
         "candidate_font_5": ""
+    },
+    {
+        "task_id": "580407",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Comic Bubbles Outline",
+        "candidate_font_2": "Bubblegum Outline",
+        "candidate_font_3": "Puffy Outline",
+        "candidate_font_4": "Hand Drawn Outline",
+        "candidate_font_5": "Cartoon Outline"
+    },
+    {
+        "task_id": "580406",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Riesling",
+        "candidate_font_2": "Charleston",
+        "candidate_font_3": "Metropolis 1920",
+        "candidate_font_4": "Deco Neue Inline",
+        "candidate_font_5": "Broadway"
+    },
+    {
+        "task_id": "572924",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Seto Font",
+        "candidate_font_2": "Anzumoji",
+        "candidate_font_3": "Makiba font",
+        "candidate_font_4": "Kurenaido",
+        "candidate_font_5": "Mochiy Pop"
+    },
+    {
+        "task_id": "580405",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Gotham Black",
+        "candidate_font_2": "Montserrat Black",
+        "candidate_font_3": "Proxima Nova Black",
+        "candidate_font_4": "Rubik Black",
+        "candidate_font_5": "Univers 93 Extended Black"
     }
 ]
