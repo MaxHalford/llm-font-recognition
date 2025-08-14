@@ -23908,7 +23908,7 @@
         "url": "https://www.dafont.com/forum/read/580311/yungblud-idols",
         "title": "Yungblud Idols",
         "instructions": "Does anyone know what font is being used here? \"Vogue\" is fairly close, but I think this font is slightly wider.",
-        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1226213.jpg",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1226213.png?1",
         "identified_font": "Riccione"
     },
     {
@@ -24093,7 +24093,7 @@
         "title": "Grand Club Icarus",
         "instructions": null,
         "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1226333.png",
-        "identified_font": null
+        "identified_font": "Not A Number"
     },
     {
         "task_id": "580362",
@@ -24309,7 +24309,7 @@
         "title": "Font?",
         "instructions": null,
         "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1226399.png",
-        "identified_font": null
+        "identified_font": "Grobold"
     },
     {
         "task_id": "580389",
@@ -24341,6 +24341,62 @@
         "title": "\"Commander Keido\" Font",
         "instructions": null,
         "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1226391.png",
+        "identified_font": null
+    },
+    {
+        "task_id": "580395",
+        "url": "https://www.dafont.com/forum/read/580395/please-help",
+        "title": "please help",
+        "instructions": "what font?",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1226411.jpg",
+        "identified_font": null
+    },
+    {
+        "task_id": "580394",
+        "url": "https://www.dafont.com/forum/read/580394/name-of-font",
+        "title": "Name of font",
+        "instructions": "Whats the name of this font",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1226409.jpg",
+        "identified_font": null
+    },
+    {
+        "task_id": "580391",
+        "url": "https://www.dafont.com/forum/read/580391/looking-for-this-font-please",
+        "title": "Looking for this font please",
+        "instructions": null,
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1226402.png?1",
+        "identified_font": null
+    },
+    {
+        "task_id": "544299",
+        "url": "https://www.dafont.com/forum/read/544299/knocked-loose-font",
+        "title": "KNOCKED LOOSE font",
+        "instructions": "Hey there! Can you help me out with something? I'm trying to figure out what font this is. Any ideas? Thanks",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/1/1150722.png?1",
+        "identified_font": null
+    },
+    {
+        "task_id": "580393",
+        "url": "https://www.dafont.com/forum/read/580393/help-me-please",
+        "title": "Help me please",
+        "instructions": "Practice & Rehealsal font?",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1226406.png?1",
+        "identified_font": null
+    },
+    {
+        "task_id": "580392",
+        "url": "https://www.dafont.com/forum/read/580392/bruno-mars",
+        "title": "BRUNO MARS",
+        "instructions": null,
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1226403.png?1",
+        "identified_font": null
+    },
+    {
+        "task_id": "22337",
+        "url": "https://www.dafont.com/forum/read/22337/kid-cudi-man-on-the-moon-font",
+        "title": "kid cudi man on the moon font",
+        "instructions": null,
+        "img_url": "https://www.dafont.com/forum/attach/orig/5/7/57766.jpg",
         "identified_font": null
     }
 ]
