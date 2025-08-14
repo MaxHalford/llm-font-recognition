@@ -23852,7 +23852,7 @@
         "url": "https://www.dafont.com/forum/read/580322/riia-certifications-font-please",
         "title": "\"riia certifications\" font, please.",
         "instructions": null,
-        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1226225.jpg",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1226225.png?1",
         "identified_font": null
     },
     {
@@ -24613,7 +24613,7 @@
         "title": "What font it is?",
         "instructions": null,
         "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1226455.png",
-        "identified_font": null
+        "identified_font": "Cinzel"
     },
     {
         "task_id": "580416",
@@ -24621,6 +24621,174 @@
         "title": "what is the font please",
         "instructions": "please help me identify the following font, thanks",
         "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1226452.jpg",
+        "identified_font": null
+    },
+    {
+        "task_id": "580445",
+        "url": "https://www.dafont.com/forum/read/580445/wich-one-is-this-font",
+        "title": "wich one is this font?",
+        "instructions": null,
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1226493.jpg",
+        "identified_font": "Madina Script"
+    },
+    {
+        "task_id": "580435",
+        "url": "https://www.dafont.com/forum/read/580435/font-id",
+        "title": "font ID",
+        "instructions": "Does anyone know what font this is?",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1226478.png",
+        "identified_font": "Made By Bears"
+    },
+    {
+        "task_id": "580443",
+        "url": "https://www.dafont.com/forum/read/580443/font-of-the-words-castaway",
+        "title": "font of the words castaway",
+        "instructions": null,
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1226487.png",
+        "identified_font": null
+    },
+    {
+        "task_id": "580444",
+        "url": "https://www.dafont.com/forum/read/580444/what-is-this-font-naimakka-logo",
+        "title": "What is this font? (Naimakka logo)",
+        "instructions": null,
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1226492.jpg",
+        "identified_font": null
+    },
+    {
+        "task_id": "580441",
+        "url": "https://www.dafont.com/forum/read/580441/what-s-this-font",
+        "title": "what's this font",
+        "instructions": null,
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1226484.png",
+        "identified_font": "Dream of me"
+    },
+    {
+        "task_id": "580442",
+        "url": "https://www.dafont.com/forum/read/580442/font-please",
+        "title": "Font? Please.",
+        "instructions": null,
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1226485.jpg",
+        "identified_font": "Playfair Display"
+    },
+    {
+        "task_id": "580440",
+        "url": "https://www.dafont.com/forum/read/580440/res-power-for-good",
+        "title": "RES power for good",
+        "instructions": "I'm mostly needing the bottom line of text, but if you know the RES part, I'll take that too.",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1226483.png",
+        "identified_font": null
+    },
+    {
+        "task_id": "580439",
+        "url": "https://www.dafont.com/forum/read/580439/240-domeniko-rea-krik",
+        "title": "240 Domeniko Rea - Krik",
+        "instructions": null,
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1226482.jpg",
+        "identified_font": null
+    },
+    {
+        "task_id": "580438",
+        "url": "https://www.dafont.com/forum/read/580438/377-na-irtisu",
+        "title": "377 Na irti\u009au",
+        "instructions": null,
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1226481.jpg",
+        "identified_font": null
+    },
+    {
+        "task_id": "580437",
+        "url": "https://www.dafont.com/forum/read/580437/vetar-ne-zna-itati-knjiga-n",
+        "title": "Vetar ne zna &#269;itati knjiga n",
+        "instructions": null,
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1226480.jpg",
+        "identified_font": null
+    },
+    {
+        "task_id": "580434",
+        "url": "https://www.dafont.com/forum/read/580434/uhoda-1963",
+        "title": "Uhoda 1963",
+        "instructions": null,
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1226477.jpg",
+        "identified_font": null
+    },
+    {
+        "task_id": "580433",
+        "url": "https://www.dafont.com/forum/read/580433/mutivoda-1960",
+        "title": "Mutivoda 1960",
+        "instructions": null,
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1226476.jpg",
+        "identified_font": null
+    },
+    {
+        "task_id": "580432",
+        "url": "https://www.dafont.com/forum/read/580432/347-ivan-olbraht-hajduk-nikola-suhaj",
+        "title": "347 Ivan Olbraht Hajduk Nikola Suhaj",
+        "instructions": null,
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1226475.jpg",
+        "identified_font": null
+    },
+    {
+        "task_id": "580431",
+        "url": "https://www.dafont.com/forum/read/580431/346-erskin-koldvel-majstor",
+        "title": "346 Erskin Koldvel Majstor",
+        "instructions": null,
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1226474.jpg",
+        "identified_font": null
+    },
+    {
+        "task_id": "580430",
+        "url": "https://www.dafont.com/forum/read/580430/355-a-moroa-ljubi-ice-u-srijedu",
+        "title": "355 A. Moroa Ljubi&#269;ice u srijedu",
+        "instructions": null,
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1226473.png",
+        "identified_font": null
+    },
+    {
+        "task_id": "580429",
+        "url": "https://www.dafont.com/forum/read/580429/389-agata-kristi-tajna-7-broj-anika",
+        "title": "389 Agata Kristi Tajna 7 broj&#269;anika",
+        "instructions": null,
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1226472.jpg",
+        "identified_font": null
+    },
+    {
+        "task_id": "580428",
+        "url": "https://www.dafont.com/forum/read/580428/390-k-filipovic-provincijska-ljubav",
+        "title": "390 K. Filipovic - Provincijska Ljubav",
+        "instructions": null,
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1226471.jpg",
+        "identified_font": null
+    },
+    {
+        "task_id": "580427",
+        "url": "https://www.dafont.com/forum/read/580427/397-mutivoda-onore-de-balzak",
+        "title": "397 mutivoda - onore de balzak",
+        "instructions": null,
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1226470.jpg",
+        "identified_font": null
+    },
+    {
+        "task_id": "580426",
+        "url": "https://www.dafont.com/forum/read/580426/409-prem-and-jedna-indijska-ljubav",
+        "title": "409 Prem &#268;and Jedna indijska ljubav",
+        "instructions": null,
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1226469.jpg",
+        "identified_font": null
+    },
+    {
+        "task_id": "580425",
+        "url": "https://www.dafont.com/forum/read/580425/font-id",
+        "title": "font ID",
+        "instructions": "Does anyone know what font this is?",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1226468.jpg",
+        "identified_font": null
+    },
+    {
+        "task_id": "580424",
+        "url": "https://www.dafont.com/forum/read/580424/415-d-joni-ev-na-karti-nije-ozna-eno",
+        "title": "415 D. Joni&#269;ev Na karti nije ozna&#269;eno",
+        "instructions": null,
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1226467.png",
         "identified_font": null
     }
 ]
