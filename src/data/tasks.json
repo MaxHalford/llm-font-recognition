@@ -24317,7 +24317,7 @@
         "title": "Pls help",
         "instructions": "What font is this?",
         "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1226394.jpg",
-        "identified_font": null
+        "identified_font": "Enigma"
     },
     {
         "task_id": "580388",
@@ -24397,6 +24397,14 @@
         "title": "kid cudi man on the moon font",
         "instructions": null,
         "img_url": "https://www.dafont.com/forum/attach/orig/5/7/57766.jpg",
+        "identified_font": null
+    },
+    {
+        "task_id": "580396",
+        "url": "https://www.dafont.com/forum/read/580396/kiiikiii-and-dancing-alone-only",
+        "title": "KiiiKiii and Dancing Alone only",
+        "instructions": null,
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1226413.png",
         "identified_font": null
     }
 ]
