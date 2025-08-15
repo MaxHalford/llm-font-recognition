@@ -40435,5 +40435,77 @@
         "candidate_font_3": "Augustus",
         "candidate_font_4": "Times New Roman",
         "candidate_font_5": "Cardo"
+    },
+    {
+        "task_id": "580488",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "ITC American Typewriter Heavy",
+        "candidate_font_2": "Rockwell Heavy",
+        "candidate_font_3": "Stymie Bold",
+        "candidate_font_4": "Clarendon Black",
+        "candidate_font_5": "Serifa Black"
+    },
+    {
+        "task_id": "580487",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Blooby",
+        "candidate_font_2": "Soft Bubble",
+        "candidate_font_3": "Bubble Love",
+        "candidate_font_4": "Bubblegum",
+        "candidate_font_5": "Puffy"
+    },
+    {
+        "task_id": "580486",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Upheaval TT",
+        "candidate_font_2": "04b03",
+        "candidate_font_3": "Pixelmix",
+        "candidate_font_4": "Press Start 2P",
+        "candidate_font_5": "Minecraftia"
+    },
+    {
+        "task_id": "580485",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "SF Sports Night",
+        "candidate_font_2": "Speedfreak",
+        "candidate_font_3": "Fast Track",
+        "candidate_font_4": "Oblivion",
+        "candidate_font_5": "Motion Control"
+    },
+    {
+        "task_id": "580484",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Cream Candy",
+        "candidate_font_2": "Groovy",
+        "candidate_font_3": "Bubblegum Pop",
+        "candidate_font_4": "Stay High",
+        "candidate_font_5": "Porky's"
+    },
+    {
+        "task_id": "580483",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Hustler Script",
+        "candidate_font_2": "Road Race",
+        "candidate_font_3": "Brotherhood Script",
+        "candidate_font_4": "Smoothy Pro",
+        "candidate_font_5": "Good Brush"
+    },
+    {
+        "task_id": "580480",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Stay Grateful",
+        "candidate_font_2": "Better Together",
+        "candidate_font_3": "Magnolia Sky",
+        "candidate_font_4": "Autumn Chant",
+        "candidate_font_5": "The Rustic"
+    },
+    {
+        "task_id": "580479",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Chicken Pie",
+        "candidate_font_2": "Bubblegum Sans",
+        "candidate_font_3": "Chewy",
+        "candidate_font_4": "Love Ya Like A Sister",
+        "candidate_font_5": "KG What The Teacher Says"
     }
 ]
