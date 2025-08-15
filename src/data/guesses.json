@@ -40363,5 +40363,32 @@
         "candidate_font_3": "Bebas Neue Bold",
         "candidate_font_4": "Oswald Bold",
         "candidate_font_5": "Montserrat Black"
+    },
+    {
+        "task_id": "573327",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Gotham Medium",
+        "candidate_font_2": "Uni Sans Heavy",
+        "candidate_font_3": "",
+        "candidate_font_4": "",
+        "candidate_font_5": ""
+    },
+    {
+        "task_id": "580463",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Porky's",
+        "candidate_font_2": "Bubblegum Sans",
+        "candidate_font_3": "Chewy",
+        "candidate_font_4": "Luckiest Guy",
+        "candidate_font_5": "Fredoka One"
+    },
+    {
+        "task_id": "580461",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Gobold Black",
+        "candidate_font_2": "SF Collegiate",
+        "candidate_font_3": "Impact",
+        "candidate_font_4": "Burbank Big Condensed Black",
+        "candidate_font_5": "Akira Expanded"
     }
 ]
