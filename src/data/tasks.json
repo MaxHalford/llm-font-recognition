@@ -24444,7 +24444,7 @@
         "url": "https://www.dafont.com/forum/read/580400/id-font",
         "title": "ID FONT?",
         "instructions": null,
-        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1226419.png",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1226419.png?1",
         "identified_font": null
     },
     {
@@ -24532,7 +24532,7 @@
         "url": "https://www.dafont.com/forum/read/580412/help-with-these-fonts-please",
         "title": "Help with these fonts please",
         "instructions": null,
-        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1226447.png",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1226447.png?1",
         "identified_font": null
     },
     {
@@ -24917,6 +24917,46 @@
         "title": "thumbnail font similar to PSG",
         "instructions": "trying to find this font that looks similar to the New PSG logo but still no dice on either",
         "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1226538.jpg",
+        "identified_font": null
+    },
+    {
+        "task_id": "580478",
+        "url": "https://www.dafont.com/forum/read/580478/font-name-plz",
+        "title": "font name plz",
+        "instructions": null,
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1226569.png",
+        "identified_font": null
+    },
+    {
+        "task_id": "580477",
+        "url": "https://www.dafont.com/forum/read/580477/scheduler",
+        "title": "SCHEDULER",
+        "instructions": null,
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1226568.png",
+        "identified_font": null
+    },
+    {
+        "task_id": "580476",
+        "url": "https://www.dafont.com/forum/read/580476/boytude",
+        "title": "BOYtude",
+        "instructions": null,
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1226567.jpg",
+        "identified_font": null
+    },
+    {
+        "task_id": "580475",
+        "url": "https://www.dafont.com/forum/read/580475/what-font",
+        "title": "What font?",
+        "instructions": null,
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1226557.jpg",
+        "identified_font": null
+    },
+    {
+        "task_id": "580464",
+        "url": "https://www.dafont.com/forum/read/580464/font-name-pls",
+        "title": "Font name pls :)",
+        "instructions": null,
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1226545.jpg",
         "identified_font": null
     }
 ]
