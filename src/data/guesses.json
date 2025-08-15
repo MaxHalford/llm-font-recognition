@@ -40507,5 +40507,68 @@
         "candidate_font_3": "Chewy",
         "candidate_font_4": "Love Ya Like A Sister",
         "candidate_font_5": "KG What The Teacher Says"
+    },
+    {
+        "task_id": "580497",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Crimson Text Light",
+        "candidate_font_2": "Source Sans Pro Light",
+        "candidate_font_3": "EB Garamond Light",
+        "candidate_font_4": "Open Sans Light",
+        "candidate_font_5": "Cormorant Garamond Light"
+    },
+    {
+        "task_id": "580495",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "College Rough",
+        "candidate_font_2": "Storyteller Script",
+        "candidate_font_3": "Bebas Neue",
+        "candidate_font_4": "The Rustic",
+        "candidate_font_5": "Varsity Team"
+    },
+    {
+        "task_id": "580494",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Franklin Gothic Bold Condensed",
+        "candidate_font_2": "Trade Gothic Bold Condensed",
+        "candidate_font_3": "Akzidenz-Grotesk Bold Condensed",
+        "candidate_font_4": "Univers 67 Bold Condensed",
+        "candidate_font_5": ""
+    },
+    {
+        "task_id": "580493",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "VAG Rounded",
+        "candidate_font_2": "Segment14",
+        "candidate_font_3": "Arial Rounded MT Bold",
+        "candidate_font_4": "Gotham Rounded",
+        "candidate_font_5": "Bank Gothic"
+    },
+    {
+        "task_id": "580491",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Viner Hand ITC",
+        "candidate_font_2": "Segoe Script",
+        "candidate_font_3": "Lucida Handwriting",
+        "candidate_font_4": "Freestyle Script",
+        "candidate_font_5": "Brush Script MT"
+    },
+    {
+        "task_id": "580490",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Hand Drawn Outline",
+        "candidate_font_2": "Doodle Outline",
+        "candidate_font_3": "Sketch Outline",
+        "candidate_font_4": "Hello Cute Outline",
+        "candidate_font_5": "Stay Lovely Outline"
+    },
+    {
+        "task_id": "580489",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Streetwear",
+        "candidate_font_2": "Oswald Bold",
+        "candidate_font_3": "Arial Black",
+        "candidate_font_4": "Porky's",
+        "candidate_font_5": ""
     }
 ]
