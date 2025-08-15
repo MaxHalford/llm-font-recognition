@@ -40291,5 +40291,41 @@
         "candidate_font_3": "Trebuchet MS",
         "candidate_font_4": "Verdana",
         "candidate_font_5": "FF Meta"
+    },
+    {
+        "task_id": "580455",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Blood Of The Old Tribe",
+        "candidate_font_2": "Tribal Warfare",
+        "candidate_font_3": "Primitive",
+        "candidate_font_4": "Modern Primitive",
+        "candidate_font_5": "Cracked"
+    },
+    {
+        "task_id": "580454",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Blackwood Castle",
+        "candidate_font_2": "The Queen",
+        "candidate_font_3": "Oswald Bold",
+        "candidate_font_4": "Bourbon St.",
+        "candidate_font_5": "Victorian Parlor"
+    },
+    {
+        "task_id": "580453",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Tungsten",
+        "candidate_font_2": "IBM Plex Sans",
+        "candidate_font_3": "Custom Logo",
+        "candidate_font_4": "United Sans SemiCond Heavy",
+        "candidate_font_5": "Graphik"
+    },
+    {
+        "task_id": "580451",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Brazilia FC",
+        "candidate_font_2": "Komika Title",
+        "candidate_font_3": "Anime Ace 2.0",
+        "candidate_font_4": "CC Wild Words",
+        "candidate_font_5": "Digital Strip"
     }
 ]
