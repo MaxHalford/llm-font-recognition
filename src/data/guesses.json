@@ -40255,5 +40255,41 @@
         "candidate_font_3": "Kaufmann Bold",
         "candidate_font_4": "Akzidenz-Grotesk Condensed",
         "candidate_font_5": "Impact"
+    },
+    {
+        "task_id": "580450",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Montserrat",
+        "candidate_font_2": "Proxima Nova",
+        "candidate_font_3": "Gotham",
+        "candidate_font_4": "Avenir",
+        "candidate_font_5": "Source Sans Pro"
+    },
+    {
+        "task_id": "580449",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Gotham Black",
+        "candidate_font_2": "Public Sans Black",
+        "candidate_font_3": "Panton Black",
+        "candidate_font_4": "Univers 85 Extra Black",
+        "candidate_font_5": "Graphik Black"
+    },
+    {
+        "task_id": "580447",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Exan Outline",
+        "candidate_font_2": "Neo Retro Inline",
+        "candidate_font_3": "SF Retrocentric Outline",
+        "candidate_font_4": "Future Now Inline",
+        "candidate_font_5": "Arcade Outline"
+    },
+    {
+        "task_id": "580446",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Gill Sans",
+        "candidate_font_2": "Frutiger",
+        "candidate_font_3": "Trebuchet MS",
+        "candidate_font_4": "Verdana",
+        "candidate_font_5": "FF Meta"
     }
 ]
