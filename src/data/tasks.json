@@ -24460,8 +24460,8 @@
         "url": "https://www.dafont.com/forum/read/580398/dzepna-knjiga-401-crveni-gusar",
         "title": "Dzepna Knjiga 401 - Crveni Gusar",
         "instructions": null,
-        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1226417.jpg",
-        "identified_font": null
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1226417.png?1",
+        "identified_font": "Clarendon Black"
     },
     {
         "task_id": "580397",
@@ -24821,14 +24821,14 @@
         "title": "Font name",
         "instructions": "I need a font name because this is from 2004 or 2005 or something...",
         "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1226511.png",
-        "identified_font": null
+        "identified_font": "Karon"
     },
     {
         "task_id": "580455",
         "url": "https://www.dafont.com/forum/read/580455/looking-for-similar-or-actual-font-name",
         "title": "Looking for similar or actual font name",
         "instructions": "I\u00b4m looking for any font similar to this, or the actual font name of the image, thx.",
-        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1226528.png",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1226528.png?1",
         "identified_font": null
     },
     {
@@ -24853,6 +24853,46 @@
         "title": "Fontttt",
         "instructions": null,
         "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1226519.png?1",
+        "identified_font": null
+    },
+    {
+        "task_id": "580460",
+        "url": "https://www.dafont.com/forum/read/580460/neozone-and-cupid",
+        "title": "NEOZONE and Cupid",
+        "instructions": null,
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1226537.jpg",
+        "identified_font": null
+    },
+    {
+        "task_id": "580459",
+        "url": "https://www.dafont.com/forum/read/580459/next-episode",
+        "title": "NEXT EPISODE",
+        "instructions": null,
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1226536.png",
+        "identified_font": null
+    },
+    {
+        "task_id": "580458",
+        "url": "https://www.dafont.com/forum/read/580458/riizing-summer-camp",
+        "title": "RIIZING SUMMER CAMP",
+        "instructions": null,
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1226535.png?1",
+        "identified_font": null
+    },
+    {
+        "task_id": "580456",
+        "url": "https://www.dafont.com/forum/read/580456/what-font-is-this",
+        "title": "What Font is this",
+        "instructions": "Any ideas on what font this is?? Thanks",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1226531.png?1",
+        "identified_font": "Mawns Handwriting"
+    },
+    {
+        "task_id": "580457",
+        "url": "https://www.dafont.com/forum/read/580457/what-font-is-this",
+        "title": "what font is this?",
+        "instructions": "can anyone identified this fonts? \"LIBERTY WALK\"",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1226532.png",
         "identified_font": null
     }
 ]
