@@ -24597,7 +24597,7 @@
         "title": "Please Help ID",
         "instructions": null,
         "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1226457.jpg",
-        "identified_font": null
+        "identified_font": "Lumios Marker"
     },
     {
         "task_id": "580418",
@@ -24796,7 +24796,7 @@
         "url": "https://www.dafont.com/forum/read/580450/font-name-please",
         "title": "Font Name Please",
         "instructions": "Thank you!",
-        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1226517.png",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1226517.png?1",
         "identified_font": null
     },
     {
@@ -24821,6 +24821,38 @@
         "title": "Font name",
         "instructions": "I need a font name because this is from 2004 or 2005 or something...",
         "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1226511.png",
+        "identified_font": null
+    },
+    {
+        "task_id": "580455",
+        "url": "https://www.dafont.com/forum/read/580455/looking-for-similar-or-actual-font-name",
+        "title": "Looking for similar or actual font name",
+        "instructions": "I\u00b4m looking for any font similar to this, or the actual font name of the image, thx.",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1226528.png",
+        "identified_font": null
+    },
+    {
+        "task_id": "580454",
+        "url": "https://www.dafont.com/forum/read/580454/pantalones-font-please",
+        "title": "Pantalones font please",
+        "instructions": null,
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1226527.png?1",
+        "identified_font": null
+    },
+    {
+        "task_id": "580453",
+        "url": "https://www.dafont.com/forum/read/580453/what-are-the-fonts-tia",
+        "title": "What are the fonts? TIA",
+        "instructions": null,
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1226526.jpg",
+        "identified_font": null
+    },
+    {
+        "task_id": "580451",
+        "url": "https://www.dafont.com/forum/read/580451/fontttt",
+        "title": "Fontttt",
+        "instructions": null,
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1226519.png?1",
         "identified_font": null
     }
 ]
