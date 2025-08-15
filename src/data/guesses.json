@@ -40327,5 +40327,41 @@
         "candidate_font_3": "Anime Ace 2.0",
         "candidate_font_4": "CC Wild Words",
         "candidate_font_5": "Digital Strip"
+    },
+    {
+        "task_id": "580460",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Futura Bold",
+        "candidate_font_2": "Bubblegum Pop",
+        "candidate_font_3": "Candyland",
+        "candidate_font_4": "Dreamy Creamy",
+        "candidate_font_5": "Cheeky"
+    },
+    {
+        "task_id": "580459",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Knitted",
+        "candidate_font_2": "Yarn",
+        "candidate_font_3": "Cozy Knit",
+        "candidate_font_4": "Sweater Knit",
+        "candidate_font_5": "Rope"
+    },
+    {
+        "task_id": "580458",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Fredoka One",
+        "candidate_font_2": "Titan One",
+        "candidate_font_3": "Luckiest Guy",
+        "candidate_font_4": "Oswald",
+        "candidate_font_5": "Open Sans"
+    },
+    {
+        "task_id": "580457",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Impact",
+        "candidate_font_2": "Haettenschweiler",
+        "candidate_font_3": "Bebas Neue Bold",
+        "candidate_font_4": "Oswald Bold",
+        "candidate_font_5": "Montserrat Black"
     }
 ]
