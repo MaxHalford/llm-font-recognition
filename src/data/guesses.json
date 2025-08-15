@@ -40390,5 +40390,50 @@
         "candidate_font_3": "Impact",
         "candidate_font_4": "Burbank Big Condensed Black",
         "candidate_font_5": "Akira Expanded"
+    },
+    {
+        "task_id": "580478",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Headliner No. 45",
+        "candidate_font_2": "A Gentle Touch",
+        "candidate_font_3": "Road Rage",
+        "candidate_font_4": "Streamster",
+        "candidate_font_5": "Brittany Signature"
+    },
+    {
+        "task_id": "580477",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Playfair Display",
+        "candidate_font_2": "Didot",
+        "candidate_font_3": "Bodoni",
+        "candidate_font_4": "Walbaum",
+        "candidate_font_5": "Libre Bodoni"
+    },
+    {
+        "task_id": "580476",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Porky's",
+        "candidate_font_2": "Acme",
+        "candidate_font_3": "SF Grunge Sans",
+        "candidate_font_4": "Action Man",
+        "candidate_font_5": "Impacted"
+    },
+    {
+        "task_id": "580475",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Gothic 821 Heavy Extended",
+        "candidate_font_2": "Univers 93 Extended Black",
+        "candidate_font_3": "Franklin Gothic Heavy Extended",
+        "candidate_font_4": "Trade Gothic Extended",
+        "candidate_font_5": "Impact"
+    },
+    {
+        "task_id": "580464",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Forum",
+        "candidate_font_2": "Trajan Pro",
+        "candidate_font_3": "Augustus",
+        "candidate_font_4": "Times New Roman",
+        "candidate_font_5": "Cardo"
     }
 ]
