@@ -40570,5 +40570,41 @@
         "candidate_font_3": "Arial Black",
         "candidate_font_4": "Porky's",
         "candidate_font_5": ""
+    },
+    {
+        "task_id": "580509",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Staravenue",
+        "candidate_font_2": "Freshman",
+        "candidate_font_3": "College Boy",
+        "candidate_font_4": "Varsity Classic",
+        "candidate_font_5": "Collegiate Heavy"
+    },
+    {
+        "task_id": "580508",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Road Rage",
+        "candidate_font_2": "Summer Hearts",
+        "candidate_font_3": "Retrowave Script",
+        "candidate_font_4": "Neon Stream",
+        "candidate_font_5": "California Sunshine"
+    },
+    {
+        "task_id": "580506",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Square 721 Std Heavy Italic",
+        "candidate_font_2": "Kids Handwriting",
+        "candidate_font_3": "",
+        "candidate_font_4": "",
+        "candidate_font_5": ""
+    },
+    {
+        "task_id": "580498",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "SF Sports Night Solid",
+        "candidate_font_2": "",
+        "candidate_font_3": "",
+        "candidate_font_4": "",
+        "candidate_font_5": ""
     }
 ]
