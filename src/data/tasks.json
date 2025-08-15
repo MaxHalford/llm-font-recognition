@@ -23156,7 +23156,7 @@
         "url": "https://www.dafont.com/forum/read/580235/bmw-speedometer-modern-m-model",
         "title": "BMW Speedometer (Modern M Model)",
         "instructions": "I would really like know what font BMW used for their E60 M5, E63 M6, E70 X5M and E71 X6M dials.",
-        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1226057.jpg",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1226057.png?1",
         "identified_font": null
     },
     {
@@ -25029,7 +25029,7 @@
         "title": "ionnalee everyone afraid to be forgotten font and name font",
         "instructions": "anyone know what fonts are these??",
         "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1226605.jpg",
-        "identified_font": null
+        "identified_font": "Cinzel"
     },
     {
         "task_id": "580495",
@@ -25037,7 +25037,7 @@
         "title": "Help",
         "instructions": "Hello, which font is this from dafont",
         "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1226603.png",
-        "identified_font": null
+        "identified_font": "Veneer Two"
     },
     {
         "task_id": "580494",
@@ -25085,6 +25085,62 @@
         "title": "Saturday Night Live",
         "instructions": "Looking for all the fonts used on this layout. Thanks for any suggestions.",
         "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1226588.png",
+        "identified_font": null
+    },
+    {
+        "task_id": "580509",
+        "url": "https://www.dafont.com/forum/read/580509/font-name-please",
+        "title": "Font name please",
+        "instructions": null,
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1226626.jpg?1",
+        "identified_font": null
+    },
+    {
+        "task_id": "580508",
+        "url": "https://www.dafont.com/forum/read/580508/anyone-know-this-font-on-oms-band",
+        "title": "Anyone know this font on OMS Band?",
+        "instructions": null,
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1226625.jpg",
+        "identified_font": null
+    },
+    {
+        "task_id": "580500",
+        "url": "https://www.dafont.com/forum/read/580500/looking-for-this-font-name",
+        "title": "Looking for this font name",
+        "instructions": "looking for both \"Instituto\" and \"ALESIANO\"",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1226608.png?1",
+        "identified_font": "Ocean Sans Bold"
+    },
+    {
+        "task_id": "580506",
+        "url": "https://www.dafont.com/forum/read/580506/font-names-pls",
+        "title": "Font names pls :)",
+        "instructions": null,
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1226622.png",
+        "identified_font": null
+    },
+    {
+        "task_id": "580501",
+        "url": "https://www.dafont.com/forum/read/580501/qual-a-fonte-do-ph-jakline",
+        "title": "Qual a fonte do Ph Jakline",
+        "instructions": null,
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1226612.jpg",
+        "identified_font": "Vista La Diva"
+    },
+    {
+        "task_id": "580499",
+        "url": "https://www.dafont.com/forum/read/580499/what-font-is-this",
+        "title": "what font is this?",
+        "instructions": "Hey, Downloaded this font over 10 years ago from here. Need to download again but I can't find it anymore. No idea what its name was.",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1226607.jpg",
+        "identified_font": "Lets Go"
+    },
+    {
+        "task_id": "580498",
+        "url": "https://www.dafont.com/forum/read/580498/no-hard-feelings",
+        "title": "no hard feelings",
+        "instructions": "specifically looking for the font used for \u0093NO HARD\u0094 and \u0093TOUR 2025\u0094",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1226606.jpg",
         "identified_font": null
     }
 ]
