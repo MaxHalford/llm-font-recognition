@@ -25142,5 +25142,61 @@
         "instructions": "specifically looking for the font used for \u0093NO HARD\u0094 and \u0093TOUR 2025\u0094",
         "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1226606.jpg",
         "identified_font": null
+    },
+    {
+        "task_id": "580515",
+        "url": "https://www.dafont.com/forum/read/580515/milena",
+        "title": "MILENA",
+        "instructions": "Please!! Font of \"MILENA\"?? Thank you very much in advance.",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1226642.png",
+        "identified_font": null
+    },
+    {
+        "task_id": "580516",
+        "url": "https://www.dafont.com/forum/read/580516/what-is-the-font",
+        "title": "What is the font?",
+        "instructions": null,
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1226644.jpg",
+        "identified_font": null
+    },
+    {
+        "task_id": "580513",
+        "url": "https://www.dafont.com/forum/read/580513/a-c-e-therapies-font-help",
+        "title": "a.c.e. therapies font help",
+        "instructions": null,
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1226640.png",
+        "identified_font": "Josefin Sans"
+    },
+    {
+        "task_id": "580514",
+        "url": "https://www.dafont.com/forum/read/580514/trinchera-norte",
+        "title": "TRINCHERA NORTE",
+        "instructions": "Please!! Font of \"TRINCHERA NORTE\"?? Thank you very much in advance.",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1226641.jpg?1",
+        "identified_font": null
+    },
+    {
+        "task_id": "580512",
+        "url": "https://www.dafont.com/forum/read/580512/boo-credits",
+        "title": "Boo! Credits",
+        "instructions": "What font is this?",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1226639.jpg",
+        "identified_font": null
+    },
+    {
+        "task_id": "580511",
+        "url": "https://www.dafont.com/forum/read/580511/detroit-jazz-festival-typeface",
+        "title": "Detroit Jazz Festival typeface",
+        "instructions": "What is the typeface for 'detroit FESTIVAL' and 'Jazz'. I straightened it up and what the font didnt generate anything for either.",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1226634.jpg",
+        "identified_font": "Clarendon Bold"
+    },
+    {
+        "task_id": "274179",
+        "url": "https://www.dafont.com/forum/read/274179/detroit-bad-boys-font",
+        "title": "Detroit bad boys font",
+        "instructions": "Would like to know the names of the fonts used in the logo. Please and thank you.",
+        "img_url": "https://www.dafont.com/forum/attach/orig/6/1/615066.png?1",
+        "identified_font": null
     }
 ]
