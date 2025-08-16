@@ -40849,5 +40849,77 @@
         "candidate_font_3": "Cloister Black",
         "candidate_font_4": "Fette Fraktur",
         "candidate_font_5": "Linotext"
+    },
+    {
+        "task_id": "580556",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Lemon Tuesday",
+        "candidate_font_2": "Bromello",
+        "candidate_font_3": "Playlist Script",
+        "candidate_font_4": "Pacifico",
+        "candidate_font_5": "Grand Hotel"
+    },
+    {
+        "task_id": "580552",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Dot Matrix",
+        "candidate_font_2": "LED Dot Matrix",
+        "candidate_font_3": "DS-Digital",
+        "candidate_font_4": "DSEG7 Classic",
+        "candidate_font_5": "Dotfont"
+    },
+    {
+        "task_id": "580542",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Didot",
+        "candidate_font_2": "Bodoni",
+        "candidate_font_3": "Luxora No. 2",
+        "candidate_font_4": "Voga",
+        "candidate_font_5": "Cormorant Garamond"
+    },
+    {
+        "task_id": "580551",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Bloodthirsty",
+        "candidate_font_2": "Another Danger",
+        "candidate_font_3": "Feast of Flesh",
+        "candidate_font_4": "Monster Guts",
+        "candidate_font_5": "YouMurderer"
+    },
+    {
+        "task_id": "580548",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Spongeboy Me Bob",
+        "candidate_font_2": "Krabby Patty",
+        "candidate_font_3": "Pangolin",
+        "candidate_font_4": "BadaBoom BB",
+        "candidate_font_5": "Bubblegum"
+    },
+    {
+        "task_id": "580547",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Retrolie",
+        "candidate_font_2": "Pacifico",
+        "candidate_font_3": "Milkshake",
+        "candidate_font_4": "Brush Script MT",
+        "candidate_font_5": "Lemon Tuesday"
+    },
+    {
+        "task_id": "580546",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Bubblegum Sans",
+        "candidate_font_2": "Gochi Hand",
+        "candidate_font_3": "Schoolbell",
+        "candidate_font_4": "Patrick Hand",
+        "candidate_font_5": "Crayon Hand"
+    },
+    {
+        "task_id": "580544",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Whoa!",
+        "candidate_font_2": "Bumbum",
+        "candidate_font_3": "Throwupz",
+        "candidate_font_4": "Amsterdam Graffiti",
+        "candidate_font_5": "Ghetto Love"
     }
 ]
