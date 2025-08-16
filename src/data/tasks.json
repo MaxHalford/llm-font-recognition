@@ -25246,5 +25246,21 @@
         "instructions": null,
         "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1226661.png",
         "identified_font": null
+    },
+    {
+        "task_id": "580524",
+        "url": "https://www.dafont.com/forum/read/580524/help",
+        "title": "Help!",
+        "instructions": "Does anyone know the name of this font?",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1226665.jpg",
+        "identified_font": null
+    },
+    {
+        "task_id": "580523",
+        "url": "https://www.dafont.com/forum/read/580523/lala-sadii-font-pls",
+        "title": "Lala Sadii font pls?",
+        "instructions": null,
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1226664.png",
+        "identified_font": null
     }
 ]
