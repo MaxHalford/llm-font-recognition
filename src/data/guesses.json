@@ -40705,5 +40705,50 @@
         "candidate_font_3": "Alex Brush",
         "candidate_font_4": "Allura",
         "candidate_font_5": "Sacramento"
+    },
+    {
+        "task_id": "580529",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Montserrat Black",
+        "candidate_font_2": "Gotham Black",
+        "candidate_font_3": "Univers 85 ExtraBlack",
+        "candidate_font_4": "Acumin Pro Black",
+        "candidate_font_5": "Source Sans Pro Black"
+    },
+    {
+        "task_id": "580528",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Titania Bold",
+        "candidate_font_2": "Futura Bold",
+        "candidate_font_3": "Akzidenz-Grotesk Extra Bold Condensed",
+        "candidate_font_4": "Trade Gothic Bold Condensed",
+        "candidate_font_5": "Compacta"
+    },
+    {
+        "task_id": "580527",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Glasine (Filip Glas)",
+        "candidate_font_2": "Montserrat Black",
+        "candidate_font_3": "Gotham Black",
+        "candidate_font_4": "Baskerville",
+        "candidate_font_5": "Times New Roman"
+    },
+    {
+        "task_id": "580526",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Hello Honey",
+        "candidate_font_2": "Lovely Thoughts",
+        "candidate_font_3": "Hello Sunshine",
+        "candidate_font_4": "Bettina Script",
+        "candidate_font_5": "Magnolia Sky"
+    },
+    {
+        "task_id": "580525",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "My Little Valentine",
+        "candidate_font_2": "Lovely Hearts",
+        "candidate_font_3": "KG I Love How You Love Me",
+        "candidate_font_4": "Cutie Patootie",
+        "candidate_font_5": "Lemon Tuesday"
     }
 ]
