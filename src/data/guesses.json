@@ -40804,5 +40804,50 @@
         "candidate_font_3": "Sports Script",
         "candidate_font_4": "Houston Sport",
         "candidate_font_5": "The Last Call"
+    },
+    {
+        "task_id": "575604",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Franklin Gothic Condensed",
+        "candidate_font_2": "Univers 67 Condensed Black",
+        "candidate_font_3": "Impact",
+        "candidate_font_4": "Anton",
+        "candidate_font_5": "Bebas Neue"
+    },
+    {
+        "task_id": "580541",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Montserrat",
+        "candidate_font_2": "Gotham",
+        "candidate_font_3": "Bebas Neue",
+        "candidate_font_4": "Poppins",
+        "candidate_font_5": "Impact"
+    },
+    {
+        "task_id": "580540",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Cream Script",
+        "candidate_font_2": "Brannboll Fet",
+        "candidate_font_3": "Detroit Athletic",
+        "candidate_font_4": "Fenway Park",
+        "candidate_font_5": "Brody"
+    },
+    {
+        "task_id": "580539",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Zapf Chancery",
+        "candidate_font_2": "Edwardian Script ITC",
+        "candidate_font_3": "Poetica",
+        "candidate_font_4": "Bickham Script Pro",
+        "candidate_font_5": "Shelley Script Allegro"
+    },
+    {
+        "task_id": "580538",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Old London",
+        "candidate_font_2": "Old English Text MT",
+        "candidate_font_3": "Cloister Black",
+        "candidate_font_4": "Fette Fraktur",
+        "candidate_font_5": "Linotext"
     }
 ]
