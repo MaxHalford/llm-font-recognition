@@ -40606,5 +40606,50 @@
         "candidate_font_3": "",
         "candidate_font_4": "",
         "candidate_font_5": ""
+    },
+    {
+        "task_id": "580515",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Puffy",
+        "candidate_font_2": "Bubblegum Sans",
+        "candidate_font_3": "Fredoka One",
+        "candidate_font_4": "Chewy",
+        "candidate_font_5": "Balloon D"
+    },
+    {
+        "task_id": "580516",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Futura Bold",
+        "candidate_font_2": "Open Sans Regular",
+        "candidate_font_3": "Lato Regular",
+        "candidate_font_4": "Roboto Regular",
+        "candidate_font_5": "Noto Sans Regular"
+    },
+    {
+        "task_id": "580514",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "SF Collegiate",
+        "candidate_font_2": "College Regular",
+        "candidate_font_3": "Varsity Team Font",
+        "candidate_font_4": "Impact",
+        "candidate_font_5": "Akzidenz-Grotesk Condensed"
+    },
+    {
+        "task_id": "580512",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Boomerang",
+        "candidate_font_2": "Porky's",
+        "candidate_font_3": "Bubblegum Sans",
+        "candidate_font_4": "Luckiest Guy",
+        "candidate_font_5": "Bangers"
+    },
+    {
+        "task_id": "274179",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Freshman",
+        "candidate_font_2": "Friday Night Lights",
+        "candidate_font_3": null,
+        "candidate_font_4": null,
+        "candidate_font_5": null
     }
 ]
