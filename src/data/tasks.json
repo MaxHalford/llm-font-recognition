@@ -21908,7 +21908,7 @@
         "url": "https://www.dafont.com/forum/read/580065/finnish-font-2",
         "title": "finnish font 2",
         "instructions": "ty!",
-        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1225690.jpg",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1225690.png?1",
         "identified_font": null
     },
     {
@@ -25261,7 +25261,7 @@
         "title": "Lala Sadii font pls?",
         "instructions": null,
         "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1226664.png",
-        "identified_font": null
+        "identified_font": "Retro Signature"
     },
     {
         "task_id": "580529",
@@ -25373,7 +25373,7 @@
         "title": "font name/suggestions :)",
         "instructions": null,
         "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1226703.png",
-        "identified_font": null
+        "identified_font": "Arial Black"
     },
     {
         "task_id": "580540",
@@ -25405,6 +25405,70 @@
         "title": "Cool Gothic Font",
         "instructions": "Anyone knows what is it please",
         "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1226697.jpg",
+        "identified_font": "Mariage"
+    },
+    {
+        "task_id": "580556",
+        "url": "https://www.dafont.com/forum/read/580556/forgot-the-font-name",
+        "title": "Forgot the font name",
+        "instructions": null,
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1226732.png",
+        "identified_font": null
+    },
+    {
+        "task_id": "580552",
+        "url": "https://www.dafont.com/forum/read/580552/is-there-a-version-of-this-specific-dot-matrix-type-font-featuring-lowercase-characters",
+        "title": "Is there a version of this specific dot-matrix type font featuring lowercase characters?",
+        "instructions": "I know about this one but it's all caps:",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1226727.png",
+        "identified_font": null
+    },
+    {
+        "task_id": "580542",
+        "url": "https://www.dafont.com/forum/read/580542/font-for-stargirl-please",
+        "title": "font for stargirl please",
+        "instructions": null,
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1226706.png",
+        "identified_font": null
+    },
+    {
+        "task_id": "580551",
+        "url": "https://www.dafont.com/forum/read/580551/please-and-thanks",
+        "title": "Please and thanks",
+        "instructions": null,
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1226721.png",
+        "identified_font": null
+    },
+    {
+        "task_id": "580548",
+        "url": "https://www.dafont.com/forum/read/580548/please-and-thanks",
+        "title": "Please and thanks",
+        "instructions": null,
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1226718.png",
+        "identified_font": null
+    },
+    {
+        "task_id": "580547",
+        "url": "https://www.dafont.com/forum/read/580547/help-with-font-identification",
+        "title": "Help with font identification",
+        "instructions": "Does anyone know what the font on this logo is?",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1226717.jpg",
+        "identified_font": null
+    },
+    {
+        "task_id": "580546",
+        "url": "https://www.dafont.com/forum/read/580546/font-name-pls",
+        "title": "Font name pls :)",
+        "instructions": null,
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1226715.jpg",
+        "identified_font": null
+    },
+    {
+        "task_id": "580544",
+        "url": "https://www.dafont.com/forum/read/580544/font-name",
+        "title": "Font name? :)",
+        "instructions": null,
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1226712.png",
         "identified_font": null
     }
 ]
