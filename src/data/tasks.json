@@ -25230,5 +25230,21 @@
         "instructions": null,
         "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1226646.png",
         "identified_font": "Viner Hand"
+    },
+    {
+        "task_id": "580522",
+        "url": "https://www.dafont.com/forum/read/580522/summer-japan-korea",
+        "title": "SUMMER JAPAN & KOREA",
+        "instructions": null,
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1226663.jpg",
+        "identified_font": null
+    },
+    {
+        "task_id": "580520",
+        "url": "https://www.dafont.com/forum/read/580520/i-need-a-font-name-from-the-fonts-from-japan",
+        "title": "I need a font name from the fonts from Japan...",
+        "instructions": null,
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1226661.png",
+        "identified_font": null
     }
 ]
