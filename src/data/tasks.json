@@ -24100,7 +24100,7 @@
         "url": "https://www.dafont.com/forum/read/580362/what-is-this-font",
         "title": "What is this font?",
         "instructions": null,
-        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1226331.png",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1226331.png?1",
         "identified_font": null
     },
     {
@@ -25261,6 +25261,46 @@
         "title": "Lala Sadii font pls?",
         "instructions": null,
         "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1226664.png",
+        "identified_font": null
+    },
+    {
+        "task_id": "580529",
+        "url": "https://www.dafont.com/forum/read/580529/what-the-font",
+        "title": "What the font",
+        "instructions": null,
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1226673.jpg",
+        "identified_font": null
+    },
+    {
+        "task_id": "580528",
+        "url": "https://www.dafont.com/forum/read/580528/talijanske-teme",
+        "title": "Talijanske teme",
+        "instructions": null,
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1226671.jpg",
+        "identified_font": null
+    },
+    {
+        "task_id": "580527",
+        "url": "https://www.dafont.com/forum/read/580527/glasine-ff",
+        "title": "Glasine ff",
+        "instructions": null,
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1226670.jpg",
+        "identified_font": null
+    },
+    {
+        "task_id": "580526",
+        "url": "https://www.dafont.com/forum/read/580526/font-please",
+        "title": "Font please",
+        "instructions": null,
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1226669.png",
+        "identified_font": null
+    },
+    {
+        "task_id": "580525",
+        "url": "https://www.dafont.com/forum/read/580525/cute-quirky-handwritten-font-help-id",
+        "title": "Cute Quirky Handwritten Font - Help ID?",
+        "instructions": "I'm trying to help a friend ID this font.  She went through a bunch of font sites to ID - no success.  I've tried searching a few sites, no success (although I did find some that were close).  It looks like a serif font, handwritten, one of those cute/quirky styles.",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1226668.jpg",
         "identified_font": null
     }
 ]
