@@ -24701,7 +24701,7 @@
         "title": "Vetar ne zna &#269;itati knjiga n",
         "instructions": null,
         "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1226480.jpg",
-        "identified_font": null
+        "identified_font": "Futura"
     },
     {
         "task_id": "580434",
@@ -25301,6 +25301,62 @@
         "title": "Cute Quirky Handwritten Font - Help ID?",
         "instructions": "I'm trying to help a friend ID this font.  She went through a bunch of font sites to ID - no success.  I've tried searching a few sites, no success (although I did find some that were close).  It looks like a serif font, handwritten, one of those cute/quirky styles.",
         "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1226668.jpg",
+        "identified_font": null
+    },
+    {
+        "task_id": "580532",
+        "url": "https://www.dafont.com/forum/read/580532/the-what-font",
+        "title": "THE WHAT FONT",
+        "instructions": "What is the name of this font?",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1226683.jpg",
+        "identified_font": "Verveine"
+    },
+    {
+        "task_id": "580536",
+        "url": "https://www.dafont.com/forum/read/580536/ribolov",
+        "title": "Ribolov",
+        "instructions": null,
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1226687.jpg",
+        "identified_font": null
+    },
+    {
+        "task_id": "580535",
+        "url": "https://www.dafont.com/forum/read/580535/od-povjerenja-do-sumnje",
+        "title": "Od povjerenja do sumnje",
+        "instructions": null,
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1226686.jpg",
+        "identified_font": null
+    },
+    {
+        "task_id": "580534",
+        "url": "https://www.dafont.com/forum/read/580534/prasina-s-puta-josip-badali-1966",
+        "title": "Pra\u009aina s puta / Josip Badali&#263; 1966",
+        "instructions": null,
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1226685.png",
+        "identified_font": null
+    },
+    {
+        "task_id": "580533",
+        "url": "https://www.dafont.com/forum/read/580533/zastire-se-zemlja",
+        "title": "Zastire se zemlja",
+        "instructions": null,
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1226684.jpg",
+        "identified_font": null
+    },
+    {
+        "task_id": "580531",
+        "url": "https://www.dafont.com/forum/read/580531/yaiba-samurai-legend-anime",
+        "title": "YAIBA: Samurai Legend - Anime",
+        "instructions": null,
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1226682.png",
+        "identified_font": null
+    },
+    {
+        "task_id": "580530",
+        "url": "https://www.dafont.com/forum/read/580530/identifier-le-font",
+        "title": "Identifier le font",
+        "instructions": "The Los Angeles font please",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1226681.jpg",
         "identified_font": null
     }
 ]
