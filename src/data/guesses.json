@@ -40687,5 +40687,23 @@
         "candidate_font_3": "Avenir",
         "candidate_font_4": "Rodin (Fontworks)",
         "candidate_font_5": "Shin Go (Morisawa)"
+    },
+    {
+        "task_id": "580524",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Queen Victoria",
+        "candidate_font_2": "The Queen",
+        "candidate_font_3": "Royal Charles",
+        "candidate_font_4": "Regal Diamond",
+        "candidate_font_5": "Playfair Display"
+    },
+    {
+        "task_id": "580523",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Playlist Script",
+        "candidate_font_2": "Great Vibes",
+        "candidate_font_3": "Alex Brush",
+        "candidate_font_4": "Allura",
+        "candidate_font_5": "Sacramento"
     }
 ]
