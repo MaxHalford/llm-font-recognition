@@ -40651,5 +40651,23 @@
         "candidate_font_3": null,
         "candidate_font_4": null,
         "candidate_font_5": null
+    },
+    {
+        "task_id": "182424",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Death Note",
+        "candidate_font_2": "Creepster",
+        "candidate_font_3": "Horror Hotel",
+        "candidate_font_4": "Chiller",
+        "candidate_font_5": "Melted Monster"
+    },
+    {
+        "task_id": "580518",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Oblivion",
+        "candidate_font_2": "Gunship",
+        "candidate_font_3": "Akira Expanded",
+        "candidate_font_4": "Anurati",
+        "candidate_font_5": "Montserrat Black"
     }
 ]
