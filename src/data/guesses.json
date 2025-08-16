@@ -40750,5 +40750,59 @@
         "candidate_font_3": "KG I Love How You Love Me",
         "candidate_font_4": "Cutie Patootie",
         "candidate_font_5": "Lemon Tuesday"
+    },
+    {
+        "task_id": "580536",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Futura Extra Bold",
+        "candidate_font_2": "Twentieth Century Extra Bold",
+        "candidate_font_3": "ITC Avant Garde Gothic Bold",
+        "candidate_font_4": "Brandon Grotesque Black",
+        "candidate_font_5": "Neuzeit Grotesk Bold"
+    },
+    {
+        "task_id": "580535",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Century Schoolbook",
+        "candidate_font_2": "Univers",
+        "candidate_font_3": "Akzidenz-Grotesk",
+        "candidate_font_4": "Baskerville",
+        "candidate_font_5": "Times New Roman"
+    },
+    {
+        "task_id": "580534",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Univers 83 Extended Black",
+        "candidate_font_2": "Univers 57 Condensed",
+        "candidate_font_3": "DIN 1451 Mittelschrift",
+        "candidate_font_4": "Akzidenz-Grotesk Extra Bold Extended",
+        "candidate_font_5": "News Gothic Bold"
+    },
+    {
+        "task_id": "580533",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Plantin Regular",
+        "candidate_font_2": "VAG Rounded Black",
+        "candidate_font_3": "Univers Black Extended",
+        "candidate_font_4": "Folio Extra Bold",
+        "candidate_font_5": "ITC Clearface Gothic Black"
+    },
+    {
+        "task_id": "580531",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Custom Logotype",
+        "candidate_font_2": "Agency FB Bold",
+        "candidate_font_3": "Bank Gothic Medium",
+        "candidate_font_4": "Open Sans Bold",
+        "candidate_font_5": "Bebas Neue Bold"
+    },
+    {
+        "task_id": "580530",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Dodger Script",
+        "candidate_font_2": "Varsity Script",
+        "candidate_font_3": "Sports Script",
+        "candidate_font_4": "Houston Sport",
+        "candidate_font_5": "The Last Call"
     }
 ]
