@@ -25293,7 +25293,7 @@
         "title": "Font please",
         "instructions": null,
         "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1226669.png",
-        "identified_font": null
+        "identified_font": "Above The Beyond"
     },
     {
         "task_id": "580525",
@@ -25317,7 +25317,7 @@
         "title": "Ribolov",
         "instructions": null,
         "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1226687.jpg",
-        "identified_font": null
+        "identified_font": "Permanent Headline"
     },
     {
         "task_id": "580535",
@@ -25357,6 +25357,54 @@
         "title": "Identifier le font",
         "instructions": "The Los Angeles font please",
         "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1226681.jpg",
+        "identified_font": null
+    },
+    {
+        "task_id": "575604",
+        "url": "https://www.dafont.com/forum/read/575604/the-beaches-font",
+        "title": "the beaches font",
+        "instructions": "specifically looking for the font used for \u0093beaches\u0094 and \u0093tsuut\u0092ina AB\u0094",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1216190.jpg",
+        "identified_font": null
+    },
+    {
+        "task_id": "580541",
+        "url": "https://www.dafont.com/forum/read/580541/font-name-suggestions",
+        "title": "font name/suggestions :)",
+        "instructions": null,
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1226703.png",
+        "identified_font": null
+    },
+    {
+        "task_id": "580540",
+        "url": "https://www.dafont.com/forum/read/580540/script-font-help",
+        "title": "script font help",
+        "instructions": "Anyone know this script font?",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1226701.jpg",
+        "identified_font": null
+    },
+    {
+        "task_id": "580537",
+        "url": "https://www.dafont.com/forum/read/580537/font-name-pls",
+        "title": "Font name pls :)",
+        "instructions": null,
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1226692.jpg?1",
+        "identified_font": "Allison"
+    },
+    {
+        "task_id": "580539",
+        "url": "https://www.dafont.com/forum/read/580539/joe-greatest-hits",
+        "title": "Joe - Greatest Hits",
+        "instructions": "I was wondering what the font is for the Track Listing? I thought it was Bickham Script, but the style of the letters are different",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1226699.jpg",
+        "identified_font": null
+    },
+    {
+        "task_id": "580538",
+        "url": "https://www.dafont.com/forum/read/580538/cool-gothic-font",
+        "title": "Cool Gothic Font",
+        "instructions": "Anyone knows what is it please",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1226697.jpg",
         "identified_font": null
     }
 ]
