@@ -40669,5 +40669,23 @@
         "candidate_font_3": "Akira Expanded",
         "candidate_font_4": "Anurati",
         "candidate_font_5": "Montserrat Black"
+    },
+    {
+        "task_id": "580522",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Road Rage",
+        "candidate_font_2": "Lato",
+        "candidate_font_3": "SF New Republic",
+        "candidate_font_4": "Akira Expanded",
+        "candidate_font_5": "Montserrat"
+    },
+    {
+        "task_id": "580520",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "VAG Rounded",
+        "candidate_font_2": "DIN Next Rounded",
+        "candidate_font_3": "Avenir",
+        "candidate_font_4": "Rodin (Fontworks)",
+        "candidate_font_5": "Shin Go (Morisawa)"
     }
 ]
