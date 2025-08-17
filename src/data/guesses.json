@@ -41002,5 +41002,50 @@
         "candidate_font_3": "Agency FB Bold Italic",
         "candidate_font_4": "Bebas Neue Oblique",
         "candidate_font_5": "Eurostile Extended Bold Oblique"
+    },
+    {
+        "task_id": "580570",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Corporate S Bold",
+        "candidate_font_2": "Montserrat Bold",
+        "candidate_font_3": "Gotham Bold",
+        "candidate_font_4": "Proxima Nova Bold",
+        "candidate_font_5": "Myriad Pro Bold"
+    },
+    {
+        "task_id": "580568",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Druk Wide Heavy",
+        "candidate_font_2": "Tungsten Bold",
+        "candidate_font_3": "Impact",
+        "candidate_font_4": "Anton",
+        "candidate_font_5": "Bebas Neue"
+    },
+    {
+        "task_id": "580571",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Porky's",
+        "candidate_font_2": "Action Man",
+        "candidate_font_3": "Badaboom BB",
+        "candidate_font_4": "Homeboy",
+        "candidate_font_5": "Shaka Pow"
+    },
+    {
+        "task_id": "580569",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "ITC Caslon 224",
+        "candidate_font_2": "Caslon",
+        "candidate_font_3": "Baskerville",
+        "candidate_font_4": "Perpetua",
+        "candidate_font_5": "Bembo"
+    },
+    {
+        "task_id": "580567",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Baskerville",
+        "candidate_font_2": "New Baskerville",
+        "candidate_font_3": "Monotype Baskerville",
+        "candidate_font_4": "Perpetua",
+        "candidate_font_5": "Caslon"
     }
 ]
