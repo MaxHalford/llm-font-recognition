@@ -25518,5 +25518,37 @@
         "instructions": "Help identify please.",
         "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1226739.png",
         "identified_font": null
+    },
+    {
+        "task_id": "580566",
+        "url": "https://www.dafont.com/forum/read/580566/gghh",
+        "title": "Gghh",
+        "instructions": null,
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1226750.jpg",
+        "identified_font": null
+    },
+    {
+        "task_id": "572329",
+        "url": "https://www.dafont.com/forum/read/572329/cg5-project-u-move",
+        "title": "CG5 - Project U MOVE",
+        "instructions": "If someone could help identify if this is a font and what font it is, that'd be much appreciated :3",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1209738.jpg",
+        "identified_font": "Stranger back in the Night"
+    },
+    {
+        "task_id": "580564",
+        "url": "https://www.dafont.com/forum/read/580564/maybe-someone-knows-this-font",
+        "title": "maybe someone knows this font?",
+        "instructions": null,
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1226747.png",
+        "identified_font": null
+    },
+    {
+        "task_id": "580563",
+        "url": "https://www.dafont.com/forum/read/580563/wildc-a-t-s-main-font",
+        "title": "WILDC.A.T.S main font",
+        "instructions": "Hey can anyone tell me what this font is called, would be awesome thanks.",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1226746.png",
+        "identified_font": null
     }
 ]
