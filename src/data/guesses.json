@@ -40957,5 +40957,23 @@
         "candidate_font_3": "",
         "candidate_font_4": "",
         "candidate_font_5": ""
+    },
+    {
+        "task_id": "580562",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Quicksand",
+        "candidate_font_2": "Poppins",
+        "candidate_font_3": "Nunito",
+        "candidate_font_4": "Gothic A1",
+        "candidate_font_5": "Mulish"
+    },
+    {
+        "task_id": "580561",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Beyond the Mountains",
+        "candidate_font_2": "La Vie Est Belle",
+        "candidate_font_3": "Andalusia",
+        "candidate_font_4": "Lovely Home",
+        "candidate_font_5": "Autumn Chant"
     }
 ]
