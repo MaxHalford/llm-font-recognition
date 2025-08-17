@@ -41047,5 +41047,41 @@
         "candidate_font_3": "Monotype Baskerville",
         "candidate_font_4": "Perpetua",
         "candidate_font_5": "Caslon"
+    },
+    {
+        "task_id": "580575",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "BankGothic Medium",
+        "candidate_font_2": "Square 721 BT Extended Bold",
+        "candidate_font_3": "Agency FB Condensed",
+        "candidate_font_4": "Eurostile Extended Two",
+        "candidate_font_5": "Compacta Bold"
+    },
+    {
+        "task_id": "580574",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "DIN Next Pro Condensed",
+        "candidate_font_2": "Trade Gothic Next Condensed",
+        "candidate_font_3": "Acumin Pro Condensed",
+        "candidate_font_4": "Bebas Neue",
+        "candidate_font_5": "Compacta"
+    },
+    {
+        "task_id": "580573",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Spicy Rice",
+        "candidate_font_2": "Nunito Bold",
+        "candidate_font_3": "Boomerang",
+        "candidate_font_4": "Groovy Happening",
+        "candidate_font_5": "Bubblegum Sans"
+    },
+    {
+        "task_id": "580572",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Univers 85 Extra Black",
+        "candidate_font_2": "Graphik Black",
+        "candidate_font_3": "Aktiv Grotesk Black",
+        "candidate_font_4": "Nimbus Sans Black",
+        "candidate_font_5": "Public Sans Black"
     }
 ]
