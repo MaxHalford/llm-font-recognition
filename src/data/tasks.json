@@ -25605,7 +25605,7 @@
         "title": "FONT PLEASE",
         "instructions": null,
         "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1226766.png",
-        "identified_font": null
+        "identified_font": "TT Trailers"
     },
     {
         "task_id": "580573",
@@ -25613,7 +25613,7 @@
         "title": "FONT PLEASE",
         "instructions": null,
         "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1226765.png",
-        "identified_font": null
+        "identified_font": "Strenuous"
     },
     {
         "task_id": "580572",
@@ -25621,6 +25621,14 @@
         "title": "Cowboy Carter shirt fonts",
         "instructions": "Does anyone know what font is on the back of these shirts",
         "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1226764.jpg",
+        "identified_font": null
+    },
+    {
+        "task_id": "580576",
+        "url": "https://www.dafont.com/forum/read/580576/socialmeeps-font",
+        "title": "SocialMeeps font?",
+        "instructions": null,
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1226771.png",
         "identified_font": null
     }
 ]
