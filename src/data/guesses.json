@@ -40921,5 +40921,41 @@
         "candidate_font_3": "Throwupz",
         "candidate_font_4": "Amsterdam Graffiti",
         "candidate_font_5": "Ghetto Love"
+    },
+    {
+        "task_id": "580560",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "SF TransRobotics",
+        "candidate_font_2": "Book Antiqua",
+        "candidate_font_3": "Hyperspace Race",
+        "candidate_font_4": "Palatino Linotype",
+        "candidate_font_5": "Spaceport"
+    },
+    {
+        "task_id": "580559",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "SF Collegiate",
+        "candidate_font_2": "Cream Peach",
+        "candidate_font_3": "Montserrat Bold",
+        "candidate_font_4": "Open Sans Regular",
+        "candidate_font_5": "Roboto Light"
+    },
+    {
+        "task_id": "580558",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Century Schoolbook",
+        "candidate_font_2": "Bookman Old Style",
+        "candidate_font_3": "Goudy Old Style",
+        "candidate_font_4": "Palatino Linotype",
+        "candidate_font_5": "Adobe Caslon Pro"
+    },
+    {
+        "task_id": "580557",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Golden",
+        "candidate_font_2": "",
+        "candidate_font_3": "",
+        "candidate_font_4": "",
+        "candidate_font_5": ""
     }
 ]
