@@ -40975,5 +40975,32 @@
         "candidate_font_3": "Andalusia",
         "candidate_font_4": "Lovely Home",
         "candidate_font_5": "Autumn Chant"
+    },
+    {
+        "task_id": "580566",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Akzidenz-Grotesk Bold",
+        "candidate_font_2": "Baskerville Italic",
+        "candidate_font_3": "Helvetica Bold",
+        "candidate_font_4": "Univers Bold",
+        "candidate_font_5": "News Gothic Bold"
+    },
+    {
+        "task_id": "580564",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Permanent Marker",
+        "candidate_font_2": "Chalkduster",
+        "candidate_font_3": "Marker Felt",
+        "candidate_font_4": "Doodle Marker",
+        "candidate_font_5": "Rock Salt"
+    },
+    {
+        "task_id": "580563",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Wildcats Font",
+        "candidate_font_2": "Compacta Bold Italic",
+        "candidate_font_3": "Agency FB Bold Italic",
+        "candidate_font_4": "Bebas Neue Oblique",
+        "candidate_font_5": "Eurostile Extended Bold Oblique"
     }
 ]
