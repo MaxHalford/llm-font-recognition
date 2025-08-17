@@ -25629,6 +25629,46 @@
         "title": "SocialMeeps font?",
         "instructions": null,
         "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1226771.png",
+        "identified_font": "Futura Bold"
+    },
+    {
+        "task_id": "580581",
+        "url": "https://www.dafont.com/forum/read/580581/ivan-aralica-konjanik",
+        "title": "Ivan Aralica - Konjanik",
+        "instructions": null,
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1226789.jpg",
         "identified_font": null
+    },
+    {
+        "task_id": "580580",
+        "url": "https://www.dafont.com/forum/read/580580/vojin-jeli-kirvaj",
+        "title": "Vojin Jeli&#263; - Kirvaj",
+        "instructions": null,
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1226788.jpg",
+        "identified_font": null
+    },
+    {
+        "task_id": "580579",
+        "url": "https://www.dafont.com/forum/read/580579/font-used-in-nintendo-s-switch-2-overview-trailer",
+        "title": "Font Used in Nintendo's Switch 2 Overview Trailer",
+        "instructions": "Hello, everyone! I'm looking for some help in pinning down a font that was used several times throughout a Nintendo promotional video from a few months ago: the Switch 2 Overview Trailer. It talked about lots of features of the new hardware and used the same font every few seconds, but I haven't been able to find an exact match for what font is being used. Attached is a screenshot of one example, and then the link to the full YouTube video is below too. Thanks in advance for any assistance!",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1226787.png",
+        "identified_font": null
+    },
+    {
+        "task_id": "580578",
+        "url": "https://www.dafont.com/forum/read/580578/parun-gong",
+        "title": "Parun Gong",
+        "instructions": null,
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1226786.jpg",
+        "identified_font": null
+    },
+    {
+        "task_id": "580577",
+        "url": "https://www.dafont.com/forum/read/580577/super-kartica",
+        "title": "Super Kartica",
+        "instructions": null,
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1226772.jpg",
+        "identified_font": "Bliss Heavy"
     }
 ]
