@@ -41083,5 +41083,14 @@
         "candidate_font_3": "Aktiv Grotesk Black",
         "candidate_font_4": "Nimbus Sans Black",
         "candidate_font_5": "Public Sans Black"
+    },
+    {
+        "task_id": "580576",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Fredoka One",
+        "candidate_font_2": "VAG Rounded",
+        "candidate_font_3": "Quicksand",
+        "candidate_font_4": "Bubblegum Sans",
+        "candidate_font_5": "Comfortaa"
     }
 ]
