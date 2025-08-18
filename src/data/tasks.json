@@ -25726,5 +25726,13 @@
         "instructions": "Where do you think the font for the Equestria Girls \"Digital Series\" that says \"Watch Now\" font is, alongside the logo?",
         "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1226801.png",
         "identified_font": null
+    },
+    {
+        "task_id": "580590",
+        "url": "https://www.dafont.com/forum/read/580590/haechan-only",
+        "title": "HaeChan only",
+        "instructions": null,
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1226808.png?2",
+        "identified_font": null
     }
 ]
