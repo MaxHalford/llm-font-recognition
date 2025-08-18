@@ -25508,7 +25508,7 @@
         "url": "https://www.dafont.com/forum/read/580562/off-rpg-logo-font",
         "title": "OFF (rpg) logo font",
         "instructions": "Specifically this photo of it, think it's fanmade",
-        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1226741.png",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1226741.png?1",
         "identified_font": null
     },
     {
@@ -25733,6 +25733,30 @@
         "title": "HaeChan only",
         "instructions": null,
         "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1226808.png?2",
+        "identified_font": null
+    },
+    {
+        "task_id": "580593",
+        "url": "https://www.dafont.com/forum/read/580593/hortus-gin",
+        "title": "Hortus Gin",
+        "instructions": "\"Hortus\"",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1226814.png",
+        "identified_font": null
+    },
+    {
+        "task_id": "580592",
+        "url": "https://www.dafont.com/forum/read/580592/please-what-font-is-this-thank-you",
+        "title": "Please what font is this? Thank you",
+        "instructions": null,
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1226811.png",
+        "identified_font": null
+    },
+    {
+        "task_id": "580591",
+        "url": "https://www.dafont.com/forum/read/580591/poznavanje-drustva-sss",
+        "title": "Poznavanje dru\u009atva sss",
+        "instructions": null,
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1226809.jpg",
         "identified_font": null
     }
 ]
