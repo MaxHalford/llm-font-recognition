@@ -25710,5 +25710,21 @@
         "instructions": null,
         "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1226791.png",
         "identified_font": null
+    },
+    {
+        "task_id": "580589",
+        "url": "https://www.dafont.com/forum/read/580589/never-forget-pluto-nash-day-font",
+        "title": "Never Forget Pluto Nash Day Font",
+        "instructions": "Do you know where this font for \"Never Forget 8-16-02\" is?",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1226803.jpg",
+        "identified_font": "Trajan"
+    },
+    {
+        "task_id": "580588",
+        "url": "https://www.dafont.com/forum/read/580588/equestria-girls-digital-series-font",
+        "title": "Equestria Girls Digital Series Font",
+        "instructions": "Where do you think the font for the Equestria Girls \"Digital Series\" that says \"Watch Now\" font is, alongside the logo?",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1226801.png",
+        "identified_font": null
     }
 ]
