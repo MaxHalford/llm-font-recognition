@@ -41164,5 +41164,14 @@
         "candidate_font_3": "Hello Beautiful",
         "candidate_font_4": "Playlist Script",
         "candidate_font_5": "Lemon Tuesday"
+    },
+    {
+        "task_id": "580588",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Burbank Big Condensed Bold",
+        "candidate_font_2": "Luckiest Guy",
+        "candidate_font_3": "Boogaloo",
+        "candidate_font_4": "Plump",
+        "candidate_font_5": "Bubblegum Sans"
     }
 ]
