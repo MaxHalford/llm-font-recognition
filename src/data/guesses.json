@@ -41209,5 +41209,104 @@
         "candidate_font_3": "Montserrat Black",
         "candidate_font_4": "PT Sans Caption Bold",
         "candidate_font_5": "Roboto Black"
+    },
+    {
+        "task_id": "580604",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Summer Hearts",
+        "candidate_font_2": "Lovelines",
+        "candidate_font_3": "Shoreline Script",
+        "candidate_font_4": "Bright Sunshine",
+        "candidate_font_5": "Hello Honey"
+    },
+    {
+        "task_id": "580601",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Agency FB Black",
+        "candidate_font_2": "Conduit ITC Std Black",
+        "candidate_font_3": "Eurostile Extended Black",
+        "candidate_font_4": "Bebas Neue Bold",
+        "candidate_font_5": "Montserrat Black"
+    },
+    {
+        "task_id": "580603",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Varela Round",
+        "candidate_font_2": "Bubblegum Sans",
+        "candidate_font_3": "Montserrat",
+        "candidate_font_4": "Open Sans",
+        "candidate_font_5": "Lato"
+    },
+    {
+        "task_id": "580602",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "The Rustic",
+        "candidate_font_2": "Lovely Coffee",
+        "candidate_font_3": "Southamton",
+        "candidate_font_4": "Brighton Script",
+        "candidate_font_5": "Wonderfull Script"
+    },
+    {
+        "task_id": "580600",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Sketch Block",
+        "candidate_font_2": "Crayon Crumble",
+        "candidate_font_3": "Kids Crayon",
+        "candidate_font_4": "KG Red Hands",
+        "candidate_font_5": "Penciltricity"
+    },
+    {
+        "task_id": "580599",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Goblin One",
+        "candidate_font_2": "Riffic",
+        "candidate_font_3": "Lilita One",
+        "candidate_font_4": "Paytone One",
+        "candidate_font_5": "Fredoka One"
+    },
+    {
+        "task_id": "580598",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Didot",
+        "candidate_font_2": "Bodoni",
+        "candidate_font_3": "Walbaum",
+        "candidate_font_4": "Myriad Pro Italic",
+        "candidate_font_5": "News Gothic Italic"
+    },
+    {
+        "task_id": "580597",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Helvetica Bold",
+        "candidate_font_2": "Univers 65 Bold",
+        "candidate_font_3": "Neue Haas Grotesk Bold",
+        "candidate_font_4": "Akzidenz-Grotesk Bold",
+        "candidate_font_5": "Folio Bold"
+    },
+    {
+        "task_id": "580596",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Rockwell Bold",
+        "candidate_font_2": "Stymie Bold",
+        "candidate_font_3": "Memphis Bold",
+        "candidate_font_4": "Clarendon Bold",
+        "candidate_font_5": "Bevan Regular"
+    },
+    {
+        "task_id": "580595",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Caslon",
+        "candidate_font_2": "Scotch Roman",
+        "candidate_font_3": "Century Schoolbook",
+        "candidate_font_4": "Cheltenham",
+        "candidate_font_5": "Plantin"
+    },
+    {
+        "task_id": "580594",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Electra",
+        "candidate_font_2": "Baskerville",
+        "candidate_font_3": "Bembo",
+        "candidate_font_4": "Palatino",
+        "candidate_font_5": "Perpetua"
     }
 ]
