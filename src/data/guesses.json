@@ -41128,5 +41128,41 @@
         "candidate_font_3": "Pump Demi Bold",
         "candidate_font_4": "Adobe Garamond Pro",
         "candidate_font_5": "Bembo"
+    },
+    {
+        "task_id": "162730",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Goat Rope",
+        "candidate_font_2": "Dirty Ego",
+        "candidate_font_3": "Creepster",
+        "candidate_font_4": "Wet Pet",
+        "candidate_font_5": "Blacklisted"
+    },
+    {
+        "task_id": "580585",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Streetwear",
+        "candidate_font_2": "Brushgyo Script",
+        "candidate_font_3": "Rustico",
+        "candidate_font_4": "Northwell",
+        "candidate_font_5": "The Bold Font"
+    },
+    {
+        "task_id": "580583",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Anglican Text",
+        "candidate_font_2": "",
+        "candidate_font_3": "",
+        "candidate_font_4": "",
+        "candidate_font_5": ""
+    },
+    {
+        "task_id": "580582",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Gracie Font Duo",
+        "candidate_font_2": "Lovely Saturday",
+        "candidate_font_3": "Hello Beautiful",
+        "candidate_font_4": "Playlist Script",
+        "candidate_font_5": "Lemon Tuesday"
     }
 ]
