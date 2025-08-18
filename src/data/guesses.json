@@ -41461,5 +41461,41 @@
         "candidate_font_3": "Encode Sans Bold",
         "candidate_font_4": "Nunito Sans Bold",
         "candidate_font_5": "Gotham Bold"
+    },
+    {
+        "task_id": "580636",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Chubby Cheeks",
+        "candidate_font_2": "Pump Demi Bold",
+        "candidate_font_3": "Bubblegum Sans",
+        "candidate_font_4": "Obelix Pro",
+        "candidate_font_5": "Boing"
+    },
+    {
+        "task_id": "580634",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Varsity Team Inline",
+        "candidate_font_2": "College Block Inline",
+        "candidate_font_3": "Jersey M54 Inline",
+        "candidate_font_4": "University Roman Inline",
+        "candidate_font_5": "Firefighter Display Inline"
+    },
+    {
+        "task_id": "580633",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "The Brooklyn",
+        "candidate_font_2": "Bignord",
+        "candidate_font_3": "HURLEY",
+        "candidate_font_4": "Black Monday",
+        "candidate_font_5": "Rambutan"
+    },
+    {
+        "task_id": "580632",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Impact",
+        "candidate_font_2": "Anton",
+        "candidate_font_3": "Oswald ExtraBold",
+        "candidate_font_4": "Bebas Neue Bold",
+        "candidate_font_5": "Compacta"
     }
 ]
