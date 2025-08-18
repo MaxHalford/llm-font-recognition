@@ -25670,5 +25670,45 @@
         "instructions": null,
         "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1226772.jpg",
         "identified_font": "Bliss Heavy"
+    },
+    {
+        "task_id": "580584",
+        "url": "https://www.dafont.com/forum/read/580584/nome-da-fonte",
+        "title": "Nome da fonte",
+        "instructions": "Me ajudem, qual o nom desta fonte",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1226793.jpg",
+        "identified_font": "Becca & Perry"
+    },
+    {
+        "task_id": "162730",
+        "url": "https://www.dafont.com/forum/read/162730/glory-boyz-font",
+        "title": "Glory boyz font ?",
+        "instructions": "Can anyone tell me what font is this ? or give me the link to download it",
+        "img_url": "https://www.dafont.com/forum/attach/orig/3/7/379699.png?1",
+        "identified_font": null
+    },
+    {
+        "task_id": "580585",
+        "url": "https://www.dafont.com/forum/read/580585/what-font-is",
+        "title": "What font is?",
+        "instructions": "What font is?",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1226794.png",
+        "identified_font": null
+    },
+    {
+        "task_id": "580583",
+        "url": "https://www.dafont.com/forum/read/580583/font-name-pleese",
+        "title": "Font name pleese",
+        "instructions": null,
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1226792.png",
+        "identified_font": null
+    },
+    {
+        "task_id": "580582",
+        "url": "https://www.dafont.com/forum/read/580582/what-font-is-that",
+        "title": "What Font is that?",
+        "instructions": null,
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1226791.png",
+        "identified_font": null
     }
 ]
