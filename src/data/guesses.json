@@ -41308,5 +41308,95 @@
         "candidate_font_3": "Bembo",
         "candidate_font_4": "Palatino",
         "candidate_font_5": "Perpetua"
+    },
+    {
+        "task_id": "580614",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Century Gothic",
+        "candidate_font_2": "Gotham",
+        "candidate_font_3": "Montserrat",
+        "candidate_font_4": "Futura",
+        "candidate_font_5": "Proxima Nova"
+    },
+    {
+        "task_id": "580613",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Metropolice",
+        "candidate_font_2": "SF Collegiate Solid",
+        "candidate_font_3": "Oxide",
+        "candidate_font_4": "Sector 033",
+        "candidate_font_5": "Agency FB"
+    },
+    {
+        "task_id": "580612",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Edwardian Script ITC",
+        "candidate_font_2": "Kuenstler Script",
+        "candidate_font_3": "Shelley Allegro",
+        "candidate_font_4": "French Script MT",
+        "candidate_font_5": "Zapf Chancery"
+    },
+    {
+        "task_id": "580611",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Young Baroque",
+        "candidate_font_2": "Bickham Script Pro",
+        "candidate_font_3": "Chopin Script",
+        "candidate_font_4": "Aphrodite Pro",
+        "candidate_font_5": "Kuenstler Script"
+    },
+    {
+        "task_id": "580610",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Avenir Next LT Pro Demi",
+        "candidate_font_2": "Proxima Nova Bold",
+        "candidate_font_3": "Montserrat Bold",
+        "candidate_font_4": "Gotham Medium",
+        "candidate_font_5": "Nunito Sans Bold"
+    },
+    {
+        "task_id": "580609",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Jellyka Dots",
+        "candidate_font_2": "Bubblegum Dots",
+        "candidate_font_3": "KG Always A Good Time",
+        "candidate_font_4": "Lemonade Stand",
+        "candidate_font_5": "Amatic SC"
+    },
+    {
+        "task_id": "580608",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Action Is",
+        "candidate_font_2": "Road Rage",
+        "candidate_font_3": "Hooligan Font",
+        "candidate_font_4": "Goatskin Brush",
+        "candidate_font_5": "Wilderness Typeface"
+    },
+    {
+        "task_id": "580607",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Conthrax Bold Italic",
+        "candidate_font_2": "Eurostile Extended Black Oblique",
+        "candidate_font_3": "Exo 2 ExtraBold Italic",
+        "candidate_font_4": "Titillium Web Black Italic",
+        "candidate_font_5": "Agency FB Bold Italic"
+    },
+    {
+        "task_id": "580606",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Trade Gothic Bold",
+        "candidate_font_2": "Open Sans Bold",
+        "candidate_font_3": "Helvetica Bold",
+        "candidate_font_4": "Arial Bold",
+        "candidate_font_5": "Univers 65 Bold"
+    },
+    {
+        "task_id": "580605",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Amsterdam Two",
+        "candidate_font_2": "Lovely Thoughts",
+        "candidate_font_3": "The Braggest Signature",
+        "candidate_font_4": "Southampton Signature",
+        "candidate_font_5": "Billgates Signature"
     }
 ]
