@@ -41182,5 +41182,32 @@
         "candidate_font_3": "Microgramma D Extended Bold",
         "candidate_font_4": "Agency FB Extended",
         "candidate_font_5": "Bank Gothic Medium Extended"
+    },
+    {
+        "task_id": "580593",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Cochin Bold",
+        "candidate_font_2": "Noe Display Bold",
+        "candidate_font_3": "Chronicle Display Black",
+        "candidate_font_4": "Adelle Display Heavy",
+        "candidate_font_5": "Freight Text Black"
+    },
+    {
+        "task_id": "580592",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Old English Text MT",
+        "candidate_font_2": "Engravers Old English",
+        "candidate_font_3": "Cloister Black",
+        "candidate_font_4": "",
+        "candidate_font_5": ""
+    },
+    {
+        "task_id": "580591",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Open Sans ExtraBold",
+        "candidate_font_2": "Lato Black",
+        "candidate_font_3": "Montserrat Black",
+        "candidate_font_4": "PT Sans Caption Bold",
+        "candidate_font_5": "Roboto Black"
     }
 ]
