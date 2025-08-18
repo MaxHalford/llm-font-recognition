@@ -41398,5 +41398,68 @@
         "candidate_font_3": "The Braggest Signature",
         "candidate_font_4": "Southampton Signature",
         "candidate_font_5": "Billgates Signature"
+    },
+    {
+        "task_id": "580629",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Gilroy",
+        "candidate_font_2": "Sofia Pro",
+        "candidate_font_3": "Proxima Nova",
+        "candidate_font_4": "Montserrat",
+        "candidate_font_5": "Circular Std"
+    },
+    {
+        "task_id": "580627",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Rockwell Extra Bold",
+        "candidate_font_2": "Stymie Black",
+        "candidate_font_3": "Memphis Black",
+        "candidate_font_4": "Helvetica Bold",
+        "candidate_font_5": "Univers 65 Bold"
+    },
+    {
+        "task_id": "580626",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Source Sans Pro",
+        "candidate_font_2": "Roboto",
+        "candidate_font_3": "Open Sans",
+        "candidate_font_4": "Lato",
+        "candidate_font_5": "Noto Sans"
+    },
+    {
+        "task_id": "580624",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Lemon Tuesday",
+        "candidate_font_2": "Futura",
+        "candidate_font_3": "Brandon Grotesque",
+        "candidate_font_4": "The California Font",
+        "candidate_font_5": "Lovely Saturday"
+    },
+    {
+        "task_id": "580623",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Gobold Bold",
+        "candidate_font_2": "Montserrat Black",
+        "candidate_font_3": "Oswald Regular",
+        "candidate_font_4": "Montserrat Regular",
+        "candidate_font_5": "Lato Black"
+    },
+    {
+        "task_id": "580621",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Baloo 2",
+        "candidate_font_2": "Fredoka One",
+        "candidate_font_3": "Mochiy Pop P One",
+        "candidate_font_4": "Rubik",
+        "candidate_font_5": "Varela Round"
+    },
+    {
+        "task_id": "580620",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Montserrat Bold",
+        "candidate_font_2": "Work Sans Bold",
+        "candidate_font_3": "Encode Sans Bold",
+        "candidate_font_4": "Nunito Sans Bold",
+        "candidate_font_5": "Gotham Bold"
     }
 ]
