@@ -41173,5 +41173,14 @@
         "candidate_font_3": "Boogaloo",
         "candidate_font_4": "Plump",
         "candidate_font_5": "Bubblegum Sans"
+    },
+    {
+        "task_id": "580590",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Stay High",
+        "candidate_font_2": "Eurostile Extended Black",
+        "candidate_font_3": "Microgramma D Extended Bold",
+        "candidate_font_4": "Agency FB Extended",
+        "candidate_font_5": "Bank Gothic Medium Extended"
     }
 ]
