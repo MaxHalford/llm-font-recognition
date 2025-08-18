@@ -25409,8 +25409,8 @@
     },
     {
         "task_id": "580556",
-        "url": "https://www.dafont.com/forum/read/580556/forgot-the-font-name",
-        "title": "Forgot the font name",
+        "url": "https://www.dafont.com/forum/read/580556/forgot-the-font-name-lmk",
+        "title": "Forgot the font name lmk",
         "instructions": null,
         "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1226732.png",
         "identified_font": null
@@ -25893,7 +25893,7 @@
         "title": "Anyone know this font?",
         "instructions": "I need help identifying this font.",
         "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1226837.jpg",
-        "identified_font": null
+        "identified_font": "Wednesday"
     },
     {
         "task_id": "580608",
@@ -25925,6 +25925,78 @@
         "title": "What's this font please ??",
         "instructions": "Dean Thomas",
         "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1226832.jpg",
+        "identified_font": null
+    },
+    {
+        "task_id": "580619",
+        "url": "https://www.dafont.com/forum/read/580619/font-help",
+        "title": "Font Help!",
+        "instructions": "UPDATE:  I have found the sketch font, just need the script!",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1226850.png",
+        "identified_font": "Wishline"
+    },
+    {
+        "task_id": "580629",
+        "url": "https://www.dafont.com/forum/read/580629/font",
+        "title": "Font?",
+        "instructions": null,
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1226864.jpg",
+        "identified_font": null
+    },
+    {
+        "task_id": "580625",
+        "url": "https://www.dafont.com/forum/read/580625/font-please",
+        "title": "Font please",
+        "instructions": null,
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1226857.png",
+        "identified_font": "Watermelon Script"
+    },
+    {
+        "task_id": "580627",
+        "url": "https://www.dafont.com/forum/read/580627/zlatno-tele",
+        "title": "Zlatno tele",
+        "instructions": null,
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1226861.jpg",
+        "identified_font": null
+    },
+    {
+        "task_id": "580626",
+        "url": "https://www.dafont.com/forum/read/580626/fuente-libro",
+        "title": "Fuente libro",
+        "instructions": null,
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1226858.jpg",
+        "identified_font": null
+    },
+    {
+        "task_id": "580624",
+        "url": "https://www.dafont.com/forum/read/580624/what-font-is-breakfast-and-wake-up",
+        "title": "What font is \u0093breakfast\u0094 and \u0093wake up\u0094",
+        "instructions": null,
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1226855.jpg",
+        "identified_font": null
+    },
+    {
+        "task_id": "580623",
+        "url": "https://www.dafont.com/forum/read/580623/help-me-identify-this-font",
+        "title": "HELP ME IDENTIFY THIS FONT",
+        "instructions": "PLease help me identify the font used in these logo, thanks",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1226854.png",
+        "identified_font": null
+    },
+    {
+        "task_id": "580621",
+        "url": "https://www.dafont.com/forum/read/580621/font-name",
+        "title": "Font name?",
+        "instructions": "Does someone know which font is used over here?",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1226852.png",
+        "identified_font": null
+    },
+    {
+        "task_id": "580620",
+        "url": "https://www.dafont.com/forum/read/580620/anyone-know-the-31st-annual-and-2025-fonts-thanks",
+        "title": "Anyone know the \"31st Annual\" and \"2025\" fonts? Thanks!",
+        "instructions": null,
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1226851.png",
         "identified_font": null
     }
 ]
