@@ -25941,7 +25941,7 @@
         "title": "Font?",
         "instructions": null,
         "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1226864.jpg",
-        "identified_font": null
+        "identified_font": "Quantify"
     },
     {
         "task_id": "580625",
@@ -25964,7 +25964,7 @@
         "url": "https://www.dafont.com/forum/read/580626/fuente-libro",
         "title": "Fuente libro",
         "instructions": null,
-        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1226858.jpg",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1226858.jpg?1",
         "identified_font": null
     },
     {
@@ -25997,6 +25997,70 @@
         "title": "Anyone know the \"31st Annual\" and \"2025\" fonts? Thanks!",
         "instructions": null,
         "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1226851.png",
+        "identified_font": null
+    },
+    {
+        "task_id": "580635",
+        "url": "https://www.dafont.com/forum/read/580635/what-the-font-please-thnks",
+        "title": "what the font, please thnks",
+        "instructions": "what the font, please thnks",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1226877.jpg",
+        "identified_font": "Love"
+    },
+    {
+        "task_id": "580637",
+        "url": "https://www.dafont.com/forum/read/580637/font",
+        "title": "Font?",
+        "instructions": null,
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1226880.jpg",
+        "identified_font": "Die Nasty"
+    },
+    {
+        "task_id": "580636",
+        "url": "https://www.dafont.com/forum/read/580636/find-font",
+        "title": "find font",
+        "instructions": "What font is this?",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1226879.jpg",
+        "identified_font": null
+    },
+    {
+        "task_id": "580630",
+        "url": "https://www.dafont.com/forum/read/580630/calligraphy-font",
+        "title": "Calligraphy font",
+        "instructions": "Hi, can anyone identify this font",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1226867.png",
+        "identified_font": "Mahmur"
+    },
+    {
+        "task_id": "580634",
+        "url": "https://www.dafont.com/forum/read/580634/fire-font-name",
+        "title": "FIRE font name",
+        "instructions": "Hi, This may not even be a font. It is embroidery and I can't get a hit on it at my usual font identification places.",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1226874.jpg",
+        "identified_font": null
+    },
+    {
+        "task_id": "580631",
+        "url": "https://www.dafont.com/forum/read/580631/que-fonte-e-essa",
+        "title": "Que fonte \u00e9 essa?",
+        "instructions": null,
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1226868.jpg",
+        "identified_font": "Rochester"
+    },
+    {
+        "task_id": "580633",
+        "url": "https://www.dafont.com/forum/read/580633/help-me",
+        "title": "help me",
+        "instructions": "someone know the font used \"D'Guste\"",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1226870.png",
+        "identified_font": null
+    },
+    {
+        "task_id": "580632",
+        "url": "https://www.dafont.com/forum/read/580632/zivi-i-mrtvi",
+        "title": "\u008eivi i mrtvi",
+        "instructions": null,
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1226869.jpg",
         "identified_font": null
     }
 ]
