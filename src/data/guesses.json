@@ -41569,5 +41569,77 @@
         "candidate_font_3": "Augustea",
         "candidate_font_4": "Requiem",
         "candidate_font_5": "Perpetua"
+    },
+    {
+        "task_id": "580664",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Bubblegum Sans",
+        "candidate_font_2": "Fredoka One",
+        "candidate_font_3": "Sniglet",
+        "candidate_font_4": "",
+        "candidate_font_5": ""
+    },
+    {
+        "task_id": "580663",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Wildcats",
+        "candidate_font_2": "SF Collegiate Solid Italic",
+        "candidate_font_3": "Agency FB Bold Italic",
+        "candidate_font_4": "Impact Italic",
+        "candidate_font_5": "Acme Explosive"
+    },
+    {
+        "task_id": "580662",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "DoodleGum",
+        "candidate_font_2": "Janda Happy Day",
+        "candidate_font_3": "Bubblegum Sans",
+        "candidate_font_4": "Chewy",
+        "candidate_font_5": "Lemon Milk"
+    },
+    {
+        "task_id": "580661",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Magnolia Sky",
+        "candidate_font_2": "Amsterdam One",
+        "candidate_font_3": "The Wedding Script",
+        "candidate_font_4": "Hello Beautiful",
+        "candidate_font_5": "Better Together"
+    },
+    {
+        "task_id": "471190",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Archivo Black",
+        "candidate_font_2": "Gobold Block",
+        "candidate_font_3": "Public Sans Black",
+        "candidate_font_4": "Work Sans Black",
+        "candidate_font_5": "Anton"
+    },
+    {
+        "task_id": "580660",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Bright Sunshine",
+        "candidate_font_2": "Playlist Script",
+        "candidate_font_3": "Hello Goodbye",
+        "candidate_font_4": "Magnolia Sky",
+        "candidate_font_5": "Lemon Tuesday"
+    },
+    {
+        "task_id": "580659",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Amsterdam One",
+        "candidate_font_2": "Lemon Tuesday",
+        "candidate_font_3": "Playlist Script",
+        "candidate_font_4": "Magnolia Sky",
+        "candidate_font_5": "Stay Grumpy"
+    },
+    {
+        "task_id": "580658",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "KG Sugar Sugar",
+        "candidate_font_2": "KG Miss Kindergarten",
+        "candidate_font_3": "Bubblegum Sans",
+        "candidate_font_4": "Lemon Yellow Sun",
+        "candidate_font_5": "Janda Happy Day"
     }
 ]
