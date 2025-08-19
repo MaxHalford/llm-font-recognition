@@ -41560,5 +41560,14 @@
         "candidate_font_3": "Streetbrush",
         "candidate_font_4": "Rustico Brush",
         "candidate_font_5": "Hustle Script"
+    },
+    {
+        "task_id": "580655",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Columna",
+        "candidate_font_2": "Trajan Pro",
+        "candidate_font_3": "Augustea",
+        "candidate_font_4": "Requiem",
+        "candidate_font_5": "Perpetua"
     }
 ]
