@@ -41830,5 +41830,95 @@
         "candidate_font_3": "Cochin",
         "candidate_font_4": "Mrs Eaves",
         "candidate_font_5": "Garamond"
+    },
+    {
+        "task_id": "580701",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Quiche Flare",
+        "candidate_font_2": "Recife",
+        "candidate_font_3": "Bellefair",
+        "candidate_font_4": "Playfair Display",
+        "candidate_font_5": "Didot"
+    },
+    {
+        "task_id": "580700",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Signatura Monoline",
+        "candidate_font_2": "Great Vibes",
+        "candidate_font_3": "Allura Regular",
+        "candidate_font_4": "Alex Brush Regular",
+        "candidate_font_5": "Dancing Script"
+    },
+    {
+        "task_id": "566620",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Special Elite",
+        "candidate_font_2": "Courier New",
+        "candidate_font_3": "Kingthings Trypewriter",
+        "candidate_font_4": "Pica 10 Pitch",
+        "candidate_font_5": "L.C. Smith Typewriter"
+    },
+    {
+        "task_id": "580699",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Hulksmash",
+        "candidate_font_2": "Blooby Blob",
+        "candidate_font_3": "Graffogie",
+        "candidate_font_4": "Street Graffiti",
+        "candidate_font_5": "Whoa!"
+    },
+    {
+        "task_id": "580698",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Proxima Nova",
+        "candidate_font_2": "Graphik",
+        "candidate_font_3": "Poppins",
+        "candidate_font_4": "Montserrat",
+        "candidate_font_5": "Open Sans"
+    },
+    {
+        "task_id": "580695",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Terminator Real NFI",
+        "candidate_font_2": "SF Transrobotics",
+        "candidate_font_3": "Audiowide",
+        "candidate_font_4": "Gotham",
+        "candidate_font_5": "Gilroy"
+    },
+    {
+        "task_id": "580694",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Exodus",
+        "candidate_font_2": "Mortal Coil",
+        "candidate_font_3": "Requiem",
+        "candidate_font_4": "Lordish",
+        "candidate_font_5": "Gotthard"
+    },
+    {
+        "task_id": "580693",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Foglihten No06",
+        "candidate_font_2": "Aphrodite Pro",
+        "candidate_font_3": "Burgues Script",
+        "candidate_font_4": "Beloved Script",
+        "candidate_font_5": "Carolyna Pro Black"
+    },
+    {
+        "task_id": "580692",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Mortisha",
+        "candidate_font_2": "Monk's Gotcha",
+        "candidate_font_3": "Black Widow",
+        "candidate_font_4": "Metal Macabre",
+        "candidate_font_5": "Old Dreadful No. 7"
+    },
+    {
+        "task_id": "580690",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Gobold Bold",
+        "candidate_font_2": "Bebas Neue Bold",
+        "candidate_font_3": "Amsterdam One",
+        "candidate_font_4": "Bebas Neue Outline",
+        "candidate_font_5": ""
     }
 ]
