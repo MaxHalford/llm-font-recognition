@@ -13021,7 +13021,7 @@
         "title": "Marana",
         "instructions": "Please!! Font of \"Marana\"?? Thank you very much in advance.",
         "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1223783.png",
-        "identified_font": null
+        "identified_font": "Sweet Charm"
     },
     {
         "task_id": "579163",
@@ -25796,8 +25796,8 @@
         "url": "https://www.dafont.com/forum/read/580600/hello-what-font-is-used-in-this-image-please",
         "title": "Hello, what font is used in this image please?",
         "instructions": "Expo \u00e0 la maternelle",
-        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1226821.jpg",
-        "identified_font": null
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1226821.png?1",
+        "identified_font": "Chicken Butt"
     },
     {
         "task_id": "580599",
@@ -26061,6 +26061,78 @@
         "title": "\u008eivi i mrtvi",
         "instructions": null,
         "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1226869.jpg",
+        "identified_font": null
+    },
+    {
+        "task_id": "580652",
+        "url": "https://www.dafont.com/forum/read/580652/what-font-is-this",
+        "title": "what font is this?",
+        "instructions": "CAN ANYONE HELP ME IDENTIFIED THIS FONTS?",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1226910.png",
+        "identified_font": "Handel Gothic"
+    },
+    {
+        "task_id": "580651",
+        "url": "https://www.dafont.com/forum/read/580651/a-similar-font-please-focusing-on-the-letter-m-as-similar-as-possible",
+        "title": "a similar font please, focusing on the letter 'M' as similar as possible",
+        "instructions": null,
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1226909.png",
+        "identified_font": null
+    },
+    {
+        "task_id": "580649",
+        "url": "https://www.dafont.com/forum/read/580649/font",
+        "title": "Font ??",
+        "instructions": null,
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1226904.jpg",
+        "identified_font": null
+    },
+    {
+        "task_id": "580648",
+        "url": "https://www.dafont.com/forum/read/580648/ultimate-font-from-ultimate-goosebumps-logo",
+        "title": "Ultimate Font? From Ultimate Goosebumps Logo",
+        "instructions": "Really hard too find.",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1226903.png?1",
+        "identified_font": null
+    },
+    {
+        "task_id": "580647",
+        "url": "https://www.dafont.com/forum/read/580647/hhhh-vs",
+        "title": "Hhhh vs",
+        "instructions": null,
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1226902.png?1",
+        "identified_font": null
+    },
+    {
+        "task_id": "580643",
+        "url": "https://www.dafont.com/forum/read/580643/what-font-is-this",
+        "title": "what font is this??",
+        "instructions": "i want this font",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1226894.png",
+        "identified_font": "Dynamo Bold"
+    },
+    {
+        "task_id": "580646",
+        "url": "https://www.dafont.com/forum/read/580646/all-fonts",
+        "title": "All Fonts?",
+        "instructions": null,
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1226900.png?1",
+        "identified_font": null
+    },
+    {
+        "task_id": "580644",
+        "url": "https://www.dafont.com/forum/read/580644/sebi-drugom",
+        "title": "Sebi drugom",
+        "instructions": null,
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1226895.png?1",
+        "identified_font": null
+    },
+    {
+        "task_id": "580638",
+        "url": "https://www.dafont.com/forum/read/580638/que-fuente-es",
+        "title": "Qu\u00e9 fuente es?",
+        "instructions": "Ayuda, qu\u00e9 fuente es?",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1226887.png?1",
         "identified_font": null
     }
 ]
