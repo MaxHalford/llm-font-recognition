@@ -41497,5 +41497,68 @@
         "candidate_font_3": "Oswald ExtraBold",
         "candidate_font_4": "Bebas Neue Bold",
         "candidate_font_5": "Compacta"
+    },
+    {
+        "task_id": "580651",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Berry Rotunda",
+        "candidate_font_2": "Strawberry Shortcake Font",
+        "candidate_font_3": "Rotunda",
+        "candidate_font_4": "Shortcake Script",
+        "candidate_font_5": "Bubblegum Script"
+    },
+    {
+        "task_id": "580649",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Salted Mocha",
+        "candidate_font_2": "",
+        "candidate_font_3": "",
+        "candidate_font_4": "",
+        "candidate_font_5": ""
+    },
+    {
+        "task_id": "580648",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "YouMurderer",
+        "candidate_font_2": "True Lies",
+        "candidate_font_3": "Monster Attack",
+        "candidate_font_4": "Ghastly Panic",
+        "candidate_font_5": "Goosebumps (Junkie Fonts)"
+    },
+    {
+        "task_id": "580647",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Gotham Bold",
+        "candidate_font_2": "Montserrat ExtraBold",
+        "candidate_font_3": "Vollkorn Regular",
+        "candidate_font_4": "Poppins Bold",
+        "candidate_font_5": "IBM Plex Sans Bold"
+    },
+    {
+        "task_id": "580646",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Roadkill",
+        "candidate_font_2": "Agency FB Bold",
+        "candidate_font_3": "Eurostile Extended Black Oblique",
+        "candidate_font_4": "Pricedown",
+        "candidate_font_5": "Compacta Black Italic"
+    },
+    {
+        "task_id": "580644",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Trade Gothic Bold",
+        "candidate_font_2": "Adobe Garamond Pro",
+        "candidate_font_3": "Trade Gothic Regular",
+        "candidate_font_4": "",
+        "candidate_font_5": ""
+    },
+    {
+        "task_id": "580638",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Riot Squad",
+        "candidate_font_2": "Broken Brush",
+        "candidate_font_3": "Streetbrush",
+        "candidate_font_4": "Rustico Brush",
+        "candidate_font_5": "Hustle Script"
     }
 ]
