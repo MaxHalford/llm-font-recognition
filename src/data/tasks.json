@@ -24484,7 +24484,7 @@
         "url": "https://www.dafont.com/forum/read/580406/font-id-please",
         "title": "Font ID please",
         "instructions": "Could anyone assist with a font ID for this image, please? TIA",
-        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1226432.jpg",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1226432.png?1",
         "identified_font": null
     },
     {
@@ -26148,8 +26148,8 @@
         "url": "https://www.dafont.com/forum/read/580657/help-finding-fantasmas-font",
         "title": "help finding 'fantasmas' font",
         "instructions": null,
-        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1226921.png",
-        "identified_font": "Retro Gaming"
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1226921.png?1",
+        "identified_font": null
     },
     {
         "task_id": "580654",
@@ -26189,7 +26189,7 @@
         "title": "Mar\u00eda Jos\u00e9",
         "instructions": "Please!! Font of \"Mar\u00eda Jos\u00e9\"?? Thank you very much in advance.",
         "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1226933.jpg",
-        "identified_font": null
+        "identified_font": "Willow"
     },
     {
         "task_id": "471190",
@@ -26221,6 +26221,22 @@
         "title": "SPICY LILSTAR",
         "instructions": "Please!! Font of \"SPICY LILSTAR\"?? Thank you very much in advance.",
         "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1226928.png",
+        "identified_font": null
+    },
+    {
+        "task_id": "580666",
+        "url": "https://www.dafont.com/forum/read/580666/life-of-agony-sound-of-scars-lyric-booklet-script-font",
+        "title": "Life of Agony - Sound of Scars (lyric booklet script font)",
+        "instructions": null,
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1226942.jpg",
+        "identified_font": "Homemade Apple"
+    },
+    {
+        "task_id": "580665",
+        "url": "https://www.dafont.com/forum/read/580665/what-font",
+        "title": "what font",
+        "instructions": "I found this unique font and I want to use it too. Does anyone of you know what font this is?",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1226941.jpg",
         "identified_font": null
     }
 ]
