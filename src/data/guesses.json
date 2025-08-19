@@ -41767,5 +41767,68 @@
         "candidate_font_3": "Nanum Square Round",
         "candidate_font_4": "Gmarket Sans",
         "candidate_font_5": "Pretendard"
+    },
+    {
+        "task_id": "580689",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Chub Gothic Inline",
+        "candidate_font_2": "Pump Demi Bold Inline",
+        "candidate_font_3": "Fatfrank Inline",
+        "candidate_font_4": "ITC Bauhaus Inline",
+        "candidate_font_5": "VAG Rounded (Custom Inline)"
+    },
+    {
+        "task_id": "580686",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Lemon Milk Bold",
+        "candidate_font_2": "Gobold Extra Bold",
+        "candidate_font_3": "Anton",
+        "candidate_font_4": "Bebas Neue",
+        "candidate_font_5": "Impact"
+    },
+    {
+        "task_id": "580688",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Corporate S",
+        "candidate_font_2": "Circular Std Rounded",
+        "candidate_font_3": "Akzidenz-Grotesk Round",
+        "candidate_font_4": "VAG Rounded",
+        "candidate_font_5": "FF DIN Round"
+    },
+    {
+        "task_id": "580687",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Rift Soft",
+        "candidate_font_2": "Quicksand Light",
+        "candidate_font_3": "Mochiy Pop One",
+        "candidate_font_4": "Varela Round",
+        "candidate_font_5": "Fredoka One"
+    },
+    {
+        "task_id": "580684",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Montserrat",
+        "candidate_font_2": "Roboto",
+        "candidate_font_3": "Lato",
+        "candidate_font_4": "Poppins",
+        "candidate_font_5": "Open Sans"
+    },
+    {
+        "task_id": "580683",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Keep on Truckin'",
+        "candidate_font_2": "Impact",
+        "candidate_font_3": "Bebas Neue",
+        "candidate_font_4": "Gobold",
+        "candidate_font_5": "VAG Rounded"
+    },
+    {
+        "task_id": "580682",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Baskerville",
+        "candidate_font_2": "Perpetua",
+        "candidate_font_3": "Cochin",
+        "candidate_font_4": "Mrs Eaves",
+        "candidate_font_5": "Garamond"
     }
 ]
