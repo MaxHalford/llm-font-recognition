@@ -41659,5 +41659,113 @@
         "candidate_font_3": "Lemon Tuesday",
         "candidate_font_4": "Stay Grumpy",
         "candidate_font_5": "The Loveliest One"
+    },
+    {
+        "task_id": "580681",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "URW++ Bodoni No. 3",
+        "candidate_font_2": "Crimson Text",
+        "candidate_font_3": "Bodoni Std",
+        "candidate_font_4": "Didot",
+        "candidate_font_5": "Libre Baskerville"
+    },
+    {
+        "task_id": "580677",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Burbank Big Bold",
+        "candidate_font_2": "VAG Rounded Bold",
+        "candidate_font_3": "Proxima Nova Soft Bold",
+        "candidate_font_4": "Quicksand Bold",
+        "candidate_font_5": "Comfortaa Bold"
+    },
+    {
+        "task_id": "580680",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Luckiest Guy",
+        "candidate_font_2": "Fredoka One",
+        "candidate_font_3": "Lilita One",
+        "candidate_font_4": "Oswald Bold",
+        "candidate_font_5": "Montserrat ExtraBold Condensed"
+    },
+    {
+        "task_id": "580679",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Anton",
+        "candidate_font_2": "Titan One",
+        "candidate_font_3": "Luckiest Guy",
+        "candidate_font_4": "Bangers",
+        "candidate_font_5": "Alfa Slab One"
+    },
+    {
+        "task_id": "580678",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "SF Collegiate Heavy Italic",
+        "candidate_font_2": "SF Collegiate Solid Condensed",
+        "candidate_font_3": "College Block 2.0",
+        "candidate_font_4": "Varsity Team",
+        "candidate_font_5": "Octin Sports"
+    },
+    {
+        "task_id": "580675",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Verlag Black Condensed",
+        "candidate_font_2": "Gotham Black Condensed",
+        "candidate_font_3": "FF Din Condensed Bold",
+        "candidate_font_4": "Trade Gothic Next Heavy Condensed",
+        "candidate_font_5": "Bebas Neue Bold"
+    },
+    {
+        "task_id": "580674",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "URW Grotesk",
+        "candidate_font_2": "Akzidenz-Grotesk",
+        "candidate_font_3": "Monotype Grotesque",
+        "candidate_font_4": "Univers",
+        "candidate_font_5": "Franklin Gothic"
+    },
+    {
+        "task_id": "580673",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "League Gothic",
+        "candidate_font_2": "Windsor Italic",
+        "candidate_font_3": "Cooper Italic",
+        "candidate_font_4": "Souvenir Italic",
+        "candidate_font_5": "Korinna Italic"
+    },
+    {
+        "task_id": "580672",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Maluola",
+        "candidate_font_2": "Kiwaha",
+        "candidate_font_3": "Wayfinding Sans",
+        "candidate_font_4": "Kailua",
+        "candidate_font_5": "Lauhala"
+    },
+    {
+        "task_id": "580671",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Bouncy Blocks",
+        "candidate_font_2": "The Kids Sans",
+        "candidate_font_3": "Cute Chubby",
+        "candidate_font_4": "Summer Playground",
+        "candidate_font_5": "Lemon Milkshake"
+    },
+    {
+        "task_id": "580670",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Patrick Hand",
+        "candidate_font_2": "Indie Flower",
+        "candidate_font_3": "Architects Daughter",
+        "candidate_font_4": "Handlee",
+        "candidate_font_5": "Kalam"
+    },
+    {
+        "task_id": "580669",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Chaereve New Hangul",
+        "candidate_font_2": "Chaereve Hangul",
+        "candidate_font_3": "Nanum Square Round",
+        "candidate_font_4": "Gmarket Sans",
+        "candidate_font_5": "Pretendard"
     }
 ]
