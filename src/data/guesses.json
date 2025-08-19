@@ -41920,5 +41920,50 @@
         "candidate_font_3": "Amsterdam One",
         "candidate_font_4": "Bebas Neue Outline",
         "candidate_font_5": ""
+    },
+    {
+        "task_id": "580710",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Impact",
+        "candidate_font_2": "Anton",
+        "candidate_font_3": "Tungsten Heavy",
+        "candidate_font_4": "Bebas Neue",
+        "candidate_font_5": "Lemon Milk Black"
+    },
+    {
+        "task_id": "580708",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Gotham Black",
+        "candidate_font_2": "Montserrat Black",
+        "candidate_font_3": "Gilroy Black",
+        "candidate_font_4": "Avenir Next Heavy",
+        "candidate_font_5": "TT Norms Pro Black"
+    },
+    {
+        "task_id": "580707",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Gotham",
+        "candidate_font_2": "Montserrat",
+        "candidate_font_3": "Futura",
+        "candidate_font_4": "Avenir",
+        "candidate_font_5": "Circular"
+    },
+    {
+        "task_id": "580704",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "WWF Raw Is War",
+        "candidate_font_2": "Impact",
+        "candidate_font_3": "Bank Gothic",
+        "candidate_font_4": "Agency FB",
+        "candidate_font_5": "Eurostile Extended Black"
+    },
+    {
+        "task_id": "580703",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "LTC Swing Bold",
+        "candidate_font_2": "Signpainter House Script",
+        "candidate_font_3": "Great Vibes",
+        "candidate_font_4": "Magnolia Sky",
+        "candidate_font_5": "Playlist Script"
     }
 ]
