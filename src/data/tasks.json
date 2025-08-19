@@ -25653,7 +25653,7 @@
         "title": "Font Used in Nintendo's Switch 2 Overview Trailer",
         "instructions": "Hello, everyone! I'm looking for some help in pinning down a font that was used several times throughout a Nintendo promotional video from a few months ago: the Switch 2 Overview Trailer. It talked about lots of features of the new hardware and used the same font every few seconds, but I haven't been able to find an exact match for what font is being used. Attached is a screenshot of one example. Thanks in advance for any assistance!",
         "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1226787.png?1",
-        "identified_font": null
+        "identified_font": "UD Shin Go Bold"
     },
     {
         "task_id": "580578",
@@ -25876,7 +25876,7 @@
         "url": "https://www.dafont.com/forum/read/580611/m-script-typeface",
         "title": "M Script Typeface",
         "instructions": "Can anyone please help to identify this letter M",
-        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1226839.jpg",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1226839.png?1",
         "identified_font": null
     },
     {
@@ -26333,6 +26333,70 @@
         "title": "Chaereve New Hangul",
         "instructions": "Do you happen to know the name of Chaereve\u0092s new Hangul font? Could someone who knows please respond?",
         "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1226952.png",
+        "identified_font": null
+    },
+    {
+        "task_id": "580689",
+        "url": "https://www.dafont.com/forum/read/580689/anyone-know-what-font-this-is",
+        "title": "Anyone know what font this is?",
+        "instructions": null,
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1226979.png",
+        "identified_font": null
+    },
+    {
+        "task_id": "580685",
+        "url": "https://www.dafont.com/forum/read/580685/help-with-these-fonts-please",
+        "title": "Help with these fonts please",
+        "instructions": "Twisted?",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1226969.png",
+        "identified_font": "Dear Joe 4"
+    },
+    {
+        "task_id": "580686",
+        "url": "https://www.dafont.com/forum/read/580686/font-names-pls",
+        "title": "Font names pls :)",
+        "instructions": null,
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1226972.jpg?1",
+        "identified_font": null
+    },
+    {
+        "task_id": "580688",
+        "url": "https://www.dafont.com/forum/read/580688/help-me-please",
+        "title": "help me please",
+        "instructions": null,
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1226974.png",
+        "identified_font": null
+    },
+    {
+        "task_id": "580687",
+        "url": "https://www.dafont.com/forum/read/580687/trendy-font",
+        "title": "trendy Font",
+        "instructions": null,
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1226973.png",
+        "identified_font": null
+    },
+    {
+        "task_id": "580684",
+        "url": "https://www.dafont.com/forum/read/580684/what-font-thanks",
+        "title": "What font? Thanks",
+        "instructions": null,
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1226968.jpg",
+        "identified_font": null
+    },
+    {
+        "task_id": "580683",
+        "url": "https://www.dafont.com/forum/read/580683/fonts",
+        "title": "Fonts?",
+        "instructions": null,
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1226967.jpg",
+        "identified_font": null
+    },
+    {
+        "task_id": "580682",
+        "url": "https://www.dafont.com/forum/read/580682/font",
+        "title": "Font?",
+        "instructions": null,
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1226966.jpg",
         "identified_font": null
     }
 ]
