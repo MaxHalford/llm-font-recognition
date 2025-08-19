@@ -25828,7 +25828,7 @@
         "url": "https://www.dafont.com/forum/read/580596/kod-krapine",
         "title": "Kod Krapine",
         "instructions": null,
-        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1226817.jpg",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1226817.png?1",
         "identified_font": null
     },
     {
@@ -26134,5 +26134,29 @@
         "instructions": "Ayuda, qu\u00e9 fuente es?",
         "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1226887.png?1",
         "identified_font": null
+    },
+    {
+        "task_id": "580655",
+        "url": "https://www.dafont.com/forum/read/580655/does-anyone-knows-similar-to-this-kind-of-font",
+        "title": "Does anyone knows similar to this kind of font?",
+        "instructions": null,
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1226919.png",
+        "identified_font": null
+    },
+    {
+        "task_id": "580657",
+        "url": "https://www.dafont.com/forum/read/580657/help-finding-fantasmas-font",
+        "title": "help finding 'fantasmas' font",
+        "instructions": null,
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1226921.png",
+        "identified_font": "Retro Gaming"
+    },
+    {
+        "task_id": "580654",
+        "url": "https://www.dafont.com/forum/read/580654/what-font-is-this",
+        "title": "What font is this?",
+        "instructions": null,
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1226918.png",
+        "identified_font": "Digipixel"
     }
 ]
