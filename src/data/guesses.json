@@ -41641,5 +41641,23 @@
         "candidate_font_3": "Bubblegum Sans",
         "candidate_font_4": "Lemon Yellow Sun",
         "candidate_font_5": "Janda Happy Day"
+    },
+    {
+        "task_id": "580657",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "VCR OSD Mono",
+        "candidate_font_2": "Press Start 2P",
+        "candidate_font_3": "Perfect DOS VGA 437",
+        "candidate_font_4": "Pixel Emulator",
+        "candidate_font_5": "ArcadeClassic"
+    },
+    {
+        "task_id": "580665",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Lovely Boys",
+        "candidate_font_2": "Sugar Mint",
+        "candidate_font_3": "Lemon Tuesday",
+        "candidate_font_4": "Stay Grumpy",
+        "candidate_font_5": "The Loveliest One"
     }
 ]
