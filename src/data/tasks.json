@@ -25651,8 +25651,8 @@
         "task_id": "580579",
         "url": "https://www.dafont.com/forum/read/580579/font-used-in-nintendo-s-switch-2-overview-trailer",
         "title": "Font Used in Nintendo's Switch 2 Overview Trailer",
-        "instructions": "Hello, everyone! I'm looking for some help in pinning down a font that was used several times throughout a Nintendo promotional video from a few months ago: the Switch 2 Overview Trailer. It talked about lots of features of the new hardware and used the same font every few seconds, but I haven't been able to find an exact match for what font is being used. Attached is a screenshot of one example, and then the link to the full YouTube video is below too. Thanks in advance for any assistance!",
-        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1226787.png",
+        "instructions": "Hello, everyone! I'm looking for some help in pinning down a font that was used several times throughout a Nintendo promotional video from a few months ago: the Switch 2 Overview Trailer. It talked about lots of features of the new hardware and used the same font every few seconds, but I haven't been able to find an exact match for what font is being used. Attached is a screenshot of one example. Thanks in advance for any assistance!",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1226787.png?1",
         "identified_font": null
     },
     {
@@ -25885,7 +25885,7 @@
         "title": "THE WHAT FONT",
         "instructions": "What is the name of this font \"no canva\"?",
         "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1226838.png",
-        "identified_font": null
+        "identified_font": "Enjoy Life"
     },
     {
         "task_id": "580609",
@@ -26158,5 +26158,69 @@
         "instructions": null,
         "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1226918.png",
         "identified_font": "Digipixel"
+    },
+    {
+        "task_id": "580664",
+        "url": "https://www.dafont.com/forum/read/580664/sofia",
+        "title": "Sofia",
+        "instructions": "Please!! Font of \"Sofia\"?? Thank you very much in advance.",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1226936.jpg",
+        "identified_font": null
+    },
+    {
+        "task_id": "580663",
+        "url": "https://www.dafont.com/forum/read/580663/wildc-a-t-s-main-font",
+        "title": "WILDC.A.T.S main font",
+        "instructions": "Hey anyone know the the font used in this titling, would be great to find out.",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1226935.png",
+        "identified_font": null
+    },
+    {
+        "task_id": "580662",
+        "url": "https://www.dafont.com/forum/read/580662/valentin",
+        "title": "Valentin",
+        "instructions": "Please!! Font of \"Valentin\"?? Thank you very much in advance.",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1226934.png",
+        "identified_font": null
+    },
+    {
+        "task_id": "580661",
+        "url": "https://www.dafont.com/forum/read/580661/maria-jose",
+        "title": "Mar\u00eda Jos\u00e9",
+        "instructions": "Please!! Font of \"Mar\u00eda Jos\u00e9\"?? Thank you very much in advance.",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1226933.jpg",
+        "identified_font": null
+    },
+    {
+        "task_id": "471190",
+        "url": "https://www.dafont.com/forum/read/471190/hello-what-font-is-this",
+        "title": "Hello what font is this",
+        "instructions": "Hello What font is this",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/0/1004662.png",
+        "identified_font": null
+    },
+    {
+        "task_id": "580660",
+        "url": "https://www.dafont.com/forum/read/580660/garcia-galvan",
+        "title": "GARCIA GALVAN",
+        "instructions": "Please!! Font of \"GARCIA GALVAN\"?? Thank you very much in advance.",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1226931.png",
+        "identified_font": null
+    },
+    {
+        "task_id": "580659",
+        "url": "https://www.dafont.com/forum/read/580659/what-is-this-font",
+        "title": "What is this font?",
+        "instructions": "I don't remember the name of this font, someone can help?",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1226929.png",
+        "identified_font": null
+    },
+    {
+        "task_id": "580658",
+        "url": "https://www.dafont.com/forum/read/580658/spicy-lilstar",
+        "title": "SPICY LILSTAR",
+        "instructions": "Please!! Font of \"SPICY LILSTAR\"?? Thank you very much in advance.",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1226928.png",
+        "identified_font": null
     }
 ]
