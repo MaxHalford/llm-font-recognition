@@ -26941,7 +26941,7 @@
         "title": "Font?",
         "instructions": null,
         "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1227166.jpg",
-        "identified_font": null
+        "identified_font": "Artistik"
     },
     {
         "task_id": "580763",
@@ -27005,7 +27005,7 @@
         "title": "Please help with fonts used?",
         "instructions": "Hi guys, does anyone know what font is used on the words \"Bienvenidos/Valkommen\" and also on the \"SA\" initials please?",
         "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1227154.png",
-        "identified_font": null
+        "identified_font": "Gwendolyn"
     },
     {
         "task_id": "580774",
@@ -27037,7 +27037,7 @@
         "title": "Kimberly Quintero font????",
         "instructions": "Does anyone know what the Kimberly QUintero font is? pleeeeeeasei neeed help",
         "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1227174.jpg",
-        "identified_font": null
+        "identified_font": "Aesthetic"
     },
     {
         "task_id": "580769",
@@ -27061,7 +27061,7 @@
         "title": "T D do you know this font?",
         "instructions": null,
         "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1227171.png",
-        "identified_font": null
+        "identified_font": "Palatino"
     },
     {
         "task_id": "580766",
@@ -27069,7 +27069,7 @@
         "title": "What is this font?",
         "instructions": "Cant define what font is",
         "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1227170.png",
-        "identified_font": null
+        "identified_font": "Son Gothic Black"
     },
     {
         "task_id": "580765",
@@ -27077,6 +27077,94 @@
         "title": "Font",
         "instructions": null,
         "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1227167.jpg",
+        "identified_font": "Okay"
+    },
+    {
+        "task_id": "580788",
+        "url": "https://www.dafont.com/forum/read/580788/dermot-o-leary-saturday-sessions",
+        "title": "Dermot o'leary saturday sessions",
+        "instructions": "Looking for the written/script/graffiti font",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1227214.jpg",
+        "identified_font": "Gregs Other Hand"
+    },
+    {
+        "task_id": "580786",
+        "url": "https://www.dafont.com/forum/read/580786/need-help-identifying-this-one",
+        "title": "Need help identifying this one!",
+        "instructions": "Need help with this one. Hope anyone can help.",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1227210.jpg",
+        "identified_font": "Gentlemanly"
+    },
+    {
+        "task_id": "580787",
+        "url": "https://www.dafont.com/forum/read/580787/needing-help-with-this-font-please",
+        "title": "needing help with this font please",
+        "instructions": null,
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1227213.png",
+        "identified_font": null
+    },
+    {
+        "task_id": "580783",
+        "url": "https://www.dafont.com/forum/read/580783/font-help",
+        "title": "Font Help",
+        "instructions": "Would anyone know the name of the font used on Knowledge Knockout and Trivia Night Fundraiser? Thank you for any information on it.",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1227201.jpg",
+        "identified_font": "Quarantype Joyride"
+    },
+    {
+        "task_id": "580785",
+        "url": "https://www.dafont.com/forum/read/580785/font",
+        "title": "Font??",
+        "instructions": null,
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1227209.jpg",
+        "identified_font": null
+    },
+    {
+        "task_id": "580780",
+        "url": "https://www.dafont.com/forum/read/580780/nombres-de-las-dos-tipografias-por-favor-name-of-the-two-fonts-please",
+        "title": "Nombres de las dos tipograf\u00edas, por favor. Name of the two fonts, please.",
+        "instructions": null,
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1227188.png",
+        "identified_font": "Playfair Display"
+    },
+    {
+        "task_id": "580784",
+        "url": "https://www.dafont.com/forum/read/580784/font-please",
+        "title": "Font, please. &#128591;&#127996;",
+        "instructions": null,
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1227203.jpg",
+        "identified_font": null
+    },
+    {
+        "task_id": "580782",
+        "url": "https://www.dafont.com/forum/read/580782/priorize-seguros-font",
+        "title": "Priorize Seguros font",
+        "instructions": null,
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1227199.png",
+        "identified_font": null
+    },
+    {
+        "task_id": "580776",
+        "url": "https://www.dafont.com/forum/read/580776/ranma",
+        "title": "Ranma \u00bd",
+        "instructions": "Can anyone identify this font please?",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1227182.png",
+        "identified_font": null
+    },
+    {
+        "task_id": "528890",
+        "url": "https://www.dafont.com/forum/read/528890/font",
+        "title": "Font?",
+        "instructions": null,
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/1/1118273.png?1",
+        "identified_font": null
+    },
+    {
+        "task_id": "580775",
+        "url": "https://www.dafont.com/forum/read/580775/font-name",
+        "title": "Font Name?",
+        "instructions": null,
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1227180.png",
         "identified_font": null
     }
 ]
