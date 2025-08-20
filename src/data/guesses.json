@@ -42235,5 +42235,23 @@
         "candidate_font_3": "Aero Noise",
         "candidate_font_4": "Cheesey Peas",
         "candidate_font_5": "Monster Friend"
+    },
+    {
+        "task_id": "580747",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Helvetica Neue",
+        "candidate_font_2": "SF Pro Text",
+        "candidate_font_3": "Proxima Nova",
+        "candidate_font_4": "Open Sans",
+        "candidate_font_5": "Roboto"
+    },
+    {
+        "task_id": "580746",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Neoneon",
+        "candidate_font_2": "Nightglow Script",
+        "candidate_font_3": "Neon Night",
+        "candidate_font_4": "Neon Desmon Script",
+        "candidate_font_5": "Neon Planet"
     }
 ]
