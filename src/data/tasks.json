@@ -26717,7 +26717,7 @@
         "title": "Jaeguchi font",
         "instructions": "tittle font",
         "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1227077.jpg",
-        "identified_font": null
+        "identified_font": "Sentra"
     },
     {
         "task_id": "580730",
@@ -26757,7 +26757,7 @@
         "title": "Jaeguchi font",
         "instructions": "tittle font",
         "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1227072.jpg",
-        "identified_font": null
+        "identified_font": "Belerofonte"
     },
     {
         "task_id": "580725",
@@ -26813,7 +26813,7 @@
         "title": "Jaeguchi font",
         "instructions": "tittle font",
         "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1227065.jpg",
-        "identified_font": null
+        "identified_font": "Head Turner"
     },
     {
         "task_id": "580718",
@@ -26845,7 +26845,7 @@
         "title": "Jaeguchi font",
         "instructions": "tittle font",
         "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1227061.jpg",
-        "identified_font": null
+        "identified_font": "Head Turner"
     },
     {
         "task_id": "580714",
@@ -26853,6 +26853,22 @@
         "title": "Jaeguchi font",
         "instructions": "Tittle font",
         "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1227060.jpg",
+        "identified_font": null
+    },
+    {
+        "task_id": "580747",
+        "url": "https://www.dafont.com/forum/read/580747/end-credits",
+        "title": "End credits",
+        "instructions": "Does anyone know this sans font from the End credits of STARZ\u0092 series BMF?",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1227113.jpg",
+        "identified_font": null
+    },
+    {
+        "task_id": "580746",
+        "url": "https://www.dafont.com/forum/read/580746/jealous-type-font",
+        "title": "Jealous Type font?",
+        "instructions": null,
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1227098.jpg",
         "identified_font": null
     }
 ]
