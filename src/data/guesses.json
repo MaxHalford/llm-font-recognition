@@ -42406,5 +42406,86 @@
         "candidate_font_3": "Magnolia Sky",
         "candidate_font_4": "Rosella Light",
         "candidate_font_5": "Avenay"
+    },
+    {
+        "task_id": "580774",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "A Love of Thunder",
+        "candidate_font_2": "Road Rage",
+        "candidate_font_3": "Urban Decay",
+        "candidate_font_4": "Dirty Headline",
+        "candidate_font_5": "Headliner No. 45"
+    },
+    {
+        "task_id": "580773",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "La Luxes Script",
+        "candidate_font_2": "Brittany Script",
+        "candidate_font_3": "Better Together Script",
+        "candidate_font_4": "Hello Beautiful",
+        "candidate_font_5": "Salted Mocha"
+    },
+    {
+        "task_id": "580771",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "DM Sans Bold",
+        "candidate_font_2": "Open Sans Regular",
+        "candidate_font_3": "Poppins Semibold",
+        "candidate_font_4": "Source Sans Pro Regular",
+        "candidate_font_5": "Lato Regular"
+    },
+    {
+        "task_id": "580770",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Magnolia Sky",
+        "candidate_font_2": "Autumn in November",
+        "candidate_font_3": "The Quickest",
+        "candidate_font_4": "Hello Stockholm",
+        "candidate_font_5": "Bright Sunshine"
+    },
+    {
+        "task_id": "580769",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "IBM Plex Mono",
+        "candidate_font_2": "Space Mono",
+        "candidate_font_3": "Fira Code",
+        "candidate_font_4": "JetBrains Mono",
+        "candidate_font_5": "Source Code Pro"
+    },
+    {
+        "task_id": "580768",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Baloo 2",
+        "candidate_font_2": "Fredoka One",
+        "candidate_font_3": "Rubik",
+        "candidate_font_4": "M PLUS Rounded 1c",
+        "candidate_font_5": "Varela Round"
+    },
+    {
+        "task_id": "580767",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Bell MT Italic",
+        "candidate_font_2": "Lucida Bright Italic",
+        "candidate_font_3": "Book Antiqua Italic",
+        "candidate_font_4": "Palatino Linotype Italic",
+        "candidate_font_5": "Goudy Old Style Italic"
+    },
+    {
+        "task_id": "580766",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Gotham Black",
+        "candidate_font_2": "Montserrat Black",
+        "candidate_font_3": "Proxima Nova Black",
+        "candidate_font_4": "Avenir Black",
+        "candidate_font_5": "Circular Std Black"
+    },
+    {
+        "task_id": "580765",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Phatboy",
+        "candidate_font_2": "Burbank Big Condensed Black",
+        "candidate_font_3": "Grobold",
+        "candidate_font_4": "VAG Rounded Std Black",
+        "candidate_font_5": "Arial Rounded MT Bold"
     }
 ]
