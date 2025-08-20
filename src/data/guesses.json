@@ -42325,5 +42325,86 @@
         "candidate_font_3": "SF Transrobot",
         "candidate_font_4": "Digital-7",
         "candidate_font_5": "Super Mario 256"
+    },
+    {
+        "task_id": "580764",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Pirates",
+        "candidate_font_2": "Kingthings Wrote",
+        "candidate_font_3": "Storybook Regular",
+        "candidate_font_4": "Medieval Scrolls",
+        "candidate_font_5": "Blackwood"
+    },
+    {
+        "task_id": "580763",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Satisfy",
+        "candidate_font_2": "Dancing Script",
+        "candidate_font_3": "Great Vibes",
+        "candidate_font_4": "Pacifico",
+        "candidate_font_5": "Allura"
+    },
+    {
+        "task_id": "580762",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Bombshell Pro",
+        "candidate_font_2": "Alex Brush",
+        "candidate_font_3": "Great Vibes",
+        "candidate_font_4": "Allura",
+        "candidate_font_5": "Dancing Script"
+    },
+    {
+        "task_id": "580761",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Setembro",
+        "candidate_font_2": "Didot",
+        "candidate_font_3": "Bodoni",
+        "candidate_font_4": "Playfair Display",
+        "candidate_font_5": "Lora"
+    },
+    {
+        "task_id": "580760",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "American Lemon",
+        "candidate_font_2": "Bourton",
+        "candidate_font_3": "Highgate",
+        "candidate_font_4": "Windsor",
+        "candidate_font_5": "Porto Display"
+    },
+    {
+        "task_id": "580759",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Proxima Nova Bold",
+        "candidate_font_2": "Gotham Bold",
+        "candidate_font_3": "Montserrat Bold",
+        "candidate_font_4": "Open Sans Extrabold",
+        "candidate_font_5": "Muli Black"
+    },
+    {
+        "task_id": "580758",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Displace Regular",
+        "candidate_font_2": "Displace Serif",
+        "candidate_font_3": "Bodoni Std",
+        "candidate_font_4": "Didot Std",
+        "candidate_font_5": "Playfair Display"
+    },
+    {
+        "task_id": "580757",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Hello Beautiful",
+        "candidate_font_2": "Brighton Script",
+        "candidate_font_3": "Delightful Script",
+        "candidate_font_4": "Lovely Buttercup",
+        "candidate_font_5": "Adelios Script"
+    },
+    {
+        "task_id": "580756",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Amsterdam Two",
+        "candidate_font_2": "Amsterdam One",
+        "candidate_font_3": "Magnolia Sky",
+        "candidate_font_4": "Rosella Light",
+        "candidate_font_5": "Avenay"
     }
 ]
