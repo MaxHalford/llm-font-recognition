@@ -42253,5 +42253,68 @@
         "candidate_font_3": "Neon Night",
         "candidate_font_4": "Neon Desmon Script",
         "candidate_font_5": "Neon Planet"
+    },
+    {
+        "task_id": "580754",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Organic Pixels",
+        "candidate_font_2": "Pixel Digivolve",
+        "candidate_font_3": "Arcade Tag",
+        "candidate_font_4": "8 Bit Operator HB",
+        "candidate_font_5": "Cyberdyne"
+    },
+    {
+        "task_id": "580752",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Didot",
+        "candidate_font_2": "Bodoni",
+        "candidate_font_3": "HTF Didot",
+        "candidate_font_4": "Lust Didone",
+        "candidate_font_5": "URW Didot"
+    },
+    {
+        "task_id": "580751",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "School Bell",
+        "candidate_font_2": "Just Me Again Down Here",
+        "candidate_font_3": "Indie Flower",
+        "candidate_font_4": "Architects Daughter",
+        "candidate_font_5": "Caveat"
+    },
+    {
+        "task_id": "580750",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Love Splash",
+        "candidate_font_2": "Fredoka One",
+        "candidate_font_3": "Brittany Signature",
+        "candidate_font_4": "",
+        "candidate_font_5": ""
+    },
+    {
+        "task_id": "580749",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Bickham Script Pro",
+        "candidate_font_2": "Edwardian Script ITC",
+        "candidate_font_3": "Shelley Script",
+        "candidate_font_4": "Parfumerie Script Pro",
+        "candidate_font_5": "Elegy Script"
+    },
+    {
+        "task_id": "28111",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Goblin One",
+        "candidate_font_2": "Titan One",
+        "candidate_font_3": "Acme",
+        "candidate_font_4": "Luckiest Guy",
+        "candidate_font_5": "Komika Axis"
+    },
+    {
+        "task_id": "580748",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Loverine",
+        "candidate_font_2": "Anglestein",
+        "candidate_font_3": "Royal Garden",
+        "candidate_font_4": "Victoria Display",
+        "candidate_font_5": "Regal King"
     }
 ]
