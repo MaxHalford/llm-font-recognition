@@ -41965,5 +41965,23 @@
         "candidate_font_3": "Great Vibes",
         "candidate_font_4": "Magnolia Sky",
         "candidate_font_5": "Playlist Script"
+    },
+    {
+        "task_id": "580712",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Kilo",
+        "candidate_font_2": "Cooper Black",
+        "candidate_font_3": "Marvin",
+        "candidate_font_4": "ITC Grouch",
+        "candidate_font_5": "Rockwell Extra Bold"
+    },
+    {
+        "task_id": "568991",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Microgramma D Extended Bold",
+        "candidate_font_2": "Eurostile Extended Bold",
+        "candidate_font_3": "BankGothic Md BT",
+        "candidate_font_4": "Digital-7",
+        "candidate_font_5": "Lato Light"
     }
 ]
