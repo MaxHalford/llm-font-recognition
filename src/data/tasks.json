@@ -18844,7 +18844,7 @@
         "url": "https://www.dafont.com/forum/read/579663/splx",
         "title": "SPLX",
         "instructions": null,
-        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1224830.jpg",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1224830.png?1",
         "identified_font": null
     },
     {
@@ -26245,7 +26245,7 @@
         "title": "Font?",
         "instructions": null,
         "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1226965.jpg",
-        "identified_font": null
+        "identified_font": "Playfair Display"
     },
     {
         "task_id": "580677",
@@ -26565,6 +26565,30 @@
         "title": "Font please!?",
         "instructions": null,
         "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1227027.png",
+        "identified_font": "Campana Script"
+    },
+    {
+        "task_id": "580712",
+        "url": "https://www.dafont.com/forum/read/580712/jessie-murph-font",
+        "title": "Jessie Murph font?",
+        "instructions": null,
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1227058.png",
+        "identified_font": null
+    },
+    {
+        "task_id": "580711",
+        "url": "https://www.dafont.com/forum/read/580711/fonts",
+        "title": "Fonts?",
+        "instructions": "If you can identify both, that would be fab!",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1227055.jpg",
+        "identified_font": "Justicia"
+    },
+    {
+        "task_id": "568991",
+        "url": "https://www.dafont.com/forum/read/568991/underoath-the-changing-of-times",
+        "title": "Underoath - The Changing Of Times",
+        "instructions": null,
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1203095.jpg",
         "identified_font": null
     }
 ]
