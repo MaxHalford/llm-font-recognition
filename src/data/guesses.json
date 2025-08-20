@@ -42487,5 +42487,68 @@
         "candidate_font_3": "Grobold",
         "candidate_font_4": "VAG Rounded Std Black",
         "candidate_font_5": "Arial Rounded MT Bold"
+    },
+    {
+        "task_id": "580787",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Adelicia Script",
+        "candidate_font_2": "Monotype Baskerville",
+        "candidate_font_3": "",
+        "candidate_font_4": "",
+        "candidate_font_5": ""
+    },
+    {
+        "task_id": "580785",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Apex Sans Bold",
+        "candidate_font_2": "Poppins",
+        "candidate_font_3": "Montserrat Black",
+        "candidate_font_4": "Gotham Black",
+        "candidate_font_5": "Bebas Neue"
+    },
+    {
+        "task_id": "580784",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Lil Groovy",
+        "candidate_font_2": "Go Around the Block",
+        "candidate_font_3": "FatFrank Italic",
+        "candidate_font_4": "Vermin Vibes Italic",
+        "candidate_font_5": "Burbank Big Condensed"
+    },
+    {
+        "task_id": "580782",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "The Quickest",
+        "candidate_font_2": "Avenir Next Light",
+        "candidate_font_3": "Montserrat",
+        "candidate_font_4": "Open Sans",
+        "candidate_font_5": "Lato"
+    },
+    {
+        "task_id": "580776",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Handel Gothic",
+        "candidate_font_2": "VAG Rounded",
+        "candidate_font_3": "ITC Ronda",
+        "candidate_font_4": "Futura Round",
+        "candidate_font_5": "Omnes"
+    },
+    {
+        "task_id": "528890",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Chalk Scratch",
+        "candidate_font_2": "Shorelines Script",
+        "candidate_font_3": "Beyond the Mountains",
+        "candidate_font_4": "Stay High",
+        "candidate_font_5": "Lemon Yellow Sun"
+    },
+    {
+        "task_id": "580775",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Beloved Script",
+        "candidate_font_2": "Great Vibes",
+        "candidate_font_3": "Dancing Script",
+        "candidate_font_4": "Alex Brush",
+        "candidate_font_5": "Allura"
     }
 ]
