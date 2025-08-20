@@ -41983,5 +41983,257 @@
         "candidate_font_3": "BankGothic Md BT",
         "candidate_font_4": "Digital-7",
         "candidate_font_5": "Lato Light"
+    },
+    {
+        "task_id": "580743",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Janggun",
+        "candidate_font_2": "",
+        "candidate_font_3": "",
+        "candidate_font_4": "",
+        "candidate_font_5": ""
+    },
+    {
+        "task_id": "580742",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Jaeguchi",
+        "candidate_font_2": "",
+        "candidate_font_3": "",
+        "candidate_font_4": "",
+        "candidate_font_5": ""
+    },
+    {
+        "task_id": "580740",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Burbank Big Condensed Bold",
+        "candidate_font_2": "Fredoka One",
+        "candidate_font_3": "Bubblegum Sans",
+        "candidate_font_4": "Chewy",
+        "candidate_font_5": "Luckiest Guy"
+    },
+    {
+        "task_id": "580738",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Komu A",
+        "candidate_font_2": "Road Rage",
+        "candidate_font_3": "Mostwasted",
+        "candidate_font_4": "Bebas Kai",
+        "candidate_font_5": ""
+    },
+    {
+        "task_id": "580737",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Gagalin",
+        "candidate_font_2": "Burbank Big Condensed Black",
+        "candidate_font_3": "Creampuff",
+        "candidate_font_4": "Keep on Truckin'",
+        "candidate_font_5": "Fredoka One"
+    },
+    {
+        "task_id": "580713",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Montserrat Black",
+        "candidate_font_2": "Inter Black",
+        "candidate_font_3": "IBM Plex Sans Black",
+        "candidate_font_4": "Source Sans 3 Black",
+        "candidate_font_5": "Archivo Black"
+    },
+    {
+        "task_id": "580735",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Jaeguchi",
+        "candidate_font_2": null,
+        "candidate_font_3": null,
+        "candidate_font_4": null,
+        "candidate_font_5": null
+    },
+    {
+        "task_id": "580734",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Didot",
+        "candidate_font_2": "Bodoni",
+        "candidate_font_3": "Playfair Display",
+        "candidate_font_4": "Dida",
+        "candidate_font_5": "Abril Display"
+    },
+    {
+        "task_id": "580733",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Pudding",
+        "candidate_font_2": "Fredoka One",
+        "candidate_font_3": "Chubby Bubble",
+        "candidate_font_4": "Luckiest Guy",
+        "candidate_font_5": "Burbank Big Condensed"
+    },
+    {
+        "task_id": "580732",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Recharge",
+        "candidate_font_2": "Death Star",
+        "candidate_font_3": "Vermin Vibes",
+        "candidate_font_4": "Facundo",
+        "candidate_font_5": "Cyberfunk"
+    },
+    {
+        "task_id": "580731",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Jaeguchi",
+        "candidate_font_2": "Oh Cheetos",
+        "candidate_font_3": "Kids Story",
+        "candidate_font_4": "Montserrat",
+        "candidate_font_5": "KG Red Hands"
+    },
+    {
+        "task_id": "580730",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Lemon Tuesday",
+        "candidate_font_2": "Bromello",
+        "candidate_font_3": "Playlist Script",
+        "candidate_font_4": "Magnolia Sky",
+        "candidate_font_5": "The Quickest Way"
+    },
+    {
+        "task_id": "580729",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Jaeguchi",
+        "candidate_font_2": "KG Red Hands",
+        "candidate_font_3": "Chewy",
+        "candidate_font_4": "Burbank Big Condensed",
+        "candidate_font_5": "Fredoka One"
+    },
+    {
+        "task_id": "580728",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Lovely Boys",
+        "candidate_font_2": "Amsterdam Four",
+        "candidate_font_3": "Bromello",
+        "candidate_font_4": "Bellisa",
+        "candidate_font_5": "The Braggest"
+    },
+    {
+        "task_id": "580727",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Jaeguchi",
+        "candidate_font_2": "VAG Rounded Bold",
+        "candidate_font_3": "Neue Haas Grotesk Display",
+        "candidate_font_4": "Lemon Tuesday",
+        "candidate_font_5": "Montserrat"
+    },
+    {
+        "task_id": "580726",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Chewy",
+        "candidate_font_2": "Lemon Tuesday",
+        "candidate_font_3": "Montserrat Light",
+        "candidate_font_4": "Noto Sans",
+        "candidate_font_5": "Open Sans"
+    },
+    {
+        "task_id": "580725",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Montserrat",
+        "candidate_font_2": "Poppins",
+        "candidate_font_3": "Lato",
+        "candidate_font_4": "Open Sans",
+        "candidate_font_5": "Inter"
+    },
+    {
+        "task_id": "580724",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Obelix Pro",
+        "candidate_font_2": "JAEGUCHI",
+        "candidate_font_3": "Sweet Tea",
+        "candidate_font_4": "Gobold Bold",
+        "candidate_font_5": "Open Sans Condensed"
+    },
+    {
+        "task_id": "580723",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "College Block 2.0",
+        "candidate_font_2": "Hey August",
+        "candidate_font_3": "Oswald Light",
+        "candidate_font_4": "Bebas Neue",
+        "candidate_font_5": "Open Sans"
+    },
+    {
+        "task_id": "580722",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Cream Peach",
+        "candidate_font_2": "Chewy",
+        "candidate_font_3": "Bubblegum Sans",
+        "candidate_font_4": "Mochi Pop",
+        "candidate_font_5": "Lemon/Milk"
+    },
+    {
+        "task_id": "580721",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Jaeguchi",
+        "candidate_font_2": "Race Sport Bold Italic",
+        "candidate_font_3": "Eurostile Extended Black Oblique",
+        "candidate_font_4": "Bebas Kai Oblique",
+        "candidate_font_5": "Akira Expanded Oblique"
+    },
+    {
+        "task_id": "580720",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Cyberfunk",
+        "candidate_font_2": "Ethnocentric",
+        "candidate_font_3": "SF Transrobotics",
+        "candidate_font_4": "Audiowide",
+        "candidate_font_5": "Press Start 2P"
+    },
+    {
+        "task_id": "580719",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Typo Round",
+        "candidate_font_2": "Gobold Blocky",
+        "candidate_font_3": "SF Collegiate Block",
+        "candidate_font_4": "Compacta",
+        "candidate_font_5": "Impact"
+    },
+    {
+        "task_id": "580718",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Jaeguchi",
+        "candidate_font_2": "Pusab",
+        "candidate_font_3": "Bubblegum Sans",
+        "candidate_font_4": "Lemon/Lime",
+        "candidate_font_5": "Montserrat"
+    },
+    {
+        "task_id": "580717",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Jaeguchi",
+        "candidate_font_2": "Big Noodle Titling",
+        "candidate_font_3": "Agency FB",
+        "candidate_font_4": "Eurostile Extended Bold Oblique",
+        "candidate_font_5": "Impact"
+    },
+    {
+        "task_id": "580716",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Jaeguchi",
+        "candidate_font_2": "Mostwasted",
+        "candidate_font_3": "Urban Jungle",
+        "candidate_font_4": "Dirtyboy",
+        "candidate_font_5": "Blacklisted"
+    },
+    {
+        "task_id": "580715",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Jaeguchi",
+        "candidate_font_2": "Gochi Hand",
+        "candidate_font_3": "Cooper Black",
+        "candidate_font_4": "Bubblegum Sans",
+        "candidate_font_5": "Motley Forces"
+    },
+    {
+        "task_id": "580714",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Porky's",
+        "candidate_font_2": "Stonks Font",
+        "candidate_font_3": "Aero Noise",
+        "candidate_font_4": "Cheesey Peas",
+        "candidate_font_5": "Monster Friend"
     }
 ]
