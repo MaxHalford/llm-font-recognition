@@ -42316,5 +42316,14 @@
         "candidate_font_3": "Royal Garden",
         "candidate_font_4": "Victoria Display",
         "candidate_font_5": "Regal King"
+    },
+    {
+        "task_id": "580755",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "VCR OSD Mono",
+        "candidate_font_2": "Arcade Interlaced",
+        "candidate_font_3": "SF Transrobot",
+        "candidate_font_4": "Digital-7",
+        "candidate_font_5": "Super Mario 256"
     }
 ]
