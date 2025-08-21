@@ -42910,5 +42910,95 @@
         "candidate_font_3": "Bromello",
         "candidate_font_4": "Great Vibes",
         "candidate_font_5": "Allura"
+    },
+    {
+        "task_id": "580850",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Wakanda Forever",
+        "candidate_font_2": "",
+        "candidate_font_3": "",
+        "candidate_font_4": "",
+        "candidate_font_5": ""
+    },
+    {
+        "task_id": "580849",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "KG Red Hands",
+        "candidate_font_2": "Chewy",
+        "candidate_font_3": "Bubblegum Sans",
+        "candidate_font_4": "Luckiest Guy",
+        "candidate_font_5": "Fredoka One"
+    },
+    {
+        "task_id": "580838",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Plump",
+        "candidate_font_2": "Super Mario 256",
+        "candidate_font_3": "Oblivion",
+        "candidate_font_4": "Panton Black",
+        "candidate_font_5": "Rubik Mono One"
+    },
+    {
+        "task_id": "580848",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Angelic Wars",
+        "candidate_font_2": "Pryomancer",
+        "candidate_font_3": "Minotaur",
+        "candidate_font_4": "Exocet",
+        "candidate_font_5": "Valiant"
+    },
+    {
+        "task_id": "580846",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Trajan Pro",
+        "candidate_font_2": "Cinzel",
+        "candidate_font_3": "OptimusPrinceps",
+        "candidate_font_4": "Augustea",
+        "candidate_font_5": "Charlemagne Std"
+    },
+    {
+        "task_id": "580836",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "ITC Cushing",
+        "candidate_font_2": "Lato Italic",
+        "candidate_font_3": "Custom Lettering",
+        "candidate_font_4": "",
+        "candidate_font_5": ""
+    },
+    {
+        "task_id": "580843",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Bubblegum One",
+        "candidate_font_2": "Fredoka One",
+        "candidate_font_3": "Chewy",
+        "candidate_font_4": "Baloo 2",
+        "candidate_font_5": "Balsamiq Sans"
+    },
+    {
+        "task_id": "580842",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "College Block BB",
+        "candidate_font_2": "SF Collegiate Solid",
+        "candidate_font_3": "Athletic Block",
+        "candidate_font_4": "Varsity",
+        "candidate_font_5": "Freshman"
+    },
+    {
+        "task_id": "580840",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Sports World",
+        "candidate_font_2": "Victory Typeface",
+        "candidate_font_3": "Bandana",
+        "candidate_font_4": "Headliner No. 45",
+        "candidate_font_5": "ChunkFive Roman"
+    },
+    {
+        "task_id": "580837",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Wolverine Font",
+        "candidate_font_2": "SF Collegiate",
+        "candidate_font_3": "Varsity Regular",
+        "candidate_font_4": "Octin Sports",
+        "candidate_font_5": "Game Played"
     }
 ]
