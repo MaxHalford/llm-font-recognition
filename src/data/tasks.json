@@ -27238,5 +27238,37 @@
         "instructions": "What font is this? Thanks!",
         "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1227219.jpg",
         "identified_font": "Have Heart One"
+    },
+    {
+        "task_id": "580804",
+        "url": "https://www.dafont.com/forum/read/580804/what-font-is-used",
+        "title": "What font is used?",
+        "instructions": null,
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1227258.png",
+        "identified_font": null
+    },
+    {
+        "task_id": "580803",
+        "url": "https://www.dafont.com/forum/read/580803/looking-for-this-font",
+        "title": "Looking for this font",
+        "instructions": "Ive seen the font before but now cant remember the name.",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1227256.jpg",
+        "identified_font": null
+    },
+    {
+        "task_id": "580802",
+        "url": "https://www.dafont.com/forum/read/580802/need-help-identifying-this-font",
+        "title": "Need Help Identifying This Font",
+        "instructions": null,
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1227251.png",
+        "identified_font": null
+    },
+    {
+        "task_id": "580801",
+        "url": "https://www.dafont.com/forum/read/580801/name-of-the-font-please-nombre-de-la-tipografia-por-favor",
+        "title": "Name of the font, please. Nombre de la tipograf\u00eda, por favor.",
+        "instructions": null,
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1227250.png",
+        "identified_font": null
     }
 ]
