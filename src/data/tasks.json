@@ -26645,7 +26645,7 @@
         "title": "Jaeguchi font",
         "instructions": "tittle font",
         "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1227089.jpg",
-        "identified_font": null
+        "identified_font": "Rilderta Hellgest"
     },
     {
         "task_id": "580740",
@@ -27166,5 +27166,77 @@
         "instructions": null,
         "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1227180.png",
         "identified_font": null
+    },
+    {
+        "task_id": "580800",
+        "url": "https://www.dafont.com/forum/read/580800/what-is-this-font-please",
+        "title": "what is this font please?",
+        "instructions": "I know I asked Luckiest Guy before but the G is putting me off.",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1227242.png",
+        "identified_font": null
+    },
+    {
+        "task_id": "580799",
+        "url": "https://www.dafont.com/forum/read/580799/font-off-alycia",
+        "title": "font off alycia",
+        "instructions": null,
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1227239.png",
+        "identified_font": null
+    },
+    {
+        "task_id": "580798",
+        "url": "https://www.dafont.com/forum/read/580798/nombre-de-la-tipografia-por-favor-name-of-the-font-please",
+        "title": "Nombre de la tipograf\u00eda, por favor. Name of the font, please.",
+        "instructions": null,
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1227238.png",
+        "identified_font": null
+    },
+    {
+        "task_id": "580797",
+        "url": "https://www.dafont.com/forum/read/580797/lenguajes",
+        "title": "lenguajes",
+        "instructions": "Please!! Font of \"lenguajes\"?? Thank you very much in advance.",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1227237.png",
+        "identified_font": null
+    },
+    {
+        "task_id": "580795",
+        "url": "https://www.dafont.com/forum/read/580795/fonte-name",
+        "title": "Fonte Name?",
+        "instructions": null,
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1227228.png",
+        "identified_font": null
+    },
+    {
+        "task_id": "580794",
+        "url": "https://www.dafont.com/forum/read/580794/need-help-identifying-reply-to-keats",
+        "title": "Need help identifying \"Reply to keats\"",
+        "instructions": null,
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1227226.png?1",
+        "identified_font": null
+    },
+    {
+        "task_id": "580792",
+        "url": "https://www.dafont.com/forum/read/580792/font-name-pls",
+        "title": "Font name pls :)",
+        "instructions": null,
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1227223.jpg",
+        "identified_font": null
+    },
+    {
+        "task_id": "580790",
+        "url": "https://www.dafont.com/forum/read/580790/need-help-in-identifying-the-font-used-for-new-and-cookie-dough",
+        "title": "Need help in identifying the font used for New and Cookie Dough",
+        "instructions": null,
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1227221.png",
+        "identified_font": null
+    },
+    {
+        "task_id": "580789",
+        "url": "https://www.dafont.com/forum/read/580789/summer-i-turned-pretty-font",
+        "title": "\"Summer I Turned Pretty\" font?",
+        "instructions": "What font is this? Thanks!",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1227219.jpg",
+        "identified_font": "Have Heart One"
     }
 ]
