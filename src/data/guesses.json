@@ -42658,5 +42658,14 @@
         "candidate_font_3": "South of Wonderland",
         "candidate_font_4": "Magnolia Sky",
         "candidate_font_5": "Lovely Home"
+    },
+    {
+        "task_id": "580806",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Compacta Bold",
+        "candidate_font_2": "Amastery Script",
+        "candidate_font_3": "",
+        "candidate_font_4": "",
+        "candidate_font_5": ""
     }
 ]
