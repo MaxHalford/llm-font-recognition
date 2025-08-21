@@ -42667,5 +42667,59 @@
         "candidate_font_3": "",
         "candidate_font_4": "",
         "candidate_font_5": ""
+    },
+    {
+        "task_id": "503120",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "DIN 1451 Mittelschrift Bold",
+        "candidate_font_2": "Trade Gothic Extended Bold No. 2",
+        "candidate_font_3": "Franklin Gothic Heavy Condensed",
+        "candidate_font_4": "Akzidenz-Grotesk Extracondensed",
+        "candidate_font_5": "Eurostile Extended Black"
+    },
+    {
+        "task_id": "580812",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Marisa Script",
+        "candidate_font_2": "",
+        "candidate_font_3": "",
+        "candidate_font_4": "",
+        "candidate_font_5": ""
+    },
+    {
+        "task_id": "580811",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Gatsby FLF",
+        "candidate_font_2": "Lust Didone",
+        "candidate_font_3": "Aphrodite Slim Text",
+        "candidate_font_4": "Bodoni",
+        "candidate_font_5": "Didot"
+    },
+    {
+        "task_id": "580810",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Blockade",
+        "candidate_font_2": "Federation Starfleet",
+        "candidate_font_3": "Hyperspace",
+        "candidate_font_4": "Cyberdyne",
+        "candidate_font_5": "Digital Strip"
+    },
+    {
+        "task_id": "580809",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Beforth",
+        "candidate_font_2": "The Braggs",
+        "candidate_font_3": "Hello Stockholm",
+        "candidate_font_4": "Brightland",
+        "candidate_font_5": "Lemon Tuesday"
+    },
+    {
+        "task_id": "580808",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Better Together Script",
+        "candidate_font_2": "Great Vibes",
+        "candidate_font_3": "Magnolia Sky",
+        "candidate_font_4": "Amsterdam One",
+        "candidate_font_5": "The Romantic Absolute"
     }
 ]
