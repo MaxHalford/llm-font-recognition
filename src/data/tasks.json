@@ -27116,7 +27116,7 @@
         "url": "https://www.dafont.com/forum/read/580785/font",
         "title": "Font??",
         "instructions": null,
-        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1227209.jpg",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1227209.png?1",
         "identified_font": null
     },
     {
@@ -27132,7 +27132,7 @@
         "url": "https://www.dafont.com/forum/read/580784/font-please",
         "title": "Font, please. &#128591;&#127996;",
         "instructions": null,
-        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1227203.jpg",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1227203.png?1",
         "identified_font": null
     },
     {
@@ -27285,6 +27285,62 @@
         "title": "HELP PLEASE BOTH FONTS",
         "instructions": null,
         "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1227263.png?1",
+        "identified_font": "Yellowtail"
+    },
+    {
+        "task_id": "503120",
+        "url": "https://www.dafont.com/forum/read/503120/les-guignols-de-l-info-nulle-part-ailleurs",
+        "title": "les guignols de l'info / nulle part ailleurs",
+        "instructions": null,
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/0/1068145.png?1",
         "identified_font": null
+    },
+    {
+        "task_id": "580812",
+        "url": "https://www.dafont.com/forum/read/580812/font-can-anyone-identify",
+        "title": "Font!? - Can anyone identify?",
+        "instructions": "Thanks in advance for your help! <3",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1227287.png",
+        "identified_font": null
+    },
+    {
+        "task_id": "580811",
+        "url": "https://www.dafont.com/forum/read/580811/font-name-please",
+        "title": "font name please!",
+        "instructions": null,
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1227286.jpg",
+        "identified_font": null
+    },
+    {
+        "task_id": "580810",
+        "url": "https://www.dafont.com/forum/read/580810/what-font-is-this",
+        "title": "What font is this?",
+        "instructions": "I saw this font in a clip of Sonic Frontier. But I don't be sure what kind of font could be this one. So, someone have any idea?",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1227279.jpg",
+        "identified_font": null
+    },
+    {
+        "task_id": "580809",
+        "url": "https://www.dafont.com/forum/read/580809/urgent-urgent-please-help-to-identify-the-font-in-the-image",
+        "title": "Urgent Urgent, please help to identify the font in the image",
+        "instructions": "Hi all please help me identify font in the image. Thanks",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1227278.png",
+        "identified_font": null
+    },
+    {
+        "task_id": "580808",
+        "url": "https://www.dafont.com/forum/read/580808/can-t-rush-greatness-font",
+        "title": "Can't Rush Greatness Font",
+        "instructions": null,
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1227277.png",
+        "identified_font": null
+    },
+    {
+        "task_id": "580807",
+        "url": "https://www.dafont.com/forum/read/580807/hola-me-ayudan-con-el-nombre-de-esta-letra-please",
+        "title": "Hola, me ayudan con el nombre de esta letra please",
+        "instructions": null,
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1227275.png",
+        "identified_font": "Magnaline"
     }
 ]
