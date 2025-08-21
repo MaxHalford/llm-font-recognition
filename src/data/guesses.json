@@ -43000,5 +43000,86 @@
         "candidate_font_3": "Varsity Regular",
         "candidate_font_4": "Octin Sports",
         "candidate_font_5": "Game Played"
+    },
+    {
+        "task_id": "580860",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Monotype Corsiva",
+        "candidate_font_2": "Windsor",
+        "candidate_font_3": "Clarendon",
+        "candidate_font_4": "Bookman Old Style",
+        "candidate_font_5": "Edwardian Script ITC"
+    },
+    {
+        "task_id": "580859",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Century Schoolbook Bold",
+        "candidate_font_2": "New Century Schoolbook Bold",
+        "candidate_font_3": "Century Schoolbook",
+        "candidate_font_4": "Coronet",
+        "candidate_font_5": "Bookman Old Style"
+    },
+    {
+        "task_id": "580858",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Clarendon Black Condensed",
+        "candidate_font_2": "Rockwell Extra Bold Condensed",
+        "candidate_font_3": "Egyptian Black Condensed",
+        "candidate_font_4": "Franklin Gothic Extra Condensed",
+        "candidate_font_5": "Brush Script MT"
+    },
+    {
+        "task_id": "580857",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Futura Bold",
+        "candidate_font_2": "Twentieth Century Bold",
+        "candidate_font_3": "ITC Bookman",
+        "candidate_font_4": "Century Schoolbook",
+        "candidate_font_5": "Kaufmann"
+    },
+    {
+        "task_id": "580856",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Nunito Rounded",
+        "candidate_font_2": "Baloo 2",
+        "candidate_font_3": "VAG Rounded",
+        "candidate_font_4": "Fredoka One",
+        "candidate_font_5": "M Plus Rounded 1c"
+    },
+    {
+        "task_id": "580855",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Twentieth Century Std",
+        "candidate_font_2": "Univers",
+        "candidate_font_3": "Futura",
+        "candidate_font_4": "Akzidenz-Grotesk",
+        "candidate_font_5": "Geometric 706"
+    },
+    {
+        "task_id": "580854",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Milwaukee Script",
+        "candidate_font_2": "Cream City",
+        "candidate_font_3": "Marathon Script",
+        "candidate_font_4": "Fenway Script",
+        "candidate_font_5": "Varsity Script"
+    },
+    {
+        "task_id": "580853",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Magnolia Sky",
+        "candidate_font_2": "The Quickest",
+        "candidate_font_3": "Lovely Thoughts",
+        "candidate_font_4": "Better Together",
+        "candidate_font_5": "Madelyn"
+    },
+    {
+        "task_id": "580852",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Circular Std",
+        "candidate_font_2": "Montserrat",
+        "candidate_font_3": "Gotham",
+        "candidate_font_4": "Avenir",
+        "candidate_font_5": "Proxima Nova"
     }
 ]
