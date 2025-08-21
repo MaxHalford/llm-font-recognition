@@ -24868,7 +24868,7 @@
         "url": "https://www.dafont.com/forum/read/580459/next-episode",
         "title": "NEXT EPISODE",
         "instructions": null,
-        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1226536.png",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1226536.png?1",
         "identified_font": null
     },
     {
@@ -24876,7 +24876,7 @@
         "url": "https://www.dafont.com/forum/read/580458/riizing-summer-camp",
         "title": "RIIZING SUMMER CAMP",
         "instructions": null,
-        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1226535.png?1",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1226535.png?2",
         "identified_font": null
     },
     {
@@ -26773,7 +26773,7 @@
         "title": "Jaeguchi font",
         "instructions": "tittle font",
         "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1227070.jpg",
-        "identified_font": null
+        "identified_font": "Tall Dark And Handsome"
     },
     {
         "task_id": "580723",
@@ -27253,7 +27253,7 @@
         "title": "Looking for this font",
         "instructions": "Ive seen the font before but now cant remember the name.",
         "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1227256.jpg",
-        "identified_font": null
+        "identified_font": "Sparkle"
     },
     {
         "task_id": "580802",
@@ -27269,6 +27269,22 @@
         "title": "Name of the font, please. Nombre de la tipograf\u00eda, por favor.",
         "instructions": null,
         "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1227250.png",
+        "identified_font": null
+    },
+    {
+        "task_id": "570930",
+        "url": "https://www.dafont.com/forum/read/570930/font-cung-ha-and-color-coded-lyrics",
+        "title": "Font \"CUNG HA\" and \"Color coded lyrics\"",
+        "instructions": null,
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1206991.png?1",
+        "identified_font": "Ongleip Eoyeonce"
+    },
+    {
+        "task_id": "580806",
+        "url": "https://www.dafont.com/forum/read/580806/help-please-both-fonts",
+        "title": "HELP PLEASE BOTH FONTS",
+        "instructions": null,
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1227263.png?1",
         "identified_font": null
     }
 ]
