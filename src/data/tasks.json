@@ -27197,7 +27197,7 @@
         "title": "lenguajes",
         "instructions": "Please!! Font of \"lenguajes\"?? Thank you very much in advance.",
         "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1227237.png",
-        "identified_font": null
+        "identified_font": "I Love Glittermas"
     },
     {
         "task_id": "580795",
@@ -27413,7 +27413,7 @@
         "title": "help please",
         "instructions": "Hi;",
         "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1227290.png",
-        "identified_font": null
+        "identified_font": "Quattrocento"
     },
     {
         "task_id": "580813",
@@ -27445,7 +27445,7 @@
         "title": "What font is this??",
         "instructions": "Hi all,",
         "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1227320.png",
-        "identified_font": null
+        "identified_font": "Caviar Dreams"
     },
     {
         "task_id": "580834",
@@ -27509,7 +27509,7 @@
         "title": "Unforgiven Font",
         "instructions": "Hello there",
         "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1227303.png",
-        "identified_font": null
+        "identified_font": "One more Day"
     },
     {
         "task_id": "580825",
@@ -27525,6 +27525,86 @@
         "title": "Identifica\u00e7\u00e3o da FONT \"Vit\u00f3ria\"",
         "instructions": "Me ajudem a achar essa font do nome \"Vit\u00f3ria\"",
         "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1227300.jpg",
+        "identified_font": "Edwardian Script"
+    },
+    {
+        "task_id": "580850",
+        "url": "https://www.dafont.com/forum/read/580850/help-font",
+        "title": "HELP FONT",
+        "instructions": "Font name e number",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1227347.jpg",
+        "identified_font": null
+    },
+    {
+        "task_id": "580849",
+        "url": "https://www.dafont.com/forum/read/580849/what-is-this-font",
+        "title": "What is this font ?",
+        "instructions": null,
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1227345.png",
+        "identified_font": null
+    },
+    {
+        "task_id": "580838",
+        "url": "https://www.dafont.com/forum/read/580838/please-help-id",
+        "title": "Please Help ID",
+        "instructions": null,
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1227325.png",
+        "identified_font": null
+    },
+    {
+        "task_id": "580848",
+        "url": "https://www.dafont.com/forum/read/580848/what-is-the-font-used-here",
+        "title": "What is the font used here?",
+        "instructions": "What is the font used here?",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1227343.png",
+        "identified_font": null
+    },
+    {
+        "task_id": "580846",
+        "url": "https://www.dafont.com/forum/read/580846/please-identity-font-for-classic-engraving",
+        "title": "Please identity font for Classic engraving",
+        "instructions": "ERRIN",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1227338.jpg",
+        "identified_font": null
+    },
+    {
+        "task_id": "580836",
+        "url": "https://www.dafont.com/forum/read/580836/help-with-these-fonts-please",
+        "title": "Help with these fonts please",
+        "instructions": "JJD",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1227323.png",
+        "identified_font": null
+    },
+    {
+        "task_id": "580843",
+        "url": "https://www.dafont.com/forum/read/580843/guys-please-help-me-with-the-font-name",
+        "title": "Guys please help me with the font name",
+        "instructions": "Guys please help me with this font name please anyone",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1227332.jpg",
+        "identified_font": null
+    },
+    {
+        "task_id": "580842",
+        "url": "https://www.dafont.com/forum/read/580842/super-red-ram",
+        "title": "super red ram",
+        "instructions": null,
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1227330.jpg",
+        "identified_font": null
+    },
+    {
+        "task_id": "580840",
+        "url": "https://www.dafont.com/forum/read/580840/lucha-libre",
+        "title": "lucha libre",
+        "instructions": "ayudame a encontrar esta tipograf\u00eda de este cartel",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1227328.jpg",
+        "identified_font": null
+    },
+    {
+        "task_id": "580837",
+        "url": "https://www.dafont.com/forum/read/580837/turtle-hook-middle-school",
+        "title": "TURTLE HOOK MIDDLE SCHOOL",
+        "instructions": "This font please",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1227324.png",
         "identified_font": null
     }
 ]
