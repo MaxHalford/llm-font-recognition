@@ -42721,5 +42721,95 @@
         "candidate_font_3": "Magnolia Sky",
         "candidate_font_4": "Amsterdam One",
         "candidate_font_5": "The Romantic Absolute"
+    },
+    {
+        "task_id": "580822",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Nourd Medium",
+        "candidate_font_2": "GT Sectra Display",
+        "candidate_font_3": "Noe Display",
+        "candidate_font_4": "Domaine Display",
+        "candidate_font_5": "Didot"
+    },
+    {
+        "task_id": "580821",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Beautiful People Script",
+        "candidate_font_2": "Great Vibes",
+        "candidate_font_3": "Allura Regular",
+        "candidate_font_4": "Pinyon Script",
+        "candidate_font_5": "Rochester"
+    },
+    {
+        "task_id": "580820",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Bambina",
+        "candidate_font_2": "Brittany Signature",
+        "candidate_font_3": "Adelicia Script",
+        "candidate_font_4": "Great Vibes",
+        "candidate_font_5": "Quicksand"
+    },
+    {
+        "task_id": "580819",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Burbank Big Condensed Black",
+        "candidate_font_2": "Porky's",
+        "candidate_font_3": "Komika Title",
+        "candidate_font_4": "Lemon Yellow Sun",
+        "candidate_font_5": "Kristen ITC"
+    },
+    {
+        "task_id": "580818",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Compacta",
+        "candidate_font_2": "Franklin Gothic Condensed",
+        "candidate_font_3": "Alternate Gothic No. 2",
+        "candidate_font_4": "Century Schoolbook Bold",
+        "candidate_font_5": "Bookman Old Style Bold"
+    },
+    {
+        "task_id": "580817",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Moonstone Script",
+        "candidate_font_2": "Stay Grateful",
+        "candidate_font_3": "Buttercup",
+        "candidate_font_4": "Lovely December",
+        "candidate_font_5": "Adelios"
+    },
+    {
+        "task_id": "580816",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Anton",
+        "candidate_font_2": "Impact",
+        "candidate_font_3": "Bebas Neue Bold",
+        "candidate_font_4": "Franklin Gothic Condensed",
+        "candidate_font_5": "Trade Gothic Condensed"
+    },
+    {
+        "task_id": "580815",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Tres Hombres by KC Fonts",
+        "candidate_font_2": "Octin Vintage",
+        "candidate_font_3": "Space Ranger",
+        "candidate_font_4": "Data 70",
+        "candidate_font_5": "Microgramma Extended Bold"
+    },
+    {
+        "task_id": "580814",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Old Standard TT",
+        "candidate_font_2": "Cormorant Garamond",
+        "candidate_font_3": "EB Garamond",
+        "candidate_font_4": "Crimson Pro",
+        "candidate_font_5": "Literata"
+    },
+    {
+        "task_id": "580813",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Geomanist",
+        "candidate_font_2": "Metropolis",
+        "candidate_font_3": "Core Sans G",
+        "candidate_font_4": "Codec Pro",
+        "candidate_font_5": "Futura"
     }
 ]
