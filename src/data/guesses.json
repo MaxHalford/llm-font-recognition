@@ -42550,5 +42550,77 @@
         "candidate_font_3": "Dancing Script",
         "candidate_font_4": "Alex Brush",
         "candidate_font_5": "Allura"
+    },
+    {
+        "task_id": "580800",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Fredoka One",
+        "candidate_font_2": "Chicle Regular",
+        "candidate_font_3": "",
+        "candidate_font_4": "",
+        "candidate_font_5": ""
+    },
+    {
+        "task_id": "580799",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Leorio",
+        "candidate_font_2": "Glamour Absolute",
+        "candidate_font_3": "Lavigna",
+        "candidate_font_4": "Giveny",
+        "candidate_font_5": "Augustine"
+    },
+    {
+        "task_id": "580798",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Boutique Script",
+        "candidate_font_2": "Magnolia Sky",
+        "candidate_font_3": "Great Vibes",
+        "candidate_font_4": "Alex Brush",
+        "candidate_font_5": "Hello Beautiful"
+    },
+    {
+        "task_id": "580797",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Beauty And The Beast",
+        "candidate_font_2": "Stay Grateful",
+        "candidate_font_3": "Brightly Script",
+        "candidate_font_4": "Magnolia Sky",
+        "candidate_font_5": "Better Together"
+    },
+    {
+        "task_id": "580795",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Compacta Bold Italic",
+        "candidate_font_2": "Agency FB Bold Italic",
+        "candidate_font_3": "United Sans SemiCondensed Black Italic",
+        "candidate_font_4": "Trade Gothic Next Extended Black Oblique",
+        "candidate_font_5": "Univers 85 Extra Black Oblique"
+    },
+    {
+        "task_id": "580794",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Beautyline Script",
+        "candidate_font_2": "Stay Grateful Script",
+        "candidate_font_3": "Playlist Script",
+        "candidate_font_4": "Hensley Script",
+        "candidate_font_5": "Wildheart Script"
+    },
+    {
+        "task_id": "580792",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Permanent Marker",
+        "candidate_font_2": "Grutch Sans",
+        "candidate_font_3": "Architects Daughter",
+        "candidate_font_4": "Dirty Marker",
+        "candidate_font_5": "Street Marker"
+    },
+    {
+        "task_id": "580790",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Didot Italic",
+        "candidate_font_2": "Bodoni Italic",
+        "candidate_font_3": "Gotham Black",
+        "candidate_font_4": "Montserrat Black",
+        "candidate_font_5": "Proxima Nova Black"
     }
 ]
