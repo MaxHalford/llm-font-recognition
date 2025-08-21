@@ -42811,5 +42811,104 @@
         "candidate_font_3": "Core Sans G",
         "candidate_font_4": "Codec Pro",
         "candidate_font_5": "Futura"
+    },
+    {
+        "task_id": "580831",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Handy Quop",
+        "candidate_font_2": "Lobster",
+        "candidate_font_3": "Bukhari Script",
+        "candidate_font_4": "Brush Script MT",
+        "candidate_font_5": "Pacifico"
+    },
+    {
+        "task_id": "580835",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Neo Sans Std",
+        "candidate_font_2": "Museo Sans",
+        "candidate_font_3": "Proxima Nova",
+        "candidate_font_4": "Gotham",
+        "candidate_font_5": "Montserrat"
+    },
+    {
+        "task_id": "580834",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Circuitron",
+        "candidate_font_2": "Eurostile",
+        "candidate_font_3": "Microgramma",
+        "candidate_font_4": "Bank Gothic",
+        "candidate_font_5": "DIN 1451"
+    },
+    {
+        "task_id": "580832",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Fredoka One",
+        "candidate_font_2": "Bubblegum Sans",
+        "candidate_font_3": "Luckiest Guy",
+        "candidate_font_4": "Baloo 2",
+        "candidate_font_5": "Chewy"
+    },
+    {
+        "task_id": "580830",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Helvetica Black",
+        "candidate_font_2": "Nimbus Sans Black",
+        "candidate_font_3": "Arial Black",
+        "candidate_font_4": "TeX Gyre Heros",
+        "candidate_font_5": "Univers 85 Extra Black"
+    },
+    {
+        "task_id": "580828",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Hello January",
+        "candidate_font_2": "Hello Lary",
+        "candidate_font_3": "Better Together",
+        "candidate_font_4": "The Briskly",
+        "candidate_font_5": "Lovely Melody"
+    },
+    {
+        "task_id": "580826",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Angilla Tattoo",
+        "candidate_font_2": "Ambassador Script",
+        "candidate_font_3": "California Jackpot",
+        "candidate_font_4": "Elm Street",
+        "candidate_font_5": "True Lies"
+    },
+    {
+        "task_id": "373125",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Chalet Comprime HongKong",
+        "candidate_font_2": "DIN Next LT Pro Bold",
+        "candidate_font_3": "Action Man",
+        "candidate_font_4": "Porky's",
+        "candidate_font_5": "VAG Rounded Bold"
+    },
+    {
+        "task_id": "580827",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Unforgiven",
+        "candidate_font_2": "Wanted",
+        "candidate_font_3": "Iron Horse",
+        "candidate_font_4": "Gunfighter Academy",
+        "candidate_font_5": "Mesquite Std"
+    },
+    {
+        "task_id": "580825",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Fredoka One",
+        "candidate_font_2": "Fredoka",
+        "candidate_font_3": "Quicksand Bold",
+        "candidate_font_4": "Nunito Black",
+        "candidate_font_5": "Montserrat Bold"
+    },
+    {
+        "task_id": "580824",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Adora Bouton",
+        "candidate_font_2": "Samantha Script",
+        "candidate_font_3": "Bromello",
+        "candidate_font_4": "Great Vibes",
+        "candidate_font_5": "Allura"
     }
 ]
