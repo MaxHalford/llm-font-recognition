@@ -42622,5 +42622,41 @@
         "candidate_font_3": "Gotham Black",
         "candidate_font_4": "Montserrat Black",
         "candidate_font_5": "Proxima Nova Black"
+    },
+    {
+        "task_id": "580804",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "United Sans Heavy Grunge",
+        "candidate_font_2": "SF Collegiate Grunge",
+        "candidate_font_3": "War Machine",
+        "candidate_font_4": "Steelfish Rough",
+        "candidate_font_5": "Bank Gothic Distressed"
+    },
+    {
+        "task_id": "580803",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Magnolia Sky",
+        "candidate_font_2": "Hello Honey",
+        "candidate_font_3": "Brittany Signature",
+        "candidate_font_4": "Autumn in November",
+        "candidate_font_5": "Lovely Heart"
+    },
+    {
+        "task_id": "580802",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Agency FB",
+        "candidate_font_2": "Bebas Neue",
+        "candidate_font_3": "Oswald",
+        "candidate_font_4": "Roadgeek 2005",
+        "candidate_font_5": "Impact"
+    },
+    {
+        "task_id": "580801",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Bridgette",
+        "candidate_font_2": "Beautiful Bloom",
+        "candidate_font_3": "South of Wonderland",
+        "candidate_font_4": "Magnolia Sky",
+        "candidate_font_5": "Lovely Home"
     }
 ]
