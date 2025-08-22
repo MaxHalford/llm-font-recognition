@@ -43117,5 +43117,23 @@
         "candidate_font_3": "Didot",
         "candidate_font_4": "Amsterdam One",
         "candidate_font_5": "Dancing Script"
+    },
+    {
+        "task_id": "580871",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Trade Gothic Bold Condensed Oblique",
+        "candidate_font_2": "Franklin Gothic Heavy Italic",
+        "candidate_font_3": "Univers 69 Extra Black Oblique",
+        "candidate_font_4": "Titling Gothic FB Extended Italic",
+        "candidate_font_5": "Akzidenz-Grotesk Condensed Bold Italic"
+    },
+    {
+        "task_id": "580870",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Black Flag",
+        "candidate_font_2": "Satanas",
+        "candidate_font_3": "California Coast",
+        "candidate_font_4": "Lordish",
+        "candidate_font_5": "Blackside"
     }
 ]
