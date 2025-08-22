@@ -27421,7 +27421,7 @@
         "title": "Help me find this font",
         "instructions": "Thank you!",
         "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1227289.png",
-        "identified_font": null
+        "identified_font": "IBM Plex Sans"
     },
     {
         "task_id": "580829",
@@ -27661,7 +27661,7 @@
         "title": "Cannot find this script font",
         "instructions": null,
         "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1227353.png",
-        "identified_font": null
+        "identified_font": "Fenway Park"
     },
     {
         "task_id": "580853",
@@ -27677,6 +27677,46 @@
         "title": "Font?",
         "instructions": null,
         "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1227350.png",
+        "identified_font": null
+    },
+    {
+        "task_id": "580868",
+        "url": "https://www.dafont.com/forum/read/580868/both-fonts",
+        "title": "both fonts",
+        "instructions": null,
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1227380.png",
+        "identified_font": null
+    },
+    {
+        "task_id": "580864",
+        "url": "https://www.dafont.com/forum/read/580864/these-2-fonts-diamond",
+        "title": "These 2 fonts (Diamond)",
+        "instructions": "Diamond is the one I'm having more trouble with",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1227369.png",
+        "identified_font": null
+    },
+    {
+        "task_id": "580867",
+        "url": "https://www.dafont.com/forum/read/580867/kadu",
+        "title": "\"Kadu\"",
+        "instructions": null,
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1227374.png",
+        "identified_font": null
+    },
+    {
+        "task_id": "580866",
+        "url": "https://www.dafont.com/forum/read/580866/font-name-pls",
+        "title": "font name pls?",
+        "instructions": null,
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1227372.png",
+        "identified_font": "Rafaella"
+    },
+    {
+        "task_id": "580865",
+        "url": "https://www.dafont.com/forum/read/580865/what-font-is-this",
+        "title": "what font is this?",
+        "instructions": null,
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1227371.png",
         "identified_font": null
     }
 ]
