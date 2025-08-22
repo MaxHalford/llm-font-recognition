@@ -27052,7 +27052,7 @@
         "url": "https://www.dafont.com/forum/read/580768/conocen-esta-fuente-o-similar",
         "title": "conocen esta fuente o similar",
         "instructions": "hola amigos, conocen el nombre de esta fuente o una similar?",
-        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1227172.jpg",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1227172.png?1",
         "identified_font": null
     },
     {
@@ -27260,7 +27260,7 @@
         "url": "https://www.dafont.com/forum/read/580802/need-help-identifying-this-font",
         "title": "Need Help Identifying This Font",
         "instructions": null,
-        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1227251.png",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1227251.png?1",
         "identified_font": null
     },
     {
@@ -27516,8 +27516,8 @@
         "url": "https://www.dafont.com/forum/read/580825/font",
         "title": "Font?",
         "instructions": null,
-        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1227301.jpg",
-        "identified_font": null
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1227301.png?1",
+        "identified_font": "Caramel Sweets"
     },
     {
         "task_id": "580824",
@@ -27556,7 +27556,7 @@
         "url": "https://www.dafont.com/forum/read/580848/what-is-the-font-used-here",
         "title": "What is the font used here?",
         "instructions": "What is the font used here?",
-        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1227343.png",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1227343.png?1",
         "identified_font": null
     },
     {
@@ -27684,8 +27684,8 @@
         "url": "https://www.dafont.com/forum/read/580868/both-fonts",
         "title": "both fonts",
         "instructions": null,
-        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1227380.png",
-        "identified_font": null
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1227380.png?1",
+        "identified_font": "Jade Skies"
     },
     {
         "task_id": "580864",
@@ -27700,8 +27700,8 @@
         "url": "https://www.dafont.com/forum/read/580867/kadu",
         "title": "\"Kadu\"",
         "instructions": null,
-        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1227374.png",
-        "identified_font": null
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1227374.png?1",
+        "identified_font": "Riffic"
     },
     {
         "task_id": "580866",
@@ -27716,7 +27716,23 @@
         "url": "https://www.dafont.com/forum/read/580865/what-font-is-this",
         "title": "what font is this?",
         "instructions": null,
-        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1227371.png",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1227371.png?1",
+        "identified_font": "Golden Hopes"
+    },
+    {
+        "task_id": "580871",
+        "url": "https://www.dafont.com/forum/read/580871/please-and-thanks",
+        "title": "Please and thanks",
+        "instructions": null,
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1227383.png?1",
+        "identified_font": null
+    },
+    {
+        "task_id": "580870",
+        "url": "https://www.dafont.com/forum/read/580870/nombre-de-esta-tipografia",
+        "title": "NOMBRE DE ESTA TIPOGRAFIA?",
+        "instructions": "whats name font?",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1227382.jpg",
         "identified_font": null
     }
 ]
