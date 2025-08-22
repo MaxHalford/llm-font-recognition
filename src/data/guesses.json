@@ -43387,5 +43387,50 @@
         "candidate_font_3": "Franklin Gothic Heavy Italic",
         "candidate_font_4": "Oswald Bold Italic",
         "candidate_font_5": "Bebas Neue Bold Italic"
+    },
+    {
+        "task_id": "580913",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Chewy",
+        "candidate_font_2": "Sniglet",
+        "candidate_font_3": "Baloo 2",
+        "candidate_font_4": "Coming Soon",
+        "candidate_font_5": "Architects Daughter"
+    },
+    {
+        "task_id": "580912",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Southampton Script",
+        "candidate_font_2": "Magnolia Sky",
+        "candidate_font_3": "Tw Cen MT",
+        "candidate_font_4": "Inter",
+        "candidate_font_5": "Open Sans"
+    },
+    {
+        "task_id": "580910",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "SF Collegiate Solid",
+        "candidate_font_2": "Hattori Hanzo",
+        "candidate_font_3": "Octin College",
+        "candidate_font_4": "Varsity Team",
+        "candidate_font_5": "Amsterdam One"
+    },
+    {
+        "task_id": "580909",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Stay Wildy",
+        "candidate_font_2": "Hensa",
+        "candidate_font_3": "Rock Salt",
+        "candidate_font_4": "Permanent Marker",
+        "candidate_font_5": "Kids Story"
+    },
+    {
+        "task_id": "580907",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Playfair Display",
+        "candidate_font_2": "Bodoni",
+        "candidate_font_3": "Didot",
+        "candidate_font_4": "Libre Bodoni",
+        "candidate_font_5": "Lora"
     }
 ]
