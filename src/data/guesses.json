@@ -43198,5 +43198,104 @@
         "candidate_font_3": "Inter Black",
         "candidate_font_4": "Outfit Black",
         "candidate_font_5": "Avenir Black"
+    },
+    {
+        "task_id": "580893",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Luxurious Display",
+        "candidate_font_2": "Clover Display",
+        "candidate_font_3": "Wensley",
+        "candidate_font_4": "Didot",
+        "candidate_font_5": "Bodoni"
+    },
+    {
+        "task_id": "580894",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Varsity Inline",
+        "candidate_font_2": "SF Collegiate Solid",
+        "candidate_font_3": "Sportsball",
+        "candidate_font_4": "Bignose",
+        "candidate_font_5": "K22 Xalapa"
+    },
+    {
+        "task_id": "580892",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Bubblegum by Fontles",
+        "candidate_font_2": "Bubblegum Pop by Fontles",
+        "candidate_font_3": "Chewy",
+        "candidate_font_4": "Luckiest Guy",
+        "candidate_font_5": "Pangolin"
+    },
+    {
+        "task_id": "580891",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Bubblegum by Letters by Lea",
+        "candidate_font_2": "Bubble Letters by Darrell Flood",
+        "candidate_font_3": "Cheeky Bubble by Misti's Fonts",
+        "candidate_font_4": "KG Summer Sunshine by Kimberly Geswein",
+        "candidate_font_5": "Little Bubbly by Letters by Lea"
+    },
+    {
+        "task_id": "580890",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Baloo 2 Bold",
+        "candidate_font_2": "Baloo Thambi 2 Bold",
+        "candidate_font_3": "Bitter Bold",
+        "candidate_font_4": "Bevan",
+        "candidate_font_5": "Abril Fatface"
+    },
+    {
+        "task_id": "580889",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Century Schoolbook",
+        "candidate_font_2": "Caslon",
+        "candidate_font_3": "Goudy Old Style",
+        "candidate_font_4": "Palatino",
+        "candidate_font_5": "Bookman Old Style"
+    },
+    {
+        "task_id": "580888",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Respective Slanted",
+        "candidate_font_2": "Aphrodite Slim Pro",
+        "candidate_font_3": "Bickham Script Pro",
+        "candidate_font_4": "Dom Loves Mary",
+        "candidate_font_5": "Great Vibes"
+    },
+    {
+        "task_id": "580887",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Isabella Script",
+        "candidate_font_2": "Adelia Script",
+        "candidate_font_3": "Alex Brush",
+        "candidate_font_4": "Great Vibes",
+        "candidate_font_5": "Allura"
+    },
+    {
+        "task_id": "580886",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Jaeguchi",
+        "candidate_font_2": "Sui Generis",
+        "candidate_font_3": "Orbitron",
+        "candidate_font_4": "Bebas Neue",
+        "candidate_font_5": "Audiowide"
+    },
+    {
+        "task_id": "580885",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Loverine Display",
+        "candidate_font_2": "Didot",
+        "candidate_font_3": "Bodoni",
+        "candidate_font_4": "Playfair Display",
+        "candidate_font_5": "Walbaum"
+    },
+    {
+        "task_id": "580884",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Baskerville",
+        "candidate_font_2": "Caslon",
+        "candidate_font_3": "Georgia",
+        "candidate_font_4": "Times New Roman",
+        "candidate_font_5": "Palatino"
     }
 ]
