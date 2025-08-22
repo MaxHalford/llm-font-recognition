@@ -27404,7 +27404,7 @@
         "url": "https://www.dafont.com/forum/read/580815/zz-top",
         "title": "zz top",
         "instructions": "album zz top tres hombres quel et cette police d'\u00e9criture merci d'avance",
-        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1227291.png",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1227291.png?1",
         "identified_font": null
     },
     {
@@ -27853,7 +27853,7 @@
         "title": "The wedding W",
         "instructions": null,
         "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1227417.png",
-        "identified_font": null
+        "identified_font": "Bickham Script"
     },
     {
         "task_id": "580887",
@@ -27965,7 +27965,7 @@
         "title": "Font of My Everything Single 10 years anniversary",
         "instructions": "Hi,",
         "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1227436.png",
-        "identified_font": null
+        "identified_font": "Sunshine In My Soul"
     },
     {
         "task_id": "580895",
@@ -27973,6 +27973,62 @@
         "title": "Whats This Font?",
         "instructions": null,
         "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1227432.png",
+        "identified_font": null
+    },
+    {
+        "task_id": "580908",
+        "url": "https://www.dafont.com/forum/read/580908/help-with-font-identification",
+        "title": "Help with font identification.",
+        "instructions": "Hi, everyone. Please help me identify this font name please.",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1227451.png",
+        "identified_font": "Fastup SC"
+    },
+    {
+        "task_id": "580913",
+        "url": "https://www.dafont.com/forum/read/580913/the-what-font",
+        "title": "THE WHAT FONT",
+        "instructions": "What are the names of these fonts?",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1227461.jpg",
+        "identified_font": null
+    },
+    {
+        "task_id": "580912",
+        "url": "https://www.dafont.com/forum/read/580912/fonts",
+        "title": "Fonts?",
+        "instructions": null,
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1227460.jpg",
+        "identified_font": null
+    },
+    {
+        "task_id": "580906",
+        "url": "https://www.dafont.com/forum/read/580906/recherche-de-police",
+        "title": "RECHERCHE DE POLICE",
+        "instructions": "Bonjour",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1227448.jpg",
+        "identified_font": "Reality Hyper"
+    },
+    {
+        "task_id": "580910",
+        "url": "https://www.dafont.com/forum/read/580910/fonts",
+        "title": "Fonts?",
+        "instructions": null,
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1227453.jpg",
+        "identified_font": null
+    },
+    {
+        "task_id": "580909",
+        "url": "https://www.dafont.com/forum/read/580909/what-is-do-the-dance-font-name",
+        "title": "what is \"Do the dance\" font name?",
+        "instructions": null,
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1227452.png",
+        "identified_font": null
+    },
+    {
+        "task_id": "580907",
+        "url": "https://www.dafont.com/forum/read/580907/majestic",
+        "title": "Majestic",
+        "instructions": null,
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1227449.png",
         "identified_font": null
     }
 ]
