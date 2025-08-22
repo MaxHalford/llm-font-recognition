@@ -43297,5 +43297,95 @@
         "candidate_font_3": "Georgia",
         "candidate_font_4": "Times New Roman",
         "candidate_font_5": "Palatino"
+    },
+    {
+        "task_id": "580905",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Anton",
+        "candidate_font_2": "Univers",
+        "candidate_font_3": "Knockout",
+        "candidate_font_4": "Haettenschweiler",
+        "candidate_font_5": "Impact"
+    },
+    {
+        "task_id": "580904",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "FOT-UD Shin Go",
+        "candidate_font_2": "M+ 1c",
+        "candidate_font_3": "Noto Sans JP",
+        "candidate_font_4": "Kosugi Gothic",
+        "candidate_font_5": "Source Han Sans JP"
+    },
+    {
+        "task_id": "580903",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Block Berthold Bold",
+        "candidate_font_2": "Microgramma Extended Bold",
+        "candidate_font_3": "Ionic No. 5",
+        "candidate_font_4": "Excelsior",
+        "candidate_font_5": "Data 70"
+    },
+    {
+        "task_id": "580902",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Striped Alpha",
+        "candidate_font_2": "Video Striped",
+        "candidate_font_3": "Bookman Old Style",
+        "candidate_font_4": "Palatino Linotype",
+        "candidate_font_5": "Arial"
+    },
+    {
+        "task_id": "580901",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Burbank Big Condensed Black",
+        "candidate_font_2": "Franklin Gothic Medium Condensed",
+        "candidate_font_3": "Bubblegum Sans",
+        "candidate_font_4": "VAG Rounded",
+        "candidate_font_5": "News Gothic Condensed"
+    },
+    {
+        "task_id": "580900",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Burbank Big Regular Black",
+        "candidate_font_2": "Grobold",
+        "candidate_font_3": "Burbank Big Wide Black",
+        "candidate_font_4": "Bubblegum Sans",
+        "candidate_font_5": "Luckiest Guy"
+    },
+    {
+        "task_id": "580899",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Adobe Garamond Pro",
+        "candidate_font_2": "Garamond Premier Pro",
+        "candidate_font_3": "EB Garamond",
+        "candidate_font_4": "Adobe Caslon Pro",
+        "candidate_font_5": "Perpetua"
+    },
+    {
+        "task_id": "580898",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Open Sans",
+        "candidate_font_2": "Lato",
+        "candidate_font_3": "Roboto",
+        "candidate_font_4": "Montserrat",
+        "candidate_font_5": "Noto Sans"
+    },
+    {
+        "task_id": "580897",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Chalk Board Cursive",
+        "candidate_font_2": "Always Here",
+        "candidate_font_3": "Lemon Tuesday",
+        "candidate_font_4": "Madelyn",
+        "candidate_font_5": "Brittany Signature"
+    },
+    {
+        "task_id": "580895",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Trade Gothic Bold Condensed Oblique",
+        "candidate_font_2": "Tungsten Bold Italic",
+        "candidate_font_3": "Franklin Gothic Heavy Italic",
+        "candidate_font_4": "Oswald Bold Italic",
+        "candidate_font_5": "Bebas Neue Bold Italic"
     }
 ]
