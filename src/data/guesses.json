@@ -43153,5 +43153,50 @@
         "candidate_font_3": "Akzidenz-Grotesk Super Italic",
         "candidate_font_4": "Montserrat",
         "candidate_font_5": "Gotham"
+    },
+    {
+        "task_id": "580883",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Raynorris",
+        "candidate_font_2": "Heavy Heap",
+        "candidate_font_3": "Bangers",
+        "candidate_font_4": "Action Man",
+        "candidate_font_5": "Chunky Funky"
+    },
+    {
+        "task_id": "580880",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Autumn Chant",
+        "candidate_font_2": "Moon Light",
+        "candidate_font_3": "Autumn Leaves",
+        "candidate_font_4": "Josefin Sans Light",
+        "candidate_font_5": "Quicksand Light"
+    },
+    {
+        "task_id": "580878",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Deadly Killers",
+        "candidate_font_2": "Hokjesgeest",
+        "candidate_font_3": "Brutal Tooth",
+        "candidate_font_4": "Rattlesnake",
+        "candidate_font_5": "Street Wars"
+    },
+    {
+        "task_id": "580877",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Mont Black",
+        "candidate_font_2": "Visby CF Black",
+        "candidate_font_3": "Milliard Black",
+        "candidate_font_4": "Montserrat Black",
+        "candidate_font_5": "Codec Pro ExtraBold"
+    },
+    {
+        "task_id": "580876",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Gotham Black",
+        "candidate_font_2": "Montserrat Black",
+        "candidate_font_3": "Inter Black",
+        "candidate_font_4": "Outfit Black",
+        "candidate_font_5": "Avenir Black"
     }
 ]
