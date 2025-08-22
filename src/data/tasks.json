@@ -20140,8 +20140,8 @@
         "url": "https://www.dafont.com/forum/read/579820/font-name",
         "title": "font name?",
         "instructions": null,
-        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1225202.png",
-        "identified_font": null
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1225202.png?1",
+        "identified_font": "Themadi"
     },
     {
         "task_id": "579836",
@@ -20812,8 +20812,8 @@
         "url": "https://www.dafont.com/forum/read/579907/name-of-this-font",
         "title": "Name of this font???",
         "instructions": null,
-        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1225365.png",
-        "identified_font": null
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1225365.png?1",
+        "identified_font": "Themadi"
     },
     {
         "task_id": "579906",
@@ -27733,6 +27733,30 @@
         "title": "NOMBRE DE ESTA TIPOGRAFIA?",
         "instructions": "whats name font?",
         "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1227382.jpg",
+        "identified_font": null
+    },
+    {
+        "task_id": "580875",
+        "url": "https://www.dafont.com/forum/read/580875/font-name-pls",
+        "title": "font name pls",
+        "instructions": "what this font name?",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1227398.png",
+        "identified_font": null
+    },
+    {
+        "task_id": "561857",
+        "url": "https://www.dafont.com/forum/read/561857/untouchable-font-name",
+        "title": "untouchable font name?",
+        "instructions": null,
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/1/1188287.png",
+        "identified_font": "Revoluta"
+    },
+    {
+        "task_id": "580874",
+        "url": "https://www.dafont.com/forum/read/580874/what-are-the-fonts-have-been-used-here",
+        "title": "what are the fonts have been used here?",
+        "instructions": null,
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1227394.png",
         "identified_font": null
     }
 ]
