@@ -43081,5 +43081,41 @@
         "candidate_font_3": "Gotham",
         "candidate_font_4": "Avenir",
         "candidate_font_5": "Proxima Nova"
+    },
+    {
+        "task_id": "580868",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Bubblegum Sans",
+        "candidate_font_2": "Hello Sweetie",
+        "candidate_font_3": "Fredoka One",
+        "candidate_font_4": "KG Always a Good Time",
+        "candidate_font_5": "AG Happy Dance"
+    },
+    {
+        "task_id": "580864",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Chopin Script",
+        "candidate_font_2": "ITC Clearface Bold",
+        "candidate_font_3": "Monotype Corsiva",
+        "candidate_font_4": "Century Schoolbook Bold",
+        "candidate_font_5": "Pinyon Script"
+    },
+    {
+        "task_id": "580867",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Obelix Pro",
+        "candidate_font_2": "Grobold",
+        "candidate_font_3": "Bazar",
+        "candidate_font_4": "Montserrat Black",
+        "candidate_font_5": "Bebas Neue Bold"
+    },
+    {
+        "task_id": "580865",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Glamor",
+        "candidate_font_2": "Bodoni",
+        "candidate_font_3": "Didot",
+        "candidate_font_4": "Amsterdam One",
+        "candidate_font_5": "Dancing Script"
     }
 ]
