@@ -43135,5 +43135,23 @@
         "candidate_font_3": "California Coast",
         "candidate_font_4": "Lordish",
         "candidate_font_5": "Blackside"
+    },
+    {
+        "task_id": "580875",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Titillium Web Black",
+        "candidate_font_2": "Intro Bold",
+        "candidate_font_3": "Lemon Milk Bold",
+        "candidate_font_4": "Headliner No. 45",
+        "candidate_font_5": "Oswald ExtraBold"
+    },
+    {
+        "task_id": "580874",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Univers LT Std 85 ExtraBlack Oblique",
+        "candidate_font_2": "Avenir",
+        "candidate_font_3": "Akzidenz-Grotesk Super Italic",
+        "candidate_font_4": "Montserrat",
+        "candidate_font_5": "Gotham"
     }
 ]
