@@ -28204,7 +28204,7 @@
         "url": "https://www.dafont.com/forum/read/580950/krispy-kreme-s-golden-snitch-font",
         "title": "Krispy Kreme's Golden Snitch font",
         "instructions": null,
-        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1227536.jpg",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1227536.png?1",
         "identified_font": null
     },
     {
@@ -28325,6 +28325,22 @@
         "title": "What are the fonts?",
         "instructions": null,
         "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1227555.jpg",
+        "identified_font": null
+    },
+    {
+        "task_id": "580967",
+        "url": "https://www.dafont.com/forum/read/580967/what-is-the-font-used-on-the-boneworks-ammo-hud",
+        "title": "What is the font used on the Boneworks ammo HUD?",
+        "instructions": null,
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1227572.jpg",
+        "identified_font": null
+    },
+    {
+        "task_id": "89884",
+        "url": "https://www.dafont.com/forum/read/89884/mx-number-plate",
+        "title": "mx number plate",
+        "instructions": null,
+        "img_url": "https://www.dafont.com/forum/attach/orig/2/1/219854.png?1",
         "identified_font": null
     }
 ]
