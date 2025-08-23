@@ -43585,5 +43585,50 @@
         "candidate_font_3": "Book Antiqua",
         "candidate_font_4": "Helvetica Neue 95 Extra Black",
         "candidate_font_5": "Franklin Gothic Heavy"
+    },
+    {
+        "task_id": "580950",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Enchanted Land",
+        "candidate_font_2": "Lumos",
+        "candidate_font_3": "Magic Story",
+        "candidate_font_4": "Fairytales",
+        "candidate_font_5": "Hogsmeade"
+    },
+    {
+        "task_id": "580949",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Public Sans",
+        "candidate_font_2": "Montserrat",
+        "candidate_font_3": "Circular Std",
+        "candidate_font_4": "Gotham",
+        "candidate_font_5": "Proxima Nova"
+    },
+    {
+        "task_id": "580945",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Damage",
+        "candidate_font_2": "Hardcore",
+        "candidate_font_3": "Bleeding Cowboys",
+        "candidate_font_4": "Destroyed",
+        "candidate_font_5": "Another Danger"
+    },
+    {
+        "task_id": "580944",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Split Screen by Iconian Fonts",
+        "candidate_font_2": "Sector by Iconian Fonts",
+        "candidate_font_3": "SF TransRobotics by ShyFoundry",
+        "candidate_font_4": "Top Secret by Iconian Fonts",
+        "candidate_font_5": "Unisan by Iconian Fonts"
+    },
+    {
+        "task_id": "580943",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "SamsungOne",
+        "candidate_font_2": "Google Sans",
+        "candidate_font_3": "Poppins",
+        "candidate_font_4": "Lato",
+        "candidate_font_5": "Nunito"
     }
 ]
