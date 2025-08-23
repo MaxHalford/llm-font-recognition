@@ -43567,5 +43567,23 @@
         "candidate_font_3": "Tinos",
         "candidate_font_4": "Century Old Style",
         "candidate_font_5": "Book Antiqua"
+    },
+    {
+        "task_id": "580941",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Chewy",
+        "candidate_font_2": "Bubblegum Sans",
+        "candidate_font_3": "Fredoka One",
+        "candidate_font_4": "Burbank Big Condensed",
+        "candidate_font_5": "Porky's"
+    },
+    {
+        "task_id": "580940",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Palatino Linotype",
+        "candidate_font_2": "Univers 75 Black",
+        "candidate_font_3": "Book Antiqua",
+        "candidate_font_4": "Helvetica Neue 95 Extra Black",
+        "candidate_font_5": "Franklin Gothic Heavy"
     }
 ]
