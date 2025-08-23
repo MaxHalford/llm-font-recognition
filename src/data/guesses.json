@@ -43666,5 +43666,68 @@
         "candidate_font_3": "SF Sports Night",
         "candidate_font_4": "Top Speed",
         "candidate_font_5": "Plasma Drip"
+    },
+    {
+        "task_id": "580966",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "ITC Bookman Swash",
+        "candidate_font_2": "Windsor Bold",
+        "candidate_font_3": "Souvenir Demi Bold",
+        "candidate_font_4": "Cooper Black",
+        "candidate_font_5": "Goudy Heavyface"
+    },
+    {
+        "task_id": "580964",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Fenwick Outline",
+        "candidate_font_2": "Bernhard Fashion",
+        "candidate_font_3": "Riesling",
+        "candidate_font_4": "LHF Sign Painter Roman",
+        "candidate_font_5": "LHF Majestic"
+    },
+    {
+        "task_id": "580963",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Haelm",
+        "candidate_font_2": "Cooper Black",
+        "candidate_font_3": "Windsor Bold",
+        "candidate_font_4": "American Typewriter Bold",
+        "candidate_font_5": "ITC Korinna Bold"
+    },
+    {
+        "task_id": "580962",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Balloon Bold",
+        "candidate_font_2": "Patrick Hand",
+        "candidate_font_3": "Kalam",
+        "candidate_font_4": "Gloria Hallelujah",
+        "candidate_font_5": "Fredoka One"
+    },
+    {
+        "task_id": "580961",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Road Rage",
+        "candidate_font_2": "SF Wonder Comic",
+        "candidate_font_3": "Obelix Pro",
+        "candidate_font_4": "Bangers",
+        "candidate_font_5": "Luckiest Guy"
+    },
+    {
+        "task_id": "580959",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "SF TransRobotics",
+        "candidate_font_2": "Hyperspace Race",
+        "candidate_font_3": "Destroy Earth",
+        "candidate_font_4": "Carbon Block",
+        "candidate_font_5": "Transformers Movie Font"
+    },
+    {
+        "task_id": "580958",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Lovely Couple",
+        "candidate_font_2": "Montserrat",
+        "candidate_font_3": "Chewy",
+        "candidate_font_4": "",
+        "candidate_font_5": ""
     }
 ]
