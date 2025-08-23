@@ -28156,8 +28156,8 @@
         "url": "https://www.dafont.com/forum/read/580932/font-please",
         "title": "Font please",
         "instructions": null,
-        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1227503.jpg",
-        "identified_font": null
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1227503.png?1",
+        "identified_font": "Alley"
     },
     {
         "task_id": "580933",
@@ -28341,6 +28341,62 @@
         "title": "mx number plate",
         "instructions": null,
         "img_url": "https://www.dafont.com/forum/attach/orig/2/1/219854.png?1",
+        "identified_font": null
+    },
+    {
+        "task_id": "580972",
+        "url": "https://www.dafont.com/forum/read/580972/saber-el-tipo-de-fuente",
+        "title": "saber el tipo de fuente",
+        "instructions": null,
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1227582.jpg",
+        "identified_font": null
+    },
+    {
+        "task_id": "580971",
+        "url": "https://www.dafont.com/forum/read/580971/indentificacion-de-fuentes",
+        "title": "Indentificaci\u00f3n de fuentes",
+        "instructions": "Alguien sabe que tipo de letra es esta?",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1227581.jpg",
+        "identified_font": null
+    },
+    {
+        "task_id": "580970",
+        "url": "https://www.dafont.com/forum/read/580970/looking-for-the-font-used-on-the-back-of-this-cd",
+        "title": "Looking for the font used on the back of this CD",
+        "instructions": "(The font for the track list, not the Pendulum logo!)",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1227579.png?1",
+        "identified_font": null
+    },
+    {
+        "task_id": "580969",
+        "url": "https://www.dafont.com/forum/read/580969/me-ajudem-a-achar-essa-fonte-ou-uma-semelhante",
+        "title": "Me ajudem a achar essa fonte ou uma semelhante",
+        "instructions": "Queria saber que fonte foi utilizada em \"Chanyeol\"",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1227578.jpg",
+        "identified_font": null
+    },
+    {
+        "task_id": "567741",
+        "url": "https://www.dafont.com/forum/read/567741/need-font-name-pls",
+        "title": "need font name pls",
+        "instructions": null,
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1200850.png",
+        "identified_font": null
+    },
+    {
+        "task_id": "565148",
+        "url": "https://www.dafont.com/forum/read/565148/chaereve-new-band-font",
+        "title": "CHAEREVE NEW BAND FONT!!!!!!!!",
+        "instructions": "guys what is chaereve's new band and color coded lyrics font name?",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/1/1195348.png?1",
+        "identified_font": "Jeongseon Arirang"
+    },
+    {
+        "task_id": "580968",
+        "url": "https://www.dafont.com/forum/read/580968/id-font",
+        "title": "ID FONT?",
+        "instructions": null,
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1227574.png",
         "identified_font": null
     }
 ]
