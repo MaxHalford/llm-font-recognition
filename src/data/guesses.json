@@ -43630,5 +43630,41 @@
         "candidate_font_3": "Poppins",
         "candidate_font_4": "Lato",
         "candidate_font_5": "Nunito"
+    },
+    {
+        "task_id": "580957",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Broken Home",
+        "candidate_font_2": "Destroy",
+        "candidate_font_3": "Another Danger",
+        "candidate_font_4": "Death Rattle BRK",
+        "candidate_font_5": "Impacted"
+    },
+    {
+        "task_id": "580954",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Fredoka One",
+        "candidate_font_2": "Bubblegum Sans",
+        "candidate_font_3": "Chewy",
+        "candidate_font_4": "VAG Rounded Black",
+        "candidate_font_5": "Poetsen One"
+    },
+    {
+        "task_id": "580952",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Bellisia",
+        "candidate_font_2": "Bromello",
+        "candidate_font_3": "The Signature Font",
+        "candidate_font_4": "Hello Stockholm",
+        "candidate_font_5": "Bright Sunset"
+    },
+    {
+        "task_id": "580951",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Mister Monster",
+        "candidate_font_2": "Octin Stencil",
+        "candidate_font_3": "SF Sports Night",
+        "candidate_font_4": "Top Speed",
+        "candidate_font_5": "Plasma Drip"
     }
 ]
