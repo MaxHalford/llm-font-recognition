@@ -28190,5 +28190,53 @@
         "instructions": "What font is this? Does anybody know?",
         "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1227520.png",
         "identified_font": null
+    },
+    {
+        "task_id": "580942",
+        "url": "https://www.dafont.com/forum/read/580942/font-tittle-creed-by-stray-kids-please",
+        "title": "Font tittle \"Creed\" by Stray kids please",
+        "instructions": null,
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1227524.jpg",
+        "identified_font": "Crash Test Dummy"
+    },
+    {
+        "task_id": "580950",
+        "url": "https://www.dafont.com/forum/read/580950/krispy-kreme-s-golden-snitch-font",
+        "title": "Krispy Kreme's Golden Snitch font",
+        "instructions": null,
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1227536.jpg",
+        "identified_font": null
+    },
+    {
+        "task_id": "580949",
+        "url": "https://www.dafont.com/forum/read/580949/czech-casting-logo",
+        "title": "Czech Casting logo",
+        "instructions": "What is this font of this logo?",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1227535.png",
+        "identified_font": null
+    },
+    {
+        "task_id": "580945",
+        "url": "https://www.dafont.com/forum/read/580945/font-title-bleep-by-stray-kids-please",
+        "title": "Font Title \"BLEEP\" by stray kids please",
+        "instructions": null,
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1227531.jpg",
+        "identified_font": null
+    },
+    {
+        "task_id": "580944",
+        "url": "https://www.dafont.com/forum/read/580944/title-font-ceremony-straykids-please",
+        "title": "Title font ceremony straykids please",
+        "instructions": null,
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1227527.jpg",
+        "identified_font": null
+    },
+    {
+        "task_id": "580943",
+        "url": "https://www.dafont.com/forum/read/580943/font-help-me-pls-this",
+        "title": "Font? Help me pls this",
+        "instructions": null,
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1227525.jpg",
+        "identified_font": null
     }
 ]
