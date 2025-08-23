@@ -25460,7 +25460,7 @@
         "url": "https://www.dafont.com/forum/read/580546/font-name-pls",
         "title": "Font name pls :)",
         "instructions": null,
-        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1226715.jpg",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1226715.png?1",
         "identified_font": null
     },
     {
@@ -27973,7 +27973,7 @@
         "title": "Whats This Font?",
         "instructions": null,
         "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1227432.png",
-        "identified_font": null
+        "identified_font": "Sofia Sans Extra Condensed 800 Italic"
     },
     {
         "task_id": "580908",
@@ -28281,11 +28281,11 @@
     },
     {
         "task_id": "580964",
-        "url": "https://www.dafont.com/forum/read/580964/titlle-font-b-o-m-b-by-treasure-please",
-        "title": "Titlle font \"B.O.M.B\" by treasure please",
-        "instructions": null,
-        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1227562.jpg",
-        "identified_font": null
+        "url": "https://www.dafont.com/forum/read/580964/b-o-m-b",
+        "title": "B.O.M.B.",
+        "instructions": "Title font \"B.O.M.B\" by treasure please",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1227562.jpg?1",
+        "identified_font": "Aesthetic"
     },
     {
         "task_id": "580963",
@@ -28397,6 +28397,62 @@
         "title": "ID FONT?",
         "instructions": null,
         "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1227574.png",
+        "identified_font": null
+    },
+    {
+        "task_id": "580979",
+        "url": "https://www.dafont.com/forum/read/580979/seina-velazques",
+        "title": "Seina Velazques",
+        "instructions": "help please",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1227597.jpg",
+        "identified_font": null
+    },
+    {
+        "task_id": "580978",
+        "url": "https://www.dafont.com/forum/read/580978/font",
+        "title": "Font",
+        "instructions": null,
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1227596.jpg",
+        "identified_font": null
+    },
+    {
+        "task_id": "580977",
+        "url": "https://www.dafont.com/forum/read/580977/font",
+        "title": "Font",
+        "instructions": null,
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1227595.jpg",
+        "identified_font": null
+    },
+    {
+        "task_id": "580976",
+        "url": "https://www.dafont.com/forum/read/580976/what-the-font",
+        "title": "What the font",
+        "instructions": null,
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1227594.jpg",
+        "identified_font": null
+    },
+    {
+        "task_id": "580975",
+        "url": "https://www.dafont.com/forum/read/580975/font-identification",
+        "title": "Font Identification",
+        "instructions": "Anyone recognize the font used for this effect?",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1227593.png",
+        "identified_font": null
+    },
+    {
+        "task_id": "580974",
+        "url": "https://www.dafont.com/forum/read/580974/who-knows-what-font-this-is",
+        "title": "Who Knows What Font This Is?",
+        "instructions": null,
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1227589.png",
+        "identified_font": null
+    },
+    {
+        "task_id": "580973",
+        "url": "https://www.dafont.com/forum/read/580973/font-name",
+        "title": "font name???",
+        "instructions": "pls if you know the name of this font, write it here. It is a famous font, maybe you\u0092ll know. In the white text you can see it more clearly. Thx.",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1227586.png",
         "identified_font": null
     }
 ]
