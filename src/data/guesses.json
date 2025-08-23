@@ -43729,5 +43729,23 @@
         "candidate_font_3": "Chewy",
         "candidate_font_4": "",
         "candidate_font_5": ""
+    },
+    {
+        "task_id": "580967",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Exo 2 Outline",
+        "candidate_font_2": "Orbitron Outline",
+        "candidate_font_3": "Space Age Outline",
+        "candidate_font_4": "Electro Outline",
+        "candidate_font_5": "Terminator Two Outline"
+    },
+    {
+        "task_id": "89884",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "FX Motocross Numbers",
+        "candidate_font_2": "Motostyle",
+        "candidate_font_3": "MXGP",
+        "candidate_font_4": "Race FX",
+        "candidate_font_5": "Racer Number Font"
     }
 ]
