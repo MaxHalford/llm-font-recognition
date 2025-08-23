@@ -43801,5 +43801,68 @@
         "candidate_font_3": "Graphik Black",
         "candidate_font_4": "Proxima Nova Black",
         "candidate_font_5": "Montserrat Black"
+    },
+    {
+        "task_id": "580979",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Acme Regular",
+        "candidate_font_2": "Beautiful People Personal Use",
+        "candidate_font_3": "Chopin Script",
+        "candidate_font_4": "Magnolia Sky",
+        "candidate_font_5": "Great Vibes"
+    },
+    {
+        "task_id": "580978",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Pump Demi Bold",
+        "candidate_font_2": "Chee Bold",
+        "candidate_font_3": "Bimbo Black",
+        "candidate_font_4": "Balloon Black",
+        "candidate_font_5": "VAG Rounded Black"
+    },
+    {
+        "task_id": "580977",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Akzidenz-Grotesk BQ Bold Condensed",
+        "candidate_font_2": "Monotype Grotesque 215 Bold Condensed",
+        "candidate_font_3": "Knockout HTF Full B",
+        "candidate_font_4": "Folio Bold Condensed",
+        "candidate_font_5": "Sporting Grotesque Bold Condensed"
+    },
+    {
+        "task_id": "580976",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Helvetica Neue Bold",
+        "candidate_font_2": "Open Sans Bold",
+        "candidate_font_3": "Lato Bold",
+        "candidate_font_4": "Roboto Bold",
+        "candidate_font_5": "Arial Bold"
+    },
+    {
+        "task_id": "580975",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Athletic Rough",
+        "candidate_font_2": "SF Collegiate",
+        "candidate_font_3": "Big Noodle Titling",
+        "candidate_font_4": "Freshman",
+        "candidate_font_5": "Impact"
+    },
+    {
+        "task_id": "580974",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Hemi Head Bold",
+        "candidate_font_2": "Lemon Milk Bold",
+        "candidate_font_3": "Komu A Bold",
+        "candidate_font_4": "VAG Rounded Black",
+        "candidate_font_5": "Arial Rounded MT Bold"
+    },
+    {
+        "task_id": "580973",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Helvetica",
+        "candidate_font_2": "Arial",
+        "candidate_font_3": "Impact",
+        "candidate_font_4": "Bebas Neue",
+        "candidate_font_5": "Oswald Bold"
     }
 ]
