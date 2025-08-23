@@ -27693,7 +27693,7 @@
         "title": "These 2 fonts (Diamond)",
         "instructions": "Diamond is the one I'm having more trouble with",
         "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1227369.png",
-        "identified_font": null
+        "identified_font": "Tinos"
     },
     {
         "task_id": "580867",
@@ -28013,7 +28013,7 @@
         "title": "Fonts?",
         "instructions": null,
         "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1227453.jpg",
-        "identified_font": null
+        "identified_font": "Sketch"
     },
     {
         "task_id": "580909",
@@ -28077,7 +28077,7 @@
         "title": "AYUDA CON ESTA FUENTE",
         "instructions": "Agradezco su colaboraci\u00f3n.",
         "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1227479.png",
-        "identified_font": null
+        "identified_font": "Steelworks"
     },
     {
         "task_id": "580919",
@@ -28118,5 +28118,61 @@
         "instructions": "Which font did they use for \"Rainbow Roadtrip\"?",
         "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1227467.jpg",
         "identified_font": null
+    },
+    {
+        "task_id": "580936",
+        "url": "https://www.dafont.com/forum/read/580936/what-is-the-name-of-this-font-because-i-am-a-content-creator-for-yandere-simulator",
+        "title": "What is the name of this font because I am a content creator for Yandere Simulator?",
+        "instructions": null,
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1227515.png",
+        "identified_font": null
+    },
+    {
+        "task_id": "580931",
+        "url": "https://www.dafont.com/forum/read/580931/distortion-on-the-r-n-t-6-9",
+        "title": "Distortion on the R, N, T, 6, 9",
+        "instructions": "Anyone knows what font this is?",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1227502.png",
+        "identified_font": null
+    },
+    {
+        "task_id": "580935",
+        "url": "https://www.dafont.com/forum/read/580935/what-font-is-this",
+        "title": "what font is this?",
+        "instructions": null,
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1227506.png",
+        "identified_font": null
+    },
+    {
+        "task_id": "580934",
+        "url": "https://www.dafont.com/forum/read/580934/font",
+        "title": "Font",
+        "instructions": null,
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1227505.jpg",
+        "identified_font": null
+    },
+    {
+        "task_id": "580932",
+        "url": "https://www.dafont.com/forum/read/580932/font-please",
+        "title": "Font please",
+        "instructions": null,
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1227503.jpg",
+        "identified_font": null
+    },
+    {
+        "task_id": "580933",
+        "url": "https://www.dafont.com/forum/read/580933/font",
+        "title": "Font",
+        "instructions": null,
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1227504.jpg",
+        "identified_font": null
+    },
+    {
+        "task_id": "580930",
+        "url": "https://www.dafont.com/forum/read/580930/what-is-this-font",
+        "title": "What is this font?",
+        "instructions": null,
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1227495.png",
+        "identified_font": "Casagrande Grind"
     }
 ]
