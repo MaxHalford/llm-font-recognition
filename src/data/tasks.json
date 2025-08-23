@@ -27564,7 +27564,7 @@
         "url": "https://www.dafont.com/forum/read/580846/please-identity-font-for-classic-engraving",
         "title": "Please identity font for Classic engraving",
         "instructions": "ERRIN",
-        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1227338.jpg",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1227338.png?1",
         "identified_font": null
     },
     {
@@ -28125,7 +28125,7 @@
         "title": "What is the name of this font because I am a content creator for Yandere Simulator?",
         "instructions": null,
         "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1227515.png",
-        "identified_font": null
+        "identified_font": "Porky's"
     },
     {
         "task_id": "580931",
@@ -28213,7 +28213,7 @@
         "title": "Czech Casting logo",
         "instructions": "What is this font of this logo?",
         "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1227535.png",
-        "identified_font": null
+        "identified_font": "Avenir"
     },
     {
         "task_id": "580945",
@@ -28221,7 +28221,7 @@
         "title": "Font Title \"BLEEP\" by stray kids please",
         "instructions": null,
         "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1227531.jpg",
-        "identified_font": null
+        "identified_font": "Defused"
     },
     {
         "task_id": "580944",
@@ -28237,6 +28237,38 @@
         "title": "Font? Help me pls this",
         "instructions": null,
         "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1227525.jpg",
+        "identified_font": null
+    },
+    {
+        "task_id": "580957",
+        "url": "https://www.dafont.com/forum/read/580957/tittle-font-armageddon-aespa-please",
+        "title": "Tittle Font \"ARMAGEDDON\" aespa please",
+        "instructions": null,
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1227553.jpg",
+        "identified_font": null
+    },
+    {
+        "task_id": "580954",
+        "url": "https://www.dafont.com/forum/read/580954/font-used-in-mlp-tell-your-tale",
+        "title": "Font used in MLP Tell Your Tale",
+        "instructions": "Oh hey, just asking what font name is used in \"The Best of MLP Tell Your Tale\" part? Thanks.",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1227549.jpg",
+        "identified_font": null
+    },
+    {
+        "task_id": "580952",
+        "url": "https://www.dafont.com/forum/read/580952/what-s-this-font-sorry-for-the-low-quality",
+        "title": "what's this font (sorry for the low quality)",
+        "instructions": null,
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1227543.png",
+        "identified_font": null
+    },
+    {
+        "task_id": "580951",
+        "url": "https://www.dafont.com/forum/read/580951/what-font-is-this",
+        "title": "what font is this?",
+        "instructions": "can anyone identified this fonts?",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1227542.png",
         "identified_font": null
     }
 ]
