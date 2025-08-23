@@ -43513,5 +43513,59 @@
         "candidate_font_3": "Luckiest Guy",
         "candidate_font_4": "Good Dog",
         "candidate_font_5": "Burbank Big Condensed Black"
+    },
+    {
+        "task_id": "580936",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Chawp",
+        "candidate_font_2": "Good Bubble",
+        "candidate_font_3": "Kirby Classic",
+        "candidate_font_4": "Cutie Patootie",
+        "candidate_font_5": "KG A Little Swanky"
+    },
+    {
+        "task_id": "580931",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Anton",
+        "candidate_font_2": "Impact",
+        "candidate_font_3": "Haettenschweiler",
+        "candidate_font_4": "Oswald Bold",
+        "candidate_font_5": "Eurostile Extended Black"
+    },
+    {
+        "task_id": "580935",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Balloony",
+        "candidate_font_2": "Cream Candy",
+        "candidate_font_3": "Lovely Lemon",
+        "candidate_font_4": "Magnolia Sky",
+        "candidate_font_5": "Springfield"
+    },
+    {
+        "task_id": "580934",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Burgues Script",
+        "candidate_font_2": "Requiem Script",
+        "candidate_font_3": "Bellas Artes",
+        "candidate_font_4": "Eleanor Script",
+        "candidate_font_5": "Exmouth"
+    },
+    {
+        "task_id": "580932",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Gochi Hand",
+        "candidate_font_2": "Kalam",
+        "candidate_font_3": "Indie Flower",
+        "candidate_font_4": "Permanent Marker",
+        "candidate_font_5": "Patrick Hand"
+    },
+    {
+        "task_id": "580933",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Times New Roman",
+        "candidate_font_2": "Nimbus Roman No9 L",
+        "candidate_font_3": "Tinos",
+        "candidate_font_4": "Century Old Style",
+        "candidate_font_5": "Book Antiqua"
     }
 ]
