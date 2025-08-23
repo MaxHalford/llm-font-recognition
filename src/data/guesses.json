@@ -43747,5 +43747,59 @@
         "candidate_font_3": "MXGP",
         "candidate_font_4": "Race FX",
         "candidate_font_5": "Racer Number Font"
+    },
+    {
+        "task_id": "580972",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "KG Happy",
+        "candidate_font_2": "Chubby Cheeks",
+        "candidate_font_3": "Love Ya Like A Sister",
+        "candidate_font_4": "Chewy",
+        "candidate_font_5": "Balsamiq Sans"
+    },
+    {
+        "task_id": "580971",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "ITC Cheltenham Ultra",
+        "candidate_font_2": "Cheltenham Bold",
+        "candidate_font_3": "Goudy Old Style",
+        "candidate_font_4": "Windsor EF Elongated Bold",
+        "candidate_font_5": "Belwe Bold"
+    },
+    {
+        "task_id": "580970",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Agency FB",
+        "candidate_font_2": "Titillium Web",
+        "candidate_font_3": "Bank Gothic",
+        "candidate_font_4": "Eurostile",
+        "candidate_font_5": "Square 721"
+    },
+    {
+        "task_id": "580969",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Metal Mania",
+        "candidate_font_2": "Death Metalling",
+        "candidate_font_3": "Face Your Fears",
+        "candidate_font_4": "Metal Lord",
+        "candidate_font_5": "Grim Reaper"
+    },
+    {
+        "task_id": "567741",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Nunito Sans",
+        "candidate_font_2": "Inter",
+        "candidate_font_3": "Roboto",
+        "candidate_font_4": "Montserrat",
+        "candidate_font_5": "SF Pro Text"
+    },
+    {
+        "task_id": "580968",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Gotham Black",
+        "candidate_font_2": "Verlag Black",
+        "candidate_font_3": "Graphik Black",
+        "candidate_font_4": "Proxima Nova Black",
+        "candidate_font_5": "Montserrat Black"
     }
 ]
