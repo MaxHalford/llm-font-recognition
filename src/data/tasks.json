@@ -26685,7 +26685,7 @@
         "title": "Jaeguchi font",
         "instructions": "tittle font",
         "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1227081.jpg",
-        "identified_font": null
+        "identified_font": "Cottenhorn"
     },
     {
         "task_id": "580734",
@@ -26701,7 +26701,7 @@
         "title": "Jaeguchi font",
         "instructions": "tittle font",
         "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1227079.jpg",
-        "identified_font": null
+        "identified_font": "Makari"
     },
     {
         "task_id": "580732",
@@ -28174,5 +28174,21 @@
         "instructions": null,
         "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1227495.png",
         "identified_font": "Casagrande Grind"
+    },
+    {
+        "task_id": "580941",
+        "url": "https://www.dafont.com/forum/read/580941/wimzie-s-house-title-card",
+        "title": "Wimzie's House Title card",
+        "instructions": "What font is this?",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1227521.jpg",
+        "identified_font": null
+    },
+    {
+        "task_id": "580940",
+        "url": "https://www.dafont.com/forum/read/580940/wimzie-s-house-credits",
+        "title": "Wimzie's House Credits",
+        "instructions": "What font is this? Does anybody know?",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1227520.png",
+        "identified_font": null
     }
 ]
