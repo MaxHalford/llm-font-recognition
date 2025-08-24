@@ -28325,7 +28325,7 @@
         "title": "What are the fonts?",
         "instructions": null,
         "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1227555.jpg",
-        "identified_font": null
+        "identified_font": "Hibernate"
     },
     {
         "task_id": "580967",
@@ -28581,7 +28581,7 @@
         "title": "recherche police",
         "instructions": "je cherche cette police ou il est \u00e9crit dance party music merci",
         "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1227630.jpg",
-        "identified_font": null
+        "identified_font": "Carrington"
     },
     {
         "task_id": "580998",
@@ -28637,6 +28637,46 @@
         "title": "find font please and thanks help",
         "instructions": "i need help finding both top font and big letters font please and thanks",
         "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1227653.png",
+        "identified_font": null
+    },
+    {
+        "task_id": "581009",
+        "url": "https://www.dafont.com/forum/read/581009/font-please-special-a",
+        "title": "FONT PLEASE ? special A",
+        "instructions": null,
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1227666.jpg",
+        "identified_font": null
+    },
+    {
+        "task_id": "581008",
+        "url": "https://www.dafont.com/forum/read/581008/quelle-est-cette-police-svp",
+        "title": "Quelle est cette police svp ???",
+        "instructions": "Je cherche quelle pourrait \u00eatre cette police d'\u00e9criture s'il vous pla\u00eet ?",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1227665.jpg",
+        "identified_font": null
+    },
+    {
+        "task_id": "446002",
+        "url": "https://www.dafont.com/forum/read/446002/supreme-clientele-by-ghostface-killah",
+        "title": "\"Supreme Clientele\" by Ghostface Killah",
+        "instructions": "Hi! Does anybody know what font has been used here or knows a very similar one? Thank you!",
+        "img_url": "https://www.dafont.com/forum/attach/orig/9/5/954000.jpg",
+        "identified_font": null
+    },
+    {
+        "task_id": "581007",
+        "url": "https://www.dafont.com/forum/read/581007/red-bull-font-plzz",
+        "title": "Red bull font plzz",
+        "instructions": null,
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1227661.jpg",
+        "identified_font": null
+    },
+    {
+        "task_id": "581006",
+        "url": "https://www.dafont.com/forum/read/581006/can-someone-identify-the-font-please",
+        "title": "Can someone identify the font please?",
+        "instructions": null,
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1227660.png",
         "identified_font": null
     }
 ]
