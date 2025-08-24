@@ -28517,7 +28517,7 @@
         "title": "Font for \"OF you\"",
         "instructions": null,
         "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1227615.png",
-        "identified_font": null
+        "identified_font": "Devil Candle"
     },
     {
         "task_id": "580990",
@@ -28541,6 +28541,14 @@
         "title": "font identify",
         "instructions": "i see a lot of people and youtubers using this font and i wanna know what it is",
         "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1227610.png",
+        "identified_font": "Porky's"
+    },
+    {
+        "task_id": "485629",
+        "url": "https://www.dafont.com/forum/read/485629/masters-of-the-universe-2021",
+        "title": "Masters of the Universe (2021)",
+        "instructions": null,
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/0/1033678.jpg",
         "identified_font": null
     }
 ]
