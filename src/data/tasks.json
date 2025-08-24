@@ -26997,7 +26997,7 @@
         "title": "Someone know the font of Charles ?",
         "instructions": null,
         "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1227155.png",
-        "identified_font": null
+        "identified_font": "Royal Wedding"
     },
     {
         "task_id": "580756",
@@ -28405,7 +28405,7 @@
         "title": "Seina Velazques",
         "instructions": "help please",
         "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1227597.jpg",
-        "identified_font": null
+        "identified_font": "Anggrek"
     },
     {
         "task_id": "580978",
@@ -28509,6 +28509,38 @@
         "title": "Lady Gaga's Mayhem Tour Font",
         "instructions": null,
         "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1227602.jpg",
+        "identified_font": null
+    },
+    {
+        "task_id": "580991",
+        "url": "https://www.dafont.com/forum/read/580991/font-for-of-you",
+        "title": "Font for \"OF you\"",
+        "instructions": null,
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1227615.png",
+        "identified_font": null
+    },
+    {
+        "task_id": "580990",
+        "url": "https://www.dafont.com/forum/read/580990/fonts-please",
+        "title": "FONTS PLEASE",
+        "instructions": null,
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1227613.jpg",
+        "identified_font": null
+    },
+    {
+        "task_id": "580989",
+        "url": "https://www.dafont.com/forum/read/580989/font-identification",
+        "title": "Font Identification",
+        "instructions": "Help me, What's the name of this arabic font?",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1227612.png",
+        "identified_font": null
+    },
+    {
+        "task_id": "580988",
+        "url": "https://www.dafont.com/forum/read/580988/font-identify",
+        "title": "font identify",
+        "instructions": "i see a lot of people and youtubers using this font and i wanna know what it is",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1227610.png",
         "identified_font": null
     }
 ]
