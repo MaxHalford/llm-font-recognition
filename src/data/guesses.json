@@ -43864,5 +43864,68 @@
         "candidate_font_3": "Impact",
         "candidate_font_4": "Bebas Neue",
         "candidate_font_5": "Oswald Bold"
+    },
+    {
+        "task_id": "580987",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Defiance Bold Italic",
+        "candidate_font_2": "SF Sports Night",
+        "candidate_font_3": "Big Noodle Titling Oblique",
+        "candidate_font_4": "Agency FB Bold Italic",
+        "candidate_font_5": "Octin Sports Bold"
+    },
+    {
+        "task_id": "580986",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Cairo",
+        "candidate_font_2": "Almarai",
+        "candidate_font_3": "Tajawal",
+        "candidate_font_4": "Mada",
+        "candidate_font_5": "Droid Arabic Kufi"
+    },
+    {
+        "task_id": "580985",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "GE SS Text Bold",
+        "candidate_font_2": "Hacen Tunisia",
+        "candidate_font_3": "Boutros Advertising",
+        "candidate_font_4": "Kufi Standard",
+        "candidate_font_5": "Al-Hurra Bold"
+    },
+    {
+        "task_id": "580984",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Sigmar",
+        "candidate_font_2": "Fredoka One",
+        "candidate_font_3": "Luckiest Guy",
+        "candidate_font_4": "Lilita One",
+        "candidate_font_5": "Varela Round"
+    },
+    {
+        "task_id": "353994",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Love Ya Like A Sister",
+        "candidate_font_2": "Schoolbell",
+        "candidate_font_3": "Pangolin",
+        "candidate_font_4": "Patrick Hand",
+        "candidate_font_5": "Mali"
+    },
+    {
+        "task_id": "335147",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Burbank Big W00 Black",
+        "candidate_font_2": "Montserrat SemiBold",
+        "candidate_font_3": "Fredoka One",
+        "candidate_font_4": "Luckiest Guy",
+        "candidate_font_5": "VAG Rounded Bold"
+    },
+    {
+        "task_id": "580983",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Trade Gothic Next BOLD",
+        "candidate_font_2": "Gotham Black",
+        "candidate_font_3": "Montserrat Light",
+        "candidate_font_4": "Bickham Script Pro 3",
+        "candidate_font_5": "Requiem Script"
     }
 ]
