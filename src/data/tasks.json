@@ -28454,5 +28454,61 @@
         "instructions": "pls if you know the name of this font, write it here. It is a famous font, maybe you\u0092ll know. In the white text you can see it more clearly. Thx.",
         "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1227586.png",
         "identified_font": null
+    },
+    {
+        "task_id": "580987",
+        "url": "https://www.dafont.com/forum/read/580987/i-m-looking",
+        "title": "i'm looking",
+        "instructions": "the name of the font used on the top line.",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1227609.png",
+        "identified_font": null
+    },
+    {
+        "task_id": "580986",
+        "url": "https://www.dafont.com/forum/read/580986/font-identification",
+        "title": "Font Identification",
+        "instructions": "Help me, What's the name of this arabic font?",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1227608.png",
+        "identified_font": null
+    },
+    {
+        "task_id": "580985",
+        "url": "https://www.dafont.com/forum/read/580985/arabic-font",
+        "title": "Arabic font",
+        "instructions": "Help me, What's the name of this arabic font?",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1227607.png",
+        "identified_font": null
+    },
+    {
+        "task_id": "580984",
+        "url": "https://www.dafont.com/forum/read/580984/pikwik-pack-opening-credits-font",
+        "title": "Pikwik Pack opening credits font",
+        "instructions": "The name font is Sigmar.",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1227603.png",
+        "identified_font": null
+    },
+    {
+        "task_id": "353994",
+        "url": "https://www.dafont.com/forum/read/353994/font-plz",
+        "title": "font plz",
+        "instructions": "NO THICC VERSION PLZ",
+        "img_url": "https://www.dafont.com/forum/attach/orig/7/7/772964.png",
+        "identified_font": null
+    },
+    {
+        "task_id": "335147",
+        "url": "https://www.dafont.com/forum/read/335147/credits-font",
+        "title": "Credits font",
+        "instructions": "I KEEP FINDING THE FONT AND I FIND NOTHING",
+        "img_url": "https://www.dafont.com/forum/attach/orig/7/3/734256.png?1",
+        "identified_font": null
+    },
+    {
+        "task_id": "580983",
+        "url": "https://www.dafont.com/forum/read/580983/lady-gaga-s-mayhem-tour-font",
+        "title": "Lady Gaga's Mayhem Tour Font",
+        "instructions": null,
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1227602.jpg",
+        "identified_font": null
     }
 ]
