@@ -27756,7 +27756,7 @@
         "url": "https://www.dafont.com/forum/read/580874/what-are-the-fonts-have-been-used-here",
         "title": "what are the fonts have been used here?",
         "instructions": null,
-        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1227394.png",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1227394.png?1",
         "identified_font": null
     },
     {
@@ -28549,6 +28549,38 @@
         "title": "Masters of the Universe (2021)",
         "instructions": null,
         "img_url": "https://www.dafont.com/forum/attach/orig/1/0/1033678.jpg",
+        "identified_font": null
+    },
+    {
+        "task_id": "580995",
+        "url": "https://www.dafont.com/forum/read/580995/font-tittle-xxl-by-young-posse-please",
+        "title": "Font Tittle \"XXL\" by Young Posse please",
+        "instructions": null,
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1227633.jpg",
+        "identified_font": null
+    },
+    {
+        "task_id": "580994",
+        "url": "https://www.dafont.com/forum/read/580994/what-is-this-font-please",
+        "title": "What is this font please?",
+        "instructions": "Many thanks for your help.",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1227632.png",
+        "identified_font": null
+    },
+    {
+        "task_id": "580993",
+        "url": "https://www.dafont.com/forum/read/580993/help-me-identification",
+        "title": "Help me! Identification",
+        "instructions": "Help me, please? Name font type?",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1227631.jpg",
+        "identified_font": null
+    },
+    {
+        "task_id": "580992",
+        "url": "https://www.dafont.com/forum/read/580992/recherche-police",
+        "title": "recherche police",
+        "instructions": "je cherche cette police ou il est \u00e9crit dance party music merci",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1227630.jpg",
         "identified_font": null
     }
 ]
