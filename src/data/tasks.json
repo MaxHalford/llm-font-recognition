@@ -28582,5 +28582,29 @@
         "instructions": "je cherche cette police ou il est \u00e9crit dance party music merci",
         "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1227630.jpg",
         "identified_font": null
+    },
+    {
+        "task_id": "580998",
+        "url": "https://www.dafont.com/forum/read/580998/fotnt",
+        "title": "Fotnt",
+        "instructions": null,
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1227639.png",
+        "identified_font": null
+    },
+    {
+        "task_id": "580997",
+        "url": "https://www.dafont.com/forum/read/580997/help-me",
+        "title": "help me",
+        "instructions": null,
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1227637.jpg",
+        "identified_font": null
+    },
+    {
+        "task_id": "580996",
+        "url": "https://www.dafont.com/forum/read/580996/font",
+        "title": "font?",
+        "instructions": "thanks!",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1227634.jpg",
+        "identified_font": null
     }
 ]
