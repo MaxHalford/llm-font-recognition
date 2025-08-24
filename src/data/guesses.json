@@ -44035,5 +44035,32 @@
         "candidate_font_3": "Gotham",
         "candidate_font_4": "Brandon Grotesque",
         "candidate_font_5": "Circular Std"
+    },
+    {
+        "task_id": "581001",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Astrex",
+        "candidate_font_2": "Gunship",
+        "candidate_font_3": "Eurostile Extended Bold",
+        "candidate_font_4": "Bank Gothic Medium",
+        "candidate_font_5": "SF Square Head"
+    },
+    {
+        "task_id": "581000",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "New Yorker Type B",
+        "candidate_font_2": "Mesquite Std Bold",
+        "candidate_font_3": "Portcullis",
+        "candidate_font_4": "Playbill",
+        "candidate_font_5": "Windsor Bold"
+    },
+    {
+        "task_id": "580999",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Agency FB Bold Extended",
+        "candidate_font_2": "Bank Gothic Medium",
+        "candidate_font_3": "Eurostile Bold Extended",
+        "candidate_font_4": "Space Marine",
+        "candidate_font_5": "Conthrax Bold"
     }
 ]
