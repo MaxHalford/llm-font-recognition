@@ -43963,5 +43963,14 @@
         "candidate_font_3": "Chewy",
         "candidate_font_4": "Fredoka One",
         "candidate_font_5": "KG Red Hands"
+    },
+    {
+        "task_id": "485629",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "He-Man and the Masters of the Universe (GemFonts)",
+        "candidate_font_2": "Bebas Neue Bold",
+        "candidate_font_3": "MotU (Brigand)",
+        "candidate_font_4": "Bank Gothic Medium",
+        "candidate_font_5": "Agency FB Bold Condensed"
     }
 ]
