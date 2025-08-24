@@ -44071,5 +44071,50 @@
         "candidate_font_3": "Obelix Pro",
         "candidate_font_4": "War Machine Outline",
         "candidate_font_5": ""
+    },
+    {
+        "task_id": "581009",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Modena",
+        "candidate_font_2": "Glamour Absolute",
+        "candidate_font_3": "Luxerie",
+        "candidate_font_4": "Lavigne",
+        "candidate_font_5": "Marcellina"
+    },
+    {
+        "task_id": "581008",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Amarone Script",
+        "candidate_font_2": "Magnolia Sky",
+        "candidate_font_3": "Adora Bouton",
+        "candidate_font_4": "Beautiful People Personal Use",
+        "candidate_font_5": "Hello Sweety"
+    },
+    {
+        "task_id": "446002",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Shelley Script Allegro",
+        "candidate_font_2": "Shelley Script Andante",
+        "candidate_font_3": "Kuenstler Script",
+        "candidate_font_4": "Belmont Script",
+        "candidate_font_5": "Edwardian Script ITC"
+    },
+    {
+        "task_id": "581007",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Univers",
+        "candidate_font_2": "Gotham",
+        "candidate_font_3": "Avenir Next",
+        "candidate_font_4": "Akzidenz-Grotesk",
+        "candidate_font_5": "Swiss 721"
+    },
+    {
+        "task_id": "581006",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Planet Cosmos",
+        "candidate_font_2": "SF Transrobotics",
+        "candidate_font_3": "Space Cadets",
+        "candidate_font_4": "Electrolize",
+        "candidate_font_5": "Orbitron"
     }
 ]
