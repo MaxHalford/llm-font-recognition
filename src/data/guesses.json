@@ -44008,5 +44008,32 @@
         "candidate_font_3": "",
         "candidate_font_4": "",
         "candidate_font_5": ""
+    },
+    {
+        "task_id": "580998",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Akzidenz-Grotesk Super",
+        "candidate_font_2": "Akzidenz-Grotesk Light",
+        "candidate_font_3": "Akzidenz-Grotesk Medium",
+        "candidate_font_4": "Janson Text",
+        "candidate_font_5": null
+    },
+    {
+        "task_id": "580997",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Gotham Rounded",
+        "candidate_font_2": "Proxima Nova Soft",
+        "candidate_font_3": "Nunito Sans",
+        "candidate_font_4": "Varela Round",
+        "candidate_font_5": "Quicksand"
+    },
+    {
+        "task_id": "580996",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Proxima Nova",
+        "candidate_font_2": "Montserrat",
+        "candidate_font_3": "Gotham",
+        "candidate_font_4": "Brandon Grotesque",
+        "candidate_font_5": "Circular Std"
     }
 ]
