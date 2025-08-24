@@ -28225,8 +28225,8 @@
     },
     {
         "task_id": "580944",
-        "url": "https://www.dafont.com/forum/read/580944/title-font-ceremony-straykids-please",
-        "title": "Title font ceremony straykids please",
+        "url": "https://www.dafont.com/forum/read/580944/font-tittle-ceremony-by-straykids-please",
+        "title": "Font tittle \"CEREMONY\" by straykids please",
         "instructions": null,
         "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1227527.jpg",
         "identified_font": null
@@ -28509,7 +28509,7 @@
         "title": "Lady Gaga's Mayhem Tour Font",
         "instructions": null,
         "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1227602.jpg",
-        "identified_font": null
+        "identified_font": "Origins"
     },
     {
         "task_id": "580991",
@@ -28605,6 +28605,30 @@
         "title": "font?",
         "instructions": "thanks!",
         "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1227634.jpg",
+        "identified_font": null
+    },
+    {
+        "task_id": "581001",
+        "url": "https://www.dafont.com/forum/read/581001/kamen-rider-dragon-knight-episode-title-font",
+        "title": "Kamen Rider Dragon Knight episode title font",
+        "instructions": "Where's the font for the Kamen Rider Dragon Knight episode title?",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1227648.png",
+        "identified_font": null
+    },
+    {
+        "task_id": "581000",
+        "url": "https://www.dafont.com/forum/read/581000/font-id-please",
+        "title": "Font ID please",
+        "instructions": null,
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1227646.png",
+        "identified_font": null
+    },
+    {
+        "task_id": "580999",
+        "url": "https://www.dafont.com/forum/read/580999/need-help-identifying-this-font",
+        "title": "Need help identifying this font",
+        "instructions": null,
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1227645.png",
         "identified_font": null
     }
 ]
