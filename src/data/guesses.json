@@ -44062,5 +44062,14 @@
         "candidate_font_3": "Eurostile Bold Extended",
         "candidate_font_4": "Space Marine",
         "candidate_font_5": "Conthrax Bold"
+    },
+    {
+        "task_id": "581002",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "SF Square Head Inline",
+        "candidate_font_2": "War Machine Dirty",
+        "candidate_font_3": "Obelix Pro",
+        "candidate_font_4": "War Machine Outline",
+        "candidate_font_5": ""
     }
 ]
