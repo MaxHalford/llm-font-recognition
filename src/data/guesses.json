@@ -43927,5 +43927,41 @@
         "candidate_font_3": "Montserrat Light",
         "candidate_font_4": "Bickham Script Pro 3",
         "candidate_font_5": "Requiem Script"
+    },
+    {
+        "task_id": "580991",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Optimus Princeps",
+        "candidate_font_2": "Palace of the Fallen",
+        "candidate_font_3": "Cinzel",
+        "candidate_font_4": "Trajan Pro",
+        "candidate_font_5": "Augusta"
+    },
+    {
+        "task_id": "580990",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Cormorant Garamond",
+        "candidate_font_2": "Futura Light",
+        "candidate_font_3": "",
+        "candidate_font_4": "",
+        "candidate_font_5": ""
+    },
+    {
+        "task_id": "580989",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Boutros Advertising",
+        "candidate_font_2": "Hacen Tunisia",
+        "candidate_font_3": "Al-Jazeera",
+        "candidate_font_4": "Al-Harf Al-Jadid",
+        "candidate_font_5": "GE SS Text Book"
+    },
+    {
+        "task_id": "580988",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Bubblegum Sans",
+        "candidate_font_2": "Burbank Big Condensed",
+        "candidate_font_3": "Chewy",
+        "candidate_font_4": "Fredoka One",
+        "candidate_font_5": "KG Red Hands"
     }
 ]
