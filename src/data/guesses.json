@@ -43972,5 +43972,41 @@
         "candidate_font_3": "MotU (Brigand)",
         "candidate_font_4": "Bank Gothic Medium",
         "candidate_font_5": "Agency FB Bold Condensed"
+    },
+    {
+        "task_id": "580995",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Gotham Black",
+        "candidate_font_2": "Montserrat Black",
+        "candidate_font_3": "Avenir Next Pro Heavy",
+        "candidate_font_4": "Univers 93 Extended Black",
+        "candidate_font_5": "Gobold Extra2"
+    },
+    {
+        "task_id": "580994",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Permanent Marker",
+        "candidate_font_2": "Gloria Hallelujah",
+        "candidate_font_3": "Rock Salt",
+        "candidate_font_4": "Crayon Hand",
+        "candidate_font_5": "Marker Felt"
+    },
+    {
+        "task_id": "580993",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Bombing",
+        "candidate_font_2": "Vandals",
+        "candidate_font_3": "Wild Ones",
+        "candidate_font_4": "Street Cred",
+        "candidate_font_5": "Whoa Baby!"
+    },
+    {
+        "task_id": "580992",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Brilliant Signature",
+        "candidate_font_2": "The Signature",
+        "candidate_font_3": "",
+        "candidate_font_4": "",
+        "candidate_font_5": ""
     }
 ]
