@@ -44368,5 +44368,59 @@
         "candidate_font_3": "Action Man",
         "candidate_font_4": "Komika Title",
         "candidate_font_5": "Groovy"
+    },
+    {
+        "task_id": "581057",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Octin Vintage",
+        "candidate_font_2": "DIN 1451",
+        "candidate_font_3": "Impact",
+        "candidate_font_4": "Bebas Neue",
+        "candidate_font_5": "Bank Gothic"
+    },
+    {
+        "task_id": "581056",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Trajan Pro",
+        "candidate_font_2": "Minion Pro Italic",
+        "candidate_font_3": "Requiem Text Italic",
+        "candidate_font_4": "Adobe Jenson Pro Italic",
+        "candidate_font_5": "Centaur Italic"
+    },
+    {
+        "task_id": "581055",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Stay Gracious",
+        "candidate_font_2": "Magnolia Sky",
+        "candidate_font_3": "The Signature",
+        "candidate_font_4": "Beauty Dream",
+        "candidate_font_5": "Brilliant Signature"
+    },
+    {
+        "task_id": "581054",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Pinto Noir",
+        "candidate_font_2": "Vegas Slab Regular",
+        "candidate_font_3": "Trocadero",
+        "candidate_font_4": "Recife Bold",
+        "candidate_font_5": "Good Ol' Days Regular"
+    },
+    {
+        "task_id": "581052",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Poppins Bold",
+        "candidate_font_2": "Montserrat Bold",
+        "candidate_font_3": "Proxima Nova Bold",
+        "candidate_font_4": "Gotham Bold",
+        "candidate_font_5": "Inter Bold"
+    },
+    {
+        "task_id": "581050",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Requiem Display",
+        "candidate_font_2": "Didot (decorative variant)",
+        "candidate_font_3": "Playfair Display Swash",
+        "candidate_font_4": "Lutetia",
+        "candidate_font_5": "ITC Benguiat"
     }
 ]
