@@ -28557,7 +28557,7 @@
         "title": "Font Tittle \"XXL\" by Young Posse please",
         "instructions": null,
         "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1227633.jpg",
-        "identified_font": null
+        "identified_font": "Voca"
     },
     {
         "task_id": "580994",
@@ -28668,8 +28668,8 @@
         "url": "https://www.dafont.com/forum/read/581007/red-bull-font-plzz",
         "title": "Red bull font plzz",
         "instructions": null,
-        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1227661.jpg",
-        "identified_font": null
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1227661.png?1",
+        "identified_font": "Rotis Sans Serif"
     },
     {
         "task_id": "581006",
@@ -28685,7 +28685,7 @@
         "title": "AMkindom watermark",
         "instructions": "What is this font of this watermark?",
         "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1227680.jpg",
-        "identified_font": null
+        "identified_font": "Myriad"
     },
     {
         "task_id": "581016",
@@ -28732,7 +28732,7 @@
         "url": "https://www.dafont.com/forum/read/581024/what-are-the-fonts-tia",
         "title": "What are the fonts? TIA",
         "instructions": null,
-        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1227692.jpg",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1227692.png?1",
         "identified_font": "Cinzel"
     },
     {
@@ -28756,16 +28756,16 @@
         "url": "https://www.dafont.com/forum/read/581021/tittle-font-1-only-xlov-please",
         "title": "Tittle font \"1&ONLY\" Xlov please",
         "instructions": null,
-        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1227688.jpg",
-        "identified_font": null
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1227688.png?1",
+        "identified_font": "Holyrock"
     },
     {
         "task_id": "581020",
         "url": "https://www.dafont.com/forum/read/581020/what-the-font-help-me-please",
         "title": "What the font? Help me, please!",
         "instructions": null,
-        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1227687.jpg",
-        "identified_font": null
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1227687.png?1",
+        "identified_font": "Rotulo Condensed Fat Oblique"
     },
     {
         "task_id": "581018",
@@ -28773,6 +28773,14 @@
         "title": "MOVEMENT",
         "instructions": "The quality is shitty.. But it's all we got.",
         "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1227681.png",
+        "identified_font": null
+    },
+    {
+        "task_id": "581025",
+        "url": "https://www.dafont.com/forum/read/581025/my-youth-font",
+        "title": "My Youth Font",
+        "instructions": null,
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1227699.jpg",
         "identified_font": null
     }
 ]
