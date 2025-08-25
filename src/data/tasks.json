@@ -28813,7 +28813,7 @@
         "title": "Chainsaw Man",
         "instructions": "I need to find the font used here. It's used both in this Chainsaw Man album, and also in the Alice in Borderland logo (\"in Borderland\" text at the end of the first opening). Thanks.",
         "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1227724.png",
-        "identified_font": null
+        "identified_font": "American Text"
     },
     {
         "task_id": "581028",
@@ -28877,7 +28877,7 @@
         "title": "Bella Mar\u00ec",
         "instructions": null,
         "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1227740.png",
-        "identified_font": null
+        "identified_font": "Buffalo"
     },
     {
         "task_id": "581048",
@@ -28885,15 +28885,15 @@
         "title": "taylor swift font please?",
         "instructions": "name of the font please",
         "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1227738.png",
-        "identified_font": null
+        "identified_font": "Gazzetta"
     },
     {
         "task_id": "581047",
         "url": "https://www.dafont.com/forum/read/581047/all-fonts-please",
         "title": "all fonts please",
         "instructions": null,
-        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1227737.png",
-        "identified_font": null
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1227737.png?1",
+        "identified_font": "Sacramento"
     },
     {
         "task_id": "581043",
@@ -28933,6 +28933,54 @@
         "title": "What font is this?",
         "instructions": null,
         "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1227727.png",
+        "identified_font": null
+    },
+    {
+        "task_id": "581057",
+        "url": "https://www.dafont.com/forum/read/581057/font-help",
+        "title": "Font Help",
+        "instructions": null,
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1227757.jpg",
+        "identified_font": null
+    },
+    {
+        "task_id": "581056",
+        "url": "https://www.dafont.com/forum/read/581056/what-font-it-this-fire-emblem-three-houses-logo",
+        "title": "What font it this? Fire Emblem Three Houses logo",
+        "instructions": "",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1227756.png",
+        "identified_font": null
+    },
+    {
+        "task_id": "581055",
+        "url": "https://www.dafont.com/forum/read/581055/what-font-name",
+        "title": "(What) font name",
+        "instructions": "font name pls",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1227754.jpg",
+        "identified_font": null
+    },
+    {
+        "task_id": "581054",
+        "url": "https://www.dafont.com/forum/read/581054/font",
+        "title": "Font",
+        "instructions": null,
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1227751.jpg",
+        "identified_font": null
+    },
+    {
+        "task_id": "581052",
+        "url": "https://www.dafont.com/forum/read/581052/help-me-identify-this-font-please",
+        "title": "Help me identify this font please",
+        "instructions": null,
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1227744.jpg",
+        "identified_font": null
+    },
+    {
+        "task_id": "581050",
+        "url": "https://www.dafont.com/forum/read/581050/looking-for-a-font",
+        "title": "Looking for a font",
+        "instructions": null,
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1227742.png",
         "identified_font": null
     }
 ]
