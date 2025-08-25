@@ -44116,5 +44116,50 @@
         "candidate_font_3": "Space Cadets",
         "candidate_font_4": "Electrolize",
         "candidate_font_5": "Orbitron"
+    },
+    {
+        "task_id": "581017",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Proxima Nova",
+        "candidate_font_2": "Brandon Grotesque",
+        "candidate_font_3": "Gotham",
+        "candidate_font_4": "Avenir",
+        "candidate_font_5": "Circular"
+    },
+    {
+        "task_id": "581016",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Iron Sharp",
+        "candidate_font_2": "Capture It",
+        "candidate_font_3": "SF Transrobotics",
+        "candidate_font_4": "Octin Sports",
+        "candidate_font_5": "Death Rattle"
+    },
+    {
+        "task_id": "581015",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Good Feeling Sans Bold",
+        "candidate_font_2": "Open Sans",
+        "candidate_font_3": "Good Feeling Sans",
+        "candidate_font_4": "Chewy",
+        "candidate_font_5": "Bubblegum Sans"
+    },
+    {
+        "task_id": "581013",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Metal Lord",
+        "candidate_font_2": "Death Rattle",
+        "candidate_font_3": "Space Age",
+        "candidate_font_4": "Cyberpunk",
+        "candidate_font_5": "Shatter"
+    },
+    {
+        "task_id": "581012",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Stardos Stencil",
+        "candidate_font_2": "Anton",
+        "candidate_font_3": "Montserrat Black",
+        "candidate_font_4": "Gotham Black",
+        "candidate_font_5": "Franklin Gothic Heavy"
     }
 ]
