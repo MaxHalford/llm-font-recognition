@@ -44215,5 +44215,14 @@
         "candidate_font_3": "Buttercup",
         "candidate_font_4": "Bright Sight",
         "candidate_font_5": "Magnolia Sky"
+    },
+    {
+        "task_id": "581026",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Marvin Visions",
+        "candidate_font_2": "VAG Rounded",
+        "candidate_font_3": "Rubik",
+        "candidate_font_4": "Quicksand",
+        "candidate_font_5": "Gelion"
     }
 ]
