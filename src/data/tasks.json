@@ -28645,7 +28645,7 @@
         "title": "FONT PLEASE ? special A",
         "instructions": null,
         "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1227666.jpg",
-        "identified_font": null
+        "identified_font": "Rosalia"
     },
     {
         "task_id": "581008",
@@ -28725,6 +28725,54 @@
         "title": "Bono must die logo",
         "instructions": "Does anyone happen to know the font used for a band called bono must die?",
         "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1227671.png",
+        "identified_font": null
+    },
+    {
+        "task_id": "581024",
+        "url": "https://www.dafont.com/forum/read/581024/what-are-the-fonts-tia",
+        "title": "What are the fonts? TIA",
+        "instructions": null,
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1227692.jpg",
+        "identified_font": "Cinzel"
+    },
+    {
+        "task_id": "581019",
+        "url": "https://www.dafont.com/forum/read/581019/fnt-req-i-feel-slightly-ashamed-that-i-m-asking-this",
+        "title": "[FNT-REQ] I feel slightly ashamed that I'm asking this",
+        "instructions": "The image provided is a cleaned up black-and-white version of the text from a Roblox game.",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1227684.png",
+        "identified_font": null
+    },
+    {
+        "task_id": "581022",
+        "url": "https://www.dafont.com/forum/read/581022/font",
+        "title": "font?",
+        "instructions": null,
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1227689.png",
+        "identified_font": null
+    },
+    {
+        "task_id": "581021",
+        "url": "https://www.dafont.com/forum/read/581021/tittle-font-1-only-xlov-please",
+        "title": "Tittle font \"1&ONLY\" Xlov please",
+        "instructions": null,
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1227688.jpg",
+        "identified_font": null
+    },
+    {
+        "task_id": "581020",
+        "url": "https://www.dafont.com/forum/read/581020/what-the-font-help-me-please",
+        "title": "What the font? Help me, please!",
+        "instructions": null,
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1227687.jpg",
+        "identified_font": null
+    },
+    {
+        "task_id": "581018",
+        "url": "https://www.dafont.com/forum/read/581018/movement",
+        "title": "MOVEMENT",
+        "instructions": "The quality is shitty.. But it's all we got.",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1227681.png",
         "identified_font": null
     }
 ]
