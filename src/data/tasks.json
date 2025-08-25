@@ -28637,7 +28637,7 @@
         "title": "find font please and thanks help",
         "instructions": "i need help finding both top font and big letters font please and thanks",
         "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1227653.png",
-        "identified_font": null
+        "identified_font": "Aircruiser"
     },
     {
         "task_id": "581009",
@@ -28677,6 +28677,54 @@
         "title": "Can someone identify the font please?",
         "instructions": null,
         "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1227660.png",
+        "identified_font": null
+    },
+    {
+        "task_id": "581017",
+        "url": "https://www.dafont.com/forum/read/581017/amkindom-watermark",
+        "title": "AMkindom watermark",
+        "instructions": "What is this font of this watermark?",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1227680.jpg",
+        "identified_font": null
+    },
+    {
+        "task_id": "581016",
+        "url": "https://www.dafont.com/forum/read/581016/what-s-the-font-for-this",
+        "title": "What's the font for this?",
+        "instructions": null,
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1227679.png",
+        "identified_font": null
+    },
+    {
+        "task_id": "581015",
+        "url": "https://www.dafont.com/forum/read/581015/guys-please-let-me-know-this-font-name-i-ve-been-searching-for-years",
+        "title": "Guys please let me know this font name i've been searching for years",
+        "instructions": null,
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1227677.jpg",
+        "identified_font": null
+    },
+    {
+        "task_id": "581014",
+        "url": "https://www.dafont.com/forum/read/581014/font-help-please",
+        "title": "Font help please",
+        "instructions": "Anyone know these 2 fonts?",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1227673.jpg",
+        "identified_font": "Onyx"
+    },
+    {
+        "task_id": "581013",
+        "url": "https://www.dafont.com/forum/read/581013/test-icicles-logo-font",
+        "title": "Test Icicles logo font",
+        "instructions": "It would be very helpful if someone could identify the font used for this logo",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1227672.jpg",
+        "identified_font": null
+    },
+    {
+        "task_id": "581012",
+        "url": "https://www.dafont.com/forum/read/581012/bono-must-die-logo",
+        "title": "Bono must die logo",
+        "instructions": "Does anyone happen to know the font used for a band called bono must die?",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1227671.png",
         "identified_font": null
     }
 ]
