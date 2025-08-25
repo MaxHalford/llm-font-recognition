@@ -44161,5 +44161,50 @@
         "candidate_font_3": "Montserrat Black",
         "candidate_font_4": "Gotham Black",
         "candidate_font_5": "Franklin Gothic Heavy"
+    },
+    {
+        "task_id": "581019",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Luckiest Guy",
+        "candidate_font_2": "Impact",
+        "candidate_font_3": "Anton",
+        "candidate_font_4": "Oswald ExtraBold",
+        "candidate_font_5": "Montserrat Black"
+    },
+    {
+        "task_id": "581022",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Myriad Pro Black",
+        "candidate_font_2": "Lato Black",
+        "candidate_font_3": "Montserrat Black",
+        "candidate_font_4": "Source Sans Pro Black",
+        "candidate_font_5": "Roboto Black"
+    },
+    {
+        "task_id": "581021",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Keep On Truckin'",
+        "candidate_font_2": "Blacklisted",
+        "candidate_font_3": "Permanent Marker",
+        "candidate_font_4": "Rock Star",
+        "candidate_font_5": "Chalk Hand Lettering Shaded"
+    },
+    {
+        "task_id": "581020",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Proxima Nova Black",
+        "candidate_font_2": "Proxima Nova Bold",
+        "candidate_font_3": "Proxima Nova Regular",
+        "candidate_font_4": "Poppins Black",
+        "candidate_font_5": "Gotham Black"
+    },
+    {
+        "task_id": "581018",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Gotham Black",
+        "candidate_font_2": "Montserrat Black",
+        "candidate_font_3": "Avenir Black",
+        "candidate_font_4": "Open Sans Extrabold",
+        "candidate_font_5": "Noto Sans Black"
     }
 ]
