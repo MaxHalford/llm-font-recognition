@@ -44422,5 +44422,77 @@
         "candidate_font_3": "Playfair Display Swash",
         "candidate_font_4": "Lutetia",
         "candidate_font_5": "ITC Benguiat"
+    },
+    {
+        "task_id": "581072",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "VAG Rounded",
+        "candidate_font_2": "Frankfurter",
+        "candidate_font_3": "Rubik",
+        "candidate_font_4": "Quicksand",
+        "candidate_font_5": "Panton Round"
+    },
+    {
+        "task_id": "581071",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Compacta Bold",
+        "candidate_font_2": "Pabst Old Style Italic",
+        "candidate_font_3": "Alternate Gothic No. 2 Bold",
+        "candidate_font_4": "Franklin Gothic Condensed Bold",
+        "candidate_font_5": "Goudy Old Style Italic"
+    },
+    {
+        "task_id": "581070",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Egiziano Black",
+        "candidate_font_2": "Goudy Old Style",
+        "candidate_font_3": "Adobe Caslon",
+        "candidate_font_4": "Melior",
+        "candidate_font_5": "Baskerville"
+    },
+    {
+        "task_id": "581069",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Capture It",
+        "candidate_font_2": "Ethnocentric",
+        "candidate_font_3": "Agency FB",
+        "candidate_font_4": "BankGothic",
+        "candidate_font_5": "Microgramma"
+    },
+    {
+        "task_id": "581067",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Bickham Script Pro",
+        "candidate_font_2": "Aphrodite Pro",
+        "candidate_font_3": "Burgues Script",
+        "candidate_font_4": "Desire Text",
+        "candidate_font_5": "Adelicia Script"
+    },
+    {
+        "task_id": "581066",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Amatic SC",
+        "candidate_font_2": "KG Fall For You",
+        "candidate_font_3": "Love Ya Like A Sister",
+        "candidate_font_4": "Coming Soon",
+        "candidate_font_5": "Architects Daughter"
+    },
+    {
+        "task_id": "581064",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Playfair Display",
+        "candidate_font_2": "Oswald",
+        "candidate_font_3": "Lora",
+        "candidate_font_4": "Didot",
+        "candidate_font_5": "Crimson Pro"
+    },
+    {
+        "task_id": "581060",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Magnolia Sky",
+        "candidate_font_2": "Poppins Light",
+        "candidate_font_3": "Hello Lovely",
+        "candidate_font_4": "Bright Sunshine",
+        "candidate_font_5": "Montserrat Light"
     }
 ]
