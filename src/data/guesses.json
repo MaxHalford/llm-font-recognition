@@ -44224,5 +44224,86 @@
         "candidate_font_3": "Rubik",
         "candidate_font_4": "Quicksand",
         "candidate_font_5": "Gelion"
+    },
+    {
+        "task_id": "581038",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Goudy Old Style",
+        "candidate_font_2": "Akzidenz-Grotesk Bold",
+        "candidate_font_3": "Franklin Gothic Bold Condensed",
+        "candidate_font_4": "News Gothic Bold",
+        "candidate_font_5": "Plak Pro Bold"
+    },
+    {
+        "task_id": "581036",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Didot",
+        "candidate_font_2": "Bodoni",
+        "candidate_font_3": "Adobe Didot",
+        "candidate_font_4": "Linotype Didot",
+        "candidate_font_5": "Walbaum"
+    },
+    {
+        "task_id": "581037",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Old London",
+        "candidate_font_2": "Anglican Text",
+        "candidate_font_3": "Old English Text MT",
+        "candidate_font_4": "Fette Fraktur",
+        "candidate_font_5": "Cloister Black"
+    },
+    {
+        "task_id": "581030",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Exo 2",
+        "candidate_font_2": "Nunito",
+        "candidate_font_3": "Quicksand",
+        "candidate_font_4": "Effra",
+        "candidate_font_5": "Circular"
+    },
+    {
+        "task_id": "563090",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Whiplash",
+        "candidate_font_2": "Slime Blobs",
+        "candidate_font_3": "Meltdown",
+        "candidate_font_4": "Goop",
+        "candidate_font_5": "Melted Monster"
+    },
+    {
+        "task_id": "566960",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Melted Cheese",
+        "candidate_font_2": "Melted Milk",
+        "candidate_font_3": "Melted Monster",
+        "candidate_font_4": "Sticky Things",
+        "candidate_font_5": "Melting Point"
+    },
+    {
+        "task_id": "581035",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Gobold",
+        "candidate_font_2": "Klavika",
+        "candidate_font_3": "Industry",
+        "candidate_font_4": "Gotham",
+        "candidate_font_5": "Avenir Black"
+    },
+    {
+        "task_id": "581031",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Defiance",
+        "candidate_font_2": "Destroyer",
+        "candidate_font_3": "Cyberway",
+        "candidate_font_4": "Xenotron",
+        "candidate_font_5": "Blacklisted"
+    },
+    {
+        "task_id": "581027",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Gobold",
+        "candidate_font_2": "Grobold",
+        "candidate_font_3": "Luckiest Guy",
+        "candidate_font_4": "Obelix Pro",
+        "candidate_font_5": "BignoodleTitling"
     }
 ]
