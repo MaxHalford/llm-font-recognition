@@ -27180,8 +27180,8 @@
         "url": "https://www.dafont.com/forum/read/580799/font-off-alycia",
         "title": "font off alycia",
         "instructions": null,
-        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1227239.png",
-        "identified_font": null
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1227239.png?1",
+        "identified_font": "Carmilla"
     },
     {
         "task_id": "580798",
@@ -27580,7 +27580,7 @@
         "url": "https://www.dafont.com/forum/read/580843/guys-please-help-me-with-the-font-name",
         "title": "Guys please help me with the font name",
         "instructions": "Guys please help me with this font name please anyone",
-        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1227332.jpg",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1227332.png?1",
         "identified_font": null
     },
     {
@@ -28781,6 +28781,14 @@
         "title": "My Youth Font",
         "instructions": null,
         "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1227699.jpg",
+        "identified_font": null
+    },
+    {
+        "task_id": "581026",
+        "url": "https://www.dafont.com/forum/read/581026/burro",
+        "title": "burro",
+        "instructions": "any leads for this font burrocrazia?",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1227703.jpg",
         "identified_font": null
     }
 ]
