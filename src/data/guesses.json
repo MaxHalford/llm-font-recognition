@@ -44206,5 +44206,14 @@
         "candidate_font_3": "Avenir Black",
         "candidate_font_4": "Open Sans Extrabold",
         "candidate_font_5": "Noto Sans Black"
+    },
+    {
+        "task_id": "581025",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Lovely Saturday",
+        "candidate_font_2": "Amsterdam Four",
+        "candidate_font_3": "Buttercup",
+        "candidate_font_4": "Bright Sight",
+        "candidate_font_5": "Magnolia Sky"
     }
 ]
