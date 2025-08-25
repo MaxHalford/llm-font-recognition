@@ -44305,5 +44305,68 @@
         "candidate_font_3": "Luckiest Guy",
         "candidate_font_4": "Obelix Pro",
         "candidate_font_5": "BignoodleTitling"
+    },
+    {
+        "task_id": "581049",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Beauty Athena Script",
+        "candidate_font_2": "Lovely Home",
+        "candidate_font_3": "Hello Agatha",
+        "candidate_font_4": "Brittany Signature",
+        "candidate_font_5": "Southamton"
+    },
+    {
+        "task_id": "581048",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "GT America Expanded Bold Italic",
+        "candidate_font_2": "Montserrat Black Italic",
+        "candidate_font_3": "Gotham Black Italic",
+        "candidate_font_4": "Univers 93 Extra Black Extended Oblique",
+        "candidate_font_5": "Avenir Black Oblique"
+    },
+    {
+        "task_id": "581047",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Alice Wonder",
+        "candidate_font_2": "Lemon Tuesday",
+        "candidate_font_3": "Magnolia Sky",
+        "candidate_font_4": "Montserrat Regular",
+        "candidate_font_5": "Montserrat SemiBold"
+    },
+    {
+        "task_id": "581046",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Lygia",
+        "candidate_font_2": "Romie",
+        "candidate_font_3": "Schnyder Display",
+        "candidate_font_4": "Didot",
+        "candidate_font_5": "Bodoni"
+    },
+    {
+        "task_id": "581044",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Interstate Black",
+        "candidate_font_2": "Titillium Web ExtraBold",
+        "candidate_font_3": "Akrobat Black",
+        "candidate_font_4": "Encode Sans Black",
+        "candidate_font_5": "Montserrat Black"
+    },
+    {
+        "task_id": "581040",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Amsterdam Two",
+        "candidate_font_2": "Bellisia",
+        "candidate_font_3": "Bright Sunshine",
+        "candidate_font_4": "Magnolia Sky",
+        "candidate_font_5": "Hello Beautiful"
+    },
+    {
+        "task_id": "581039",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Porky's",
+        "candidate_font_2": "BadaBoom BB",
+        "candidate_font_3": "Action Man",
+        "candidate_font_4": "Komika Title",
+        "candidate_font_5": "Groovy"
     }
 ]
