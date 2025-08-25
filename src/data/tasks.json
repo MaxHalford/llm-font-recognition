@@ -28870,5 +28870,69 @@
         "instructions": "The name of the \u0093Squad\u0094 Font ?",
         "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1227707.jpg",
         "identified_font": null
+    },
+    {
+        "task_id": "581049",
+        "url": "https://www.dafont.com/forum/read/581049/bella-mari",
+        "title": "Bella Mar\u00ec",
+        "instructions": null,
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1227740.png",
+        "identified_font": null
+    },
+    {
+        "task_id": "581048",
+        "url": "https://www.dafont.com/forum/read/581048/taylor-swift-font-please",
+        "title": "taylor swift font please?",
+        "instructions": "name of the font please",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1227738.png",
+        "identified_font": null
+    },
+    {
+        "task_id": "581047",
+        "url": "https://www.dafont.com/forum/read/581047/all-fonts-please",
+        "title": "all fonts please",
+        "instructions": null,
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1227737.png",
+        "identified_font": null
+    },
+    {
+        "task_id": "581043",
+        "url": "https://www.dafont.com/forum/read/581043/jacky-jones",
+        "title": "JACKY JONES",
+        "instructions": "This font please",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1227732.png",
+        "identified_font": "A4 Speed"
+    },
+    {
+        "task_id": "581046",
+        "url": "https://www.dafont.com/forum/read/581046/font-request",
+        "title": "Font Request",
+        "instructions": "Please help",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1227735.png",
+        "identified_font": null
+    },
+    {
+        "task_id": "581044",
+        "url": "https://www.dafont.com/forum/read/581044/please-help-id",
+        "title": "Please Help ID",
+        "instructions": null,
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1227733.png",
+        "identified_font": null
+    },
+    {
+        "task_id": "581040",
+        "url": "https://www.dafont.com/forum/read/581040/font-name-plz",
+        "title": "font name plz",
+        "instructions": null,
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1227729.png",
+        "identified_font": null
+    },
+    {
+        "task_id": "581039",
+        "url": "https://www.dafont.com/forum/read/581039/what-font-is-this",
+        "title": "What font is this?",
+        "instructions": null,
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1227727.png",
+        "identified_font": null
     }
 ]
