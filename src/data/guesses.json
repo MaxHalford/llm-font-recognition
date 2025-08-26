@@ -44665,5 +44665,68 @@
         "candidate_font_3": "Source Sans Pro",
         "candidate_font_4": "Lato",
         "candidate_font_5": "Segoe UI"
+    },
+    {
+        "task_id": "581109",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Deutsche Zierschrift",
+        "candidate_font_2": "Fette Unger-Fraktur",
+        "candidate_font_3": "Fraktur-Schrift",
+        "candidate_font_4": "UnifrakturMaguntia",
+        "candidate_font_5": "Old London"
+    },
+    {
+        "task_id": "581108",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "VAG Rounded",
+        "candidate_font_2": "Quicksand",
+        "candidate_font_3": "Nunito",
+        "candidate_font_4": "Comfortaa",
+        "candidate_font_5": "Sofia Pro"
+    },
+    {
+        "task_id": "581102",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Bickham Script Pro",
+        "candidate_font_2": "Edwardian Script ITC",
+        "candidate_font_3": "Shelley Allegro",
+        "candidate_font_4": "Kuenstler Script",
+        "candidate_font_5": "Great Vibes"
+    },
+    {
+        "task_id": "581105",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "BlobFont",
+        "candidate_font_2": "PuddingPop",
+        "candidate_font_3": "Googie",
+        "candidate_font_4": "Cheesecake",
+        "candidate_font_5": "Meltdown"
+    },
+    {
+        "task_id": "581104",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Shelley Allegro",
+        "candidate_font_2": "Edwardian Script ITC",
+        "candidate_font_3": "Bickham Script Pro",
+        "candidate_font_4": "Kuenstler Script",
+        "candidate_font_5": "Snell Roundhand"
+    },
+    {
+        "task_id": "575102",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Pixeloid Serif",
+        "candidate_font_2": "Perfect DOS VGA 437",
+        "candidate_font_3": "8bit Operator JVE",
+        "candidate_font_4": "Bitwise",
+        "candidate_font_5": "Arcade Classic"
+    },
+    {
+        "task_id": "581103",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Anton",
+        "candidate_font_2": "Oswald ExtraBold",
+        "candidate_font_3": "Impact",
+        "candidate_font_4": "Compacta Bold",
+        "candidate_font_5": "Agency FB Bold"
     }
 ]
