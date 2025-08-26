@@ -24389,7 +24389,7 @@
         "title": "BRUNO MARS",
         "instructions": null,
         "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1226403.png?1",
-        "identified_font": null
+        "identified_font": "Mamoth"
     },
     {
         "task_id": "22337",
@@ -29237,6 +29237,70 @@
         "title": "Font identification",
         "instructions": "what kind of font is this?",
         "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1227834.jpg?1",
+        "identified_font": null
+    },
+    {
+        "task_id": "581109",
+        "url": "https://www.dafont.com/forum/read/581109/what-font-is-this",
+        "title": "what font is this?",
+        "instructions": "can anyone help me with this fonts \"ella\"",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1227867.png",
+        "identified_font": null
+    },
+    {
+        "task_id": "581108",
+        "url": "https://www.dafont.com/forum/read/581108/buscando-por-tipografia-de-numero",
+        "title": "Buscando por tipografia de n\u00famero",
+        "instructions": "Hola.",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1227866.png",
+        "identified_font": null
+    },
+    {
+        "task_id": "581101",
+        "url": "https://www.dafont.com/forum/read/581101/font-name",
+        "title": "Font name?",
+        "instructions": "What is the font used in \"Easter\" holiday from Papa Louie games?",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1227849.png",
+        "identified_font": "Heavy Heap"
+    },
+    {
+        "task_id": "581102",
+        "url": "https://www.dafont.com/forum/read/581102/fontjfjf",
+        "title": "Fontjfjf",
+        "instructions": null,
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1227850.jpg",
+        "identified_font": null
+    },
+    {
+        "task_id": "581105",
+        "url": "https://www.dafont.com/forum/read/581105/tittle-font-beats-by-i-ve-please",
+        "title": "Tittle font \"BEATS\" By I've please",
+        "instructions": null,
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1227855.jpg",
+        "identified_font": null
+    },
+    {
+        "task_id": "581104",
+        "url": "https://www.dafont.com/forum/read/581104/ivan-mestrovi-font",
+        "title": "Ivan Mestrovi&#263; font",
+        "instructions": null,
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1227853.jpg",
+        "identified_font": null
+    },
+    {
+        "task_id": "575102",
+        "url": "https://www.dafont.com/forum/read/575102/club-icarus",
+        "title": "Club icarus",
+        "instructions": null,
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1215161.png?1",
+        "identified_font": null
+    },
+    {
+        "task_id": "581103",
+        "url": "https://www.dafont.com/forum/read/581103/fpnttgf",
+        "title": "Fpnttgf",
+        "instructions": null,
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1227851.jpg",
         "identified_font": null
     }
 ]
