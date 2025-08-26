@@ -44494,5 +44494,32 @@
         "candidate_font_3": "Hello Lovely",
         "candidate_font_4": "Bright Sunshine",
         "candidate_font_5": "Montserrat Light"
+    },
+    {
+        "task_id": "581077",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Compacta Black",
+        "candidate_font_2": "Agency FB Black",
+        "candidate_font_3": "United Sans Extra Bold",
+        "candidate_font_4": "Impact",
+        "candidate_font_5": "Road Rage"
+    },
+    {
+        "task_id": "581076",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Poker Kings",
+        "candidate_font_2": "Showboat",
+        "candidate_font_3": "DeVinne Ornamental No. 2",
+        "candidate_font_4": "Circus Display",
+        "candidate_font_5": "Frontier Inline"
+    },
+    {
+        "task_id": "581074",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Major Snafu",
+        "candidate_font_2": "SF Square Head",
+        "candidate_font_3": "Agency FB",
+        "candidate_font_4": "Bebas Neue",
+        "candidate_font_5": "Impact"
     }
 ]
