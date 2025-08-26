@@ -44521,5 +44521,41 @@
         "candidate_font_3": "Agency FB",
         "candidate_font_4": "Bebas Neue",
         "candidate_font_5": "Impact"
+    },
+    {
+        "task_id": "581084",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Whoa!",
+        "candidate_font_2": "Busted",
+        "candidate_font_3": "Marlboro",
+        "candidate_font_4": "Street Soul",
+        "candidate_font_5": "Bubblegum Sans"
+    },
+    {
+        "task_id": "581081",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "The Rustic Font",
+        "candidate_font_2": "Bison Bold",
+        "candidate_font_3": "Lemon Milk Bold",
+        "candidate_font_4": "League Spartan Bold",
+        "candidate_font_5": "Bellisia"
+    },
+    {
+        "task_id": "581082",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Luckiest Guy",
+        "candidate_font_2": "Komika Title",
+        "candidate_font_3": "Bangers",
+        "candidate_font_4": "Obelix Pro",
+        "candidate_font_5": "Porky's"
+    },
+    {
+        "task_id": "581080",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Mulish",
+        "candidate_font_2": "Outfit",
+        "candidate_font_3": "Geomanist",
+        "candidate_font_4": "Circular Std",
+        "candidate_font_5": "Manrope"
     }
 ]
