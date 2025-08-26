@@ -44728,5 +44728,131 @@
         "candidate_font_3": "Impact",
         "candidate_font_4": "Compacta Bold",
         "candidate_font_5": "Agency FB Bold"
+    },
+    {
+        "task_id": "581124",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Pricedown Black",
+        "candidate_font_2": "College Block 2.0",
+        "candidate_font_3": "Big Noodle Titling",
+        "candidate_font_4": "Impact",
+        "candidate_font_5": "Anton"
+    },
+    {
+        "task_id": "581123",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "ITC Avant Garde Gothic",
+        "candidate_font_2": "Adobe Garamond Pro",
+        "candidate_font_3": "Bookman Old Style Bold",
+        "candidate_font_4": "Cheltenham Bold Condensed",
+        "candidate_font_5": "Times New Roman Condensed"
+    },
+    {
+        "task_id": "581120",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "BankGothic Md BT",
+        "candidate_font_2": "Microgramma D Extended Bold",
+        "candidate_font_3": "Square721 Std Medium",
+        "candidate_font_4": "Eurostile Extended Bold",
+        "candidate_font_5": "Impact"
+    },
+    {
+        "task_id": "581122",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Team Spirit",
+        "candidate_font_2": "SF Sports Night",
+        "candidate_font_3": "Jersey M54",
+        "candidate_font_4": "SF Collegiate Solid",
+        "candidate_font_5": "College Regular"
+    },
+    {
+        "task_id": "581121",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Razer Header Light",
+        "candidate_font_2": "Montserrat Light",
+        "candidate_font_3": "Metroland Regular",
+        "candidate_font_4": "Anurati",
+        "candidate_font_5": "Exo 2 Light"
+    },
+    {
+        "task_id": "581119",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Brandon Grotesque",
+        "candidate_font_2": "Montserrat",
+        "candidate_font_3": "Proxima Nova",
+        "candidate_font_4": "Open Sans",
+        "candidate_font_5": "Lato"
+    },
+    {
+        "task_id": "581118",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Brothership Script",
+        "candidate_font_2": "Vintage Rotrek",
+        "candidate_font_3": "Hustle Script",
+        "candidate_font_4": "Fenway",
+        "candidate_font_5": "Cream Puff"
+    },
+    {
+        "task_id": "581117",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Bodoni Moda",
+        "candidate_font_2": "Linotype Didot",
+        "candidate_font_3": "ITC Bodoni 72",
+        "candidate_font_4": "Bauer Bodoni",
+        "candidate_font_5": "Recife"
+    },
+    {
+        "task_id": "581115",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Wavy by Letters",
+        "candidate_font_2": "Meltow",
+        "candidate_font_3": "Psilocybin",
+        "candidate_font_4": "Melody Maker",
+        "candidate_font_5": "Sugar Bomb"
+    },
+    {
+        "task_id": "581114",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Glamor",
+        "candidate_font_2": "Avenir Light",
+        "candidate_font_3": "Lora Regular",
+        "candidate_font_4": "Avenir Bold",
+        "candidate_font_5": "Montserrat ExtraLight"
+    },
+    {
+        "task_id": "581113",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Didot",
+        "candidate_font_2": "Bodoni",
+        "candidate_font_3": "Playfair Display",
+        "candidate_font_4": "Modern No. 20",
+        "candidate_font_5": "Goudy Didot"
+    },
+    {
+        "task_id": "581112",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Brannboll Fet",
+        "candidate_font_2": "Amsterdam Two",
+        "candidate_font_3": "Sophia Script",
+        "candidate_font_4": "Magnolia Sky",
+        "candidate_font_5": "Lovely Letters"
+    },
+    {
+        "task_id": "581111",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Caslon",
+        "candidate_font_2": "Goudy Old Style",
+        "candidate_font_3": "Janson Text",
+        "candidate_font_4": "Adobe Jenson Pro",
+        "candidate_font_5": "Plantin"
+    },
+    {
+        "task_id": "581110",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Mont Soft Heavy",
+        "candidate_font_2": "Muller Soft Black",
+        "candidate_font_3": "Gotham Rounded Black",
+        "candidate_font_4": "Visby Round CF Heavy",
+        "candidate_font_5": "Gelion Rounded Black"
     }
 ]
