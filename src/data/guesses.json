@@ -44557,5 +44557,59 @@
         "candidate_font_3": "Geomanist",
         "candidate_font_4": "Circular Std",
         "candidate_font_5": "Manrope"
+    },
+    {
+        "task_id": "581091",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Southamton",
+        "candidate_font_2": "Adora Bouton",
+        "candidate_font_3": "Amarillo",
+        "candidate_font_4": "Betterfly",
+        "candidate_font_5": "Amsterdam Script"
+    },
+    {
+        "task_id": "581090",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "The California",
+        "candidate_font_2": "Magnolia Sky",
+        "candidate_font_3": "Stay Gracious",
+        "candidate_font_4": "Lovely Melody",
+        "candidate_font_5": "Hello Stockholm"
+    },
+    {
+        "task_id": "581089",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Wonderfull",
+        "candidate_font_2": "Magnolia Sky",
+        "candidate_font_3": "Bratt Script",
+        "candidate_font_4": "Bright Sunshine",
+        "candidate_font_5": "Lovely Home"
+    },
+    {
+        "task_id": "581088",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Stay Gold",
+        "candidate_font_2": "Bright Retro",
+        "candidate_font_3": "Cream Peach",
+        "candidate_font_4": "Lovadelic",
+        "candidate_font_5": "Groovy Disco"
+    },
+    {
+        "task_id": "581086",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "SF Sports Night Italic",
+        "candidate_font_2": "Compacta Bold Italic",
+        "candidate_font_3": "Agency FB Bold Italic",
+        "candidate_font_4": "Open Sans Italic",
+        "candidate_font_5": "Lato Italic"
+    },
+    {
+        "task_id": "581085",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Samurai Blast",
+        "candidate_font_2": "Japan Brush",
+        "candidate_font_3": "Brushstrike",
+        "candidate_font_4": "Okashi",
+        "candidate_font_5": "Kill The Noise"
     }
 ]
