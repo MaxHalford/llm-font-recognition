@@ -29124,8 +29124,8 @@
         "url": "https://www.dafont.com/forum/read/581082/what-font-is-this",
         "title": "What font is this?",
         "instructions": "Please help me identify this font. Thanks in advance \ud83d\ude0a",
-        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1227805.jpg",
-        "identified_font": null
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1227805.png?1",
+        "identified_font": "Semringah"
     },
     {
         "task_id": "581080",
@@ -29142,5 +29142,53 @@
         "instructions": null,
         "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1227797.png?1",
         "identified_font": "Croissant"
+    },
+    {
+        "task_id": "581091",
+        "url": "https://www.dafont.com/forum/read/581091/font-name-please",
+        "title": "font name please!",
+        "instructions": null,
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1227831.png?1",
+        "identified_font": null
+    },
+    {
+        "task_id": "581090",
+        "url": "https://www.dafont.com/forum/read/581090/font-finders-are-stumped",
+        "title": "Font Finders are Stumped",
+        "instructions": "I hope this isnt messed up as im on mobile. I recognize this font but can't put my finger on it. Font websites have been zero help cause the image sent to me isn't the greatest.",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1227820.jpg",
+        "identified_font": null
+    },
+    {
+        "task_id": "581089",
+        "url": "https://www.dafont.com/forum/read/581089/what-font-is-this",
+        "title": "what font is this",
+        "instructions": "what is the font",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1227819.png?1",
+        "identified_font": null
+    },
+    {
+        "task_id": "581088",
+        "url": "https://www.dafont.com/forum/read/581088/what-font-is-this",
+        "title": "what font is this",
+        "instructions": "what is the font",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1227818.png",
+        "identified_font": null
+    },
+    {
+        "task_id": "581086",
+        "url": "https://www.dafont.com/forum/read/581086/what-fonts-is-this",
+        "title": "what fonts is this??",
+        "instructions": "can anyone identified the fonts??",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1227816.png?1",
+        "identified_font": null
+    },
+    {
+        "task_id": "581085",
+        "url": "https://www.dafont.com/forum/read/581085/byking-logo-font",
+        "title": "Byking logo font?",
+        "instructions": null,
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1227811.png",
+        "identified_font": null
     }
 ]
