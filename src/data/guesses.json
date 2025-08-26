@@ -44611,5 +44611,59 @@
         "candidate_font_3": "Brushstrike",
         "candidate_font_4": "Okashi",
         "candidate_font_5": "Kill The Noise"
+    },
+    {
+        "task_id": "581099",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Squarewave",
+        "candidate_font_2": "Arcade Classic",
+        "candidate_font_3": "Press Start 2P",
+        "candidate_font_4": "Minecraftia",
+        "candidate_font_5": "Bubblegum Sans"
+    },
+    {
+        "task_id": "581098",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Agency FB Extended Bold",
+        "candidate_font_2": "Eurostile Extended Bold",
+        "candidate_font_3": "Russo One",
+        "candidate_font_4": "Quantico Bold",
+        "candidate_font_5": "BankGothic Medium"
+    },
+    {
+        "task_id": "581097",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "DIN Next Bold Italic",
+        "candidate_font_2": "FF DIN Bold Italic",
+        "candidate_font_3": "Roadgeek 2005 Bold Italic",
+        "candidate_font_4": "Avenir Next LT Pro Bold Italic",
+        "candidate_font_5": "Akzidenz-Grotesk Extended Bold Italic"
+    },
+    {
+        "task_id": "581096",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "VAG Rounded",
+        "candidate_font_2": "Gotham Rounded",
+        "candidate_font_3": "Quicksand Bold",
+        "candidate_font_4": "Comfortaa Bold",
+        "candidate_font_5": "M PLUS Rounded 1c"
+    },
+    {
+        "task_id": "581093",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Play-Doh",
+        "candidate_font_2": "KG Red Hands Bold",
+        "candidate_font_3": "Bubblegum Sans",
+        "candidate_font_4": "Permanent Marker",
+        "candidate_font_5": "Chewy"
+    },
+    {
+        "task_id": "581092",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Roboto",
+        "candidate_font_2": "Open Sans",
+        "candidate_font_3": "Source Sans Pro",
+        "candidate_font_4": "Lato",
+        "candidate_font_5": "Segoe UI"
     }
 ]
