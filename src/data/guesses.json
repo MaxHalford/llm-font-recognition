@@ -44935,5 +44935,140 @@
         "candidate_font_3": "Stempel Garamond",
         "candidate_font_4": "Centaur",
         "candidate_font_5": "Requiem Text"
+    },
+    {
+        "task_id": "581155",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "VAG Rounded Stencil",
+        "candidate_font_2": "Lemon Milk Stencil",
+        "candidate_font_3": "Intro Rust Stencil",
+        "candidate_font_4": "Good Times Stencil",
+        "candidate_font_5": "Aachen Bold Stencil"
+    },
+    {
+        "task_id": "581156",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Transformers Movie Font",
+        "candidate_font_2": "Exan",
+        "candidate_font_3": "SF Sports Night",
+        "candidate_font_4": "Bebas Neue",
+        "candidate_font_5": "Stay Gracious Bold"
+    },
+    {
+        "task_id": "581154",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Oblivion Bold Italic",
+        "candidate_font_2": "Techno Homicide Bold Italic",
+        "candidate_font_3": "Agency FB Black Italic",
+        "candidate_font_4": "Oswald ExtraBold Italic",
+        "candidate_font_5": "Saira Condensed ExtraBold Italic"
+    },
+    {
+        "task_id": "581153",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Franklin Gothic Heavy",
+        "candidate_font_2": "Franklin Gothic Black",
+        "candidate_font_3": "Public Gothic Bold",
+        "candidate_font_4": "Alternate Gothic No. 2",
+        "candidate_font_5": "News Gothic Bold"
+    },
+    {
+        "task_id": "581152",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Cream Candy",
+        "candidate_font_2": "Adelia Script",
+        "candidate_font_3": "Hello Sunday",
+        "candidate_font_4": "Magnificent",
+        "candidate_font_5": "Brush Script MT"
+    },
+    {
+        "task_id": "581150",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Eras Light Italic",
+        "candidate_font_2": "VAG Rounded Light Italic",
+        "candidate_font_3": "Comfortaa Light Italic",
+        "candidate_font_4": "Quicksand Light Oblique",
+        "candidate_font_5": "Panton Rounded Light Italic"
+    },
+    {
+        "task_id": "581149",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Montaseli Script",
+        "candidate_font_2": "Bintaro Signature",
+        "candidate_font_3": "Quicksand",
+        "candidate_font_4": "Magnolia Sky",
+        "candidate_font_5": "Bromello"
+    },
+    {
+        "task_id": "581148",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Cyberdyne",
+        "candidate_font_2": "Score Board",
+        "candidate_font_3": "Techno Homicide",
+        "candidate_font_4": "SF Transrobotics",
+        "candidate_font_5": "Segment14"
+    },
+    {
+        "task_id": "581146",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Mecanica Harkov",
+        "candidate_font_2": "Bebas Neue",
+        "candidate_font_3": "Agency FB",
+        "candidate_font_4": "Anton",
+        "candidate_font_5": "Impact"
+    },
+    {
+        "task_id": "581145",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Stinger Fit ExtraBold",
+        "candidate_font_2": "Oswald Regular",
+        "candidate_font_3": "Bank Gothic Medium",
+        "candidate_font_4": "Bebas Neue Regular",
+        "candidate_font_5": "Agency FB Bold"
+    },
+    {
+        "task_id": "581144",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Poppins Black",
+        "candidate_font_2": "Inter Black",
+        "candidate_font_3": "Circular Std Black",
+        "candidate_font_4": "Open Sans Bold",
+        "candidate_font_5": "Inter Bold"
+    },
+    {
+        "task_id": "581143",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Broadacre",
+        "candidate_font_2": "Anton",
+        "candidate_font_3": "Oswald",
+        "candidate_font_4": "Ironstrike",
+        "candidate_font_5": "Detroit"
+    },
+    {
+        "task_id": "581142",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Modern Antiqua",
+        "candidate_font_2": "Playfair Display",
+        "candidate_font_3": "Bodoni MT",
+        "candidate_font_4": "Linotype Didot",
+        "candidate_font_5": "Crimson Text"
+    },
+    {
+        "task_id": "581141",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "KG Beneath Your Beautiful",
+        "candidate_font_2": "KG Ten Thousand Reasons",
+        "candidate_font_3": "Komika Text Kaps",
+        "candidate_font_4": "Architect's Daughter",
+        "candidate_font_5": "Schoolbell"
+    },
+    {
+        "task_id": "581140",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Eurostile Bold Extended",
+        "candidate_font_2": "Microgramma Extended Bold",
+        "candidate_font_3": "Square 721 Extended Bold",
+        "candidate_font_4": "Arial Bold",
+        "candidate_font_5": "United Sans Extended Black"
     }
 ]
