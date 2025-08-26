@@ -27321,8 +27321,8 @@
     },
     {
         "task_id": "580809",
-        "url": "https://www.dafont.com/forum/read/580809/urgent-urgent-please-help-to-identify-the-font-in-the-image",
-        "title": "Urgent Urgent, please help to identify the font in the image",
+        "url": "https://www.dafont.com/forum/read/580809/malaysia",
+        "title": "Malaysia",
         "instructions": "Hi all please help me identify font in the image. Thanks",
         "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1227278.png",
         "identified_font": null
@@ -28745,10 +28745,10 @@
     },
     {
         "task_id": "581022",
-        "url": "https://www.dafont.com/forum/read/581022/font",
-        "title": "font?",
+        "url": "https://www.dafont.com/forum/read/581022/help-me-find-this-font",
+        "title": "help me find this font!",
         "instructions": null,
-        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1227689.png",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1227689.png?3",
         "identified_font": null
     },
     {
@@ -29076,7 +29076,7 @@
         "url": "https://www.dafont.com/forum/read/581077/font-name-helpmeee",
         "title": "FONT NAME? HELPMEEE",
         "instructions": null,
-        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1227795.jpg",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1227795.png?1",
         "identified_font": null
     },
     {
@@ -29094,5 +29094,53 @@
         "instructions": null,
         "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1227791.png",
         "identified_font": null
+    },
+    {
+        "task_id": "581084",
+        "url": "https://www.dafont.com/forum/read/581084/help-me-identification",
+        "title": "Help me! Identification",
+        "instructions": "Help me, please? Name font type?",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1227809.jpg",
+        "identified_font": null
+    },
+    {
+        "task_id": "581083",
+        "url": "https://www.dafont.com/forum/read/581083/copyrighted-artists",
+        "title": "Copyrighted Artists",
+        "instructions": "What Is This Font?",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1227802.png",
+        "identified_font": "Dimbo"
+    },
+    {
+        "task_id": "581081",
+        "url": "https://www.dafont.com/forum/read/581081/please-help-me-to-identify-this-fonts-thank-you",
+        "title": "Please help me to identify this fonts. Thank you",
+        "instructions": null,
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1227804.png",
+        "identified_font": null
+    },
+    {
+        "task_id": "581082",
+        "url": "https://www.dafont.com/forum/read/581082/what-font-is-this",
+        "title": "What font is this?",
+        "instructions": "Please help me identify this font. Thanks in advance \ud83d\ude0a",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1227805.jpg",
+        "identified_font": null
+    },
+    {
+        "task_id": "581080",
+        "url": "https://www.dafont.com/forum/read/581080/font-name",
+        "title": "Font name",
+        "instructions": "Font name",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1227800.png",
+        "identified_font": null
+    },
+    {
+        "task_id": "581078",
+        "url": "https://www.dafont.com/forum/read/581078/font-thx",
+        "title": "Font? Thx",
+        "instructions": null,
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1227797.png?1",
+        "identified_font": "Croissant"
     }
 ]
