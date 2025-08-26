@@ -44854,5 +44854,86 @@
         "candidate_font_3": "Gotham Rounded Black",
         "candidate_font_4": "Visby Round CF Heavy",
         "candidate_font_5": "Gelion Rounded Black"
+    },
+    {
+        "task_id": "581139",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Good Morning",
+        "candidate_font_2": "VAG Rounded Bold",
+        "candidate_font_3": "Burbank Big Condensed",
+        "candidate_font_4": "Chewy",
+        "candidate_font_5": "Bubblegum Sans"
+    },
+    {
+        "task_id": "581138",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Gotham",
+        "candidate_font_2": "Montserrat",
+        "candidate_font_3": "Proxima Nova",
+        "candidate_font_4": "Avenir Next LT Pro",
+        "candidate_font_5": "Euclid Circular B"
+    },
+    {
+        "task_id": "581137",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "VAG Rounded",
+        "candidate_font_2": "Rubik",
+        "candidate_font_3": "GothaPro Rounded",
+        "candidate_font_4": "Circular Std Rounded",
+        "candidate_font_5": "Avenir Next Rounded"
+    },
+    {
+        "task_id": "581136",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Brody",
+        "candidate_font_2": "Challenger Script",
+        "candidate_font_3": "SignPainter HouseScript",
+        "candidate_font_4": "Billabong",
+        "candidate_font_5": "Brush Script MT"
+    },
+    {
+        "task_id": "581135",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Maragsa",
+        "candidate_font_2": "Groovy Style",
+        "candidate_font_3": "California Sunshine",
+        "candidate_font_4": "Funkydori",
+        "candidate_font_5": "Surfing Font"
+    },
+    {
+        "task_id": "581134",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Didot",
+        "candidate_font_2": "Bodoni",
+        "candidate_font_3": "Glamor Display",
+        "candidate_font_4": "Roslindale",
+        "candidate_font_5": "Valerie Recoleta"
+    },
+    {
+        "task_id": "581133",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Requiem Display",
+        "candidate_font_2": "Adobe Jenson Pro Display",
+        "candidate_font_3": "Kepler Std Display",
+        "candidate_font_4": "Valentina Regular",
+        "candidate_font_5": "Vendome Display"
+    },
+    {
+        "task_id": "581126",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Porky's",
+        "candidate_font_2": "Burbank Big Condensed",
+        "candidate_font_3": "Mickey-2",
+        "candidate_font_4": "Komika Display",
+        "candidate_font_5": "Cheburashka"
+    },
+    {
+        "task_id": "581125",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Jannon Text",
+        "candidate_font_2": "Adobe Jenson Pro",
+        "candidate_font_3": "Stempel Garamond",
+        "candidate_font_4": "Centaur",
+        "candidate_font_5": "Requiem Text"
     }
 ]
