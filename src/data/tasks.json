@@ -29070,5 +29070,29 @@
         "instructions": null,
         "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1227763.jpg",
         "identified_font": "Krona One"
+    },
+    {
+        "task_id": "581077",
+        "url": "https://www.dafont.com/forum/read/581077/font-name-helpmeee",
+        "title": "FONT NAME? HELPMEEE",
+        "instructions": null,
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1227795.jpg",
+        "identified_font": null
+    },
+    {
+        "task_id": "581076",
+        "url": "https://www.dafont.com/forum/read/581076/qual-a-tipografia",
+        "title": "Qual a tipografia?",
+        "instructions": null,
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1227794.jpg",
+        "identified_font": null
+    },
+    {
+        "task_id": "581074",
+        "url": "https://www.dafont.com/forum/read/581074/scouting",
+        "title": "SCOUTING",
+        "instructions": null,
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1227791.png",
+        "identified_font": null
     }
 ]
