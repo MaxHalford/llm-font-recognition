@@ -45223,5 +45223,41 @@
         "candidate_font_3": "Chewy",
         "candidate_font_4": "KG Always A Good Time",
         "candidate_font_5": "Permanent Marker"
+    },
+    {
+        "task_id": "581180",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Slime",
+        "candidate_font_2": "Bloody Stump",
+        "candidate_font_3": "Meltdown",
+        "candidate_font_4": "Melted Monster",
+        "candidate_font_5": "Toxic Waste"
+    },
+    {
+        "task_id": "581182",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Custom Typeface",
+        "candidate_font_2": "VAG Rounded",
+        "candidate_font_3": "Comfortaa",
+        "candidate_font_4": "Quicksand",
+        "candidate_font_5": "Nunito"
+    },
+    {
+        "task_id": "581181",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Century Schoolbook",
+        "candidate_font_2": "Bookman Old Style",
+        "candidate_font_3": "Times New Roman",
+        "candidate_font_4": "Goudy Old Style",
+        "candidate_font_5": "Baskerville"
+    },
+    {
+        "task_id": "581179",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Norah",
+        "candidate_font_2": "Stay Grateful",
+        "candidate_font_3": "Adelios",
+        "candidate_font_4": "Bright Sunshine",
+        "candidate_font_5": "Magnolia Sky"
     }
 ]
