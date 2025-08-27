@@ -45430,5 +45430,59 @@
         "candidate_font_3": "Bubblegum Sans",
         "candidate_font_4": "Luckiest Guy",
         "candidate_font_5": "Burbank Big Condensed"
+    },
+    {
+        "task_id": "581208",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Cheeky Monkey",
+        "candidate_font_2": "Cooper Black",
+        "candidate_font_3": "Windsor",
+        "candidate_font_4": "Bookman Swash",
+        "candidate_font_5": "ITC Benguiat"
+    },
+    {
+        "task_id": "581207",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Butler Regular",
+        "candidate_font_2": "Butler Regular",
+        "candidate_font_3": "Butler Regular",
+        "candidate_font_4": "Butler Regular",
+        "candidate_font_5": "Butler Regular"
+    },
+    {
+        "task_id": "581206",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Cream Candy",
+        "candidate_font_2": "Sugar Cream",
+        "candidate_font_3": "Brandley",
+        "candidate_font_4": "Houston Italic",
+        "candidate_font_5": "Brotherhood Script"
+    },
+    {
+        "task_id": "581205",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Gloria Hallelujah",
+        "candidate_font_2": "Komika Hand",
+        "candidate_font_3": "Kalam",
+        "candidate_font_4": "Patrick Hand",
+        "candidate_font_5": "Coming Soon"
+    },
+    {
+        "task_id": "581204",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Blaster Italic",
+        "candidate_font_2": "Hyperspace",
+        "candidate_font_3": "Turbo Racer",
+        "candidate_font_4": "Racing Sans One",
+        "candidate_font_5": "Road Rage"
+    },
+    {
+        "task_id": "554944",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Noto Sans JP",
+        "candidate_font_2": "Source Han Sans JP",
+        "candidate_font_3": "Hiragino Kaku Gothic",
+        "candidate_font_4": "Yu Gothic",
+        "candidate_font_5": "Zen Kaku Gothic New"
     }
 ]
