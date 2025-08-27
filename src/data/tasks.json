@@ -29557,7 +29557,7 @@
         "title": "Font?",
         "instructions": null,
         "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1227923.jpg",
-        "identified_font": null
+        "identified_font": "Brittany Signature"
     },
     {
         "task_id": "581148",
@@ -29805,6 +29805,70 @@
         "title": "what\u0092s this font ??",
         "instructions": null,
         "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1227979.jpg",
+        "identified_font": null
+    },
+    {
+        "task_id": "581190",
+        "url": "https://www.dafont.com/forum/read/581190/aspen-arcworks",
+        "title": "Aspen Arcworks",
+        "instructions": null,
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1228009.png",
+        "identified_font": null
+    },
+    {
+        "task_id": "581189",
+        "url": "https://www.dafont.com/forum/read/581189/cannot-find-this-one-in-regular-font-searches-help",
+        "title": "Cannot find this one in regular font searches. Help!",
+        "instructions": null,
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1228008.jpg",
+        "identified_font": null
+    },
+    {
+        "task_id": "581188",
+        "url": "https://www.dafont.com/forum/read/581188/what-is-this-font-pls",
+        "title": "what is this font pls",
+        "instructions": null,
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1228007.jpg",
+        "identified_font": null
+    },
+    {
+        "task_id": "581187",
+        "url": "https://www.dafont.com/forum/read/581187/font-name-i-found-some-close-ones-but-the-j-isn-t-right-on-any-of-them-help",
+        "title": "Font Name? I found some close ones but the J isn't right on any of them. Help!",
+        "instructions": null,
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1228006.png",
+        "identified_font": null
+    },
+    {
+        "task_id": "581186",
+        "url": "https://www.dafont.com/forum/read/581186/font-identification-request",
+        "title": "Font Identification Request",
+        "instructions": "Hello! I lost everything on my computer recently. One thing I'm struggling with replacing is the fonts. I can't find 2 fonts I've been using for a non-profit that has become their \"signature fonts\" on all of my graphics. Please help! I am 85% sure I downloaded from dafont. I believe they are 2 separate fonts but... as explained I don't know anymore!!!!",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1228005.png",
+        "identified_font": null
+    },
+    {
+        "task_id": "581185",
+        "url": "https://www.dafont.com/forum/read/581185/font-help",
+        "title": "font help",
+        "instructions": "anyone know what font this is? thanks",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1228001.png",
+        "identified_font": null
+    },
+    {
+        "task_id": "581184",
+        "url": "https://www.dafont.com/forum/read/581184/can-t-find-this-one-please-help",
+        "title": "Can't find this one, please help",
+        "instructions": "Hard one, anyone who knows this one ?",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1227996.png",
+        "identified_font": null
+    },
+    {
+        "task_id": "581183",
+        "url": "https://www.dafont.com/forum/read/581183/club-vittar-please",
+        "title": "CLUB VITTAR (please).",
+        "instructions": null,
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1227995.jpg",
         "identified_font": null
     }
 ]
