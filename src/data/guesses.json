@@ -45070,5 +45070,50 @@
         "candidate_font_3": "Square 721 Extended Bold",
         "candidate_font_4": "Arial Bold",
         "candidate_font_5": "United Sans Extended Black"
+    },
+    {
+        "task_id": "581163",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Bloodlust",
+        "candidate_font_2": "YouMurderer",
+        "candidate_font_3": "Ghouliez",
+        "candidate_font_4": "Creepygirl",
+        "candidate_font_5": "Bloody Stump"
+    },
+    {
+        "task_id": "581162",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Summer Hearts",
+        "candidate_font_2": "Magnolia Sky",
+        "candidate_font_3": "KG Always a Good Time",
+        "candidate_font_4": "Adventures in Wonderland",
+        "candidate_font_5": "Sugar Sugar"
+    },
+    {
+        "task_id": "581161",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Obelix Pro",
+        "candidate_font_2": "Luckiest Guy",
+        "candidate_font_3": "Bangers",
+        "candidate_font_4": "Porky's",
+        "candidate_font_5": "Komika Axis"
+    },
+    {
+        "task_id": "581160",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Toxic Waste",
+        "candidate_font_2": "Monster Attack",
+        "candidate_font_3": "Creepster",
+        "candidate_font_4": "Slimed",
+        "candidate_font_5": "A Nightmare on Font Street"
+    },
+    {
+        "task_id": "581158",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "LHF Hensley",
+        "candidate_font_2": "Funkydori",
+        "candidate_font_3": "Cooper Black Italic",
+        "candidate_font_4": "Roadstar",
+        "candidate_font_5": "Marketing Script"
     }
 ]
