@@ -28845,7 +28845,7 @@
         "title": "Font of 'Whiplash'?",
         "instructions": null,
         "img_url": "https://www.dafont.com/forum/attach/orig/1/1/1199290.png?1",
-        "identified_font": null
+        "identified_font": "Paxoon"
     },
     {
         "task_id": "581035",
@@ -29389,7 +29389,7 @@
         "title": "SCHEDULER",
         "instructions": null,
         "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1227873.jpg",
-        "identified_font": null
+        "identified_font": "Beauty Swing"
     },
     {
         "task_id": "581112",
@@ -29637,7 +29637,7 @@
         "title": "Please and thanks",
         "instructions": null,
         "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1227946.jpg",
-        "identified_font": null
+        "identified_font": "Post Mortem"
     },
     {
         "task_id": "581162",
@@ -29653,7 +29653,7 @@
         "title": "I NEED THIS FONT PLEASE",
         "instructions": "THIS FONT",
         "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1227944.png",
-        "identified_font": null
+        "identified_font": "Alphakind"
     },
     {
         "task_id": "581160",
@@ -29669,6 +29669,54 @@
         "title": "QUE FUENTE ES?",
         "instructions": "ME AYUDAN POR FAVOR A UBICAR ESTA FUENTE",
         "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1227939.jpg",
+        "identified_font": null
+    },
+    {
+        "task_id": "581168",
+        "url": "https://www.dafont.com/forum/read/581168/does-anyone-know-the-font",
+        "title": "does anyone know the font?",
+        "instructions": "i mean, its a very simple or just a default font used in Microsoft systems but idk which one. thanks in advance",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1227959.png",
+        "identified_font": null
+    },
+    {
+        "task_id": "581169",
+        "url": "https://www.dafont.com/forum/read/581169/cbjr-album-cover-font",
+        "title": "CBJR Album Cover Font",
+        "instructions": "\"Imunidade Musical\"",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1227960.jpg",
+        "identified_font": null
+    },
+    {
+        "task_id": "581167",
+        "url": "https://www.dafont.com/forum/read/581167/brazil",
+        "title": "BRAZIL",
+        "instructions": null,
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1227956.jpg",
+        "identified_font": null
+    },
+    {
+        "task_id": "581166",
+        "url": "https://www.dafont.com/forum/read/581166/qual-a-fonte",
+        "title": "qual a fonte??",
+        "instructions": "por favor sabem qual a fonte?",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1227954.png",
+        "identified_font": null
+    },
+    {
+        "task_id": "581164",
+        "url": "https://www.dafont.com/forum/read/581164/font-please",
+        "title": "Font? Please.",
+        "instructions": null,
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1227951.jpg",
+        "identified_font": "Instrument Serif"
+    },
+    {
+        "task_id": "581165",
+        "url": "https://www.dafont.com/forum/read/581165/this-font-s-an-original",
+        "title": "This font\u0092s an original.",
+        "instructions": "Font name?",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1227952.jpg",
         "identified_font": null
     }
 ]
