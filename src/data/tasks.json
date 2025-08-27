@@ -29774,5 +29774,37 @@
         "instructions": "Pescheria",
         "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1227974.jpg",
         "identified_font": null
+    },
+    {
+        "task_id": "581180",
+        "url": "https://www.dafont.com/forum/read/581180/help-please-what-is-this-one",
+        "title": "help please, what is this one ?",
+        "instructions": null,
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1227980.png",
+        "identified_font": null
+    },
+    {
+        "task_id": "581182",
+        "url": "https://www.dafont.com/forum/read/581182/font",
+        "title": "Font",
+        "instructions": null,
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1227983.jpg",
+        "identified_font": null
+    },
+    {
+        "task_id": "581181",
+        "url": "https://www.dafont.com/forum/read/581181/need-help-identifying-this-one",
+        "title": "Need help identifying this one!",
+        "instructions": "Can anyone help me with the font at the bottom of the circle?",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1227981.png",
+        "identified_font": null
+    },
+    {
+        "task_id": "581179",
+        "url": "https://www.dafont.com/forum/read/581179/what-s-this-font",
+        "title": "what\u0092s this font ??",
+        "instructions": null,
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1227979.jpg",
+        "identified_font": null
     }
 ]
