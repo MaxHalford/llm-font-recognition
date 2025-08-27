@@ -29958,5 +29958,69 @@
         "instructions": "Help.",
         "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1228011.png",
         "identified_font": null
+    },
+    {
+        "task_id": "581208",
+        "url": "https://www.dafont.com/forum/read/581208/por-favor-me-ayudan",
+        "title": "POR FAVOR ME AYUDAN",
+        "instructions": "Hola por fis me ayudan  a saber cu\u00e1l es esta fuente. Gracias.",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1228043.png",
+        "identified_font": null
+    },
+    {
+        "task_id": "581207",
+        "url": "https://www.dafont.com/forum/read/581207/urgente-ayuda-por-favor",
+        "title": "URGENTE AYUDA POR FAVOR",
+        "instructions": "Por fis me ayudan a encontrar esta fuente.",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1228042.png",
+        "identified_font": null
+    },
+    {
+        "task_id": "581206",
+        "url": "https://www.dafont.com/forum/read/581206/what-font-is-this-or-a-similar-one",
+        "title": "What font is this? Or a similar one?",
+        "instructions": "What font is this? Or a similar one?",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1228041.jpg",
+        "identified_font": null
+    },
+    {
+        "task_id": "581205",
+        "url": "https://www.dafont.com/forum/read/581205/what-font-is-it",
+        "title": "What font is it?",
+        "instructions": null,
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1228040.png",
+        "identified_font": null
+    },
+    {
+        "task_id": "581204",
+        "url": "https://www.dafont.com/forum/read/581204/whats-this-font",
+        "title": "Whats this font",
+        "instructions": "the font i want to identify is from the LOS HERMANOS COMPETICOES pretty sure all the texts are the same font its just the middle one in upper",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1228037.jpg",
+        "identified_font": null
+    },
+    {
+        "task_id": "50487",
+        "url": "https://www.dafont.com/forum/read/50487/both-fonts",
+        "title": "Both Fonts?",
+        "instructions": null,
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/122517.png",
+        "identified_font": "Champagne & Limousines"
+    },
+    {
+        "task_id": "299730",
+        "url": "https://www.dafont.com/forum/read/299730/font-please",
+        "title": "Font please",
+        "instructions": null,
+        "img_url": "https://www.dafont.com/forum/attach/orig/6/6/665484.png",
+        "identified_font": "Asphalts"
+    },
+    {
+        "task_id": "554944",
+        "url": "https://www.dafont.com/forum/read/554944/kan-font-please",
+        "title": "Kan font please",
+        "instructions": null,
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/1/1173733.png?1",
+        "identified_font": null
     }
 ]
