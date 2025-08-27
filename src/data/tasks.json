@@ -27988,7 +27988,7 @@
         "url": "https://www.dafont.com/forum/read/580913/the-what-font",
         "title": "THE WHAT FONT",
         "instructions": "What are the names of these fonts?",
-        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1227461.jpg",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1227461.png?1",
         "identified_font": null
     },
     {
@@ -29513,11 +29513,11 @@
     },
     {
         "task_id": "581156",
-        "url": "https://www.dafont.com/forum/read/581156/ech-font-requested",
-        "title": "ECH FONT REQUESTED",
+        "url": "https://www.dafont.com/forum/read/581156/ech-trucking-font-requested",
+        "title": "ECH & Trucking FONT REQUESTED",
         "instructions": "ECH",
         "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1227932.png",
-        "identified_font": null
+        "identified_font": "Hi Jack"
     },
     {
         "task_id": "581154",
@@ -29621,6 +29621,54 @@
         "title": "Font?",
         "instructions": null,
         "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1227911.jpg",
+        "identified_font": null
+    },
+    {
+        "task_id": "581159",
+        "url": "https://www.dafont.com/forum/read/581159/hipoxias-toxicas-font",
+        "title": "Hipoxias t\u00f3xicas font",
+        "instructions": null,
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1227940.png",
+        "identified_font": "Hustle Bright"
+    },
+    {
+        "task_id": "581163",
+        "url": "https://www.dafont.com/forum/read/581163/please-and-thanks",
+        "title": "Please and thanks",
+        "instructions": null,
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1227946.jpg",
+        "identified_font": null
+    },
+    {
+        "task_id": "581162",
+        "url": "https://www.dafont.com/forum/read/581162/does-anyone-know-the-name-of-this-font",
+        "title": "Does anyone know the name of this font?",
+        "instructions": null,
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1227945.png",
+        "identified_font": null
+    },
+    {
+        "task_id": "581161",
+        "url": "https://www.dafont.com/forum/read/581161/i-need-this-font-please",
+        "title": "I NEED THIS FONT PLEASE",
+        "instructions": "THIS FONT",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1227944.png",
+        "identified_font": null
+    },
+    {
+        "task_id": "581160",
+        "url": "https://www.dafont.com/forum/read/581160/gaggers-title",
+        "title": "Gaggers title",
+        "instructions": "What is this font of this title?",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1227943.jpg",
+        "identified_font": null
+    },
+    {
+        "task_id": "581158",
+        "url": "https://www.dafont.com/forum/read/581158/que-fuente-es",
+        "title": "QUE FUENTE ES?",
+        "instructions": "ME AYUDAN POR FAVOR A UBICAR ESTA FUENTE",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1227939.jpg",
         "identified_font": null
     }
 ]
