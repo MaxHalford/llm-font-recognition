@@ -22532,7 +22532,7 @@
         "url": "https://www.dafont.com/forum/read/580142/cyrillic-font-id",
         "title": "Cyrillic Font ID",
         "instructions": null,
-        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1225894.png",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1225894.png?1",
         "identified_font": null
     },
     {
@@ -29717,6 +29717,30 @@
         "title": "This font\u0092s an original.",
         "instructions": "Font name?",
         "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1227952.jpg",
+        "identified_font": "Unbounded"
+    },
+    {
+        "task_id": "581173",
+        "url": "https://www.dafont.com/forum/read/581173/pls",
+        "title": "PLS",
+        "instructions": "What font is ROSATEA? thanks",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1227972.jpg",
+        "identified_font": null
+    },
+    {
+        "task_id": "581172",
+        "url": "https://www.dafont.com/forum/read/581172/need-to-find-this-font",
+        "title": "NEED TO FIND THIS FONT",
+        "instructions": "Its a little hard to see, if u cant find it its okay.",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1227968.png",
+        "identified_font": null
+    },
+    {
+        "task_id": "581170",
+        "url": "https://www.dafont.com/forum/read/581170/font-help",
+        "title": "font help",
+        "instructions": "anyone know number/name font and front logo script? thanks",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1227963.jpg",
         "identified_font": null
     }
 ]
