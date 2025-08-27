@@ -45187,5 +45187,41 @@
         "candidate_font_3": "SF Collegiate",
         "candidate_font_4": "Jersey M54",
         "candidate_font_5": "Quentin"
+    },
+    {
+        "task_id": "581178",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Hello Stockholm",
+        "candidate_font_2": "Magnolia Sky",
+        "candidate_font_3": "Brighton Script",
+        "candidate_font_4": "The California",
+        "candidate_font_5": "Adorn Garland"
+    },
+    {
+        "task_id": "581177",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Bridgette",
+        "candidate_font_2": "Southampton",
+        "candidate_font_3": "Hello Beautiful",
+        "candidate_font_4": "Magnolia Sky",
+        "candidate_font_5": "Autumn Chant"
+    },
+    {
+        "task_id": "581176",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Always Here",
+        "candidate_font_2": "Brittany Signature",
+        "candidate_font_3": "Magnolia Sky",
+        "candidate_font_4": "Bromello",
+        "candidate_font_5": "Lovely Thoughts"
+    },
+    {
+        "task_id": "581175",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "KG Primary Penmanship",
+        "candidate_font_2": "Bubblegum Pop",
+        "candidate_font_3": "Chewy",
+        "candidate_font_4": "KG Always A Good Time",
+        "candidate_font_5": "Permanent Marker"
     }
 ]
