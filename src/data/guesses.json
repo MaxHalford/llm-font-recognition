@@ -45259,5 +45259,77 @@
         "candidate_font_3": "Adelios",
         "candidate_font_4": "Bright Sunshine",
         "candidate_font_5": "Magnolia Sky"
+    },
+    {
+        "task_id": "581190",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Adobe Garamond Pro",
+        "candidate_font_2": "Minion Pro",
+        "candidate_font_3": "Sabon",
+        "candidate_font_4": "Goudy Old Style",
+        "candidate_font_5": "Centaur"
+    },
+    {
+        "task_id": "581189",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Sentinel Black",
+        "candidate_font_2": "Typo Slab Black",
+        "candidate_font_3": "Adelle Heavy",
+        "candidate_font_4": "Univers Next Slab Serif Black",
+        "candidate_font_5": "Antenna Slab Black"
+    },
+    {
+        "task_id": "581188",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Klavika Bold",
+        "candidate_font_2": "Klavika Black",
+        "candidate_font_3": "Gotham Black",
+        "candidate_font_4": "Gotham Bold",
+        "candidate_font_5": "Roboto Condensed"
+    },
+    {
+        "task_id": "581187",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "University Roman",
+        "candidate_font_2": "Goudy Old Style",
+        "candidate_font_3": "",
+        "candidate_font_4": "",
+        "candidate_font_5": ""
+    },
+    {
+        "task_id": "581186",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Happy Camper",
+        "candidate_font_2": "Moon Get!",
+        "candidate_font_3": "",
+        "candidate_font_4": "",
+        "candidate_font_5": ""
+    },
+    {
+        "task_id": "581185",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Vytor Bold",
+        "candidate_font_2": "Major Block",
+        "candidate_font_3": "SF Sports Night",
+        "candidate_font_4": "Hard Block",
+        "candidate_font_5": "Chisel Wide"
+    },
+    {
+        "task_id": "581184",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Pabst Old Style",
+        "candidate_font_2": "Windsor Std Bold",
+        "candidate_font_3": "Enriqueta Bold",
+        "candidate_font_4": "Goudy Heavyface",
+        "candidate_font_5": "Caxton Bold"
+    },
+    {
+        "task_id": "581183",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Slime Time",
+        "candidate_font_2": "Melted Monster",
+        "candidate_font_3": "Toxic Waste",
+        "candidate_font_4": "Gross Out",
+        "candidate_font_5": "Bubble Mania"
     }
 ]
