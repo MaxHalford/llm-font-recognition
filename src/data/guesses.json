@@ -45115,5 +45115,50 @@
         "candidate_font_3": "Cooper Black Italic",
         "candidate_font_4": "Roadstar",
         "candidate_font_5": "Marketing Script"
+    },
+    {
+        "task_id": "581168",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Verdana",
+        "candidate_font_2": "Tahoma",
+        "candidate_font_3": "Microsoft Sans Serif",
+        "candidate_font_4": "",
+        "candidate_font_5": ""
+    },
+    {
+        "task_id": "581169",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Imunidade Musical",
+        "candidate_font_2": "Cloister Black",
+        "candidate_font_3": "",
+        "candidate_font_4": "",
+        "candidate_font_5": ""
+    },
+    {
+        "task_id": "581167",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Mightor",
+        "candidate_font_2": "Graffogie",
+        "candidate_font_3": "Franklin Gothic Condensed",
+        "candidate_font_4": "Montserrat Bold",
+        "candidate_font_5": "Gotham Black"
+    },
+    {
+        "task_id": "581166",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Loveline Script",
+        "candidate_font_2": "Adora Bouton",
+        "candidate_font_3": "The Historia",
+        "candidate_font_4": "Magnolia Sky",
+        "candidate_font_5": "Great Vibes"
+    },
+    {
+        "task_id": "581165",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Action Is JL",
+        "candidate_font_2": "Grobold",
+        "candidate_font_3": "Burbank Big Condensed Black",
+        "candidate_font_4": "Oswald Heavy",
+        "candidate_font_5": "Fredoka One"
     }
 ]
