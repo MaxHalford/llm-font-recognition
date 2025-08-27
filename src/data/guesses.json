@@ -45160,5 +45160,32 @@
         "candidate_font_3": "Burbank Big Condensed Black",
         "candidate_font_4": "Oswald Heavy",
         "candidate_font_5": "Fredoka One"
+    },
+    {
+        "task_id": "581173",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Mostra Nuova",
+        "candidate_font_2": "ITC Avant Garde Gothic",
+        "candidate_font_3": "Josefin Sans",
+        "candidate_font_4": "Poiret One",
+        "candidate_font_5": "Metropolis 1920"
+    },
+    {
+        "task_id": "581172",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Mostwasted",
+        "candidate_font_2": "Bombing",
+        "candidate_font_3": "Vandalism",
+        "candidate_font_4": "Street Writer",
+        "candidate_font_5": "Throwup"
+    },
+    {
+        "task_id": "581170",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Varsity Team",
+        "candidate_font_2": "The Quickest",
+        "candidate_font_3": "SF Collegiate",
+        "candidate_font_4": "Jersey M54",
+        "candidate_font_5": "Quentin"
     }
 ]
