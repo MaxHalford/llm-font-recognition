@@ -28788,7 +28788,7 @@
         "url": "https://www.dafont.com/forum/read/581026/burro",
         "title": "burro",
         "instructions": "any leads for this font burrocrazia?",
-        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1227703.jpg",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1227703.jpg?1",
         "identified_font": null
     },
     {
@@ -29741,6 +29741,38 @@
         "title": "font help",
         "instructions": "anyone know number/name font and front logo script? thanks",
         "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1227963.jpg",
+        "identified_font": null
+    },
+    {
+        "task_id": "581178",
+        "url": "https://www.dafont.com/forum/read/581178/what-s-this-font",
+        "title": "what\u0092s this font ??",
+        "instructions": null,
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1227978.jpg",
+        "identified_font": null
+    },
+    {
+        "task_id": "581177",
+        "url": "https://www.dafont.com/forum/read/581177/what-s-this-font",
+        "title": "what\u0092s this font ??",
+        "instructions": null,
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1227977.jpg",
+        "identified_font": null
+    },
+    {
+        "task_id": "581176",
+        "url": "https://www.dafont.com/forum/read/581176/what-s-this-font",
+        "title": "what\u0092s this font ??",
+        "instructions": null,
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1227976.jpg",
+        "identified_font": null
+    },
+    {
+        "task_id": "581175",
+        "url": "https://www.dafont.com/forum/read/581175/what-font-is-this-please",
+        "title": "what font is this, please?",
+        "instructions": "Pescheria",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1227974.jpg",
         "identified_font": null
     }
 ]
