@@ -29949,7 +29949,7 @@
         "title": "font ID",
         "instructions": "Does anyone know what font this is?",
         "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1228012.png",
-        "identified_font": null
+        "identified_font": "Adelon Serial Black"
     },
     {
         "task_id": "581191",
@@ -30221,7 +30221,7 @@
         "title": "what's this font please ?",
         "instructions": null,
         "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1228102.jpg",
-        "identified_font": null
+        "identified_font": "Ahellya"
     },
     {
         "task_id": "581233",
@@ -30229,6 +30229,62 @@
         "title": "ROTISSERIE CHICKEN",
         "instructions": "I'm looking for this font or a similar vintage like feel",
         "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1228101.png",
+        "identified_font": null
+    },
+    {
+        "task_id": "581247",
+        "url": "https://www.dafont.com/forum/read/581247/font-id",
+        "title": "font ID",
+        "instructions": "Does anyone know what font this is?",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1228126.png",
+        "identified_font": null
+    },
+    {
+        "task_id": "581246",
+        "url": "https://www.dafont.com/forum/read/581246/font-help-pls",
+        "title": "font help pls",
+        "instructions": "any ideas? thank you",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1228125.png",
+        "identified_font": null
+    },
+    {
+        "task_id": "581245",
+        "url": "https://www.dafont.com/forum/read/581245/please-help-id",
+        "title": "Please Help ID",
+        "instructions": null,
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1228120.png",
+        "identified_font": null
+    },
+    {
+        "task_id": "581244",
+        "url": "https://www.dafont.com/forum/read/581244/gostaria-de-saber-o-nome-dessa-fonte",
+        "title": "gostaria de saber o nome dessa fonte",
+        "instructions": "Qual a fonte que est\u00e1 escrito MARRETA?",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1228119.jpg",
+        "identified_font": null
+    },
+    {
+        "task_id": "581242",
+        "url": "https://www.dafont.com/forum/read/581242/prostor-vreme",
+        "title": "Prostor vreme",
+        "instructions": null,
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1228117.jpg",
+        "identified_font": null
+    },
+    {
+        "task_id": "581241",
+        "url": "https://www.dafont.com/forum/read/581241/qual-a-fonte",
+        "title": "Qual a fonte?",
+        "instructions": "Qual a fonte da imagem",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1228113.jpg",
+        "identified_font": null
+    },
+    {
+        "task_id": "581240",
+        "url": "https://www.dafont.com/forum/read/581240/need-help",
+        "title": "Need Help",
+        "instructions": "Any knows this font?",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1228112.jpg",
         "identified_font": null
     }
 ]
