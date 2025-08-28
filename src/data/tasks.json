@@ -30374,5 +30374,53 @@
         "instructions": "Does anyone know what font this is",
         "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1228127.png",
         "identified_font": null
+    },
+    {
+        "task_id": "581262",
+        "url": "https://www.dafont.com/forum/read/581262/font",
+        "title": "Font",
+        "instructions": null,
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1228170.jpg",
+        "identified_font": null
+    },
+    {
+        "task_id": "581261",
+        "url": "https://www.dafont.com/forum/read/581261/please-help-id",
+        "title": "Please Help ID",
+        "instructions": null,
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1228168.png",
+        "identified_font": null
+    },
+    {
+        "task_id": "581260",
+        "url": "https://www.dafont.com/forum/read/581260/elektromagnetika",
+        "title": "Elektromagnetika",
+        "instructions": null,
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1228163.png",
+        "identified_font": null
+    },
+    {
+        "task_id": "581259",
+        "url": "https://www.dafont.com/forum/read/581259/elipti-ke-funkcije",
+        "title": "Elipti&#269;ke funkcije",
+        "instructions": null,
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1228162.png",
+        "identified_font": null
+    },
+    {
+        "task_id": "581258",
+        "url": "https://www.dafont.com/forum/read/581258/font",
+        "title": "Font",
+        "instructions": null,
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1228161.jpg",
+        "identified_font": null
+    },
+    {
+        "task_id": "269850",
+        "url": "https://www.dafont.com/forum/read/269850/font-please",
+        "title": "Font please",
+        "instructions": null,
+        "img_url": "https://www.dafont.com/forum/attach/orig/6/0/606448.jpg",
+        "identified_font": null
     }
 ]
