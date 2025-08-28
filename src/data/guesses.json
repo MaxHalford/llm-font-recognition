@@ -45484,5 +45484,59 @@
         "candidate_font_3": "Hiragino Kaku Gothic",
         "candidate_font_4": "Yu Gothic",
         "candidate_font_5": "Zen Kaku Gothic New"
+    },
+    {
+        "task_id": "581218",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Slasher Flick",
+        "candidate_font_2": "Demonized",
+        "candidate_font_3": "Bloody",
+        "candidate_font_4": "Metal Mania",
+        "candidate_font_5": "Crash Override"
+    },
+    {
+        "task_id": "581217",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Linotype Didot",
+        "candidate_font_2": "ITC Didot",
+        "candidate_font_3": "Modern No. 20",
+        "candidate_font_4": "Adobe Didot",
+        "candidate_font_5": "Bodoni"
+    },
+    {
+        "task_id": "581216",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Playlist Script",
+        "candidate_font_2": "Lovely Home",
+        "candidate_font_3": "Bromello",
+        "candidate_font_4": "Billabong",
+        "candidate_font_5": "Hello Stockholm"
+    },
+    {
+        "task_id": "581214",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "ChunkFive",
+        "candidate_font_2": "SF Collegiate Solid",
+        "candidate_font_3": "Ultra",
+        "candidate_font_4": "Bevan Bold",
+        "candidate_font_5": "Graduate"
+    },
+    {
+        "task_id": "581212",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Adobe Garamond Pro",
+        "candidate_font_2": "Garamond Premier Pro",
+        "candidate_font_3": "Cormorant Garamond",
+        "candidate_font_4": "EB Garamond",
+        "candidate_font_5": "Sabon"
+    },
+    {
+        "task_id": "581211",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Garamond Italic",
+        "candidate_font_2": "Akzidenz-Grotesk BE Regular Condensed Black",
+        "candidate_font_3": "Helvetica Regular",
+        "candidate_font_4": "DIN Condensed Bold",
+        "candidate_font_5": "Caslon Italic"
     }
 ]
