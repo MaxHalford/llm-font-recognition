@@ -45835,5 +45835,59 @@
         "candidate_font_3": "Octin Sports",
         "candidate_font_4": "Squareo Outline",
         "candidate_font_5": "Aachen Bold"
+    },
+    {
+        "task_id": "581262",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "VAG Rounded",
+        "candidate_font_2": "Chewy",
+        "candidate_font_3": "Bangers",
+        "candidate_font_4": "Cooper Black",
+        "candidate_font_5": "Bubblegum Sans"
+    },
+    {
+        "task_id": "581261",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Mrs Eaves Roman",
+        "candidate_font_2": "Goudy Old Style",
+        "candidate_font_3": "Adobe Caslon Pro",
+        "candidate_font_4": "New Baskerville",
+        "candidate_font_5": "ITC Bookman"
+    },
+    {
+        "task_id": "581260",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Staffordshire Bold",
+        "candidate_font_2": "Clarendon Bold",
+        "candidate_font_3": "Memphis Extra Bold",
+        "candidate_font_4": "Stymie Black",
+        "candidate_font_5": "Serifa Black"
+    },
+    {
+        "task_id": "581259",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Cheltenham Bold Condensed",
+        "candidate_font_2": "Clarendon Bold Condensed",
+        "candidate_font_3": "Ionic No. 5 Bold",
+        "candidate_font_4": "Egyptienne F Bold Condensed",
+        "candidate_font_5": "Memphis Bold Condensed"
+    },
+    {
+        "task_id": "581258",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Caslon",
+        "candidate_font_2": "Adobe Caslon Pro",
+        "candidate_font_3": "Big Caslon",
+        "candidate_font_4": "ITC Caslon 224",
+        "candidate_font_5": "Baskerville"
+    },
+    {
+        "task_id": "269850",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Hello Sunshine",
+        "candidate_font_2": "Lovely Creamy",
+        "candidate_font_3": "Watermelon Script",
+        "candidate_font_4": "Wild Youth",
+        "candidate_font_5": "KG Always a Good Time"
     }
 ]
