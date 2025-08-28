@@ -29813,7 +29813,7 @@
         "title": "Aspen Arcworks",
         "instructions": null,
         "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1228009.png",
-        "identified_font": null
+        "identified_font": "Bellefair"
     },
     {
         "task_id": "581189",
@@ -30069,7 +30069,7 @@
         "title": "FONT PLEASEEEE",
         "instructions": null,
         "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1228049.png",
-        "identified_font": null
+        "identified_font": "Arapey"
     },
     {
         "task_id": "581211",
@@ -30077,6 +30077,46 @@
         "title": "Leon Uris - Mila 18",
         "instructions": null,
         "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1228046.jpg",
+        "identified_font": null
+    },
+    {
+        "task_id": "581222",
+        "url": "https://www.dafont.com/forum/read/581222/salted-egg-font-please",
+        "title": "SALTED EGG FONT PLEASE",
+        "instructions": "THANKS IN ADVANCE",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1228078.png",
+        "identified_font": "Coffee Spark"
+    },
+    {
+        "task_id": "581223",
+        "url": "https://www.dafont.com/forum/read/581223/help-with-font-or-any-similar-ones",
+        "title": "Help with font (or any similar ones)",
+        "instructions": "Thanks in advance! <3",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1228079.png",
+        "identified_font": null
+    },
+    {
+        "task_id": "581221",
+        "url": "https://www.dafont.com/forum/read/581221/costiera-and-napoli",
+        "title": "Costiera and Napoli",
+        "instructions": "Any ID? Grazie",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1228077.jpg",
+        "identified_font": null
+    },
+    {
+        "task_id": "581220",
+        "url": "https://www.dafont.com/forum/read/581220/font-name-please",
+        "title": "Font name please",
+        "instructions": "Font name pls",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1228076.jpg",
+        "identified_font": null
+    },
+    {
+        "task_id": "581219",
+        "url": "https://www.dafont.com/forum/read/581219/what-font-is-this",
+        "title": "what font is this",
+        "instructions": "anyone know this font or similar",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1228075.png",
         "identified_font": null
     }
 ]
