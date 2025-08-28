@@ -45637,5 +45637,68 @@
         "candidate_font_3": "Microgramma D Extended",
         "candidate_font_4": "Square 721 Extended Bold",
         "candidate_font_5": "BankGothic Extended Medium"
+    },
+    {
+        "task_id": "581239",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Antara Signature",
+        "candidate_font_2": "Stay Grateful",
+        "candidate_font_3": "Madelyn Script",
+        "candidate_font_4": "Magnolia Sky",
+        "candidate_font_5": "Hello Beautiful"
+    },
+    {
+        "task_id": "581238",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Bratz Font by M_D_M",
+        "candidate_font_2": "Pump Demi Bold",
+        "candidate_font_3": "Cooper Black",
+        "candidate_font_4": "Candy Shop",
+        "candidate_font_5": "Porky's"
+    },
+    {
+        "task_id": "581237",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Franklin Gothic Extra Compressed",
+        "candidate_font_2": "Anton",
+        "candidate_font_3": "Akzidenz-Grotesk Bold Condensed",
+        "candidate_font_4": "Trade Gothic Condensed",
+        "candidate_font_5": "Impact"
+    },
+    {
+        "task_id": "581236",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Neuzeit Grotesk Black",
+        "candidate_font_2": "Futura ExtraBold",
+        "candidate_font_3": "Twentieth Century MT Std Black",
+        "candidate_font_4": "Verlag Black",
+        "candidate_font_5": "Avenir 95 Black"
+    },
+    {
+        "task_id": "581235",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Montserrat Bold",
+        "candidate_font_2": "Titillium Web Bold",
+        "candidate_font_3": "Open Sans Bold",
+        "candidate_font_4": "Roboto Bold",
+        "candidate_font_5": "Proxima Nova Bold"
+    },
+    {
+        "task_id": "581234",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Bembo",
+        "candidate_font_2": "Adobe Garamond",
+        "candidate_font_3": "Janson Text",
+        "candidate_font_4": "Sabon",
+        "candidate_font_5": "Centaur"
+    },
+    {
+        "task_id": "581233",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Colossalis",
+        "candidate_font_2": "Aachen Std Bold",
+        "candidate_font_3": "ITC Windsor Heavy",
+        "candidate_font_4": "Bookman Old Style Black",
+        "candidate_font_5": "Blackoak Standard"
     }
 ]
