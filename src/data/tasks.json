@@ -29221,7 +29221,7 @@
         "title": "what\u0092s this font ??",
         "instructions": null,
         "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1227840.jpg",
-        "identified_font": null
+        "identified_font": "ChunkFive Ex"
     },
     {
         "task_id": "581093",
@@ -30021,6 +30021,62 @@
         "title": "Kan font please",
         "instructions": null,
         "img_url": "https://www.dafont.com/forum/attach/orig/1/1/1173733.png?1",
+        "identified_font": null
+    },
+    {
+        "task_id": "581218",
+        "url": "https://www.dafont.com/forum/read/581218/font-name-pls",
+        "title": "Font name pls :)",
+        "instructions": "\u0084EXPOSED\u0093",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1228064.jpg",
+        "identified_font": null
+    },
+    {
+        "task_id": "581217",
+        "url": "https://www.dafont.com/forum/read/581217/billie-font-name-thank-you",
+        "title": "Billie FONT NAME? thank you!",
+        "instructions": null,
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1228060.jpg",
+        "identified_font": null
+    },
+    {
+        "task_id": "581210",
+        "url": "https://www.dafont.com/forum/read/581210/font",
+        "title": "Font",
+        "instructions": "I know I downloaded this font from dafont two years ago but I got a new computer and cannot find it for the life of me. Please and thank you!",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1228045.png",
+        "identified_font": "Amatic SC Bold"
+    },
+    {
+        "task_id": "581216",
+        "url": "https://www.dafont.com/forum/read/581216/nombre-de-la-tipografia-por-favor-name-of-the-font-please",
+        "title": "Nombre de la tipograf\u00eda, por favor. Name of the font, please.",
+        "instructions": null,
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1228055.png",
+        "identified_font": null
+    },
+    {
+        "task_id": "581214",
+        "url": "https://www.dafont.com/forum/read/581214/anyone-know-this-slab-font",
+        "title": "Anyone Know this Slab Font?",
+        "instructions": "Not the greatest image and I know it has been enveloped but does anyone know this font so I can recreate this?",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1228052.jpg",
+        "identified_font": null
+    },
+    {
+        "task_id": "581212",
+        "url": "https://www.dafont.com/forum/read/581212/font-pleaseeee",
+        "title": "FONT PLEASEEEE",
+        "instructions": null,
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1228049.png",
+        "identified_font": null
+    },
+    {
+        "task_id": "581211",
+        "url": "https://www.dafont.com/forum/read/581211/leon-uris-mila-18",
+        "title": "Leon Uris - Mila 18",
+        "instructions": null,
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1228046.jpg",
         "identified_font": null
     }
 ]
