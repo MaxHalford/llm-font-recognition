@@ -45700,5 +45700,68 @@
         "candidate_font_3": "ITC Windsor Heavy",
         "candidate_font_4": "Bookman Old Style Black",
         "candidate_font_5": "Blackoak Standard"
+    },
+    {
+        "task_id": "581247",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Oswald Bold",
+        "candidate_font_2": "Archivo Black",
+        "candidate_font_3": "PT Sans Narrow Bold",
+        "candidate_font_4": "Roboto Condensed Bold",
+        "candidate_font_5": "Open Sans Condensed Bold"
+    },
+    {
+        "task_id": "581246",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Didot",
+        "candidate_font_2": "Bodoni",
+        "candidate_font_3": "Garamond",
+        "candidate_font_4": "Monotype Didot",
+        "candidate_font_5": "Adobe Garamond"
+    },
+    {
+        "task_id": "581245",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Montserrat Bold",
+        "candidate_font_2": "Gilroy Bold",
+        "candidate_font_3": "Proxima Nova Bold",
+        "candidate_font_4": "Circular Std Bold",
+        "candidate_font_5": "Rubik Bold"
+    },
+    {
+        "task_id": "581244",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Hokjesgeest",
+        "candidate_font_2": "Bad Mofo",
+        "candidate_font_3": "Lemon Milk Pro Distorted",
+        "candidate_font_4": "Headhunter",
+        "candidate_font_5": "Ananda Black"
+    },
+    {
+        "task_id": "581242",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Data 70",
+        "candidate_font_2": "Square 721 BT",
+        "candidate_font_3": "Fixedsys",
+        "candidate_font_4": "Perfect DOS VGA 437",
+        "candidate_font_5": "Arcade Classic"
+    },
+    {
+        "task_id": "581241",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Luxerie Display",
+        "candidate_font_2": "Ambrosia",
+        "candidate_font_3": "Rosalina Serif",
+        "candidate_font_4": "Magnolia LFN",
+        "candidate_font_5": "Plaak Display"
+    },
+    {
+        "task_id": "581240",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Koulen Regular",
+        "candidate_font_2": "Bebas Kai",
+        "candidate_font_3": "Archivo Black",
+        "candidate_font_4": "Akrobat Black",
+        "candidate_font_5": "Univers 87 ExtraBlack Extended"
     }
 ]
