@@ -29957,7 +29957,7 @@
         "title": "Whats the font?",
         "instructions": "Help.",
         "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1228011.png",
-        "identified_font": null
+        "identified_font": "Bertram"
     },
     {
         "task_id": "581208",
@@ -30029,7 +30029,7 @@
         "title": "Font name pls :)",
         "instructions": "\u0084EXPOSED\u0093",
         "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1228064.jpg",
-        "identified_font": null
+        "identified_font": "Toxia"
     },
     {
         "task_id": "581217",
@@ -30253,7 +30253,7 @@
         "title": "Please Help ID",
         "instructions": null,
         "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1228120.png",
-        "identified_font": null
+        "identified_font": "Poppins Medium 500"
     },
     {
         "task_id": "581244",
@@ -30261,7 +30261,7 @@
         "title": "gostaria de saber o nome dessa fonte",
         "instructions": "Qual a fonte que est\u00e1 escrito MARRETA?",
         "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1228119.jpg",
-        "identified_font": null
+        "identified_font": "Feast of Flesh BB"
     },
     {
         "task_id": "581242",
@@ -30285,6 +30285,94 @@
         "title": "Need Help",
         "instructions": "Any knows this font?",
         "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1228112.jpg",
+        "identified_font": null
+    },
+    {
+        "task_id": "581255",
+        "url": "https://www.dafont.com/forum/read/581255/what-is-the-font-used-for-night-of-the-dead-thanks",
+        "title": "What is the font used for \"Night Of The Dead\"? Thanks",
+        "instructions": null,
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1228153.png",
+        "identified_font": "Dire Wolf"
+    },
+    {
+        "task_id": "581257",
+        "url": "https://www.dafont.com/forum/read/581257/altrona-font-plz",
+        "title": "Altrona font plz",
+        "instructions": null,
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1228157.jpg",
+        "identified_font": null
+    },
+    {
+        "task_id": "581250",
+        "url": "https://www.dafont.com/forum/read/581250/que-font-es",
+        "title": "Que font es?",
+        "instructions": "Hola queria saber si alguin sabe que tipografia seria esta. Gracias",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1228141.jpg",
+        "identified_font": "Cinzel"
+    },
+    {
+        "task_id": "581254",
+        "url": "https://www.dafont.com/forum/read/581254/what-is-this-font",
+        "title": "what is this font?",
+        "instructions": null,
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1228150.png",
+        "identified_font": null
+    },
+    {
+        "task_id": "279876",
+        "url": "https://www.dafont.com/forum/read/279876/font-please",
+        "title": "Font please",
+        "instructions": null,
+        "img_url": "https://www.dafont.com/forum/attach/orig/6/2/626040.png",
+        "identified_font": null
+    },
+    {
+        "task_id": "581253",
+        "url": "https://www.dafont.com/forum/read/581253/2-fast-2-furious",
+        "title": "2 Fast 2 Furious",
+        "instructions": "Does anyone know the font in this image? I've looked and looked and looked on every other font website I could find. No luck.",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1228148.jpg",
+        "identified_font": null
+    },
+    {
+        "task_id": "419564",
+        "url": "https://www.dafont.com/forum/read/419564/both-fonts-pls-dragon-slayer-natsu-dragneel",
+        "title": "Both Fonts pls (Dragon Slayer + Natsu Dragneel)",
+        "instructions": null,
+        "img_url": "https://www.dafont.com/forum/attach/orig/9/0/902448.png",
+        "identified_font": null
+    },
+    {
+        "task_id": "536282",
+        "url": "https://www.dafont.com/forum/read/536282/sky-ferreira-font",
+        "title": "Sky Ferreira font",
+        "instructions": "I cannot for the life of my figure out what font this is.",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/1/1133652.png",
+        "identified_font": null
+    },
+    {
+        "task_id": "546328",
+        "url": "https://www.dafont.com/forum/read/546328/levi-s-tailor-shop-logo-font",
+        "title": "Levi's Tailor Shop logo font",
+        "instructions": null,
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/1/1155187.png?1",
+        "identified_font": null
+    },
+    {
+        "task_id": "581249",
+        "url": "https://www.dafont.com/forum/read/581249/what-font-is-this-please",
+        "title": "what font is this, please?",
+        "instructions": "QUARTA",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1228130.jpg",
+        "identified_font": "Swamp Witch"
+    },
+    {
+        "task_id": "581248",
+        "url": "https://www.dafont.com/forum/read/581248/compact-scifi-font-identity",
+        "title": "Compact SciFi Font Identity",
+        "instructions": "Does anyone know what font this is",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1228127.png",
         "identified_font": null
     }
 ]
