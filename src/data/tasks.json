@@ -29917,7 +29917,7 @@
         "title": "Buon giorno. MI potete aiutare?Grazie",
         "instructions": null,
         "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1228017.png",
-        "identified_font": null
+        "identified_font": "Seagram TFB"
     },
     {
         "task_id": "581195",
@@ -29925,7 +29925,7 @@
         "title": "does anyone know this chaereve lyrics font?",
         "instructions": null,
         "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1228015.jpg",
-        "identified_font": null
+        "identified_font": "Typo Dorandoran"
     },
     {
         "task_id": "581194",
@@ -30124,8 +30124,8 @@
         "url": "https://www.dafont.com/forum/read/581229/names-of-the-fonts-please",
         "title": "Names of the fonts please",
         "instructions": null,
-        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1228088.png",
-        "identified_font": null
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1228088.jpg?1",
+        "identified_font": "Next Generation"
     },
     {
         "task_id": "581228",
@@ -30133,7 +30133,7 @@
         "title": "Font used for the Psycho Dream logo?",
         "instructions": "It looks like one of the medieval looking fonts but with some differences.",
         "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1228085.png",
-        "identified_font": null
+        "identified_font": "Wormwood"
     },
     {
         "task_id": "581225",
@@ -30149,6 +30149,30 @@
         "title": "What font",
         "instructions": "What font is this",
         "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1228081.png?1",
+        "identified_font": null
+    },
+    {
+        "task_id": "581232",
+        "url": "https://www.dafont.com/forum/read/581232/any-font-close-to-this-similar-to-this",
+        "title": "Any font close to this - similar to this ?",
+        "instructions": "Thanks for your help",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1228099.png",
+        "identified_font": null
+    },
+    {
+        "task_id": "581231",
+        "url": "https://www.dafont.com/forum/read/581231/need-help",
+        "title": "Need help",
+        "instructions": "If someone can tell me which font it is... Thanks",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1228095.jpg",
+        "identified_font": null
+    },
+    {
+        "task_id": "581230",
+        "url": "https://www.dafont.com/forum/read/581230/new-font",
+        "title": "New Font",
+        "instructions": "Can you tell of tjis New font?",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1228094.png",
         "identified_font": null
     }
 ]
