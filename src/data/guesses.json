@@ -45763,5 +45763,77 @@
         "candidate_font_3": "Archivo Black",
         "candidate_font_4": "Akrobat Black",
         "candidate_font_5": "Univers 87 ExtraBlack Extended"
+    },
+    {
+        "task_id": "581257",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Gilroy ExtraBold",
+        "candidate_font_2": "Gobold Bold",
+        "candidate_font_3": "TT Norms Pro ExtraBold",
+        "candidate_font_4": "Uni Sans Heavy",
+        "candidate_font_5": "Maison Neue Bold"
+    },
+    {
+        "task_id": "581254",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Bubblegum Pop",
+        "candidate_font_2": "Bubblegum Sans",
+        "candidate_font_3": "Chewy",
+        "candidate_font_4": "Luckiest Guy",
+        "candidate_font_5": "Pangolin"
+    },
+    {
+        "task_id": "279876",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Great Vibes",
+        "candidate_font_2": "Dancing Script",
+        "candidate_font_3": "Allura",
+        "candidate_font_4": "Alex Brush",
+        "candidate_font_5": "Kaushan Script"
+    },
+    {
+        "task_id": "581253",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Fast 97 Italic",
+        "candidate_font_2": "Microgramma D Extended Bold Italic",
+        "candidate_font_3": "Eurostile Extended #2 Italic",
+        "candidate_font_4": "Speedfreak",
+        "candidate_font_5": "SF Sports Night Italic"
+    },
+    {
+        "task_id": "419564",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Bebas Neue Brush",
+        "candidate_font_2": "Impacted",
+        "candidate_font_3": "Rustling Brushes",
+        "candidate_font_4": "Blackout Midnight",
+        "candidate_font_5": "Bebas Neue"
+    },
+    {
+        "task_id": "536282",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Big Noodle Titling",
+        "candidate_font_2": "Bebas Neue",
+        "candidate_font_3": "Impact",
+        "candidate_font_4": "Agency FB",
+        "candidate_font_5": "Anton"
+    },
+    {
+        "task_id": "546328",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Oswald",
+        "candidate_font_2": "Bebas Neue",
+        "candidate_font_3": "Archivo",
+        "candidate_font_4": "League Spartan",
+        "candidate_font_5": "Work Sans"
+    },
+    {
+        "task_id": "581248",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Varsity Team",
+        "candidate_font_2": "SF Collegiate Heavy",
+        "candidate_font_3": "Octin Sports",
+        "candidate_font_4": "Squareo Outline",
+        "candidate_font_5": "Aachen Bold"
     }
 ]
