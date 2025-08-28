@@ -30174,5 +30174,61 @@
         "instructions": "Can you tell of tjis New font?",
         "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1228094.png",
         "identified_font": null
+    },
+    {
+        "task_id": "581239",
+        "url": "https://www.dafont.com/forum/read/581239/tittle-font-name-jungkok-please",
+        "title": "Tittle font name \"JUNGKOK\" please",
+        "instructions": null,
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1228107.jpg",
+        "identified_font": null
+    },
+    {
+        "task_id": "581238",
+        "url": "https://www.dafont.com/forum/read/581238/bratz-please",
+        "title": "Bratz (please).",
+        "instructions": null,
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1228106.jpg",
+        "identified_font": null
+    },
+    {
+        "task_id": "581237",
+        "url": "https://www.dafont.com/forum/read/581237/font",
+        "title": "Font",
+        "instructions": null,
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1228105.jpg",
+        "identified_font": null
+    },
+    {
+        "task_id": "581236",
+        "url": "https://www.dafont.com/forum/read/581236/font",
+        "title": "Font",
+        "instructions": null,
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1228104.jpg",
+        "identified_font": null
+    },
+    {
+        "task_id": "581235",
+        "url": "https://www.dafont.com/forum/read/581235/font",
+        "title": "Font",
+        "instructions": null,
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1228103.jpg",
+        "identified_font": null
+    },
+    {
+        "task_id": "581234",
+        "url": "https://www.dafont.com/forum/read/581234/what-s-this-font-please",
+        "title": "what's this font please ?",
+        "instructions": null,
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1228102.jpg",
+        "identified_font": null
+    },
+    {
+        "task_id": "581233",
+        "url": "https://www.dafont.com/forum/read/581233/rotisserie-chicken",
+        "title": "ROTISSERIE CHICKEN",
+        "instructions": "I'm looking for this font or a similar vintage like feel",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1228101.png",
+        "identified_font": null
     }
 ]
