@@ -45610,5 +45610,32 @@
         "candidate_font_3": "Boogaloo",
         "candidate_font_4": "Bubblegum Sans",
         "candidate_font_5": "Chewy"
+    },
+    {
+        "task_id": "581232",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Lovelovers",
+        "candidate_font_2": "Beauty Bright",
+        "candidate_font_3": "Stay Grateful",
+        "candidate_font_4": "Hello Sweety",
+        "candidate_font_5": "Cream Candy"
+    },
+    {
+        "task_id": "581231",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Ponderosa",
+        "candidate_font_2": "Pump Pro Ultra",
+        "candidate_font_3": "Blippo Black",
+        "candidate_font_4": "Soulsauce",
+        "candidate_font_5": "Cooper Black"
+    },
+    {
+        "task_id": "581230",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Exter Extended",
+        "candidate_font_2": "Exter",
+        "candidate_font_3": "Microgramma D Extended",
+        "candidate_font_4": "Square 721 Extended Bold",
+        "candidate_font_5": "BankGothic Extended Medium"
     }
 ]
