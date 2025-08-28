@@ -45574,5 +45574,41 @@
         "candidate_font_3": "Soft Sugar",
         "candidate_font_4": "Gooey",
         "candidate_font_5": "Wavy Tune"
+    },
+    {
+        "task_id": "581229",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "The Bubblegum",
+        "candidate_font_2": "Lemon Milk Bold",
+        "candidate_font_3": "Open Sans Italic",
+        "candidate_font_4": "Gobold",
+        "candidate_font_5": "Bebas Neue"
+    },
+    {
+        "task_id": "581228",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Immortal",
+        "candidate_font_2": "Black Castle",
+        "candidate_font_3": "Folkard",
+        "candidate_font_4": "Old London",
+        "candidate_font_5": "Dragonwick"
+    },
+    {
+        "task_id": "581225",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Defused",
+        "candidate_font_2": "Top Heavy",
+        "candidate_font_3": "Bank Gothic Rounded",
+        "candidate_font_4": "Microgramma Extended Bold",
+        "candidate_font_5": "Eurostile Extended Bold"
+    },
+    {
+        "task_id": "581224",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Fredoka One",
+        "candidate_font_2": "Lilita One",
+        "candidate_font_3": "Boogaloo",
+        "candidate_font_4": "Bubblegum Sans",
+        "candidate_font_5": "Chewy"
     }
 ]
