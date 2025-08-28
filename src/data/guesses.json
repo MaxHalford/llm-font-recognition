@@ -45538,5 +45538,41 @@
         "candidate_font_3": "Helvetica Regular",
         "candidate_font_4": "DIN Condensed Bold",
         "candidate_font_5": "Caslon Italic"
+    },
+    {
+        "task_id": "581223",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Press Start 2P",
+        "candidate_font_2": "04B_03",
+        "candidate_font_3": "Atari Classic Chunky",
+        "candidate_font_4": "Pixeloid Sans",
+        "candidate_font_5": "VCR OSD Mono"
+    },
+    {
+        "task_id": "581221",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Pump Demi Bold",
+        "candidate_font_2": "Inter",
+        "candidate_font_3": "Creamy Script",
+        "candidate_font_4": "Wild Mango",
+        "candidate_font_5": "Quick Kiss"
+    },
+    {
+        "task_id": "581220",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Atari Classic Outline",
+        "candidate_font_2": "SF Square Head Outline",
+        "candidate_font_3": "Digital Strip Outline",
+        "candidate_font_4": "Arcade Block Outline",
+        "candidate_font_5": "Cyberbit Outline"
+    },
+    {
+        "task_id": "581219",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Melting Hearts",
+        "candidate_font_2": "Bubber",
+        "candidate_font_3": "Soft Sugar",
+        "candidate_font_4": "Gooey",
+        "candidate_font_5": "Wavy Tune"
     }
 ]
