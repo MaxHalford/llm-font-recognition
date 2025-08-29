@@ -45889,5 +45889,50 @@
         "candidate_font_3": "Watermelon Script",
         "candidate_font_4": "Wild Youth",
         "candidate_font_5": "KG Always a Good Time"
+    },
+    {
+        "task_id": "581268",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Starlit Drive",
+        "candidate_font_2": "Quickplay",
+        "candidate_font_3": "October Twilight",
+        "candidate_font_4": "Brannboll FS",
+        "candidate_font_5": "Brody"
+    },
+    {
+        "task_id": "581265",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Monotype Old Style",
+        "candidate_font_2": "Cloister Old Style",
+        "candidate_font_3": "Goudy Old Style",
+        "candidate_font_4": "Adobe Didot Pro",
+        "candidate_font_5": "Adobe Garamond Pro"
+    },
+    {
+        "task_id": "581267",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Poppins",
+        "candidate_font_2": "Montserrat",
+        "candidate_font_3": "Gotham",
+        "candidate_font_4": "Mulish",
+        "candidate_font_5": "Circular"
+    },
+    {
+        "task_id": "581264",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Stay Grateful",
+        "candidate_font_2": "KG Sorry Not Sorry",
+        "candidate_font_3": "KG Summer Sunshine",
+        "candidate_font_4": "Handlee",
+        "candidate_font_5": "Indie Flower"
+    },
+    {
+        "task_id": "581263",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Montserrat Black",
+        "candidate_font_2": "Oswald Bold",
+        "candidate_font_3": "Proxima Nova Black",
+        "candidate_font_4": "Franklin Gothic Heavy",
+        "candidate_font_5": "Gotham Black"
     }
 ]
