@@ -45988,5 +45988,32 @@
         "candidate_font_3": "Melted Monster",
         "candidate_font_4": "Gooey",
         "candidate_font_5": "Toxic Waste"
+    },
+    {
+        "task_id": "581281",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "DS Moster",
+        "candidate_font_2": "Capture It",
+        "candidate_font_3": "Countdown Regular",
+        "candidate_font_4": "Techno Hideo",
+        "candidate_font_5": "SF Collegiate"
+    },
+    {
+        "task_id": "581279",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "HVD Comic Serif Pro",
+        "candidate_font_2": "VAG Rounded",
+        "candidate_font_3": "Nunito",
+        "candidate_font_4": "Fredoka One",
+        "candidate_font_5": "Boogaloo"
+    },
+    {
+        "task_id": "581278",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Geometria Rounded Bold",
+        "candidate_font_2": "Circe Rounded Bold",
+        "candidate_font_3": "Gilroy Rounded Bold",
+        "candidate_font_4": "TT Norms Pro Rounded Bold",
+        "candidate_font_5": "VAG Rounded Bold"
     }
 ]
