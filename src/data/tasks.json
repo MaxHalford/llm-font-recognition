@@ -29685,7 +29685,7 @@
         "title": "CBJR Album Cover Font",
         "instructions": "\"Imunidade Musical\"",
         "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1227960.jpg",
-        "identified_font": null
+        "identified_font": "Edwardian Script"
     },
     {
         "task_id": "581167",
@@ -30500,7 +30500,31 @@
         "url": "https://www.dafont.com/forum/read/581269/all-fonts-please",
         "title": "all fonts please",
         "instructions": null,
-        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1228182.jpg",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1228182.jpg?1",
+        "identified_font": "Be You"
+    },
+    {
+        "task_id": "581274",
+        "url": "https://www.dafont.com/forum/read/581274/children-font",
+        "title": "Children font",
+        "instructions": "Any body know this font, it looks similar to Berryfield but it\u0092s not.",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1228190.png?1",
+        "identified_font": "Calistoga"
+    },
+    {
+        "task_id": "581275",
+        "url": "https://www.dafont.com/forum/read/581275/what-font-is-this",
+        "title": "What font is this?",
+        "instructions": "Please, I need this font :(",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1228193.png?1",
+        "identified_font": null
+    },
+    {
+        "task_id": "581277",
+        "url": "https://www.dafont.com/forum/read/581277/need-help",
+        "title": "NEED HELP",
+        "instructions": "PLESASE, SOMBODY HELP ME!",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1228195.png?1",
         "identified_font": null
     }
 ]
