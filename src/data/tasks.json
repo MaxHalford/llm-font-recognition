@@ -30300,8 +30300,8 @@
         "url": "https://www.dafont.com/forum/read/581257/altrona-font-plz",
         "title": "Altrona font plz",
         "instructions": null,
-        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1228157.jpg",
-        "identified_font": null
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1228157.png?1",
+        "identified_font": "Audiowide"
     },
     {
         "task_id": "581250",
@@ -30316,8 +30316,8 @@
         "url": "https://www.dafont.com/forum/read/581254/what-is-this-font",
         "title": "what is this font?",
         "instructions": null,
-        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1228150.png",
-        "identified_font": null
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1228150.png?1",
+        "identified_font": "Keycs Handwritting"
     },
     {
         "task_id": "279876",
@@ -30428,7 +30428,7 @@
         "url": "https://www.dafont.com/forum/read/581268/help-finding-font-or-similar-font-please",
         "title": "Help finding font or similar font please",
         "instructions": "Just need to know if anyone knows this font, or something very very similar. Taking into account the R and the straight lines on the d. Thank you so much in advance. Hopefully this gets seen. I appreciate your time.",
-        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1228181.png",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1228181.png?1",
         "identified_font": null
     },
     {
@@ -30469,6 +30469,38 @@
         "title": "caps burger",
         "instructions": "help please",
         "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1228171.jpg",
+        "identified_font": null
+    },
+    {
+        "task_id": "581273",
+        "url": "https://www.dafont.com/forum/read/581273/gramavision",
+        "title": "gramavision",
+        "instructions": "help, vinyl company!",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1228188.png?1",
+        "identified_font": null
+    },
+    {
+        "task_id": "581271",
+        "url": "https://www.dafont.com/forum/read/581271/does-anyone-know-this-font",
+        "title": "Does anyone know this font?",
+        "instructions": null,
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1228185.png?1",
+        "identified_font": null
+    },
+    {
+        "task_id": "581270",
+        "url": "https://www.dafont.com/forum/read/581270/font-name-please",
+        "title": "Font name please?",
+        "instructions": null,
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1228184.jpg",
+        "identified_font": null
+    },
+    {
+        "task_id": "581269",
+        "url": "https://www.dafont.com/forum/read/581269/all-fonts-please",
+        "title": "all fonts please",
+        "instructions": null,
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1228182.jpg",
         "identified_font": null
     }
 ]
