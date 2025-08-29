@@ -30452,7 +30452,7 @@
         "url": "https://www.dafont.com/forum/read/581267/whats-the-font",
         "title": "Whats the font?",
         "instructions": null,
-        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1228178.jpg",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1228178.png?1",
         "identified_font": null
     },
     {
@@ -30525,6 +30525,30 @@
         "title": "NEED HELP",
         "instructions": "PLESASE, SOMBODY HELP ME!",
         "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1228195.png?1",
+        "identified_font": null
+    },
+    {
+        "task_id": "581281",
+        "url": "https://www.dafont.com/forum/read/581281/can-you-help-me-identify-the-font-of-the-word-evidence-thanks-a-lot",
+        "title": "Can you help me identify the font of the word \"EVIDENCE\"? Thanks a lot.",
+        "instructions": null,
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1228207.png",
+        "identified_font": null
+    },
+    {
+        "task_id": "581279",
+        "url": "https://www.dafont.com/forum/read/581279/what-font-is-this-arthur-s-episode-title-card-1",
+        "title": "What font is this?: Arthur's episode title card 1",
+        "instructions": "From season 19",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1228205.png",
+        "identified_font": null
+    },
+    {
+        "task_id": "581278",
+        "url": "https://www.dafont.com/forum/read/581278/font",
+        "title": "Font",
+        "instructions": null,
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1228204.jpg",
         "identified_font": null
     }
 ]
