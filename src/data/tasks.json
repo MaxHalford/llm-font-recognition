@@ -30678,5 +30678,61 @@
         "instructions": "aidez moi",
         "img_url": "https://www.dafont.com/forum/attach/orig/9/4/940194.png",
         "identified_font": null
+    },
+    {
+        "task_id": "581303",
+        "url": "https://www.dafont.com/forum/read/581303/what-font-is-this-or-similar-please",
+        "title": "&#128270; What font is this (or similar)? Please.",
+        "instructions": "Thanks!",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1228245.png",
+        "identified_font": null
+    },
+    {
+        "task_id": "581302",
+        "url": "https://www.dafont.com/forum/read/581302/what-font-is-this-or-similar-please",
+        "title": "&#128270; What font is this (or similar)? Please.",
+        "instructions": "Thanks!",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1228244.png",
+        "identified_font": null
+    },
+    {
+        "task_id": "581301",
+        "url": "https://www.dafont.com/forum/read/581301/what-s-this-serif-font",
+        "title": "What's this serif font",
+        "instructions": "Somebody sent me this and asked to match this font. Matcherators not giving good similar alternates. Any help will be appreciated.",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1228242.jpg",
+        "identified_font": null
+    },
+    {
+        "task_id": "581300",
+        "url": "https://www.dafont.com/forum/read/581300/fonte",
+        "title": "fonte",
+        "instructions": null,
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1228240.jpg",
+        "identified_font": null
+    },
+    {
+        "task_id": "581299",
+        "url": "https://www.dafont.com/forum/read/581299/font-dnevnik-grofa-ciana",
+        "title": "Font dnevnik Grofa Ciana",
+        "instructions": null,
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1228239.jpg",
+        "identified_font": null
+    },
+    {
+        "task_id": "581298",
+        "url": "https://www.dafont.com/forum/read/581298/font",
+        "title": "Font",
+        "instructions": null,
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1228238.jpg",
+        "identified_font": null
+    },
+    {
+        "task_id": "581297",
+        "url": "https://www.dafont.com/forum/read/581297/porodi-no-pravo",
+        "title": "Porodi&#269;no pravo",
+        "instructions": null,
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1228237.jpg",
+        "identified_font": null
     }
 ]
