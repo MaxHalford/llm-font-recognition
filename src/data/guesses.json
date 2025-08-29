@@ -46015,5 +46015,50 @@
         "candidate_font_3": "Gilroy Rounded Bold",
         "candidate_font_4": "TT Norms Pro Rounded Bold",
         "candidate_font_5": "VAG Rounded Bold"
+    },
+    {
+        "task_id": "581285",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "VAG Rounded",
+        "candidate_font_2": "Brandon Grotesque Rounded",
+        "candidate_font_3": "Gelion Rounded",
+        "candidate_font_4": "Gordita Rounded",
+        "candidate_font_5": "Quicksand"
+    },
+    {
+        "task_id": "581284",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Tahoma",
+        "candidate_font_2": "Franklin Gothic Condensed Bold",
+        "candidate_font_3": "Arial",
+        "candidate_font_4": "Microsoft Sans Serif",
+        "candidate_font_5": "Franklin Gothic Book Condensed"
+    },
+    {
+        "task_id": "547076",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "KCC-Murukmuruk",
+        "candidate_font_2": "Bubblegum Sans",
+        "candidate_font_3": "Fredoka One",
+        "candidate_font_4": "GmarketSans Bold",
+        "candidate_font_5": "Nanum Square Round ExtraBold"
+    },
+    {
+        "task_id": "581283",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Lust Didone",
+        "candidate_font_2": "Linotype Didot Roman",
+        "candidate_font_3": "Didot",
+        "candidate_font_4": "Bodoni",
+        "candidate_font_5": "Vidaloka"
+    },
+    {
+        "task_id": "581282",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Starkissed",
+        "candidate_font_2": "Dragonwick",
+        "candidate_font_3": "Old London",
+        "candidate_font_4": "Blackletter (Pizzadude)",
+        "candidate_font_5": "Requiem"
     }
 ]
