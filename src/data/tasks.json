@@ -30629,7 +30629,7 @@
         "title": "font fairy name ?",
         "instructions": null,
         "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1228227.jpg",
-        "identified_font": null
+        "identified_font": "Hoefler Text Black"
     },
     {
         "task_id": "581292",
@@ -30669,7 +30669,7 @@
         "title": "can you help identify this font for me please",
         "instructions": "thank you",
         "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1228219.png",
-        "identified_font": null
+        "identified_font": "Tempting"
     },
     {
         "task_id": "438827",
@@ -30685,7 +30685,7 @@
         "title": "&#128270; What font is this (or similar)? Please.",
         "instructions": "Thanks!",
         "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1228245.png",
-        "identified_font": null
+        "identified_font": "Stencilum"
     },
     {
         "task_id": "581302",
@@ -30733,6 +30733,102 @@
         "title": "Porodi&#269;no pravo",
         "instructions": null,
         "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1228237.jpg",
+        "identified_font": null
+    },
+    {
+        "task_id": "581315",
+        "url": "https://www.dafont.com/forum/read/581315/what-font-is",
+        "title": "what font is?",
+        "instructions": "Hello, can you help me with the BUFALO font, please?",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1228272.jpg",
+        "identified_font": null
+    },
+    {
+        "task_id": "581314",
+        "url": "https://www.dafont.com/forum/read/581314/overnight-at-alcatraz",
+        "title": "\"Overnight at Alcatraz\"",
+        "instructions": null,
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1228271.png",
+        "identified_font": null
+    },
+    {
+        "task_id": "581313",
+        "url": "https://www.dafont.com/forum/read/581313/font-please",
+        "title": "font, please!!",
+        "instructions": "anybody know the font used for this?",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1228269.png",
+        "identified_font": null
+    },
+    {
+        "task_id": "581312",
+        "url": "https://www.dafont.com/forum/read/581312/what-font-is-this",
+        "title": "what font is this?",
+        "instructions": "what font is used in the logo of roblox game Bar do Bira?",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1228268.png",
+        "identified_font": null
+    },
+    {
+        "task_id": "581311",
+        "url": "https://www.dafont.com/forum/read/581311/cual-fuente-es-whats-foint",
+        "title": "Cual fuente es? Whats foint?",
+        "instructions": "Se buscan ambas fuentes, espero puedan ayudarme. gracias",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1228267.jpg",
+        "identified_font": null
+    },
+    {
+        "task_id": "581310",
+        "url": "https://www.dafont.com/forum/read/581310/tweek-bros-coffee-logo-top-text-font",
+        "title": "Tweek Bros. Coffee logo top text font?",
+        "instructions": null,
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1228260.png",
+        "identified_font": "Volta Bold"
+    },
+    {
+        "task_id": "1410",
+        "url": "https://www.dafont.com/forum/read/1410/font-identification",
+        "title": "Font identification",
+        "instructions": "I need this font please!...",
+        "img_url": "https://www.dafont.com/forum/attach/orig/5/1/5130.jpg",
+        "identified_font": null
+    },
+    {
+        "task_id": "255457",
+        "url": "https://www.dafont.com/forum/read/255457/whiskey-script-font",
+        "title": "Whiskey script font",
+        "instructions": null,
+        "img_url": "https://www.dafont.com/forum/attach/orig/5/7/577820.jpg",
+        "identified_font": null
+    },
+    {
+        "task_id": "324613",
+        "url": "https://www.dafont.com/forum/read/324613/back-to-basics-murphy-lee-vs-jay-e",
+        "title": "Back to basics (Murphy Lee vs. Jay-E)",
+        "instructions": null,
+        "img_url": "https://www.dafont.com/forum/attach/orig/7/1/713810.png?1",
+        "identified_font": null
+    },
+    {
+        "task_id": "572083",
+        "url": "https://www.dafont.com/forum/read/572083/st-lunatics-font",
+        "title": "St. Lunatics font",
+        "instructions": "Anyone know what font this is?",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1209266.png?1",
+        "identified_font": null
+    },
+    {
+        "task_id": "581308",
+        "url": "https://www.dafont.com/forum/read/581308/need-help-in-identifying-the-font-used-for-this",
+        "title": "Need help in identifying the font used for this",
+        "instructions": null,
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1228256.jpg",
+        "identified_font": null
+    },
+    {
+        "task_id": "581306",
+        "url": "https://www.dafont.com/forum/read/581306/font",
+        "title": "Font",
+        "instructions": null,
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1228252.jpg",
         "identified_font": null
     }
 ]
