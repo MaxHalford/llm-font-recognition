@@ -45934,5 +45934,41 @@
         "candidate_font_3": "Proxima Nova Black",
         "candidate_font_4": "Franklin Gothic Heavy",
         "candidate_font_5": "Gotham Black"
+    },
+    {
+        "task_id": "581273",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "United Sans Condensed",
+        "candidate_font_2": "Tungsten Condensed",
+        "candidate_font_3": "DIN Condensed",
+        "candidate_font_4": "Compacta",
+        "candidate_font_5": "Agency FB"
+    },
+    {
+        "task_id": "581271",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Good Bubble",
+        "candidate_font_2": "Chewy",
+        "candidate_font_3": "Cute Bubble",
+        "candidate_font_4": "Bubblegum Sans",
+        "candidate_font_5": "Fredoka One"
+    },
+    {
+        "task_id": "581270",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Didot",
+        "candidate_font_2": "Bodoni",
+        "candidate_font_3": "Playfair Display",
+        "candidate_font_4": "Open Sans",
+        "candidate_font_5": "Lato"
+    },
+    {
+        "task_id": "581269",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Quicksand",
+        "candidate_font_2": "Magnolia Sky",
+        "candidate_font_3": "Mister Wonderful",
+        "candidate_font_4": "",
+        "candidate_font_5": ""
     }
 ]
