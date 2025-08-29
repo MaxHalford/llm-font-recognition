@@ -30436,7 +30436,7 @@
         "url": "https://www.dafont.com/forum/read/581266/help-me",
         "title": "Help Me",
         "instructions": "Font identification",
-        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1228177.png",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1228177.png?1",
         "identified_font": "Kaoly"
     },
     {
@@ -30549,6 +30549,46 @@
         "title": "Font",
         "instructions": null,
         "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1228204.jpg",
+        "identified_font": null
+    },
+    {
+        "task_id": "581285",
+        "url": "https://www.dafont.com/forum/read/581285/font",
+        "title": "Font",
+        "instructions": null,
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1228216.jpg",
+        "identified_font": null
+    },
+    {
+        "task_id": "581284",
+        "url": "https://www.dafont.com/forum/read/581284/what-font-is-this-pandemic-flash-game",
+        "title": "What font is this? (pandemic flash game)",
+        "instructions": null,
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1228215.png",
+        "identified_font": null
+    },
+    {
+        "task_id": "547076",
+        "url": "https://www.dafont.com/forum/read/547076/please-tell-me-what-font-is-this",
+        "title": "please tell me what font is this?",
+        "instructions": null,
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/1/1156751.png?1",
+        "identified_font": null
+    },
+    {
+        "task_id": "581283",
+        "url": "https://www.dafont.com/forum/read/581283/hola-me-ayudan-con-el-nombre-de-esta-letra-por-favor",
+        "title": "Hola, me ayudan con el nombre de esta letra por favor.",
+        "instructions": null,
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1228209.png",
+        "identified_font": null
+    },
+    {
+        "task_id": "581282",
+        "url": "https://www.dafont.com/forum/read/581282/starkissed-alight",
+        "title": "Starkissed Alight",
+        "instructions": null,
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1228208.png",
         "identified_font": null
     }
 ]
