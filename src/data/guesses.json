@@ -46060,5 +46060,95 @@
         "candidate_font_3": "Old London",
         "candidate_font_4": "Blackletter (Pizzadude)",
         "candidate_font_5": "Requiem"
+    },
+    {
+        "task_id": "568383",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Flame by Billy Argel",
+        "candidate_font_2": "Firestarter by Chequered Ink",
+        "candidate_font_3": "Hot Lava by Iconian Fonts",
+        "candidate_font_4": "Pyromania by Pixel Sagas",
+        "candidate_font_5": "On Fire by M\u00e5ns Greb\u00e4ck"
+    },
+    {
+        "task_id": "581296",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Fahkwang",
+        "candidate_font_2": "Garamond",
+        "candidate_font_3": "Oswald",
+        "candidate_font_4": "Bebas Neue",
+        "candidate_font_5": "Anton"
+    },
+    {
+        "task_id": "581295",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "The Secret Garden",
+        "candidate_font_2": "Beauty and the Beast",
+        "candidate_font_3": "Magnolia Sky",
+        "candidate_font_4": "Great Vibes",
+        "candidate_font_5": "Alex Brush"
+    },
+    {
+        "task_id": "581293",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Bookman Old Style Bold",
+        "candidate_font_2": "Windsor Bold",
+        "candidate_font_3": "Souvenir Bold",
+        "candidate_font_4": "ITC Benguiat Bold",
+        "candidate_font_5": "Goudy Heavyface"
+    },
+    {
+        "task_id": "581292",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Montserrat",
+        "candidate_font_2": "Bayshore",
+        "candidate_font_3": "Lemon Tuesday",
+        "candidate_font_4": "Magnolia Sky",
+        "candidate_font_5": "Adelios"
+    },
+    {
+        "task_id": "581291",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Caesar Dressing",
+        "candidate_font_2": "Augusta",
+        "candidate_font_3": "Imperator",
+        "candidate_font_4": "Trajan (distressed variant)",
+        "candidate_font_5": "Charlemagne Std"
+    },
+    {
+        "task_id": "581290",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Fredoka One",
+        "candidate_font_2": "Marketing Script",
+        "candidate_font_3": "Nunito",
+        "candidate_font_4": "Baloo 2",
+        "candidate_font_5": "Great Vibes"
+    },
+    {
+        "task_id": "581289",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "SF Fedora",
+        "candidate_font_2": "Cyberspace Raceway",
+        "candidate_font_3": "Vermin Vibes",
+        "candidate_font_4": "Alien Encounters",
+        "candidate_font_5": "Plexifont"
+    },
+    {
+        "task_id": "581287",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Aphrodite Slim Pro",
+        "candidate_font_2": "Isabella Script",
+        "candidate_font_3": "Carolyna Pro Black",
+        "candidate_font_4": "Beloved Script",
+        "candidate_font_5": "Respective"
+    },
+    {
+        "task_id": "438827",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Cheesecake",
+        "candidate_font_2": "Arthur Script",
+        "candidate_font_3": "Impact",
+        "candidate_font_4": "KG Primary Penmanship",
+        "candidate_font_5": "Montserrat"
     }
 ]
