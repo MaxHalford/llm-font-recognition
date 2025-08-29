@@ -46150,5 +46150,68 @@
         "candidate_font_3": "Impact",
         "candidate_font_4": "KG Primary Penmanship",
         "candidate_font_5": "Montserrat"
+    },
+    {
+        "task_id": "581303",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Stencilus",
+        "candidate_font_2": "Serif Stencil",
+        "candidate_font_3": "Adobe Garamond Pro",
+        "candidate_font_4": "Roman Stencil",
+        "candidate_font_5": "Starduster Stencil"
+    },
+    {
+        "task_id": "581302",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Southamton Font",
+        "candidate_font_2": "Hello Stockholm",
+        "candidate_font_3": "Magnolia Sky",
+        "candidate_font_4": "Better Together",
+        "candidate_font_5": "Quentin"
+    },
+    {
+        "task_id": "581301",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Bodoni",
+        "candidate_font_2": "Didot",
+        "candidate_font_3": "Playfair Display",
+        "candidate_font_4": "Cinzel",
+        "candidate_font_5": "Lighthaus"
+    },
+    {
+        "task_id": "581300",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Rubik",
+        "candidate_font_2": "Heebo",
+        "candidate_font_3": "Assistant",
+        "candidate_font_4": "Alef",
+        "candidate_font_5": "Noto Sans Hebrew"
+    },
+    {
+        "task_id": "581299",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Perpetua",
+        "candidate_font_2": "Cochin",
+        "candidate_font_3": "Baskerville",
+        "candidate_font_4": "Palatino Linotype",
+        "candidate_font_5": "Garamond Premier Pro Display"
+    },
+    {
+        "task_id": "581298",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Plantin",
+        "candidate_font_2": "Caslon",
+        "candidate_font_3": "Bookman Old Style",
+        "candidate_font_4": "Baskerville",
+        "candidate_font_5": "Janson Text"
+    },
+    {
+        "task_id": "581297",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Twentieth Century",
+        "candidate_font_2": "Neuzeit Grotesk",
+        "candidate_font_3": "Futura",
+        "candidate_font_4": "Granby",
+        "candidate_font_5": "Monotype Grotesque 215"
     }
 ]
