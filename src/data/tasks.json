@@ -30341,7 +30341,7 @@
         "title": "Both Fonts pls (Dragon Slayer + Natsu Dragneel)",
         "instructions": null,
         "img_url": "https://www.dafont.com/forum/attach/orig/9/0/902448.png",
-        "identified_font": null
+        "identified_font": "Levi Brush"
     },
     {
         "task_id": "536282",
@@ -30413,7 +30413,7 @@
         "title": "Font",
         "instructions": null,
         "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1228161.jpg",
-        "identified_font": null
+        "identified_font": "Aldine 721 Light"
     },
     {
         "task_id": "269850",
@@ -30421,6 +30421,54 @@
         "title": "Font please",
         "instructions": null,
         "img_url": "https://www.dafont.com/forum/attach/orig/6/0/606448.jpg",
+        "identified_font": null
+    },
+    {
+        "task_id": "581268",
+        "url": "https://www.dafont.com/forum/read/581268/help-finding-font-or-similar-font-please",
+        "title": "Help finding font or similar font please",
+        "instructions": "Just need to know if anyone knows this font, or something very very similar. Taking into account the R and the straight lines on the d. Thank you so much in advance. Hopefully this gets seen. I appreciate your time.",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1228181.png",
+        "identified_font": null
+    },
+    {
+        "task_id": "581266",
+        "url": "https://www.dafont.com/forum/read/581266/help-me",
+        "title": "Help Me",
+        "instructions": "Font identification",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1228177.png",
+        "identified_font": "Kaoly"
+    },
+    {
+        "task_id": "581265",
+        "url": "https://www.dafont.com/forum/read/581265/anyone-recognize-this-one",
+        "title": "Anyone recognize this one?",
+        "instructions": "None of the AI-based font identification sites can ID it -",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1228176.png",
+        "identified_font": null
+    },
+    {
+        "task_id": "581267",
+        "url": "https://www.dafont.com/forum/read/581267/whats-the-font",
+        "title": "Whats the font?",
+        "instructions": null,
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1228178.jpg",
+        "identified_font": null
+    },
+    {
+        "task_id": "581264",
+        "url": "https://www.dafont.com/forum/read/581264/flower-of-snow",
+        "title": "Flower of Snow",
+        "instructions": "Help me find this font",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1228175.jpg",
+        "identified_font": null
+    },
+    {
+        "task_id": "581263",
+        "url": "https://www.dafont.com/forum/read/581263/caps-burger",
+        "title": "caps burger",
+        "instructions": "help please",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1228171.jpg",
         "identified_font": null
     }
 ]
