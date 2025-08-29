@@ -45970,5 +45970,23 @@
         "candidate_font_3": "Mister Wonderful",
         "candidate_font_4": "",
         "candidate_font_5": ""
+    },
+    {
+        "task_id": "581275",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "CC Back Talk",
+        "candidate_font_2": "CC Mister Fixit",
+        "candidate_font_3": "Permanent Marker",
+        "candidate_font_4": "Just Another Hand",
+        "candidate_font_5": "KG Red Hands"
+    },
+    {
+        "task_id": "581277",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Melting Point",
+        "candidate_font_2": "Droptop",
+        "candidate_font_3": "Melted Monster",
+        "candidate_font_4": "Gooey",
+        "candidate_font_5": "Toxic Waste"
     }
 ]
