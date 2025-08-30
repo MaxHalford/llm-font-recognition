@@ -46672,5 +46672,68 @@
         "candidate_font_3": "Orbitron",
         "candidate_font_4": "Audiowide",
         "candidate_font_5": "Bank Gothic"
+    },
+    {
+        "task_id": "581365",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Agency FB Bold Italic",
+        "candidate_font_2": "SF Sports Night",
+        "candidate_font_3": "Octin Sports Free",
+        "candidate_font_4": "Gunship",
+        "candidate_font_5": "United Sans Extended Black Italic"
+    },
+    {
+        "task_id": "581364",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "The Nectarine",
+        "candidate_font_2": "Hooligan",
+        "candidate_font_3": "Garamond",
+        "candidate_font_4": null,
+        "candidate_font_5": null
+    },
+    {
+        "task_id": "581362",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "YouMurderer BB",
+        "candidate_font_2": "October Crow",
+        "candidate_font_3": "Bloody Terror",
+        "candidate_font_4": "Death Rattle",
+        "candidate_font_5": "Nightmare Pox"
+    },
+    {
+        "task_id": "581361",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Public Sans",
+        "candidate_font_2": "Gotham",
+        "candidate_font_3": "Inter",
+        "candidate_font_4": "Open Sans",
+        "candidate_font_5": "Montserrat"
+    },
+    {
+        "task_id": "581360",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Trajan Pro",
+        "candidate_font_2": "Cinzel",
+        "candidate_font_3": "Forum",
+        "candidate_font_4": "Hadriana",
+        "candidate_font_5": "Requiem Text"
+    },
+    {
+        "task_id": "581359",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Didot",
+        "candidate_font_2": "Bodoni",
+        "candidate_font_3": "Playfair Display",
+        "candidate_font_4": "Leda",
+        "candidate_font_5": "DM Serif Display"
+    },
+    {
+        "task_id": "581358",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Open Sans",
+        "candidate_font_2": "Roboto",
+        "candidate_font_3": "Lato",
+        "candidate_font_4": "Proxima Nova",
+        "candidate_font_5": "Montserrat"
     }
 ]
