@@ -46474,5 +46474,50 @@
         "candidate_font_3": "The Brushes",
         "candidate_font_4": "Story Brush",
         "candidate_font_5": "Lemon Tuesday"
+    },
+    {
+        "task_id": "581343",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Univers 75 Black",
+        "candidate_font_2": "Akzidenz-Grotesk Super",
+        "candidate_font_3": "Trade Gothic Heavy",
+        "candidate_font_4": "Folio Extra Bold",
+        "candidate_font_5": "Nimbus Sans Global Black"
+    },
+    {
+        "task_id": "581342",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Quick Kiss",
+        "candidate_font_2": "Magnolia Sky",
+        "candidate_font_3": "Bromello",
+        "candidate_font_4": "Billabong",
+        "candidate_font_5": "Brush Script Std"
+    },
+    {
+        "task_id": "581341",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Helvetica Neue Condensed Black",
+        "candidate_font_2": "Baskerville",
+        "candidate_font_3": "Century Schoolbook Condensed",
+        "candidate_font_4": "Helvetica Bold",
+        "candidate_font_5": "Univers 67 Condensed Bold"
+    },
+    {
+        "task_id": "581340",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Univers",
+        "candidate_font_2": "Garamond",
+        "candidate_font_3": "Franklin Gothic Condensed",
+        "candidate_font_4": "Akzidenz-Grotesk",
+        "candidate_font_5": "Times New Roman"
+    },
+    {
+        "task_id": "581339",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Thunder Slab Rough",
+        "candidate_font_2": "Blackhawk Rough",
+        "candidate_font_3": "Bourton Rough",
+        "candidate_font_4": "Queulat Slab Rough",
+        "candidate_font_5": "Rocher Color Font"
     }
 ]
