@@ -46312,5 +46312,41 @@
         "candidate_font_3": "Source Serif Pro",
         "candidate_font_4": "Times New Roman",
         "candidate_font_5": "Latin Modern Roman"
+    },
+    {
+        "task_id": "581322",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Whiskey Lullaby Script",
+        "candidate_font_2": "Avenida",
+        "candidate_font_3": "Whiskey Lullaby Text",
+        "candidate_font_4": "Whiskey Lullaby Sans",
+        "candidate_font_5": "Whiskey Lullaby Spur"
+    },
+    {
+        "task_id": "581318",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Adorn Garland Italic",
+        "candidate_font_2": "Adobe Garamond Pro Regular",
+        "candidate_font_3": "Cochin Bold Italic",
+        "candidate_font_4": "EB Garamond Regular",
+        "candidate_font_5": "Goudy Old Style Italic"
+    },
+    {
+        "task_id": "581317",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Pokemon Solid",
+        "candidate_font_2": "Luckiest Guy",
+        "candidate_font_3": "Burbank Big Condensed Black",
+        "candidate_font_4": "Obelix Pro",
+        "candidate_font_5": "Komika Axis"
+    },
+    {
+        "task_id": "581316",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "National Park JNL",
+        "candidate_font_2": "DIN Next LT Pro Condensed Bold",
+        "candidate_font_3": "Univers 67 (Condensed Bold)",
+        "candidate_font_4": "Oswald Bold",
+        "candidate_font_5": "Futura Condensed Bold"
     }
 ]
