@@ -46519,5 +46519,77 @@
         "candidate_font_3": "Bourton Rough",
         "candidate_font_4": "Queulat Slab Rough",
         "candidate_font_5": "Rocher Color Font"
+    },
+    {
+        "task_id": "581351",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Metal Lord",
+        "candidate_font_2": "Blackhawk",
+        "candidate_font_3": "Destroyed by Metal",
+        "candidate_font_4": "Thrash",
+        "candidate_font_5": "Metal Mania"
+    },
+    {
+        "task_id": "581350",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Neuzeit S Light",
+        "candidate_font_2": "Neuzeit S Regular",
+        "candidate_font_3": "Neuzeit Grotesk",
+        "candidate_font_4": "URW Neuzeit S Light",
+        "candidate_font_5": "Linotype Neuzeit S"
+    },
+    {
+        "task_id": "581349",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Future Earth",
+        "candidate_font_2": "Ethnocentric",
+        "candidate_font_3": "Xolonium",
+        "candidate_font_4": "Optimus Princeps",
+        "candidate_font_5": "Bank Gothic"
+    },
+    {
+        "task_id": "581348",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "LFC 23/24 Cup Font",
+        "candidate_font_2": "Celtic FC 2010-12 Font",
+        "candidate_font_3": "Nike 2023-24 Football Club Custom Font",
+        "candidate_font_4": "Juventus 2017-18 Font",
+        "candidate_font_5": "FC Porto 2020-21 Font"
+    },
+    {
+        "task_id": "581347",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "URW Old English Text",
+        "candidate_font_2": "Monotype Old English Text",
+        "candidate_font_3": "Adobe Old English Text",
+        "candidate_font_4": "Old English MT",
+        "candidate_font_5": "Old English"
+    },
+    {
+        "task_id": "581346",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Microgramma Bold Extended Oblique",
+        "candidate_font_2": "Impact",
+        "candidate_font_3": "Franklin Gothic Bold",
+        "candidate_font_4": "Baskerville Condensed",
+        "candidate_font_5": "Times New Roman"
+    },
+    {
+        "task_id": "581345",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Metropolis 1920",
+        "candidate_font_2": "Roboto Medium",
+        "candidate_font_3": "Avenuenue",
+        "candidate_font_4": "Lato Semibold",
+        "candidate_font_5": "TypoGraphica"
+    },
+    {
+        "task_id": "581344",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Bandung Western",
+        "candidate_font_2": "Road Rage",
+        "candidate_font_3": "Gobold",
+        "candidate_font_4": "Quicksand",
+        "candidate_font_5": "Oswald"
     }
 ]
