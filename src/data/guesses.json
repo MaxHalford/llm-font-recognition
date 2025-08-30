@@ -46348,5 +46348,41 @@
         "candidate_font_3": "Univers 67 (Condensed Bold)",
         "candidate_font_4": "Oswald Bold",
         "candidate_font_5": "Futura Condensed Bold"
+    },
+    {
+        "task_id": "581328",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Hello Beautiful",
+        "candidate_font_2": "KG Red Hands",
+        "candidate_font_3": "Magnolia Sky",
+        "candidate_font_4": "Adelade",
+        "candidate_font_5": "Magnolia Sky Brush"
+    },
+    {
+        "task_id": "581327",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Homemade Apple",
+        "candidate_font_2": "Open Sans",
+        "candidate_font_3": "Kalam",
+        "candidate_font_4": "Handlee",
+        "candidate_font_5": "Bebas Neue"
+    },
+    {
+        "task_id": "581324",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Stay Classy",
+        "candidate_font_2": "Architects Daughter",
+        "candidate_font_3": "Handlee",
+        "candidate_font_4": "Patrick Hand",
+        "candidate_font_5": "Coming Soon"
+    },
+    {
+        "task_id": "581323",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "College Block Outline",
+        "candidate_font_2": "Jersey M54 Outline",
+        "candidate_font_3": "Octin College Outline",
+        "candidate_font_4": "SF Collegiate Outline",
+        "candidate_font_5": "Varsity Team JNL Outline"
     }
 ]
