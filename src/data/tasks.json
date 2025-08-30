@@ -30821,7 +30821,7 @@
         "title": "Need help in identifying the font used for this",
         "instructions": null,
         "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1228256.jpg",
-        "identified_font": null
+        "identified_font": "Sandoll GongbyunggakPil"
     },
     {
         "task_id": "581306",
@@ -30837,7 +30837,7 @@
         "title": "BRAZIL",
         "instructions": null,
         "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1228288.jpg",
-        "identified_font": null
+        "identified_font": "Jasper"
     },
     {
         "task_id": "581318",
@@ -30845,7 +30845,7 @@
         "title": "Can anyone identify?",
         "instructions": "\"E agora, quem vai ficar com a mam\u00e3e\"",
         "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1228283.png",
-        "identified_font": null
+        "identified_font": "Baskerville"
     },
     {
         "task_id": "581317",
@@ -30853,7 +30853,7 @@
         "title": "What font is this?",
         "instructions": "Many thanks and a nice weekend.",
         "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1228280.png",
-        "identified_font": null
+        "identified_font": "Space Comics"
     },
     {
         "task_id": "581316",
@@ -30861,6 +30861,46 @@
         "title": "Please id the font saying Matlama Football Club",
         "instructions": null,
         "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1228275.png",
+        "identified_font": null
+    },
+    {
+        "task_id": "581325",
+        "url": "https://www.dafont.com/forum/read/581325/fontes",
+        "title": "fontes",
+        "instructions": null,
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1228299.jpg",
+        "identified_font": "Adlery"
+    },
+    {
+        "task_id": "581328",
+        "url": "https://www.dafont.com/forum/read/581328/fonte",
+        "title": "fonte",
+        "instructions": null,
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1228302.jpg",
+        "identified_font": null
+    },
+    {
+        "task_id": "581327",
+        "url": "https://www.dafont.com/forum/read/581327/fonte",
+        "title": "fonte",
+        "instructions": "todas as fontes dessa pagina",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1228301.jpg",
+        "identified_font": null
+    },
+    {
+        "task_id": "581324",
+        "url": "https://www.dafont.com/forum/read/581324/fonte",
+        "title": "fonte",
+        "instructions": null,
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1228298.jpg",
+        "identified_font": null
+    },
+    {
+        "task_id": "581323",
+        "url": "https://www.dafont.com/forum/read/581323/buenas-noches-si-alguien-podria-ayudarme-a-identificar-este-tipo-de-fuente-del-numero-le-quedo-muy-a",
+        "title": "buenas noches si alguien podr\u00eda ayudarme a identificar este tipo de fuente del numero le quedo muy agradecido",
+        "instructions": null,
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1228297.jpg",
         "identified_font": null
     }
 ]
