@@ -46591,5 +46591,86 @@
         "candidate_font_3": "Gobold",
         "candidate_font_4": "Quicksand",
         "candidate_font_5": "Oswald"
+    },
+    {
+        "task_id": "581357",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Windsor Bold",
+        "candidate_font_2": "Lucida Sans Italic",
+        "candidate_font_3": "ITC Benguiat Bold",
+        "candidate_font_4": "Myriad Pro Italic",
+        "candidate_font_5": "Bookman Old Style Bold"
+    },
+    {
+        "task_id": "581356",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "SF Hyperspace",
+        "candidate_font_2": "Razor Sharp",
+        "candidate_font_3": "Orbitron",
+        "candidate_font_4": "Bignord",
+        "candidate_font_5": "Custom Logotype (or heavily modified existing font)"
+    },
+    {
+        "task_id": "581355",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Trade Gothic Bold Condensed No. 20",
+        "candidate_font_2": "Franklin Gothic Extra Condensed",
+        "candidate_font_3": "Univers 67 (Bold Condensed)",
+        "candidate_font_4": "Alternate Gothic No. 3",
+        "candidate_font_5": "Knockout No. 49 Full Featherweight"
+    },
+    {
+        "task_id": "581354",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Pricedown Italic",
+        "candidate_font_2": "Stay High",
+        "candidate_font_3": "Montserrat Regular",
+        "candidate_font_4": "Magnolia Sky",
+        "candidate_font_5": "Agency FB Italic"
+    },
+    {
+        "task_id": "581353",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Assistant",
+        "candidate_font_2": "Heebo",
+        "candidate_font_3": "Open Sans Hebrew",
+        "candidate_font_4": "Noto Sans Hebrew",
+        "candidate_font_5": "Arial Hebrew"
+    },
+    {
+        "task_id": "456873",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Destroyer",
+        "candidate_font_2": "SF Sports Night",
+        "candidate_font_3": "Akira Expanded",
+        "candidate_font_4": "Freshman",
+        "candidate_font_5": "Bebas Neue Bold Italic"
+    },
+    {
+        "task_id": "561745",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "L.C. Smith 5 Typewriter",
+        "candidate_font_2": "LCP Text",
+        "candidate_font_3": "Typewriter_V2",
+        "candidate_font_4": "Courier",
+        "candidate_font_5": "Special Elite"
+    },
+    {
+        "task_id": "539358",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Didot",
+        "candidate_font_2": "Bodoni",
+        "candidate_font_3": "Playfair Display",
+        "candidate_font_4": "Walbaum",
+        "candidate_font_5": "ITC Bodoni 72"
+    },
+    {
+        "task_id": "581352",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Hyperspace Race",
+        "candidate_font_2": "Transformers Solid",
+        "candidate_font_3": "Orbitron",
+        "candidate_font_4": "Audiowide",
+        "candidate_font_5": "Bank Gothic"
     }
 ]
