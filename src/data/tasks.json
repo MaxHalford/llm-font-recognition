@@ -30917,7 +30917,7 @@
         "title": "AYUDA necesito el nombre de esta tipograf\u00eda",
         "instructions": "\u00a1Ay\u00fadenme a descubrir cu\u00e1l es esta tipograf\u00eda, gracias!",
         "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1228316.png",
-        "identified_font": null
+        "identified_font": "Blaster"
     },
     {
         "task_id": "581333",
@@ -30957,6 +30957,30 @@
         "title": "Papelaria Jambo",
         "instructions": "What is the font used in the word \"Jambo\"?",
         "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1228305.png",
+        "identified_font": null
+    },
+    {
+        "task_id": "581338",
+        "url": "https://www.dafont.com/forum/read/581338/what-is-this-please",
+        "title": "what is this please",
+        "instructions": null,
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1228322.png",
+        "identified_font": null
+    },
+    {
+        "task_id": "581337",
+        "url": "https://www.dafont.com/forum/read/581337/font",
+        "title": "Font",
+        "instructions": null,
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1228321.jpg",
+        "identified_font": null
+    },
+    {
+        "task_id": "581336",
+        "url": "https://www.dafont.com/forum/read/581336/what-font-is-this",
+        "title": "What font is this?",
+        "instructions": "Thanks",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1228320.png",
         "identified_font": null
     }
 ]
