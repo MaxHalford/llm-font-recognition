@@ -46384,5 +46384,68 @@
         "candidate_font_3": "Octin College Outline",
         "candidate_font_4": "SF Collegiate Outline",
         "candidate_font_5": "Varsity Team JNL Outline"
+    },
+    {
+        "task_id": "581335",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Helvetica Inserat",
+        "candidate_font_2": "Franklin Gothic Extra Condensed",
+        "candidate_font_3": "Univers Black Condensed",
+        "candidate_font_4": "Oswald ExtraBold",
+        "candidate_font_5": "Trade Gothic Condensed No. 20"
+    },
+    {
+        "task_id": "581334",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Blackhawk",
+        "candidate_font_2": "Against",
+        "candidate_font_3": "Broken Brush",
+        "candidate_font_4": "Wild Ones",
+        "candidate_font_5": "Stay High"
+    },
+    {
+        "task_id": "581333",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Pricedown",
+        "candidate_font_2": "Agency FB Black Italic",
+        "candidate_font_3": "Eurostile Extended Black Oblique",
+        "candidate_font_4": "United Sans ExtraBold Italic",
+        "candidate_font_5": "Federation Starfleet Bold Italic"
+    },
+    {
+        "task_id": "526859",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Evogria",
+        "candidate_font_2": "Palatino Linotype Italic",
+        "candidate_font_3": "Magnolia Sky",
+        "candidate_font_4": "Montserrat Bold",
+        "candidate_font_5": "Minion Pro Italic"
+    },
+    {
+        "task_id": "581332",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Karmic Sans",
+        "candidate_font_2": "Bebas Neue",
+        "candidate_font_3": "Varela Round",
+        "candidate_font_4": "Oswald",
+        "candidate_font_5": "Cabin"
+    },
+    {
+        "task_id": "581331",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Big Noodle Titling Oblique",
+        "candidate_font_2": "Impact",
+        "candidate_font_3": "Bebas Neue Bold",
+        "candidate_font_4": "Anton",
+        "candidate_font_5": "Oswald Bold"
+    },
+    {
+        "task_id": "581329",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Playfair Display",
+        "candidate_font_2": "",
+        "candidate_font_3": "",
+        "candidate_font_4": "",
+        "candidate_font_5": ""
     }
 ]
