@@ -30877,7 +30877,7 @@
         "title": "fonte",
         "instructions": null,
         "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1228302.jpg",
-        "identified_font": null
+        "identified_font": "Chelsea Market Script"
     },
     {
         "task_id": "581327",
@@ -31021,6 +31021,70 @@
         "title": "Font Name?",
         "instructions": null,
         "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1228323.jpg",
+        "identified_font": null
+    },
+    {
+        "task_id": "581351",
+        "url": "https://www.dafont.com/forum/read/581351/brand",
+        "title": "Brand",
+        "instructions": "Please which font is this???",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1228347.jpg",
+        "identified_font": null
+    },
+    {
+        "task_id": "581350",
+        "url": "https://www.dafont.com/forum/read/581350/font",
+        "title": "Font",
+        "instructions": null,
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1228346.jpg",
+        "identified_font": null
+    },
+    {
+        "task_id": "581349",
+        "url": "https://www.dafont.com/forum/read/581349/please-sos",
+        "title": "Please SOS",
+        "instructions": "i need this font please... thanks...",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1228345.png",
+        "identified_font": null
+    },
+    {
+        "task_id": "581348",
+        "url": "https://www.dafont.com/forum/read/581348/dorgu-font",
+        "title": "Dorgu Font",
+        "instructions": null,
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1228341.jpg",
+        "identified_font": null
+    },
+    {
+        "task_id": "581347",
+        "url": "https://www.dafont.com/forum/read/581347/starting",
+        "title": "Starting",
+        "instructions": null,
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1228340.jpg",
+        "identified_font": null
+    },
+    {
+        "task_id": "581346",
+        "url": "https://www.dafont.com/forum/read/581346/font",
+        "title": "Font",
+        "instructions": null,
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1228338.jpg",
+        "identified_font": null
+    },
+    {
+        "task_id": "581345",
+        "url": "https://www.dafont.com/forum/read/581345/galaxy-14-cine",
+        "title": "\"GALAXY 14 CINE\"",
+        "instructions": null,
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1228337.jpg",
+        "identified_font": null
+    },
+    {
+        "task_id": "581344",
+        "url": "https://www.dafont.com/forum/read/581344/brazil",
+        "title": "BRAZIL",
+        "instructions": null,
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1228336.jpg",
         "identified_font": null
     }
 ]
