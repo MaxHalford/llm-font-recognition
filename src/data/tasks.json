@@ -31117,7 +31117,7 @@
         "title": "Please help Tiscareno and Transport font &#128591;&#127997;",
         "instructions": null,
         "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1228359.jpg",
-        "identified_font": null
+        "identified_font": "Coral Pen"
     },
     {
         "task_id": "581353",
@@ -31157,6 +31157,70 @@
         "title": "What font is used? SOS",
         "instructions": "I\u00b4m doing a game as a present for my best friend but I`ve lost what font I was using, and I dont want to lose all the progress I've done. I've tried searching for futuristic or technology related fonts, but I haven't found the exact same one. Notice the O's and the D's.",
         "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1228351.png",
+        "identified_font": null
+    },
+    {
+        "task_id": "581363",
+        "url": "https://www.dafont.com/forum/read/581363/ordinary-alex-warren-font",
+        "title": "\"ORDINARY\" \"ALEX WARREN\" font",
+        "instructions": null,
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1228376.jpg",
+        "identified_font": "Moret"
+    },
+    {
+        "task_id": "581365",
+        "url": "https://www.dafont.com/forum/read/581365/font-used-for-world-championship-wrestling-lettering",
+        "title": "Font used for \"World Championship Wrestling\" lettering?",
+        "instructions": "Any one know what the font is being used for the white \"World Championship Wrestling\" lettering?",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1228378.png",
+        "identified_font": null
+    },
+    {
+        "task_id": "581364",
+        "url": "https://www.dafont.com/forum/read/581364/fontes",
+        "title": "fontes",
+        "instructions": "TODAS FONTES DE PAGINA",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1228377.jpg",
+        "identified_font": null
+    },
+    {
+        "task_id": "581362",
+        "url": "https://www.dafont.com/forum/read/581362/what-this-font",
+        "title": "what this font?",
+        "instructions": null,
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1228373.png",
+        "identified_font": null
+    },
+    {
+        "task_id": "581361",
+        "url": "https://www.dafont.com/forum/read/581361/font-name",
+        "title": "Font name?",
+        "instructions": null,
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1228372.png",
+        "identified_font": null
+    },
+    {
+        "task_id": "581360",
+        "url": "https://www.dafont.com/forum/read/581360/font-name",
+        "title": "Font Name???",
+        "instructions": null,
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1228370.jpg",
+        "identified_font": null
+    },
+    {
+        "task_id": "581359",
+        "url": "https://www.dafont.com/forum/read/581359/what-is-this-font-number",
+        "title": "What, is this Font Number?",
+        "instructions": null,
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1228369.jpg",
+        "identified_font": null
+    },
+    {
+        "task_id": "581358",
+        "url": "https://www.dafont.com/forum/read/581358/font-please",
+        "title": "Font, Please.",
+        "instructions": null,
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1228368.png",
         "identified_font": null
     }
 ]
