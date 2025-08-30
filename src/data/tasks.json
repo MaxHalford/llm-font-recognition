@@ -30902,5 +30902,61 @@
         "instructions": null,
         "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1228297.jpg",
         "identified_font": null
+    },
+    {
+        "task_id": "581335",
+        "url": "https://www.dafont.com/forum/read/581335/font-from-dhar-mann",
+        "title": "Font from Dhar Mann?",
+        "instructions": null,
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1228317.png",
+        "identified_font": null
+    },
+    {
+        "task_id": "581334",
+        "url": "https://www.dafont.com/forum/read/581334/ayuda-necesito-el-nombre-de-esta-tipografia",
+        "title": "AYUDA necesito el nombre de esta tipograf\u00eda",
+        "instructions": "\u00a1Ay\u00fadenme a descubrir cu\u00e1l es esta tipograf\u00eda, gracias!",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1228316.png",
+        "identified_font": null
+    },
+    {
+        "task_id": "581333",
+        "url": "https://www.dafont.com/forum/read/581333/ayuda-para-identificar-esta-tipografia",
+        "title": "AYUDA para identificar esta tipograf\u00eda",
+        "instructions": "Necesito ayuda para saber el nombre de esta tipograf\u00eda",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1228315.png",
+        "identified_font": null
+    },
+    {
+        "task_id": "526859",
+        "url": "https://www.dafont.com/forum/read/526859/evolution-and-lovelution-fonts-please",
+        "title": "EVOLution and LOVElution fonts please",
+        "instructions": null,
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/1/1114324.png?1",
+        "identified_font": null
+    },
+    {
+        "task_id": "581332",
+        "url": "https://www.dafont.com/forum/read/581332/stray-kids-karma-font",
+        "title": "Stray Kids karma font?",
+        "instructions": null,
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1228309.png",
+        "identified_font": null
+    },
+    {
+        "task_id": "581331",
+        "url": "https://www.dafont.com/forum/read/581331/what-is-this-font",
+        "title": "What is this font",
+        "instructions": "What is this font",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1228307.jpg",
+        "identified_font": null
+    },
+    {
+        "task_id": "581329",
+        "url": "https://www.dafont.com/forum/read/581329/papelaria-jambo",
+        "title": "Papelaria Jambo",
+        "instructions": "What is the font used in the word \"Jambo\"?",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1228305.png",
+        "identified_font": null
     }
 ]
