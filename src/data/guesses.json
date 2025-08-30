@@ -46447,5 +46447,32 @@
         "candidate_font_3": "",
         "candidate_font_4": "",
         "candidate_font_5": ""
+    },
+    {
+        "task_id": "581338",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Death Rattle",
+        "candidate_font_2": "Space Marine",
+        "candidate_font_3": "Metal Lord",
+        "candidate_font_4": "Cyberbit",
+        "candidate_font_5": "United States"
+    },
+    {
+        "task_id": "581337",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Palatino Linotype",
+        "candidate_font_2": "Minion Pro",
+        "candidate_font_3": "Georgia",
+        "candidate_font_4": "Bookman Old Style",
+        "candidate_font_5": "Times New Roman"
+    },
+    {
+        "task_id": "581336",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Hokjesgeest",
+        "candidate_font_2": "Awesome Monday",
+        "candidate_font_3": "The Brushes",
+        "candidate_font_4": "Story Brush",
+        "candidate_font_5": "Lemon Tuesday"
     }
 ]
