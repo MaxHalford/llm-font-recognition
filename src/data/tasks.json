@@ -30982,5 +30982,45 @@
         "instructions": "Thanks",
         "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1228320.png",
         "identified_font": null
+    },
+    {
+        "task_id": "581343",
+        "url": "https://www.dafont.com/forum/read/581343/put-suncokreta",
+        "title": "Put suncokreta",
+        "instructions": null,
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1228329.jpg",
+        "identified_font": null
+    },
+    {
+        "task_id": "581342",
+        "url": "https://www.dafont.com/forum/read/581342/can-you-guys-help-me-with-this",
+        "title": "Can you guys help me with this?",
+        "instructions": "I'm looking for the font for \"Home of Underground Rock\" text.",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1228327.png",
+        "identified_font": null
+    },
+    {
+        "task_id": "581341",
+        "url": "https://www.dafont.com/forum/read/581341/font",
+        "title": "Font",
+        "instructions": null,
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1228326.jpg",
+        "identified_font": null
+    },
+    {
+        "task_id": "581340",
+        "url": "https://www.dafont.com/forum/read/581340/font",
+        "title": "Font",
+        "instructions": null,
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1228325.jpg",
+        "identified_font": null
+    },
+    {
+        "task_id": "581339",
+        "url": "https://www.dafont.com/forum/read/581339/font-name",
+        "title": "Font Name?",
+        "instructions": null,
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1228323.jpg",
+        "identified_font": null
     }
 ]
