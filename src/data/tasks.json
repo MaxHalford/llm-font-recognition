@@ -28564,7 +28564,7 @@
         "url": "https://www.dafont.com/forum/read/580994/what-is-this-font-please",
         "title": "What is this font please?",
         "instructions": "Many thanks for your help.",
-        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1227632.png",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1227632.png?1",
         "identified_font": null
     },
     {
@@ -30565,7 +30565,7 @@
         "title": "What font is this? (pandemic flash game)",
         "instructions": null,
         "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1228215.png",
-        "identified_font": null
+        "identified_font": "Credit Valley"
     },
     {
         "task_id": "547076",
@@ -30829,6 +30829,38 @@
         "title": "Font",
         "instructions": null,
         "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1228252.jpg",
+        "identified_font": null
+    },
+    {
+        "task_id": "581322",
+        "url": "https://www.dafont.com/forum/read/581322/brazil",
+        "title": "BRAZIL",
+        "instructions": null,
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1228288.jpg",
+        "identified_font": null
+    },
+    {
+        "task_id": "581318",
+        "url": "https://www.dafont.com/forum/read/581318/can-anyone-identify",
+        "title": "Can anyone identify?",
+        "instructions": "\"E agora, quem vai ficar com a mam\u00e3e\"",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1228283.png",
+        "identified_font": null
+    },
+    {
+        "task_id": "581317",
+        "url": "https://www.dafont.com/forum/read/581317/what-font-is-this",
+        "title": "What font is this?",
+        "instructions": "Many thanks and a nice weekend.",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1228280.png",
+        "identified_font": null
+    },
+    {
+        "task_id": "581316",
+        "url": "https://www.dafont.com/forum/read/581316/please-id-the-font-saying-matlama-football-club",
+        "title": "Please id the font saying Matlama Football Club",
+        "instructions": null,
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1228275.png",
         "identified_font": null
     }
 ]
