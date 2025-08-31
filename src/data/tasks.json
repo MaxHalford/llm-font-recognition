@@ -30757,7 +30757,7 @@
         "title": "font, please!!",
         "instructions": "anybody know the font used for this?",
         "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1228269.png",
-        "identified_font": null
+        "identified_font": "Pareto Circullar"
     },
     {
         "task_id": "581312",
@@ -31149,7 +31149,7 @@
         "title": "Font \u00931989\u0094, please.",
         "instructions": "1989!",
         "img_url": "https://www.dafont.com/forum/attach/orig/1/1/1140178.jpg",
-        "identified_font": null
+        "identified_font": "Glitten"
     },
     {
         "task_id": "581352",
@@ -31349,7 +31349,7 @@
         "title": "Sweetener Foundation font from r.e.m. beauty",
         "instructions": "Can someone tell me the font used in the description?",
         "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1228429.png",
-        "identified_font": null
+        "identified_font": "Baristo"
     },
     {
         "task_id": "557711",
@@ -31421,6 +31421,30 @@
         "title": "Font tittle \"Takedown\" Huntrix please",
         "instructions": null,
         "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1228433.jpg",
+        "identified_font": null
+    },
+    {
+        "task_id": "308118",
+        "url": "https://www.dafont.com/forum/read/308118/ozzy-osbourne-old-logo",
+        "title": "Ozzy Osbourne old logo",
+        "instructions": "Any idea? cKy used it too.",
+        "img_url": "https://www.dafont.com/forum/attach/orig/6/8/681241.jpg",
+        "identified_font": null
+    },
+    {
+        "task_id": "581391",
+        "url": "https://www.dafont.com/forum/read/581391/what-is-this-font-please",
+        "title": "What is this font please?",
+        "instructions": "Thanks!",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1228450.png",
+        "identified_font": null
+    },
+    {
+        "task_id": "581390",
+        "url": "https://www.dafont.com/forum/read/581390/anyone-know-the-bound-and-bullet-fonts",
+        "title": "Anyone know the \u0093bound\u0094 and \u0093bullet\u0094 fonts?",
+        "instructions": null,
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1228447.jpg",
         "identified_font": null
     }
 ]
