@@ -47005,5 +47005,59 @@
         "candidate_font_3": "Dead Saloon",
         "candidate_font_4": "Circusland",
         "candidate_font_5": "Bounty Hunter"
+    },
+    {
+        "task_id": "581401",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Hot Rod Gang",
+        "candidate_font_2": "Motown",
+        "candidate_font_3": "El Mariachi",
+        "candidate_font_4": "Speedometer",
+        "candidate_font_5": "Nevada Bold Italic"
+    },
+    {
+        "task_id": "581400",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Microgramma Extended Bold",
+        "candidate_font_2": "Eurostile Extended Bold",
+        "candidate_font_3": "Apollo A Regular",
+        "candidate_font_4": "Space Age",
+        "candidate_font_5": "Cyberspace Bold"
+    },
+    {
+        "task_id": "581399",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Badaboom BB",
+        "candidate_font_2": "Luckiest Guy",
+        "candidate_font_3": "Bubblegum Sans",
+        "candidate_font_4": "Komika Axis",
+        "candidate_font_5": "Grobold"
+    },
+    {
+        "task_id": "581398",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Always Here",
+        "candidate_font_2": "Gloria Hallelujah",
+        "candidate_font_3": "Reenie Beanie",
+        "candidate_font_4": "Architects Daughter",
+        "candidate_font_5": "Permanent Marker"
+    },
+    {
+        "task_id": "581397",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Pricedown",
+        "candidate_font_2": "Haettenschweiler",
+        "candidate_font_3": "Impact",
+        "candidate_font_4": "Compacta Bold",
+        "candidate_font_5": "Gotham Black Condensed"
+    },
+    {
+        "task_id": "581396",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Seahawks Typeface",
+        "candidate_font_2": "Jersey M54",
+        "candidate_font_3": "SF Sports Night",
+        "candidate_font_4": "College Block 2.0",
+        "candidate_font_5": "Varsity Team"
     }
 ]
