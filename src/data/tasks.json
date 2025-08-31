@@ -31502,5 +31502,53 @@
         "instructions": null,
         "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1228461.png",
         "identified_font": null
+    },
+    {
+        "task_id": "581401",
+        "url": "https://www.dafont.com/forum/read/581401/can-anyone-identify-this-font",
+        "title": "Can anyone identify this font?",
+        "instructions": null,
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1228488.png",
+        "identified_font": null
+    },
+    {
+        "task_id": "581400",
+        "url": "https://www.dafont.com/forum/read/581400/cual-fuente-es-whats-foint",
+        "title": "Cual fuente es? Whats foint?",
+        "instructions": "No logro ubicar la tipograf\u00eda y me urge.",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1228487.png",
+        "identified_font": null
+    },
+    {
+        "task_id": "581399",
+        "url": "https://www.dafont.com/forum/read/581399/what-is-this-font-please",
+        "title": "What is this font please?",
+        "instructions": "Thanks for your help.",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1228486.png",
+        "identified_font": null
+    },
+    {
+        "task_id": "581398",
+        "url": "https://www.dafont.com/forum/read/581398/font",
+        "title": "Font?",
+        "instructions": null,
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1228485.png",
+        "identified_font": null
+    },
+    {
+        "task_id": "581397",
+        "url": "https://www.dafont.com/forum/read/581397/nicktoons-non-stop-spongebob-font",
+        "title": "Nicktoons Non Stop Spongebob font",
+        "instructions": "Which font was used for this text?",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1228480.jpg?2",
+        "identified_font": null
+    },
+    {
+        "task_id": "581396",
+        "url": "https://www.dafont.com/forum/read/581396/merci",
+        "title": "Merci",
+        "instructions": "bonjour, Pourriez vous me donner le nom de la police? merci",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1228479.jpg",
+        "identified_font": null
     }
 ]
