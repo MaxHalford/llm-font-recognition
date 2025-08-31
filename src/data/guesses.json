@@ -46798,5 +46798,23 @@
         "candidate_font_3": "Chewy",
         "candidate_font_4": "Bubblegum Sans",
         "candidate_font_5": "Coming Soon"
+    },
+    {
+        "task_id": "581376",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Lemon Milk Bold",
+        "candidate_font_2": "Nunito SemiBold",
+        "candidate_font_3": "Bebas Neue Bold",
+        "candidate_font_4": "Oswald Bold",
+        "candidate_font_5": "Varela Round"
+    },
+    {
+        "task_id": "581375",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Impact Label",
+        "candidate_font_2": "Full Slab",
+        "candidate_font_3": "Rocking President",
+        "candidate_font_4": "Squareface",
+        "candidate_font_5": "Octin College"
     }
 ]
