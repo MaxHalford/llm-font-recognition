@@ -46915,5 +46915,32 @@
         "candidate_font_3": "Game Of Squids",
         "candidate_font_4": "Death Star",
         "candidate_font_5": "SF Sports Night"
+    },
+    {
+        "task_id": "308118",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Black Sabbath by Daniel Zadorozny",
+        "candidate_font_2": "Ozzy by J.H.Font",
+        "candidate_font_3": "Satanick by Daniel Zadorozny",
+        "candidate_font_4": "Metal Lord by Daniel Zadorozny",
+        "candidate_font_5": "Heavy Metal by Vladimir Sazonov"
+    },
+    {
+        "task_id": "581391",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Bangers",
+        "candidate_font_2": "Luckiest Guy",
+        "candidate_font_3": "Action Man",
+        "candidate_font_4": "Shaka Pow",
+        "candidate_font_5": "Obelix Pro"
+    },
+    {
+        "task_id": "581390",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Bubblegum Sans",
+        "candidate_font_2": "Blacklisted",
+        "candidate_font_3": "Chewy",
+        "candidate_font_4": "Streetbrush",
+        "candidate_font_5": "Brushto"
     }
 ]
