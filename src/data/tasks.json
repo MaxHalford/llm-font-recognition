@@ -31189,7 +31189,7 @@
         "title": "what this font?",
         "instructions": null,
         "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1228373.png",
-        "identified_font": null
+        "identified_font": "Another Danger"
     },
     {
         "task_id": "581361",
@@ -31221,6 +31221,86 @@
         "title": "Font, Please.",
         "instructions": null,
         "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1228368.png",
+        "identified_font": null
+    },
+    {
+        "task_id": "581371",
+        "url": "https://www.dafont.com/forum/read/581371/what-font-is-the-ui-torture-chamber-flash-game",
+        "title": "What font is the UI? (torture chamber flash game)",
+        "instructions": null,
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1228403.png",
+        "identified_font": "Morpheus"
+    },
+    {
+        "task_id": "399000",
+        "url": "https://www.dafont.com/forum/read/399000/font-used-for-the-dark-masters",
+        "title": "Font used for The Dark Masters?",
+        "instructions": "I need to know what font is used here:",
+        "img_url": "https://www.dafont.com/forum/attach/orig/8/6/862661.png",
+        "identified_font": "Warlock"
+    },
+    {
+        "task_id": "581372",
+        "url": "https://www.dafont.com/forum/read/581372/need-to-find-this-font",
+        "title": "NEED TO FIND THIS FONT",
+        "instructions": "it says JAY",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1228404.png",
+        "identified_font": null
+    },
+    {
+        "task_id": "523301",
+        "url": "https://www.dafont.com/forum/read/523301/telecine-fonte",
+        "title": "TELECINE FONTE???",
+        "instructions": null,
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/1/1107488.png?2",
+        "identified_font": null
+    },
+    {
+        "task_id": "581370",
+        "url": "https://www.dafont.com/forum/read/581370/rule-of-rose-in-game-text",
+        "title": "Rule Of Rose (in game text)",
+        "instructions": "What font is this please. It's in the video game \"Rule of Rose\"",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1228399.png",
+        "identified_font": null
+    },
+    {
+        "task_id": "499727",
+        "url": "https://www.dafont.com/forum/read/499727/digi-draw-logo-font",
+        "title": "Digi-Draw Logo Font?",
+        "instructions": "I want to know what's the font used for the Digi-Draw logo",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/0/1061689.png",
+        "identified_font": null
+    },
+    {
+        "task_id": "581369",
+        "url": "https://www.dafont.com/forum/read/581369/font",
+        "title": "Font",
+        "instructions": null,
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1228393.jpg",
+        "identified_font": null
+    },
+    {
+        "task_id": "581368",
+        "url": "https://www.dafont.com/forum/read/581368/tears-font",
+        "title": "TEARS FONT?",
+        "instructions": null,
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1228388.png",
+        "identified_font": null
+    },
+    {
+        "task_id": "581367",
+        "url": "https://www.dafont.com/forum/read/581367/dafont",
+        "title": "Dafont",
+        "instructions": null,
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1228384.jpg",
+        "identified_font": null
+    },
+    {
+        "task_id": "581366",
+        "url": "https://www.dafont.com/forum/read/581366/what-the-font-is",
+        "title": "WHAT THE FONT IS??",
+        "instructions": null,
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1228382.jpg",
         "identified_font": null
     }
 ]
