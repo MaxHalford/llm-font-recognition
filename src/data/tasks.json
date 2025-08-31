@@ -31381,7 +31381,7 @@
         "title": "Font please",
         "instructions": null,
         "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1228424.png",
-        "identified_font": null
+        "identified_font": "Balmoral"
     },
     {
         "task_id": "581377",
@@ -31397,6 +31397,30 @@
         "title": "Font, please.",
         "instructions": null,
         "img_url": "https://www.dafont.com/forum/attach/orig/1/1/1190899.png",
+        "identified_font": null
+    },
+    {
+        "task_id": "581389",
+        "url": "https://www.dafont.com/forum/read/581389/tittle-font-butterfly-bts-please",
+        "title": "Tittle font \"BUTTERFLY\" bts please",
+        "instructions": null,
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1228446.jpg",
+        "identified_font": null
+    },
+    {
+        "task_id": "581388",
+        "url": "https://www.dafont.com/forum/read/581388/font",
+        "title": "Font",
+        "instructions": null,
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1228445.jpg",
+        "identified_font": null
+    },
+    {
+        "task_id": "581385",
+        "url": "https://www.dafont.com/forum/read/581385/font-tittle-takedown-huntrix-please",
+        "title": "Font tittle \"Takedown\" Huntrix please",
+        "instructions": null,
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1228433.jpg",
         "identified_font": null
     }
 ]
