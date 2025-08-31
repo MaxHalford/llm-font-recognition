@@ -47059,5 +47059,50 @@
         "candidate_font_3": "SF Sports Night",
         "candidate_font_4": "College Block 2.0",
         "candidate_font_5": "Varsity Team"
+    },
+    {
+        "task_id": "581406",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Rugrats Movie Font",
+        "candidate_font_2": "Pump Up The Volume",
+        "candidate_font_3": "Arial",
+        "candidate_font_4": "Tahoma",
+        "candidate_font_5": "VAG Rounded Bold"
+    },
+    {
+        "task_id": "581405",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Avengeance",
+        "candidate_font_2": "Obelix Pro",
+        "candidate_font_3": "SF Action Man",
+        "candidate_font_4": "Impact",
+        "candidate_font_5": "Metal Mania"
+    },
+    {
+        "task_id": "581404",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Goudy Old Style",
+        "candidate_font_2": "Futura",
+        "candidate_font_3": "Palatino",
+        "candidate_font_4": "Gill Sans",
+        "candidate_font_5": "Garamond"
+    },
+    {
+        "task_id": "581403",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "ITC Clearface Bold",
+        "candidate_font_2": "ITC Clearface Bold Italic",
+        "candidate_font_3": "Korinna Bold",
+        "candidate_font_4": "Goudy Old Style Bold Italic",
+        "candidate_font_5": "Bookman Old Style Bold"
+    },
+    {
+        "task_id": "581402",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Wremena Display Bold",
+        "candidate_font_2": "Montserrat Bold Condensed",
+        "candidate_font_3": "Bebas Neue Bold",
+        "candidate_font_4": "Bebas Neue",
+        "candidate_font_5": "Impact"
     }
 ]
