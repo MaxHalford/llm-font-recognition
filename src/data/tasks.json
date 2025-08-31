@@ -8029,7 +8029,7 @@
         "title": "Font, please. &#128591;&#127995;",
         "instructions": null,
         "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1205174.jpg",
-        "identified_font": null
+        "identified_font": "Artegra Sans Alt ExtraBold"
     },
     {
         "task_id": "577877",
@@ -31477,7 +31477,7 @@
         "title": "Thanks in advanced =)",
         "instructions": "In Stores Now!",
         "img_url": "https://www.dafont.com/forum/attach/orig/4/7/470525.png?1",
-        "identified_font": null
+        "identified_font": "Device"
     },
     {
         "task_id": "581394",
@@ -31549,6 +31549,62 @@
         "title": "Merci",
         "instructions": "bonjour, Pourriez vous me donner le nom de la police? merci",
         "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1228479.jpg",
+        "identified_font": null
+    },
+    {
+        "task_id": "581406",
+        "url": "https://www.dafont.com/forum/read/581406/fonts",
+        "title": "Fonts",
+        "instructions": null,
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1228499.jpg",
+        "identified_font": null
+    },
+    {
+        "task_id": "581408",
+        "url": "https://www.dafont.com/forum/read/581408/what-font-is-this",
+        "title": "What font is this?",
+        "instructions": null,
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1228504.png",
+        "identified_font": "Ink Free"
+    },
+    {
+        "task_id": "581407",
+        "url": "https://www.dafont.com/forum/read/581407/font-name",
+        "title": "Font name?",
+        "instructions": null,
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1228502.png",
+        "identified_font": "Antiquarian Scribe"
+    },
+    {
+        "task_id": "581405",
+        "url": "https://www.dafont.com/forum/read/581405/font-identification",
+        "title": "Font Identification",
+        "instructions": null,
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1228498.jpg",
+        "identified_font": null
+    },
+    {
+        "task_id": "581404",
+        "url": "https://www.dafont.com/forum/read/581404/font-of-turner-pictures-worldwide",
+        "title": "Font of \u0093Turner Pictures Worldwide\u0094?",
+        "instructions": "It was taken from non-US/some international prints of The Pagemaster (1994).",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1228495.png",
+        "identified_font": null
+    },
+    {
+        "task_id": "581403",
+        "url": "https://www.dafont.com/forum/read/581403/end-credits-for-the-pagemaster-1994",
+        "title": "End Credits for 'The Pagemaster' (1994)",
+        "instructions": "Can anyone guess the font used during the end credits scroll at the end of the film The Pagemaster (1994)?",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1228494.png",
+        "identified_font": null
+    },
+    {
+        "task_id": "581402",
+        "url": "https://www.dafont.com/forum/read/581402/help",
+        "title": "Help :)",
+        "instructions": "If you\u0092re able to identify the CREW font and the the FORT WORTH, TX font please",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1228489.jpg",
         "identified_font": null
     }
 ]
