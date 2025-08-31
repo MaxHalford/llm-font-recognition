@@ -46888,5 +46888,32 @@
         "candidate_font_3": "Sofia Pro",
         "candidate_font_4": "Hanken Grotesk",
         "candidate_font_5": "Twentieth Century MT"
+    },
+    {
+        "task_id": "581389",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Blacklisted",
+        "candidate_font_2": "Brushy Brush",
+        "candidate_font_3": "Houstiny",
+        "candidate_font_4": "Lemon Tuesday",
+        "candidate_font_5": "The Braggest"
+    },
+    {
+        "task_id": "581388",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Terminator Two",
+        "candidate_font_2": "Open Sans Bold",
+        "candidate_font_3": "Open Sans",
+        "candidate_font_4": "Lato",
+        "candidate_font_5": "Roboto"
+    },
+    {
+        "task_id": "581385",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Akira Expanded",
+        "candidate_font_2": "Road Rage",
+        "candidate_font_3": "Game Of Squids",
+        "candidate_font_4": "Death Star",
+        "candidate_font_5": "SF Sports Night"
     }
 ]
