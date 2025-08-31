@@ -46816,5 +46816,77 @@
         "candidate_font_3": "Rocking President",
         "candidate_font_4": "Squareface",
         "candidate_font_5": "Octin College"
+    },
+    {
+        "task_id": "581383",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Mostwasted",
+        "candidate_font_2": "Blackout 2 AM",
+        "candidate_font_3": "Vandalism",
+        "candidate_font_4": "Throwup",
+        "candidate_font_5": "Rampage"
+    },
+    {
+        "task_id": "581382",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Stay Fresh",
+        "candidate_font_2": "Chunky Retro",
+        "candidate_font_3": "Bufalotta",
+        "candidate_font_4": "KG Red Hands",
+        "candidate_font_5": "Lemon/Lime"
+    },
+    {
+        "task_id": "581381",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "EB Garamond",
+        "candidate_font_2": "Crimson Text",
+        "candidate_font_3": "Cormorant Garamond",
+        "candidate_font_4": "Adobe Garamond Pro",
+        "candidate_font_5": "Playfair Display"
+    },
+    {
+        "task_id": "581380",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Buttercup Script",
+        "candidate_font_2": "Autumn Chant",
+        "candidate_font_3": "Magnolia Sky",
+        "candidate_font_4": "Lovely Thoughts",
+        "candidate_font_5": "Stay Gracious"
+    },
+    {
+        "task_id": "581379",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Marigold Script",
+        "candidate_font_2": "Stay Grateful",
+        "candidate_font_3": "Magnolia Sky",
+        "candidate_font_4": "Lovely Home",
+        "candidate_font_5": "Better Together"
+    },
+    {
+        "task_id": "581378",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Story of the Script",
+        "candidate_font_2": "Story of My Life",
+        "candidate_font_3": "Bellissimo Script",
+        "candidate_font_4": "Affectionately Yours",
+        "candidate_font_5": "Mignonne Swash"
+    },
+    {
+        "task_id": "581377",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Baloo Bhai 2",
+        "candidate_font_2": "Luckiest Guy",
+        "candidate_font_3": "Chewy",
+        "candidate_font_4": "Bangers",
+        "candidate_font_5": "Komika Axis"
+    },
+    {
+        "task_id": "563067",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Brandon Grotesque",
+        "candidate_font_2": "DM Sans",
+        "candidate_font_3": "Sofia Pro",
+        "candidate_font_4": "Hanken Grotesk",
+        "candidate_font_5": "Twentieth Century MT"
     }
 ]
