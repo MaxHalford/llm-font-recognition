@@ -46735,5 +46735,68 @@
         "candidate_font_3": "Lato",
         "candidate_font_4": "Proxima Nova",
         "candidate_font_5": "Montserrat"
+    },
+    {
+        "task_id": "581372",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Houston Sport",
+        "candidate_font_2": "Brotherhood",
+        "candidate_font_3": "Chicano",
+        "candidate_font_4": "Street Cred",
+        "candidate_font_5": "Avenge"
+    },
+    {
+        "task_id": "523301",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Gotham Rounded",
+        "candidate_font_2": "Montserrat",
+        "candidate_font_3": "Proxima Nova Rounded",
+        "candidate_font_4": "Baloo 2",
+        "candidate_font_5": "Poppins"
+    },
+    {
+        "task_id": "581370",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Janson Text Italic",
+        "candidate_font_2": "Centaur Italic",
+        "candidate_font_3": "Deepdene Italic",
+        "candidate_font_4": "Granjon Italic",
+        "candidate_font_5": "Adobe Garamond Pro Italic"
+    },
+    {
+        "task_id": "499727",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Capsule Force",
+        "candidate_font_2": "Chunky Funky",
+        "candidate_font_3": "Pump Demi",
+        "candidate_font_4": "VAG Rounded Bold",
+        "candidate_font_5": "Outer Limits"
+    },
+    {
+        "task_id": "581369",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Garamond",
+        "candidate_font_2": "Bembo",
+        "candidate_font_3": "Caslon",
+        "candidate_font_4": "Janson Text",
+        "candidate_font_5": "Goudy Old Style"
+    },
+    {
+        "task_id": "581367",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Keep on Truckin'",
+        "candidate_font_2": "Funkydori",
+        "candidate_font_3": "Groovy Happening",
+        "candidate_font_4": "Wobble",
+        "candidate_font_5": "Cream Puff"
+    },
+    {
+        "task_id": "581366",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "KG Red Hands",
+        "candidate_font_2": "Happy Monkey",
+        "candidate_font_3": "Chewy",
+        "candidate_font_4": "Bubblegum Sans",
+        "candidate_font_5": "Coming Soon"
     }
 ]
