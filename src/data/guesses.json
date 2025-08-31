@@ -46942,5 +46942,68 @@
         "candidate_font_3": "Chewy",
         "candidate_font_4": "Streetbrush",
         "candidate_font_5": "Brushto"
+    },
+    {
+        "task_id": "581395",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Alternate Gothic No. 2",
+        "candidate_font_2": "DIN 1451 Mittelschrift",
+        "candidate_font_3": "Roadgeek 2005 Series E",
+        "candidate_font_4": "Franklin Gothic Condensed",
+        "candidate_font_5": "Trade Gothic Extended"
+    },
+    {
+        "task_id": "561917",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Bank Gothic",
+        "candidate_font_2": "Franklin Gothic Condensed",
+        "candidate_font_3": "Rockwell Bold",
+        "candidate_font_4": "Helvetica",
+        "candidate_font_5": "Univers"
+    },
+    {
+        "task_id": "194594",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Bickham Script Pro 3",
+        "candidate_font_2": "Shelley Andante",
+        "candidate_font_3": "Edwardian Script ITC",
+        "candidate_font_4": "Kuenstler Script",
+        "candidate_font_5": "Parfumerie Script"
+    },
+    {
+        "task_id": "204687",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Impact Label",
+        "candidate_font_2": "Dirty Headline",
+        "candidate_font_3": "Blackout 2 AM",
+        "candidate_font_4": "Action Man",
+        "candidate_font_5": "Block Gothic"
+    },
+    {
+        "task_id": "581394",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Roboto",
+        "candidate_font_2": "Open Sans",
+        "candidate_font_3": "Noto Sans",
+        "candidate_font_4": "Lato",
+        "candidate_font_5": "Montserrat"
+    },
+    {
+        "task_id": "581393",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Century Schoolbook",
+        "candidate_font_2": "Utopia",
+        "candidate_font_3": "Palatino",
+        "candidate_font_4": "Trajan Pro",
+        "candidate_font_5": "Bookman Old Style"
+    },
+    {
+        "task_id": "581392",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Rosewood Std",
+        "candidate_font_2": "Mesquite Std",
+        "candidate_font_3": "Dead Saloon",
+        "candidate_font_4": "Circusland",
+        "candidate_font_5": "Bounty Hunter"
     }
 ]
