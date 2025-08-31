@@ -31285,7 +31285,7 @@
         "title": "TEARS FONT?",
         "instructions": null,
         "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1228388.png",
-        "identified_font": null
+        "identified_font": "Brasilea"
     },
     {
         "task_id": "581367",
@@ -31302,5 +31302,29 @@
         "instructions": null,
         "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1228382.jpg",
         "identified_font": null
+    },
+    {
+        "task_id": "581376",
+        "url": "https://www.dafont.com/forum/read/581376/font-name",
+        "title": "Font name?",
+        "instructions": "P.S. This is the thumbnail of this video:",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1228420.jpg",
+        "identified_font": null
+    },
+    {
+        "task_id": "581375",
+        "url": "https://www.dafont.com/forum/read/581375/1st-full-album",
+        "title": "1st Full Album",
+        "instructions": "XG",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1228414.png",
+        "identified_font": null
+    },
+    {
+        "task_id": "581373",
+        "url": "https://www.dafont.com/forum/read/581373/what-serif-font-is-this",
+        "title": "What Serif-Font is this??",
+        "instructions": "\u0093Athena\u0094or\u0093Clay Fair\u0094...",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1228408.png",
+        "identified_font": "Post Mediaeval"
     }
 ]
