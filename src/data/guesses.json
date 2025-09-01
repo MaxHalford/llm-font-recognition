@@ -47104,5 +47104,59 @@
         "candidate_font_3": "Bebas Neue Bold",
         "candidate_font_4": "Bebas Neue",
         "candidate_font_5": "Impact"
+    },
+    {
+        "task_id": "581414",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Rockness",
+        "candidate_font_2": "Old Sport Athletic",
+        "candidate_font_3": "American Lemon",
+        "candidate_font_4": "Wildwood",
+        "candidate_font_5": "Fenway"
+    },
+    {
+        "task_id": "581413",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Broken Wings",
+        "candidate_font_2": "The Brushes",
+        "candidate_font_3": "Stay Grungy",
+        "candidate_font_4": "Road Rage",
+        "candidate_font_5": "Autumn in November"
+    },
+    {
+        "task_id": "581412",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Gotham Black",
+        "candidate_font_2": "Lemon Milk Bold",
+        "candidate_font_3": "Panton Black",
+        "candidate_font_4": "Objective Black",
+        "candidate_font_5": "Codec Pro Heavy"
+    },
+    {
+        "task_id": "581411",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Adelia Signature",
+        "candidate_font_2": "Magnolia Sky",
+        "candidate_font_3": "The Bragade",
+        "candidate_font_4": "Lovely Home",
+        "candidate_font_5": "Hello Beautiful"
+    },
+    {
+        "task_id": "581410",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Augustus",
+        "candidate_font_2": "Empire",
+        "candidate_font_3": "Broadway",
+        "candidate_font_4": "Franklin Gothic Book",
+        "candidate_font_5": "Univers"
+    },
+    {
+        "task_id": "581409",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Great Vibes",
+        "candidate_font_2": "Didot",
+        "candidate_font_3": "Playfair Display",
+        "candidate_font_4": "Bodoni",
+        "candidate_font_5": "Allura"
     }
 ]
