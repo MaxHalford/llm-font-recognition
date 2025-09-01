@@ -31789,7 +31789,7 @@
         "title": "What font is mini collection?",
         "instructions": null,
         "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1228560.jpg",
-        "identified_font": null
+        "identified_font": "IvyPresto Display Thin"
     },
     {
         "task_id": "529328",
@@ -31797,6 +31797,78 @@
         "title": "Please help, anyone know what font is this?",
         "instructions": null,
         "img_url": "https://www.dafont.com/forum/attach/orig/1/1/1119104.jpg",
+        "identified_font": null
+    },
+    {
+        "task_id": "581437",
+        "url": "https://www.dafont.com/forum/read/581437/what-font-is-this",
+        "title": "what font is this?",
+        "instructions": "font in use in the last 032c by David Carson",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1228584.png",
+        "identified_font": null
+    },
+    {
+        "task_id": "581436",
+        "url": "https://www.dafont.com/forum/read/581436/is-this-a-font",
+        "title": "Is this a font?",
+        "instructions": null,
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1228582.png",
+        "identified_font": null
+    },
+    {
+        "task_id": "581435",
+        "url": "https://www.dafont.com/forum/read/581435/font",
+        "title": "Font?",
+        "instructions": null,
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1228581.jpg",
+        "identified_font": null
+    },
+    {
+        "task_id": "581434",
+        "url": "https://www.dafont.com/forum/read/581434/please-help",
+        "title": "Please help",
+        "instructions": "Can you please help me finding the font in the word Kishore Kumar",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1228580.jpg",
+        "identified_font": null
+    },
+    {
+        "task_id": "581433",
+        "url": "https://www.dafont.com/forum/read/581433/font-identification",
+        "title": "Font Identification",
+        "instructions": "Anyone recognize this font or knows an alternate?",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1228579.png",
+        "identified_font": null
+    },
+    {
+        "task_id": "376760",
+        "url": "https://www.dafont.com/forum/read/376760/jimjam",
+        "title": "JimJam?",
+        "instructions": "Anyone got the font used for the 2018 JimJam logo? Because i need to make 3D models of Jim and Jam.",
+        "img_url": "https://www.dafont.com/forum/attach/orig/8/1/818699.png",
+        "identified_font": null
+    },
+    {
+        "task_id": "581432",
+        "url": "https://www.dafont.com/forum/read/581432/chemlab-burn-out-at-the-hydrogen-bar",
+        "title": "Chemlab - Burn Out At The Hydrogen Bar",
+        "instructions": "What font is this?",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1228573.jpg",
+        "identified_font": null
+    },
+    {
+        "task_id": "581431",
+        "url": "https://www.dafont.com/forum/read/581431/what-fonts-are-there-please",
+        "title": "What fonts are there please?",
+        "instructions": null,
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1228572.png",
+        "identified_font": null
+    },
+    {
+        "task_id": "581430",
+        "url": "https://www.dafont.com/forum/read/581430/fonte-urgenteeeeeeeeeeeeeeeeeeeeeeeeeeeeee",
+        "title": "Fonte URGENTEEEEEEEEEEEEEEEEEEEEEEEEEEEEEE...!!!",
+        "instructions": "\"FIFTH HARMONY\" fonteeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1228571.png",
         "identified_font": null
     }
 ]
