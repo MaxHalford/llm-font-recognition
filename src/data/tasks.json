@@ -31677,7 +31677,7 @@
         "title": "What font is the title screen?",
         "instructions": null,
         "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1228522.png",
-        "identified_font": null
+        "identified_font": "Baveuse"
     },
     {
         "task_id": "581417",
@@ -31693,6 +31693,22 @@
         "title": "Lord of Mysteries - Anime",
         "instructions": null,
         "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1228515.jpg",
+        "identified_font": null
+    },
+    {
+        "task_id": "581421",
+        "url": "https://www.dafont.com/forum/read/581421/help-me-please",
+        "title": "Help me please",
+        "instructions": "Please help me identify this font",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1228544.png",
+        "identified_font": "Viola"
+    },
+    {
+        "task_id": "581422",
+        "url": "https://www.dafont.com/forum/read/581422/find-this-font-for-me-please",
+        "title": "Find this font for me please",
+        "instructions": "Please find this font. I tried but can't found.",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1228545.png",
         "identified_font": null
     }
 ]
