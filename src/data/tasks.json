@@ -31750,5 +31750,53 @@
         "instructions": null,
         "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1228554.png",
         "identified_font": null
+    },
+    {
+        "task_id": "554840",
+        "url": "https://www.dafont.com/forum/read/554840/what-font-is-this-in-the-han-and-english",
+        "title": "what font is this in the han and english?",
+        "instructions": null,
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/1/1173546.jpg",
+        "identified_font": null
+    },
+    {
+        "task_id": "581429",
+        "url": "https://www.dafont.com/forum/read/581429/this-one",
+        "title": "this one?",
+        "instructions": "or something similar?",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1228567.png",
+        "identified_font": null
+    },
+    {
+        "task_id": "543284",
+        "url": "https://www.dafont.com/forum/read/543284/is-this-font-an-actual-font",
+        "title": "Is this font an actual font?",
+        "instructions": "or it\u00b4s been fckd with...",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/1/1148410.png",
+        "identified_font": null
+    },
+    {
+        "task_id": "581428",
+        "url": "https://www.dafont.com/forum/read/581428/what-s-this-font-please",
+        "title": "what's this font please ?",
+        "instructions": null,
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1228561.png",
+        "identified_font": null
+    },
+    {
+        "task_id": "581427",
+        "url": "https://www.dafont.com/forum/read/581427/what-font-is-mini-collection",
+        "title": "What font is mini collection?",
+        "instructions": null,
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1228560.jpg",
+        "identified_font": null
+    },
+    {
+        "task_id": "529328",
+        "url": "https://www.dafont.com/forum/read/529328/please-help-anyone-know-what-font-is-this",
+        "title": "Please help, anyone know what font is this?",
+        "instructions": null,
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/1/1119104.jpg",
+        "identified_font": null
     }
 ]
