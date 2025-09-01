@@ -47302,5 +47302,86 @@
         "candidate_font_3": "Didot LT Std Roman",
         "candidate_font_4": "Butler Display Regular",
         "candidate_font_5": "Publico Display Bold"
+    },
+    {
+        "task_id": "581437",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Arbitrary",
+        "candidate_font_2": "Uncial Most Worn",
+        "candidate_font_3": "Dead Letter",
+        "candidate_font_4": "Chiller",
+        "candidate_font_5": "Celtic Hand"
+    },
+    {
+        "task_id": "581436",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Bickham Script Pro",
+        "candidate_font_2": "Zapfino",
+        "candidate_font_3": "Bellissima Script Pro",
+        "candidate_font_4": "Aphrodite Slim Pro",
+        "candidate_font_5": "Parfumerie Script"
+    },
+    {
+        "task_id": "581435",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "KG Red Hands",
+        "candidate_font_2": "Permanent Marker",
+        "candidate_font_3": "Hello Doodle",
+        "candidate_font_4": "Chicken Pie",
+        "candidate_font_5": "Stay Grateful"
+    },
+    {
+        "task_id": "581434",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Childish Reverie",
+        "candidate_font_2": "Lemon Tuesday",
+        "candidate_font_3": "KG Red Hands",
+        "candidate_font_4": "Lovely Scribe",
+        "candidate_font_5": "Stay Grateful"
+    },
+    {
+        "task_id": "581433",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Road Rage",
+        "candidate_font_2": "Stay Grunged",
+        "candidate_font_3": "Another Danger",
+        "candidate_font_4": "Haster Rough",
+        "candidate_font_5": "Scratched Handwritten"
+    },
+    {
+        "task_id": "376760",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Chewy",
+        "candidate_font_2": "Burbank Big Condensed",
+        "candidate_font_3": "Bubblegum Sans",
+        "candidate_font_4": "Puffy Stuff",
+        "candidate_font_5": "Fredoka One"
+    },
+    {
+        "task_id": "581432",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Aachen Bold",
+        "candidate_font_2": "Stymie Black",
+        "candidate_font_3": "Rockwell Bold",
+        "candidate_font_4": "Clarendon Bold Condensed",
+        "candidate_font_5": "Memphis Extra Bold"
+    },
+    {
+        "task_id": "581431",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Linotype Didot",
+        "candidate_font_2": "Adobe Didot",
+        "candidate_font_3": "HTF Didot",
+        "candidate_font_4": "Bodoni Moda",
+        "candidate_font_5": "Bodoni Std"
+    },
+    {
+        "task_id": "581430",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Harmonique",
+        "candidate_font_2": "Giveny",
+        "candidate_font_3": "Didone Room Fifty One",
+        "candidate_font_4": "Glamour Absolute",
+        "candidate_font_5": "Didot"
     }
 ]
