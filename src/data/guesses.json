@@ -47248,5 +47248,59 @@
         "candidate_font_3": "Magnolia Sky",
         "candidate_font_4": "Aphrodite Pro",
         "candidate_font_5": "Bickham Script Pro"
+    },
+    {
+        "task_id": "554840",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "KG Primary Penmanship",
+        "candidate_font_2": "Nanum Pen Script",
+        "candidate_font_3": "Schoolbell",
+        "candidate_font_4": "Yeon Sung",
+        "candidate_font_5": "Gochi Hand"
+    },
+    {
+        "task_id": "581429",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Halo (Font) by Pixel Sagas",
+        "candidate_font_2": "Halo S by A.V. Graphics",
+        "candidate_font_3": "Halo font by Jonathan S. Harris",
+        "candidate_font_4": "Blackoak Standard",
+        "candidate_font_5": "Rockwell Extra Bold"
+    },
+    {
+        "task_id": "543284",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Futura Display Bold",
+        "candidate_font_2": "Neuzeit Grotesk Bold",
+        "candidate_font_3": "Avenir Black",
+        "candidate_font_4": "Univers 85 Extra Black",
+        "candidate_font_5": "Folio Bold Extended"
+    },
+    {
+        "task_id": "581428",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Adelios Display Font",
+        "candidate_font_2": "Modern Classic Serif",
+        "candidate_font_3": "Loverine",
+        "candidate_font_4": "Belladonna",
+        "candidate_font_5": "Luxerie"
+    },
+    {
+        "task_id": "581427",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Loverine",
+        "candidate_font_2": "Didona Italic",
+        "candidate_font_3": "Voga Italic",
+        "candidate_font_4": "Parisora Italic",
+        "candidate_font_5": "Portia Italic"
+    },
+    {
+        "task_id": "529328",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Cochineal Display",
+        "candidate_font_2": "Freight Display Bold",
+        "candidate_font_3": "Didot LT Std Roman",
+        "candidate_font_4": "Butler Display Regular",
+        "candidate_font_5": "Publico Display Bold"
     }
 ]
