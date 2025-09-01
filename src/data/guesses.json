@@ -47194,5 +47194,14 @@
         "candidate_font_3": "Anglican Text",
         "candidate_font_4": "Blackmoor",
         "candidate_font_5": "Gothic Ultra"
+    },
+    {
+        "task_id": "581422",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Circular Std Black",
+        "candidate_font_2": "Avenir Black",
+        "candidate_font_3": "Gotham Black",
+        "candidate_font_4": "Brandon Grotesque Black",
+        "candidate_font_5": "Proxima Nova Black"
     }
 ]
