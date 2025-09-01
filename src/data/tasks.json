@@ -31654,5 +31654,45 @@
         "instructions": null,
         "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1228509.jpg?1",
         "identified_font": null
+    },
+    {
+        "task_id": "357960",
+        "url": "https://www.dafont.com/forum/read/357960/corporation-for-public-broadcasting",
+        "title": "Corporation for Public Broadcasting",
+        "instructions": "Can anyone identify this font please?",
+        "img_url": "https://www.dafont.com/forum/attach/orig/7/8/780999.png",
+        "identified_font": null
+    },
+    {
+        "task_id": "581416",
+        "url": "https://www.dafont.com/forum/read/581416/m-i-a-xxxo-font",
+        "title": "M.I.A. - XXXO font?",
+        "instructions": "What is the font used on The REMIXES and XXXO?",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1228519.jpg",
+        "identified_font": "New Berolina"
+    },
+    {
+        "task_id": "581419",
+        "url": "https://www.dafont.com/forum/read/581419/what-font-is-the-title-screen",
+        "title": "What font is the title screen?",
+        "instructions": null,
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1228522.png",
+        "identified_font": null
+    },
+    {
+        "task_id": "581417",
+        "url": "https://www.dafont.com/forum/read/581417/already-dead",
+        "title": "Already dead",
+        "instructions": "I know theres a mixture of lower and upppercase and spacing but thest wont is it",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1228520.png",
+        "identified_font": null
+    },
+    {
+        "task_id": "581415",
+        "url": "https://www.dafont.com/forum/read/581415/lord-of-mysteries-anime",
+        "title": "Lord of Mysteries - Anime",
+        "instructions": null,
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1228515.jpg",
+        "identified_font": null
     }
 ]
