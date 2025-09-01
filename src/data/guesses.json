@@ -47158,5 +47158,41 @@
         "candidate_font_3": "Playfair Display",
         "candidate_font_4": "Bodoni",
         "candidate_font_5": "Allura"
+    },
+    {
+        "task_id": "357960",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Gotham Light",
+        "candidate_font_2": "Gotham Book",
+        "candidate_font_3": "Proxima Nova Light",
+        "candidate_font_4": "Avenir Light",
+        "candidate_font_5": "Montserrat Light"
+    },
+    {
+        "task_id": "581419",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Hemi Head Bold Italic",
+        "candidate_font_2": "Pricedown",
+        "candidate_font_3": "Road Rage",
+        "candidate_font_4": "Good Times",
+        "candidate_font_5": "Big Noodle Titling"
+    },
+    {
+        "task_id": "581417",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Staatliches",
+        "candidate_font_2": "Compacta Black",
+        "candidate_font_3": "Impact",
+        "candidate_font_4": "Destroyer",
+        "candidate_font_5": "Black Label"
+    },
+    {
+        "task_id": "581415",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Dark Harvest",
+        "candidate_font_2": "Lordish",
+        "candidate_font_3": "Anglican Text",
+        "candidate_font_4": "Blackmoor",
+        "candidate_font_5": "Gothic Ultra"
     }
 ]
