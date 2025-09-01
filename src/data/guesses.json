@@ -47491,5 +47491,68 @@
         "candidate_font_3": "Book Antiqua",
         "candidate_font_4": "Centaur",
         "candidate_font_5": "Requiem Text"
+    },
+    {
+        "task_id": "581478",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Uni Sans Heavy",
+        "candidate_font_2": "Nexa Black",
+        "candidate_font_3": "Gobold High Bold",
+        "candidate_font_4": "Oswald Bold",
+        "candidate_font_5": "Avenir Next Heavy"
+    },
+    {
+        "task_id": "581475",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Luckiest Guy",
+        "candidate_font_2": "Badaboom BB",
+        "candidate_font_3": "Komika Axis Bold",
+        "candidate_font_4": "Grobold",
+        "candidate_font_5": "Permanent Marker"
+    },
+    {
+        "task_id": "581474",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Cutie Bubble",
+        "candidate_font_2": "Bubblegum Pop",
+        "candidate_font_3": "Cream Candy",
+        "candidate_font_4": "Hello Ketta",
+        "candidate_font_5": "Lovely Sweetness"
+    },
+    {
+        "task_id": "581473",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Avengeance Heroic Avenger Italic",
+        "candidate_font_2": "Conthrax Bold Italic",
+        "candidate_font_3": "Compacta Bold Italic",
+        "candidate_font_4": "Big Noodle Titling Oblique",
+        "candidate_font_5": "SF Collegiate Solid Italic"
+    },
+    {
+        "task_id": "581472",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Good Dog",
+        "candidate_font_2": "Bubblegum Sans",
+        "candidate_font_3": "Chewy",
+        "candidate_font_4": "Komika Title",
+        "candidate_font_5": "Grinched"
+    },
+    {
+        "task_id": "581451",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Rock Salt",
+        "candidate_font_2": "Cream Peach",
+        "candidate_font_3": "KG Red Hands",
+        "candidate_font_4": "Permanent Marker",
+        "candidate_font_5": "Handycheera"
+    },
+    {
+        "task_id": "581450",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Luckiest Guy",
+        "candidate_font_2": "Grobold",
+        "candidate_font_3": "Alpha Echo",
+        "candidate_font_4": "Porkys",
+        "candidate_font_5": "Bubblegum Sans"
     }
 ]
