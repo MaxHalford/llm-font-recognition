@@ -47203,5 +47203,50 @@
         "candidate_font_3": "Gotham Black",
         "candidate_font_4": "Brandon Grotesque Black",
         "candidate_font_5": "Proxima Nova Black"
+    },
+    {
+        "task_id": "581426",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Montserrat",
+        "candidate_font_2": "Urbanist",
+        "candidate_font_3": "Poppins",
+        "candidate_font_4": "Open Sans",
+        "candidate_font_5": "Lato"
+    },
+    {
+        "task_id": "581425",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Segoe UI",
+        "candidate_font_2": "Open Sans",
+        "candidate_font_3": "Roboto",
+        "candidate_font_4": "Noto Sans",
+        "candidate_font_5": "Calibri"
+    },
+    {
+        "task_id": "555205",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Quicksand",
+        "candidate_font_2": "Comfortaa",
+        "candidate_font_3": "Varela Round",
+        "candidate_font_4": "Nunito",
+        "candidate_font_5": "M PLUS Rounded 1c"
+    },
+    {
+        "task_id": "581424",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Firestarter",
+        "candidate_font_2": "Flame On",
+        "candidate_font_3": "Hot Stuff",
+        "candidate_font_4": "Inferno",
+        "candidate_font_5": "Hellfire"
+    },
+    {
+        "task_id": "581423",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Bombshell Pro",
+        "candidate_font_2": "Melika Script",
+        "candidate_font_3": "Magnolia Sky",
+        "candidate_font_4": "Aphrodite Pro",
+        "candidate_font_5": "Bickham Script Pro"
     }
 ]
