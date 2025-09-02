@@ -32302,5 +32302,69 @@
         "instructions": null,
         "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1228699.jpg",
         "identified_font": null
+    },
+    {
+        "task_id": "581520",
+        "url": "https://www.dafont.com/forum/read/581520/font-please",
+        "title": "Font please?",
+        "instructions": null,
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1228726.png",
+        "identified_font": null
+    },
+    {
+        "task_id": "581519",
+        "url": "https://www.dafont.com/forum/read/581519/font",
+        "title": "Font",
+        "instructions": null,
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1228724.jpg",
+        "identified_font": null
+    },
+    {
+        "task_id": "581518",
+        "url": "https://www.dafont.com/forum/read/581518/the-what-font",
+        "title": "THE WHAT FONT",
+        "instructions": "What is the name of this font?",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1228723.jpg",
+        "identified_font": null
+    },
+    {
+        "task_id": "581517",
+        "url": "https://www.dafont.com/forum/read/581517/font",
+        "title": "Font",
+        "instructions": null,
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1228722.png",
+        "identified_font": null
+    },
+    {
+        "task_id": "581516",
+        "url": "https://www.dafont.com/forum/read/581516/please-help-id",
+        "title": "Please Help ID",
+        "instructions": null,
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1228720.png",
+        "identified_font": null
+    },
+    {
+        "task_id": "581515",
+        "url": "https://www.dafont.com/forum/read/581515/i-need-this-font-please",
+        "title": "I NEED THIS FONT PLEASE",
+        "instructions": "Help!!!!",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1228719.png",
+        "identified_font": null
+    },
+    {
+        "task_id": "581514",
+        "url": "https://www.dafont.com/forum/read/581514/font-name-please",
+        "title": "Font name please",
+        "instructions": null,
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1228718.png",
+        "identified_font": null
+    },
+    {
+        "task_id": "581513",
+        "url": "https://www.dafont.com/forum/read/581513/help-identifying-as-many-fonts-as-possible-thanks",
+        "title": "Help identifying as many fonts as possible. Thanks!",
+        "instructions": null,
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1228717.png",
+        "identified_font": null
     }
 ]
