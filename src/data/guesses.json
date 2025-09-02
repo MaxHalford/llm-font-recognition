@@ -47590,5 +47590,41 @@
         "candidate_font_3": "Digital Circuit",
         "candidate_font_4": "Mekanik",
         "candidate_font_5": "Orbitron"
+    },
+    {
+        "task_id": "581487",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Death Rattle",
+        "candidate_font_2": "Gothic Textur",
+        "candidate_font_3": "Letter Gothic",
+        "candidate_font_4": "Monaco",
+        "candidate_font_5": "Source Code Pro"
+    },
+    {
+        "task_id": "581486",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Groovy History",
+        "candidate_font_2": "Groovy Disco",
+        "candidate_font_3": "Marigold",
+        "candidate_font_4": "Funkies",
+        "candidate_font_5": "Receria"
+    },
+    {
+        "task_id": "581484",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Creamy Sunrise Display Font",
+        "candidate_font_2": "Brilliant Soul",
+        "candidate_font_3": "The Bloomisy",
+        "candidate_font_4": "Rumble Brave",
+        "candidate_font_5": "Sunkissed"
+    },
+    {
+        "task_id": "581483",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Obelix Pro",
+        "candidate_font_2": "Komika Axis",
+        "candidate_font_3": "Porky's",
+        "candidate_font_4": "Luckiest Guy",
+        "candidate_font_5": "Bangers"
     }
 ]
