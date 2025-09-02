@@ -31805,7 +31805,7 @@
         "title": "what font is this?",
         "instructions": "font in use in the last 032c by David Carson",
         "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1228584.png",
-        "identified_font": null
+        "identified_font": "Nomarch"
     },
     {
         "task_id": "581436",
@@ -32109,6 +32109,46 @@
         "title": "name that font..",
         "instructions": "need assistance finding this font.",
         "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1228659.png",
+        "identified_font": null
+    },
+    {
+        "task_id": "581490",
+        "url": "https://www.dafont.com/forum/read/581490/what-is-this-font",
+        "title": "what is this font?",
+        "instructions": "I want make a Color coded with this font, pls help me",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1228668.jpg",
+        "identified_font": null
+    },
+    {
+        "task_id": "581491",
+        "url": "https://www.dafont.com/forum/read/581491/i-need",
+        "title": "I need. :(",
+        "instructions": "Help me find it",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1228669.png",
+        "identified_font": null
+    },
+    {
+        "task_id": "581492",
+        "url": "https://www.dafont.com/forum/read/581492/what-is-this-font",
+        "title": "what is this font?",
+        "instructions": "Thanks",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1228671.png",
+        "identified_font": null
+    },
+    {
+        "task_id": "581489",
+        "url": "https://www.dafont.com/forum/read/581489/what-font-is-this",
+        "title": "What font is this?",
+        "instructions": "I need this font please :p",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1228666.png",
+        "identified_font": null
+    },
+    {
+        "task_id": "581488",
+        "url": "https://www.dafont.com/forum/read/581488/me-podrian-ayudar-con-saber-cual-es-la-tipografia",
+        "title": "Me podrian ayudar con saber cual es la tipografia",
+        "instructions": "Ya busque, arial no es, tampoco century gothic, montserrat, me ayudan porfa",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1228665.png",
         "identified_font": null
     }
 ]
