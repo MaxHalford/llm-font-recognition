@@ -47626,5 +47626,50 @@
         "candidate_font_3": "Porky's",
         "candidate_font_4": "Luckiest Guy",
         "candidate_font_5": "Bangers"
+    },
+    {
+        "task_id": "581490",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Befitting Script",
+        "candidate_font_2": "Lemon Tuesday",
+        "candidate_font_3": "Pacifico",
+        "candidate_font_4": "Magnolia Sky",
+        "candidate_font_5": "Playlist Script"
+    },
+    {
+        "task_id": "581491",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Sweet Pea",
+        "candidate_font_2": "KG Always a Good Time",
+        "candidate_font_3": "Hello Stockholm",
+        "candidate_font_4": "Beautiful Es",
+        "candidate_font_5": "Bromello"
+    },
+    {
+        "task_id": "581492",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Circular Std",
+        "candidate_font_2": "Visby CF",
+        "candidate_font_3": "Sofia Pro",
+        "candidate_font_4": "Gilroy",
+        "candidate_font_5": "Avenir Next"
+    },
+    {
+        "task_id": "581489",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Chewy",
+        "candidate_font_2": "RockoFLF",
+        "candidate_font_3": "Bubblegum Sans",
+        "candidate_font_4": "Love Ya Like A Sister",
+        "candidate_font_5": "Coming Soon"
+    },
+    {
+        "task_id": "581488",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Brandon Grotesque",
+        "candidate_font_2": "Gotham",
+        "candidate_font_3": "Circular Std",
+        "candidate_font_4": "Oswald Bold",
+        "candidate_font_5": "Roboto Condensed Bold"
     }
 ]
