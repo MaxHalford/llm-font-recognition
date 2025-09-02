@@ -47671,5 +47671,59 @@
         "candidate_font_3": "Circular Std",
         "candidate_font_4": "Oswald Bold",
         "candidate_font_5": "Roboto Condensed Bold"
+    },
+    {
+        "task_id": "531515",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Council Bold",
+        "candidate_font_2": "Agency FB Extended Bold",
+        "candidate_font_3": "Futura Extra Black",
+        "candidate_font_4": "Bebas Neue Bold",
+        "candidate_font_5": "DIN Black"
+    },
+    {
+        "task_id": "581497",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Univers 67 Condensed Bold",
+        "candidate_font_2": "Univers 57 Condensed",
+        "candidate_font_3": "Helvetica Neue 77 Condensed Bold",
+        "candidate_font_4": "Akzidenz-Grotesk BQ Condensed Bold",
+        "candidate_font_5": "Franklin Gothic Condensed"
+    },
+    {
+        "task_id": "581496",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "IBM Plex Sans",
+        "candidate_font_2": "Unica One",
+        "candidate_font_3": "Inter",
+        "candidate_font_4": "Univers",
+        "candidate_font_5": "Akzidenz-Grotesk"
+    },
+    {
+        "task_id": "581495",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "DIN 1451",
+        "candidate_font_2": "Trade Gothic",
+        "candidate_font_3": "Franklin Gothic",
+        "candidate_font_4": "Univers",
+        "candidate_font_5": "Akzidenz-Grotesk"
+    },
+    {
+        "task_id": "581494",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Folio Bold Condensed",
+        "candidate_font_2": "Univers 55 Roman",
+        "candidate_font_3": "Akzidenz-Grotesk Medium Condensed",
+        "candidate_font_4": "Neue Haas Grotesk Roman",
+        "candidate_font_5": "Franklin Gothic Condensed"
+    },
+    {
+        "task_id": "581493",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Microgramma Extended Bold",
+        "candidate_font_2": "Eurostile Extended Bold",
+        "candidate_font_3": "Bank Gothic Medium",
+        "candidate_font_4": "Agency FB",
+        "candidate_font_5": "Rajdhani Bold"
     }
 ]
