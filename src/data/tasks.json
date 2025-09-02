@@ -32078,5 +32078,37 @@
         "instructions": null,
         "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1228653.jpg",
         "identified_font": null
+    },
+    {
+        "task_id": "581487",
+        "url": "https://www.dafont.com/forum/read/581487/dead-already",
+        "title": "Dead already",
+        "instructions": "Any idea ?",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1228663.jpg",
+        "identified_font": null
+    },
+    {
+        "task_id": "581486",
+        "url": "https://www.dafont.com/forum/read/581486/font-please",
+        "title": "Font please?",
+        "instructions": "Font please?",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1228662.png",
+        "identified_font": null
+    },
+    {
+        "task_id": "581484",
+        "url": "https://www.dafont.com/forum/read/581484/font-please",
+        "title": "Font please?",
+        "instructions": "Font please?",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1228660.png",
+        "identified_font": null
+    },
+    {
+        "task_id": "581483",
+        "url": "https://www.dafont.com/forum/read/581483/name-that-font",
+        "title": "name that font..",
+        "instructions": "need assistance finding this font.",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1228659.png",
+        "identified_font": null
     }
 ]
