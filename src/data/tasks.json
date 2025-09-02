@@ -32150,5 +32150,53 @@
         "instructions": "Ya busque, arial no es, tampoco century gothic, montserrat, me ayudan porfa",
         "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1228665.png",
         "identified_font": null
+    },
+    {
+        "task_id": "531515",
+        "url": "https://www.dafont.com/forum/read/531515/silent-hill-movie-font",
+        "title": "Silent Hill movie font",
+        "instructions": "What is the font used for the Silent Hill movie title?",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/1/1123821.png",
+        "identified_font": null
+    },
+    {
+        "task_id": "581497",
+        "url": "https://www.dafont.com/forum/read/581497/faulkner-sartoris",
+        "title": "Faulkner sartoris",
+        "instructions": null,
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1228684.jpg",
+        "identified_font": null
+    },
+    {
+        "task_id": "581496",
+        "url": "https://www.dafont.com/forum/read/581496/font-indijanci-odbiju",
+        "title": "Font indijanci odbiju",
+        "instructions": null,
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1228683.jpg",
+        "identified_font": null
+    },
+    {
+        "task_id": "581495",
+        "url": "https://www.dafont.com/forum/read/581495/font",
+        "title": "Font",
+        "instructions": null,
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1228682.jpg",
+        "identified_font": null
+    },
+    {
+        "task_id": "581494",
+        "url": "https://www.dafont.com/forum/read/581494/font",
+        "title": "Font",
+        "instructions": null,
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1228681.jpg",
+        "identified_font": null
+    },
+    {
+        "task_id": "581493",
+        "url": "https://www.dafont.com/forum/read/581493/what-font-is-used",
+        "title": "What font is used?",
+        "instructions": null,
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1228680.png",
+        "identified_font": null
     }
 ]
