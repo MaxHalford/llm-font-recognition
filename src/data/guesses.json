@@ -47554,5 +47554,41 @@
         "candidate_font_3": "Alpha Echo",
         "candidate_font_4": "Porkys",
         "candidate_font_5": "Bubblegum Sans"
+    },
+    {
+        "task_id": "581482",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Termina Black",
+        "candidate_font_2": "Inter Regular",
+        "candidate_font_3": "Fredoka One",
+        "candidate_font_4": "Lemon Milk Bold",
+        "candidate_font_5": "Roboto Regular"
+    },
+    {
+        "task_id": "581481",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Montserrat",
+        "candidate_font_2": "Inter",
+        "candidate_font_3": "Open Sans",
+        "candidate_font_4": "Lato",
+        "candidate_font_5": "Poppins"
+    },
+    {
+        "task_id": "581480",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Candice",
+        "candidate_font_2": "VAG Rounded",
+        "candidate_font_3": "Motter Tektura",
+        "candidate_font_4": "ITC Avant Garde Gothic",
+        "candidate_font_5": "Pump"
+    },
+    {
+        "task_id": "581479",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Volvo Inscription",
+        "candidate_font_2": "Square Line",
+        "candidate_font_3": "Digital Circuit",
+        "candidate_font_4": "Mekanik",
+        "candidate_font_5": "Orbitron"
     }
 ]
