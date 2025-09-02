@@ -47905,5 +47905,50 @@
         "candidate_font_3": "Montserrat Black",
         "candidate_font_4": "Montserrat Light",
         "candidate_font_5": "Montserrat Regular"
+    },
+    {
+        "task_id": "581526",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Gotham Black",
+        "candidate_font_2": "Montserrat Black",
+        "candidate_font_3": "Proxima Nova Black",
+        "candidate_font_4": "Avenir Heavy",
+        "candidate_font_5": "Univers 85 Extra Black"
+    },
+    {
+        "task_id": "581525",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Janson Text Italic",
+        "candidate_font_2": "Sabon Italic",
+        "candidate_font_3": "Trade Gothic Condensed No. 20",
+        "candidate_font_4": "Franklin Gothic Condensed Extra Bold",
+        "candidate_font_5": "Helvetica Regular"
+    },
+    {
+        "task_id": "581524",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Nexa Rust Slab Black",
+        "candidate_font_2": "Source Serif Pro",
+        "candidate_font_3": "Portico Rough",
+        "candidate_font_4": "Trocchi",
+        "candidate_font_5": "Saloon Rough"
+    },
+    {
+        "task_id": "581523",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Puffy Clouds",
+        "candidate_font_2": "Pillow",
+        "candidate_font_3": "Soft Bubble",
+        "candidate_font_4": "Bubblebath",
+        "candidate_font_5": "Pillow Pop"
+    },
+    {
+        "task_id": "581522",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Gabo Drive",
+        "candidate_font_2": "VAG Rounded",
+        "candidate_font_3": "Comfortaa",
+        "candidate_font_4": "Fredoka One",
+        "candidate_font_5": "Baloo 2"
     }
 ]
