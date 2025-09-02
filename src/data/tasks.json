@@ -32365,6 +32365,54 @@
         "title": "Help identifying as many fonts as possible. Thanks!",
         "instructions": null,
         "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1228717.png",
+        "identified_font": "Hyperwave"
+    },
+    {
+        "task_id": "581526",
+        "url": "https://www.dafont.com/forum/read/581526/font",
+        "title": "Font",
+        "instructions": null,
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1228738.jpg",
+        "identified_font": null
+    },
+    {
+        "task_id": "581521",
+        "url": "https://www.dafont.com/forum/read/581521/font-please",
+        "title": "font please",
+        "instructions": "\"Bienvenue\" thanks a lot",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1228730.jpg",
+        "identified_font": "Clarissa"
+    },
+    {
+        "task_id": "581525",
+        "url": "https://www.dafont.com/forum/read/581525/font",
+        "title": "Font",
+        "instructions": null,
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1228736.jpg",
+        "identified_font": null
+    },
+    {
+        "task_id": "581524",
+        "url": "https://www.dafont.com/forum/read/581524/thanks-in-advance",
+        "title": "Thanks in advance",
+        "instructions": null,
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1228733.png",
+        "identified_font": null
+    },
+    {
+        "task_id": "581523",
+        "url": "https://www.dafont.com/forum/read/581523/font-please",
+        "title": "font please",
+        "instructions": null,
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1228732.png",
+        "identified_font": null
+    },
+    {
+        "task_id": "581522",
+        "url": "https://www.dafont.com/forum/read/581522/me-pueden-ayudar-a-identificar-esta-fuente-por-favor",
+        "title": "Me pueden ayudar a identificar esta fuente, por favor",
+        "instructions": "Me la mandaron en una invitaci\u00f3n que tiene tematica de videojuegos",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1228731.png",
         "identified_font": null
     }
 ]
