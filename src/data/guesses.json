@@ -47725,5 +47725,50 @@
         "candidate_font_3": "Bank Gothic Medium",
         "candidate_font_4": "Agency FB",
         "candidate_font_5": "Rajdhani Bold"
+    },
+    {
+        "task_id": "581505",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "CF Sketchy",
+        "candidate_font_2": "Sketchy Times",
+        "candidate_font_3": "Dirty Line",
+        "candidate_font_4": "Hokjesgeest",
+        "candidate_font_5": "WC RoughTrad Bta"
+    },
+    {
+        "task_id": "581504",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Haelo Display",
+        "candidate_font_2": "Mesopotamia",
+        "candidate_font_3": "Avenge",
+        "candidate_font_4": "Playbill",
+        "candidate_font_5": "Superstar M54"
+    },
+    {
+        "task_id": "581503",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Castellar",
+        "candidate_font_2": "Federated",
+        "candidate_font_3": "Augusta",
+        "candidate_font_4": "Cinzel Decorative Bold",
+        "candidate_font_5": "Trajan Pro Bold"
+    },
+    {
+        "task_id": "581501",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Public Sans",
+        "candidate_font_2": "Urbanist",
+        "candidate_font_3": "Poppins",
+        "candidate_font_4": "Larsseit",
+        "candidate_font_5": "Manrope"
+    },
+    {
+        "task_id": "581499",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Impact Label",
+        "candidate_font_2": "Agency FB Extended Black",
+        "candidate_font_3": "Headliner No. 45",
+        "candidate_font_4": "Destroy",
+        "candidate_font_5": "Defect"
     }
 ]
