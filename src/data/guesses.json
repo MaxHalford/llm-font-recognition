@@ -47770,5 +47770,68 @@
         "candidate_font_3": "Headliner No. 45",
         "candidate_font_4": "Destroy",
         "candidate_font_5": "Defect"
+    },
+    {
+        "task_id": "581512",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Burbank Big Condensed Black",
+        "candidate_font_2": "Obelix Pro",
+        "candidate_font_3": "Bubblegum Sans",
+        "candidate_font_4": "Fredoka One",
+        "candidate_font_5": "Chewy"
+    },
+    {
+        "task_id": "581511",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Baloo 2",
+        "candidate_font_2": "Nunito",
+        "candidate_font_3": "Quicksand",
+        "candidate_font_4": "Varela Round",
+        "candidate_font_5": "Rubik"
+    },
+    {
+        "task_id": "581510",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Road Rage",
+        "candidate_font_2": "Intro Regular",
+        "candidate_font_3": "Poppins Black",
+        "candidate_font_4": "Gobold Bold",
+        "candidate_font_5": "Impact"
+    },
+    {
+        "task_id": "581509",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Playfair Display",
+        "candidate_font_2": "Bodoni",
+        "candidate_font_3": "Didot",
+        "candidate_font_4": "Requiem Text",
+        "candidate_font_5": "Cormorant Garamond"
+    },
+    {
+        "task_id": "581508",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Brandon Grotesque",
+        "candidate_font_2": "Sofia Pro",
+        "candidate_font_3": "Montserrat",
+        "candidate_font_4": "Circular Std",
+        "candidate_font_5": "Visby CF"
+    },
+    {
+        "task_id": "581507",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Magnolia Sky",
+        "candidate_font_2": "Bromello",
+        "candidate_font_3": "Stay Gracious Script",
+        "candidate_font_4": "Sweetie Alisa",
+        "candidate_font_5": "Beautifully Delicious"
+    },
+    {
+        "task_id": "581506",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Butler",
+        "candidate_font_2": "Lato Black",
+        "candidate_font_3": "Didot",
+        "candidate_font_4": "Bodoni",
+        "candidate_font_5": "Montserrat Bold"
     }
 ]
