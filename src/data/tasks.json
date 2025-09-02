@@ -32101,7 +32101,7 @@
         "title": "Font please?",
         "instructions": "Font please?",
         "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1228660.png",
-        "identified_font": null
+        "identified_font": "Rafaella"
     },
     {
         "task_id": "581483",
@@ -32197,6 +32197,54 @@
         "title": "What font is used?",
         "instructions": null,
         "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1228680.png",
+        "identified_font": null
+    },
+    {
+        "task_id": "581505",
+        "url": "https://www.dafont.com/forum/read/581505/help-please",
+        "title": "Help please&#128591;&#127995;",
+        "instructions": "Please identify this one",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1228697.jpg",
+        "identified_font": null
+    },
+    {
+        "task_id": "581498",
+        "url": "https://www.dafont.com/forum/read/581498/name-this-font-please",
+        "title": "Name this font please",
+        "instructions": null,
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1228686.jpg",
+        "identified_font": "Mr De Haviland"
+    },
+    {
+        "task_id": "581504",
+        "url": "https://www.dafont.com/forum/read/581504/anything-similar",
+        "title": "anything similar?",
+        "instructions": null,
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1228695.png",
+        "identified_font": null
+    },
+    {
+        "task_id": "581503",
+        "url": "https://www.dafont.com/forum/read/581503/dc-comics-all-in-font",
+        "title": "DC Comics All In font",
+        "instructions": null,
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1228693.jpg",
+        "identified_font": null
+    },
+    {
+        "task_id": "581501",
+        "url": "https://www.dafont.com/forum/read/581501/font-kobenhavn-aarhus-odense-aalborg",
+        "title": "Font? K\u00f8benhavn/Aarhus/Odense/Aalborg",
+        "instructions": "Which font is this logo and text?",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1228691.jpg",
+        "identified_font": null
+    },
+    {
+        "task_id": "581499",
+        "url": "https://www.dafont.com/forum/read/581499/tittle-font-now-forever-treasure-please",
+        "title": "Tittle font \"NOW FOREVER\" treasure please",
+        "instructions": null,
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1228687.jpg",
         "identified_font": null
     }
 ]
