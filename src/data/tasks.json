@@ -32046,5 +32046,37 @@
         "instructions": null,
         "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1228611.jpg",
         "identified_font": null
+    },
+    {
+        "task_id": "581482",
+        "url": "https://www.dafont.com/forum/read/581482/what-is-this",
+        "title": "What is this?",
+        "instructions": "i need to identify this fonts?",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1228658.jpg",
+        "identified_font": null
+    },
+    {
+        "task_id": "581481",
+        "url": "https://www.dafont.com/forum/read/581481/help-please",
+        "title": "Help please :)",
+        "instructions": null,
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1228657.jpg",
+        "identified_font": null
+    },
+    {
+        "task_id": "581480",
+        "url": "https://www.dafont.com/forum/read/581480/id-font",
+        "title": "ID FONT?",
+        "instructions": null,
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1228654.png",
+        "identified_font": null
+    },
+    {
+        "task_id": "581479",
+        "url": "https://www.dafont.com/forum/read/581479/any-idea-on-this-font-please-anyone",
+        "title": "Any idea on this font please anyone?",
+        "instructions": null,
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1228653.jpg",
+        "identified_font": null
     }
 ]
