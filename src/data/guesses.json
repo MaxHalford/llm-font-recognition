@@ -47833,5 +47833,77 @@
         "candidate_font_3": "Didot",
         "candidate_font_4": "Bodoni",
         "candidate_font_5": "Montserrat Bold"
+    },
+    {
+        "task_id": "581520",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Lavanderia",
+        "candidate_font_2": "Beautiful People",
+        "candidate_font_3": "Scriptina Pro",
+        "candidate_font_4": "Great Vibes",
+        "candidate_font_5": "Garamond Italic"
+    },
+    {
+        "task_id": "581519",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Futura Bold",
+        "candidate_font_2": "Futura Book",
+        "candidate_font_3": "Avenir",
+        "candidate_font_4": "Gotham",
+        "candidate_font_5": "Montserrat"
+    },
+    {
+        "task_id": "581518",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Lato",
+        "candidate_font_2": "Open Sans",
+        "candidate_font_3": "Source Sans Pro",
+        "candidate_font_4": "Work Sans",
+        "candidate_font_5": "PT Sans"
+    },
+    {
+        "task_id": "581517",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Akzidenz-Grotesk",
+        "candidate_font_2": "Basic Commercial",
+        "candidate_font_3": "Monotype Grotesque",
+        "candidate_font_4": "Folio",
+        "candidate_font_5": "Venus Grotesque"
+    },
+    {
+        "task_id": "581516",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "ITC Korinna",
+        "candidate_font_2": "ITC Benguiat",
+        "candidate_font_3": "Bookman Old Style",
+        "candidate_font_4": "Century Schoolbook",
+        "candidate_font_5": "Goudy Old Style Bold"
+    },
+    {
+        "task_id": "581515",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Codec Pro",
+        "candidate_font_2": "Exo 2",
+        "candidate_font_3": "Mochy",
+        "candidate_font_4": "Gilroy",
+        "candidate_font_5": "Space Grotesk"
+    },
+    {
+        "task_id": "581514",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Royal Crescent",
+        "candidate_font_2": "Edwardian Script ITC",
+        "candidate_font_3": "Victorian Parlor",
+        "candidate_font_4": "Riesling",
+        "candidate_font_5": "Montez Bold"
+    },
+    {
+        "task_id": "581513",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Break Dance",
+        "candidate_font_2": "Ultra",
+        "candidate_font_3": "Montserrat Black",
+        "candidate_font_4": "Montserrat Light",
+        "candidate_font_5": "Montserrat Regular"
     }
 ]
