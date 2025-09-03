@@ -48058,5 +48058,68 @@
         "candidate_font_3": "Shattered",
         "candidate_font_4": "Broken Home",
         "candidate_font_5": "Fragmented"
+    },
+    {
+        "task_id": "581548",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "The Quickest",
+        "candidate_font_2": "Brighton",
+        "candidate_font_3": "Milkshake",
+        "candidate_font_4": "Salted Caramel",
+        "candidate_font_5": "Good Vibes"
+    },
+    {
+        "task_id": "581547",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Doodle Gum",
+        "candidate_font_2": "Return To Sender",
+        "candidate_font_3": "Sketchy Times",
+        "candidate_font_4": "KG Red Hands",
+        "candidate_font_5": "Colored Crayon"
+    },
+    {
+        "task_id": "581544",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Road Rage",
+        "candidate_font_2": "Obelix Pro",
+        "candidate_font_3": "CargoCrate",
+        "candidate_font_4": "SF Fedora",
+        "candidate_font_5": "Kommandant"
+    },
+    {
+        "task_id": "581543",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Burbank Big Condensed Black",
+        "candidate_font_2": "Luckiest Guy",
+        "candidate_font_3": "Chewy",
+        "candidate_font_4": "Bubblegum Sans",
+        "candidate_font_5": "Fredoka One"
+    },
+    {
+        "task_id": "581542",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Knockout No. 28 Juniorweight",
+        "candidate_font_2": "Knockout No. 26 Bantamweight",
+        "candidate_font_3": "Tungsten Black",
+        "candidate_font_4": "Impact",
+        "candidate_font_5": "Trade Gothic Bold Condensed No. 20"
+    },
+    {
+        "task_id": "581540",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Bubblegum Pop",
+        "candidate_font_2": "Porky's",
+        "candidate_font_3": "Chunky Funky",
+        "candidate_font_4": "Bubble Letters",
+        "candidate_font_5": "Bloody Bubble"
+    },
+    {
+        "task_id": "581539",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Race Sport",
+        "candidate_font_2": "Impact",
+        "candidate_font_3": "VAG Rounded Bold",
+        "candidate_font_4": "SF Collegiate Solid Italic",
+        "candidate_font_5": "Oswald Bold Italic"
     }
 ]
