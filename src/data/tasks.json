@@ -30652,7 +30652,7 @@
         "url": "https://www.dafont.com/forum/read/581290/what-are-these-fonts",
         "title": "What are these fonts?",
         "instructions": null,
-        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1228223.png",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1228223.png?1",
         "identified_font": null
     },
     {
@@ -32444,8 +32444,8 @@
         "url": "https://www.dafont.com/forum/read/581535/lady-gaga-the-dead-dance",
         "title": "Lady Gaga - The Dead Dance",
         "instructions": "Any help on \"The Dead Dance\" font?",
-        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1228750.jpg",
-        "identified_font": null
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1228750.png?1",
+        "identified_font": "Ghoulish"
     },
     {
         "task_id": "581527",
@@ -32493,7 +32493,7 @@
         "title": "What font is this?",
         "instructions": "Thanks for your help.",
         "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1228742.jpg",
-        "identified_font": null
+        "identified_font": "Churchward Roundsquare"
     },
     {
         "task_id": "581529",
@@ -32638,5 +32638,37 @@
         "instructions": null,
         "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1228773.jpg",
         "identified_font": null
+    },
+    {
+        "task_id": "581559",
+        "url": "https://www.dafont.com/forum/read/581559/m-font-art-nouveau",
+        "title": "m font art nouveau",
+        "instructions": null,
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1228788.png",
+        "identified_font": null
+    },
+    {
+        "task_id": "581558",
+        "url": "https://www.dafont.com/forum/read/581558/font",
+        "title": "font?",
+        "instructions": null,
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1228784.jpg",
+        "identified_font": null
+    },
+    {
+        "task_id": "581557",
+        "url": "https://www.dafont.com/forum/read/581557/pls-help",
+        "title": "Pls help?",
+        "instructions": null,
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1228780.jpg",
+        "identified_font": null
+    },
+    {
+        "task_id": "561475",
+        "url": "https://www.dafont.com/forum/read/561475/what-font-used-in-the-text-national",
+        "title": "What font used in the text \"National\"",
+        "instructions": "Please help to identify \"National\" handwritten/script font.",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/1/1187450.png",
+        "identified_font": "Mistrully"
     }
 ]
