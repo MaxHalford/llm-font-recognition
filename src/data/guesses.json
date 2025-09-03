@@ -47950,5 +47950,113 @@
         "candidate_font_3": "Comfortaa",
         "candidate_font_4": "Fredoka One",
         "candidate_font_5": "Baloo 2"
+    },
+    {
+        "task_id": "581538",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Speed Kings",
+        "candidate_font_2": "Octin Racing",
+        "candidate_font_3": "Nitroforce",
+        "candidate_font_4": "Exocet",
+        "candidate_font_5": "Blade Runner (various interpretations)"
+    },
+    {
+        "task_id": "581537",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Gotham Ultra",
+        "candidate_font_2": "Gotham Light",
+        "candidate_font_3": "Montserrat Black",
+        "candidate_font_4": "Open Sans ExtraBold",
+        "candidate_font_5": "Lato Light"
+    },
+    {
+        "task_id": "581536",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "ITC Eras Bold Italic",
+        "candidate_font_2": "VAG Rounded Bold Italic",
+        "candidate_font_3": "Pump Demi Bold Italic",
+        "candidate_font_4": "Boton Italic",
+        "candidate_font_5": "Motter Tektura Bold Italic"
+    },
+    {
+        "task_id": "581535",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Rodeo King",
+        "candidate_font_2": "True Grit",
+        "candidate_font_3": "Western Bang Bang",
+        "candidate_font_4": "Smokum",
+        "candidate_font_5": "Gunfighter's Revenge"
+    },
+    {
+        "task_id": "581527",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Chunky Dunky",
+        "candidate_font_2": "Bubble Bobble",
+        "candidate_font_3": "Grinched",
+        "candidate_font_4": "KG Red Hands",
+        "candidate_font_5": "Pangolin"
+    },
+    {
+        "task_id": "581534",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Adobe Garamond Pro",
+        "candidate_font_2": "Garamond",
+        "candidate_font_3": "Gentium Plus",
+        "candidate_font_4": "Caslon",
+        "candidate_font_5": "Janson Text"
+    },
+    {
+        "task_id": "581533",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Athletic Script",
+        "candidate_font_2": "Varsity Script",
+        "candidate_font_3": "Brothership Script",
+        "candidate_font_4": "Speedfreak",
+        "candidate_font_5": "Quick Sport"
+    },
+    {
+        "task_id": "581532",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Montserrat",
+        "candidate_font_2": "Proxima Nova",
+        "candidate_font_3": "Futura",
+        "candidate_font_4": "Gotham",
+        "candidate_font_5": "Avenir"
+    },
+    {
+        "task_id": "581531",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "The Black Festival",
+        "candidate_font_2": "Metal Macabre",
+        "candidate_font_3": "Old English Text MT",
+        "candidate_font_4": "Cloister Black",
+        "candidate_font_5": "Gothic Standard"
+    },
+    {
+        "task_id": "581530",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Staatliches",
+        "candidate_font_2": "Pricedown",
+        "candidate_font_3": "Blackout",
+        "candidate_font_4": "Eurostile Extended",
+        "candidate_font_5": "Bauhaus 93"
+    },
+    {
+        "task_id": "581529",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Poppins",
+        "candidate_font_2": "Montserrat",
+        "candidate_font_3": "Product Sans",
+        "candidate_font_4": "Mulish",
+        "candidate_font_5": "Open Sans"
+    },
+    {
+        "task_id": "581528",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Destroy",
+        "candidate_font_2": "Anarchy",
+        "candidate_font_3": "Shattered",
+        "candidate_font_4": "Broken Home",
+        "candidate_font_5": "Fragmented"
     }
 ]
