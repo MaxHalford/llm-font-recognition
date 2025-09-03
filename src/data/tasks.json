@@ -32614,5 +32614,29 @@
         "instructions": "need font on one psd file pls",
         "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1228766.jpg",
         "identified_font": null
+    },
+    {
+        "task_id": "581556",
+        "url": "https://www.dafont.com/forum/read/581556/boucherie-des-copains",
+        "title": "Boucherie des Copains",
+        "instructions": null,
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1228776.jpg",
+        "identified_font": null
+    },
+    {
+        "task_id": "581555",
+        "url": "https://www.dafont.com/forum/read/581555/please-help-me-find-this-font-thank-you",
+        "title": "Please help me find this font. Thank you.",
+        "instructions": null,
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1228774.jpg",
+        "identified_font": null
+    },
+    {
+        "task_id": "581554",
+        "url": "https://www.dafont.com/forum/read/581554/please-help-me-identify-this-font",
+        "title": "Please help me identify this font",
+        "instructions": null,
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1228773.jpg",
+        "identified_font": null
     }
 ]
