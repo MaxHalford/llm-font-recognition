@@ -32541,7 +32541,7 @@
         "title": "Font? (super stacker)",
         "instructions": null,
         "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1228759.png?1",
-        "identified_font": null
+        "identified_font": "Cookies"
     },
     {
         "task_id": "581542",
@@ -32573,6 +32573,46 @@
         "title": "What's the font used in turbo santa, and stupidella",
         "instructions": null,
         "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1228754.png",
+        "identified_font": null
+    },
+    {
+        "task_id": "581553",
+        "url": "https://www.dafont.com/forum/read/581553/what-are-the-fonts-tia",
+        "title": "What are the fonts? TIA",
+        "instructions": null,
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1228772.png",
+        "identified_font": null
+    },
+    {
+        "task_id": "581552",
+        "url": "https://www.dafont.com/forum/read/581552/uncanny-valley-in-north-america",
+        "title": "UNCANNY VALLEY in NORTH AMERICA",
+        "instructions": null,
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1228771.jpg",
+        "identified_font": null
+    },
+    {
+        "task_id": "581551",
+        "url": "https://www.dafont.com/forum/read/581551/font",
+        "title": "font?",
+        "instructions": null,
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1228769.jpg",
+        "identified_font": null
+    },
+    {
+        "task_id": "92433",
+        "url": "https://www.dafont.com/forum/read/92433/michael-jackson-dangerous-podrian-darme-esta-fuente",
+        "title": "Michael Jackson Dangerous - Podrian Darme Esta Fuente?",
+        "instructions": "Quisiera Saber Que Fuente Es Esta",
+        "img_url": "https://www.dafont.com/forum/attach/orig/2/2/225640.jpg",
+        "identified_font": null
+    },
+    {
+        "task_id": "581549",
+        "url": "https://www.dafont.com/forum/read/581549/need-help-pls",
+        "title": "need help pls",
+        "instructions": "need font on one psd file pls",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1228766.jpg",
         "identified_font": null
     }
 ]
