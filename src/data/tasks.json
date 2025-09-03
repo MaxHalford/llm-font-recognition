@@ -30981,7 +30981,7 @@
         "title": "What font is this?",
         "instructions": "Thanks",
         "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1228320.png",
-        "identified_font": null
+        "identified_font": "Jenkins"
     },
     {
         "task_id": "581343",
@@ -31629,7 +31629,7 @@
         "title": "Super chunky sans",
         "instructions": "Title and author only, please.",
         "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1228512.png",
-        "identified_font": null
+        "identified_font": "Bellofatto"
     },
     {
         "task_id": "581411",
@@ -32092,8 +32092,8 @@
         "url": "https://www.dafont.com/forum/read/581486/font-please",
         "title": "Font please?",
         "instructions": "Font please?",
-        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1228662.png",
-        "identified_font": null
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1228662.png?1",
+        "identified_font": "Bookmania"
     },
     {
         "task_id": "581484",
@@ -32781,6 +32781,102 @@
         "title": "GAGA font please",
         "instructions": null,
         "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1228790.png",
+        "identified_font": null
+    },
+    {
+        "task_id": "581585",
+        "url": "https://www.dafont.com/forum/read/581585/ayuda-por-favor-cual-es-el-nombre",
+        "title": "Ayuda por favor, cual es el nombre?",
+        "instructions": null,
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1228843.jpg",
+        "identified_font": null
+    },
+    {
+        "task_id": "581584",
+        "url": "https://www.dafont.com/forum/read/581584/please-help-me-find-both-fonts",
+        "title": "please help me find both fonts",
+        "instructions": "a pink is a different font",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1228842.png",
+        "identified_font": null
+    },
+    {
+        "task_id": "581583",
+        "url": "https://www.dafont.com/forum/read/581583/what-font-is-please",
+        "title": "What font is please?",
+        "instructions": null,
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1228840.jpg",
+        "identified_font": null
+    },
+    {
+        "task_id": "581582",
+        "url": "https://www.dafont.com/forum/read/581582/font",
+        "title": "Font",
+        "instructions": null,
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1228839.jpg",
+        "identified_font": null
+    },
+    {
+        "task_id": "581581",
+        "url": "https://www.dafont.com/forum/read/581581/font-please",
+        "title": "Font please",
+        "instructions": null,
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1228838.png",
+        "identified_font": null
+    },
+    {
+        "task_id": "581580",
+        "url": "https://www.dafont.com/forum/read/581580/body-font-identify-pls",
+        "title": "Body font identify pls",
+        "instructions": null,
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1228836.png",
+        "identified_font": null
+    },
+    {
+        "task_id": "581579",
+        "url": "https://www.dafont.com/forum/read/581579/heading-font-identify-please",
+        "title": "Heading font identify please",
+        "instructions": null,
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1228835.png",
+        "identified_font": null
+    },
+    {
+        "task_id": "581578",
+        "url": "https://www.dafont.com/forum/read/581578/swamp-sim-font",
+        "title": "Swamp Sim font",
+        "instructions": "I've wondered this for a while now, but only got around to asking now. WhatTheFont didn't give me any matching results. Does anyone know which font this is?",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1228834.jpg",
+        "identified_font": null
+    },
+    {
+        "task_id": "581574",
+        "url": "https://www.dafont.com/forum/read/581574/tittle-font-better-than-me-treasure-please",
+        "title": "Tittle font\"BETTER THAN ME\" Treasure please",
+        "instructions": null,
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1228827.jpg",
+        "identified_font": null
+    },
+    {
+        "task_id": "581577",
+        "url": "https://www.dafont.com/forum/read/581577/font-name-please",
+        "title": "Font name please",
+        "instructions": "\"Rhode\" font name please",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1228833.png",
+        "identified_font": null
+    },
+    {
+        "task_id": "581576",
+        "url": "https://www.dafont.com/forum/read/581576/font-please",
+        "title": "Font please",
+        "instructions": null,
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1228831.png",
+        "identified_font": null
+    },
+    {
+        "task_id": "581575",
+        "url": "https://www.dafont.com/forum/read/581575/what-font-is-this",
+        "title": "what font is this?",
+        "instructions": null,
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1228830.png",
         "identified_font": null
     }
 ]
