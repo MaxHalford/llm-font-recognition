@@ -19285,7 +19285,7 @@
         "title": "qual a fonte?",
         "instructions": "help me please",
         "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1224935.png",
-        "identified_font": null
+        "identified_font": "Feathery"
     },
     {
         "task_id": "579718",
@@ -28036,7 +28036,7 @@
         "url": "https://www.dafont.com/forum/read/580928/salvador-dali-font",
         "title": "Salvador Dali font",
         "instructions": "Please does anyone know what font this is? Thank you",
-        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1227489.png",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1227489.png?1",
         "identified_font": null
     },
     {
@@ -32525,7 +32525,7 @@
         "title": "Somebody please find this one.",
         "instructions": "I have been trying hard to find this font using various AI tools and websites but cant still detect. Please identify this font",
         "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1228764.png?1",
-        "identified_font": null
+        "identified_font": "Mia's Scribblings"
     },
     {
         "task_id": "581544",
@@ -32877,6 +32877,86 @@
         "title": "what font is this?",
         "instructions": null,
         "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1228830.png",
+        "identified_font": null
+    },
+    {
+        "task_id": "581595",
+        "url": "https://www.dafont.com/forum/read/581595/barbie-font",
+        "title": "Barbie font",
+        "instructions": "Is this Barbie \u0080 by FreshtypeINK font available in .PES format for use with embroidery machines?",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1228861.png",
+        "identified_font": null
+    },
+    {
+        "task_id": "581594",
+        "url": "https://www.dafont.com/forum/read/581594/the-what-font",
+        "title": "THE WHAT FONT",
+        "instructions": "Help meeeeeeeeee, what's the name of this font?",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1228860.jpg",
+        "identified_font": null
+    },
+    {
+        "task_id": "581593",
+        "url": "https://www.dafont.com/forum/read/581593/this-font",
+        "title": "This font",
+        "instructions": "Anyone recognise this?",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1228859.jpg",
+        "identified_font": null
+    },
+    {
+        "task_id": "581592",
+        "url": "https://www.dafont.com/forum/read/581592/beautiful-chaos",
+        "title": "\"Beautiful CHAOS\"",
+        "instructions": null,
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1228856.png",
+        "identified_font": null
+    },
+    {
+        "task_id": "581591",
+        "url": "https://www.dafont.com/forum/read/581591/by-have-fun-teaching-source-font",
+        "title": "By have fun teaching source font?",
+        "instructions": null,
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1228854.png",
+        "identified_font": null
+    },
+    {
+        "task_id": "581590",
+        "url": "https://www.dafont.com/forum/read/581590/veggietales-logo-2015",
+        "title": "Veggietales logo (2015)",
+        "instructions": null,
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1228853.png",
+        "identified_font": null
+    },
+    {
+        "task_id": "581589",
+        "url": "https://www.dafont.com/forum/read/581589/any-ideas-on-this-one",
+        "title": "Any ideas on this one?",
+        "instructions": null,
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1228850.jpg",
+        "identified_font": null
+    },
+    {
+        "task_id": "272195",
+        "url": "https://www.dafont.com/forum/read/272195/valentino-rossi-the-doctor",
+        "title": "Valentino Rossi - The Doctor",
+        "instructions": "Bonjour \u00e0 toutes et a tous,",
+        "img_url": "https://www.dafont.com/forum/attach/orig/6/1/611070.png?1",
+        "identified_font": null
+    },
+    {
+        "task_id": "581587",
+        "url": "https://www.dafont.com/forum/read/581587/cinawscy",
+        "title": "&#346;cinawscy",
+        "instructions": "Identify this font and tell me what font is ths PLS",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1228847.png",
+        "identified_font": null
+    },
+    {
+        "task_id": "581586",
+        "url": "https://www.dafont.com/forum/read/581586/font-newgrounds-flash-game",
+        "title": "Font? (newgrounds flash game)",
+        "instructions": null,
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1228845.png",
         "identified_font": null
     }
 ]
