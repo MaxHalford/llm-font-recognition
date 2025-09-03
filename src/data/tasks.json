@@ -32510,5 +32510,69 @@
         "instructions": null,
         "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1228740.png",
         "identified_font": null
+    },
+    {
+        "task_id": "581548",
+        "url": "https://www.dafont.com/forum/read/581548/name-font",
+        "title": "name font ?",
+        "instructions": "tasty font plis",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1228765.png?1",
+        "identified_font": null
+    },
+    {
+        "task_id": "581547",
+        "url": "https://www.dafont.com/forum/read/581547/somebody-please-find-this-one",
+        "title": "Somebody please find this one.",
+        "instructions": "I have been trying hard to find this font using various AI tools and websites but cant still detect. Please identify this font",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1228764.png?1",
+        "identified_font": null
+    },
+    {
+        "task_id": "581544",
+        "url": "https://www.dafont.com/forum/read/581544/what-is-the-name-of-this-font",
+        "title": "What is the name of this font?",
+        "instructions": "What is the name of this font?",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1228761.png?1",
+        "identified_font": null
+    },
+    {
+        "task_id": "581543",
+        "url": "https://www.dafont.com/forum/read/581543/font-super-stacker",
+        "title": "Font? (super stacker)",
+        "instructions": null,
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1228759.png?1",
+        "identified_font": null
+    },
+    {
+        "task_id": "581542",
+        "url": "https://www.dafont.com/forum/read/581542/fiesta-gigantes-font",
+        "title": "FIESTA GIGANTES FONT?",
+        "instructions": null,
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1228758.png",
+        "identified_font": null
+    },
+    {
+        "task_id": "581541",
+        "url": "https://www.dafont.com/forum/read/581541/font-name-please",
+        "title": "Font name please!???",
+        "instructions": null,
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1228756.jpg",
+        "identified_font": "IM Fell Types"
+    },
+    {
+        "task_id": "581540",
+        "url": "https://www.dafont.com/forum/read/581540/genki",
+        "title": "GENKI",
+        "instructions": null,
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1228755.jpg",
+        "identified_font": null
+    },
+    {
+        "task_id": "581539",
+        "url": "https://www.dafont.com/forum/read/581539/what-s-the-font-used-in-turbo-santa-and-stupidella",
+        "title": "What's the font used in turbo santa, and stupidella",
+        "instructions": null,
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1228754.png",
+        "identified_font": null
     }
 ]
