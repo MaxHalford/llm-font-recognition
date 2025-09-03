@@ -48454,5 +48454,95 @@
         "candidate_font_3": "Chewy",
         "candidate_font_4": "Luckiest Guy",
         "candidate_font_5": "Bubblegum Sans"
+    },
+    {
+        "task_id": "581595",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Barbie by FreshtypeINK",
+        "candidate_font_2": "Barbie Dollie by Misti's Fonts",
+        "candidate_font_3": "The Barbie by FreshtypeINK",
+        "candidate_font_4": "Heart Of Everything by FreshtypeINK",
+        "candidate_font_5": "Lovely Barbie"
+    },
+    {
+        "task_id": "581594",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Sofia Pro",
+        "candidate_font_2": "Montserrat",
+        "candidate_font_3": "Proxima Nova",
+        "candidate_font_4": "Patrick Hand",
+        "candidate_font_5": "Architects Daughter"
+    },
+    {
+        "task_id": "581593",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Exo 2 Bold Italic",
+        "candidate_font_2": "Titillium Web Bold Italic",
+        "candidate_font_3": "Saira ExtraBold Italic",
+        "candidate_font_4": "Metropolis Black Italic",
+        "candidate_font_5": "Montserrat ExtraBold Italic"
+    },
+    {
+        "task_id": "581592",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "The Brisk",
+        "candidate_font_2": "Cheesecake Regular",
+        "candidate_font_3": "Magnolia Sky",
+        "candidate_font_4": "Great Vibes",
+        "candidate_font_5": "Bubblegum Sans"
+    },
+    {
+        "task_id": "581591",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Baloo 2 ExtraBold",
+        "candidate_font_2": "Fredoka One",
+        "candidate_font_3": "VAG Rounded Bold",
+        "candidate_font_4": "Burbank Big Condensed Black",
+        "candidate_font_5": "Luckiest Guy"
+    },
+    {
+        "task_id": "581590",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Chewy",
+        "candidate_font_2": "Fredoka One",
+        "candidate_font_3": "Luckiest Guy",
+        "candidate_font_4": "Bubblegum Sans",
+        "candidate_font_5": "Sniglet"
+    },
+    {
+        "task_id": "581589",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Hello Santtiny",
+        "candidate_font_2": "Magnolia Sky",
+        "candidate_font_3": "Brittany Signature",
+        "candidate_font_4": "Bromello",
+        "candidate_font_5": "Stay Gracious"
+    },
+    {
+        "task_id": "272195",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Mickey Mousse",
+        "candidate_font_2": "Phatboy",
+        "candidate_font_3": "Action Man",
+        "candidate_font_4": "Boomerang",
+        "candidate_font_5": "Super Plumber Bros"
+    },
+    {
+        "task_id": "581587",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Billgates",
+        "candidate_font_2": "Brilliant Signature",
+        "candidate_font_3": "Adelios",
+        "candidate_font_4": "Magnificent Script",
+        "candidate_font_5": "Brightside Script"
+    },
+    {
+        "task_id": "581586",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "The Battle",
+        "candidate_font_2": "Bold Brush",
+        "candidate_font_3": "Rumble Brave",
+        "candidate_font_4": "Wild World",
+        "candidate_font_5": "Dirty Rock"
     }
 ]
