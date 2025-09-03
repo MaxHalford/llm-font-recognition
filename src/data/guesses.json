@@ -48220,5 +48220,131 @@
         "candidate_font_3": "The Braggest",
         "candidate_font_4": "Bromello",
         "candidate_font_5": "Playlist Script"
+    },
+    {
+        "task_id": "581571",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Brightly Story",
+        "candidate_font_2": "South Australia Script",
+        "candidate_font_3": "Hello Honey",
+        "candidate_font_4": "Magnolia Sky",
+        "candidate_font_5": "The Quickly"
+    },
+    {
+        "task_id": "581573",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Noe Display",
+        "candidate_font_2": "New Spirit",
+        "candidate_font_3": "Editorial New",
+        "candidate_font_4": "GT Alpina",
+        "candidate_font_5": "Domaine Display"
+    },
+    {
+        "task_id": "581572",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Akira Expanded",
+        "candidate_font_2": "Crash Override",
+        "candidate_font_3": "Destroy",
+        "candidate_font_4": "Octin Stencil",
+        "candidate_font_5": "Broken Console"
+    },
+    {
+        "task_id": "581570",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Gilroy ExtraBold",
+        "candidate_font_2": "Gilroy Light",
+        "candidate_font_3": "Avenir Next Bold",
+        "candidate_font_4": "Poppins ExtraBold",
+        "candidate_font_5": "Brandon Grotesque Light"
+    },
+    {
+        "task_id": "581569",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Revue",
+        "candidate_font_2": "Pricedown Black",
+        "candidate_font_3": "VAG Rounded Std Black",
+        "candidate_font_4": "Laser Inline",
+        "candidate_font_5": "Porky's"
+    },
+    {
+        "task_id": "581568",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Mostro Bold",
+        "candidate_font_2": "Octin Sports Bold Rounded",
+        "candidate_font_3": "Player Unikita Bold",
+        "candidate_font_4": "SF Collegiate Solid",
+        "candidate_font_5": "Gobold High B"
+    },
+    {
+        "task_id": "581567",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Cinzel",
+        "candidate_font_2": "Trajan Pro",
+        "candidate_font_3": "Requiem Text",
+        "candidate_font_4": "Perpetua",
+        "candidate_font_5": "Forum"
+    },
+    {
+        "task_id": "581566",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "NCAA Michigan State",
+        "candidate_font_2": "SF Collegiate Solid",
+        "candidate_font_3": "Athletic Block",
+        "candidate_font_4": "College Block 2.0",
+        "candidate_font_5": "Varsity Team"
+    },
+    {
+        "task_id": "581565",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Gotham Bold",
+        "candidate_font_2": "Montserrat Bold",
+        "candidate_font_3": "Proxima Nova Bold",
+        "candidate_font_4": "Open Sans Extrabold",
+        "candidate_font_5": "Lato Black"
+    },
+    {
+        "task_id": "581564",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Gotham",
+        "candidate_font_2": "Montserrat",
+        "candidate_font_3": "Proxima Nova",
+        "candidate_font_4": "Open Sans",
+        "candidate_font_5": "Lato"
+    },
+    {
+        "task_id": "581563",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Playlist Script",
+        "candidate_font_2": "Magnolia Sky",
+        "candidate_font_3": "Bellania Signature",
+        "candidate_font_4": "Billion Dreams",
+        "candidate_font_5": "Hello Beautiful"
+    },
+    {
+        "task_id": "581562",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Lourdes",
+        "candidate_font_2": "Always Here",
+        "candidate_font_3": "Magnolia Sky",
+        "candidate_font_4": "Great Vibes",
+        "candidate_font_5": "Pacifico"
+    },
+    {
+        "task_id": "581561",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Blacklisted",
+        "candidate_font_2": "Grind Demolished",
+        "candidate_font_3": "Anarchy",
+        "candidate_font_4": "Broken Promises",
+        "candidate_font_5": "Bignord Grunge"
+    },
+    {
+        "task_id": "581560",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Beautiful People Personal Use",
+        "candidate_font_2": "Always Here",
+        "candidate_font_3": "Quick Kiss",
+        "candidate_font_4": "Bromello",
+        "candidate_font_5": "Lovely Home"
     }
 ]
