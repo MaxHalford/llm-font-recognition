@@ -48193,5 +48193,32 @@
         "candidate_font_3": "VAG Rounded Std Black",
         "candidate_font_4": "Biffle",
         "candidate_font_5": "Motter Tektura Bold"
+    },
+    {
+        "task_id": "581559",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "LHF Ambrosia",
+        "candidate_font_2": "Riesling",
+        "candidate_font_3": "Alfonse",
+        "candidate_font_4": "Ecuyer DAX",
+        "candidate_font_5": "Paganini"
+    },
+    {
+        "task_id": "581558",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Lilita One",
+        "candidate_font_2": "Montserrat",
+        "candidate_font_3": "Arvo Italic",
+        "candidate_font_4": "",
+        "candidate_font_5": ""
+    },
+    {
+        "task_id": "581557",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Nickainley",
+        "candidate_font_2": "Magnolia Sky",
+        "candidate_font_3": "The Braggest",
+        "candidate_font_4": "Bromello",
+        "candidate_font_5": "Playlist Script"
     }
 ]
