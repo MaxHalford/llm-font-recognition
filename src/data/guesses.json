@@ -48166,5 +48166,32 @@
         "candidate_font_3": "Keep on Truckin' FW",
         "candidate_font_4": "Gobold",
         "candidate_font_5": "Gopher Rounded Black"
+    },
+    {
+        "task_id": "581556",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Chewy",
+        "candidate_font_2": "Boogaloo",
+        "candidate_font_3": "Fredoka One",
+        "candidate_font_4": "Bubblegum Sans",
+        "candidate_font_5": "Luckiest Guy"
+    },
+    {
+        "task_id": "581555",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Dirty Headline",
+        "candidate_font_2": "Destroy",
+        "candidate_font_3": "Action Is NF",
+        "candidate_font_4": "Grunger",
+        "candidate_font_5": "Rough Draft"
+    },
+    {
+        "task_id": "581554",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Ignition",
+        "candidate_font_2": "Pricedown",
+        "candidate_font_3": "VAG Rounded Std Black",
+        "candidate_font_4": "Biffle",
+        "candidate_font_5": "Motter Tektura Bold"
     }
 ]
