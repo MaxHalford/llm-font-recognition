@@ -32324,7 +32324,7 @@
         "url": "https://www.dafont.com/forum/read/581518/the-what-font",
         "title": "THE WHAT FONT",
         "instructions": "What is the name of this font?",
-        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1228723.jpg",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1228723.png?1",
         "identified_font": null
     },
     {
@@ -33269,6 +33269,102 @@
         "title": "What is this front please?",
         "instructions": null,
         "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1228941.png",
+        "identified_font": null
+    },
+    {
+        "task_id": "581653",
+        "url": "https://www.dafont.com/forum/read/581653/need-help-identifying-this-one",
+        "title": "Need help identifying this one!",
+        "instructions": "Need help with this one. Can anyone give a hand?",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1228962.jpg",
+        "identified_font": null
+    },
+    {
+        "task_id": "581641",
+        "url": "https://www.dafont.com/forum/read/581641/what-font",
+        "title": "what font?",
+        "instructions": null,
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1228943.png",
+        "identified_font": "Pristina"
+    },
+    {
+        "task_id": "581651",
+        "url": "https://www.dafont.com/forum/read/581651/help-what-font-is-this",
+        "title": "HELP: What font is this?",
+        "instructions": null,
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1228959.jpg",
+        "identified_font": null
+    },
+    {
+        "task_id": "581650",
+        "url": "https://www.dafont.com/forum/read/581650/help-what-font-is-this",
+        "title": "HELP: What font is this?",
+        "instructions": null,
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1228958.jpg",
+        "identified_font": null
+    },
+    {
+        "task_id": "581649",
+        "url": "https://www.dafont.com/forum/read/581649/pls-help",
+        "title": "Pls help",
+        "instructions": null,
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1228957.png",
+        "identified_font": null
+    },
+    {
+        "task_id": "581648",
+        "url": "https://www.dafont.com/forum/read/581648/font-name",
+        "title": "Font Name?",
+        "instructions": null,
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1228956.jpg",
+        "identified_font": null
+    },
+    {
+        "task_id": "581647",
+        "url": "https://www.dafont.com/forum/read/581647/font-please",
+        "title": "Font please",
+        "instructions": null,
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1228955.jpg",
+        "identified_font": null
+    },
+    {
+        "task_id": "581646",
+        "url": "https://www.dafont.com/forum/read/581646/qual-e-a-fonte",
+        "title": "Qual \u00e9 a fonte?",
+        "instructions": "Tropical Vibes",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1228954.png",
+        "identified_font": null
+    },
+    {
+        "task_id": "581645",
+        "url": "https://www.dafont.com/forum/read/581645/can-you-guys-find-me-this-font-name",
+        "title": "CAN YOU GUYS FIND ME THIS FONT NAME",
+        "instructions": "DAINESE FONT NAME, HELP ME PLEASE",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1228953.jpg",
+        "identified_font": null
+    },
+    {
+        "task_id": "581644",
+        "url": "https://www.dafont.com/forum/read/581644/does-anyone-know-what-font-this",
+        "title": "Does anyone know what font this?",
+        "instructions": "Thanks for any help!",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1228952.jpg",
+        "identified_font": null
+    },
+    {
+        "task_id": "570151",
+        "url": "https://www.dafont.com/forum/read/570151/font-please",
+        "title": "Font, please.",
+        "instructions": null,
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1205413.png?1",
+        "identified_font": null
+    },
+    {
+        "task_id": "581643",
+        "url": "https://www.dafont.com/forum/read/581643/what-font-is-this",
+        "title": "What font is this?",
+        "instructions": "Text says Thor MM, and I want font of Thor. Thank you all if you get it",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1228946.png",
         "identified_font": null
     }
 ]
