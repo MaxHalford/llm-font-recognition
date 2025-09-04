@@ -48877,5 +48877,104 @@
         "candidate_font_3": "Broadway",
         "candidate_font_4": "Parisian",
         "candidate_font_5": "Empire"
+    },
+    {
+        "task_id": "581653",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Big Caslon",
+        "candidate_font_2": "Adobe Caslon Pro",
+        "candidate_font_3": "ITC Caslon 224",
+        "candidate_font_4": "Montserrat",
+        "candidate_font_5": "Open Sans"
+    },
+    {
+        "task_id": "581651",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Hokjesgeest",
+        "candidate_font_2": "Permanent Marker",
+        "candidate_font_3": "Architects Daughter",
+        "candidate_font_4": "Arial",
+        "candidate_font_5": "Helvetica"
+    },
+    {
+        "task_id": "581650",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Permanent Marker",
+        "candidate_font_2": "Just Another Hand",
+        "candidate_font_3": "Architects Daughter",
+        "candidate_font_4": "Kalam",
+        "candidate_font_5": "Hand Of Sean"
+    },
+    {
+        "task_id": "581649",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Nunito Sans Bold",
+        "candidate_font_2": "Open Sans Light Italic",
+        "candidate_font_3": "Poppins Bold",
+        "candidate_font_4": "Merriweather Sans Bold",
+        "candidate_font_5": "Public Sans Bold"
+    },
+    {
+        "task_id": "581648",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Trajan",
+        "candidate_font_2": "Augustus",
+        "candidate_font_3": "Forum",
+        "candidate_font_4": "Miramonte",
+        "candidate_font_5": "Cinzel"
+    },
+    {
+        "task_id": "581647",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "New Century Schoolbook Bold",
+        "candidate_font_2": "Century Schoolbook Bold",
+        "candidate_font_3": "Bookman Old Style Bold",
+        "candidate_font_4": "Caxton Bold",
+        "candidate_font_5": "Nimrod Bold"
+    },
+    {
+        "task_id": "581646",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Tropical Island",
+        "candidate_font_2": "Summer Tropical",
+        "candidate_font_3": "Palmdale",
+        "candidate_font_4": "Bromello",
+        "candidate_font_5": "Magnolia Sky"
+    },
+    {
+        "task_id": "581645",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Countdown Regular",
+        "candidate_font_2": "Eurostile Extended Bold",
+        "candidate_font_3": "Bank Gothic Bold",
+        "candidate_font_4": "Microgramma D Bold Extended",
+        "candidate_font_5": "SF Hyperspace Race Extended"
+    },
+    {
+        "task_id": "581644",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Gotham Black",
+        "candidate_font_2": "Proxima Nova Black",
+        "candidate_font_3": "Verlag Black",
+        "candidate_font_4": "Mont Black",
+        "candidate_font_5": "Avenir Black"
+    },
+    {
+        "task_id": "570151",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Goudy Old Style Italic",
+        "candidate_font_2": "Baskerville Italic",
+        "candidate_font_3": "Palatino Italic",
+        "candidate_font_4": "Mrs Eaves Italic",
+        "candidate_font_5": "Book Antiqua Italic"
+    },
+    {
+        "task_id": "581643",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "God Of Thunder",
+        "candidate_font_2": "Mighty Thor",
+        "candidate_font_3": "Impact",
+        "candidate_font_4": "Bebas Neue Bold",
+        "candidate_font_5": "Compacta Bold"
     }
 ]
