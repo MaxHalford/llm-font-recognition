@@ -48868,5 +48868,14 @@
         "candidate_font_3": "Fredoka One",
         "candidate_font_4": "Quicksand",
         "candidate_font_5": "Montserrat Rounded"
+    },
+    {
+        "task_id": "581639",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Bifur",
+        "candidate_font_2": "Riesling",
+        "candidate_font_3": "Broadway",
+        "candidate_font_4": "Parisian",
+        "candidate_font_5": "Empire"
     }
 ]
