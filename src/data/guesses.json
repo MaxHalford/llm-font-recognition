@@ -48805,5 +48805,68 @@
         "candidate_font_3": "Houston Sport",
         "candidate_font_4": "Quick Sport",
         "candidate_font_5": "Hustle Script"
+    },
+    {
+        "task_id": "581636",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Blackmoor",
+        "candidate_font_2": "Kingthings Wrote",
+        "candidate_font_3": "Requiem",
+        "candidate_font_4": "Dracula's Kiss",
+        "candidate_font_5": "Anglican Text"
+    },
+    {
+        "task_id": "581635",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Grotesque MT",
+        "candidate_font_2": "Gothic 725 BT",
+        "candidate_font_3": "Akzidenz-Grotesk",
+        "candidate_font_4": "FF DIN",
+        "candidate_font_5": "Interstate"
+    },
+    {
+        "task_id": "570892",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Glamour Absolute",
+        "candidate_font_2": "Voga",
+        "candidate_font_3": "Wensley",
+        "candidate_font_4": "Chloe",
+        "candidate_font_5": "Lovelace"
+    },
+    {
+        "task_id": "571011",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Albertus",
+        "candidate_font_2": "Perpetua",
+        "candidate_font_3": "Augustus",
+        "candidate_font_4": "Copperplate Gothic",
+        "candidate_font_5": "Hadriana"
+    },
+    {
+        "task_id": "573876",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Stardom",
+        "candidate_font_2": "Noe Display Italic",
+        "candidate_font_3": "Glamore Display Italic",
+        "candidate_font_4": "Giveny Italic",
+        "candidate_font_5": "Augustine Serif Bold Italic"
+    },
+    {
+        "task_id": "581634",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Moonlight Script",
+        "candidate_font_2": "Playlist Script",
+        "candidate_font_3": "Great Vibes",
+        "candidate_font_4": "Alex Brush",
+        "candidate_font_5": "Allura"
+    },
+    {
+        "task_id": "581633",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Marzbar",
+        "candidate_font_2": "VAG Rounded",
+        "candidate_font_3": "Fredoka One",
+        "candidate_font_4": "Quicksand",
+        "candidate_font_5": "Montserrat Rounded"
     }
 ]
