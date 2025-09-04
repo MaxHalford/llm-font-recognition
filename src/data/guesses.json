@@ -48544,5 +48544,104 @@
         "candidate_font_3": "Rumble Brave",
         "candidate_font_4": "Wild World",
         "candidate_font_5": "Dirty Rock"
+    },
+    {
+        "task_id": "581609",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Baskerville Italic",
+        "candidate_font_2": "Mrs Eaves Italic",
+        "candidate_font_3": "Adobe Garamond Italic",
+        "candidate_font_4": "Adobe Caslon Italic",
+        "candidate_font_5": "Didot Italic"
+    },
+    {
+        "task_id": "545324",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Gotham Black Italic",
+        "candidate_font_2": "Gotham Book Italic",
+        "candidate_font_3": "Montserrat Bold Italic",
+        "candidate_font_4": "Proxima Nova Black Italic",
+        "candidate_font_5": "Avenir Next LT Pro Heavy Italic"
+    },
+    {
+        "task_id": "581608",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Proxima Nova",
+        "candidate_font_2": "Gotham",
+        "candidate_font_3": "Frutiger",
+        "candidate_font_4": "Open Sans",
+        "candidate_font_5": "Lato"
+    },
+    {
+        "task_id": "581606",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "SF Sports Night Bold Oblique",
+        "candidate_font_2": "Octin Sports Bold Oblique",
+        "candidate_font_3": "Agency FB Bold Italic",
+        "candidate_font_4": "Bebas Neue Bold (skewed)",
+        "candidate_font_5": "Impact (skewed)"
+    },
+    {
+        "task_id": "581604",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Futura",
+        "candidate_font_2": "Twentieth Century",
+        "candidate_font_3": "Forma",
+        "candidate_font_4": "Neuzeit Grotesk",
+        "candidate_font_5": "Avant Garde Gothic"
+    },
+    {
+        "task_id": "581603",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Compacta Bold Italic",
+        "candidate_font_2": "Agency FB Bold Italic",
+        "candidate_font_3": "Haettenschweiler",
+        "candidate_font_4": "Edwardian Script ITC",
+        "candidate_font_5": "Kuenstler Script"
+    },
+    {
+        "task_id": "581600",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Bayshore",
+        "candidate_font_2": "Magnifika",
+        "candidate_font_3": "Streamster",
+        "candidate_font_4": "QuickKiss",
+        "candidate_font_5": "Playlist Script"
+    },
+    {
+        "task_id": "581599",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Neo Sans Light",
+        "candidate_font_2": "Avenir Light",
+        "candidate_font_3": "Futura Light",
+        "candidate_font_4": "Gotham Light",
+        "candidate_font_5": "Proxima Nova Light"
+    },
+    {
+        "task_id": "581598",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Pokemon Solid",
+        "candidate_font_2": "Burbank Big Condensed Bold",
+        "candidate_font_3": "Bebas Neue",
+        "candidate_font_4": "Summer of 76",
+        "candidate_font_5": ""
+    },
+    {
+        "task_id": "581597",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Adobe Garamond Pro",
+        "candidate_font_2": "Garamond Premier Pro",
+        "candidate_font_3": "EB Garamond",
+        "candidate_font_4": "Sabon",
+        "candidate_font_5": "Janson Text"
+    },
+    {
+        "task_id": "581596",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Commercial Script",
+        "candidate_font_2": "SignPainter-HouseScript",
+        "candidate_font_3": "LHF Scriptorama Bold",
+        "candidate_font_4": "Dynatype",
+        "candidate_font_5": "Kuenstler Script"
     }
 ]
