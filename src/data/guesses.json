@@ -48742,5 +48742,41 @@
         "candidate_font_3": "Cream Puff",
         "candidate_font_4": "Bubblegum",
         "candidate_font_5": "Grobold"
+    },
+    {
+        "task_id": "581626",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Segment14",
+        "candidate_font_2": "SF Square Head",
+        "candidate_font_3": "Oswald Italic",
+        "candidate_font_4": "Roboto Italic",
+        "candidate_font_5": "Space Mono Bold"
+    },
+    {
+        "task_id": "581624",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Hello Honey",
+        "candidate_font_2": "The Wild Breath",
+        "candidate_font_3": "Stay Gracious",
+        "candidate_font_4": "Lovely Saturday",
+        "candidate_font_5": "Better Together"
+    },
+    {
+        "task_id": "581623",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Uni Sans Heavy",
+        "candidate_font_2": "Gobold High Bold",
+        "candidate_font_3": "Akko Pro Bold",
+        "candidate_font_4": "Montserrat Black",
+        "candidate_font_5": "Gotham Black"
+    },
+    {
+        "task_id": "581622",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Samurai Jack",
+        "candidate_font_2": "Oriental Brush",
+        "candidate_font_3": "Chow Fun",
+        "candidate_font_4": "Nippon Teki",
+        "candidate_font_5": "Shogun"
     }
 ]
