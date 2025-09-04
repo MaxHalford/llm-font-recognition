@@ -48976,5 +48976,86 @@
         "candidate_font_3": "Impact",
         "candidate_font_4": "Bebas Neue Bold",
         "candidate_font_5": "Compacta Bold"
+    },
+    {
+        "task_id": "581663",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Apex New Extra Bold Italic",
+        "candidate_font_2": "Alright Sans Ultra Italic",
+        "candidate_font_3": "Mont Heavy Italic",
+        "candidate_font_4": "Inter Extra Bold Italic",
+        "candidate_font_5": "Proxima Nova Extrabold Italic"
+    },
+    {
+        "task_id": "581660",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Source Sans Pro",
+        "candidate_font_2": "Open Sans",
+        "candidate_font_3": "Roboto",
+        "candidate_font_4": "Varsity Team",
+        "candidate_font_5": "Freshman"
+    },
+    {
+        "task_id": "581659",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Plum Crazy",
+        "candidate_font_2": "Chewy",
+        "candidate_font_3": "Luckiest Guy",
+        "candidate_font_4": "Fredoka One",
+        "candidate_font_5": "Bubblegum Sans"
+    },
+    {
+        "task_id": "581658",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Challenger Heavy Italic",
+        "candidate_font_2": "",
+        "candidate_font_3": "",
+        "candidate_font_4": "",
+        "candidate_font_5": ""
+    },
+    {
+        "task_id": "581657",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "VAG Rounded Bold",
+        "candidate_font_2": "Gotham Rounded Bold",
+        "candidate_font_3": "Quicksand Bold",
+        "candidate_font_4": "M PLUS Rounded 1c Bold",
+        "candidate_font_5": "Nunito Bold"
+    },
+    {
+        "task_id": "6064",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Rubik",
+        "candidate_font_2": "Proxima Nova",
+        "candidate_font_3": "Graphik",
+        "candidate_font_4": "Circular Std",
+        "candidate_font_5": "Open Sans"
+    },
+    {
+        "task_id": "581654",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Quick Kiss Script",
+        "candidate_font_2": "Playlist Script",
+        "candidate_font_3": "Agency FB Bold Italic",
+        "candidate_font_4": "Futura Std Condensed Bold Oblique",
+        "candidate_font_5": "Bahnschrift SemiBold Condensed Italic"
+    },
+    {
+        "task_id": "581656",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Gotham",
+        "candidate_font_2": "Montserrat",
+        "candidate_font_3": "Proxima Nova",
+        "candidate_font_4": "Poppins",
+        "candidate_font_5": "Lato"
+    },
+    {
+        "task_id": "581655",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Montserrat Black",
+        "candidate_font_2": "Baloo 2 Bold",
+        "candidate_font_3": "Montserrat ExtraBold",
+        "candidate_font_4": "Fredoka One",
+        "candidate_font_5": "Gotham Black"
     }
 ]
