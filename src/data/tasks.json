@@ -33206,5 +33206,61 @@
         "instructions": "Does anyone know what font this is?",
         "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1228921.png",
         "identified_font": null
+    },
+    {
+        "task_id": "581636",
+        "url": "https://www.dafont.com/forum/read/581636/lovesick-game",
+        "title": "LoveSick Game",
+        "instructions": "",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1228937.png",
+        "identified_font": null
+    },
+    {
+        "task_id": "581635",
+        "url": "https://www.dafont.com/forum/read/581635/font-used-for-the-entry-exit-gate-in-bitola-s-clinical-hospital",
+        "title": "Font used for the entry/exit gate in Bitola's clinical hospital",
+        "instructions": "I know what it looks like, but I don't think I have any idea what it's called.",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1228936.jpg",
+        "identified_font": null
+    },
+    {
+        "task_id": "570892",
+        "url": "https://www.dafont.com/forum/read/570892/seulgi-baby-not-baby-chaereve-font",
+        "title": "seulgi baby not baby chaereve font",
+        "instructions": "ctto.",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1206902.png?1",
+        "identified_font": null
+    },
+    {
+        "task_id": "571011",
+        "url": "https://www.dafont.com/forum/read/571011/tittle-font-earthquake-please",
+        "title": "Tittle Font \"EARTHQUAKE\" please",
+        "instructions": null,
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1207156.jpg",
+        "identified_font": null
+    },
+    {
+        "task_id": "573876",
+        "url": "https://www.dafont.com/forum/read/573876/what-is-whiplash-font",
+        "title": "What is \"Whiplash\" font?",
+        "instructions": null,
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1212708.jpg",
+        "identified_font": null
+    },
+    {
+        "task_id": "581634",
+        "url": "https://www.dafont.com/forum/read/581634/me-pueden-ayudar-a-identificar-esta-fuente-gracias",
+        "title": "Me pueden ayudar a identificar esta fuente. Gracias",
+        "instructions": null,
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1228928.jpg",
+        "identified_font": null
+    },
+    {
+        "task_id": "581633",
+        "url": "https://www.dafont.com/forum/read/581633/which-font",
+        "title": "Which Font?",
+        "instructions": "Thanxxx.",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1228927.jpg",
+        "identified_font": null
     }
 ]
