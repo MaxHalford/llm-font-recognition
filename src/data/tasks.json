@@ -32364,7 +32364,7 @@
         "url": "https://www.dafont.com/forum/read/581513/help-identifying-as-many-fonts-as-possible-thanks",
         "title": "Help identifying as many fonts as possible. Thanks!",
         "instructions": null,
-        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1228717.png",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1228717.png?1",
         "identified_font": "Hyperwave"
     },
     {
@@ -32917,7 +32917,7 @@
         "title": "By have fun teaching source font?",
         "instructions": null,
         "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1228854.png",
-        "identified_font": null
+        "identified_font": "Strenuous"
     },
     {
         "task_id": "581590",
@@ -33269,7 +33269,7 @@
         "title": "What is this front please?",
         "instructions": null,
         "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1228941.png",
-        "identified_font": null
+        "identified_font": "Park Lane NF"
     },
     {
         "task_id": "581653",
@@ -33365,6 +33365,94 @@
         "title": "What font is this?",
         "instructions": "Text says Thor MM, and I want font of Thor. Thank you all if you get it",
         "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1228946.png",
+        "identified_font": null
+    },
+    {
+        "task_id": "571078",
+        "url": "https://www.dafont.com/forum/read/571078/font-slingshot-please",
+        "title": "font \"SLINGSHOT\" please",
+        "instructions": null,
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1207297.png?2",
+        "identified_font": "Primal Sailor"
+    },
+    {
+        "task_id": "581663",
+        "url": "https://www.dafont.com/forum/read/581663/good-news-on-great-logo",
+        "title": "Good News On GREAT! Logo",
+        "instructions": "Anyone know the new GREAT! Network font that replaced Gotham?",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1228980.png",
+        "identified_font": null
+    },
+    {
+        "task_id": "581660",
+        "url": "https://www.dafont.com/forum/read/581660/anyone-know-the-camarillo-academy-font-thanks",
+        "title": "Anyone know the \"Camarillo Academy\" font? Thanks!",
+        "instructions": null,
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1228977.jpg?1",
+        "identified_font": null
+    },
+    {
+        "task_id": "581659",
+        "url": "https://www.dafont.com/forum/read/581659/what-is-the-pretty-lucky-font",
+        "title": "What is the Pretty Lucky font",
+        "instructions": "Can anyone identify what the \"Pretty Lucky\" font is?",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1228975.jpg",
+        "identified_font": null
+    },
+    {
+        "task_id": "581658",
+        "url": "https://www.dafont.com/forum/read/581658/font",
+        "title": "Font",
+        "instructions": null,
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1228974.jpg",
+        "identified_font": null
+    },
+    {
+        "task_id": "581657",
+        "url": "https://www.dafont.com/forum/read/581657/anybody-know-the-font",
+        "title": "anybody know the font?",
+        "instructions": null,
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1228973.png",
+        "identified_font": null
+    },
+    {
+        "task_id": "6064",
+        "url": "https://www.dafont.com/forum/read/6064/weber-font-identification",
+        "title": "Weber font identification",
+        "instructions": "Hello,",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/8/18088.jpg",
+        "identified_font": null
+    },
+    {
+        "task_id": "572306",
+        "url": "https://www.dafont.com/forum/read/572306/what-s-the-name-of-this-font-please",
+        "title": "What's the name of this font please &#129402;",
+        "instructions": "What's the name of \"WHIPLASH\" font please",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1209695.jpg",
+        "identified_font": "Primal Sailor"
+    },
+    {
+        "task_id": "581654",
+        "url": "https://www.dafont.com/forum/read/581654/anyone-know-what-the-font-name-is-in-both-words",
+        "title": "Anyone know what the font name is in both words?",
+        "instructions": "Does anyone know what the font name is in both words \"dballas\" and \"TEAM\"?",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1228963.png",
+        "identified_font": null
+    },
+    {
+        "task_id": "581656",
+        "url": "https://www.dafont.com/forum/read/581656/anyone-know-this-font",
+        "title": "anyone know this font?",
+        "instructions": null,
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1228968.png",
+        "identified_font": null
+    },
+    {
+        "task_id": "581655",
+        "url": "https://www.dafont.com/forum/read/581655/what-the-font-is",
+        "title": "WHAT THE FONT IS??",
+        "instructions": null,
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1228964.jpg",
         "identified_font": null
     }
 ]
