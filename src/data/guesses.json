@@ -48643,5 +48643,104 @@
         "candidate_font_3": "LHF Scriptorama Bold",
         "candidate_font_4": "Dynatype",
         "candidate_font_5": "Kuenstler Script"
+    },
+    {
+        "task_id": "581610",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Open Sans Regular",
+        "candidate_font_2": "Neo Sans Std Bold Italic",
+        "candidate_font_3": "Montserrat Alternates Bold Italic",
+        "candidate_font_4": "Quicksand Bold Italic",
+        "candidate_font_5": "Varela Round Bold Italic"
+    },
+    {
+        "task_id": "581614",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Goudy Old Style",
+        "candidate_font_2": "ITC Berkeley Old Style",
+        "candidate_font_3": "Caslon",
+        "candidate_font_4": "Janson Text",
+        "candidate_font_5": "Garamond"
+    },
+    {
+        "task_id": "581620",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "United Sans Condensed Black",
+        "candidate_font_2": "Intro Black",
+        "candidate_font_3": "Staatliches",
+        "candidate_font_4": "SF Collegiate",
+        "candidate_font_5": "Squada One"
+    },
+    {
+        "task_id": "581619",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "SF Collegiate Block",
+        "candidate_font_2": "College",
+        "candidate_font_3": "SF Collegiate Solid",
+        "candidate_font_4": "Garamond",
+        "candidate_font_5": "Collegiate Heavy"
+    },
+    {
+        "task_id": "519780",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Optimus Princeps",
+        "candidate_font_2": "Wednesday (Ghastly)",
+        "candidate_font_3": "Wednesday Font (Pixel Sagas)",
+        "candidate_font_4": "Black Widow (Ghastly)",
+        "candidate_font_5": "Nosferatu (Ghastly)"
+    },
+    {
+        "task_id": "581616",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Lust Display",
+        "candidate_font_2": "Adelios",
+        "candidate_font_3": "Lavinia",
+        "candidate_font_4": "Playfair Display Swash",
+        "candidate_font_5": "Bodoni Poster"
+    },
+    {
+        "task_id": "581615",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Stay Gracious",
+        "candidate_font_2": "Wonderland",
+        "candidate_font_3": "Better Saturday",
+        "candidate_font_4": "Hello Beautiful",
+        "candidate_font_5": "The Brightside"
+    },
+    {
+        "task_id": "411819",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Visby CF",
+        "candidate_font_2": "Figtree",
+        "candidate_font_3": "Gotham",
+        "candidate_font_4": "Montserrat",
+        "candidate_font_5": "Circular Std"
+    },
+    {
+        "task_id": "581613",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Hello Stockholm",
+        "candidate_font_2": "Lovely Home",
+        "candidate_font_3": "Lemonade Script",
+        "candidate_font_4": "Brittany Signature",
+        "candidate_font_5": "Magnolia Sky"
+    },
+    {
+        "task_id": "581612",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Hello Paris",
+        "candidate_font_2": "Springfield Script",
+        "candidate_font_3": "Stay Grateful",
+        "candidate_font_4": "Magnolia Sky",
+        "candidate_font_5": "Anton"
+    },
+    {
+        "task_id": "581611",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Puffy Stuff",
+        "candidate_font_2": "Porky's",
+        "candidate_font_3": "Cream Puff",
+        "candidate_font_4": "Bubblegum",
+        "candidate_font_5": "Grobold"
     }
 ]
