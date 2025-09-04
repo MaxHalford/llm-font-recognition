@@ -48778,5 +48778,32 @@
         "candidate_font_3": "Chow Fun",
         "candidate_font_4": "Nippon Teki",
         "candidate_font_5": "Shogun"
+    },
+    {
+        "task_id": "581631",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Passion One",
+        "candidate_font_2": "Oswald",
+        "candidate_font_3": "Lemon Milk",
+        "candidate_font_4": "Bebas Neue",
+        "candidate_font_5": "Anton"
+    },
+    {
+        "task_id": "581629",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Destroy",
+        "candidate_font_2": "Grunger",
+        "candidate_font_3": "Dirty Headline",
+        "candidate_font_4": "Digital Display 1",
+        "candidate_font_5": "LED Panel"
+    },
+    {
+        "task_id": "581628",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Ballpark Weiner",
+        "candidate_font_2": "Brock Script",
+        "candidate_font_3": "Houston Sport",
+        "candidate_font_4": "Quick Sport",
+        "candidate_font_5": "Hustle Script"
     }
 ]
