@@ -25468,7 +25468,7 @@
         "url": "https://www.dafont.com/forum/read/580544/font-name",
         "title": "Font name? :)",
         "instructions": null,
-        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1226712.png",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1226712.png?1",
         "identified_font": null
     },
     {
@@ -32980,7 +32980,7 @@
         "url": "https://www.dafont.com/forum/read/581605/font-tittle-i-like-it-by-straykids-please",
         "title": "Font Tittle \"i like it\" by StrayKids please",
         "instructions": null,
-        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1228877.png",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1228877.jpg?1",
         "identified_font": "Rozza"
     },
     {
@@ -33149,6 +33149,38 @@
         "title": "Font ??",
         "instructions": null,
         "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1228888.png",
+        "identified_font": null
+    },
+    {
+        "task_id": "581626",
+        "url": "https://www.dafont.com/forum/read/581626/tittle-font-0801-straykids-please",
+        "title": "Tittle font\"0801\" straykids please",
+        "instructions": null,
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1228916.png?1",
+        "identified_font": null
+    },
+    {
+        "task_id": "581624",
+        "url": "https://www.dafont.com/forum/read/581624/i-want-to-know-the-name-of-this-font",
+        "title": "I want to know the name of this font",
+        "instructions": null,
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1228914.jpg",
+        "identified_font": null
+    },
+    {
+        "task_id": "581623",
+        "url": "https://www.dafont.com/forum/read/581623/what-is-the-font-thanks",
+        "title": "What is the font? Thanks!",
+        "instructions": "Thank you!!",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1228913.png?1",
+        "identified_font": null
+    },
+    {
+        "task_id": "581622",
+        "url": "https://www.dafont.com/forum/read/581622/japanese-style-font",
+        "title": "Japanese style font",
+        "instructions": null,
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1228912.png?3",
         "identified_font": null
     }
 ]
