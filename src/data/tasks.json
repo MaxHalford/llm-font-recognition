@@ -33036,7 +33036,7 @@
         "url": "https://www.dafont.com/forum/read/581600/font-name",
         "title": "Font name?",
         "instructions": null,
-        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1228870.png",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1228870.png?1",
         "identified_font": null
     },
     {
@@ -33181,6 +33181,30 @@
         "title": "Japanese style font",
         "instructions": null,
         "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1228912.png?3",
+        "identified_font": null
+    },
+    {
+        "task_id": "581631",
+        "url": "https://www.dafont.com/forum/read/581631/help-me-what-is-font",
+        "title": "Help me ,what is font ?",
+        "instructions": "Help me, thank you .",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1228925.png",
+        "identified_font": null
+    },
+    {
+        "task_id": "581629",
+        "url": "https://www.dafont.com/forum/read/581629/fonts-i-made-from-memory",
+        "title": "Fonts I made from memory",
+        "instructions": "These two fonts are based off of real fonts.",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1228922.png",
+        "identified_font": null
+    },
+    {
+        "task_id": "581628",
+        "url": "https://www.dafont.com/forum/read/581628/font-id",
+        "title": "font ID",
+        "instructions": "Does anyone know what font this is?",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1228921.png",
         "identified_font": null
     }
 ]
