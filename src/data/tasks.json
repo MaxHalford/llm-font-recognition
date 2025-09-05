@@ -16901,7 +16901,7 @@
         "title": "Font \u0091Midnight Special\u0092? Pls",
         "instructions": null,
         "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1224169.png?1",
-        "identified_font": null
+        "identified_font": "Primal Sailor"
     },
     {
         "task_id": "579338",
@@ -31116,7 +31116,7 @@
         "url": "https://www.dafont.com/forum/read/581354/please-help-tiscareno-and-transport-font",
         "title": "Please help Tiscareno and Transport font &#128591;&#127997;",
         "instructions": null,
-        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1228359.jpg",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1228359.png?1",
         "identified_font": "Coral Pen"
     },
     {
@@ -33141,7 +33141,7 @@
         "title": "WHAT THE FONT IS??",
         "instructions": null,
         "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1228889.png?1",
-        "identified_font": null
+        "identified_font": "Benguiat"
     },
     {
         "task_id": "581611",
@@ -33525,7 +33525,7 @@
         "title": "Can one of you help me identify the name of these two fonts, please?",
         "instructions": null,
         "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1228983.jpg",
-        "identified_font": null
+        "identified_font": "Spignarian Script"
     },
     {
         "task_id": "581678",
@@ -33813,6 +33813,62 @@
         "title": "Heading and Body fonts identification pls",
         "instructions": "Please what fonts are used here?",
         "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1229048.png",
+        "identified_font": null
+    },
+    {
+        "task_id": "581721",
+        "url": "https://www.dafont.com/forum/read/581721/what-type-of-font-did-chuck-e-cheese-slogan-used",
+        "title": "What type of font did Chuck E Cheese slogan used?",
+        "instructions": "The where a kid can be a kid version had that writing font. I don't know what that font source is from the slogan.",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1229077.png",
+        "identified_font": null
+    },
+    {
+        "task_id": "581720",
+        "url": "https://www.dafont.com/forum/read/581720/font",
+        "title": "Font",
+        "instructions": null,
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1229076.jpg",
+        "identified_font": null
+    },
+    {
+        "task_id": "581719",
+        "url": "https://www.dafont.com/forum/read/581719/font",
+        "title": "font",
+        "instructions": null,
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1229075.png",
+        "identified_font": null
+    },
+    {
+        "task_id": "581718",
+        "url": "https://www.dafont.com/forum/read/581718/font-name-anybody",
+        "title": "Font Name anybody?",
+        "instructions": null,
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1229068.png",
+        "identified_font": null
+    },
+    {
+        "task_id": "581717",
+        "url": "https://www.dafont.com/forum/read/581717/what-font-is-lojanos-pleaseee-ayuda",
+        "title": "What font is Lojanos ...pleaseee ayuda",
+        "instructions": null,
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1229067.png",
+        "identified_font": null
+    },
+    {
+        "task_id": "581716",
+        "url": "https://www.dafont.com/forum/read/581716/font-name",
+        "title": "Font name",
+        "instructions": "Hi everyone. Can you help me identify the Salman's font please.",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1229066.png",
+        "identified_font": null
+    },
+    {
+        "task_id": "581715",
+        "url": "https://www.dafont.com/forum/read/581715/magdalena-bay-font",
+        "title": "Magdalena Bay font",
+        "instructions": null,
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1229064.png",
         "identified_font": null
     }
 ]
