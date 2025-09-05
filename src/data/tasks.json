@@ -33484,7 +33484,7 @@
         "url": "https://www.dafont.com/forum/read/581670/os-grandes-sucessos-and-dvd-completo",
         "title": "\"Os grandes sucessos\" and \"DVD COMPLETO\"",
         "instructions": null,
-        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1228990.jpg",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1228990.png?1",
         "identified_font": null
     },
     {
@@ -33565,6 +33565,62 @@
         "title": "BRAZIL",
         "instructions": null,
         "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1228995.jpg",
+        "identified_font": null
+    },
+    {
+        "task_id": "581685",
+        "url": "https://www.dafont.com/forum/read/581685/som-moong-chill",
+        "title": "SOM MOONG CHILL",
+        "instructions": null,
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1229013.jpg?1",
+        "identified_font": null
+    },
+    {
+        "task_id": "581684",
+        "url": "https://www.dafont.com/forum/read/581684/channel-37-5",
+        "title": "CHANNEL 37.5",
+        "instructions": null,
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1229012.jpg",
+        "identified_font": null
+    },
+    {
+        "task_id": "581682",
+        "url": "https://www.dafont.com/forum/read/581682/what-font",
+        "title": "WHAT FONT?",
+        "instructions": null,
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1229009.png",
+        "identified_font": null
+    },
+    {
+        "task_id": "581683",
+        "url": "https://www.dafont.com/forum/read/581683/what-font-is-this",
+        "title": "What font is this?",
+        "instructions": "None of the \"Font Finders\" were able to find this font for me. That's why I'm turning to the dafont community, hoping that someone knows the name of the font. I've seen it several times on YouTube in banners or thumbnails, but I don't know font name.",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1229010.png",
+        "identified_font": null
+    },
+    {
+        "task_id": "581681",
+        "url": "https://www.dafont.com/forum/read/581681/custom-font-vector-file",
+        "title": "CUSTOM FONT @ VECTOR FILE",
+        "instructions": "GUYS, HELP ME FIND THIS CUSTOM FONT OR LOGO VECTOR FILE.. THANKS",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1229008.jpg",
+        "identified_font": null
+    },
+    {
+        "task_id": "581680",
+        "url": "https://www.dafont.com/forum/read/581680/what-font-is-this-thank-you",
+        "title": "What font is this? Thank you!!",
+        "instructions": null,
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1229007.png",
+        "identified_font": null
+    },
+    {
+        "task_id": "581679",
+        "url": "https://www.dafont.com/forum/read/581679/excuse-me-what-s-the-name-this-font",
+        "title": "Excuse me, What's the name this font?",
+        "instructions": "This font is belonging to the spanish videogame saga ''PC F\u00fatbol''.",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1229006.png",
         "identified_font": null
     }
 ]
