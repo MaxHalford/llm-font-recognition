@@ -49354,5 +49354,59 @@
         "candidate_font_3": "Elfdorf",
         "candidate_font_4": "Ruritania",
         "candidate_font_5": "Excalibur"
+    },
+    {
+        "task_id": "581709",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Old London",
+        "candidate_font_2": "Fette Fraktur",
+        "candidate_font_3": "Cloister Black",
+        "candidate_font_4": "Goudy Text",
+        "candidate_font_5": "Deutsch Gothic"
+    },
+    {
+        "task_id": "581707",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "The Oriental",
+        "candidate_font_2": "Kung Fu Master",
+        "candidate_font_3": "Samurai Banzai",
+        "candidate_font_4": "Ninja Strike",
+        "candidate_font_5": "Asian Kung Fu"
+    },
+    {
+        "task_id": "581706",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Runy Tunes",
+        "candidate_font_2": "Summer Hearts",
+        "candidate_font_3": "Big Noodle Titling",
+        "candidate_font_4": "Roboto",
+        "candidate_font_5": "Montserrat Light"
+    },
+    {
+        "task_id": "581705",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Didot",
+        "candidate_font_2": "Bodoni",
+        "candidate_font_3": "Playfair Display",
+        "candidate_font_4": "Montserrat Light",
+        "candidate_font_5": "Lato Light"
+    },
+    {
+        "task_id": "581703",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Hello Honey",
+        "candidate_font_2": "Magnolia Sky",
+        "candidate_font_3": "Autumn Chant",
+        "candidate_font_4": "La Vie est Belle",
+        "candidate_font_5": "The Styled Edit"
+    },
+    {
+        "task_id": "581702",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Apercu",
+        "candidate_font_2": "FF Meta",
+        "candidate_font_3": "Circular Std",
+        "candidate_font_4": "Aktiv Grotesk",
+        "candidate_font_5": "Gotham"
     }
 ]
