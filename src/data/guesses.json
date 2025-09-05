@@ -49183,5 +49183,68 @@
         "candidate_font_3": "Garamond",
         "candidate_font_4": "Franklin Gothic Heavy",
         "candidate_font_5": "Coronet Bold"
+    },
+    {
+        "task_id": "581685",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "RixCuteBubble",
+        "candidate_font_2": "Montserrat",
+        "candidate_font_3": "Open Sans",
+        "candidate_font_4": "Bubblegum Sans",
+        "candidate_font_5": "Fredoka One"
+    },
+    {
+        "task_id": "581684",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Pixel-Noir",
+        "candidate_font_2": "VT323",
+        "candidate_font_3": "SF Digital Readout",
+        "candidate_font_4": "Pixel Seriph",
+        "candidate_font_5": "8-bit Limit BRK"
+    },
+    {
+        "task_id": "581682",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Ethnocentric",
+        "candidate_font_2": "Borg",
+        "candidate_font_3": "Oxigen",
+        "candidate_font_4": "Audiowide",
+        "candidate_font_5": "Orbitron"
+    },
+    {
+        "task_id": "581683",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Grobold",
+        "candidate_font_2": "Poppins ExtraBold",
+        "candidate_font_3": "Lemon Milk Bold",
+        "candidate_font_4": "Montserrat Black",
+        "candidate_font_5": "Gotham Black"
+    },
+    {
+        "task_id": "581681",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Metropolis Inline",
+        "candidate_font_2": "Phenomena Inline",
+        "candidate_font_3": "Code Pro Inline",
+        "candidate_font_4": "Bebas Neue Inline",
+        "candidate_font_5": "RNS Sisma Inline"
+    },
+    {
+        "task_id": "581680",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Hello Stockholm",
+        "candidate_font_2": "Andasia Script",
+        "candidate_font_3": "Lovely Lovers",
+        "candidate_font_4": "The Rustic Wedding Script",
+        "candidate_font_5": "Wonder Garden"
+    },
+    {
+        "task_id": "581679",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Myriad Pro Black Italic",
+        "candidate_font_2": "Noto Sans Black Italic",
+        "candidate_font_3": "Source Sans Pro Black Italic",
+        "candidate_font_4": "Open Sans Extrabold Italic",
+        "candidate_font_5": "Lato Black Italic"
     }
 ]
