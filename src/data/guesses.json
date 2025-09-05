@@ -49444,5 +49444,68 @@
         "candidate_font_3": "SF Pro Display Light",
         "candidate_font_4": "SF Pro Text Light",
         "candidate_font_5": "IBM Plex Sans Display"
+    },
+    {
+        "task_id": "581721",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Kidprint",
+        "candidate_font_2": "Bunkbed",
+        "candidate_font_3": "Crayon Craze",
+        "candidate_font_4": "KG Red Hands",
+        "candidate_font_5": "Marker Felt"
+    },
+    {
+        "task_id": "581720",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Janson Text",
+        "candidate_font_2": "Garamond",
+        "candidate_font_3": "Caslon",
+        "candidate_font_4": "Franklin Gothic",
+        "candidate_font_5": "Trade Gothic"
+    },
+    {
+        "task_id": "581719",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Toxic Slime",
+        "candidate_font_2": "Toxic Waste",
+        "candidate_font_3": "Slime Blobs",
+        "candidate_font_4": "Liquid Wicked",
+        "candidate_font_5": "Creepster"
+    },
+    {
+        "task_id": "581718",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Hello Beautiful",
+        "candidate_font_2": "Magnolia Sky",
+        "candidate_font_3": "Great Vibes",
+        "candidate_font_4": "Dancing Script",
+        "candidate_font_5": "Bridgette"
+    },
+    {
+        "task_id": "581717",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Lovely Monday",
+        "candidate_font_2": "Angello",
+        "candidate_font_3": "Hello Honey",
+        "candidate_font_4": "Beauty and the Beast",
+        "candidate_font_5": "Magnolia Sky"
+    },
+    {
+        "task_id": "581716",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Obelix Pro Oblique",
+        "candidate_font_2": "Pump Demi Bold Italic",
+        "candidate_font_3": "SF Sports Night Heavy Oblique",
+        "candidate_font_4": "VAG Rounded Bold Italic",
+        "candidate_font_5": "Komika Axis Bold Italic"
+    },
+    {
+        "task_id": "581715",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Magnolia Sky",
+        "candidate_font_2": "Bickham Script Pro",
+        "candidate_font_3": "Great Vibes",
+        "candidate_font_4": "Pinyon Script",
+        "candidate_font_5": "Adelicia Script"
     }
 ]
