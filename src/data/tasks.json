@@ -33521,8 +33521,8 @@
     },
     {
         "task_id": "581664",
-        "url": "https://www.dafont.com/forum/read/581664/fonts-name-please",
-        "title": "Fonts name please!!!!",
+        "url": "https://www.dafont.com/forum/read/581664/can-one-of-you-help-me-identify-the-name-of-these-two-fonts-please",
+        "title": "Can one of you help me identify the name of these two fonts, please?",
         "instructions": null,
         "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1228983.jpg",
         "identified_font": null
@@ -33613,7 +33613,7 @@
         "title": "What font is this? Thank you!!",
         "instructions": null,
         "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1229007.png",
-        "identified_font": null
+        "identified_font": "Adelia"
     },
     {
         "task_id": "581679",
@@ -33781,6 +33781,38 @@
         "title": "Font",
         "instructions": null,
         "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1229033.jpg",
+        "identified_font": null
+    },
+    {
+        "task_id": "581713",
+        "url": "https://www.dafont.com/forum/read/581713/help-with-this-font-please",
+        "title": "Help with this font please",
+        "instructions": null,
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1229056.png",
+        "identified_font": null
+    },
+    {
+        "task_id": "581712",
+        "url": "https://www.dafont.com/forum/read/581712/sabrian-cual-es",
+        "title": "Sabr\u00edan cual es?",
+        "instructions": "Holiss, podr\u00edan decirme que fuentes es la de \"iniciamos\"",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1229050.png",
+        "identified_font": null
+    },
+    {
+        "task_id": "581711",
+        "url": "https://www.dafont.com/forum/read/581711/me-dicen-cual-es",
+        "title": "Me dicen cual es?",
+        "instructions": "Hola, me dir\u00edan que fuente es la de \"Correcto\" porfavor...",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1229049.png",
+        "identified_font": null
+    },
+    {
+        "task_id": "581710",
+        "url": "https://www.dafont.com/forum/read/581710/heading-and-body-fonts-identification-pls",
+        "title": "Heading and Body fonts identification pls",
+        "instructions": "Please what fonts are used here?",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1229048.png",
         "identified_font": null
     }
 ]
