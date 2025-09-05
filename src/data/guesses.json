@@ -49408,5 +49408,41 @@
         "candidate_font_3": "Circular Std",
         "candidate_font_4": "Aktiv Grotesk",
         "candidate_font_5": "Gotham"
+    },
+    {
+        "task_id": "581713",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Bombing Italic",
+        "candidate_font_2": "Whoa!",
+        "candidate_font_3": "Most Wanted Bold Italic",
+        "candidate_font_4": "Street Wars",
+        "candidate_font_5": "Komika Title Italic"
+    },
+    {
+        "task_id": "581712",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Bubbleboddy",
+        "candidate_font_2": "Cream Peach",
+        "candidate_font_3": "Cute Bubble",
+        "candidate_font_4": "Gross Gloss",
+        "candidate_font_5": "Baloo 2"
+    },
+    {
+        "task_id": "581711",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Hello Honey",
+        "candidate_font_2": "Storytella",
+        "candidate_font_3": "Sweetie Alissa",
+        "candidate_font_4": "Bromello",
+        "candidate_font_5": "Magnolia Sky"
+    },
+    {
+        "task_id": "581710",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Input Sans Bold",
+        "candidate_font_2": "Input Mono Regular",
+        "candidate_font_3": "SF Pro Display Light",
+        "candidate_font_4": "SF Pro Text Light",
+        "candidate_font_5": "IBM Plex Sans Display"
     }
 ]
