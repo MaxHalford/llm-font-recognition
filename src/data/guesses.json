@@ -49507,5 +49507,50 @@
         "candidate_font_3": "Great Vibes",
         "candidate_font_4": "Pinyon Script",
         "candidate_font_5": "Adelicia Script"
+    },
+    {
+        "task_id": "581726",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "ITC Grouch",
+        "candidate_font_2": "Bubblegum Pop",
+        "candidate_font_3": "Pump Demi Bold",
+        "candidate_font_4": "Marquee Block JNL",
+        "candidate_font_5": "Frankfurter Std"
+    },
+    {
+        "task_id": "581725",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Bromello",
+        "candidate_font_2": "The Moonlight",
+        "candidate_font_3": "Summer Hearts",
+        "candidate_font_4": "Lovely Couple",
+        "candidate_font_5": ""
+    },
+    {
+        "task_id": "581724",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Old English Text MT",
+        "candidate_font_2": "Engravers Old English BT",
+        "candidate_font_3": "Cloister Black",
+        "candidate_font_4": "Olde English",
+        "candidate_font_5": "Gothic Text"
+    },
+    {
+        "task_id": "581723",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Ananda Namaste",
+        "candidate_font_2": "Great Vibes",
+        "candidate_font_3": "Pinyon Script",
+        "candidate_font_4": "Allura",
+        "candidate_font_5": "Dancing Script"
+    },
+    {
+        "task_id": "581722",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Fredoka One",
+        "candidate_font_2": "VAG Rounded",
+        "candidate_font_3": "Quicksand",
+        "candidate_font_4": "Comfortaa",
+        "candidate_font_5": "Museo Sans Rounded"
     }
 ]
