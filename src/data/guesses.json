@@ -49246,5 +49246,113 @@
         "candidate_font_3": "Source Sans Pro Black Italic",
         "candidate_font_4": "Open Sans Extrabold Italic",
         "candidate_font_5": "Lato Black Italic"
+    },
+    {
+        "task_id": "581701",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Circular Std",
+        "candidate_font_2": "Gotham Rounded",
+        "candidate_font_3": "Nunito Sans",
+        "candidate_font_4": "Varela Round",
+        "candidate_font_5": "Quicksand"
+    },
+    {
+        "task_id": "581700",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Motorcity",
+        "candidate_font_2": "VAG Rounded",
+        "candidate_font_3": "Rubik Mono One",
+        "candidate_font_4": "Comfortaa Bold",
+        "candidate_font_5": "Quicksand Bold"
+    },
+    {
+        "task_id": "581699",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "ITC Ronda",
+        "candidate_font_2": "Motoya Maru",
+        "candidate_font_3": "VAG Rounded",
+        "candidate_font_4": "Hanken Grotesk Rounded",
+        "candidate_font_5": "Arial Rounded MT Bold"
+    },
+    {
+        "task_id": "581698",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Lovely Melody",
+        "candidate_font_2": "Magnolia Sky",
+        "candidate_font_3": "Better Together",
+        "candidate_font_4": "Hello Beautiful",
+        "candidate_font_5": "The Quick Brown Fox"
+    },
+    {
+        "task_id": "581697",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Lovely Home",
+        "candidate_font_2": "Magnolia Sky",
+        "candidate_font_3": "Playlist Script",
+        "candidate_font_4": "Amarillo",
+        "candidate_font_5": "Stay Grateful"
+    },
+    {
+        "task_id": "581688",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Akira Expanded",
+        "candidate_font_2": "Ethnocentric Regular",
+        "candidate_font_3": "Orbitron Black",
+        "candidate_font_4": "Quantico Bold",
+        "candidate_font_5": "SF Nsata"
+    },
+    {
+        "task_id": "581696",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Adelica Script",
+        "candidate_font_2": "Gilroy Bold",
+        "candidate_font_3": "Open Sans Light",
+        "candidate_font_4": "Brightside Script",
+        "candidate_font_5": "Roboto Light"
+    },
+    {
+        "task_id": "581695",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Ethnocentric",
+        "candidate_font_2": "Agency FB",
+        "candidate_font_3": "Square 721",
+        "candidate_font_4": "BankGothic",
+        "candidate_font_5": "Avengeance"
+    },
+    {
+        "task_id": "581691",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "ITC Avant Garde Gothic",
+        "candidate_font_2": "Futura",
+        "candidate_font_3": "Century Gothic",
+        "candidate_font_4": "Univers",
+        "candidate_font_5": "Gotham"
+    },
+    {
+        "task_id": "581690",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Zapf Humanist",
+        "candidate_font_2": "Pirelli",
+        "candidate_font_3": "Univers",
+        "candidate_font_4": "Bookman Old Style",
+        "candidate_font_5": "Cheltenham"
+    },
+    {
+        "task_id": "581687",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Hooligan",
+        "candidate_font_2": "Bad Boys",
+        "candidate_font_3": "Street Soul",
+        "candidate_font_4": "Chasing Embers",
+        "candidate_font_5": "Another Tag"
+    },
+    {
+        "task_id": "581686",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Ceremony",
+        "candidate_font_2": "Mordor",
+        "candidate_font_3": "Elfdorf",
+        "candidate_font_4": "Ruritania",
+        "candidate_font_5": "Excalibur"
     }
 ]
