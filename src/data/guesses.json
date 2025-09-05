@@ -49057,5 +49057,86 @@
         "candidate_font_3": "Montserrat ExtraBold",
         "candidate_font_4": "Fredoka One",
         "candidate_font_5": "Gotham Black"
+    },
+    {
+        "task_id": "581673",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Lavish Script",
+        "candidate_font_2": "Magnolia Sky",
+        "candidate_font_3": "Beautiful Bloom",
+        "candidate_font_4": "Brannboll FS",
+        "candidate_font_5": "Great Vibes"
+    },
+    {
+        "task_id": "581669",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Fredoka One",
+        "candidate_font_2": "Luckiest Guy",
+        "candidate_font_3": "Bangers",
+        "candidate_font_4": "Obelix Pro",
+        "candidate_font_5": "Komika Text Bold"
+    },
+    {
+        "task_id": "581671",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "BitDust",
+        "candidate_font_2": "VTKS BLOCK BASE",
+        "candidate_font_3": "Arcade Classic",
+        "candidate_font_4": "Minecraftia",
+        "candidate_font_5": "Press Start 2P"
+    },
+    {
+        "task_id": "581670",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Bubblegum Sans",
+        "candidate_font_2": "Oswald Bold",
+        "candidate_font_3": "Montserrat Black",
+        "candidate_font_4": "Quicksand Bold",
+        "candidate_font_5": "Aldrich"
+    },
+    {
+        "task_id": "581668",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Praise",
+        "candidate_font_2": "Didot LT Std Roman",
+        "candidate_font_3": "Bodoni Std",
+        "candidate_font_4": "",
+        "candidate_font_5": ""
+    },
+    {
+        "task_id": "581667",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Eurostile Extended Black",
+        "candidate_font_2": "BankGothic Medium",
+        "candidate_font_3": "Pricedown Black",
+        "candidate_font_4": "Hemi Head 426",
+        "candidate_font_5": "Avengeance"
+    },
+    {
+        "task_id": "581666",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Lovile Script",
+        "candidate_font_2": "The Wild Font",
+        "candidate_font_3": "Springfield Script",
+        "candidate_font_4": "The Simply Bold Script",
+        "candidate_font_5": "Adelios Script"
+    },
+    {
+        "task_id": "581665",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "JetBrains Mono",
+        "candidate_font_2": "Fira Code",
+        "candidate_font_3": "SF Mono",
+        "candidate_font_4": "Consolas",
+        "candidate_font_5": "IBM Plex Mono"
+    },
+    {
+        "task_id": "581664",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Afrah Script",
+        "candidate_font_2": "Lemon Milk",
+        "candidate_font_3": "Isabella Script",
+        "candidate_font_4": "Burgues Script",
+        "candidate_font_5": "Akira Expanded"
     }
 ]
