@@ -32589,7 +32589,7 @@
         "title": "UNCANNY VALLEY in NORTH AMERICA",
         "instructions": null,
         "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1228771.jpg",
-        "identified_font": null
+        "identified_font": "Cortese"
     },
     {
         "task_id": "581551",
@@ -33541,7 +33541,7 @@
         "title": "Font Tittle please",
         "instructions": null,
         "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1229001.jpg",
-        "identified_font": null
+        "identified_font": "Gang of Three"
     },
     {
         "task_id": "581676",
@@ -33628,8 +33628,8 @@
         "url": "https://www.dafont.com/forum/read/581701/like-this-post-what-font",
         "title": "\"like this post?\" what font",
         "instructions": null,
-        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1229032.jpg",
-        "identified_font": null
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1229032.png?1",
+        "identified_font": "MADE Okine Sans"
     },
     {
         "task_id": "581700",
@@ -33660,8 +33660,8 @@
         "url": "https://www.dafont.com/forum/read/581697/tittle-font-loved-please",
         "title": "Tittle font\"LOVED\" please",
         "instructions": null,
-        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1229028.jpg",
-        "identified_font": null
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1229028.png?1",
+        "identified_font": "Birds of Paradise"
     },
     {
         "task_id": "581693",
@@ -33685,7 +33685,7 @@
         "title": "Font tittle \"VVV\" by THE BOYZ please",
         "instructions": null,
         "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1229016.jpg?1",
-        "identified_font": null
+        "identified_font": "Gang of Three"
     },
     {
         "task_id": "581696",
@@ -33733,6 +33733,54 @@
         "title": "Font?",
         "instructions": null,
         "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1229014.png?1",
+        "identified_font": null
+    },
+    {
+        "task_id": "581709",
+        "url": "https://www.dafont.com/forum/read/581709/what-is-this-front-please",
+        "title": "What is this front please?",
+        "instructions": null,
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1229046.png",
+        "identified_font": null
+    },
+    {
+        "task_id": "581707",
+        "url": "https://www.dafont.com/forum/read/581707/font-tittle-rich-man-by-aespa-please",
+        "title": "Font tittle \"Rich Man\" by Aespa please",
+        "instructions": null,
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1229042.jpg",
+        "identified_font": null
+    },
+    {
+        "task_id": "581706",
+        "url": "https://www.dafont.com/forum/read/581706/font-tittle-please",
+        "title": "Font Tittle please",
+        "instructions": null,
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1229037.jpg",
+        "identified_font": null
+    },
+    {
+        "task_id": "581705",
+        "url": "https://www.dafont.com/forum/read/581705/fonte-urgenteeeeeeeeeeeeeeeeeeeeeeeeeeeeee",
+        "title": "Fonte URGENTEEEEEEEEEEEEEEEEEEEEEEEEEEEEEE...!!!",
+        "instructions": "\"BEN\u00c7\u00c3O,PAI\" \"NAIARA AZEVEDO\" fonteeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1229036.jpg?1",
+        "identified_font": null
+    },
+    {
+        "task_id": "581703",
+        "url": "https://www.dafont.com/forum/read/581703/bencao-pai",
+        "title": "B\u00ean\u00e7ao, pai",
+        "instructions": null,
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1229034.png?1",
+        "identified_font": null
+    },
+    {
+        "task_id": "581702",
+        "url": "https://www.dafont.com/forum/read/581702/font",
+        "title": "Font",
+        "instructions": null,
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1229033.jpg",
         "identified_font": null
     }
 ]
