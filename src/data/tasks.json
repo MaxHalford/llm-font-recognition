@@ -33412,7 +33412,7 @@
         "url": "https://www.dafont.com/forum/read/581657/anybody-know-the-font",
         "title": "anybody know the font?",
         "instructions": null,
-        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1228973.png",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1228973.png?1",
         "identified_font": null
     },
     {
@@ -33869,6 +33869,46 @@
         "title": "Magdalena Bay font",
         "instructions": null,
         "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1229064.png",
+        "identified_font": null
+    },
+    {
+        "task_id": "581726",
+        "url": "https://www.dafont.com/forum/read/581726/font",
+        "title": "Font",
+        "instructions": null,
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1229089.jpg",
+        "identified_font": null
+    },
+    {
+        "task_id": "581725",
+        "url": "https://www.dafont.com/forum/read/581725/two-fonts-or-two-weights",
+        "title": "Two fonts or two weights?",
+        "instructions": "Are these two different fonts? Is it possible that \"drink\" and \"enjoy\" are the same font, and that \"smoothie\" and \"life\" belong together? The double \"o\" and \"th\" in smoothie are very noticeable. I've tried several times with different font identifiers.",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1229088.png",
+        "identified_font": null
+    },
+    {
+        "task_id": "581724",
+        "url": "https://www.dafont.com/forum/read/581724/what-is-this-front-please-la-gazette-des-maries",
+        "title": "What is this front please? \"La Gazette des mari\u00e9s\"",
+        "instructions": null,
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1229087.png",
+        "identified_font": null
+    },
+    {
+        "task_id": "581723",
+        "url": "https://www.dafont.com/forum/read/581723/id-font",
+        "title": "ID FONT?",
+        "instructions": null,
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1229082.png",
+        "identified_font": null
+    },
+    {
+        "task_id": "581722",
+        "url": "https://www.dafont.com/forum/read/581722/the-what-font",
+        "title": "THE WHAT FONT",
+        "instructions": "help meeeeeee \ud83d\ude4f\ud83c\udffe what's the name of this font \u0093alerta nostalgia\u0094?",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1229081.jpg",
         "identified_font": null
     }
 ]
