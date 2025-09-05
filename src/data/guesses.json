@@ -49138,5 +49138,50 @@
         "candidate_font_3": "Isabella Script",
         "candidate_font_4": "Burgues Script",
         "candidate_font_5": "Akira Expanded"
+    },
+    {
+        "task_id": "581678",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Love Ya Like A Sister",
+        "candidate_font_2": "Janda Apple Cobbler",
+        "candidate_font_3": "Coming Soon",
+        "candidate_font_4": "Pangolin",
+        "candidate_font_5": "Mochiy Pop P One"
+    },
+    {
+        "task_id": "581677",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Montserrat Bold",
+        "candidate_font_2": "Open Sans Regular",
+        "candidate_font_3": "Bubblegum Sans",
+        "candidate_font_4": "KG Red Hands",
+        "candidate_font_5": "Wild Brush"
+    },
+    {
+        "task_id": "581676",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Stay Grumpy",
+        "candidate_font_2": "Mellody Script",
+        "candidate_font_3": "Wild Ones",
+        "candidate_font_4": "Lovely Script",
+        "candidate_font_5": "Angelis"
+    },
+    {
+        "task_id": "581675",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "ITC Benguiat Bold",
+        "candidate_font_2": "Freestyle Script",
+        "candidate_font_3": "Brush Script MT",
+        "candidate_font_4": "Kaufmann Bold",
+        "candidate_font_5": "Pacifico"
+    },
+    {
+        "task_id": "581674",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Playbill",
+        "candidate_font_2": "Anton Regular",
+        "candidate_font_3": "Garamond",
+        "candidate_font_4": "Franklin Gothic Heavy",
+        "candidate_font_5": "Coronet Bold"
     }
 ]
