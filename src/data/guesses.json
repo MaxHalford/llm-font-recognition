@@ -49552,5 +49552,68 @@
         "candidate_font_3": "Quicksand",
         "candidate_font_4": "Comfortaa",
         "candidate_font_5": "Museo Sans Rounded"
+    },
+    {
+        "task_id": "581733",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Gast\u00f3n",
+        "candidate_font_2": "Univers",
+        "candidate_font_3": "The Braggest",
+        "candidate_font_4": "Hello Ketta",
+        "candidate_font_5": "Montserrat"
+    },
+    {
+        "task_id": "581732",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Grobold",
+        "candidate_font_2": "Bubblegum Sans",
+        "candidate_font_3": "Cheezo",
+        "candidate_font_4": "Porky's",
+        "candidate_font_5": "Good Bubble"
+    },
+    {
+        "task_id": "581731",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Wire One",
+        "candidate_font_2": "Monoton",
+        "candidate_font_3": "Orbitron Light",
+        "candidate_font_4": "Montserrat Light",
+        "candidate_font_5": "Urbanist Light"
+    },
+    {
+        "task_id": "581730",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Campground",
+        "candidate_font_2": "SF Collegiate Solid",
+        "candidate_font_3": "Freshman",
+        "candidate_font_4": "College Block 2.0",
+        "candidate_font_5": "Varsity Team"
+    },
+    {
+        "task_id": "581729",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Futura",
+        "candidate_font_2": "Avenir",
+        "candidate_font_3": "Brandon Grotesque",
+        "candidate_font_4": "Twentieth Century MT",
+        "candidate_font_5": "Avant Garde Gothic"
+    },
+    {
+        "task_id": "502610",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Porky's",
+        "candidate_font_2": "Luckiest Guy",
+        "candidate_font_3": "Bangers",
+        "candidate_font_4": "Goofball",
+        "candidate_font_5": "SF Wonder Comic Bold"
+    },
+    {
+        "task_id": "581727",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Road Rage",
+        "candidate_font_2": "Headliner No. 45",
+        "candidate_font_3": "Destroyer",
+        "candidate_font_4": "Ironstrike",
+        "candidate_font_5": "Another Danger"
     }
 ]
