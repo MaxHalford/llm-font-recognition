@@ -49858,5 +49858,95 @@
         "candidate_font_3": "Rocko (by Darrell Flood)",
         "candidate_font_4": "Prehistoric (by Manfred Klein)",
         "candidate_font_5": "Stone Age (by Kustren)"
+    },
+    {
+        "task_id": "581774",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Gotham Bold",
+        "candidate_font_2": "Proxima Nova Bold",
+        "candidate_font_3": "Montserrat Bold",
+        "candidate_font_4": "Avenir Next LT Pro Bold",
+        "candidate_font_5": "Brandon Grotesque Bold"
+    },
+    {
+        "task_id": "581773",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Forum",
+        "candidate_font_2": "Trajan Pro",
+        "candidate_font_3": "Cinzel",
+        "candidate_font_4": "Augustea",
+        "candidate_font_5": "Pigiarniq"
+    },
+    {
+        "task_id": "581772",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "SF Sports Night",
+        "candidate_font_2": "Raceguard",
+        "candidate_font_3": "Digital Strip",
+        "candidate_font_4": "SF Sports Night NS",
+        "candidate_font_5": "Capture It"
+    },
+    {
+        "task_id": "581769",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Destroyed by the Sky",
+        "candidate_font_2": "Broken Font",
+        "candidate_font_3": "Cracked",
+        "candidate_font_4": "Stone Cold",
+        "candidate_font_5": "Shattered"
+    },
+    {
+        "task_id": "581768",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Against",
+        "candidate_font_2": "Brush King",
+        "candidate_font_3": "Rustico",
+        "candidate_font_4": "Hokjesgeest",
+        "candidate_font_5": "Go Big"
+    },
+    {
+        "task_id": "581766",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Aachen Bold",
+        "candidate_font_2": "Obelix Pro",
+        "candidate_font_3": "Compacta Bold",
+        "candidate_font_4": "Bebas Neue Bold",
+        "candidate_font_5": "Staatliches"
+    },
+    {
+        "task_id": "581765",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Univers 75 Black",
+        "candidate_font_2": "Gotham Black",
+        "candidate_font_3": "Montserrat Black",
+        "candidate_font_4": "Encode Sans Black",
+        "candidate_font_5": "Open Sans ExtraBold"
+    },
+    {
+        "task_id": "581764",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Stay Grateful",
+        "candidate_font_2": "Southampton",
+        "candidate_font_3": "Adeline Script",
+        "candidate_font_4": "Brilliant Signature",
+        "candidate_font_5": "The Artist"
+    },
+    {
+        "task_id": "581763",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Adobe Garamond Pro Italic",
+        "candidate_font_2": "Microgramma Extended Bold Oblique",
+        "candidate_font_3": "Compacta Black Italic",
+        "candidate_font_4": "Conthrax Italic",
+        "candidate_font_5": "Eurostile Extended Black Oblique"
+    },
+    {
+        "task_id": "581762",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "DIN 1451",
+        "candidate_font_2": "Franklin Gothic",
+        "candidate_font_3": "Roadgeek 2005",
+        "candidate_font_4": "Trade Gothic",
+        "candidate_font_5": "News Gothic"
     }
 ]
