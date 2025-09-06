@@ -34190,5 +34190,93 @@
         "instructions": "font name please!!",
         "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1229165.png",
         "identified_font": null
+    },
+    {
+        "task_id": "581774",
+        "url": "https://www.dafont.com/forum/read/581774/dafont",
+        "title": "Dafont",
+        "instructions": null,
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1229189.jpg",
+        "identified_font": null
+    },
+    {
+        "task_id": "581767",
+        "url": "https://www.dafont.com/forum/read/581767/identificaron-de-tipografia",
+        "title": "Identificaron de tipograf\u00eda",
+        "instructions": "Hola, eh estado buscando esta fuente pero no logro identificarla.",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1229180.png",
+        "identified_font": "Dancing Script"
+    },
+    {
+        "task_id": "581773",
+        "url": "https://www.dafont.com/forum/read/581773/looking-for-this-font-please",
+        "title": "Looking for this font please",
+        "instructions": null,
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1229186.png",
+        "identified_font": null
+    },
+    {
+        "task_id": "581772",
+        "url": "https://www.dafont.com/forum/read/581772/hi-i-need-this-font-please",
+        "title": "Hi, i need this font please!",
+        "instructions": "Thanks!",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1229185.png",
+        "identified_font": null
+    },
+    {
+        "task_id": "581769",
+        "url": "https://www.dafont.com/forum/read/581769/what-font-is-this",
+        "title": "What font is this?",
+        "instructions": null,
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1229182.png",
+        "identified_font": null
+    },
+    {
+        "task_id": "581768",
+        "url": "https://www.dafont.com/forum/read/581768/what-font-is-this",
+        "title": "What font is this?",
+        "instructions": null,
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1229181.png",
+        "identified_font": null
+    },
+    {
+        "task_id": "581766",
+        "url": "https://www.dafont.com/forum/read/581766/id-font",
+        "title": "ID FONT?",
+        "instructions": null,
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1229179.png",
+        "identified_font": null
+    },
+    {
+        "task_id": "581765",
+        "url": "https://www.dafont.com/forum/read/581765/any-suggestions-for-the-font-of-v-h-s",
+        "title": "Any Suggestions For The Font Of V/H/S",
+        "instructions": "V/H/S is a 2012 American found footage horror anthology film and the first installment in the V/H/S franchise created by Brad Miska[3] and Bloody Disgusting, and produced by Miska and Roxanne Benjamin.[4] It features a series of six found footage shorts written and directed by Adam Wingard, David Bruckner, Ti West, Glenn McQuaid, Joe Swanberg, and the filmmaking collective Radio Silence.[5]",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1229178.png",
+        "identified_font": null
+    },
+    {
+        "task_id": "581764",
+        "url": "https://www.dafont.com/forum/read/581764/what-font-is-this",
+        "title": "what font is this ?",
+        "instructions": null,
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1229176.png",
+        "identified_font": null
+    },
+    {
+        "task_id": "581763",
+        "url": "https://www.dafont.com/forum/read/581763/font",
+        "title": "Font",
+        "instructions": null,
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1229175.jpg",
+        "identified_font": null
+    },
+    {
+        "task_id": "581762",
+        "url": "https://www.dafont.com/forum/read/581762/font",
+        "title": "Font",
+        "instructions": null,
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1229174.jpg",
+        "identified_font": null
     }
 ]
