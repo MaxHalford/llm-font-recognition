@@ -33889,11 +33889,11 @@
     },
     {
         "task_id": "581724",
-        "url": "https://www.dafont.com/forum/read/581724/what-is-this-front-please-la-gazette-des-maries",
-        "title": "What is this front please? \"La Gazette des mari\u00e9s\"",
-        "instructions": null,
-        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1229087.png",
-        "identified_font": null
+        "url": "https://www.dafont.com/forum/read/581724/la-gazette-des-maries",
+        "title": "\"La Gazette des mari\u00e9s\"",
+        "instructions": "What is this font, please?",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1229087.png?1",
+        "identified_font": "Suranna"
     },
     {
         "task_id": "581723",
@@ -33909,6 +33909,62 @@
         "title": "THE WHAT FONT",
         "instructions": "help meeeeeee \ud83d\ude4f\ud83c\udffe what's the name of this font \u0093alerta nostalgia\u0094?",
         "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1229081.jpg",
+        "identified_font": null
+    },
+    {
+        "task_id": "581733",
+        "url": "https://www.dafont.com/forum/read/581733/gastadores-font-please",
+        "title": "Gastadores font please",
+        "instructions": null,
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1229101.png",
+        "identified_font": null
+    },
+    {
+        "task_id": "581732",
+        "url": "https://www.dafont.com/forum/read/581732/que-font-es",
+        "title": "Que font es?",
+        "instructions": "Hola, espero alguien pueda decirme que tipografia es, o alguna similar. gracias",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1229099.jpg",
+        "identified_font": null
+    },
+    {
+        "task_id": "581731",
+        "url": "https://www.dafont.com/forum/read/581731/id-font",
+        "title": "ID FONT?",
+        "instructions": null,
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1229098.png",
+        "identified_font": null
+    },
+    {
+        "task_id": "581730",
+        "url": "https://www.dafont.com/forum/read/581730/camp-camp-logo-font",
+        "title": "Camp Camp logo font?",
+        "instructions": null,
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1229097.png",
+        "identified_font": null
+    },
+    {
+        "task_id": "581729",
+        "url": "https://www.dafont.com/forum/read/581729/font",
+        "title": "Font",
+        "instructions": null,
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1229096.jpg",
+        "identified_font": null
+    },
+    {
+        "task_id": "502610",
+        "url": "https://www.dafont.com/forum/read/502610/rayman-3-hd-font-request",
+        "title": "Rayman 3 HD font request",
+        "instructions": "I wanna know the name of the font from the logo that was shown in this image here. It was used in the HD remaster of the 3rd game, as well as Rayman Origins and Legends. If it's not created, can you please make it? Thanks.",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/0/1067154.png?1",
+        "identified_font": null
+    },
+    {
+        "task_id": "581727",
+        "url": "https://www.dafont.com/forum/read/581727/anybody-have-an-idea-what-font-this-is-i-know-i-ve-seen-it-but-don-t-know-the-name-any-help-would-be",
+        "title": "Anybody have an idea what font this is?  I know I've seen it  but don't know the name.  Any help would be awesome.",
+        "instructions": null,
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1229090.jpg",
         "identified_font": null
     }
 ]
