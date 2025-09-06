@@ -49795,5 +49795,41 @@
         "candidate_font_3": "Minecraftia",
         "candidate_font_4": "Open Sans",
         "candidate_font_5": "Montserrat"
+    },
+    {
+        "task_id": "581757",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Montserrat ExtraBold",
+        "candidate_font_2": "Gotham Black",
+        "candidate_font_3": "Proxima Nova Black",
+        "candidate_font_4": "Oswald Bold",
+        "candidate_font_5": "Open Sans ExtraBold"
+    },
+    {
+        "task_id": "581758",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Carnival Party by Creatype Studio",
+        "candidate_font_2": "The Circus Show by Graphic Ghost",
+        "candidate_font_3": "Bubbly Bobble by Vunira Studio",
+        "candidate_font_4": "Happy Kids by StringLabs",
+        "candidate_font_5": "Festive Fun by Putra Khan"
+    },
+    {
+        "task_id": "581756",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Bubblegum Pop",
+        "candidate_font_2": "Rock Salt",
+        "candidate_font_3": "Mostwasted",
+        "candidate_font_4": "Bubblegum by Pizzadude",
+        "candidate_font_5": "Bangers"
+    },
+    {
+        "task_id": "581755",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Akzidenz-Grotesk BQ Condensed",
+        "candidate_font_2": "Franklin Gothic Compressed",
+        "candidate_font_3": "Alternate Gothic No. 2",
+        "candidate_font_4": "Janson Text Roman",
+        "candidate_font_5": "DIN Schablonierschrift"
     }
 ]
