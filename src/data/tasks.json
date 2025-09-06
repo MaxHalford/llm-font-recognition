@@ -33813,7 +33813,7 @@
         "title": "Heading and Body fonts identification pls",
         "instructions": "Please what fonts are used here?",
         "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1229048.png",
-        "identified_font": null
+        "identified_font": "Trend Sans One"
     },
     {
         "task_id": "581721",
@@ -33901,7 +33901,7 @@
         "title": "ID FONT?",
         "instructions": null,
         "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1229082.png",
-        "identified_font": null
+        "identified_font": "Bible Script"
     },
     {
         "task_id": "581722",
@@ -33997,7 +33997,7 @@
         "title": "font name?",
         "instructions": null,
         "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1229105.png",
-        "identified_font": null
+        "identified_font": "Fearless Queen"
     },
     {
         "task_id": "581743",
@@ -34069,15 +34069,15 @@
         "title": "HC",
         "instructions": null,
         "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1229133.png",
-        "identified_font": null
+        "identified_font": "Ohm"
     },
     {
         "task_id": "581751",
         "url": "https://www.dafont.com/forum/read/581751/font-name",
         "title": "font name?",
         "instructions": "Preluders and Walking on Sunshine Font",
-        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1229131.png",
-        "identified_font": null
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1229131.jpg?1",
+        "identified_font": "Deftone Stylus"
     },
     {
         "task_id": "581750",
@@ -34165,6 +34165,30 @@
         "title": "Font",
         "instructions": null,
         "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1229139.jpg",
+        "identified_font": null
+    },
+    {
+        "task_id": "326529",
+        "url": "https://www.dafont.com/forum/read/326529/screen-gems-pictures-font",
+        "title": "Screen Gems Pictures font",
+        "instructions": "Can anyone tell me what font they used for this logo of Screen Gems Pictures?",
+        "img_url": "https://www.dafont.com/forum/attach/orig/7/1/717462.png?2",
+        "identified_font": null
+    },
+    {
+        "task_id": "581761",
+        "url": "https://www.dafont.com/forum/read/581761/font-name-pls",
+        "title": "Font name pls :)",
+        "instructions": null,
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1229168.png",
+        "identified_font": null
+    },
+    {
+        "task_id": "581760",
+        "url": "https://www.dafont.com/forum/read/581760/what-a-font-used-on-a-early-man-end-credits",
+        "title": "What a font used on a Early Man end credits?",
+        "instructions": "font name please!!",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1229165.png",
         "identified_font": null
     }
 ]
