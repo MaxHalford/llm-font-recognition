@@ -34093,7 +34093,7 @@
         "title": "tittle font \"BLUE & GREY\" BTS please",
         "instructions": null,
         "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1229129.jpg",
-        "identified_font": null
+        "identified_font": "Reliable"
     },
     {
         "task_id": "581748",
@@ -34101,7 +34101,7 @@
         "title": "font tittle \"DIMPLE\" BTS please",
         "instructions": null,
         "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1229128.jpg",
-        "identified_font": null
+        "identified_font": "Decalled Script"
     },
     {
         "task_id": "581746",
@@ -34125,6 +34125,46 @@
         "title": "Font tittle \"Go\" by Cortis please",
         "instructions": null,
         "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1229120.jpg",
+        "identified_font": null
+    },
+    {
+        "task_id": "581759",
+        "url": "https://www.dafont.com/forum/read/581759/what-s-this-font",
+        "title": "What's this font?",
+        "instructions": "Please help this font 3welcome to the weekend\"",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1229144.jpg",
+        "identified_font": "Damion"
+    },
+    {
+        "task_id": "581757",
+        "url": "https://www.dafont.com/forum/read/581757/what-font-it-is",
+        "title": "What font it is ?",
+        "instructions": "Hi everyone,",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1229141.png",
+        "identified_font": null
+    },
+    {
+        "task_id": "581758",
+        "url": "https://www.dafont.com/forum/read/581758/what-font-it-is",
+        "title": "What font it is ?",
+        "instructions": null,
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1229143.jpg",
+        "identified_font": null
+    },
+    {
+        "task_id": "581756",
+        "url": "https://www.dafont.com/forum/read/581756/what-font-used-in-this-image-thanks",
+        "title": "WHAT FONT USED IN THIS IMAGE, THANKS",
+        "instructions": "PLEASE HELP ME, WHAT FONT USED IN THIS IMAGE",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1229140.png",
+        "identified_font": null
+    },
+    {
+        "task_id": "581755",
+        "url": "https://www.dafont.com/forum/read/581755/font",
+        "title": "Font",
+        "instructions": null,
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1229139.jpg",
         "identified_font": null
     }
 ]
