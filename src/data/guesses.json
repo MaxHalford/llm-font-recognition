@@ -49615,5 +49615,41 @@
         "candidate_font_3": "Destroyer",
         "candidate_font_4": "Ironstrike",
         "candidate_font_5": "Another Danger"
+    },
+    {
+        "task_id": "581738",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Fluid Regular",
+        "candidate_font_2": "Fluidity",
+        "candidate_font_3": "Ripples",
+        "candidate_font_4": "Oceanwide",
+        "candidate_font_5": ""
+    },
+    {
+        "task_id": "581737",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "RaseOne Regular",
+        "candidate_font_2": "Formula Medium Italic",
+        "candidate_font_3": "Formula Condensed Medium Italic",
+        "candidate_font_4": "Gotham Medium Italic",
+        "candidate_font_5": "Encode Sans Condensed Medium Italic"
+    },
+    {
+        "task_id": "581736",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Race Sport",
+        "candidate_font_2": "Bebas Neue Bold",
+        "candidate_font_3": "Quantico Bold",
+        "candidate_font_4": "Wild Ones Demo",
+        "candidate_font_5": "Open Sans Regular"
+    },
+    {
+        "task_id": "581735",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Road Rage",
+        "candidate_font_2": "Hooligan",
+        "candidate_font_3": "Trash Talking",
+        "candidate_font_4": "Brooklyn Kid",
+        "candidate_font_5": "Angleton Brush"
     }
 ]
