@@ -49831,5 +49831,32 @@
         "candidate_font_3": "Alternate Gothic No. 2",
         "candidate_font_4": "Janson Text Roman",
         "candidate_font_5": "DIN Schablonierschrift"
+    },
+    {
+        "task_id": "326529",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Trade Gothic Bold Extended",
+        "candidate_font_2": "Akzidenz-Grotesk Extended Bold",
+        "candidate_font_3": "News Gothic Heavy",
+        "candidate_font_4": "Gothic 821 Std Heavy Extended",
+        "candidate_font_5": "Univers 75 Black"
+    },
+    {
+        "task_id": "581761",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Luckiest Guy",
+        "candidate_font_2": "Grobold",
+        "candidate_font_3": "Lilita One",
+        "candidate_font_4": "Lemon Milk",
+        "candidate_font_5": "Bangers"
+    },
+    {
+        "task_id": "581760",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Caveman (by Darrell Flood)",
+        "candidate_font_2": "Caveman Bob (by Dirt2.com - Jeff Bensch)",
+        "candidate_font_3": "Rocko (by Darrell Flood)",
+        "candidate_font_4": "Prehistoric (by Manfred Klein)",
+        "candidate_font_5": "Stone Age (by Kustren)"
     }
 ]
