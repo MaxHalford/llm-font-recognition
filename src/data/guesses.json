@@ -49948,5 +49948,41 @@
         "candidate_font_3": "Roadgeek 2005",
         "candidate_font_4": "Trade Gothic",
         "candidate_font_5": "News Gothic"
+    },
+    {
+        "task_id": "581778",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Hoefler Text",
+        "candidate_font_2": "Lora",
+        "candidate_font_3": "Crimson Pro",
+        "candidate_font_4": "Libre Baskerville",
+        "candidate_font_5": "Garamond Premier Pro"
+    },
+    {
+        "task_id": "581777",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Neue Machina Regular",
+        "candidate_font_2": "New Spirit Serif",
+        "candidate_font_3": "",
+        "candidate_font_4": "",
+        "candidate_font_5": ""
+    },
+    {
+        "task_id": "581776",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Plak Black",
+        "candidate_font_2": "Dom Casual",
+        "candidate_font_3": "Akzidenz-Grotesk",
+        "candidate_font_4": "Futura Black",
+        "candidate_font_5": "Univers"
+    },
+    {
+        "task_id": "581775",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Garamond Premier Pro",
+        "candidate_font_2": "Adobe Garamond Pro",
+        "candidate_font_3": "Goudy Old Style",
+        "candidate_font_4": "Janson Text",
+        "candidate_font_5": "Hoefler Text"
     }
 ]
