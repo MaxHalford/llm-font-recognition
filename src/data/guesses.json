@@ -49696,5 +49696,104 @@
         "candidate_font_3": "",
         "candidate_font_4": "",
         "candidate_font_5": ""
+    },
+    {
+        "task_id": "570694",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Chicago",
+        "candidate_font_2": "Mac Classic",
+        "candidate_font_3": "System (Mac OS)",
+        "candidate_font_4": "Arcade Classic",
+        "candidate_font_5": "VCR OSD Mono"
+    },
+    {
+        "task_id": "581754",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Quicksand",
+        "candidate_font_2": "Bubblegum Sans",
+        "candidate_font_3": "Chewy",
+        "candidate_font_4": "Fredoka One",
+        "candidate_font_5": "Luckiest Guy"
+    },
+    {
+        "task_id": "581753",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Gobold Extra Bold",
+        "candidate_font_2": "Uni Sans Heavy",
+        "candidate_font_3": "Open Sans ExtraBold",
+        "candidate_font_4": "Montserrat Black",
+        "candidate_font_5": "Lato Black"
+    },
+    {
+        "task_id": "581752",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Multi Line by Darrell Flood",
+        "candidate_font_2": "Stripe Line by Xerographer Fonts",
+        "candidate_font_3": "Outline Striped by Nymphont",
+        "candidate_font_4": "Streamline Bold by M\u00e5ns Greb\u00e4ck",
+        "candidate_font_5": "Retro Neon by M\u00e5ns Greb\u00e4ck"
+    },
+    {
+        "task_id": "581751",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Motel King",
+        "candidate_font_2": "Bayshore",
+        "candidate_font_3": "Quick Starter",
+        "candidate_font_4": "Streamline",
+        "candidate_font_5": "Candy Script"
+    },
+    {
+        "task_id": "581750",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Brannboll SS",
+        "candidate_font_2": "Magnolia Sky",
+        "candidate_font_3": "Beloved Script",
+        "candidate_font_4": "Storyteller",
+        "candidate_font_5": "Amsterdam Signature"
+    },
+    {
+        "task_id": "581749",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Streetwear",
+        "candidate_font_2": "Street Wars",
+        "candidate_font_3": "Road Rage",
+        "candidate_font_4": "Mostwasted",
+        "candidate_font_5": "Hokage"
+    },
+    {
+        "task_id": "581748",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Lemon Tuesday",
+        "candidate_font_2": "Mightype",
+        "candidate_font_3": "Beautiful Sunday",
+        "candidate_font_4": "Haglos",
+        "candidate_font_5": "The Braggest"
+    },
+    {
+        "task_id": "581746",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Rebel Heart",
+        "candidate_font_2": "",
+        "candidate_font_3": "",
+        "candidate_font_4": "",
+        "candidate_font_5": ""
+    },
+    {
+        "task_id": "581745",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "SF Sports Night",
+        "candidate_font_2": "Smasher",
+        "candidate_font_3": "Octin Sports Italic",
+        "candidate_font_4": "Mechanius Oblique",
+        "candidate_font_5": "Aero Velocity"
+    },
+    {
+        "task_id": "581744",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Retro Gaming by Style-7",
+        "candidate_font_2": "Press Start 2P",
+        "candidate_font_3": "Minecraftia",
+        "candidate_font_4": "Open Sans",
+        "candidate_font_5": "Montserrat"
     }
 ]
