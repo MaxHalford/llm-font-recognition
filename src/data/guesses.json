@@ -49651,5 +49651,50 @@
         "candidate_font_3": "Trash Talking",
         "candidate_font_4": "Brooklyn Kid",
         "candidate_font_5": "Angleton Brush"
+    },
+    {
+        "task_id": "581743",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Bad Signal",
+        "candidate_font_2": "Blacklisted",
+        "candidate_font_3": "Brush King",
+        "candidate_font_4": "Another Danger",
+        "candidate_font_5": "Metal Mania"
+    },
+    {
+        "task_id": "581742",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Fredoka One",
+        "candidate_font_2": "Bubblegum Sans",
+        "candidate_font_3": "Lilita One",
+        "candidate_font_4": "Luckiest Guy",
+        "candidate_font_5": "Paytone One"
+    },
+    {
+        "task_id": "581741",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Streamlined Stripe Italic",
+        "candidate_font_2": "Road Rage Striped Italic",
+        "candidate_font_3": "Octin Sports Striped Italic",
+        "candidate_font_4": "Top Speed Italic",
+        "candidate_font_5": "Machina Bold Italic"
+    },
+    {
+        "task_id": "581740",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Gothic Lord",
+        "candidate_font_2": "Blackletter Sheriff",
+        "candidate_font_3": "Metal Lord",
+        "candidate_font_4": "California Street",
+        "candidate_font_5": "Augusta"
+    },
+    {
+        "task_id": "581739",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "FUCKINAWE",
+        "candidate_font_2": "",
+        "candidate_font_3": "",
+        "candidate_font_4": "",
+        "candidate_font_5": ""
     }
 ]
