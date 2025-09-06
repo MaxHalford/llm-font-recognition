@@ -33907,8 +33907,8 @@
         "task_id": "581722",
         "url": "https://www.dafont.com/forum/read/581722/the-what-font",
         "title": "THE WHAT FONT",
-        "instructions": "help meeeeeee \ud83d\ude4f\ud83c\udffe what's the name of this font \u0093alerta nostalgia\u0094?",
-        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1229081.jpg",
+        "instructions": "help me \ud83d\ude4f\ud83c\udffe what's the name of this font \u0093nostalgia\u0094?",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1229081.jpg?2",
         "identified_font": null
     },
     {
@@ -34277,6 +34277,38 @@
         "title": "Font",
         "instructions": null,
         "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1229174.jpg",
+        "identified_font": null
+    },
+    {
+        "task_id": "581778",
+        "url": "https://www.dafont.com/forum/read/581778/font-name",
+        "title": "font name?",
+        "instructions": "\"Norway Fir Tree\" Font",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1229196.png",
+        "identified_font": null
+    },
+    {
+        "task_id": "581777",
+        "url": "https://www.dafont.com/forum/read/581777/what-font-is-this",
+        "title": "What font is this?",
+        "instructions": "Can somebody tell me the fonts used in here please?",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1229195.jpg",
+        "identified_font": null
+    },
+    {
+        "task_id": "581776",
+        "url": "https://www.dafont.com/forum/read/581776/antoposophic-pubblicazione-font",
+        "title": "antoposophic pubblicazione font",
+        "instructions": null,
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1229192.png",
+        "identified_font": null
+    },
+    {
+        "task_id": "581775",
+        "url": "https://www.dafont.com/forum/read/581775/id-font",
+        "title": "ID FONT?",
+        "instructions": null,
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1229190.png",
         "identified_font": null
     }
 ]
