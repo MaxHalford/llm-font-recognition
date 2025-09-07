@@ -50101,5 +50101,23 @@
         "candidate_font_3": "Inter",
         "candidate_font_4": "Open Sans",
         "candidate_font_5": "Manrope"
+    },
+    {
+        "task_id": "581796",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Destroy",
+        "candidate_font_2": "Trash Hand",
+        "candidate_font_3": "Impact Label",
+        "candidate_font_4": "Anarchy Sans",
+        "candidate_font_5": "KG Red Hands"
+    },
+    {
+        "task_id": "581795",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Gotham Rounded Black",
+        "candidate_font_2": "VAG Rounded",
+        "candidate_font_3": "Circular Std Black",
+        "candidate_font_4": "Museo Sans Rounded 900",
+        "candidate_font_5": "Averta Std CY Black"
     }
 ]
