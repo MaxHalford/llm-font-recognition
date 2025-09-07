@@ -49984,5 +49984,59 @@
         "candidate_font_3": "Goudy Old Style",
         "candidate_font_4": "Janson Text",
         "candidate_font_5": "Hoefler Text"
+    },
+    {
+        "task_id": "581786",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Chewy",
+        "candidate_font_2": "Bubblegum Sans",
+        "candidate_font_3": "Schoolbell",
+        "candidate_font_4": "Coming Soon",
+        "candidate_font_5": "Gochi Hand"
+    },
+    {
+        "task_id": "581785",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Jersey M54",
+        "candidate_font_2": "SF Collegiate",
+        "candidate_font_3": "College Block",
+        "candidate_font_4": "Varsity Team",
+        "candidate_font_5": "Octin Sports"
+    },
+    {
+        "task_id": "581784",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Century Schoolbook",
+        "candidate_font_2": "Plantin",
+        "candidate_font_3": "Bookman Old Style",
+        "candidate_font_4": "DejaVu Serif",
+        "candidate_font_5": "Excelsior Roman"
+    },
+    {
+        "task_id": "581780",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Kristen ITC",
+        "candidate_font_2": "Freestyle Script",
+        "candidate_font_3": "Lucida Handwriting",
+        "candidate_font_4": "Viner Hand ITC",
+        "candidate_font_5": "Pacifico"
+    },
+    {
+        "task_id": "581782",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Bickham Script Pro",
+        "candidate_font_2": "Aphrodite Pro",
+        "candidate_font_3": "Lavanderia",
+        "candidate_font_4": "Pinyon Script",
+        "candidate_font_5": "Great Vibes"
+    },
+    {
+        "task_id": "581781",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Montserrat",
+        "candidate_font_2": "Brandon Grotesque",
+        "candidate_font_3": "Circular Std",
+        "candidate_font_4": "Work Sans",
+        "candidate_font_5": "Gotham"
     }
 ]
