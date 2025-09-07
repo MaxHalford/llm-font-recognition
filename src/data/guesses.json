@@ -50038,5 +50038,32 @@
         "candidate_font_3": "Circular Std",
         "candidate_font_4": "Work Sans",
         "candidate_font_5": "Gotham"
+    },
+    {
+        "task_id": "581790",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Gilroy",
+        "candidate_font_2": "Geomanist",
+        "candidate_font_3": "Inter",
+        "candidate_font_4": "Open Sans",
+        "candidate_font_5": "Montserrat"
+    },
+    {
+        "task_id": "581789",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Always Together",
+        "candidate_font_2": "Better Together",
+        "candidate_font_3": "Bright Sunshine",
+        "candidate_font_4": "Magnolia Sky",
+        "candidate_font_5": "The Historia"
+    },
+    {
+        "task_id": "581788",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Sports World Bold Italic",
+        "candidate_font_2": "SF Collegiate Solid Oblique",
+        "candidate_font_3": "Headliner No. 45 Bold Italic",
+        "candidate_font_4": "Octin Sports Free Oblique",
+        "candidate_font_5": "Defrosted"
     }
 ]
