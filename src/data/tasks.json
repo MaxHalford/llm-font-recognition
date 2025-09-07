@@ -34293,7 +34293,7 @@
         "title": "What font is this?",
         "instructions": "Can somebody tell me the fonts used in here please?",
         "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1229195.jpg",
-        "identified_font": null
+        "identified_font": "Dico Typewriter"
     },
     {
         "task_id": "581776",
@@ -34309,6 +34309,54 @@
         "title": "ID FONT?",
         "instructions": null,
         "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1229190.png",
+        "identified_font": null
+    },
+    {
+        "task_id": "581786",
+        "url": "https://www.dafont.com/forum/read/581786/what-font-is-this",
+        "title": "What font is this?",
+        "instructions": "I need this fonts pls :P",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1229212.png",
+        "identified_font": null
+    },
+    {
+        "task_id": "581785",
+        "url": "https://www.dafont.com/forum/read/581785/canadian-adventure-font",
+        "title": "Canadian Adventure Font?",
+        "instructions": null,
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1229211.png",
+        "identified_font": null
+    },
+    {
+        "task_id": "581784",
+        "url": "https://www.dafont.com/forum/read/581784/classic-challenge",
+        "title": "Classic Challenge",
+        "instructions": null,
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1229210.jpg",
+        "identified_font": null
+    },
+    {
+        "task_id": "581780",
+        "url": "https://www.dafont.com/forum/read/581780/font-please",
+        "title": "font please",
+        "instructions": "je sais que l'image n'est pas optimale, mais j'ai besoin de savoir quelle est cette fonte.",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1229205.png",
+        "identified_font": null
+    },
+    {
+        "task_id": "581782",
+        "url": "https://www.dafont.com/forum/read/581782/what-is-the-font",
+        "title": "What is the font?",
+        "instructions": "Id like to know the font for SOO in love!",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1229207.png",
+        "identified_font": null
+    },
+    {
+        "task_id": "581781",
+        "url": "https://www.dafont.com/forum/read/581781/trying-to-find-this-font",
+        "title": "Trying to find this font",
+        "instructions": "Hi, I would appreciate if someone can indetify the blue font in this book front page.",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1229206.png",
         "identified_font": null
     }
 ]
