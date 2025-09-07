@@ -50263,5 +50263,50 @@
         "candidate_font_3": "Digital Strip",
         "candidate_font_4": "Octin Stencil",
         "candidate_font_5": "Broken Console"
+    },
+    {
+        "task_id": "581822",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Serifette Bold",
+        "candidate_font_2": "City Bold",
+        "candidate_font_3": "Memphis Bold",
+        "candidate_font_4": "Kaufmann Bold",
+        "candidate_font_5": "Rockwell Bold"
+    },
+    {
+        "task_id": "581821",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Neo Retro Inline",
+        "candidate_font_2": "Arcade Classic",
+        "candidate_font_3": "Digital Playbill",
+        "candidate_font_4": "SF Alien Encounters Bold Extended",
+        "candidate_font_5": "Karmatic Arcade"
+    },
+    {
+        "task_id": "581820",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Impact",
+        "candidate_font_2": "Arial Black",
+        "candidate_font_3": "DIN Black",
+        "candidate_font_4": "Futura Medium",
+        "candidate_font_5": "Gotham Medium"
+    },
+    {
+        "task_id": "581818",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Good Times Bold",
+        "candidate_font_2": "Univers 65 Bold",
+        "candidate_font_3": "Microgramma Bold Extended",
+        "candidate_font_4": "Avenir Next Pro Bold",
+        "candidate_font_5": "Neo Sans Std Bold"
+    },
+    {
+        "task_id": "581817",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Shoreline Script",
+        "candidate_font_2": "Hello Beautiful",
+        "candidate_font_3": "Magnolia Sky",
+        "candidate_font_4": "The Quickest",
+        "candidate_font_5": "Lemon Milkshake"
     }
 ]
