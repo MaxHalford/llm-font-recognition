@@ -50227,5 +50227,41 @@
         "candidate_font_3": "Bubblegum Sans",
         "candidate_font_4": "Lilita One",
         "candidate_font_5": "Chewy"
+    },
+    {
+        "task_id": "581813",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Piazzolla",
+        "candidate_font_2": "Merriweather",
+        "candidate_font_3": "Droid Serif",
+        "candidate_font_4": "PT Serif",
+        "candidate_font_5": "Cardo"
+    },
+    {
+        "task_id": "581812",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Nightmare",
+        "candidate_font_2": "Metal Mania",
+        "candidate_font_3": "Headbanger",
+        "candidate_font_4": "Demon Attack",
+        "candidate_font_5": "Black Mamba"
+    },
+    {
+        "task_id": "581811",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Trade Gothic Bold No. 2",
+        "candidate_font_2": "Franklin Gothic Heavy",
+        "candidate_font_3": "Windsor Bold",
+        "candidate_font_4": "Clarendon Bold",
+        "candidate_font_5": "Serifa Black"
+    },
+    {
+        "task_id": "581809",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Cyberthrone",
+        "candidate_font_2": "Transformers Movie",
+        "candidate_font_3": "Digital Strip",
+        "candidate_font_4": "Octin Stencil",
+        "candidate_font_5": "Broken Console"
     }
 ]
