@@ -50119,5 +50119,77 @@
         "candidate_font_3": "Circular Std Black",
         "candidate_font_4": "Museo Sans Rounded 900",
         "candidate_font_5": "Averta Std CY Black"
+    },
+    {
+        "task_id": "581804",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Akzidenz-Grotesk Bold",
+        "candidate_font_2": "Kaufmann Bold",
+        "candidate_font_3": "Folio Bold",
+        "candidate_font_4": "Dom Casual",
+        "candidate_font_5": "Grotesque No. 9"
+    },
+    {
+        "task_id": "581803",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Akzidenz-Grotesk Extrabold Condensed",
+        "candidate_font_2": "Trade Gothic Bold Condensed No. 20",
+        "candidate_font_3": "Franklin Gothic Extra Condensed Black",
+        "candidate_font_4": "Permanent Headline",
+        "candidate_font_5": "Univers 85 Extra Black Extended"
+    },
+    {
+        "task_id": "581802",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Helvetica",
+        "candidate_font_2": "Neue Helvetica",
+        "candidate_font_3": "Swiss 721 BT",
+        "candidate_font_4": "Nimbus Sans L",
+        "candidate_font_5": "Akzidenz-Grotesk"
+    },
+    {
+        "task_id": "581801",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Compacta Bold",
+        "candidate_font_2": "Agency FB Bold",
+        "candidate_font_3": "Bank Gothic Bold",
+        "candidate_font_4": "Square Sans Serif",
+        "candidate_font_5": "Gunship"
+    },
+    {
+        "task_id": "581800",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Crash Override",
+        "candidate_font_2": "Bloody Terror",
+        "candidate_font_3": "War Is Over",
+        "candidate_font_4": "The Degenerates",
+        "candidate_font_5": "Street Culture"
+    },
+    {
+        "task_id": "581798",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Times New Roman",
+        "candidate_font_2": "Calibri",
+        "candidate_font_3": "Liberation Serif",
+        "candidate_font_4": "Segoe UI",
+        "candidate_font_5": "Georgia"
+    },
+    {
+        "task_id": "581799",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "United Sans Heavy",
+        "candidate_font_2": "Akzidenz-Grotesk Extended Heavy",
+        "candidate_font_3": "National Park Heavy",
+        "candidate_font_4": "Bebas Neue Bold",
+        "candidate_font_5": "Agency FB Black"
+    },
+    {
+        "task_id": "581797",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Hugable Regular",
+        "candidate_font_2": "Bubblegum Sans",
+        "candidate_font_3": "Fredoka One",
+        "candidate_font_4": "Chewy",
+        "candidate_font_5": "Lemon Milk Bold"
     }
 ]
