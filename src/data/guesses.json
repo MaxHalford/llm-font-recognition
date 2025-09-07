@@ -50191,5 +50191,41 @@
         "candidate_font_3": "Fredoka One",
         "candidate_font_4": "Chewy",
         "candidate_font_5": "Lemon Milk Bold"
+    },
+    {
+        "task_id": "581808",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Univers 93 Extra Black Extended",
+        "candidate_font_2": "Folio Extra Bold",
+        "candidate_font_3": "Akzidenz-Grotesk Extended Black",
+        "candidate_font_4": "Compacta Bold",
+        "candidate_font_5": "Haettenschweiler"
+    },
+    {
+        "task_id": "581807",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Blades Italic",
+        "candidate_font_2": "Saber Italic",
+        "candidate_font_3": "Prototype Italic",
+        "candidate_font_4": "Octin Sports Italic",
+        "candidate_font_5": "Exo 2 Bold Italic"
+    },
+    {
+        "task_id": "581806",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Montserrat",
+        "candidate_font_2": "Urbanist",
+        "candidate_font_3": "Lexend",
+        "candidate_font_4": "Poppins",
+        "candidate_font_5": "Nunito Sans"
+    },
+    {
+        "task_id": "581805",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Fredoka One",
+        "candidate_font_2": "Baloo 2 ExtraBold",
+        "candidate_font_3": "Bubblegum Sans",
+        "candidate_font_4": "Lilita One",
+        "candidate_font_5": "Chewy"
     }
 ]
