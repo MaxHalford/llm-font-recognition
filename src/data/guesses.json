@@ -50065,5 +50065,41 @@
         "candidate_font_3": "Headliner No. 45 Bold Italic",
         "candidate_font_4": "Octin Sports Free Oblique",
         "candidate_font_5": "Defrosted"
+    },
+    {
+        "task_id": "581794",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Special Elite",
+        "candidate_font_2": "Mom's Typewriter",
+        "candidate_font_3": "Old Typewriter",
+        "candidate_font_4": "American Typewriter",
+        "candidate_font_5": "Remington Noiseless"
+    },
+    {
+        "task_id": "581793",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "SF Sports Night",
+        "candidate_font_2": "College Block 2.0",
+        "candidate_font_3": "Team Spirit",
+        "candidate_font_4": "Octin Sports",
+        "candidate_font_5": "Varsity Team Font"
+    },
+    {
+        "task_id": "581792",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Octin Stencil",
+        "candidate_font_2": "United Sans Condensed Extra Bold",
+        "candidate_font_3": "",
+        "candidate_font_4": "",
+        "candidate_font_5": ""
+    },
+    {
+        "task_id": "581791",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Roboto",
+        "candidate_font_2": "Ubuntu",
+        "candidate_font_3": "Inter",
+        "candidate_font_4": "Open Sans",
+        "candidate_font_5": "Manrope"
     }
 ]
