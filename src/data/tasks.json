@@ -34422,5 +34422,21 @@
         "instructions": null,
         "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1229224.jpg",
         "identified_font": null
+    },
+    {
+        "task_id": "581796",
+        "url": "https://www.dafont.com/forum/read/581796/please-help-me-find-this-font",
+        "title": "Please help me find this font",
+        "instructions": "I really like the font and would like to use it. If you know what it is, it would help me a lot. Thank you!",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1229229.jpg",
+        "identified_font": null
+    },
+    {
+        "task_id": "581795",
+        "url": "https://www.dafont.com/forum/read/581795/font-please",
+        "title": "font? please",
+        "instructions": "is the pepero flavor font",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1229228.png",
+        "identified_font": null
     }
 ]
