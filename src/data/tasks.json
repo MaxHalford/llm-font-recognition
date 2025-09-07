@@ -34357,7 +34357,7 @@
         "title": "Trying to find this font",
         "instructions": "Hi, I would appreciate if someone can indetify the blue font in this book front page.",
         "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1229206.png",
-        "identified_font": null
+        "identified_font": "Dystopian Bold"
     },
     {
         "task_id": "581790",
@@ -34509,6 +34509,38 @@
         "title": "What Dafont please ?",
         "instructions": null,
         "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1229232.png",
+        "identified_font": null
+    },
+    {
+        "task_id": "581808",
+        "url": "https://www.dafont.com/forum/read/581808/swv-font",
+        "title": "SWV font",
+        "instructions": "Hi all,",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1229248.png",
+        "identified_font": null
+    },
+    {
+        "task_id": "581807",
+        "url": "https://www.dafont.com/forum/read/581807/cual-es-este-font",
+        "title": "Cual es este font?",
+        "instructions": null,
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1229247.png",
+        "identified_font": null
+    },
+    {
+        "task_id": "581806",
+        "url": "https://www.dafont.com/forum/read/581806/patrocinadores-font",
+        "title": "PATROCINADORES font?",
+        "instructions": null,
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1229246.jpg",
+        "identified_font": null
+    },
+    {
+        "task_id": "581805",
+        "url": "https://www.dafont.com/forum/read/581805/hello-what-font-is-used-in-this-image-please",
+        "title": "Hello, what font is used in this image please?",
+        "instructions": "Hejo Span den.wagen an",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1229244.jpg",
         "identified_font": null
     }
 ]
