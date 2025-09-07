@@ -34358,5 +34358,37 @@
         "instructions": "Hi, I would appreciate if someone can indetify the blue font in this book front page.",
         "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1229206.png",
         "identified_font": null
+    },
+    {
+        "task_id": "581790",
+        "url": "https://www.dafont.com/forum/read/581790/rare-ltd-logo-font-2015",
+        "title": "Rare LTD. - Logo Font (2015-)",
+        "instructions": null,
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1229223.png",
+        "identified_font": null
+    },
+    {
+        "task_id": "581787",
+        "url": "https://www.dafont.com/forum/read/581787/font",
+        "title": "font",
+        "instructions": null,
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1229216.png",
+        "identified_font": "Easterica"
+    },
+    {
+        "task_id": "581789",
+        "url": "https://www.dafont.com/forum/read/581789/can-someone-help-me-find-a-similar-font-or-if-possible-the-original-font",
+        "title": "Can someone help me find a similar font or, if possible, the original font?",
+        "instructions": null,
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1229219.jpg",
+        "identified_font": null
+    },
+    {
+        "task_id": "581788",
+        "url": "https://www.dafont.com/forum/read/581788/tittle-font-gabriela-katseye-please",
+        "title": "Tittle font \"GABRIELA\" katseye please",
+        "instructions": null,
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1229218.jpg",
+        "identified_font": null
     }
 ]
