@@ -34574,5 +34574,53 @@
         "instructions": null,
         "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1229252.jpg",
         "identified_font": null
+    },
+    {
+        "task_id": "581822",
+        "url": "https://www.dafont.com/forum/read/581822/fokd",
+        "title": "Fokd",
+        "instructions": null,
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1229269.jpg",
+        "identified_font": null
+    },
+    {
+        "task_id": "581821",
+        "url": "https://www.dafont.com/forum/read/581821/are-you-ok-font",
+        "title": "Are You OK ? Font",
+        "instructions": "I'm in a graphics group and I'm trying to help a fellow member ID this particular font.",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1229268.png",
+        "identified_font": null
+    },
+    {
+        "task_id": "581820",
+        "url": "https://www.dafont.com/forum/read/581820/font",
+        "title": "Font",
+        "instructions": null,
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1229267.jpg",
+        "identified_font": null
+    },
+    {
+        "task_id": "581819",
+        "url": "https://www.dafont.com/forum/read/581819/recherche-de-police-western",
+        "title": "recherche de police (Western)",
+        "instructions": "Bonjour,",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1229264.png",
+        "identified_font": "Mirisch"
+    },
+    {
+        "task_id": "581818",
+        "url": "https://www.dafont.com/forum/read/581818/john-cooper-works-anyone-please",
+        "title": "JOHN COOPER WORKS anyone please",
+        "instructions": null,
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1229263.png",
+        "identified_font": null
+    },
+    {
+        "task_id": "581817",
+        "url": "https://www.dafont.com/forum/read/581817/identify-font",
+        "title": "Identify font",
+        "instructions": "Help identifying font",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1229262.jpg",
+        "identified_font": null
     }
 ]
