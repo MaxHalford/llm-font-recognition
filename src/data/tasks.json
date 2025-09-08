@@ -34758,5 +34758,21 @@
         "instructions": "LAVANDA",
         "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1229292.jpg",
         "identified_font": null
+    },
+    {
+        "task_id": "581842",
+        "url": "https://www.dafont.com/forum/read/581842/official-membership",
+        "title": "OFFICIAL MEMBERSHIP",
+        "instructions": null,
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1229299.png",
+        "identified_font": null
+    },
+    {
+        "task_id": "581841",
+        "url": "https://www.dafont.com/forum/read/581841/please-help-me-with-font-s-name",
+        "title": "please help me with font's name",
+        "instructions": "please help me with font's name",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1229295.png",
+        "identified_font": null
     }
 ]
