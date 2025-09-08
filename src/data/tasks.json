@@ -34734,5 +34734,29 @@
         "instructions": null,
         "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1229287.jpg",
         "identified_font": null
+    },
+    {
+        "task_id": "581840",
+        "url": "https://www.dafont.com/forum/read/581840/art-deco-font",
+        "title": "Art Deco Font",
+        "instructions": "Appears to be a 1920s style art deco font? Thanks in advance.",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1229294.png",
+        "identified_font": null
+    },
+    {
+        "task_id": "581839",
+        "url": "https://www.dafont.com/forum/read/581839/what-font-is-this-please",
+        "title": "what font is this, please?",
+        "instructions": "RANA",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1229293.jpg",
+        "identified_font": null
+    },
+    {
+        "task_id": "581838",
+        "url": "https://www.dafont.com/forum/read/581838/what-font-is-this-please",
+        "title": "what font is this, please?",
+        "instructions": "LAVANDA",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1229292.jpg",
+        "identified_font": null
     }
 ]
