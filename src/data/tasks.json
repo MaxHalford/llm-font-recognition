@@ -34862,5 +34862,53 @@
         "instructions": "Can someone please help me identify the fonts used in this design? I would really appreciate it!",
         "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1229304.jpg",
         "identified_font": null
+    },
+    {
+        "task_id": "581859",
+        "url": "https://www.dafont.com/forum/read/581859/fonts-please",
+        "title": "Fonts please?",
+        "instructions": null,
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1229343.jpg",
+        "identified_font": null
+    },
+    {
+        "task_id": "581858",
+        "url": "https://www.dafont.com/forum/read/581858/help-me-to-find-this",
+        "title": "Help me to find this",
+        "instructions": null,
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1229340.jpg",
+        "identified_font": null
+    },
+    {
+        "task_id": "581857",
+        "url": "https://www.dafont.com/forum/read/581857/font",
+        "title": "Font?",
+        "instructions": null,
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1229339.jpg",
+        "identified_font": null
+    },
+    {
+        "task_id": "581856",
+        "url": "https://www.dafont.com/forum/read/581856/help-with-these-fonts-please",
+        "title": "Help with these fonts please",
+        "instructions": null,
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1229336.png",
+        "identified_font": null
+    },
+    {
+        "task_id": "581855",
+        "url": "https://www.dafont.com/forum/read/581855/help-with-this-font-please",
+        "title": "Help with this font please",
+        "instructions": null,
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1229335.png",
+        "identified_font": null
+    },
+    {
+        "task_id": "581854",
+        "url": "https://www.dafont.com/forum/read/581854/she-s-the-cherry-on-top",
+        "title": "She's the Cherry on top",
+        "instructions": "both fonts please",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1229334.png",
+        "identified_font": null
     }
 ]
