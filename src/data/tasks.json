@@ -34025,10 +34025,10 @@
     },
     {
         "task_id": "581740",
-        "url": "https://www.dafont.com/forum/read/581740/busco-esta-fuente-alguien-sabe-cual-es-i-m-looking-for-this-font-does-anyone-know-which-one-it-is",
-        "title": "Busco esta fuente, alguien sabe cual es? // I'm looking for this font, does anyone know which one it is?",
+        "url": "https://www.dafont.com/forum/read/581740/busco-esta-fuente-que-se-uso-en-el-primer-album-de-black-sabbath-alguien-sabe-cual-es",
+        "title": "Busco esta fuente que se uso en el primer album de Black Sabbath, alguien sabe cual es?",
         "instructions": null,
-        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1229115.png",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1229115.png?1",
         "identified_font": null
     },
     {
@@ -34589,7 +34589,7 @@
         "title": "Are You OK ? Font",
         "instructions": "I'm in a graphics group and I'm trying to help a fellow member ID this particular font.",
         "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1229268.png",
-        "identified_font": null
+        "identified_font": "Greyhound"
     },
     {
         "task_id": "581820",
@@ -34628,7 +34628,7 @@
         "url": "https://www.dafont.com/forum/read/581824/id-font",
         "title": "ID FONT?",
         "instructions": null,
-        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1229272.png",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1229272.png?1",
         "identified_font": null
     },
     {
@@ -34661,6 +34661,46 @@
         "title": "Font farcry credits",
         "instructions": null,
         "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1229270.jpg",
+        "identified_font": null
+    },
+    {
+        "task_id": "581833",
+        "url": "https://www.dafont.com/forum/read/581833/disputa-de",
+        "title": "Disputa de",
+        "instructions": "Hello! Can anyone please help me identify what typeface was used here? Thanks in advance!",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1229285.png",
+        "identified_font": null
+    },
+    {
+        "task_id": "581832",
+        "url": "https://www.dafont.com/forum/read/581832/boss-riize",
+        "title": "BOSS RIIZE",
+        "instructions": null,
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1229283.png?1",
+        "identified_font": null
+    },
+    {
+        "task_id": "581831",
+        "url": "https://www.dafont.com/forum/read/581831/arcadia-chen",
+        "title": "ARCADIA CHEN",
+        "instructions": null,
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1229282.jpg",
+        "identified_font": null
+    },
+    {
+        "task_id": "581830",
+        "url": "https://www.dafont.com/forum/read/581830/does-anyone-know-this-font-adventure-time-saw-game",
+        "title": "Does anyone know this font? (adventure time saw game)",
+        "instructions": null,
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1229281.png",
+        "identified_font": null
+    },
+    {
+        "task_id": "581829",
+        "url": "https://www.dafont.com/forum/read/581829/banks-off-with-her-head-banks-font",
+        "title": "Banks - Off With Her Head \"Banks\" font",
+        "instructions": "what font is this?",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1229280.jpg",
         "identified_font": null
     }
 ]
