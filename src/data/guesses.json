@@ -50308,5 +50308,50 @@
         "candidate_font_3": "Magnolia Sky",
         "candidate_font_4": "The Quickest",
         "candidate_font_5": "Lemon Milkshake"
+    },
+    {
+        "task_id": "581824",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Carnivalee Freakshow",
+        "candidate_font_2": "Rodeo Roundup",
+        "candidate_font_3": "Showboat",
+        "candidate_font_4": "Mesquite Std",
+        "candidate_font_5": "Pescadero"
+    },
+    {
+        "task_id": "581828",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Pricedown",
+        "candidate_font_2": "Impact",
+        "candidate_font_3": "Road Rage",
+        "candidate_font_4": "Bebas Kai Bold",
+        "candidate_font_5": "Headliner No. 45"
+    },
+    {
+        "task_id": "581826",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Circular Std",
+        "candidate_font_2": "Rubik",
+        "candidate_font_3": "Proxima Nova",
+        "candidate_font_4": "Montserrat",
+        "candidate_font_5": "Open Sans"
+    },
+    {
+        "task_id": "581825",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Blacksword",
+        "candidate_font_2": "Montserrat Bold",
+        "candidate_font_3": "Montserrat Regular",
+        "candidate_font_4": "SF Pro Text",
+        "candidate_font_5": "Gotham Bold"
+    },
+    {
+        "task_id": "581823",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Univers",
+        "candidate_font_2": "FF Meta",
+        "candidate_font_3": "Swiss 721 BT",
+        "candidate_font_4": "Source Sans Pro",
+        "candidate_font_5": "Roboto"
     }
 ]
