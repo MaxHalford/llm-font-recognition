@@ -34702,5 +34702,37 @@
         "instructions": "what font is this?",
         "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1229280.jpg",
         "identified_font": null
+    },
+    {
+        "task_id": "581837",
+        "url": "https://www.dafont.com/forum/read/581837/what-font-is-featured-in-this-book",
+        "title": "what font is featured in this book ?",
+        "instructions": "the abraham van helsing part is what im curious about, as it looks like it should be in the old timey section..",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1229290.png",
+        "identified_font": null
+    },
+    {
+        "task_id": "581836",
+        "url": "https://www.dafont.com/forum/read/581836/what-font-is-this",
+        "title": "What font is this",
+        "instructions": "What font is this",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1229289.png?1",
+        "identified_font": null
+    },
+    {
+        "task_id": "581835",
+        "url": "https://www.dafont.com/forum/read/581835/what-font-is-thid",
+        "title": "What font is thid",
+        "instructions": "What font is this",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1229288.jpg",
+        "identified_font": null
+    },
+    {
+        "task_id": "581834",
+        "url": "https://www.dafont.com/forum/read/581834/what-are-the-fonts-tia",
+        "title": "What are the fonts? TIA",
+        "instructions": null,
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1229287.jpg",
+        "identified_font": null
     }
 ]
