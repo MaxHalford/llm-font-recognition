@@ -34622,5 +34622,45 @@
         "instructions": "Help identifying font",
         "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1229262.jpg",
         "identified_font": null
+    },
+    {
+        "task_id": "581824",
+        "url": "https://www.dafont.com/forum/read/581824/id-font",
+        "title": "ID FONT?",
+        "instructions": null,
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1229272.png",
+        "identified_font": null
+    },
+    {
+        "task_id": "581828",
+        "url": "https://www.dafont.com/forum/read/581828/what-is-the-font-of-the-image",
+        "title": "What is the font of the image?",
+        "instructions": null,
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1229278.jpg",
+        "identified_font": null
+    },
+    {
+        "task_id": "581826",
+        "url": "https://www.dafont.com/forum/read/581826/anyone-know-the-new-great-network-font",
+        "title": "Anyone know the new GREAT! network font?",
+        "instructions": "I need to know the font for me, please?",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1229276.png",
+        "identified_font": null
+    },
+    {
+        "task_id": "581825",
+        "url": "https://www.dafont.com/forum/read/581825/what-the-font-kicking",
+        "title": "WHAT THE FONT 'KICKING\"",
+        "instructions": null,
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1229275.jpg",
+        "identified_font": null
+    },
+    {
+        "task_id": "581823",
+        "url": "https://www.dafont.com/forum/read/581823/font-farcry-credits",
+        "title": "Font farcry credits",
+        "instructions": null,
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1229270.jpg",
+        "identified_font": null
     }
 ]
