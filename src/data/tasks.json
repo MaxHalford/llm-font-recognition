@@ -28812,7 +28812,7 @@
         "url": "https://www.dafont.com/forum/read/581037/chainsaw-man",
         "title": "Chainsaw Man",
         "instructions": "I need to find the font used here. It's used both in this Chainsaw Man album, and also in the Alice in Borderland logo (\"in Borderland\" text at the end of the first opening). Thanks.",
-        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1227724.png",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1227724.png?1",
         "identified_font": "American Text"
     },
     {
@@ -34910,5 +34910,85 @@
         "instructions": "both fonts please",
         "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1229334.png",
         "identified_font": null
+    },
+    {
+        "task_id": "581869",
+        "url": "https://www.dafont.com/forum/read/581869/font-i",
+        "title": "Font i",
+        "instructions": null,
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1229360.jpg",
+        "identified_font": null
+    },
+    {
+        "task_id": "581861",
+        "url": "https://www.dafont.com/forum/read/581861/winx-club-album-title",
+        "title": "Winx Club Album Title",
+        "instructions": "\"Forever Winx\"",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1229346.jpg",
+        "identified_font": null
+    },
+    {
+        "task_id": "581868",
+        "url": "https://www.dafont.com/forum/read/581868/font-7",
+        "title": "Font 7",
+        "instructions": null,
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1229356.jpg",
+        "identified_font": null
+    },
+    {
+        "task_id": "581867",
+        "url": "https://www.dafont.com/forum/read/581867/font",
+        "title": "Font",
+        "instructions": null,
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1229355.jpg",
+        "identified_font": null
+    },
+    {
+        "task_id": "581866",
+        "url": "https://www.dafont.com/forum/read/581866/font",
+        "title": "Font",
+        "instructions": null,
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1229354.jpg",
+        "identified_font": null
+    },
+    {
+        "task_id": "581865",
+        "url": "https://www.dafont.com/forum/read/581865/font",
+        "title": "Font",
+        "instructions": null,
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1229353.jpg",
+        "identified_font": null
+    },
+    {
+        "task_id": "581864",
+        "url": "https://www.dafont.com/forum/read/581864/font",
+        "title": "Font",
+        "instructions": null,
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1229352.jpg",
+        "identified_font": null
+    },
+    {
+        "task_id": "581863",
+        "url": "https://www.dafont.com/forum/read/581863/font",
+        "title": "Font",
+        "instructions": null,
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1229350.jpg",
+        "identified_font": null
+    },
+    {
+        "task_id": "464694",
+        "url": "https://www.dafont.com/forum/read/464694/font-finder-by-image",
+        "title": "Font finder by image",
+        "instructions": "Hi guys:",
+        "img_url": "https://www.dafont.com/forum/attach/orig/9/9/991044.png?1",
+        "identified_font": "Impact"
+    },
+    {
+        "task_id": "581862",
+        "url": "https://www.dafont.com/forum/read/581862/font",
+        "title": "Font",
+        "instructions": null,
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1229347.png",
+        "identified_font": "VAG Rounded"
     }
 ]
