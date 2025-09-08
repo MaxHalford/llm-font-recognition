@@ -50353,5 +50353,50 @@
         "candidate_font_3": "Swiss 721 BT",
         "candidate_font_4": "Source Sans Pro",
         "candidate_font_5": "Roboto"
+    },
+    {
+        "task_id": "581833",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Anisha Script",
+        "candidate_font_2": "Bromello",
+        "candidate_font_3": "Lemon Tuesday",
+        "candidate_font_4": "Pacifico",
+        "candidate_font_5": "Dancing Script"
+    },
+    {
+        "task_id": "581832",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Comix Loud",
+        "candidate_font_2": "Comix Heavy",
+        "candidate_font_3": "Lilita One",
+        "candidate_font_4": "Luckiest Guy",
+        "candidate_font_5": "Bubblegum Sans"
+    },
+    {
+        "task_id": "581831",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Arcade Outline",
+        "candidate_font_2": "Game Over Outline",
+        "candidate_font_3": "Superstar M54 Outline",
+        "candidate_font_4": "SF Collegiate Solid Outline",
+        "candidate_font_5": "College Outline"
+    },
+    {
+        "task_id": "581830",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Porky's",
+        "candidate_font_2": "Bangers",
+        "candidate_font_3": "Luckiest Guy",
+        "candidate_font_4": "Chewy",
+        "candidate_font_5": "Bubblegum Sans"
+    },
+    {
+        "task_id": "581829",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Engravers Old English",
+        "candidate_font_2": "Old English Text MT",
+        "candidate_font_3": "Goudy Text",
+        "candidate_font_4": "Cloister Black",
+        "candidate_font_5": "Pfeffer Medi\u00e4val"
     }
 ]
