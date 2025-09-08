@@ -50434,5 +50434,32 @@
         "candidate_font_3": "Montserrat Light",
         "candidate_font_4": "Lato Regular",
         "candidate_font_5": "Roadgeek 2005 Series C"
+    },
+    {
+        "task_id": "581840",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Riesling",
+        "candidate_font_2": "Empire State",
+        "candidate_font_3": "Ritz Relief",
+        "candidate_font_4": "Broadway",
+        "candidate_font_5": "Charleston"
+    },
+    {
+        "task_id": "581839",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "LHF Confection",
+        "candidate_font_2": "Mesquite Std",
+        "candidate_font_3": "Blackwood",
+        "candidate_font_4": "Ponderosa Bold Italic",
+        "candidate_font_5": "Windsor Bold Italic"
+    },
+    {
+        "task_id": "581838",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Lavanda Signature",
+        "candidate_font_2": "Stay Grateful",
+        "candidate_font_3": "Adelios Signature",
+        "candidate_font_4": "Bresley Script",
+        "candidate_font_5": "Bridgette Script"
     }
 ]
