@@ -50569,5 +50569,59 @@
         "candidate_font_3": "Magnificent",
         "candidate_font_4": "Montserrat",
         "candidate_font_5": "Open Sans Light"
+    },
+    {
+        "task_id": "581859",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Magnolia Sky",
+        "candidate_font_2": "Open Sans",
+        "candidate_font_3": "",
+        "candidate_font_4": "",
+        "candidate_font_5": ""
+    },
+    {
+        "task_id": "581858",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Requiem Display",
+        "candidate_font_2": "LTC Didot",
+        "candidate_font_3": "Bodoni Moda",
+        "candidate_font_4": "Filosofia Grande",
+        "candidate_font_5": "Didonesque Display"
+    },
+    {
+        "task_id": "581857",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Fredoka One",
+        "candidate_font_2": "VAG Rounded",
+        "candidate_font_3": "Baloo Chettan 2",
+        "candidate_font_4": "Comfortaa",
+        "candidate_font_5": "Poetsen One"
+    },
+    {
+        "task_id": "581856",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Didot LT Std Roman",
+        "candidate_font_2": "Bodoni Std Poster",
+        "candidate_font_3": "Walbaum Std Bold",
+        "candidate_font_4": "Freight Big Black",
+        "candidate_font_5": "Proxima Nova Bold"
+    },
+    {
+        "task_id": "581855",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Futura Black Oblique",
+        "candidate_font_2": "Univers 85 Extra Black Oblique",
+        "candidate_font_3": "Trade Gothic Next Heavy Italic",
+        "candidate_font_4": "DIN 1451 Std Mittelschrift Italic",
+        "candidate_font_5": "Avant Garde Gothic Std Extra Bold Oblique"
+    },
+    {
+        "task_id": "581854",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Modern No. 20",
+        "candidate_font_2": "Alex Brush",
+        "candidate_font_3": "Bodoni",
+        "candidate_font_4": "Didot",
+        "candidate_font_5": "Great Vibes"
     }
 ]
