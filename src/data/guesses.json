@@ -50461,5 +50461,23 @@
         "candidate_font_3": "Adelios Signature",
         "candidate_font_4": "Bresley Script",
         "candidate_font_5": "Bridgette Script"
+    },
+    {
+        "task_id": "581842",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Playfair Display",
+        "candidate_font_2": "Butler",
+        "candidate_font_3": "Prata",
+        "candidate_font_4": "Didot",
+        "candidate_font_5": "Bodoni"
+    },
+    {
+        "task_id": "581841",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "P22 Declaration Italic",
+        "candidate_font_2": "Garamond Italic",
+        "candidate_font_3": "Galliard Italic",
+        "candidate_font_4": "Sabon Italic",
+        "candidate_font_5": "Adobe Jenson Italic"
     }
 ]
