@@ -50398,5 +50398,41 @@
         "candidate_font_3": "Goudy Text",
         "candidate_font_4": "Cloister Black",
         "candidate_font_5": "Pfeffer Medi\u00e4val"
+    },
+    {
+        "task_id": "581837",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Drakon",
+        "candidate_font_2": "Old English Text MT",
+        "candidate_font_3": "Cloister Black",
+        "candidate_font_4": "Fette Fraktur",
+        "candidate_font_5": "Canterbury"
+    },
+    {
+        "task_id": "581836",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Permanent Marker",
+        "candidate_font_2": "Kids Marker",
+        "candidate_font_3": "KG Red Hands",
+        "candidate_font_4": "Coming Soon",
+        "candidate_font_5": "Patrick Hand"
+    },
+    {
+        "task_id": "581835",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Marker Felt",
+        "candidate_font_2": "Whiteboard Modern",
+        "candidate_font_3": "Architects Daughter",
+        "candidate_font_4": "Coming Soon",
+        "candidate_font_5": "Patrick Hand"
+    },
+    {
+        "task_id": "581834",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Headliner No. 45",
+        "candidate_font_2": "Exo 2 Semi Bold Italic",
+        "candidate_font_3": "Montserrat Light",
+        "candidate_font_4": "Lato Regular",
+        "candidate_font_5": "Roadgeek 2005 Series C"
     }
 ]
