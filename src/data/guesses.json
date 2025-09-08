@@ -50479,5 +50479,95 @@
         "candidate_font_3": "Galliard Italic",
         "candidate_font_4": "Sabon Italic",
         "candidate_font_5": "Adobe Jenson Italic"
+    },
+    {
+        "task_id": "581853",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Cheltenham Bold",
+        "candidate_font_2": "ITC Clearface Heavy",
+        "candidate_font_3": "Bookman Old Style Bold",
+        "candidate_font_4": "Nimbus Sans L Regular",
+        "candidate_font_5": "Univers Light"
+    },
+    {
+        "task_id": "581852",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Univers 55",
+        "candidate_font_2": "Univers 67 Condensed Bold",
+        "candidate_font_3": "Gill Sans Light",
+        "candidate_font_4": "Helvetica Neue Light",
+        "candidate_font_5": "Trade Gothic Light"
+    },
+    {
+        "task_id": "581851",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Lovely Home",
+        "candidate_font_2": "Dancing Script",
+        "candidate_font_3": "Pacifico",
+        "candidate_font_4": "Magnolia Sky",
+        "candidate_font_5": "Better Together"
+    },
+    {
+        "task_id": "566506",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Playfair Display",
+        "candidate_font_2": "Didot",
+        "candidate_font_3": "Bodoni",
+        "candidate_font_4": "Luxia Display",
+        "candidate_font_5": "Cormorant Garamond"
+    },
+    {
+        "task_id": "581849",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Alien Encounters Bold",
+        "candidate_font_2": "SF Transrobotics",
+        "candidate_font_3": "Digital Dismay",
+        "candidate_font_4": "Pricedown",
+        "candidate_font_5": "Squarehead"
+    },
+    {
+        "task_id": "581848",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Open Sans",
+        "candidate_font_2": "Roboto",
+        "candidate_font_3": "Source Sans Pro",
+        "candidate_font_4": "Inter",
+        "candidate_font_5": "Montserrat"
+    },
+    {
+        "task_id": "581847",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Teko",
+        "candidate_font_2": "Squada One",
+        "candidate_font_3": "Anton",
+        "candidate_font_4": "Vremena Grotesk Condensed Black",
+        "candidate_font_5": "Impact"
+    },
+    {
+        "task_id": "581846",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Gobold Extra Bold",
+        "candidate_font_2": "Intro Black",
+        "candidate_font_3": "Bebas Neue Bold",
+        "candidate_font_4": "Oswald Bold",
+        "candidate_font_5": "Broken Wings"
+    },
+    {
+        "task_id": "581845",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Dirtyline",
+        "candidate_font_2": "Vesna",
+        "candidate_font_3": "Luxurious",
+        "candidate_font_4": "Gotham Light",
+        "candidate_font_5": "Montserrat Light"
+    },
+    {
+        "task_id": "581844",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "GoBold Black",
+        "candidate_font_2": "The Bold Street",
+        "candidate_font_3": "Magnificent",
+        "candidate_font_4": "Montserrat",
+        "candidate_font_5": "Open Sans Light"
     }
 ]
