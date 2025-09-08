@@ -50623,5 +50623,77 @@
         "candidate_font_3": "Bodoni",
         "candidate_font_4": "Didot",
         "candidate_font_5": "Great Vibes"
+    },
+    {
+        "task_id": "581869",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Akzidenz-Grotesk Condensed Extra Bold",
+        "candidate_font_2": "Trade Gothic Bold Extended",
+        "candidate_font_3": "Franklin Gothic Heavy",
+        "candidate_font_4": "Microgramma Bold Extended",
+        "candidate_font_5": "Univers 77 Black Condensed"
+    },
+    {
+        "task_id": "581861",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "VAG Rounded Bold",
+        "candidate_font_2": "Gotham Rounded Black",
+        "candidate_font_3": "Quicksand Bold",
+        "candidate_font_4": "Montserrat Black",
+        "candidate_font_5": "Lato Black"
+    },
+    {
+        "task_id": "581868",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Adobe Garamond Pro",
+        "candidate_font_2": "Tw Cen MT Condensed",
+        "candidate_font_3": "Franklin Gothic Condensed",
+        "candidate_font_4": "Montserrat Black",
+        "candidate_font_5": "Source Sans Pro Semibold"
+    },
+    {
+        "task_id": "581867",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Calibri",
+        "candidate_font_2": "Segoe UI",
+        "candidate_font_3": "Open Sans",
+        "candidate_font_4": "Lato",
+        "candidate_font_5": "Roboto"
+    },
+    {
+        "task_id": "581866",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Komika Title",
+        "candidate_font_2": "Bangers",
+        "candidate_font_3": "Fredoka One",
+        "candidate_font_4": "Nexa Bold",
+        "candidate_font_5": "Luckiest Guy"
+    },
+    {
+        "task_id": "581865",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Montserrat ExtraBold",
+        "candidate_font_2": "PT Serif Bold",
+        "candidate_font_3": "Times New Roman",
+        "candidate_font_4": "Nunito Sans ExtraBold",
+        "candidate_font_5": "Literata Bold"
+    },
+    {
+        "task_id": "581864",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "DIN 1451",
+        "candidate_font_2": "Akzidenz-Grotesk Super",
+        "candidate_font_3": "Akzidenz-Grotesk Condensed Bold",
+        "candidate_font_4": "Standard CT Heavy",
+        "candidate_font_5": "Bahnschrift"
+    },
+    {
+        "task_id": "581863",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Univers 65 Bold",
+        "candidate_font_2": "Univers 55 Roman",
+        "candidate_font_3": "Univers 57 Condensed",
+        "candidate_font_4": "Folio Bold",
+        "candidate_font_5": "Akzidenz-Grotesk Bold"
     }
 ]
