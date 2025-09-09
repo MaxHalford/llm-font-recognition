@@ -34580,8 +34580,8 @@
         "url": "https://www.dafont.com/forum/read/581822/fokd",
         "title": "Fokd",
         "instructions": null,
-        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1229269.jpg",
-        "identified_font": null
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1229269.png?3",
+        "identified_font": "Cooper Black"
     },
     {
         "task_id": "581821",
@@ -35181,6 +35181,46 @@
         "title": "What font is at the top saying \"tris\"",
         "instructions": null,
         "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1229399.png",
+        "identified_font": null
+    },
+    {
+        "task_id": "581900",
+        "url": "https://www.dafont.com/forum/read/581900/font-by-shadowbyyoongi",
+        "title": "FONT BY SHADOWBYYOONGI",
+        "instructions": "Tittle font",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1229418.jpg",
+        "identified_font": "Oak Magic Mushroom"
+    },
+    {
+        "task_id": "581899",
+        "url": "https://www.dafont.com/forum/read/581899/police-devanture-magasin",
+        "title": "Police devanture magasin",
+        "instructions": "Bonjour,",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1229417.jpg",
+        "identified_font": null
+    },
+    {
+        "task_id": "581897",
+        "url": "https://www.dafont.com/forum/read/581897/font",
+        "title": "Font",
+        "instructions": null,
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1229413.jpg",
+        "identified_font": null
+    },
+    {
+        "task_id": "581895",
+        "url": "https://www.dafont.com/forum/read/581895/norma-jeane-help",
+        "title": "Norma Jeane, help!",
+        "instructions": "Any ideas?",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1229411.png",
+        "identified_font": null
+    },
+    {
+        "task_id": "581894",
+        "url": "https://www.dafont.com/forum/read/581894/what-font-is-it",
+        "title": "What font is it?",
+        "instructions": "What font is it?",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1229410.png?1",
         "identified_font": null
     }
 ]
