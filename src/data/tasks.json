@@ -7516,7 +7516,7 @@
         "url": "https://www.dafont.com/forum/read/577835/una-mas-clara",
         "title": "Una m\u00e1s Clara",
         "instructions": "Font de 'Castillo Alfa'",
-        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1221043.jpg",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1221043.png?1",
         "identified_font": null
     },
     {
@@ -35013,7 +35013,7 @@
         "title": "Camila Housing Authority font?",
         "instructions": "Does anyone know the name for this font?",
         "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1229363.png",
-        "identified_font": null
+        "identified_font": "Berlin Sans Roman"
     },
     {
         "task_id": "497559",
@@ -35045,7 +35045,7 @@
         "title": "A font name",
         "instructions": "Hi!  Who knows A font name? Thanks",
         "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1229387.png?1",
-        "identified_font": null
+        "identified_font": "Ethnocentric"
     },
     {
         "task_id": "581886",
@@ -35237,7 +35237,7 @@
         "title": "Need font name",
         "instructions": "Anyone know what font the BUTCH's text is called?",
         "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1229433.png",
-        "identified_font": null
+        "identified_font": "Bauhaus"
     },
     {
         "task_id": "581905",
@@ -35269,6 +35269,86 @@
         "title": "art basel",
         "instructions": null,
         "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1229420.png",
+        "identified_font": null
+    },
+    {
+        "task_id": "581920",
+        "url": "https://www.dafont.com/forum/read/581920/font-pls",
+        "title": "font pls",
+        "instructions": "font pls",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1229458.jpg",
+        "identified_font": null
+    },
+    {
+        "task_id": "581919",
+        "url": "https://www.dafont.com/forum/read/581919/what-is-the-font-for-tbn",
+        "title": "What is the font for TBN?",
+        "instructions": null,
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1229457.png",
+        "identified_font": null
+    },
+    {
+        "task_id": "581916",
+        "url": "https://www.dafont.com/forum/read/581916/rathee-fx",
+        "title": "RATHEE FX",
+        "instructions": null,
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1229454.jpg",
+        "identified_font": null
+    },
+    {
+        "task_id": "581915",
+        "url": "https://www.dafont.com/forum/read/581915/font-id",
+        "title": "Font ID?",
+        "instructions": "Does anyone recognize the font on this hat?",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1229453.jpg",
+        "identified_font": null
+    },
+    {
+        "task_id": "581914",
+        "url": "https://www.dafont.com/forum/read/581914/solace",
+        "title": "SOLACE",
+        "instructions": null,
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1229451.png",
+        "identified_font": null
+    },
+    {
+        "task_id": "581913",
+        "url": "https://www.dafont.com/forum/read/581913/font-used-in-ivtre",
+        "title": "Font used in IVTRE",
+        "instructions": "Hello! Can you please help me identify this font? Thanks!",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1229449.jpg",
+        "identified_font": null
+    },
+    {
+        "task_id": "581911",
+        "url": "https://www.dafont.com/forum/read/581911/what-s-the-font-please",
+        "title": "What's the font please",
+        "instructions": null,
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1229444.png",
+        "identified_font": null
+    },
+    {
+        "task_id": "581910",
+        "url": "https://www.dafont.com/forum/read/581910/did-anyone-know-this-font-is",
+        "title": "Did anyone know this font is?",
+        "instructions": null,
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1229443.png",
+        "identified_font": null
+    },
+    {
+        "task_id": "581908",
+        "url": "https://www.dafont.com/forum/read/581908/could-someone-identify-this-font-it-looks-like-it-could-ve-been-manually-condensed",
+        "title": "could someone identify this font? it looks like it could've been manually condensed.",
+        "instructions": "additional details: the 'C' looks like futura's C, and the lower-angle/corner of '5' doesn't 'poke outwards', i.e. it looks flat. also, the number '0' has a diagonal dash inside it, and '1' has a serif and a horizontal line at the bottom (excuse me, i couldn't find the proper term).",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1229435.png",
+        "identified_font": null
+    },
+    {
+        "task_id": "581909",
+        "url": "https://www.dafont.com/forum/read/581909/hellos-font-de-este-logo-porfavof",
+        "title": "Hellos, font de este logo porfavof??",
+        "instructions": "Buenas, Algui\u00e9n me podr\u00eda decir las font de este hermoso logo porfavor?",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1229436.png",
         "identified_font": null
     }
 ]
