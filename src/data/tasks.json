@@ -34636,7 +34636,7 @@
         "url": "https://www.dafont.com/forum/read/581828/what-is-the-font-of-the-image",
         "title": "What is the font of the image?",
         "instructions": null,
-        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1229278.jpg",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1229278.png?1",
         "identified_font": null
     },
     {
@@ -35060,8 +35060,8 @@
         "url": "https://www.dafont.com/forum/read/581884/what-font-is-this",
         "title": "What font is this?",
         "instructions": null,
-        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1229382.jpg",
-        "identified_font": null
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1229382.png?1",
+        "identified_font": "Noteworthy"
     },
     {
         "task_id": "581883",
@@ -35197,7 +35197,7 @@
         "title": "Police devanture magasin",
         "instructions": "Bonjour,",
         "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1229417.jpg",
-        "identified_font": null
+        "identified_font": "Smile of the Ocean"
     },
     {
         "task_id": "581897",
@@ -35341,7 +35341,7 @@
         "title": "could someone identify this font? it looks like it could've been manually condensed.",
         "instructions": "additional details: the 'C' looks like futura's C, and the lower-angle/corner of '5' doesn't 'poke outwards', i.e. it looks flat. also, the number '0' has a diagonal dash inside it, and '1' has a serif and a horizontal line at the bottom (excuse me, i couldn't find the proper term).",
         "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1229435.png",
-        "identified_font": null
+        "identified_font": "Consolas"
     },
     {
         "task_id": "581909",
@@ -35349,6 +35349,94 @@
         "title": "Hellos, font de este logo porfavof??",
         "instructions": "Buenas, Algui\u00e9n me podr\u00eda decir las font de este hermoso logo porfavor?",
         "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1229436.png",
+        "identified_font": null
+    },
+    {
+        "task_id": "581935",
+        "url": "https://www.dafont.com/forum/read/581935/help",
+        "title": "help",
+        "instructions": null,
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1229482.png",
+        "identified_font": null
+    },
+    {
+        "task_id": "581934",
+        "url": "https://www.dafont.com/forum/read/581934/font",
+        "title": "Font",
+        "instructions": null,
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1229481.jpg",
+        "identified_font": null
+    },
+    {
+        "task_id": "581933",
+        "url": "https://www.dafont.com/forum/read/581933/font",
+        "title": "Font",
+        "instructions": null,
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1229480.jpg",
+        "identified_font": null
+    },
+    {
+        "task_id": "581932",
+        "url": "https://www.dafont.com/forum/read/581932/font",
+        "title": "Font",
+        "instructions": null,
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1229478.jpg",
+        "identified_font": null
+    },
+    {
+        "task_id": "581931",
+        "url": "https://www.dafont.com/forum/read/581931/font",
+        "title": "Font",
+        "instructions": null,
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1229477.jpg",
+        "identified_font": null
+    },
+    {
+        "task_id": "581930",
+        "url": "https://www.dafont.com/forum/read/581930/fonte",
+        "title": "Fonte",
+        "instructions": "ALGU\u00c9M SABE ME DIZER QUE FONTE SERIA ESSA?",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1229476.png",
+        "identified_font": null
+    },
+    {
+        "task_id": "581929",
+        "url": "https://www.dafont.com/forum/read/581929/font-please",
+        "title": "Font please?",
+        "instructions": null,
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1229475.jpg?1",
+        "identified_font": null
+    },
+    {
+        "task_id": "581926",
+        "url": "https://www.dafont.com/forum/read/581926/cute-font",
+        "title": "Cute Font",
+        "instructions": "Hai guys... these day i saw v-tuber use cute font, like image below.",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1229466.png",
+        "identified_font": null
+    },
+    {
+        "task_id": "581925",
+        "url": "https://www.dafont.com/forum/read/581925/font",
+        "title": "font",
+        "instructions": "help me, thanks!!",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1229464.jpg",
+        "identified_font": null
+    },
+    {
+        "task_id": "581923",
+        "url": "https://www.dafont.com/forum/read/581923/font",
+        "title": "Font?",
+        "instructions": "Fuentes de \"Mi nieta es \" y de \"Ingeniera\"?",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1229461.jpg",
+        "identified_font": null
+    },
+    {
+        "task_id": "581921",
+        "url": "https://www.dafont.com/forum/read/581921/quelle-est-cette-police",
+        "title": "Quelle est cette police ?",
+        "instructions": null,
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1229459.png",
         "identified_font": null
     }
 ]
