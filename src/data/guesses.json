@@ -50749,5 +50749,104 @@
         "candidate_font_3": "Fredoka One",
         "candidate_font_4": "Open Sans Bold",
         "candidate_font_5": "Arial Narrow Bold"
+    },
+    {
+        "task_id": "581887",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Ethnocentric",
+        "candidate_font_2": "SF Hyperspace",
+        "candidate_font_3": "Prototype",
+        "candidate_font_4": "Optimus Princeps",
+        "candidate_font_5": "Blender Pro"
+    },
+    {
+        "task_id": "581886",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Requiem Text",
+        "candidate_font_2": "Trajan Pro",
+        "candidate_font_3": "Augusta",
+        "candidate_font_4": "Cinzel Decorative",
+        "candidate_font_5": "Palatino Linotype"
+    },
+    {
+        "task_id": "581884",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Wondertruck",
+        "candidate_font_2": "Action Is",
+        "candidate_font_3": "Porkys",
+        "candidate_font_4": "Cream Cake Outline",
+        "candidate_font_5": "Groovy"
+    },
+    {
+        "task_id": "581883",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Old English Text MT",
+        "candidate_font_2": "Linotext",
+        "candidate_font_3": "Cloister Black",
+        "candidate_font_4": "Fette Fraktur",
+        "candidate_font_5": "Gothic Text"
+    },
+    {
+        "task_id": "581882",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "LHF Absinthe",
+        "candidate_font_2": "LHF Royal Script",
+        "candidate_font_3": "Didot",
+        "candidate_font_4": "Bodoni",
+        "candidate_font_5": "Affectionately Yours"
+    },
+    {
+        "task_id": "581881",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "SignPainter House Script",
+        "candidate_font_2": "Eurostile Extended Black",
+        "candidate_font_3": "Helvetica Bold",
+        "candidate_font_4": "Impact",
+        "candidate_font_5": "Agency FB Medium"
+    },
+    {
+        "task_id": "581879",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Rubik Black",
+        "candidate_font_2": "Montserrat Black",
+        "candidate_font_3": "Gotham Ultra",
+        "candidate_font_4": "Open Sans ExtraBold",
+        "candidate_font_5": "Roboto Black"
+    },
+    {
+        "task_id": "581878",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Groovy (Roger S. Birt)",
+        "candidate_font_2": "Vectro",
+        "candidate_font_3": "Phat Boi",
+        "candidate_font_4": "Marquee Flash",
+        "candidate_font_5": "Pump House"
+    },
+    {
+        "task_id": "581877",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Fruity Loops",
+        "candidate_font_2": "Cream Cake",
+        "candidate_font_3": "Retro Vibes",
+        "candidate_font_4": "Love Bus",
+        "candidate_font_5": "Groovy Disco"
+    },
+    {
+        "task_id": "581876",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Futura Extra Bold",
+        "candidate_font_2": "Gotham Black",
+        "candidate_font_3": "Montserrat Black",
+        "candidate_font_4": "Avenir Heavy",
+        "candidate_font_5": "Proxima Nova Black"
+    },
+    {
+        "task_id": "581875",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Anton",
+        "candidate_font_2": "Bebas Neue",
+        "candidate_font_3": "League Gothic",
+        "candidate_font_4": "Gobold High Bold",
+        "candidate_font_5": "Compacta Bold"
     }
 ]
