@@ -50911,5 +50911,41 @@
         "candidate_font_3": "Apex New Bold",
         "candidate_font_4": "Univers LT Std 65 Bold",
         "candidate_font_5": "Frutiger LT Std 65 Bold"
+    },
+    {
+        "task_id": "581899",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Samantha Script",
+        "candidate_font_2": "Adelicia Script",
+        "candidate_font_3": "Delisha Script",
+        "candidate_font_4": "Harlott",
+        "candidate_font_5": "Great Vibes"
+    },
+    {
+        "task_id": "581897",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Baskerville",
+        "candidate_font_2": "Georgia",
+        "candidate_font_3": "Times New Roman",
+        "candidate_font_4": "UnifrakturMaguntia",
+        "candidate_font_5": "Alte Schwabacher"
+    },
+    {
+        "task_id": "581895",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Monogram Hand Script",
+        "candidate_font_2": "Brilliant Signature",
+        "candidate_font_3": "Adelia Moana",
+        "candidate_font_4": "Rolling Scrabble",
+        "candidate_font_5": "Scriptina"
+    },
+    {
+        "task_id": "581894",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Kids Playtime",
+        "candidate_font_2": "Schoolkid Markers",
+        "candidate_font_3": "Janda Scrappy",
+        "candidate_font_4": "Always Here",
+        "candidate_font_5": "KG Red Hands"
     }
 ]
