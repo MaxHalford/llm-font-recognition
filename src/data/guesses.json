@@ -51181,5 +51181,59 @@
         "candidate_font_3": "Stay Grateful",
         "candidate_font_4": "Lemon Tuesday",
         "candidate_font_5": "Sugarlicious"
+    },
+    {
+        "task_id": "581940",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Montserrat",
+        "candidate_font_2": "Gotham",
+        "candidate_font_3": "Proxima Nova",
+        "candidate_font_4": "Work Sans",
+        "candidate_font_5": "Inter"
+    },
+    {
+        "task_id": "581939",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Cyberthug",
+        "candidate_font_2": "SquareFont",
+        "candidate_font_3": "Modular Block",
+        "candidate_font_4": "Octin Stencil",
+        "candidate_font_5": "Capture It"
+    },
+    {
+        "task_id": "581938",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Times New Roman",
+        "candidate_font_2": "Palatino Linotype",
+        "candidate_font_3": "Liberation Serif",
+        "candidate_font_4": "DejaVu Serif",
+        "candidate_font_5": "Georgia"
+    },
+    {
+        "task_id": "253986",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Chubby Cheeks",
+        "candidate_font_2": "Baloo 2 ExtraBold",
+        "candidate_font_3": "Fredoka One",
+        "candidate_font_4": "Luckiest Guy",
+        "candidate_font_5": "Burbank Big Condensed"
+    },
+    {
+        "task_id": "581937",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Rubik",
+        "candidate_font_2": "Comfortaa",
+        "candidate_font_3": "Quicksand",
+        "candidate_font_4": "Nunito",
+        "candidate_font_5": "Varela Round"
+    },
+    {
+        "task_id": "581936",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Cinzel",
+        "candidate_font_2": "Trajan",
+        "candidate_font_3": "Playfair Display",
+        "candidate_font_4": "Prata",
+        "candidate_font_5": "Cormorant Garamond"
     }
 ]
