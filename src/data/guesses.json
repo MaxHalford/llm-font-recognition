@@ -50695,5 +50695,59 @@
         "candidate_font_3": "Univers 57 Condensed",
         "candidate_font_4": "Folio Bold",
         "candidate_font_5": "Akzidenz-Grotesk Bold"
+    },
+    {
+        "task_id": "581873",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Aachen Bold",
+        "candidate_font_2": "Windsor Std Bold",
+        "candidate_font_3": "Cooper Black",
+        "candidate_font_4": "Colossalis Regular",
+        "candidate_font_5": "Rockwell Extra Bold"
+    },
+    {
+        "task_id": "193918",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Obelix Pro",
+        "candidate_font_2": "Obelix Bold",
+        "candidate_font_3": "Fredoka One",
+        "candidate_font_4": "Baloo 2",
+        "candidate_font_5": "Bubblegum Sans"
+    },
+    {
+        "task_id": "581872",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Proxima Nova Soft",
+        "candidate_font_2": "Nunito",
+        "candidate_font_3": "Varela Round",
+        "candidate_font_4": "M PLUS Rounded 1c",
+        "candidate_font_5": "Nexa Rust Sans"
+    },
+    {
+        "task_id": "497559",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Baseball Script",
+        "candidate_font_2": "Fenway Script",
+        "candidate_font_3": "Lobster",
+        "candidate_font_4": "Competition Script",
+        "candidate_font_5": "Quickpen"
+    },
+    {
+        "task_id": "581871",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Eurostile Extended Black",
+        "candidate_font_2": "Road Rage",
+        "candidate_font_3": "Detroit Gothic",
+        "candidate_font_4": "Bank Gothic Medium",
+        "candidate_font_5": "Montserrat Black"
+    },
+    {
+        "task_id": "581870",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Luckiest Guy",
+        "candidate_font_2": "Baloo Paaji 2 Bold",
+        "candidate_font_3": "Fredoka One",
+        "candidate_font_4": "Open Sans Bold",
+        "candidate_font_5": "Arial Narrow Bold"
     }
 ]
