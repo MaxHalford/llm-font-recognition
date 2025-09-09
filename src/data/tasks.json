@@ -31996,8 +31996,8 @@
         "url": "https://www.dafont.com/forum/read/581478/can-someone-please-tell-me-what-font-this-is",
         "title": "Can someone please tell me what font this is?",
         "instructions": null,
-        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1228652.jpg",
-        "identified_font": null
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1228652.png?1",
+        "identified_font": "Tanker"
     },
     {
         "task_id": "581475",
@@ -32292,8 +32292,8 @@
         "url": "https://www.dafont.com/forum/read/581507/font",
         "title": "Font?",
         "instructions": null,
-        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1228702.png",
-        "identified_font": null
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1228702.png?1",
+        "identified_font": "Monotype Script"
     },
     {
         "task_id": "581506",
@@ -32573,7 +32573,7 @@
         "title": "What's the font used in turbo santa, and stupidella",
         "instructions": null,
         "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1228754.png",
-        "identified_font": null
+        "identified_font": "SF Comic Script"
     },
     {
         "task_id": "581553",
@@ -32636,8 +32636,8 @@
         "url": "https://www.dafont.com/forum/read/581554/please-help-me-identify-this-font",
         "title": "Please help me identify this font",
         "instructions": null,
-        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1228773.jpg",
-        "identified_font": null
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1228773.png?1",
+        "identified_font": "Air Millhouse Italic"
     },
     {
         "task_id": "581559",
@@ -34764,7 +34764,7 @@
         "url": "https://www.dafont.com/forum/read/581842/official-membership",
         "title": "OFFICIAL MEMBERSHIP",
         "instructions": null,
-        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1229299.png",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1229299.png?1",
         "identified_font": null
     },
     {
@@ -35317,7 +35317,7 @@
         "title": "Font used in IVTRE",
         "instructions": "Hello! Can you please help me identify this font? Thanks!",
         "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1229449.jpg",
-        "identified_font": null
+        "identified_font": "Ragas"
     },
     {
         "task_id": "581911",
@@ -35325,7 +35325,7 @@
         "title": "What's the font please",
         "instructions": null,
         "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1229444.png",
-        "identified_font": null
+        "identified_font": "Air Millhouse Italic"
     },
     {
         "task_id": "581910",
@@ -35405,7 +35405,7 @@
         "title": "Font please?",
         "instructions": null,
         "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1229475.jpg?1",
-        "identified_font": null
+        "identified_font": "Ananda"
     },
     {
         "task_id": "581926",
@@ -35437,6 +35437,54 @@
         "title": "Quelle est cette police ?",
         "instructions": null,
         "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1229459.png",
+        "identified_font": null
+    },
+    {
+        "task_id": "581940",
+        "url": "https://www.dafont.com/forum/read/581940/name-of-the-font-please",
+        "title": "Name of the font please?",
+        "instructions": null,
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1229492.jpg",
+        "identified_font": null
+    },
+    {
+        "task_id": "581939",
+        "url": "https://www.dafont.com/forum/read/581939/help-with-this-font-please",
+        "title": "Help with this font please",
+        "instructions": null,
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1229491.png",
+        "identified_font": null
+    },
+    {
+        "task_id": "581938",
+        "url": "https://www.dafont.com/forum/read/581938/help-with-this-font-please",
+        "title": "Help with this font please",
+        "instructions": null,
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1229490.png",
+        "identified_font": null
+    },
+    {
+        "task_id": "253986",
+        "url": "https://www.dafont.com/forum/read/253986/tfou-french-tv-show",
+        "title": "TFOU French TV Show",
+        "instructions": "Hi everybody",
+        "img_url": "https://www.dafont.com/forum/attach/orig/5/7/573514.png?1",
+        "identified_font": null
+    },
+    {
+        "task_id": "581937",
+        "url": "https://www.dafont.com/forum/read/581937/logo-font-please",
+        "title": "Logo font please",
+        "instructions": null,
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1229485.jpg",
+        "identified_font": null
+    },
+    {
+        "task_id": "581936",
+        "url": "https://www.dafont.com/forum/read/581936/help",
+        "title": "help",
+        "instructions": null,
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1229484.png",
         "identified_font": null
     }
 ]
