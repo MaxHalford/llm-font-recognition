@@ -50848,5 +50848,68 @@
         "candidate_font_3": "League Gothic",
         "candidate_font_4": "Gobold High Bold",
         "candidate_font_5": "Compacta Bold"
+    },
+    {
+        "task_id": "581893",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Gilroy Thin Italic",
+        "candidate_font_2": "Visby CF Thin Italic",
+        "candidate_font_3": "Avant Garde Gothic Light Oblique",
+        "candidate_font_4": "Synonym Light Italic",
+        "candidate_font_5": "Codec Pro Thin Italic"
+    },
+    {
+        "task_id": "581892",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Bladi One",
+        "candidate_font_2": "Octin Sports",
+        "candidate_font_3": "SF Square Head",
+        "candidate_font_4": "Ethnocentric",
+        "candidate_font_5": "Agency FB"
+    },
+    {
+        "task_id": "581891",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Pusab",
+        "candidate_font_2": "Chewy",
+        "candidate_font_3": "Bubblegum Sans",
+        "candidate_font_4": "Luckiest Guy",
+        "candidate_font_5": "Baloo Bhai 2"
+    },
+    {
+        "task_id": "581890",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Rumble Font",
+        "candidate_font_2": "Broken 8 Bit",
+        "candidate_font_3": "Pixel Glitch",
+        "candidate_font_4": "Arcade Interlaced",
+        "candidate_font_5": "8 Bit Operator"
+    },
+    {
+        "task_id": "576395",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Chewy",
+        "candidate_font_2": "Luckiest Guy",
+        "candidate_font_3": "Titan One",
+        "candidate_font_4": "Bangers",
+        "candidate_font_5": "Baloo Bhai 2"
+    },
+    {
+        "task_id": "581889",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Big Noodle Titling",
+        "candidate_font_2": "Bank Gothic",
+        "candidate_font_3": "Agency FB",
+        "candidate_font_4": "Square 721",
+        "candidate_font_5": "Titillium Web"
+    },
+    {
+        "task_id": "581888",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Avenir Next LT Pro Bold",
+        "candidate_font_2": "Neo Sans Std Bold",
+        "candidate_font_3": "Apex New Bold",
+        "candidate_font_4": "Univers LT Std 65 Bold",
+        "candidate_font_5": "Frutiger LT Std 65 Bold"
     }
 ]
