@@ -34990,5 +34990,53 @@
         "instructions": null,
         "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1229347.png",
         "identified_font": "VAG Rounded"
+    },
+    {
+        "task_id": "581873",
+        "url": "https://www.dafont.com/forum/read/581873/qual-essa-font",
+        "title": "Qual essa font",
+        "instructions": "qual a fonte desse letreiro , ou outras fontas boas para letreiros",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1229367.jpg",
+        "identified_font": null
+    },
+    {
+        "task_id": "193918",
+        "url": "https://www.dafont.com/forum/read/193918/font",
+        "title": "Font?",
+        "instructions": null,
+        "img_url": "https://www.dafont.com/forum/attach/orig/4/4/446745.png",
+        "identified_font": null
+    },
+    {
+        "task_id": "581872",
+        "url": "https://www.dafont.com/forum/read/581872/camila-housing-authority-font",
+        "title": "Camila Housing Authority font?",
+        "instructions": "Does anyone know the name for this font?",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1229363.png",
+        "identified_font": null
+    },
+    {
+        "task_id": "497559",
+        "url": "https://www.dafont.com/forum/read/497559/logo-navegantes-del-magallanes",
+        "title": "Logo Navegantes del Magallanes",
+        "instructions": "Alguien sabe que fuente es? no logro conseguirla",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/0/1057465.png",
+        "identified_font": null
+    },
+    {
+        "task_id": "581871",
+        "url": "https://www.dafont.com/forum/read/581871/font",
+        "title": "Font?",
+        "instructions": null,
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1229362.jpg",
+        "identified_font": null
+    },
+    {
+        "task_id": "581870",
+        "url": "https://www.dafont.com/forum/read/581870/font",
+        "title": "Font",
+        "instructions": null,
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1229361.jpg",
+        "identified_font": null
     }
 ]
