@@ -31724,7 +31724,7 @@
         "url": "https://www.dafont.com/forum/read/581425/what-font-is-this",
         "title": "what font is this?",
         "instructions": null,
-        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1228557.png",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1228557.png?1",
         "identified_font": null
     },
     {
@@ -32949,7 +32949,7 @@
         "title": "&#346;cinawscy",
         "instructions": "Identify this font and tell me what font is ths PLS",
         "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1228847.png",
-        "identified_font": null
+        "identified_font": "Enchanting Celebrations"
     },
     {
         "task_id": "581586",
@@ -32957,7 +32957,7 @@
         "title": "Font? (newgrounds flash game)",
         "instructions": null,
         "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1228845.png",
-        "identified_font": null
+        "identified_font": "Big"
     },
     {
         "task_id": "581610",
@@ -33276,8 +33276,8 @@
         "url": "https://www.dafont.com/forum/read/581653/need-help-identifying-this-one",
         "title": "Need help identifying this one!",
         "instructions": "Need help with this one. Can anyone give a hand?",
-        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1228962.jpg",
-        "identified_font": null
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1228962.png?1",
+        "identified_font": "Mrs Eaves XL Serif Bold"
     },
     {
         "task_id": "581641",
@@ -33493,7 +33493,7 @@
         "title": "help with this one i thought is was times new roman",
         "instructions": "help with this one i thought is was times new roman",
         "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1228987.png",
-        "identified_font": null
+        "identified_font": "Perpetua"
     },
     {
         "task_id": "581667",
@@ -33869,7 +33869,7 @@
         "title": "Magdalena Bay font",
         "instructions": null,
         "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1229064.png",
-        "identified_font": null
+        "identified_font": "Edwardian Script"
     },
     {
         "task_id": "581726",
@@ -34229,7 +34229,7 @@
         "title": "What font is this?",
         "instructions": null,
         "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1229182.png",
-        "identified_font": null
+        "identified_font": "Breakdown PG"
     },
     {
         "task_id": "581768",
@@ -34533,7 +34533,7 @@
         "title": "PATROCINADORES font?",
         "instructions": null,
         "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1229246.jpg",
-        "identified_font": null
+        "identified_font": "Morganite ExtraBold"
     },
     {
         "task_id": "581805",
@@ -34828,7 +34828,7 @@
         "url": "https://www.dafont.com/forum/read/581848/font",
         "title": "Font",
         "instructions": null,
-        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1229312.png",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1229312.png?1",
         "identified_font": null
     },
     {
@@ -34997,7 +34997,7 @@
         "title": "Qual essa font",
         "instructions": "qual a fonte desse letreiro , ou outras fontas boas para letreiros",
         "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1229367.jpg",
-        "identified_font": null
+        "identified_font": "Latin Wide"
     },
     {
         "task_id": "193918",
@@ -35044,7 +35044,7 @@
         "url": "https://www.dafont.com/forum/read/581887/a-font-name",
         "title": "A font name",
         "instructions": "Hi!  Who knows A font name? Thanks",
-        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1229387.jpg",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1229387.png?1",
         "identified_font": null
     },
     {
@@ -35101,7 +35101,7 @@
         "title": "FONTT",
         "instructions": null,
         "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1229372.png?1",
-        "identified_font": null
+        "identified_font": "Revue"
     },
     {
         "task_id": "581877",
@@ -35125,6 +35125,62 @@
         "title": "Not Impact",
         "instructions": null,
         "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1229368.png",
+        "identified_font": null
+    },
+    {
+        "task_id": "581893",
+        "url": "https://www.dafont.com/forum/read/581893/help-find-out-font-name",
+        "title": "HELP FIND OUT FONT NAME",
+        "instructions": "can someone find out this font name please",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1229409.jpg",
+        "identified_font": null
+    },
+    {
+        "task_id": "581892",
+        "url": "https://www.dafont.com/forum/read/581892/help-find-out-font-name",
+        "title": "HELP FIND OUT FONT NAME",
+        "instructions": "can someone guess this font please",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1229408.jpg",
+        "identified_font": null
+    },
+    {
+        "task_id": "581891",
+        "url": "https://www.dafont.com/forum/read/581891/password",
+        "title": "PASSWORD",
+        "instructions": null,
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1229407.png",
+        "identified_font": null
+    },
+    {
+        "task_id": "581890",
+        "url": "https://www.dafont.com/forum/read/581890/ready-2-rumble",
+        "title": "READY 2 RUMBLE",
+        "instructions": null,
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1229406.png",
+        "identified_font": null
+    },
+    {
+        "task_id": "576395",
+        "url": "https://www.dafont.com/forum/read/576395/what-font-is-this",
+        "title": "What Font is this?",
+        "instructions": null,
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1217835.png?2",
+        "identified_font": null
+    },
+    {
+        "task_id": "581889",
+        "url": "https://www.dafont.com/forum/read/581889/tittle-font-mbc-logo-please",
+        "title": "Tittle font \"MBC\" logo please",
+        "instructions": null,
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1229402.jpg",
+        "identified_font": null
+    },
+    {
+        "task_id": "581888",
+        "url": "https://www.dafont.com/forum/read/581888/what-font-is-at-the-top-saying-tris",
+        "title": "What font is at the top saying \"tris\"",
+        "instructions": null,
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1229399.png",
         "identified_font": null
     }
 ]
