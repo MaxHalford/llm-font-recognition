@@ -51082,5 +51082,104 @@
         "candidate_font_3": "Gotham",
         "candidate_font_4": "Lato",
         "candidate_font_5": "Bellatrix Script"
+    },
+    {
+        "task_id": "581935",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Bromello",
+        "candidate_font_2": "Hello Beautiful",
+        "candidate_font_3": "Great Vibes",
+        "candidate_font_4": "Allura",
+        "candidate_font_5": "Dancing Script"
+    },
+    {
+        "task_id": "581934",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Agency FB Condensed Bold",
+        "candidate_font_2": "Trade Gothic Condensed No. 20",
+        "candidate_font_3": "DIN Condensed",
+        "candidate_font_4": "Compacta Bold",
+        "candidate_font_5": "Akzidenz-Grotesk Condensed Bold"
+    },
+    {
+        "task_id": "581933",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Impact",
+        "candidate_font_2": "Bebas Neue Bold",
+        "candidate_font_3": "Anton Regular",
+        "candidate_font_4": "Oswald Bold",
+        "candidate_font_5": "DIN Alternate Bold"
+    },
+    {
+        "task_id": "581932",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Compacta",
+        "candidate_font_2": "Permanent Headline",
+        "candidate_font_3": "Knockout 36 A/B Featherweight",
+        "candidate_font_4": "United Sans Extra Condensed Black",
+        "candidate_font_5": "Agency FB Bold"
+    },
+    {
+        "task_id": "581931",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Gotham Black",
+        "candidate_font_2": "Circular Bold",
+        "candidate_font_3": "Proxima Nova Black",
+        "candidate_font_4": "Avenir Black",
+        "candidate_font_5": "Futura Black"
+    },
+    {
+        "task_id": "581930",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Aphrodite Pro",
+        "candidate_font_2": "Edwardian Script ITC",
+        "candidate_font_3": "Samantha Script",
+        "candidate_font_4": "Freebooter Script",
+        "candidate_font_5": "Great Vibes"
+    },
+    {
+        "task_id": "581929",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Hello Lary",
+        "candidate_font_2": "Minion Pro",
+        "candidate_font_3": "Gotham",
+        "candidate_font_4": "Proxima Nova",
+        "candidate_font_5": "Adobe Garamond Pro"
+    },
+    {
+        "task_id": "581926",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Fredoka One",
+        "candidate_font_2": "Chewy",
+        "candidate_font_3": "Baloo 2",
+        "candidate_font_4": "Bubblegum Sans",
+        "candidate_font_5": "Biko"
+    },
+    {
+        "task_id": "581925",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Helvetica Neue",
+        "candidate_font_2": "Roboto",
+        "candidate_font_3": "Open Sans",
+        "candidate_font_4": "Arial",
+        "candidate_font_5": "Lato"
+    },
+    {
+        "task_id": "581923",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Amsterdam Two",
+        "candidate_font_2": "Uni Sans Heavy",
+        "candidate_font_3": "",
+        "candidate_font_4": "",
+        "candidate_font_5": ""
+    },
+    {
+        "task_id": "581921",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Lovely Thoughts",
+        "candidate_font_2": "Bubblegum Script",
+        "candidate_font_3": "Stay Grateful",
+        "candidate_font_4": "Lemon Tuesday",
+        "candidate_font_5": "Sugarlicious"
     }
 ]
