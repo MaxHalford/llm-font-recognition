@@ -19588,7 +19588,7 @@
         "url": "https://www.dafont.com/forum/read/579756/freebie-font",
         "title": "freebie font?",
         "instructions": "looking for this freebie font",
-        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1225054.png",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1225054.png?1",
         "identified_font": null
     },
     {
@@ -34893,7 +34893,7 @@
         "title": "Help with these fonts please",
         "instructions": null,
         "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1229336.png",
-        "identified_font": null
+        "identified_font": "Helvetica Neue"
     },
     {
         "task_id": "581855",
@@ -35036,7 +35036,95 @@
         "url": "https://www.dafont.com/forum/read/581870/font",
         "title": "Font",
         "instructions": null,
-        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1229361.jpg",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1229361.png?1",
+        "identified_font": null
+    },
+    {
+        "task_id": "581887",
+        "url": "https://www.dafont.com/forum/read/581887/a-font-name",
+        "title": "A font name",
+        "instructions": "Hi!  Who knows A font name? Thanks",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1229387.jpg",
+        "identified_font": null
+    },
+    {
+        "task_id": "581886",
+        "url": "https://www.dafont.com/forum/read/581886/what-font-is-this",
+        "title": "What font is this?",
+        "instructions": "What font is this im a editor and i need it",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1229386.png",
+        "identified_font": null
+    },
+    {
+        "task_id": "581884",
+        "url": "https://www.dafont.com/forum/read/581884/what-font-is-this",
+        "title": "What font is this?",
+        "instructions": null,
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1229382.jpg",
+        "identified_font": null
+    },
+    {
+        "task_id": "581883",
+        "url": "https://www.dafont.com/forum/read/581883/claudia-bradstone-font",
+        "title": "Claudia Bradstone Font",
+        "instructions": null,
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1229381.jpg",
+        "identified_font": null
+    },
+    {
+        "task_id": "581882",
+        "url": "https://www.dafont.com/forum/read/581882/amigas-e-rivais-font-pleaseee",
+        "title": "Amigas e Rivais, font pleaseee",
+        "instructions": null,
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1229377.png",
+        "identified_font": null
+    },
+    {
+        "task_id": "581881",
+        "url": "https://www.dafont.com/forum/read/581881/ronnie-s-20-cine",
+        "title": "\"Ronnie's 20 Cine\"",
+        "instructions": null,
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1229375.jpg",
+        "identified_font": null
+    },
+    {
+        "task_id": "581879",
+        "url": "https://www.dafont.com/forum/read/581879/please",
+        "title": "PLEASE",
+        "instructions": null,
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1229373.png?1",
+        "identified_font": null
+    },
+    {
+        "task_id": "581878",
+        "url": "https://www.dafont.com/forum/read/581878/fontt",
+        "title": "FONTT",
+        "instructions": null,
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1229372.png?1",
+        "identified_font": null
+    },
+    {
+        "task_id": "581877",
+        "url": "https://www.dafont.com/forum/read/581877/please",
+        "title": "PLEASE",
+        "instructions": null,
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1229371.png?1",
+        "identified_font": null
+    },
+    {
+        "task_id": "581876",
+        "url": "https://www.dafont.com/forum/read/581876/fontt",
+        "title": "FONTT",
+        "instructions": null,
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1229370.png",
+        "identified_font": null
+    },
+    {
+        "task_id": "581875",
+        "url": "https://www.dafont.com/forum/read/581875/not-impact",
+        "title": "Not Impact",
+        "instructions": null,
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1229368.png",
         "identified_font": null
     }
 ]
