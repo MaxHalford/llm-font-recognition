@@ -32036,7 +32036,7 @@
         "url": "https://www.dafont.com/forum/read/581451/font",
         "title": "Font?",
         "instructions": null,
-        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1228612.jpg",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1228612.png?1",
         "identified_font": null
     },
     {
@@ -35221,6 +35221,54 @@
         "title": "What font is it?",
         "instructions": "What font is it?",
         "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1229410.png?1",
+        "identified_font": null
+    },
+    {
+        "task_id": "581907",
+        "url": "https://www.dafont.com/forum/read/581907/fint-find",
+        "title": "FINT FIND",
+        "instructions": "What is the font used here?",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1229434.jpg",
+        "identified_font": null
+    },
+    {
+        "task_id": "581906",
+        "url": "https://www.dafont.com/forum/read/581906/need-font-name",
+        "title": "Need font name",
+        "instructions": "Anyone know what font the BUTCH's text is called?",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1229433.png",
+        "identified_font": null
+    },
+    {
+        "task_id": "581905",
+        "url": "https://www.dafont.com/forum/read/581905/secrethimitsubimil",
+        "title": "SecretHimitsuBimil",
+        "instructions": null,
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1229431.png",
+        "identified_font": null
+    },
+    {
+        "task_id": "581904",
+        "url": "https://www.dafont.com/forum/read/581904/what-the-font",
+        "title": "What the font",
+        "instructions": null,
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1229430.png",
+        "identified_font": null
+    },
+    {
+        "task_id": "581903",
+        "url": "https://www.dafont.com/forum/read/581903/this",
+        "title": "this?",
+        "instructions": "for this one I'm looking for the exact font if possible!",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1229429.png",
+        "identified_font": null
+    },
+    {
+        "task_id": "581901",
+        "url": "https://www.dafont.com/forum/read/581901/art-basel",
+        "title": "art basel",
+        "instructions": null,
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1229420.png",
         "identified_font": null
     }
 ]
