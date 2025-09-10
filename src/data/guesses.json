@@ -51235,5 +51235,122 @@
         "candidate_font_3": "Playfair Display",
         "candidate_font_4": "Prata",
         "candidate_font_5": "Cormorant Garamond"
+    },
+    {
+        "task_id": "581957",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Varela Round",
+        "candidate_font_2": "Fredoka One",
+        "candidate_font_3": "Quicksand",
+        "candidate_font_4": "Nunito",
+        "candidate_font_5": "Baloo Bhai 2"
+    },
+    {
+        "task_id": "581956",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Scoreboard",
+        "candidate_font_2": "Bank Gothic",
+        "candidate_font_3": "Agency FB",
+        "candidate_font_4": "Eurostile",
+        "candidate_font_5": "DIN Condensed"
+    },
+    {
+        "task_id": "581955",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "American Lemon Rough",
+        "candidate_font_2": "Cast Iron Rough",
+        "candidate_font_3": "Bourbon Grotesque Rough",
+        "candidate_font_4": "Highbrow Grunge",
+        "candidate_font_5": "Hand Shop B1 Rough"
+    },
+    {
+        "task_id": "581954",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "SF Collegiate Solid",
+        "candidate_font_2": "Octin College Heavy",
+        "candidate_font_3": "Varsity Team",
+        "candidate_font_4": "United Collegiate",
+        "candidate_font_5": "Graduate Regular"
+    },
+    {
+        "task_id": "581950",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Better Together Script",
+        "candidate_font_2": "Magnolia Sky",
+        "candidate_font_3": "Bellamy Script",
+        "candidate_font_4": "Angellight",
+        "candidate_font_5": "Montserrat"
+    },
+    {
+        "task_id": "581949",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Tarracoin",
+        "candidate_font_2": "Arial Rounded MT Bold",
+        "candidate_font_3": "Arial Bold",
+        "candidate_font_4": "",
+        "candidate_font_5": ""
+    },
+    {
+        "task_id": "581948",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Super Mario 256",
+        "candidate_font_2": "Arial Regular",
+        "candidate_font_3": "Arial Bold",
+        "candidate_font_4": "Arial Bold Italic",
+        "candidate_font_5": "Arial Black"
+    },
+    {
+        "task_id": "581946",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Burbank Big Condensed Black",
+        "candidate_font_2": "Universal Fruit",
+        "candidate_font_3": "Chewy",
+        "candidate_font_4": "Grobold",
+        "candidate_font_5": "VAG Rounded Bold"
+    },
+    {
+        "task_id": "581945",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "VAG Rounded Bold",
+        "candidate_font_2": "Roboto Condensed",
+        "candidate_font_3": "",
+        "candidate_font_4": "",
+        "candidate_font_5": ""
+    },
+    {
+        "task_id": "581944",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Burbank Big Condensed Black",
+        "candidate_font_2": "Fredoka One",
+        "candidate_font_3": "VAG Rounded Black",
+        "candidate_font_4": "Luckiest Guy",
+        "candidate_font_5": "Pretendo"
+    },
+    {
+        "task_id": "581943",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Baloo 2 ExtraBold",
+        "candidate_font_2": "Porky's",
+        "candidate_font_3": "Comfortaa Regular",
+        "candidate_font_4": "Bahnschrift Semibold",
+        "candidate_font_5": "DIN Condensed Bold"
+    },
+    {
+        "task_id": "581942",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "N64 UI (Regular)",
+        "candidate_font_2": "N64 UI (Bold)",
+        "candidate_font_3": "Porky's",
+        "candidate_font_4": "Press Start 2P",
+        "candidate_font_5": "VCR OSD Mono"
+    },
+    {
+        "task_id": "581941",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Super Mario Bros. Font",
+        "candidate_font_2": "Press Start 2P",
+        "candidate_font_3": "04b03",
+        "candidate_font_4": "Pixel Arial 11",
+        "candidate_font_5": "Super Mario 256"
     }
 ]
