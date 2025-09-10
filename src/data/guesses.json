@@ -51352,5 +51352,176 @@
         "candidate_font_3": "04b03",
         "candidate_font_4": "Pixel Arial 11",
         "candidate_font_5": "Super Mario 256"
+    },
+    {
+        "task_id": "581977",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Digital-7",
+        "candidate_font_2": "Gobold Extra Bold",
+        "candidate_font_3": "Gobold Bold",
+        "candidate_font_4": "Oswald Bold",
+        "candidate_font_5": "Montserrat Regular"
+    },
+    {
+        "task_id": "581976",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Fedorovka",
+        "candidate_font_2": "Petrograd",
+        "candidate_font_3": "Isocpeur",
+        "candidate_font_4": "Krutoyarskiy",
+        "candidate_font_5": "Pecheneg"
+    },
+    {
+        "task_id": "581975",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Trade Gothic LT Std Bold Extended",
+        "candidate_font_2": "Akzidenz-Grotesk Std Bold Extended",
+        "candidate_font_3": "Industry Bold",
+        "candidate_font_4": "Bebas Neue Bold",
+        "candidate_font_5": "Montserrat Extrabold"
+    },
+    {
+        "task_id": "581974",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "SF Sports Night",
+        "candidate_font_2": "Octin College",
+        "candidate_font_3": "Agency FB",
+        "candidate_font_4": "Pricedown",
+        "candidate_font_5": "Bank Gothic"
+    },
+    {
+        "task_id": "581973",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Yeseva One",
+        "candidate_font_2": "Oranienbaum",
+        "candidate_font_3": "Kazimir Titling",
+        "candidate_font_4": "Gabriela",
+        "candidate_font_5": "P\u00f3\u0142tawski Antiqua"
+    },
+    {
+        "task_id": "581972",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Open Sans Bold Italic",
+        "candidate_font_2": "Roboto Bold Italic",
+        "candidate_font_3": "Montserrat Bold Italic",
+        "candidate_font_4": "Open Sans Light Italic",
+        "candidate_font_5": "Roboto Light Italic"
+    },
+    {
+        "task_id": "581971",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Rubik",
+        "candidate_font_2": "Inter",
+        "candidate_font_3": "Barlow",
+        "candidate_font_4": "Manrope",
+        "candidate_font_5": "Montserrat"
+    },
+    {
+        "task_id": "581970",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Open Sans",
+        "candidate_font_2": "PT Sans",
+        "candidate_font_3": "Roboto",
+        "candidate_font_4": "Source Sans Pro",
+        "candidate_font_5": "Montserrat"
+    },
+    {
+        "task_id": "581969",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Baloo 2 Black",
+        "candidate_font_2": "VAG Rounded",
+        "candidate_font_3": "Lilita One",
+        "candidate_font_4": "Fredoka One",
+        "candidate_font_5": "Bubblegum Sans"
+    },
+    {
+        "task_id": "581968",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Proxima Nova Bold Italic",
+        "candidate_font_2": "Montserrat Bold Italic",
+        "candidate_font_3": "Lato Bold Italic",
+        "candidate_font_4": "Roboto Bold Italic",
+        "candidate_font_5": "Open Sans Bold Italic"
+    },
+    {
+        "task_id": "581967",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Marck Script",
+        "candidate_font_2": "Bad Script",
+        "candidate_font_3": "Neucha",
+        "candidate_font_4": "Caveat",
+        "candidate_font_5": "Amatic SC"
+    },
+    {
+        "task_id": "581966",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Uni Sans Rounded Heavy",
+        "candidate_font_2": "Hurme Geometric Sans 4 Bold",
+        "candidate_font_3": "Panton Round Heavy",
+        "candidate_font_4": "Sofia Pro Soft Heavy",
+        "candidate_font_5": "Museo Sans Rounded 900"
+    },
+    {
+        "task_id": "581965",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Geometria Bold",
+        "candidate_font_2": "Mont Bold",
+        "candidate_font_3": "Gilroy Bold",
+        "candidate_font_4": "Euclid Circular B Bold",
+        "candidate_font_5": "Formular Bold"
+    },
+    {
+        "task_id": "581964",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Technoma",
+        "candidate_font_2": "Ethnocentric",
+        "candidate_font_3": "Bank Gothic Medium",
+        "candidate_font_4": "Quantico Bold",
+        "candidate_font_5": "Agency FB Black"
+    },
+    {
+        "task_id": "581963",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Billo Dream",
+        "candidate_font_2": "Street Soul",
+        "candidate_font_3": "Salted Mocha",
+        "candidate_font_4": "Brushability",
+        "candidate_font_5": "Lemon Milkshake"
+    },
+    {
+        "task_id": "581962",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Russo One",
+        "candidate_font_2": "Quantico Bold",
+        "candidate_font_3": "Eurostile Extended Black",
+        "candidate_font_4": "Audiowide",
+        "candidate_font_5": "Avengeance"
+    },
+    {
+        "task_id": "581961",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Bourbon Typeface",
+        "candidate_font_2": "Knucklehead Regular",
+        "candidate_font_3": "Serif Gothic SSi Bold",
+        "candidate_font_4": "Clarendon Bold Condensed",
+        "candidate_font_5": "Windsor Bold"
+    },
+    {
+        "task_id": "581960",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Papel Picado",
+        "candidate_font_2": "Caliente",
+        "candidate_font_3": "Mexikana Embroidered",
+        "candidate_font_4": "Salsabor",
+        "candidate_font_5": "Calavera"
+    },
+    {
+        "task_id": "581958",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "October Crow",
+        "candidate_font_2": "Feast of Flesh",
+        "candidate_font_3": "You Are Dead",
+        "candidate_font_4": "Bloody Terror",
+        "candidate_font_5": "Metal Mania"
     }
 ]
