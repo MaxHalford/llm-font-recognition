@@ -35894,5 +35894,29 @@
         "instructions": null,
         "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1229573.png",
         "identified_font": null
+    },
+    {
+        "task_id": "581996",
+        "url": "https://www.dafont.com/forum/read/581996/what-font-is-this",
+        "title": "What font is this?",
+        "instructions": null,
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1229585.png",
+        "identified_font": null
+    },
+    {
+        "task_id": "581998",
+        "url": "https://www.dafont.com/forum/read/581998/pewdiepie-60-mill-club-zero-deaths-font",
+        "title": "Pewdiepie - 60 mill club - zero deaths font",
+        "instructions": null,
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1229589.png",
+        "identified_font": null
+    },
+    {
+        "task_id": "581994",
+        "url": "https://www.dafont.com/forum/read/581994/what-font-is-this-please",
+        "title": "What font is this please?",
+        "instructions": null,
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1229578.jpg",
+        "identified_font": "Mix Doodle"
     }
 ]
