@@ -33581,7 +33581,7 @@
         "title": "CHANNEL 37.5",
         "instructions": null,
         "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1229012.jpg",
-        "identified_font": null
+        "identified_font": "Askey Pixel"
     },
     {
         "task_id": "581682",
@@ -34396,7 +34396,7 @@
         "url": "https://www.dafont.com/forum/read/581794/sabrina-carpenter-man-s-best-friend-lyric-videos-font",
         "title": "Sabrina Carpenter Man's Best Friend Lyric Videos font",
         "instructions": "What's the font used for her lyric videos/visualizers for Man's Best Friend songs?",
-        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1229227.jpg",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1229227.png?1",
         "identified_font": null
     },
     {
@@ -35773,6 +35773,94 @@
         "title": "Lady Gaga font?",
         "instructions": null,
         "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1229528.png",
+        "identified_font": null
+    },
+    {
+        "task_id": "581988",
+        "url": "https://www.dafont.com/forum/read/581988/font-name",
+        "title": "Font name?",
+        "instructions": "Anyone know the font name?",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1229563.png",
+        "identified_font": "Batang"
+    },
+    {
+        "task_id": "581987",
+        "url": "https://www.dafont.com/forum/read/581987/what-this",
+        "title": "What this?",
+        "instructions": "What this? Thanks!",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1229561.png",
+        "identified_font": null
+    },
+    {
+        "task_id": "581986",
+        "url": "https://www.dafont.com/forum/read/581986/what-font-eurosport-ukraine",
+        "title": "What font EuroSport Ukraine?",
+        "instructions": null,
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1229559.png",
+        "identified_font": null
+    },
+    {
+        "task_id": "581985",
+        "url": "https://www.dafont.com/forum/read/581985/what-font-vdt",
+        "title": "What font VDT?",
+        "instructions": "Help",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1229558.png",
+        "identified_font": null
+    },
+    {
+        "task_id": "581984",
+        "url": "https://www.dafont.com/forum/read/581984/what-font-ntk-kolomiya-tv",
+        "title": "What font NTK Kolomiya TV?",
+        "instructions": "Help",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1229557.png",
+        "identified_font": null
+    },
+    {
+        "task_id": "581983",
+        "url": "https://www.dafont.com/forum/read/581983/what-font-centralnyi-tv",
+        "title": "What font Centralnyi TV?",
+        "instructions": "Help",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1229556.png",
+        "identified_font": null
+    },
+    {
+        "task_id": "581982",
+        "url": "https://www.dafont.com/forum/read/581982/what-font-sts-sumy",
+        "title": "What font STS Sumy?",
+        "instructions": "Help",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1229555.png",
+        "identified_font": null
+    },
+    {
+        "task_id": "581981",
+        "url": "https://www.dafont.com/forum/read/581981/what-font-tvi-ukraine",
+        "title": "What font TVI Ukraine?",
+        "instructions": "Help",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1229554.png",
+        "identified_font": null
+    },
+    {
+        "task_id": "581980",
+        "url": "https://www.dafont.com/forum/read/581980/what-font-trk-era-2005-2017",
+        "title": "What font TRK ERA 2005-2017?",
+        "instructions": "Help",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1229553.png",
+        "identified_font": null
+    },
+    {
+        "task_id": "581979",
+        "url": "https://www.dafont.com/forum/read/581979/what-font-melodia-fm",
+        "title": "What font Melodia FM?",
+        "instructions": "Help",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1229552.png",
+        "identified_font": null
+    },
+    {
+        "task_id": "581978",
+        "url": "https://www.dafont.com/forum/read/581978/what-font-russkoe-radio-ukraina",
+        "title": "What font russkoe radio ukraina?",
+        "instructions": "Help",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1229551.png",
         "identified_font": null
     }
 ]
