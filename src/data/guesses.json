@@ -51523,5 +51523,95 @@
         "candidate_font_3": "You Are Dead",
         "candidate_font_4": "Bloody Terror",
         "candidate_font_5": "Metal Mania"
+    },
+    {
+        "task_id": "581987",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Porky's",
+        "candidate_font_2": "Bubblegum Pop",
+        "candidate_font_3": "Chewy",
+        "candidate_font_4": "Luckiest Guy",
+        "candidate_font_5": "Pangolin"
+    },
+    {
+        "task_id": "581986",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Agency FB Bold Italic",
+        "candidate_font_2": "Impact Italic",
+        "candidate_font_3": "Eurostile Extended Bold Oblique",
+        "candidate_font_4": "Microgramma D Extended Bold Oblique",
+        "candidate_font_5": "United Sans Heavy Italic"
+    },
+    {
+        "task_id": "581985",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Eurostile Bold Extended",
+        "candidate_font_2": "Microgramma D Extended Bold",
+        "candidate_font_3": "Bank Gothic Medium",
+        "candidate_font_4": "DIN Next LT Pro Bold",
+        "candidate_font_5": "Square 721 Std Bold"
+    },
+    {
+        "task_id": "581984",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Square 721 Std Black Extended",
+        "candidate_font_2": "Eurostile Extended Black",
+        "candidate_font_3": "Bank Gothic Medium",
+        "candidate_font_4": "Agency FB Black",
+        "candidate_font_5": "Square 721 Std Black Extended Oblique"
+    },
+    {
+        "task_id": "581983",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Agency FB",
+        "candidate_font_2": "Unio",
+        "candidate_font_3": "Intro",
+        "candidate_font_4": "Bebas Neue",
+        "candidate_font_5": "Montserrat"
+    },
+    {
+        "task_id": "581982",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Avenir Next LT Pro Heavy Oblique",
+        "candidate_font_2": "Univers 83 ExtraBlack Oblique",
+        "candidate_font_3": "Akzidenz-Grotesk BQ Extra Bold Italic",
+        "candidate_font_4": "Proxima Nova Extrabold Italic",
+        "candidate_font_5": "Neue Haas Grotesk Display Black Italic"
+    },
+    {
+        "task_id": "581981",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Uni Sans Rounded",
+        "candidate_font_2": "Gilroy Rounded",
+        "candidate_font_3": "Gotham Rounded",
+        "candidate_font_4": "Sofia Pro Rounded",
+        "candidate_font_5": "Proxima Nova Soft"
+    },
+    {
+        "task_id": "581980",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Proxima Nova",
+        "candidate_font_2": "Source Sans Pro",
+        "candidate_font_3": "Avenir",
+        "candidate_font_4": "Segoe UI",
+        "candidate_font_5": "Myriad Pro"
+    },
+    {
+        "task_id": "581979",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "VAG Rounded",
+        "candidate_font_2": "Comfortaa",
+        "candidate_font_3": "Sofia Pro Soft",
+        "candidate_font_4": "Fira Sans",
+        "candidate_font_5": "Roboto"
+    },
+    {
+        "task_id": "581978",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Muller ExtraBold",
+        "candidate_font_2": "PT Sans Regular",
+        "candidate_font_3": "Muller Bold",
+        "candidate_font_4": "Graphik Bold",
+        "candidate_font_5": "PT Root UI Bold"
     }
 ]
