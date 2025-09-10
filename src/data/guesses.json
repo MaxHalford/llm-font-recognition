@@ -51964,5 +51964,68 @@
         "candidate_font_3": "The Historia",
         "candidate_font_4": "Bright Sunshine",
         "candidate_font_5": "Northwell"
+    },
+    {
+        "task_id": "582046",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "The Skinny",
+        "candidate_font_2": "Architects Daughter",
+        "candidate_font_3": "Coming Soon",
+        "candidate_font_4": "Patrick Hand",
+        "candidate_font_5": "Schoolbell"
+    },
+    {
+        "task_id": "582045",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Agency FB Extended Bold",
+        "candidate_font_2": "SF Sports Night",
+        "candidate_font_3": "Eurostile Extended Black",
+        "candidate_font_4": "Compacta Black",
+        "candidate_font_5": "Pricedown Black"
+    },
+    {
+        "task_id": "582041",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "A Little Sunshine",
+        "candidate_font_2": "Indie Flower",
+        "candidate_font_3": "Schoolbell",
+        "candidate_font_4": "Coming Soon",
+        "candidate_font_5": "Patrick Hand"
+    },
+    {
+        "task_id": "582043",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Pumpkin Story",
+        "candidate_font_2": "Hallowen",
+        "candidate_font_3": "The Hounted",
+        "candidate_font_4": "The Spooky",
+        "candidate_font_5": "Autumn in November"
+    },
+    {
+        "task_id": "582042",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "GT Walsheim",
+        "candidate_font_2": "Sofia Pro",
+        "candidate_font_3": "Gilroy",
+        "candidate_font_4": "Konnect",
+        "candidate_font_5": "Visby Round CF"
+    },
+    {
+        "task_id": "582040",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Comfortaa",
+        "candidate_font_2": "Quicksand",
+        "candidate_font_3": "VAG Rounded",
+        "candidate_font_4": "Avenir Light",
+        "candidate_font_5": "Montserrat Light"
+    },
+    {
+        "task_id": "582039",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Visby CF Bold",
+        "candidate_font_2": "Sofia Pro Bold",
+        "candidate_font_3": "Montserrat Bold",
+        "candidate_font_4": "The Braggest",
+        "candidate_font_5": "Awesome Lathus Typeface"
     }
 ]
