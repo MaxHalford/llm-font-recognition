@@ -32876,7 +32876,7 @@
         "url": "https://www.dafont.com/forum/read/581575/what-font-is-this",
         "title": "what font is this?",
         "instructions": null,
-        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1228830.png",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1228830.png?1",
         "identified_font": null
     },
     {
@@ -35357,7 +35357,7 @@
         "title": "help",
         "instructions": null,
         "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1229482.png",
-        "identified_font": null
+        "identified_font": "Amoresa"
     },
     {
         "task_id": "581934",
@@ -35573,7 +35573,7 @@
         "title": "Mario party 7 (2005) (Gamecube)",
         "instructions": "Mario,",
         "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1229510.jpg",
-        "identified_font": null
+        "identified_font": "Mario Party Hudson"
     },
     {
         "task_id": "581946",
@@ -35581,7 +35581,7 @@
         "title": "Mario party 6 (2004) (Gamecube)",
         "instructions": "Mario,",
         "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1229508.jpg",
-        "identified_font": null
+        "identified_font": "Mario Party Hudson"
     },
     {
         "task_id": "581945",
@@ -35589,7 +35589,7 @@
         "title": "Mario party 5 (2003) (Gamecube)",
         "instructions": "Mario,",
         "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1229507.jpg",
-        "identified_font": null
+        "identified_font": "Mario Party Hudson"
     },
     {
         "task_id": "581944",
@@ -35597,7 +35597,7 @@
         "title": "Mario party 4 (2002) (Gamecube)",
         "instructions": "Mario,",
         "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1229506.jpg",
-        "identified_font": null
+        "identified_font": "Mario Party Hudson"
     },
     {
         "task_id": "581943",
@@ -35605,7 +35605,7 @@
         "title": "Mario party 3 (2000) (N64)",
         "instructions": "Mario,",
         "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1229505.jpg",
-        "identified_font": null
+        "identified_font": "Mario Party Hudson"
     },
     {
         "task_id": "581942",
@@ -35613,7 +35613,7 @@
         "title": "Mario party 2 (1999) (N64)",
         "instructions": "Mario,",
         "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1229504.jpg",
-        "identified_font": null
+        "identified_font": "Mario Party Hudson"
     },
     {
         "task_id": "581941",
@@ -35621,7 +35621,7 @@
         "title": "Mario Party (1998) (N64)",
         "instructions": "Mario,",
         "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1229503.jpg",
-        "identified_font": null
+        "identified_font": "Mario Party Hudson"
     },
     {
         "task_id": "581977",
@@ -35773,7 +35773,7 @@
         "title": "Lady Gaga font?",
         "instructions": null,
         "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1229528.png",
-        "identified_font": null
+        "identified_font": "Ghoulish"
     },
     {
         "task_id": "581988",
@@ -35918,5 +35918,141 @@
         "instructions": null,
         "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1229578.jpg",
         "identified_font": "Mix Doodle"
+    },
+    {
+        "task_id": "582014",
+        "url": "https://www.dafont.com/forum/read/582014/que-fuente-es",
+        "title": "\u00bfQue fuente es?",
+        "instructions": "Hola, me ayudan a identificar este tipo de fuente; Dudar es traicionar, ambas fuente por favor",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1229636.png",
+        "identified_font": null
+    },
+    {
+        "task_id": "582013",
+        "url": "https://www.dafont.com/forum/read/582013/help-canva-font",
+        "title": "HELP - CANVA FONT",
+        "instructions": "Anyone know this font that's available on Canva?",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1229635.png",
+        "identified_font": null
+    },
+    {
+        "task_id": "582012",
+        "url": "https://www.dafont.com/forum/read/582012/qual-a-fonte",
+        "title": "Qual a fonte?",
+        "instructions": null,
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1229633.jpg",
+        "identified_font": null
+    },
+    {
+        "task_id": "582011",
+        "url": "https://www.dafont.com/forum/read/582011/canelo-vs-crawford",
+        "title": "Canelo vs Crawford",
+        "instructions": "Can someone help me identify the font used to type Canelo vs Crawford and El Centro I would really appreciate it! Thank you!",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1229632.jpg",
+        "identified_font": null
+    },
+    {
+        "task_id": "582010",
+        "url": "https://www.dafont.com/forum/read/582010/cortis",
+        "title": "CORTIS",
+        "instructions": null,
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1229631.png",
+        "identified_font": null
+    },
+    {
+        "task_id": "582009",
+        "url": "https://www.dafont.com/forum/read/582009/road-to-font",
+        "title": "Road to Font",
+        "instructions": "Hello there",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1229630.png",
+        "identified_font": null
+    },
+    {
+        "task_id": "582008",
+        "url": "https://www.dafont.com/forum/read/582008/we-love-you",
+        "title": "We Love You",
+        "instructions": "I am trying to find the font used for We Love You, is there anyone that can help me please! I would really appreciate it!",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1229628.jpg",
+        "identified_font": null
+    },
+    {
+        "task_id": "582007",
+        "url": "https://www.dafont.com/forum/read/582007/desmadre-los-originales",
+        "title": "Desmadre Los Originales",
+        "instructions": "Can someone help me identify the font used to type Los Originales and Welcome to the desmadre! I would greatly appreciate it!",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1229627.jpg",
+        "identified_font": null
+    },
+    {
+        "task_id": "582006",
+        "url": "https://www.dafont.com/forum/read/582006/la-font",
+        "title": "La font",
+        "instructions": "Would someone be able to help me identify the font used for this La? I would really appreciate it!",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1229626.png",
+        "identified_font": null
+    },
+    {
+        "task_id": "582005",
+        "url": "https://www.dafont.com/forum/read/582005/fonts-please",
+        "title": "Fonts please?",
+        "instructions": null,
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1229616.jpg",
+        "identified_font": null
+    },
+    {
+        "task_id": "582004",
+        "url": "https://www.dafont.com/forum/read/582004/le-titre-du-journal-le-soir-en-belgique",
+        "title": "Le titre du journal LE SOIR en Belgique",
+        "instructions": "LE SOIR",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1229615.png?1",
+        "identified_font": null
+    },
+    {
+        "task_id": "582003",
+        "url": "https://www.dafont.com/forum/read/582003/fonts-please",
+        "title": "Fonts please?",
+        "instructions": null,
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1229614.png",
+        "identified_font": null
+    },
+    {
+        "task_id": "582001",
+        "url": "https://www.dafont.com/forum/read/582001/looking-for-this-font",
+        "title": "Looking for this font",
+        "instructions": "Thank you in advance",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1229612.jpg",
+        "identified_font": null
+    },
+    {
+        "task_id": "582000",
+        "url": "https://www.dafont.com/forum/read/582000/natures-little-friends-preschool-fonts",
+        "title": "NATURES LITTLE FRIENDS & PRESCHOOL Fonts",
+        "instructions": "Anyone know these two fonts?",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1229611.png",
+        "identified_font": null
+    },
+    {
+        "task_id": "444237",
+        "url": "https://www.dafont.com/forum/read/444237/team-logo-font-from-battle-for-b-f-d-i",
+        "title": "Team logo font from Battle for B.F.D.I.",
+        "instructions": "This is one of the team logos shown in the YouTube series BFB. It seems to be a modification of an already-existing font. Any idea which it is?",
+        "img_url": "https://www.dafont.com/forum/attach/orig/9/5/950517.png",
+        "identified_font": "Day Poster Black"
+    },
+    {
+        "task_id": "581999",
+        "url": "https://www.dafont.com/forum/read/581999/help-allan",
+        "title": "Help \"ALLAN\"",
+        "instructions": "please",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1229606.jpg",
+        "identified_font": null
+    },
+    {
+        "task_id": "352149",
+        "url": "https://www.dafont.com/forum/read/352149/mommys-valentine-font",
+        "title": "Mommys Valentine font",
+        "instructions": "Can anyone identify the font used for \"Mommy's\" and \"Valentine\"? Thank you!!!",
+        "img_url": "https://www.dafont.com/forum/attach/orig/7/6/769285.png?1",
+        "identified_font": "Sweet Pea"
     }
 ]
