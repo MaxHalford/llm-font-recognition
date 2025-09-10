@@ -51649,5 +51649,23 @@
         "candidate_font_3": "Hello Lovely",
         "candidate_font_4": "Magnolia Sky",
         "candidate_font_5": "Milkshake"
+    },
+    {
+        "task_id": "581996",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Sui Generis",
+        "candidate_font_2": "Forma DJR Banner",
+        "candidate_font_3": "Neuropol X Bold",
+        "candidate_font_4": "Eurostile Extended Black",
+        "candidate_font_5": "Montserrat Black"
+    },
+    {
+        "task_id": "581998",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Death From Above",
+        "candidate_font_2": "Grilled Cheese",
+        "candidate_font_3": "Permanent Marker",
+        "candidate_font_4": "College Block 2.0",
+        "candidate_font_5": "Road Rage"
     }
 ]
