@@ -51613,5 +51613,41 @@
         "candidate_font_3": "Muller Bold",
         "candidate_font_4": "Graphik Bold",
         "candidate_font_5": "PT Root UI Bold"
+    },
+    {
+        "task_id": "581993",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Houston Sport Font",
+        "candidate_font_2": "Brotherhood Script",
+        "candidate_font_3": "Streetwear",
+        "candidate_font_4": "Rumble Brave",
+        "candidate_font_5": "Bayshore"
+    },
+    {
+        "task_id": "71874",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Charlemagne Std",
+        "candidate_font_2": "Optimus Princeps",
+        "candidate_font_3": "Forum",
+        "candidate_font_4": "Trajan Pro",
+        "candidate_font_5": "Augusta"
+    },
+    {
+        "task_id": "581992",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Fredoka One",
+        "candidate_font_2": "Luckiest Guy",
+        "candidate_font_3": "Chewy",
+        "candidate_font_4": "Plump",
+        "candidate_font_5": "Burbank Big Condensed"
+    },
+    {
+        "task_id": "581991",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Bromello",
+        "candidate_font_2": "Mistrully",
+        "candidate_font_3": "Hello Lovely",
+        "candidate_font_4": "Magnolia Sky",
+        "candidate_font_5": "Milkshake"
     }
 ]
