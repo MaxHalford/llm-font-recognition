@@ -32613,7 +32613,7 @@
         "title": "need help pls",
         "instructions": "need font on one psd file pls",
         "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1228766.jpg",
-        "identified_font": null
+        "identified_font": "Don Jos\u00e9"
     },
     {
         "task_id": "581556",
@@ -32661,7 +32661,7 @@
         "title": "Pls help?",
         "instructions": null,
         "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1228780.jpg",
-        "identified_font": null
+        "identified_font": "Just Wright"
     },
     {
         "task_id": "561475",
@@ -35437,7 +35437,7 @@
         "title": "Quelle est cette police ?",
         "instructions": null,
         "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1229459.png",
-        "identified_font": null
+        "identified_font": "Maple Sugar"
     },
     {
         "task_id": "581940",
@@ -35485,6 +35485,142 @@
         "title": "help",
         "instructions": null,
         "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1229484.png",
+        "identified_font": null
+    },
+    {
+        "task_id": "581957",
+        "url": "https://www.dafont.com/forum/read/581957/what-font-is-this",
+        "title": "What font is this?",
+        "instructions": null,
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1229526.png",
+        "identified_font": null
+    },
+    {
+        "task_id": "581956",
+        "url": "https://www.dafont.com/forum/read/581956/font-identification",
+        "title": "Font identification",
+        "instructions": "Can someone please find this font? Need it for a project.",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1229525.png",
+        "identified_font": null
+    },
+    {
+        "task_id": "581952",
+        "url": "https://www.dafont.com/forum/read/581952/help-what-font-is-this",
+        "title": "Help! What font is this?",
+        "instructions": null,
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1229516.jpg",
+        "identified_font": "Old London"
+    },
+    {
+        "task_id": "581947",
+        "url": "https://www.dafont.com/forum/read/581947/band-t-shirt",
+        "title": "Band T-shirt",
+        "instructions": null,
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1229509.png",
+        "identified_font": "Nighty"
+    },
+    {
+        "task_id": "581951",
+        "url": "https://www.dafont.com/forum/read/581951/help",
+        "title": "Help",
+        "instructions": "Necesito identificar estos tipos de fuentes",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1229515.jpg",
+        "identified_font": "Hattinand"
+    },
+    {
+        "task_id": "581953",
+        "url": "https://www.dafont.com/forum/read/581953/help-what-font-is-this",
+        "title": "Help! What font is this?",
+        "instructions": null,
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1229517.jpg",
+        "identified_font": "Fette Unz Fraktur"
+    },
+    {
+        "task_id": "581955",
+        "url": "https://www.dafont.com/forum/read/581955/fattoria-franco-fabio",
+        "title": "Fattoria Franco & Fabio",
+        "instructions": "Nice eroded sans with width variations here.",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1229519.jpg",
+        "identified_font": null
+    },
+    {
+        "task_id": "581954",
+        "url": "https://www.dafont.com/forum/read/581954/algodoneros-font",
+        "title": "ALGODONEROS FONT",
+        "instructions": null,
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1229518.png",
+        "identified_font": null
+    },
+    {
+        "task_id": "581950",
+        "url": "https://www.dafont.com/forum/read/581950/what-this-font",
+        "title": "what this font?",
+        "instructions": null,
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1229514.png",
+        "identified_font": null
+    },
+    {
+        "task_id": "581949",
+        "url": "https://www.dafont.com/forum/read/581949/mario-party-8-2007-wii",
+        "title": "Mario party 8 (2007) (Wii)",
+        "instructions": null,
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1229512.jpg",
+        "identified_font": null
+    },
+    {
+        "task_id": "581948",
+        "url": "https://www.dafont.com/forum/read/581948/mario-party-7-2005-gamecube",
+        "title": "Mario party 7 (2005) (Gamecube)",
+        "instructions": "Mario,",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1229510.jpg",
+        "identified_font": null
+    },
+    {
+        "task_id": "581946",
+        "url": "https://www.dafont.com/forum/read/581946/mario-party-6-2004-gamecube",
+        "title": "Mario party 6 (2004) (Gamecube)",
+        "instructions": "Mario,",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1229508.jpg",
+        "identified_font": null
+    },
+    {
+        "task_id": "581945",
+        "url": "https://www.dafont.com/forum/read/581945/mario-party-5-2003-gamecube",
+        "title": "Mario party 5 (2003) (Gamecube)",
+        "instructions": "Mario,",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1229507.jpg",
+        "identified_font": null
+    },
+    {
+        "task_id": "581944",
+        "url": "https://www.dafont.com/forum/read/581944/mario-party-4-2002-gamecube",
+        "title": "Mario party 4 (2002) (Gamecube)",
+        "instructions": "Mario,",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1229506.jpg",
+        "identified_font": null
+    },
+    {
+        "task_id": "581943",
+        "url": "https://www.dafont.com/forum/read/581943/mario-party-3-2000-n64",
+        "title": "Mario party 3 (2000) (N64)",
+        "instructions": "Mario,",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1229505.jpg",
+        "identified_font": null
+    },
+    {
+        "task_id": "581942",
+        "url": "https://www.dafont.com/forum/read/581942/mario-party-2-1999-n64",
+        "title": "Mario party 2 (1999) (N64)",
+        "instructions": "Mario,",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1229504.jpg",
+        "identified_font": null
+    },
+    {
+        "task_id": "581941",
+        "url": "https://www.dafont.com/forum/read/581941/mario-party-1998-n64",
+        "title": "Mario Party (1998) (N64)",
+        "instructions": "Mario,",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1229503.jpg",
         "identified_font": null
     }
 ]
