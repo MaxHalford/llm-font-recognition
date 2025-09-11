@@ -52153,5 +52153,41 @@
         "candidate_font_3": "Fredoka One",
         "candidate_font_4": "Museo Sans Rounded 900",
         "candidate_font_5": "Comfortaa Bold"
+    },
+    {
+        "task_id": "582065",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Fredoka One",
+        "candidate_font_2": "Lilita One",
+        "candidate_font_3": "Luckiest Guy",
+        "candidate_font_4": "Bubblegum Sans",
+        "candidate_font_5": "Burbank Big Condensed Black"
+    },
+    {
+        "task_id": "582064",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Constantine (by Kustren)",
+        "candidate_font_2": "Caslon Antique",
+        "candidate_font_3": "Black Rose (Iconian Fonts)",
+        "candidate_font_4": "Optimus Princeps",
+        "candidate_font_5": "Trajan Pro"
+    },
+    {
+        "task_id": "582063",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "M PLUS Rounded 1c",
+        "candidate_font_2": "Quicksand",
+        "candidate_font_3": "Comfortaa",
+        "candidate_font_4": "Varela Round",
+        "candidate_font_5": "Nunito Rounded"
+    },
+    {
+        "task_id": "582062",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Open Sans",
+        "candidate_font_2": "Montserrat",
+        "candidate_font_3": "Source Sans Pro",
+        "candidate_font_4": "Roboto",
+        "candidate_font_5": "Inter"
     }
 ]
