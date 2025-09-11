@@ -36373,7 +36373,7 @@
         "title": "Tu mejor sonrisa",
         "instructions": "Alguien conoce esta tipograf\u00eda",
         "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1229751.png",
-        "identified_font": null
+        "identified_font": "Noto Sans Bold"
     },
     {
         "task_id": "582058",
@@ -36397,6 +36397,46 @@
         "title": "Make Christmas Magic",
         "instructions": "Please!! Font of \"Make Christmas Magic\"?? Thank you very much in advance.",
         "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1229742.png?1",
+        "identified_font": null
+    },
+    {
+        "task_id": "582065",
+        "url": "https://www.dafont.com/forum/read/582065/font-tittle-fashion-by-cortis-please",
+        "title": "Font tittle \"Fashion\" by Cortis please",
+        "instructions": null,
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1229768.jpg",
+        "identified_font": null
+    },
+    {
+        "task_id": "582064",
+        "url": "https://www.dafont.com/forum/read/582064/what-font-is-on-the-constantine-movie-poster-dvd",
+        "title": "What font is on the Constantine Movie Poster/DVD ?",
+        "instructions": "The Constantine not Keanu",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1229767.jpg",
+        "identified_font": null
+    },
+    {
+        "task_id": "582061",
+        "url": "https://www.dafont.com/forum/read/582061/looking-for-font-for-green-chile-cafe",
+        "title": "Looking for font for \"Green Chile Cafe\"",
+        "instructions": null,
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1229758.png",
+        "identified_font": "Grobold"
+    },
+    {
+        "task_id": "582063",
+        "url": "https://www.dafont.com/forum/read/582063/help-pls",
+        "title": "help pls",
+        "instructions": "Can someone pls help to id this font pls thanks",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1229762.png?1",
+        "identified_font": null
+    },
+    {
+        "task_id": "582062",
+        "url": "https://www.dafont.com/forum/read/582062/pls-help-me",
+        "title": "PLS HELP ME",
+        "instructions": "I WANNA KNOW THIS FONT. THANKYOUU",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1229760.png",
         "identified_font": null
     }
 ]
