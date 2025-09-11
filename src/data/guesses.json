@@ -52027,5 +52027,86 @@
         "candidate_font_3": "Montserrat Bold",
         "candidate_font_4": "The Braggest",
         "candidate_font_5": "Awesome Lathus Typeface"
+    },
+    {
+        "task_id": "305426",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Press Start 2P",
+        "candidate_font_2": "VCR OSD Mono",
+        "candidate_font_3": "8-bit Wonder",
+        "candidate_font_4": "Minecraftia",
+        "candidate_font_5": "Fixedsys Excelsior"
+    },
+    {
+        "task_id": "582055",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Answer",
+        "candidate_font_2": "Headliner No. 45",
+        "candidate_font_3": "Bebas Neue",
+        "candidate_font_4": "Oswald Bold",
+        "candidate_font_5": "Anton"
+    },
+    {
+        "task_id": "582054",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Gross Outline",
+        "candidate_font_2": "KR Bubbleletters",
+        "candidate_font_3": "Bubblegum Outline",
+        "candidate_font_4": "Hello Bubble",
+        "candidate_font_5": "Bubble Fun"
+    },
+    {
+        "task_id": "366820",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Pinyon Script",
+        "candidate_font_2": "Great Vibes",
+        "candidate_font_3": "Allura",
+        "candidate_font_4": "Dancing Script",
+        "candidate_font_5": "Herr Von Muellerhoff"
+    },
+    {
+        "task_id": "582051",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Windsor Bold",
+        "candidate_font_2": "Bookman Old Style Bold",
+        "candidate_font_3": "Goudy Heavyface",
+        "candidate_font_4": "Transylvania (by Galdino Otten)",
+        "candidate_font_5": "Cloister Old Style Heavy"
+    },
+    {
+        "task_id": "582050",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Butler Regular",
+        "candidate_font_2": "Playfair Display",
+        "candidate_font_3": "Didot",
+        "candidate_font_4": "Bodoni",
+        "candidate_font_5": "Prata"
+    },
+    {
+        "task_id": "582049",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Better Together",
+        "candidate_font_2": "Magnolia Sky",
+        "candidate_font_3": "Autumn in November",
+        "candidate_font_4": "Hello Honey Script",
+        "candidate_font_5": "Bromello"
+    },
+    {
+        "task_id": "582048",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Montserrat Bold",
+        "candidate_font_2": "Montserrat Regular",
+        "candidate_font_3": "Inter Bold",
+        "candidate_font_4": "DM Sans Bold",
+        "candidate_font_5": "Outfit Bold"
+    },
+    {
+        "task_id": "582047",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Helvetica",
+        "candidate_font_2": "Arial",
+        "candidate_font_3": "Univers",
+        "candidate_font_4": "Folio",
+        "candidate_font_5": "Akzidenz-Grotesk"
     }
 ]
