@@ -52108,5 +52108,50 @@
         "candidate_font_3": "Univers",
         "candidate_font_4": "Folio",
         "candidate_font_5": "Akzidenz-Grotesk"
+    },
+    {
+        "task_id": "582060",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Montserrat ExtraBold",
+        "candidate_font_2": "Proxima Nova Black",
+        "candidate_font_3": "Circular Std Black",
+        "candidate_font_4": "Gilroy ExtraBold",
+        "candidate_font_5": "Open Sans ExtraBold"
+    },
+    {
+        "task_id": "582059",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Proxima Nova Black",
+        "candidate_font_2": "Circular Std Black",
+        "candidate_font_3": "Gilroy Black",
+        "candidate_font_4": "Sofia Pro Black",
+        "candidate_font_5": "Montserrat Extrabold"
+    },
+    {
+        "task_id": "582058",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Bricia",
+        "candidate_font_2": "Milkshake",
+        "candidate_font_3": "Lemon Tuesday",
+        "candidate_font_4": "Pacifico",
+        "candidate_font_5": "Yellowtail"
+    },
+    {
+        "task_id": "582057",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Agency FB Bold Italic",
+        "candidate_font_2": "Big Noodle Titling Oblique",
+        "candidate_font_3": "Pricedown Black",
+        "candidate_font_4": "SF Sports Night Oblique",
+        "candidate_font_5": "Microgramma D Bold Extended"
+    },
+    {
+        "task_id": "582056",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "VAG Rounded Bold",
+        "candidate_font_2": "Quicksand Bold",
+        "candidate_font_3": "Fredoka One",
+        "candidate_font_4": "Museo Sans Rounded 900",
+        "candidate_font_5": "Comfortaa Bold"
     }
 ]
