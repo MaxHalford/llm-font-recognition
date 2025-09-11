@@ -32845,7 +32845,7 @@
         "title": "Swamp Sim font",
         "instructions": "I've wondered this for a while now, but only got around to asking now. WhatTheFont didn't give me any matching results. Does anyone know which font this is?",
         "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1228834.jpg",
-        "identified_font": null
+        "identified_font": "Remnant"
     },
     {
         "task_id": "581574",
@@ -33404,8 +33404,8 @@
         "url": "https://www.dafont.com/forum/read/581658/font",
         "title": "Font",
         "instructions": null,
-        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1228974.jpg",
-        "identified_font": null
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1228974.png?1",
+        "identified_font": "Serif"
     },
     {
         "task_id": "581657",
@@ -34113,10 +34113,10 @@
     },
     {
         "task_id": "581745",
-        "url": "https://www.dafont.com/forum/read/581745/font-tittle-heartbeat-by-bts-pleasee",
-        "title": "font tittle \"heartbeat\" by Bts pleasee",
+        "url": "https://www.dafont.com/forum/read/581745/font-title-heartbeat-by-bts-pleasee",
+        "title": "font title \"heartbeat\" by Bts pleasee",
         "instructions": null,
-        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1229122.jpg",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1229122.jpg?1",
         "identified_font": null
     },
     {
@@ -34884,7 +34884,7 @@
         "url": "https://www.dafont.com/forum/read/581857/font",
         "title": "Font?",
         "instructions": null,
-        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1229339.jpg",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1229339.png?1",
         "identified_font": null
     },
     {
@@ -35340,7 +35340,7 @@
         "url": "https://www.dafont.com/forum/read/581908/could-someone-identify-this-font-it-looks-like-it-could-ve-been-manually-condensed",
         "title": "could someone identify this font? it looks like it could've been manually condensed.",
         "instructions": "additional details: the 'C' looks like futura's C, and the lower-angle/corner of '5' doesn't 'poke outwards', i.e. it looks flat. also, the number '0' has a diagonal dash inside it, and '1' has a serif and a horizontal line at the bottom (excuse me, i couldn't find the proper term).",
-        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1229435.png",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1229435.png?1",
         "identified_font": "Consolas"
     },
     {
@@ -36557,6 +36557,46 @@
         "title": "Subway Font?",
         "instructions": null,
         "img_url": "https://www.dafont.com/forum/attach/orig/8/6/86884.png",
+        "identified_font": null
+    },
+    {
+        "task_id": "575438",
+        "url": "https://www.dafont.com/forum/read/575438/heartbreak",
+        "title": "Heartbreak",
+        "instructions": null,
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1215893.jpg",
+        "identified_font": "Popera"
+    },
+    {
+        "task_id": "582087",
+        "url": "https://www.dafont.com/forum/read/582087/fonts-please",
+        "title": "Fonts please?",
+        "instructions": null,
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1229822.jpg",
+        "identified_font": null
+    },
+    {
+        "task_id": "582082",
+        "url": "https://www.dafont.com/forum/read/582082/help-please",
+        "title": "Help please",
+        "instructions": "I need these 2 fonts please.",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1229808.png",
+        "identified_font": "Abu Dhabi"
+    },
+    {
+        "task_id": "582084",
+        "url": "https://www.dafont.com/forum/read/582084/nagasarete-airanto-anime",
+        "title": "Nagasarete Airanto - Anime",
+        "instructions": null,
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1229810.jpg",
+        "identified_font": null
+    },
+    {
+        "task_id": "582083",
+        "url": "https://www.dafont.com/forum/read/582083/identificacion-de-fuente",
+        "title": "Identificaci\u00f3n de fuente",
+        "instructions": null,
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1229809.png",
         "identified_font": null
     }
 ]
