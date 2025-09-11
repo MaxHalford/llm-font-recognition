@@ -36477,7 +36477,7 @@
         "title": "Sutherland font?",
         "instructions": "Hey, does anyone know this font? Because it's curved, I can't use the auto font identifier tools to find it.",
         "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1229786.png",
-        "identified_font": null
+        "identified_font": "Chill Script"
     },
     {
         "task_id": "582073",
@@ -36502,5 +36502,61 @@
         "instructions": null,
         "img_url": "https://www.dafont.com/forum/attach/orig/1/0/1070353.png",
         "identified_font": "Pixo Reto SP"
+    },
+    {
+        "task_id": "189312",
+        "url": "https://www.dafont.com/forum/read/189312/reel-fx-animation-studios-logo-font",
+        "title": "Reel FX Animation Studios logo font?",
+        "instructions": "Isn't there anyone who knows what this font is for the reel fx animation studios logo that was first seen in Free Birds? If you do, that would be great! Thanks!",
+        "img_url": "https://www.dafont.com/forum/attach/orig/4/3/436857.jpg?1",
+        "identified_font": null
+    },
+    {
+        "task_id": "582081",
+        "url": "https://www.dafont.com/forum/read/582081/font-id-if-anyone-is-able-to-help",
+        "title": "Font ID if anyone is able to help",
+        "instructions": "Anything close someone could suggest, thanks in advance",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1229800.jpg",
+        "identified_font": null
+    },
+    {
+        "task_id": "582080",
+        "url": "https://www.dafont.com/forum/read/582080/what-font-is-this",
+        "title": "what font is this ?",
+        "instructions": null,
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1229799.png",
+        "identified_font": null
+    },
+    {
+        "task_id": "582079",
+        "url": "https://www.dafont.com/forum/read/582079/kamen-rider-drive-fonts-people",
+        "title": "Kamen Rider Drive Fonts: People",
+        "instructions": "What font is this called?",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1229798.jpg",
+        "identified_font": null
+    },
+    {
+        "task_id": "582077",
+        "url": "https://www.dafont.com/forum/read/582077/what-the-font",
+        "title": "What The Font?",
+        "instructions": "Merengue morango font",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1229791.jpg",
+        "identified_font": null
+    },
+    {
+        "task_id": "582076",
+        "url": "https://www.dafont.com/forum/read/582076/what-font",
+        "title": "WHAT FONT ?",
+        "instructions": "HELP ME BROTHER",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1229790.png",
+        "identified_font": null
+    },
+    {
+        "task_id": "34843",
+        "url": "https://www.dafont.com/forum/read/34843/subway-font",
+        "title": "Subway Font?",
+        "instructions": null,
+        "img_url": "https://www.dafont.com/forum/attach/orig/8/6/86884.png",
+        "identified_font": null
     }
 ]
