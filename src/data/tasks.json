@@ -36453,7 +36453,7 @@
         "title": "what font is this ???",
         "instructions": null,
         "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1229774.jpg",
-        "identified_font": null
+        "identified_font": "Blank's Script"
     },
     {
         "task_id": "582068",
@@ -36470,5 +36470,37 @@
         "instructions": null,
         "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1229770.jpg",
         "identified_font": null
+    },
+    {
+        "task_id": "582075",
+        "url": "https://www.dafont.com/forum/read/582075/sutherland-font",
+        "title": "Sutherland font?",
+        "instructions": "Hey, does anyone know this font? Because it's curved, I can't use the auto font identifier tools to find it.",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1229786.png",
+        "identified_font": null
+    },
+    {
+        "task_id": "582073",
+        "url": "https://www.dafont.com/forum/read/582073/font-name-please-tia",
+        "title": "Font name please! TIA",
+        "instructions": null,
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1229782.jpg",
+        "identified_font": null
+    },
+    {
+        "task_id": "582072",
+        "url": "https://www.dafont.com/forum/read/582072/hello-what-font-is-used-in-this-image-please",
+        "title": "Hello, what font is used in this image please?",
+        "instructions": "Christmas",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1229781.png",
+        "identified_font": null
+    },
+    {
+        "task_id": "504125",
+        "url": "https://www.dafont.com/forum/read/504125/font-lancamento-gloria-groove-lady-laste-font",
+        "title": "FONT LAN\u00c7AMENTO Gloria Groove - Lady Laste font?",
+        "instructions": null,
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/0/1070353.png",
+        "identified_font": "Pixo Reto SP"
     }
 ]
