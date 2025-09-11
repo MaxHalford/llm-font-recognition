@@ -52225,5 +52225,32 @@
         "candidate_font_3": "KG Red Hands",
         "candidate_font_4": "Sue Ellen Francisco",
         "candidate_font_5": "Patrick Hand"
+    },
+    {
+        "task_id": "582075",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Salloon Script",
+        "candidate_font_2": "Streetwear",
+        "candidate_font_3": "Lobster Two",
+        "candidate_font_4": "Pacifico",
+        "candidate_font_5": "Milkshake"
+    },
+    {
+        "task_id": "582073",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Amsterdam",
+        "candidate_font_2": "Adelio",
+        "candidate_font_3": "Bellagia",
+        "candidate_font_4": "Mellony",
+        "candidate_font_5": "Lovely Lovers"
+    },
+    {
+        "task_id": "582072",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Ice Caps",
+        "candidate_font_2": "Snow Top Caps",
+        "candidate_font_3": "Luckiest Guy",
+        "candidate_font_4": "Fredoka One",
+        "candidate_font_5": "Kids Nite"
     }
 ]
