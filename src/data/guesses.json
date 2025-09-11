@@ -52315,5 +52315,32 @@
         "candidate_font_3": "Arial Rounded MT Bold",
         "candidate_font_4": "Chalet Comprime Cologne Bold",
         "candidate_font_5": "Futura Display Bold"
+    },
+    {
+        "task_id": "582087",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Constantine",
+        "candidate_font_2": "Angellina Script",
+        "candidate_font_3": "Betterfly Script",
+        "candidate_font_4": "The Rustic Font",
+        "candidate_font_5": "Qoentini Script"
+    },
+    {
+        "task_id": "582084",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Porky's",
+        "candidate_font_2": "Obelix Pro",
+        "candidate_font_3": "VAG Rounded Black",
+        "candidate_font_4": "Luckiest Guy",
+        "candidate_font_5": "Fredoka One"
+    },
+    {
+        "task_id": "582083",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Magnolia Sky",
+        "candidate_font_2": "Adelina Script",
+        "candidate_font_3": "Jonathan",
+        "candidate_font_4": "Beautiful People",
+        "candidate_font_5": "Alex Brush"
     }
 ]
