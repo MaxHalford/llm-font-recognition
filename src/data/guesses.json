@@ -52189,5 +52189,41 @@
         "candidate_font_3": "Source Sans Pro",
         "candidate_font_4": "Roboto",
         "candidate_font_5": "Inter"
+    },
+    {
+        "task_id": "582071",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Bauhaus 93",
+        "candidate_font_2": "DIN 1451",
+        "candidate_font_3": "Eurostile",
+        "candidate_font_4": "ITC Avant Garde Gothic",
+        "candidate_font_5": "Futura"
+    },
+    {
+        "task_id": "582069",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Bayshore",
+        "candidate_font_2": "Milkshake",
+        "candidate_font_3": "Pacifico",
+        "candidate_font_4": "Cream Cake",
+        "candidate_font_5": "Bromello"
+    },
+    {
+        "task_id": "582068",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Aphrodite Slim Pro",
+        "candidate_font_2": "Aphrodite Pro",
+        "candidate_font_3": "Bickham Script Pro 3",
+        "candidate_font_4": "Shelley Script",
+        "candidate_font_5": "Edwardian Script ITC"
+    },
+    {
+        "task_id": "582067",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Groovy Wave",
+        "candidate_font_2": "Work Sans",
+        "candidate_font_3": "KG Red Hands",
+        "candidate_font_4": "Sue Ellen Francisco",
+        "candidate_font_5": "Patrick Hand"
     }
 ]
