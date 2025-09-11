@@ -52252,5 +52252,68 @@
         "candidate_font_3": "Luckiest Guy",
         "candidate_font_4": "Fredoka One",
         "candidate_font_5": "Kids Nite"
+    },
+    {
+        "task_id": "189312",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Bank Gothic Medium Extended",
+        "candidate_font_2": "Eurostile Extended Black",
+        "candidate_font_3": "Square 721 Std Black Extended",
+        "candidate_font_4": "Open Sans Light",
+        "candidate_font_5": "Montserrat Light"
+    },
+    {
+        "task_id": "582081",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Trade Gothic Bold No. 2",
+        "candidate_font_2": "Trade Gothic Bold Italic",
+        "candidate_font_3": "News Gothic Bold",
+        "candidate_font_4": "Franklin Gothic Heavy",
+        "candidate_font_5": "Akzidenz-Grotesk Bold"
+    },
+    {
+        "task_id": "582080",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Horror Vista",
+        "candidate_font_2": "Black Orchestra",
+        "candidate_font_3": "Brush Strike",
+        "candidate_font_4": "Anatomia",
+        "candidate_font_5": "Creep Blood"
+    },
+    {
+        "task_id": "582079",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Frutiger",
+        "candidate_font_2": "Calibri",
+        "candidate_font_3": "Mplus 1c",
+        "candidate_font_4": "Univers",
+        "candidate_font_5": "Gotham"
+    },
+    {
+        "task_id": "582077",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Poppins ExtraBold",
+        "candidate_font_2": "Nunito Black",
+        "candidate_font_3": "Montserrat Black",
+        "candidate_font_4": "Gotham Black",
+        "candidate_font_5": "Open Sans ExtraBold"
+    },
+    {
+        "task_id": "582076",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Built Titling",
+        "candidate_font_2": "Luckiest Guy",
+        "candidate_font_3": "Bangers",
+        "candidate_font_4": "Titan One",
+        "candidate_font_5": "Oswald Bold"
+    },
+    {
+        "task_id": "34843",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "SF Subway Font",
+        "candidate_font_2": "VAG Rounded Bold",
+        "candidate_font_3": "Arial Rounded MT Bold",
+        "candidate_font_4": "Chalet Comprime Cologne Bold",
+        "candidate_font_5": "Futura Display Bold"
     }
 ]
