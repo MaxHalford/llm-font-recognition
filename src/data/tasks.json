@@ -36309,7 +36309,7 @@
         "title": "please help me to id this font.",
         "instructions": "thanks in advance.",
         "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1229737.png",
-        "identified_font": null
+        "identified_font": "Aka Dylan"
     },
     {
         "task_id": "366820",
@@ -36357,6 +36357,46 @@
         "title": "Font",
         "instructions": null,
         "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1229725.jpg",
+        "identified_font": null
+    },
+    {
+        "task_id": "582060",
+        "url": "https://www.dafont.com/forum/read/582060/coaldent",
+        "title": "Coaldent",
+        "instructions": "Saben q tipograf\u00eda es la de Coaldent",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1229753.jpg",
+        "identified_font": null
+    },
+    {
+        "task_id": "582059",
+        "url": "https://www.dafont.com/forum/read/582059/tu-mejor-sonrisa",
+        "title": "Tu mejor sonrisa",
+        "instructions": "Alguien conoce esta tipograf\u00eda",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1229751.png",
+        "identified_font": null
+    },
+    {
+        "task_id": "582058",
+        "url": "https://www.dafont.com/forum/read/582058/what-is-this-font",
+        "title": "What is this font?",
+        "instructions": null,
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1229750.png",
+        "identified_font": null
+    },
+    {
+        "task_id": "582057",
+        "url": "https://www.dafont.com/forum/read/582057/story-so-far",
+        "title": "Story so far...",
+        "instructions": null,
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1229749.jpg",
+        "identified_font": null
+    },
+    {
+        "task_id": "582056",
+        "url": "https://www.dafont.com/forum/read/582056/make-christmas-magic",
+        "title": "Make Christmas Magic",
+        "instructions": "Please!! Font of \"Make Christmas Magic\"?? Thank you very much in advance.",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1229742.png?1",
         "identified_font": null
     }
 ]
