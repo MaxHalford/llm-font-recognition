@@ -52342,5 +52342,104 @@
         "candidate_font_3": "Jonathan",
         "candidate_font_4": "Beautiful People",
         "candidate_font_5": "Alex Brush"
+    },
+    {
+        "task_id": "582102",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "SF Square Head Bold",
+        "candidate_font_2": "Digital Block",
+        "candidate_font_3": "Neo Geo Geo",
+        "candidate_font_4": "VCR OSD Mono",
+        "candidate_font_5": "Arcade Classic"
+    },
+    {
+        "task_id": "582101",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Komika Title",
+        "candidate_font_2": "Fredoka One",
+        "candidate_font_3": "Chewy",
+        "candidate_font_4": "Anton",
+        "candidate_font_5": "Oswald Bold"
+    },
+    {
+        "task_id": "582100",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "VAG Rounded",
+        "candidate_font_2": "Gotham Rounded",
+        "candidate_font_3": "Fredoka One",
+        "candidate_font_4": "Baloo 2",
+        "candidate_font_5": "Nunito"
+    },
+    {
+        "task_id": "582098",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Russo One",
+        "candidate_font_2": "Anton",
+        "candidate_font_3": "Bebas Neue",
+        "candidate_font_4": "Oswald",
+        "candidate_font_5": "Akrobat Black"
+    },
+    {
+        "task_id": "582095",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Didot",
+        "candidate_font_2": "ITC Didot",
+        "candidate_font_3": "Bodoni",
+        "candidate_font_4": "Playfair Display",
+        "candidate_font_5": "Libre Bodoni"
+    },
+    {
+        "task_id": "582094",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Hudson NY",
+        "candidate_font_2": "Lawless",
+        "candidate_font_3": "Portico",
+        "candidate_font_4": "Blackriver",
+        "candidate_font_5": "Hochstadt"
+    },
+    {
+        "task_id": "414164",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "SF Alien Encounters Solid Italic",
+        "candidate_font_2": "SF Atarian System Italic",
+        "candidate_font_3": "SF TransRobotics Italic",
+        "candidate_font_4": "Road Rage",
+        "candidate_font_5": "Terminator Real NFI Italic"
+    },
+    {
+        "task_id": "582093",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Neuzeit Grotesk",
+        "candidate_font_2": "Akzidenz-Grotesk",
+        "candidate_font_3": "Univers",
+        "candidate_font_4": "Berthold Grotesk",
+        "candidate_font_5": ""
+    },
+    {
+        "task_id": "582092",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Trade Gothic Bold No. 2",
+        "candidate_font_2": "Univers 45 Light",
+        "candidate_font_3": "Akzidenz-Grotesk BQ Bold",
+        "candidate_font_4": "Helvetica Neue Light",
+        "candidate_font_5": "Impact"
+    },
+    {
+        "task_id": "582091",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Neuzeit Grotesk",
+        "candidate_font_2": "Univers",
+        "candidate_font_3": "Folio",
+        "candidate_font_4": "Times New Roman Italic",
+        "candidate_font_5": "Franklin Gothic Condensed"
+    },
+    {
+        "task_id": "582089",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Pinyon Script",
+        "candidate_font_2": "Lavanderia",
+        "candidate_font_3": "Great Vibes",
+        "candidate_font_4": "Alex Brush",
+        "candidate_font_5": "Edwardian Script ITC"
     }
 ]
