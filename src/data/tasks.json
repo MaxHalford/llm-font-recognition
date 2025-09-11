@@ -33211,7 +33211,7 @@
         "task_id": "581636",
         "url": "https://www.dafont.com/forum/read/581636/lovesick-game",
         "title": "LoveSick Game",
-        "instructions": "",
+        "instructions": null,
         "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1228937.png",
         "identified_font": null
     },
@@ -33549,7 +33549,7 @@
         "title": "cake topper font",
         "instructions": "could someone help me please?? what font it is?",
         "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1229000.jpg",
-        "identified_font": null
+        "identified_font": "Willow"
     },
     {
         "task_id": "581675",
@@ -36437,6 +36437,38 @@
         "title": "PLS HELP ME",
         "instructions": "I WANNA KNOW THIS FONT. THANKYOUU",
         "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1229760.png",
+        "identified_font": null
+    },
+    {
+        "task_id": "582071",
+        "url": "https://www.dafont.com/forum/read/582071/font",
+        "title": "Font",
+        "instructions": null,
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1229776.png",
+        "identified_font": null
+    },
+    {
+        "task_id": "582069",
+        "url": "https://www.dafont.com/forum/read/582069/what-font-is-this",
+        "title": "what font is this ???",
+        "instructions": null,
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1229774.jpg",
+        "identified_font": null
+    },
+    {
+        "task_id": "582068",
+        "url": "https://www.dafont.com/forum/read/582068/sombody-to-help-me",
+        "title": "SOMBODY TO HELP ME?",
+        "instructions": "WHAT FONT IS THIS...",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1229772.jpg",
+        "identified_font": null
+    },
+    {
+        "task_id": "582067",
+        "url": "https://www.dafont.com/forum/read/582067/jaypark-on-top",
+        "title": "jaypark on top",
+        "instructions": null,
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1229770.jpg",
         "identified_font": null
     }
 ]
