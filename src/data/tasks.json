@@ -36300,8 +36300,8 @@
         "url": "https://www.dafont.com/forum/read/582055/fresh-urban",
         "title": "FRESH URBAN",
         "instructions": "I can find this font?  Any suggestions?",
-        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1229739.jpg",
-        "identified_font": null
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1229739.png?1",
+        "identified_font": "Barber Label"
     },
     {
         "task_id": "582054",
@@ -36573,7 +36573,7 @@
         "title": "Fonts please?",
         "instructions": null,
         "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1229822.jpg",
-        "identified_font": null
+        "identified_font": "Brand"
     },
     {
         "task_id": "582082",
@@ -36597,6 +36597,102 @@
         "title": "Identificaci\u00f3n de fuente",
         "instructions": null,
         "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1229809.png",
+        "identified_font": null
+    },
+    {
+        "task_id": "582102",
+        "url": "https://www.dafont.com/forum/read/582102/speed-best-logo-font",
+        "title": "Speed &#12450;&#12491;&#12513;&#12488;&#12521;&#12531;&#12473; Best logo font",
+        "instructions": null,
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1229846.png?1",
+        "identified_font": null
+    },
+    {
+        "task_id": "582101",
+        "url": "https://www.dafont.com/forum/read/582101/font",
+        "title": "Font",
+        "instructions": null,
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1229845.jpg",
+        "identified_font": null
+    },
+    {
+        "task_id": "582100",
+        "url": "https://www.dafont.com/forum/read/582100/gostaria-de-saber-quais-fontes-dessa-imagem",
+        "title": "Gostaria de saber quais fontes dessa imagem",
+        "instructions": "\u00c9 a fonte usada na faixa da rachel em friends",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1229844.jpg",
+        "identified_font": null
+    },
+    {
+        "task_id": "582098",
+        "url": "https://www.dafont.com/forum/read/582098/bini-oxgyen-font",
+        "title": "BINI \u0091OXGYEN\u0092 Font",
+        "instructions": "I\u0092m trying to identify the font used by BINI in their song \u0093OXGYEN.\u0094 I\u0092ve been searching online but haven\u0092t had any luck so far. I had a font that looked very similar to this, but I\u0092ve forgotten its name, also I got a new PC and didn\u0092t transfer the font before setting it up.",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1229842.jpg",
+        "identified_font": null
+    },
+    {
+        "task_id": "582088",
+        "url": "https://www.dafont.com/forum/read/582088/font-help",
+        "title": "Font Help",
+        "instructions": null,
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1229825.jpg",
+        "identified_font": "Matura"
+    },
+    {
+        "task_id": "582095",
+        "url": "https://www.dafont.com/forum/read/582095/can-anybody-please-help-find-this-font",
+        "title": "Can anybody please help find this font?",
+        "instructions": "Can anybody please help find this font",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1229837.jpg",
+        "identified_font": null
+    },
+    {
+        "task_id": "582094",
+        "url": "https://www.dafont.com/forum/read/582094/hog-ball-font-needed",
+        "title": "Hog ball - font needed",
+        "instructions": null,
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1229836.png",
+        "identified_font": null
+    },
+    {
+        "task_id": "414164",
+        "url": "https://www.dafont.com/forum/read/414164/heartbeat-font",
+        "title": "Heartbeat font",
+        "instructions": "someone know the font used in \"heartbeat\"? thanks",
+        "img_url": "https://www.dafont.com/forum/attach/orig/8/9/891681.jpg?1",
+        "identified_font": null
+    },
+    {
+        "task_id": "582093",
+        "url": "https://www.dafont.com/forum/read/582093/font",
+        "title": "Font",
+        "instructions": null,
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1229830.jpg",
+        "identified_font": null
+    },
+    {
+        "task_id": "582092",
+        "url": "https://www.dafont.com/forum/read/582092/rrr",
+        "title": "Rrr",
+        "instructions": null,
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1229829.png",
+        "identified_font": null
+    },
+    {
+        "task_id": "582091",
+        "url": "https://www.dafont.com/forum/read/582091/font",
+        "title": "Font",
+        "instructions": null,
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1229828.png",
+        "identified_font": null
+    },
+    {
+        "task_id": "582089",
+        "url": "https://www.dafont.com/forum/read/582089/gentry",
+        "title": "Gentry",
+        "instructions": "i know this is a rough image.  anyone know this one?  thanks in advance.",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1229826.jpg",
         "identified_font": null
     }
 ]
