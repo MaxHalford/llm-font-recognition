@@ -52702,5 +52702,59 @@
         "candidate_font_3": "Gotham",
         "candidate_font_4": "Proxima Nova",
         "candidate_font_5": "Brandon Grotesque"
+    },
+    {
+        "task_id": "582157",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Lovely Melody",
+        "candidate_font_2": "Chewy",
+        "candidate_font_3": "Bright Script",
+        "candidate_font_4": "Bubblegum Sans",
+        "candidate_font_5": "Puffy Stuff"
+    },
+    {
+        "task_id": "582156",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Press Start 2P",
+        "candidate_font_2": "Pixel Operator 8",
+        "candidate_font_3": "04b_03",
+        "candidate_font_4": "Retro Gaming",
+        "candidate_font_5": "Eight Bit Dragon"
+    },
+    {
+        "task_id": "582155",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Player 1 Up",
+        "candidate_font_2": "Obelix Pro",
+        "candidate_font_3": "Grobold",
+        "candidate_font_4": "Fredoka One",
+        "candidate_font_5": "Luckiest Guy"
+    },
+    {
+        "task_id": "582144",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Bubblegum Sans",
+        "candidate_font_2": "Grobold",
+        "candidate_font_3": "Chewy",
+        "candidate_font_4": "Luckiest Guy",
+        "candidate_font_5": "Fredoka One"
+    },
+    {
+        "task_id": "582143",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Stay Gracious",
+        "candidate_font_2": "The Signature",
+        "candidate_font_3": "Lovely Melissa",
+        "candidate_font_4": "Beautiful Minds",
+        "candidate_font_5": "Magnolia Sky"
+    },
+    {
+        "task_id": "582139",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "After Hours by Syafii",
+        "candidate_font_2": "Midnight Killer",
+        "candidate_font_3": "SF Distant Galaxy",
+        "candidate_font_4": "Metamorphous",
+        "candidate_font_5": "Avengeance"
     }
 ]
