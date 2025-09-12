@@ -36821,7 +36821,7 @@
         "title": "What is this font?",
         "instructions": "Many thanks.",
         "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1229887.png?1",
-        "identified_font": null
+        "identified_font": "Crillee"
     },
     {
         "task_id": "582127",
@@ -36893,7 +36893,7 @@
         "title": "what is this font?",
         "instructions": "help me identify this font",
         "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1229919.png",
-        "identified_font": null
+        "identified_font": "Sugar Pie"
     },
     {
         "task_id": "557600",
@@ -36917,6 +36917,46 @@
         "title": "HELP!",
         "instructions": "Hi! Please i need a help whith the name of this font",
         "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1229915.png?1",
+        "identified_font": null
+    },
+    {
+        "task_id": "582137",
+        "url": "https://www.dafont.com/forum/read/582137/f",
+        "title": "F",
+        "instructions": null,
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1229944.jpg",
+        "identified_font": null
+    },
+    {
+        "task_id": "582136",
+        "url": "https://www.dafont.com/forum/read/582136/what-font-is-this-from",
+        "title": "What font is this from?",
+        "instructions": "What font is this from in \"COME TO ROOM\"?",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1229942.jpg",
+        "identified_font": null
+    },
+    {
+        "task_id": "555077",
+        "url": "https://www.dafont.com/forum/read/555077/tele-blue",
+        "title": "Tele Blue",
+        "instructions": "what is the name of both fonts?",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/1/1173997.png?1",
+        "identified_font": "Times New Roman Bold Italic"
+    },
+    {
+        "task_id": "582135",
+        "url": "https://www.dafont.com/forum/read/582135/what-font-is-this",
+        "title": "What font is this?",
+        "instructions": "Please identify the font used in this design.",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1229940.jpg",
+        "identified_font": null
+    },
+    {
+        "task_id": "479844",
+        "url": "https://www.dafont.com/forum/read/479844/font-similar",
+        "title": "Font Similar",
+        "instructions": "Good morning, I can not get this font, can someone help me?",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/0/1022317.png",
         "identified_font": null
     }
 ]
