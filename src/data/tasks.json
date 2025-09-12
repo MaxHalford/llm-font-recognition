@@ -36812,8 +36812,8 @@
         "url": "https://www.dafont.com/forum/read/582121/help-please",
         "title": "Help please",
         "instructions": "I need this font please. Thank you in advance",
-        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1229897.jpg",
-        "identified_font": null
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1229897.png?1",
+        "identified_font": "Bookmania"
     },
     {
         "task_id": "582118",
@@ -36821,6 +36821,54 @@
         "title": "What is this font?",
         "instructions": "Many thanks.",
         "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1229887.png?1",
+        "identified_font": null
+    },
+    {
+        "task_id": "582127",
+        "url": "https://www.dafont.com/forum/read/582127/moiba",
+        "title": "MOIBA",
+        "instructions": "qui\u00e9n sabe la tipo",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1229907.png",
+        "identified_font": null
+    },
+    {
+        "task_id": "582126",
+        "url": "https://www.dafont.com/forum/read/582126/number-chart",
+        "title": "Number chart",
+        "instructions": "What font is in this chart?",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1229905.jpg",
+        "identified_font": null
+    },
+    {
+        "task_id": "582125",
+        "url": "https://www.dafont.com/forum/read/582125/font",
+        "title": "Font",
+        "instructions": "Good morning, I can not get this font, can someone help me?",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1229903.png",
+        "identified_font": null
+    },
+    {
+        "task_id": "582124",
+        "url": "https://www.dafont.com/forum/read/582124/brand",
+        "title": "BRAND",
+        "instructions": "THE RUCK AND MAUL CLUB",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1229902.png",
+        "identified_font": null
+    },
+    {
+        "task_id": "582123",
+        "url": "https://www.dafont.com/forum/read/582123/brand",
+        "title": "Brand",
+        "instructions": "THE RUCK AND MAUL CLUB",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1229901.png",
+        "identified_font": null
+    },
+    {
+        "task_id": "582122",
+        "url": "https://www.dafont.com/forum/read/582122/font-los-hilos-del-pasado-plis",
+        "title": "Font Los Hilos del Pasado plis!!!",
+        "instructions": "Buenas!!, Busco el nombre de las Font \"Hilos\" y \"Los Del Pasado\" porfavor y gracias!!!",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1229899.jpg",
         "identified_font": null
     }
 ]
