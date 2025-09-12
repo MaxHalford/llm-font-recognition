@@ -15884,8 +15884,8 @@
         "url": "https://www.dafont.com/forum/read/578643/font-name",
         "title": "Font name",
         "instructions": "You know what is the name of that font? Thank you",
-        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1222756.png",
-        "identified_font": null
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1222756.png?1",
+        "identified_font": "Germanika"
     },
     {
         "task_id": "578628",
@@ -36533,7 +36533,7 @@
         "title": "Kamen Rider Drive Fonts: People",
         "instructions": "What font is this called?",
         "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1229798.jpg",
-        "identified_font": null
+        "identified_font": "Prototype"
     },
     {
         "task_id": "582077",
@@ -36781,7 +36781,7 @@
         "title": "What fonts are used?",
         "instructions": null,
         "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1229864.png",
-        "identified_font": null
+        "identified_font": "Jack Stanislav"
     },
     {
         "task_id": "582114",
@@ -36797,7 +36797,7 @@
         "title": "Need the top font on this",
         "instructions": null,
         "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1229865.png",
-        "identified_font": null
+        "identified_font": "Univers"
     },
     {
         "task_id": "582117",
@@ -36806,5 +36806,21 @@
         "instructions": "what is the font on the tshirt",
         "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1229880.png?1",
         "identified_font": "Canterbury"
+    },
+    {
+        "task_id": "582121",
+        "url": "https://www.dafont.com/forum/read/582121/help-please",
+        "title": "Help please",
+        "instructions": "I need this font please. Thank you in advance",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1229897.jpg",
+        "identified_font": null
+    },
+    {
+        "task_id": "582118",
+        "url": "https://www.dafont.com/forum/read/582118/what-is-this-font",
+        "title": "What is this font?",
+        "instructions": "Many thanks.",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1229887.png?1",
+        "identified_font": null
     }
 ]
