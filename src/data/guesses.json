@@ -52495,5 +52495,50 @@
         "candidate_font_3": "Good Times",
         "candidate_font_4": "Rajdhani Bold",
         "candidate_font_5": "Muller ExtraBold"
+    },
+    {
+        "task_id": "582115",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Bloody",
+        "candidate_font_2": "YouMurderer",
+        "candidate_font_3": "Creepy Drips",
+        "candidate_font_4": "Hallowen Drips",
+        "candidate_font_5": "Bloodfeast"
+    },
+    {
+        "task_id": "582113",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Visby Round CF",
+        "candidate_font_2": "Codec Pro Rounded",
+        "candidate_font_3": "Uni Sans Rounded",
+        "candidate_font_4": "Gotham Rounded",
+        "candidate_font_5": "Avenir Next Rounded"
+    },
+    {
+        "task_id": "582110",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Headliner No. 45",
+        "candidate_font_2": "Big Noodle Titling",
+        "candidate_font_3": "Montserrat Bold",
+        "candidate_font_4": "Montserrat Regular",
+        "candidate_font_5": "Quicksand Bold"
+    },
+    {
+        "task_id": "582114",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Glamour Absolute",
+        "candidate_font_2": "Voyage",
+        "candidate_font_3": "TAN - MERCY",
+        "candidate_font_4": "Luxerie",
+        "candidate_font_5": "Aphrodite Pro"
+    },
+    {
+        "task_id": "582111",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Baloo Regular",
+        "candidate_font_2": "VAG Rounded",
+        "candidate_font_3": "Gotham Rounded",
+        "candidate_font_4": "Quicksand",
+        "candidate_font_5": "Nunito"
     }
 ]
