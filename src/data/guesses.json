@@ -52558,5 +52558,59 @@
         "candidate_font_3": "Fredoka One",
         "candidate_font_4": "Mochiy Pop One",
         "candidate_font_5": "VAG Rounded"
+    },
+    {
+        "task_id": "582127",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Futura Heavy",
+        "candidate_font_2": "Avenir Black",
+        "candidate_font_3": "ITC Avant Garde Gothic Bold",
+        "candidate_font_4": "Gotham Black",
+        "candidate_font_5": "Proxima Nova Black"
+    },
+    {
+        "task_id": "582126",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Chubby Cheeks",
+        "candidate_font_2": "Bubblegum Sans",
+        "candidate_font_3": "Fredoka One",
+        "candidate_font_4": "Luckiest Guy",
+        "candidate_font_5": "Ranchers"
+    },
+    {
+        "task_id": "582125",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Minion Pro Italic",
+        "candidate_font_2": "Adobe Garamond Pro Italic",
+        "candidate_font_3": "EB Garamond Italic",
+        "candidate_font_4": "Gentium Book Basic Italic",
+        "candidate_font_5": "Janson Text Italic"
+    },
+    {
+        "task_id": "582124",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Montserrat Black",
+        "candidate_font_2": "Oswald Bold",
+        "candidate_font_3": "Anton",
+        "candidate_font_4": "Open Sans Regular",
+        "candidate_font_5": "Bebas Neue Bold"
+    },
+    {
+        "task_id": "582123",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "LTC Bodoni 175",
+        "candidate_font_2": "Libre Bodoni",
+        "candidate_font_3": "Playfair Display",
+        "candidate_font_4": "Bodoni MT",
+        "candidate_font_5": "Didot"
+    },
+    {
+        "task_id": "582122",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Magnolia Sky",
+        "candidate_font_2": "Didot",
+        "candidate_font_3": "Bellisia",
+        "candidate_font_4": "Bodoni",
+        "candidate_font_5": "Playfair Display"
     }
 ]
