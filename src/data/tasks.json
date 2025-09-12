@@ -35940,7 +35940,7 @@
         "url": "https://www.dafont.com/forum/read/582012/qual-a-fonte",
         "title": "Qual a fonte?",
         "instructions": null,
-        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1229633.jpg",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1229633.png?1",
         "identified_font": null
     },
     {
@@ -36700,7 +36700,7 @@
         "url": "https://www.dafont.com/forum/read/582108/number-roundup",
         "title": "Number roundup",
         "instructions": "What is the font of theses wild numbers?",
-        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1229862.jpg",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1229862.png?1",
         "identified_font": null
     },
     {
@@ -36750,5 +36750,53 @@
         "instructions": null,
         "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1229853.png",
         "identified_font": "Railey"
+    },
+    {
+        "task_id": "582115",
+        "url": "https://www.dafont.com/forum/read/582115/what-font-is-this",
+        "title": "what font is this?",
+        "instructions": "can anyone help me identified this fonts?",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1229871.jpg",
+        "identified_font": null
+    },
+    {
+        "task_id": "582113",
+        "url": "https://www.dafont.com/forum/read/582113/help-with-font-identification",
+        "title": "Help with font identification:",
+        "instructions": "Does anyone know what font this is? It can also be a similar font.",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1229868.png",
+        "identified_font": null
+    },
+    {
+        "task_id": "582116",
+        "url": "https://www.dafont.com/forum/read/582116/what-font-is-this",
+        "title": "What font is this?",
+        "instructions": null,
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1229872.jpg",
+        "identified_font": "Pompiere"
+    },
+    {
+        "task_id": "582110",
+        "url": "https://www.dafont.com/forum/read/582110/what-fonts-are-used",
+        "title": "What fonts are used?",
+        "instructions": null,
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1229864.png",
+        "identified_font": null
+    },
+    {
+        "task_id": "582114",
+        "url": "https://www.dafont.com/forum/read/582114/solaris",
+        "title": "Solaris",
+        "instructions": null,
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1229870.jpg",
+        "identified_font": null
+    },
+    {
+        "task_id": "582111",
+        "url": "https://www.dafont.com/forum/read/582111/need-the-top-font-on-this",
+        "title": "Need the top font on this",
+        "instructions": null,
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1229865.png",
+        "identified_font": null
     }
 ]
