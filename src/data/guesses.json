@@ -52612,5 +52612,59 @@
         "candidate_font_3": "Bellisia",
         "candidate_font_4": "Bodoni",
         "candidate_font_5": "Playfair Display"
+    },
+    {
+        "task_id": "582134",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "S.A.M.O.",
+        "candidate_font_2": "SF Square Head",
+        "candidate_font_3": "SF Transrobotics",
+        "candidate_font_4": "Microgramma D Extended",
+        "candidate_font_5": "Audiowide"
+    },
+    {
+        "task_id": "582133",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Angeline",
+        "candidate_font_2": "Storybook",
+        "candidate_font_3": "Magnolia Sky",
+        "candidate_font_4": "Better Together",
+        "candidate_font_5": "Billion Dreams"
+    },
+    {
+        "task_id": "582130",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Smash It",
+        "candidate_font_2": "Happy Lemon",
+        "candidate_font_3": "Little Pea",
+        "candidate_font_4": "Oh Wonderful",
+        "candidate_font_5": "Hello Doodle"
+    },
+    {
+        "task_id": "557600",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Fredoka One",
+        "candidate_font_2": "Acme",
+        "candidate_font_3": "Baloo 2 ExtraBold",
+        "candidate_font_4": "Luckiest Guy",
+        "candidate_font_5": "VAG Rounded Bold"
+    },
+    {
+        "task_id": "564808",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "United Sans Condensed Black",
+        "candidate_font_2": "Impact",
+        "candidate_font_3": "Bebas Neue Bold",
+        "candidate_font_4": "Compacta Bold",
+        "candidate_font_5": "Agency FB Black"
+    },
+    {
+        "task_id": "582129",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Cinzel",
+        "candidate_font_2": "Herr Von Muellerhoff",
+        "candidate_font_3": "Trajan Pro",
+        "candidate_font_4": "Montez",
+        "candidate_font_5": "Augusta"
     }
 ]
