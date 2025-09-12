@@ -24541,7 +24541,7 @@
         "title": "Nome del font",
         "instructions": "Nome del font, grazie.",
         "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1226446.jpg",
-        "identified_font": null
+        "identified_font": "Mako Bold"
     },
     {
         "task_id": "580410",
@@ -36060,7 +36060,7 @@
         "url": "https://www.dafont.com/forum/read/582038/quisiera-saber-el-tipo-de-fuente-de-esta-imagen",
         "title": "Quisiera saber el tipo de fuente de esta imagen",
         "instructions": null,
-        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1229683.png",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1229683.png?1",
         "identified_font": null
     },
     {
@@ -36337,8 +36337,8 @@
     },
     {
         "task_id": "582049",
-        "url": "https://www.dafont.com/forum/read/582049/please-please-need-this-asap",
-        "title": "please please need this asap",
+        "url": "https://www.dafont.com/forum/read/582049/help-anyone-know-this-font",
+        "title": "HELP!! Anyone know this font?",
         "instructions": null,
         "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1229727.jpg",
         "identified_font": null
@@ -36764,8 +36764,8 @@
         "url": "https://www.dafont.com/forum/read/582113/help-with-font-identification",
         "title": "Help with font identification:",
         "instructions": "Does anyone know what font this is? It can also be a similar font.",
-        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1229868.png",
-        "identified_font": null
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1229868.png?1",
+        "identified_font": "Eurostile Extended #2"
     },
     {
         "task_id": "582116",
@@ -36829,7 +36829,7 @@
         "title": "MOIBA",
         "instructions": "qui\u00e9n sabe la tipo",
         "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1229907.png",
-        "identified_font": null
+        "identified_font": "Quantify"
     },
     {
         "task_id": "582126",
@@ -36869,6 +36869,54 @@
         "title": "Font Los Hilos del Pasado plis!!!",
         "instructions": "Buenas!!, Busco el nombre de las Font \"Hilos\" y \"Los Del Pasado\" porfavor y gracias!!!",
         "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1229899.jpg",
+        "identified_font": null
+    },
+    {
+        "task_id": "582134",
+        "url": "https://www.dafont.com/forum/read/582134/i-need-the-font-please-thanks",
+        "title": "I need the font, please! thanks",
+        "instructions": null,
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1229930.png",
+        "identified_font": null
+    },
+    {
+        "task_id": "582133",
+        "url": "https://www.dafont.com/forum/read/582133/please-try-to-identify-this-font",
+        "title": "please try to identify this font",
+        "instructions": null,
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1229929.png?1",
+        "identified_font": null
+    },
+    {
+        "task_id": "582130",
+        "url": "https://www.dafont.com/forum/read/582130/what-is-this-font",
+        "title": "what is this font?",
+        "instructions": "help me identify this font",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1229919.png",
+        "identified_font": null
+    },
+    {
+        "task_id": "557600",
+        "url": "https://www.dafont.com/forum/read/557600/nome-del-font",
+        "title": "Nome del font",
+        "instructions": "Qualcuno conosce il nome di questo font? Grazie",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/1/1179286.jpg",
+        "identified_font": null
+    },
+    {
+        "task_id": "564808",
+        "url": "https://www.dafont.com/forum/read/564808/nome-del-font",
+        "title": "Nome del font",
+        "instructions": "Nome del font, grazie",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/1/1194576.png?1",
+        "identified_font": null
+    },
+    {
+        "task_id": "582129",
+        "url": "https://www.dafont.com/forum/read/582129/help",
+        "title": "HELP!",
+        "instructions": "Hi! Please i need a help whith the name of this font",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1229915.png?1",
         "identified_font": null
     }
 ]
