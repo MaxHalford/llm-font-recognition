@@ -52666,5 +52666,41 @@
         "candidate_font_3": "Trajan Pro",
         "candidate_font_4": "Montez",
         "candidate_font_5": "Augusta"
+    },
+    {
+        "task_id": "582137",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Obelix Pro",
+        "candidate_font_2": "Charlemagne Std",
+        "candidate_font_3": "Lato",
+        "candidate_font_4": "Garamond",
+        "candidate_font_5": "Franklin Gothic"
+    },
+    {
+        "task_id": "582136",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Avenir Black",
+        "candidate_font_2": "Gotham Black",
+        "candidate_font_3": "Montserrat Black",
+        "candidate_font_4": "Uni Sans Heavy",
+        "candidate_font_5": "Proxima Nova Black"
+    },
+    {
+        "task_id": "582135",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Magic Witch",
+        "candidate_font_2": "The Witch",
+        "candidate_font_3": "Nightmare Rhapsody",
+        "candidate_font_4": "Ghostly Kisses",
+        "candidate_font_5": "Midnight Terror"
+    },
+    {
+        "task_id": "479844",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Montserrat",
+        "candidate_font_2": "Poppins",
+        "candidate_font_3": "Gotham",
+        "candidate_font_4": "Proxima Nova",
+        "candidate_font_5": "Brandon Grotesque"
     }
 ]
