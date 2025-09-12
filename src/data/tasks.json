@@ -36933,7 +36933,7 @@
         "title": "What font is this from?",
         "instructions": "What font is this from in \"COME TO ROOM\"?",
         "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1229942.jpg",
-        "identified_font": null
+        "identified_font": "Avenir Next"
     },
     {
         "task_id": "555077",
@@ -36957,6 +36957,78 @@
         "title": "Font Similar",
         "instructions": "Good morning, I can not get this font, can someone help me?",
         "img_url": "https://www.dafont.com/forum/attach/orig/1/0/1022317.png",
+        "identified_font": null
+    },
+    {
+        "task_id": "582157",
+        "url": "https://www.dafont.com/forum/read/582157/what-new-and-look-font",
+        "title": "what NEW and LOOK font?",
+        "instructions": null,
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1229975.png",
+        "identified_font": null
+    },
+    {
+        "task_id": "582156",
+        "url": "https://www.dafont.com/forum/read/582156/super-ball-juggling",
+        "title": "Super ball juggling",
+        "instructions": "What is the font of the title?",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1229973.jpg",
+        "identified_font": null
+    },
+    {
+        "task_id": "582155",
+        "url": "https://www.dafont.com/forum/read/582155/294",
+        "title": "294",
+        "instructions": "What is the font of theses numbers?",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1229969.jpg",
+        "identified_font": null
+    },
+    {
+        "task_id": "582144",
+        "url": "https://www.dafont.com/forum/read/582144/fanpages-usually-use-it",
+        "title": "Fanpages usually use it",
+        "instructions": "Please help me find this exact same font.",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1229958.jpg",
+        "identified_font": null
+    },
+    {
+        "task_id": "582143",
+        "url": "https://www.dafont.com/forum/read/582143/que-fonte-e-essa",
+        "title": "Que fonte \u00e9 essa?",
+        "instructions": null,
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1229956.jpg",
+        "identified_font": null
+    },
+    {
+        "task_id": "582142",
+        "url": "https://www.dafont.com/forum/read/582142/snowboarding-flash-game",
+        "title": "Snowboarding flash game",
+        "instructions": null,
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1229952.png",
+        "identified_font": "HKI Metropol + Nightlife"
+    },
+    {
+        "task_id": "582138",
+        "url": "https://www.dafont.com/forum/read/582138/id-font",
+        "title": "ID FONT?",
+        "instructions": null,
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1229946.png",
+        "identified_font": "Bickham Script"
+    },
+    {
+        "task_id": "582141",
+        "url": "https://www.dafont.com/forum/read/582141/qual-a-fonte",
+        "title": "Qual a fonte?",
+        "instructions": "Qual o nome da fonte do texto Emp\u00f3rio Oliveira",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1229949.png",
+        "identified_font": "Harlow"
+    },
+    {
+        "task_id": "582139",
+        "url": "https://www.dafont.com/forum/read/582139/the-weeknd",
+        "title": "the weeknd",
+        "instructions": "hi does antbody know whast this font is please",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1229947.jpg",
         "identified_font": null
     }
 ]
