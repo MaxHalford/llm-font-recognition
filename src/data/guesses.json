@@ -52540,5 +52540,23 @@
         "candidate_font_3": "Gotham Rounded",
         "candidate_font_4": "Quicksand",
         "candidate_font_5": "Nunito"
+    },
+    {
+        "task_id": "582121",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Lovadelic",
+        "candidate_font_2": "Oswald",
+        "candidate_font_3": "Lemon Milk",
+        "candidate_font_4": "Gobold",
+        "candidate_font_5": "Groovy"
+    },
+    {
+        "task_id": "582118",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Baloo 2",
+        "candidate_font_2": "Lilita One",
+        "candidate_font_3": "Fredoka One",
+        "candidate_font_4": "Mochiy Pop One",
+        "candidate_font_5": "VAG Rounded"
     }
 ]
