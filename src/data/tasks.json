@@ -36461,7 +36461,7 @@
         "title": "SOMBODY TO HELP ME?",
         "instructions": "WHAT FONT IS THIS...",
         "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1229772.jpg",
-        "identified_font": null
+        "identified_font": "Snell Roundhand"
     },
     {
         "task_id": "582067",
@@ -36694,5 +36694,61 @@
         "instructions": "i know this is a rough image.  anyone know this one?  thanks in advance.",
         "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1229826.jpg",
         "identified_font": null
+    },
+    {
+        "task_id": "582108",
+        "url": "https://www.dafont.com/forum/read/582108/number-roundup",
+        "title": "Number roundup",
+        "instructions": "What is the font of theses wild numbers?",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1229862.jpg",
+        "identified_font": null
+    },
+    {
+        "task_id": "564138",
+        "url": "https://www.dafont.com/forum/read/564138/beetlejuice-handbook-for-the-recently-deceased",
+        "title": "Beetlejuice Handbook For The Recently Deceased",
+        "instructions": "What are the two fonts, used in the top of this prop book? Any help would be appreciated; thanks!",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/1/1193121.jpg",
+        "identified_font": null
+    },
+    {
+        "task_id": "582107",
+        "url": "https://www.dafont.com/forum/read/582107/need-help-to-find-this-font",
+        "title": "Need help to find this font!",
+        "instructions": "There's 2 versions in here",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1229860.jpg",
+        "identified_font": null
+    },
+    {
+        "task_id": "582106",
+        "url": "https://www.dafont.com/forum/read/582106/brain-dead-apparel",
+        "title": "Brain Dead Apparel",
+        "instructions": "This might be custom, but I'm hoping it's a typeface and that someone knows the name!",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1229859.jpg",
+        "identified_font": null
+    },
+    {
+        "task_id": "582105",
+        "url": "https://www.dafont.com/forum/read/582105/hammer-jokes",
+        "title": "Hammer Jokes",
+        "instructions": "I actually only need the bottom sans serif font.  Hammer Jokes I'm good on, but that bottom line is hard to identify.",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1229858.png",
+        "identified_font": null
+    },
+    {
+        "task_id": "582104",
+        "url": "https://www.dafont.com/forum/read/582104/messi",
+        "title": "Messi",
+        "instructions": "Hola! Que tipo de letra es la del logo de MESSI?",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1229857.png",
+        "identified_font": null
+    },
+    {
+        "task_id": "582103",
+        "url": "https://www.dafont.com/forum/read/582103/coral-baby",
+        "title": "Coral Baby",
+        "instructions": null,
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1229853.png",
+        "identified_font": "Railey"
     }
 ]
