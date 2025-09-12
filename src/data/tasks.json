@@ -33452,8 +33452,8 @@
         "url": "https://www.dafont.com/forum/read/581655/what-the-font-is",
         "title": "WHAT THE FONT IS??",
         "instructions": null,
-        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1228964.jpg",
-        "identified_font": null
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1228964.png?1",
+        "identified_font": "Aller Display"
     },
     {
         "task_id": "581673",
@@ -33497,11 +33497,11 @@
     },
     {
         "task_id": "581667",
-        "url": "https://www.dafont.com/forum/read/581667/tittle-font-iykyk-illit-please",
-        "title": "Tittle font \"IYKYK\" Illit please",
+        "url": "https://www.dafont.com/forum/read/581667/title-font-iykyk-illit-please",
+        "title": "Title font \"IYKYK\" Illit please",
         "instructions": null,
-        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1228986.jpg",
-        "identified_font": null
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1228986.jpg?1",
+        "identified_font": "Balmon Sans"
     },
     {
         "task_id": "581666",
@@ -34125,7 +34125,7 @@
         "title": "Font tittle \"Go\" by Cortis please",
         "instructions": null,
         "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1229120.jpg",
-        "identified_font": null
+        "identified_font": "Larceny"
     },
     {
         "task_id": "581759",
@@ -35109,7 +35109,7 @@
         "title": "PLEASE",
         "instructions": null,
         "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1229371.png?1",
-        "identified_font": null
+        "identified_font": "Forte"
     },
     {
         "task_id": "581876",
@@ -36756,8 +36756,8 @@
         "url": "https://www.dafont.com/forum/read/582115/what-font-is-this",
         "title": "what font is this?",
         "instructions": "can anyone help me identified this fonts?",
-        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1229871.jpg",
-        "identified_font": null
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1229871.png?1",
+        "identified_font": "Blood & Horror"
     },
     {
         "task_id": "582113",
@@ -36798,5 +36798,13 @@
         "instructions": null,
         "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1229865.png",
         "identified_font": null
+    },
+    {
+        "task_id": "582117",
+        "url": "https://www.dafont.com/forum/read/582117/what-is-this-font",
+        "title": "what is this font?",
+        "instructions": "what is the font on the tshirt",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1229880.png?1",
+        "identified_font": "Canterbury"
     }
 ]
