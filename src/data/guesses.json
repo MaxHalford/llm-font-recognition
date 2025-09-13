@@ -52999,5 +52999,104 @@
         "candidate_font_3": "LCD Dot Matrix by The King of Fonts",
         "candidate_font_4": "LED Dot Matrix",
         "candidate_font_5": "5x7 Dot Matrix"
+    },
+    {
+        "task_id": "582201",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Techno Race",
+        "candidate_font_2": "Cyberthrone",
+        "candidate_font_3": "FutuChar Bold",
+        "candidate_font_4": "Top Speed",
+        "candidate_font_5": "Square Caps"
+    },
+    {
+        "task_id": "582200",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Burbank Big Condensed Black",
+        "candidate_font_2": "Burbank Big Condensed",
+        "candidate_font_3": "Obelix Pro",
+        "candidate_font_4": "Komika Axis",
+        "candidate_font_5": "Bubblegum Sans"
+    },
+    {
+        "task_id": "582198",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "LTC Clarendon Heavy Condensed",
+        "candidate_font_2": "Clarendon BT Heavy Condensed",
+        "candidate_font_3": "Stymie Extra Bold Condensed",
+        "candidate_font_4": "Rockwell Extra Bold Condensed",
+        "candidate_font_5": "Trade Gothic Slab Condensed Heavy"
+    },
+    {
+        "task_id": "582197",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Conduit ITC Std",
+        "candidate_font_2": "Montserrat",
+        "candidate_font_3": "Eurostile Extended Bold",
+        "candidate_font_4": "Agency FB",
+        "candidate_font_5": "Impact"
+    },
+    {
+        "task_id": "582199",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Interstate Black Italic",
+        "candidate_font_2": "Swiss 721 BT Black Oblique",
+        "candidate_font_3": "Neo Sans Std Bold Italic",
+        "candidate_font_4": "Univers 85 Extra Black Oblique",
+        "candidate_font_5": "Franklin Gothic Heavy Italic"
+    },
+    {
+        "task_id": "582196",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Eurostile Extended Black",
+        "candidate_font_2": "Microgramma D Bold Extended",
+        "candidate_font_3": "Univers 75 Black Extended",
+        "candidate_font_4": "Roadgeek 2005 Series C",
+        "candidate_font_5": "Folio Extended Bold"
+    },
+    {
+        "task_id": "582195",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Garamond Premier Pro",
+        "candidate_font_2": "Adobe Jenson Pro",
+        "candidate_font_3": "Perpetua",
+        "candidate_font_4": "Granjon",
+        "candidate_font_5": "Stempel Garamond"
+    },
+    {
+        "task_id": "582194",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Univers",
+        "candidate_font_2": "Helvetica",
+        "candidate_font_3": "Folio",
+        "candidate_font_4": "Akzidenz-Grotesk",
+        "candidate_font_5": "Nimbus Sans"
+    },
+    {
+        "task_id": "582193",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Brandon Grotesque",
+        "candidate_font_2": "Montserrat",
+        "candidate_font_3": "Gotham",
+        "candidate_font_4": "Proxima Nova",
+        "candidate_font_5": "Avenir"
+    },
+    {
+        "task_id": "582192",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Great Vibes",
+        "candidate_font_2": "Dancing Script",
+        "candidate_font_3": "Allura",
+        "candidate_font_4": "Alex Brush",
+        "candidate_font_5": "Pacifico"
+    },
+    {
+        "task_id": "582189",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Bubblegum Sans",
+        "candidate_font_2": "Bimbo",
+        "candidate_font_3": "Chewy",
+        "candidate_font_4": "Marck Script",
+        "candidate_font_5": "Fredoka One"
     }
 ]
