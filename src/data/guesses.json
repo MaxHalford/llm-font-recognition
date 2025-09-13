@@ -52981,5 +52981,23 @@
         "candidate_font_3": "Golden Youth",
         "candidate_font_4": "The Glamour Absolute",
         "candidate_font_5": "Adorabelle"
+    },
+    {
+        "task_id": "582188",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Franklin Gothic Bold",
+        "candidate_font_2": "Trade Gothic Bold",
+        "candidate_font_3": "News Gothic Bold",
+        "candidate_font_4": "Baskerville",
+        "candidate_font_5": "Garamond"
+    },
+    {
+        "task_id": "582186",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Dot Matrix by The Pixel Pusher",
+        "candidate_font_2": "Dot Matrix by David F. Dory",
+        "candidate_font_3": "LCD Dot Matrix by The King of Fonts",
+        "candidate_font_4": "LED Dot Matrix",
+        "candidate_font_5": "5x7 Dot Matrix"
     }
 ]
