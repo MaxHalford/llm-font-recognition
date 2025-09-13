@@ -52900,5 +52900,32 @@
         "candidate_font_3": "Bright Sunday",
         "candidate_font_4": "The Bragafard",
         "candidate_font_5": "Bromello"
+    },
+    {
+        "task_id": "582180",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Playlist Script",
+        "candidate_font_2": "The Miracle",
+        "candidate_font_3": "Beautiful Stranger",
+        "candidate_font_4": "Magnetic by Niskap",
+        "candidate_font_5": "Maison Neue Extended Bold"
+    },
+    {
+        "task_id": "582179",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Perfect DOS VGA 437",
+        "candidate_font_2": "Pixel Font 7",
+        "candidate_font_3": "PxPlus IBM VGA9",
+        "candidate_font_4": "",
+        "candidate_font_5": ""
+    },
+    {
+        "task_id": "582177",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Mochiy Pop One",
+        "candidate_font_2": "Fredoka One",
+        "candidate_font_3": "Baloo 2",
+        "candidate_font_4": "Quicksand",
+        "candidate_font_5": "Comfortaa"
     }
 ]
