@@ -37029,7 +37029,7 @@
         "title": "the weeknd",
         "instructions": "hi does antbody know whast this font is please",
         "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1229947.jpg",
-        "identified_font": null
+        "identified_font": "Cortese"
     },
     {
         "task_id": "582168",
@@ -37157,6 +37157,30 @@
         "title": "What font is this?",
         "instructions": null,
         "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1230001.jpg",
+        "identified_font": null
+    },
+    {
+        "task_id": "582180",
+        "url": "https://www.dafont.com/forum/read/582180/deja-miracle-beautiful-strangers",
+        "title": "Deja, Miracle, BEAUTIFUL STRANGERS",
+        "instructions": null,
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1230017.jpg",
+        "identified_font": null
+    },
+    {
+        "task_id": "582179",
+        "url": "https://www.dafont.com/forum/read/582179/pixel-font-i-m-looking-all-over-for",
+        "title": "pixel font I'm looking all over for",
+        "instructions": "what font is this, because I dropped the image on Google lens, but none of the pixel fonts that show up match, please help",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1230016.png",
+        "identified_font": null
+    },
+    {
+        "task_id": "582177",
+        "url": "https://www.dafont.com/forum/read/582177/help-me-please-thank-you",
+        "title": "Help Me, Please, thank you!",
+        "instructions": null,
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1230014.png",
         "identified_font": null
     }
 ]
