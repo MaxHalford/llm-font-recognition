@@ -37037,7 +37037,7 @@
         "title": "font barbearia",
         "instructions": null,
         "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1229988.png",
-        "identified_font": null
+        "identified_font": "Zenaida"
     },
     {
         "task_id": "582167",
@@ -37045,7 +37045,7 @@
         "title": "Isnt this just grand...",
         "instructions": "Any Suggestions?",
         "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1229987.png",
-        "identified_font": null
+        "identified_font": "Cinzel"
     },
     {
         "task_id": "582166",
@@ -37053,7 +37053,7 @@
         "title": "Vintage American-style font",
         "instructions": "Some distinctive details:",
         "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1229986.png",
-        "identified_font": null
+        "identified_font": "Jukebox Johnny"
     },
     {
         "task_id": "582165",
@@ -37077,7 +37077,7 @@
         "title": "what the font",
         "instructions": null,
         "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1229983.jpg?2",
-        "identified_font": null
+        "identified_font": "Spills"
     },
     {
         "task_id": "582162",
@@ -37109,6 +37109,14 @@
         "title": "is this a font?",
         "instructions": null,
         "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1229976.png",
+        "identified_font": null
+    },
+    {
+        "task_id": "582169",
+        "url": "https://www.dafont.com/forum/read/582169/numbers-in-fire-emblem",
+        "title": "Numbers in Fire Emblem",
+        "instructions": "On today's Nintendo Direct I saw these beautiful numbers during the new Fire Emblem presentation. Can anyone identify in which font I could find them? Being Nintendo's, I suppose it's from Fontworks (now Monotype KK), but I didn't find it in their website nor on Fontplus. Thanks in advance!",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1229992.png",
         "identified_font": null
     }
 ]
