@@ -52855,5 +52855,50 @@
         "candidate_font_3": "ITC Edwardian Script Std",
         "candidate_font_4": "Bickham Script Pro",
         "candidate_font_5": "Cloister Black"
+    },
+    {
+        "task_id": "582176",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Octin College Grunge",
+        "candidate_font_2": "Octin Max",
+        "candidate_font_3": "Charger Sport",
+        "candidate_font_4": "SF Collegiate Solid",
+        "candidate_font_5": "Headliner No. 45"
+    },
+    {
+        "task_id": "582175",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "ITC Avant Garde Gothic",
+        "candidate_font_2": "Twentieth Century MT",
+        "candidate_font_3": "Avenir Next",
+        "candidate_font_4": "Montserrat",
+        "candidate_font_5": "Bauhaus 93"
+    },
+    {
+        "task_id": "582174",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "DIN 1451 Mittelschrift",
+        "candidate_font_2": "Akzidenz-Grotesk Std Bold",
+        "candidate_font_3": "Univers 65 Bold",
+        "candidate_font_4": "Trade Gothic Bold No. 2",
+        "candidate_font_5": "Franklin Gothic Std Heavy"
+    },
+    {
+        "task_id": "582172",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Octin College",
+        "candidate_font_2": "Top Speed",
+        "candidate_font_3": "Agency FB",
+        "candidate_font_4": "Eurostile Extended Bold",
+        "candidate_font_5": "Bebas Neue"
+    },
+    {
+        "task_id": "582171",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Lemon Tuesday",
+        "candidate_font_2": "Stay Grateful",
+        "candidate_font_3": "Bright Sunday",
+        "candidate_font_4": "The Bragafard",
+        "candidate_font_5": "Bromello"
     }
 ]
