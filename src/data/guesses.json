@@ -52927,5 +52927,59 @@
         "candidate_font_3": "Baloo 2",
         "candidate_font_4": "Quicksand",
         "candidate_font_5": "Comfortaa"
+    },
+    {
+        "task_id": "515633",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Chewy",
+        "candidate_font_2": "Quicksand",
+        "candidate_font_3": "Bubblegum Sans",
+        "candidate_font_4": "M PLUS Rounded 1c",
+        "candidate_font_5": "Fredoka One"
+    },
+    {
+        "task_id": "582185",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Freehand 591 BT",
+        "candidate_font_2": "Mistral",
+        "candidate_font_3": "Brush Script MT",
+        "candidate_font_4": "Quickhand",
+        "candidate_font_5": "SignPainter House Script"
+    },
+    {
+        "task_id": "582184",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Shelley Allegro",
+        "candidate_font_2": "ITC Edwardian Script",
+        "candidate_font_3": "Kuenstler Script",
+        "candidate_font_4": "Bickham Script Pro",
+        "candidate_font_5": "Zapf Chancery Italic"
+    },
+    {
+        "task_id": "582183",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "HLH Plastic",
+        "candidate_font_2": "Gaston Bold",
+        "candidate_font_3": "Pump Demi Bold",
+        "candidate_font_4": "Groovy Happening",
+        "candidate_font_5": "Funkydori"
+    },
+    {
+        "task_id": "582182",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Horns (Rooted in Terror)",
+        "candidate_font_2": "Nightmare",
+        "candidate_font_3": "Broken Ghost",
+        "candidate_font_4": "You Murderer",
+        "candidate_font_5": "Bleeding Cowboys"
+    },
+    {
+        "task_id": "582181",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Love Locket",
+        "candidate_font_2": "Giveny",
+        "candidate_font_3": "Golden Youth",
+        "candidate_font_4": "The Glamour Absolute",
+        "candidate_font_5": "Adorabelle"
     }
 ]
