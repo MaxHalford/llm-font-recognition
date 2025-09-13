@@ -52846,5 +52846,14 @@
         "candidate_font_3": "Bookman Old Style",
         "candidate_font_4": "League Gothic",
         "candidate_font_5": "Book Antiqua"
+    },
+    {
+        "task_id": "582169",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Requiem Display Figures",
+        "candidate_font_2": "Adobe Garamond Pro Italic (Oldstyle Figures)",
+        "candidate_font_3": "ITC Edwardian Script Std",
+        "candidate_font_4": "Bickham Script Pro",
+        "candidate_font_5": "Cloister Black"
     }
 ]
