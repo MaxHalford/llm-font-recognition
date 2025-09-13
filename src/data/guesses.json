@@ -53098,5 +53098,50 @@
         "candidate_font_3": "Chewy",
         "candidate_font_4": "Marck Script",
         "candidate_font_5": "Fredoka One"
+    },
+    {
+        "task_id": "582206",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Hello Santtory",
+        "candidate_font_2": "Storytime",
+        "candidate_font_3": "Spirited",
+        "candidate_font_4": "Winter Time",
+        "candidate_font_5": "North Pole"
+    },
+    {
+        "task_id": "582208",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Compacta Bold",
+        "candidate_font_2": "ITC Machine",
+        "candidate_font_3": "Square 721 Bold",
+        "candidate_font_4": "Impact",
+        "candidate_font_5": "Staatliches"
+    },
+    {
+        "task_id": "582204",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Syntax",
+        "candidate_font_2": "Frutiger",
+        "candidate_font_3": "Rotis Sans Serif",
+        "candidate_font_4": "Candara",
+        "candidate_font_5": "Myriad"
+    },
+    {
+        "task_id": "582203",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Luckiest Guy",
+        "candidate_font_2": "Lilita One",
+        "candidate_font_3": "Komika Axis",
+        "candidate_font_4": "Obelix Pro",
+        "candidate_font_5": "Bangers"
+    },
+    {
+        "task_id": "582202",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Pterra",
+        "candidate_font_2": "Requiem Display",
+        "candidate_font_3": "Augusta",
+        "candidate_font_4": "Garamond Premier Pro Display Italic",
+        "candidate_font_5": "Mrs Eaves Italic"
     }
 ]
