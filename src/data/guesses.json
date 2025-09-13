@@ -52756,5 +52756,95 @@
         "candidate_font_3": "SF Distant Galaxy",
         "candidate_font_4": "Metamorphous",
         "candidate_font_5": "Avengeance"
+    },
+    {
+        "task_id": "582168",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Gentleman",
+        "candidate_font_2": "The Whiskey Font",
+        "candidate_font_3": "Graduate",
+        "candidate_font_4": "Rockwell",
+        "candidate_font_5": "Ultra"
+    },
+    {
+        "task_id": "582167",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Playfair Display",
+        "candidate_font_2": "Didot",
+        "candidate_font_3": "Butler",
+        "candidate_font_4": "Lust Text",
+        "candidate_font_5": "Bodoni"
+    },
+    {
+        "task_id": "582166",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Bureau Grot Black",
+        "candidate_font_2": "Gilroy Extrabold",
+        "candidate_font_3": "Proxima Nova Black",
+        "candidate_font_4": "Acumin Pro Black",
+        "candidate_font_5": "Graphik Black"
+    },
+    {
+        "task_id": "582165",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Arial Italic",
+        "candidate_font_2": "Helvetica Neue Italic",
+        "candidate_font_3": "Open Sans Italic",
+        "candidate_font_4": "Roboto Italic",
+        "candidate_font_5": "Lato Italic"
+    },
+    {
+        "task_id": "582164",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Pricedown Black",
+        "candidate_font_2": "Compacta Black",
+        "candidate_font_3": "SF Sports Night",
+        "candidate_font_4": "Agency FB Black",
+        "candidate_font_5": "Conthrax Bold"
+    },
+    {
+        "task_id": "582163",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Sign Painter House Script",
+        "candidate_font_2": "Stay Gold Script",
+        "candidate_font_3": "Cream Script",
+        "candidate_font_4": "Thirsty Script",
+        "candidate_font_5": "Bellerose"
+    },
+    {
+        "task_id": "582162",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Chewy",
+        "candidate_font_2": "Luckiest Guy",
+        "candidate_font_3": "Komika Title",
+        "candidate_font_4": "Burbank Big Condensed",
+        "candidate_font_5": "Fredoka One"
+    },
+    {
+        "task_id": "582161",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Turbo Esque",
+        "candidate_font_2": "Palm Canyon Drive",
+        "candidate_font_3": "",
+        "candidate_font_4": "",
+        "candidate_font_5": ""
+    },
+    {
+        "task_id": "582159",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Metal Macabre",
+        "candidate_font_2": "Vandals Brush",
+        "candidate_font_3": "Freshman",
+        "candidate_font_4": "Montserrat",
+        "candidate_font_5": "Open Sans"
+    },
+    {
+        "task_id": "582158",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Trade Gothic Extended Bold",
+        "candidate_font_2": "Helvetica Neue Black Condensed",
+        "candidate_font_3": "Bookman Old Style",
+        "candidate_font_4": "League Gothic",
+        "candidate_font_5": "Book Antiqua"
     }
 ]
