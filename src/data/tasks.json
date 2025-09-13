@@ -22220,7 +22220,7 @@
         "url": "https://www.dafont.com/forum/read/580099/country-font",
         "title": "COUNTRY Font",
         "instructions": "Hello everyone! I was wondering if you could help me in identifying this font. I would greatly appreciate your help. Thank you!",
-        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1225798.jpg",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1225798.png?1",
         "identified_font": null
     },
     {
@@ -36949,7 +36949,7 @@
         "title": "What font is this?",
         "instructions": "Please identify the font used in this design.",
         "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1229940.jpg",
-        "identified_font": null
+        "identified_font": "Gibsons Co Rough"
     },
     {
         "task_id": "479844",
@@ -37156,8 +37156,8 @@
         "url": "https://www.dafont.com/forum/read/582171/what-font-is-this",
         "title": "What font is this?",
         "instructions": null,
-        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1230001.jpg",
-        "identified_font": null
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1230001.jpg?1",
+        "identified_font": "Gloss And Bloom"
     },
     {
         "task_id": "582180",
@@ -37245,7 +37245,7 @@
         "title": "Font",
         "instructions": null,
         "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1230030.jpg",
-        "identified_font": null
+        "identified_font": "Lo-Type"
     },
     {
         "task_id": "582186",
@@ -37253,6 +37253,102 @@
         "title": "font name?",
         "instructions": "Thanks",
         "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1230026.png",
+        "identified_font": null
+    },
+    {
+        "task_id": "582201",
+        "url": "https://www.dafont.com/forum/read/582201/i-need-help-with-the-font-please-thanks",
+        "title": "I need help with the font please thanks",
+        "instructions": null,
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1230058.png",
+        "identified_font": null
+    },
+    {
+        "task_id": "582200",
+        "url": "https://www.dafont.com/forum/read/582200/palavra-aprender",
+        "title": "Palavra \"aprender\"",
+        "instructions": "Que fonte \u00e9 essa na palavra aprender \u00e9",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1230056.jpg",
+        "identified_font": null
+    },
+    {
+        "task_id": "582198",
+        "url": "https://www.dafont.com/forum/read/582198/arnold-14-cine",
+        "title": "\"ARNOLD 14 CINE\"",
+        "instructions": null,
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1230052.jpg",
+        "identified_font": null
+    },
+    {
+        "task_id": "582197",
+        "url": "https://www.dafont.com/forum/read/582197/dynamo",
+        "title": "DYNAMO",
+        "instructions": null,
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1230050.jpg",
+        "identified_font": null
+    },
+    {
+        "task_id": "582199",
+        "url": "https://www.dafont.com/forum/read/582199/120",
+        "title": "120",
+        "instructions": "What font is on the black letters?",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1230053.png",
+        "identified_font": null
+    },
+    {
+        "task_id": "582196",
+        "url": "https://www.dafont.com/forum/read/582196/14-cine-from-mid-rivers-mall",
+        "title": "\"14 Cine\" - from Mid Rivers Mall",
+        "instructions": null,
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1230049.jpg",
+        "identified_font": null
+    },
+    {
+        "task_id": "582195",
+        "url": "https://www.dafont.com/forum/read/582195/font",
+        "title": "Font",
+        "instructions": null,
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1230048.jpg",
+        "identified_font": null
+    },
+    {
+        "task_id": "582194",
+        "url": "https://www.dafont.com/forum/read/582194/font",
+        "title": "Font",
+        "instructions": null,
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1230047.jpg",
+        "identified_font": null
+    },
+    {
+        "task_id": "582193",
+        "url": "https://www.dafont.com/forum/read/582193/font",
+        "title": "Font",
+        "instructions": null,
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1230046.jpg",
+        "identified_font": null
+    },
+    {
+        "task_id": "582191",
+        "url": "https://www.dafont.com/forum/read/582191/slumber-party-of-doooom-font",
+        "title": "Slumber Party of Doooom Font",
+        "instructions": "HVL",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1230042.jpg?1",
+        "identified_font": "Feast of Flesh BB"
+    },
+    {
+        "task_id": "582192",
+        "url": "https://www.dafont.com/forum/read/582192/fonte-desconhecida",
+        "title": "fonte desconhecida",
+        "instructions": "Gostaria de saber o nome dessa fonte",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1230044.jpg",
+        "identified_font": null
+    },
+    {
+        "task_id": "582189",
+        "url": "https://www.dafont.com/forum/read/582189/what-font-is-this",
+        "title": "What font is this?",
+        "instructions": null,
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1230036.png",
         "identified_font": null
     }
 ]
