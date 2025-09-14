@@ -53143,5 +53143,23 @@
         "candidate_font_3": "Augusta",
         "candidate_font_4": "Garamond Premier Pro Display Italic",
         "candidate_font_5": "Mrs Eaves Italic"
+    },
+    {
+        "task_id": "582218",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "College Block 2.0",
+        "candidate_font_2": "SF Collegiate",
+        "candidate_font_3": "United Sans Bold",
+        "candidate_font_4": "Trade Gothic Next Bold Condensed",
+        "candidate_font_5": "Agency FB Black Condensed"
+    },
+    {
+        "task_id": "582217",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Quicksand",
+        "candidate_font_2": "M PLUS Rounded 1c",
+        "candidate_font_3": "Varela Round",
+        "candidate_font_4": "Dosis",
+        "candidate_font_5": "Comfortaa"
     }
 ]
