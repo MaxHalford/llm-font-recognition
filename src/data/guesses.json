@@ -53422,5 +53422,86 @@
         "candidate_font_3": "Novecento Sans Condensed",
         "candidate_font_4": "SF Collegiate",
         "candidate_font_5": "United Sans"
+    },
+    {
+        "task_id": "582338",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Rectory Typeface",
+        "candidate_font_2": "SF Square Head Bold",
+        "candidate_font_3": "Agency FB Black",
+        "candidate_font_4": "Hyperspace",
+        "candidate_font_5": "Bank Gothic Medium"
+    },
+    {
+        "task_id": "582337",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Akira Expanded",
+        "candidate_font_2": "Lemon Milk Bold",
+        "candidate_font_3": "Agency FB Extended Bold",
+        "candidate_font_4": "Bebas Neue",
+        "candidate_font_5": "Intro Regular Black"
+    },
+    {
+        "task_id": "582336",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "IKEA Sans",
+        "candidate_font_2": "Futura Bold",
+        "candidate_font_3": "Verdana Bold",
+        "candidate_font_4": "Montserrat Black",
+        "candidate_font_5": "Open Sans Extrabold"
+    },
+    {
+        "task_id": "582335",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Chunky Fresh",
+        "candidate_font_2": "Luckiest Guy",
+        "candidate_font_3": "Avengeance",
+        "candidate_font_4": "Obelix Pro",
+        "candidate_font_5": "Bad Blocks"
+    },
+    {
+        "task_id": "582334",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Beautiful Lovers",
+        "candidate_font_2": "Minion Pro",
+        "candidate_font_3": "Open Sans Bold",
+        "candidate_font_4": "Poppins Bold",
+        "candidate_font_5": "Janson Text"
+    },
+    {
+        "task_id": "582327",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Helvetica Bold Condensed",
+        "candidate_font_2": "Univers 67 (Bold Condensed)",
+        "candidate_font_3": "Akzidenz-Grotesk Bold Condensed",
+        "candidate_font_4": "",
+        "candidate_font_5": ""
+    },
+    {
+        "task_id": "582326",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Brightwall",
+        "candidate_font_2": "Handy Quom",
+        "candidate_font_3": "Southpaw",
+        "candidate_font_4": "Magnolia Sky",
+        "candidate_font_5": "Bromello"
+    },
+    {
+        "task_id": "582325",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Patrick Hand",
+        "candidate_font_2": "Indie Flower",
+        "candidate_font_3": "Gochi Hand",
+        "candidate_font_4": "Caveat",
+        "candidate_font_5": "Coming Soon"
+    },
+    {
+        "task_id": "582324",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Gotham Black",
+        "candidate_font_2": "Montserrat Black",
+        "candidate_font_3": "Proxima Nova Black",
+        "candidate_font_4": "Oswald ExtraBold",
+        "candidate_font_5": "Open Sans ExtraBold"
     }
 ]
