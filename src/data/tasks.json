@@ -36877,7 +36877,7 @@
         "title": "I need the font, please! thanks",
         "instructions": null,
         "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1229930.png",
-        "identified_font": null
+        "identified_font": "Blade Singer"
     },
     {
         "task_id": "582133",
@@ -37369,11 +37369,11 @@
     },
     {
         "task_id": "582206",
-        "url": "https://www.dafont.com/forum/read/582206/recherche-police",
-        "title": "recherche police",
-        "instructions": "Un peu d'aide svp",
-        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1230064.jpg",
-        "identified_font": null
+        "url": "https://www.dafont.com/forum/read/582206/days-until-christmas",
+        "title": "Days Until Christmas",
+        "instructions": "Recherche police. Un peu d'aide svp",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1230064.jpg?1",
+        "identified_font": "Artisan Display"
     },
     {
         "task_id": "582208",
@@ -37405,6 +37405,54 @@
         "title": "\"vampire academy\" and \"baiser de l'ombre\" fonts??",
         "instructions": "thank you!!",
         "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1230060.jpg",
+        "identified_font": "Mitreba"
+    },
+    {
+        "task_id": "582213",
+        "url": "https://www.dafont.com/forum/read/582213/can-anyone-help-with-these-fonts",
+        "title": "Can anyone help with these fonts?",
+        "instructions": null,
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1230074.png",
+        "identified_font": "KG Dark Side"
+    },
+    {
+        "task_id": "582215",
+        "url": "https://www.dafont.com/forum/read/582215/please-help-me-find-this-font",
+        "title": "Please help me find this font",
+        "instructions": null,
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1230078.jpg",
+        "identified_font": "Sweet Lemonade"
+    },
+    {
+        "task_id": "582219",
+        "url": "https://www.dafont.com/forum/read/582219/what-s-the-name-of-this-spooky-font",
+        "title": "What's the name of this spooky font?",
+        "instructions": "For a Halloween Project of mine",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1230083.png",
+        "identified_font": "Double Feature"
+    },
+    {
+        "task_id": "582218",
+        "url": "https://www.dafont.com/forum/read/582218/champions-pasacaballos",
+        "title": "champions pasacaballos",
+        "instructions": null,
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1230082.jpg",
         "identified_font": null
+    },
+    {
+        "task_id": "582217",
+        "url": "https://www.dafont.com/forum/read/582217/what-is-the-name-of-this-font",
+        "title": "What is the name of this font?",
+        "instructions": "Can you say me what is the font used in the word \"CAPRICORNIO\" ?",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1230080.png",
+        "identified_font": null
+    },
+    {
+        "task_id": "582214",
+        "url": "https://www.dafont.com/forum/read/582214/100-mexicanos-font",
+        "title": "100 MEXICANOS FONT",
+        "instructions": null,
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1230076.png",
+        "identified_font": "Variex"
     }
 ]
