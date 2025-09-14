@@ -37454,5 +37454,29 @@
         "instructions": null,
         "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1230076.png",
         "identified_font": "Variex"
+    },
+    {
+        "task_id": "436278",
+        "url": "https://www.dafont.com/forum/read/436278/brawl-stars",
+        "title": "brawl stars",
+        "instructions": null,
+        "img_url": "https://www.dafont.com/forum/attach/orig/9/3/935444.png",
+        "identified_font": "Nougat"
+    },
+    {
+        "task_id": "582221",
+        "url": "https://www.dafont.com/forum/read/582221/font-name-please",
+        "title": "Font name please?",
+        "instructions": null,
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1230093.jpg",
+        "identified_font": null
+    },
+    {
+        "task_id": "582220",
+        "url": "https://www.dafont.com/forum/read/582220/font-name-please",
+        "title": "Font name please?",
+        "instructions": null,
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1230090.png",
+        "identified_font": null
     }
 ]
