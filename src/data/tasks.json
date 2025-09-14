@@ -35965,7 +35965,7 @@
         "title": "Road to Font",
         "instructions": "Hello there",
         "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1229630.png",
-        "identified_font": null
+        "identified_font": "Archeologicaps"
     },
     {
         "task_id": "582008",
@@ -37589,6 +37589,54 @@
         "title": "What font is this?",
         "instructions": "Hi. Help me identify this please.",
         "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1230120.jpg",
+        "identified_font": null
+    },
+    {
+        "task_id": "582245",
+        "url": "https://www.dafont.com/forum/read/582245/jail-tv-series-font",
+        "title": "Jail TV series font",
+        "instructions": "What is the name of the font used for the logo of the Jail TV series?",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1230136.jpg",
+        "identified_font": null
+    },
+    {
+        "task_id": "582244",
+        "url": "https://www.dafont.com/forum/read/582244/title-font-carmel-games-flash-game",
+        "title": "Title font? (Carmel games flash game)",
+        "instructions": null,
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1230135.png",
+        "identified_font": null
+    },
+    {
+        "task_id": "582243",
+        "url": "https://www.dafont.com/forum/read/582243/what-s-this-font-name",
+        "title": "What's this font name?",
+        "instructions": "I've been looking for this font everywhere... Can anyone help? What's the name of it?",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1230132.png",
+        "identified_font": null
+    },
+    {
+        "task_id": "582242",
+        "url": "https://www.dafont.com/forum/read/582242/the-what-font",
+        "title": "THE WHAT FONT",
+        "instructions": "What is the name of this font?",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1230131.jpg",
+        "identified_font": null
+    },
+    {
+        "task_id": "582241",
+        "url": "https://www.dafont.com/forum/read/582241/does-anyone-know-what-this-font-is",
+        "title": "does anyone know what this font is?",
+        "instructions": null,
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1230128.png",
+        "identified_font": null
+    },
+    {
+        "task_id": "582240",
+        "url": "https://www.dafont.com/forum/read/582240/my-first-flip",
+        "title": "My First Flip",
+        "instructions": null,
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1230127.png",
         "identified_font": null
     }
 ]
