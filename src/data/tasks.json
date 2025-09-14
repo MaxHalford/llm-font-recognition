@@ -22221,7 +22221,7 @@
         "title": "COUNTRY Font",
         "instructions": "Hello everyone! I was wondering if you could help me in identifying this font. I would greatly appreciate your help. Thank you!",
         "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1225798.png?1",
-        "identified_font": null
+        "identified_font": "Impact"
     },
     {
         "task_id": "580098",
@@ -37477,6 +37477,30 @@
         "title": "Font name please?",
         "instructions": null,
         "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1230090.png",
+        "identified_font": null
+    },
+    {
+        "task_id": "582225",
+        "url": "https://www.dafont.com/forum/read/582225/what-the-font",
+        "title": "what the font",
+        "instructions": null,
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1230105.jpg",
+        "identified_font": null
+    },
+    {
+        "task_id": "582224",
+        "url": "https://www.dafont.com/forum/read/582224/what-font-is-this",
+        "title": "What font is this?",
+        "instructions": null,
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1230099.png",
+        "identified_font": null
+    },
+    {
+        "task_id": "582222",
+        "url": "https://www.dafont.com/forum/read/582222/tittle-font-flim-out-bts-please",
+        "title": "Tittle font \"FLIM OUT\" bts please",
+        "instructions": null,
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1230096.jpg",
         "identified_font": null
     }
 ]
