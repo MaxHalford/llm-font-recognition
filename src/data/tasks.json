@@ -37589,7 +37589,7 @@
         "title": "What font is this?",
         "instructions": "Hi. Help me identify this please.",
         "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1230120.jpg",
-        "identified_font": null
+        "identified_font": "Serendipity"
     },
     {
         "task_id": "582245",
@@ -37621,7 +37621,7 @@
         "title": "THE WHAT FONT",
         "instructions": "What is the name of this font?",
         "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1230131.jpg",
-        "identified_font": null
+        "identified_font": "Lost in South"
     },
     {
         "task_id": "582241",
@@ -37637,6 +37637,78 @@
         "title": "My First Flip",
         "instructions": null,
         "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1230127.png",
+        "identified_font": null
+    },
+    {
+        "task_id": "582323",
+        "url": "https://www.dafont.com/forum/read/582323/qual-e-o-nome-dessa-fonte",
+        "title": "Qual \u00e9 o nome dessa fonte???",
+        "instructions": "\"ALEXANDRITE VOICE\" \"LOVE IS A MAMORY\" fonteeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1230226.jpg",
+        "identified_font": null
+    },
+    {
+        "task_id": "582320",
+        "url": "https://www.dafont.com/forum/read/582320/what-font-is-this",
+        "title": "What font is this?",
+        "instructions": "Thanks",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1230223.png",
+        "identified_font": null
+    },
+    {
+        "task_id": "582249",
+        "url": "https://www.dafont.com/forum/read/582249/what-font-was-used-in-donkey-kong-bananza",
+        "title": "What font was used in Donkey Kong Bananza?",
+        "instructions": "I have been searching for \u0093Donkey Kong Font\u0094 on Google, but it only shows the logo font. I really need this font to be identified as soon as possible!",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1230147.jpg",
+        "identified_font": "Ad Lib"
+    },
+    {
+        "task_id": "582319",
+        "url": "https://www.dafont.com/forum/read/582319/jail-tv-series-font",
+        "title": "Jail TV series font",
+        "instructions": null,
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1230219.jpg",
+        "identified_font": null
+    },
+    {
+        "task_id": "582250",
+        "url": "https://www.dafont.com/forum/read/582250/what-font-was-the-subtitles-in-kirby-and-the-forgotten-land-using",
+        "title": "What font was the subtitles in Kirby and the Forgotten Land using?",
+        "instructions": "I tried Mollen, but the examination mark didn't fit! Please I need this font to be identified",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1230148.jpg",
+        "identified_font": null
+    },
+    {
+        "task_id": "582252",
+        "url": "https://www.dafont.com/forum/read/582252/font-name-pls",
+        "title": "Font name pls :)",
+        "instructions": null,
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1230150.png",
+        "identified_font": null
+    },
+    {
+        "task_id": "582251",
+        "url": "https://www.dafont.com/forum/read/582251/font-name-pls",
+        "title": "Font name pls :)",
+        "instructions": null,
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1230149.png",
+        "identified_font": null
+    },
+    {
+        "task_id": "582247",
+        "url": "https://www.dafont.com/forum/read/582247/sem-educacao",
+        "title": "Sem educa\u00e7\u00e3o",
+        "instructions": "Que fonte \u00e9 essa que aparence no titulo dos ursinhos carinhosos?",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1230139.jpg",
+        "identified_font": null
+    },
+    {
+        "task_id": "582246",
+        "url": "https://www.dafont.com/forum/read/582246/name-this-font",
+        "title": "NAME THIS FONT?",
+        "instructions": null,
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1230138.jpg",
         "identified_font": null
     }
 ]
