@@ -53179,5 +53179,32 @@
         "candidate_font_3": "Bender Grunge",
         "candidate_font_4": "Mesmerize Grunge",
         "candidate_font_5": "Bourbon House Distressed"
+    },
+    {
+        "task_id": "582225",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Brannboll Fet",
+        "candidate_font_2": "Great Vibes",
+        "candidate_font_3": "Alex Brush",
+        "candidate_font_4": "Allura",
+        "candidate_font_5": "Dancing Script"
+    },
+    {
+        "task_id": "582224",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Lilita One",
+        "candidate_font_2": "Luckiest Guy",
+        "candidate_font_3": "Fredoka One",
+        "candidate_font_4": "Paytone One",
+        "candidate_font_5": "Bubblegum Sans"
+    },
+    {
+        "task_id": "582222",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Akira Expanded",
+        "candidate_font_2": "Bebas Neue",
+        "candidate_font_3": "Anton",
+        "candidate_font_4": "Oswald",
+        "candidate_font_5": "Impact"
     }
 ]
