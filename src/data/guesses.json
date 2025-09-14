@@ -53161,5 +53161,23 @@
         "candidate_font_3": "Varela Round",
         "candidate_font_4": "Dosis",
         "candidate_font_5": "Comfortaa"
+    },
+    {
+        "task_id": "582221",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Storybook",
+        "candidate_font_2": "Fairy Tale",
+        "candidate_font_3": "Royal Gothic",
+        "candidate_font_4": "Kingthings Gothique",
+        "candidate_font_5": "Cloister Black"
+    },
+    {
+        "task_id": "582220",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "ChunkFive Print",
+        "candidate_font_2": "American Lemon",
+        "candidate_font_3": "Bender Grunge",
+        "candidate_font_4": "Mesmerize Grunge",
+        "candidate_font_5": "Bourbon House Distressed"
     }
 ]
