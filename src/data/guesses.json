@@ -53206,5 +53206,59 @@
         "candidate_font_3": "Anton",
         "candidate_font_4": "Oswald",
         "candidate_font_5": "Impact"
+    },
+    {
+        "task_id": "571923",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Majesty (Nick's Fonts)",
+        "candidate_font_2": "Rothenburg Decorative",
+        "candidate_font_3": "Kingthings Gothique",
+        "candidate_font_4": "Queen of the North",
+        "candidate_font_5": "Diablo Heavy"
+    },
+    {
+        "task_id": "582233",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Mesquite Std",
+        "candidate_font_2": "Rio Grande",
+        "candidate_font_3": "Wanted Poster",
+        "candidate_font_4": "SF Old Republic",
+        "candidate_font_5": "Impact"
+    },
+    {
+        "task_id": "582232",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Futura",
+        "candidate_font_2": "Avant Garde Gothic",
+        "candidate_font_3": "Neuzeit Grotesk",
+        "candidate_font_4": "Univers 45 Light",
+        "candidate_font_5": "Akzidenz-Grotesk Light"
+    },
+    {
+        "task_id": "582231",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Futura",
+        "candidate_font_2": "Univers",
+        "candidate_font_3": "Gotham",
+        "candidate_font_4": "Helvetica Neue",
+        "candidate_font_5": "Montserrat"
+    },
+    {
+        "task_id": "582230",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Big Noodle Titling Oblique",
+        "candidate_font_2": "SF Sports Night Italic",
+        "candidate_font_3": "Road Rage",
+        "candidate_font_4": "United Sans Stencil Heavy Oblique",
+        "candidate_font_5": "Agency FB Bold Italic"
+    },
+    {
+        "task_id": "582227",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Janson Text",
+        "candidate_font_2": "Baskerville",
+        "candidate_font_3": "Caslon",
+        "candidate_font_4": "Garamond",
+        "candidate_font_5": "Palatino"
     }
 ]
