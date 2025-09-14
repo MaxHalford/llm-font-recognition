@@ -37147,9 +37147,9 @@
         "task_id": "582172",
         "url": "https://www.dafont.com/forum/read/582172/what-the-font",
         "title": "what the font",
-        "instructions": null,
-        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1230002.png",
-        "identified_font": null
+        "instructions": "what the font",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1230002.png?1",
+        "identified_font": "Goblin One"
     },
     {
         "task_id": "582171",
@@ -37581,7 +37581,7 @@
         "title": "Help please",
         "instructions": "I need this 2 fonts please. Thank you so much",
         "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1230122.png",
-        "identified_font": null
+        "identified_font": "Bacalisties"
     },
     {
         "task_id": "582235",
@@ -37604,8 +37604,8 @@
         "url": "https://www.dafont.com/forum/read/582244/title-font-carmel-games-flash-game",
         "title": "Title font? (Carmel games flash game)",
         "instructions": null,
-        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1230135.png",
-        "identified_font": null
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1230135.png?1",
+        "identified_font": "Aso Kids"
     },
     {
         "task_id": "582243",
@@ -37641,11 +37641,11 @@
     },
     {
         "task_id": "582323",
-        "url": "https://www.dafont.com/forum/read/582323/qual-e-o-nome-dessa-fonte",
-        "title": "Qual \u00e9 o nome dessa fonte???",
-        "instructions": "\"ALEXANDRITE VOICE\" \"LOVE IS A MAMORY\" fonteeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee",
+        "url": "https://www.dafont.com/forum/read/582323/alexandrite-voice-love-is-a-memory",
+        "title": "\"ALEXANDRITE VOICE\" \"LOVE IS A MEMORY\"",
+        "instructions": null,
         "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1230226.jpg",
-        "identified_font": null
+        "identified_font": "Popular Script"
     },
     {
         "task_id": "582320",
@@ -37709,6 +37709,94 @@
         "title": "NAME THIS FONT?",
         "instructions": null,
         "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1230138.jpg",
+        "identified_font": null
+    },
+    {
+        "task_id": "582338",
+        "url": "https://www.dafont.com/forum/read/582338/ncts-font-plz",
+        "title": "ncts font plz",
+        "instructions": null,
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1230256.png",
+        "identified_font": null
+    },
+    {
+        "task_id": "582337",
+        "url": "https://www.dafont.com/forum/read/582337/font-please",
+        "title": "font please",
+        "instructions": "",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1230255.png",
+        "identified_font": null
+    },
+    {
+        "task_id": "582336",
+        "url": "https://www.dafont.com/forum/read/582336/kai",
+        "title": "KAI.",
+        "instructions": "",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1230254.jpg",
+        "identified_font": null
+    },
+    {
+        "task_id": "582332",
+        "url": "https://www.dafont.com/forum/read/582332/please-what-is-this-font",
+        "title": "Please, what is this font?",
+        "instructions": null,
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1230244.jpg",
+        "identified_font": "CAC Leslie"
+    },
+    {
+        "task_id": "582333",
+        "url": "https://www.dafont.com/forum/read/582333/what-is-this-font-please",
+        "title": "What is this font, please?",
+        "instructions": null,
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1230245.jpg",
+        "identified_font": "InfraRed"
+    },
+    {
+        "task_id": "582335",
+        "url": "https://www.dafont.com/forum/read/582335/fonts-brutal-studio-flash-game",
+        "title": "Fonts? (Brutal studio flash game)",
+        "instructions": null,
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1230250.png",
+        "identified_font": null
+    },
+    {
+        "task_id": "582334",
+        "url": "https://www.dafont.com/forum/read/582334/please-what-are-these-fonts",
+        "title": "Please, what are these fonts?",
+        "instructions": "I've searched a lot, but can't find the title and body text fonts.",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1230247.jpg",
+        "identified_font": null
+    },
+    {
+        "task_id": "582327",
+        "url": "https://www.dafont.com/forum/read/582327/font-name",
+        "title": "Font name?",
+        "instructions": "It's from David Cronenberg's Scanners (1981).",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1230236.png",
+        "identified_font": null
+    },
+    {
+        "task_id": "582326",
+        "url": "https://www.dafont.com/forum/read/582326/worship-font",
+        "title": "Worship Font",
+        "instructions": "Looking for the script used in this font please",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1230233.png",
+        "identified_font": null
+    },
+    {
+        "task_id": "582325",
+        "url": "https://www.dafont.com/forum/read/582325/the-what-font",
+        "title": "THE WHAT FONT",
+        "instructions": "What is the name of this font?",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1230232.jpg",
+        "identified_font": null
+    },
+    {
+        "task_id": "582324",
+        "url": "https://www.dafont.com/forum/read/582324/what-is-the-font-in-the-assai",
+        "title": "what is the font in the \"ASSA\u00cd\"",
+        "instructions": "i wanted to know that one it looks really nice in my opinion",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1230227.png",
         "identified_font": null
     }
 ]
