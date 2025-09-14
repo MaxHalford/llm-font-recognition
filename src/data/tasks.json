@@ -37558,5 +37558,37 @@
         "instructions": null,
         "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1230109.jpg",
         "identified_font": null
+    },
+    {
+        "task_id": "329660",
+        "url": "https://www.dafont.com/forum/read/329660/is-the-pingu-logo-a-font",
+        "title": "Is the \"Pingu\" logo a font?",
+        "instructions": null,
+        "img_url": "https://www.dafont.com/forum/attach/orig/7/2/723206.png",
+        "identified_font": "Sprague"
+    },
+    {
+        "task_id": "582237",
+        "url": "https://www.dafont.com/forum/read/582237/kickflip",
+        "title": "KickFlip",
+        "instructions": null,
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1230123.jpg",
+        "identified_font": null
+    },
+    {
+        "task_id": "582236",
+        "url": "https://www.dafont.com/forum/read/582236/help-please",
+        "title": "Help please",
+        "instructions": "I need this 2 fonts please. Thank you so much",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1230122.png",
+        "identified_font": null
+    },
+    {
+        "task_id": "582235",
+        "url": "https://www.dafont.com/forum/read/582235/what-font-is-this",
+        "title": "What font is this?",
+        "instructions": "Hi. Help me identify this please.",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1230120.jpg",
+        "identified_font": null
     }
 ]
