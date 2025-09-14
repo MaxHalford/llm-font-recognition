@@ -53350,5 +53350,77 @@
         "candidate_font_3": "Mighty Mite",
         "candidate_font_4": "Streetwear",
         "candidate_font_5": "Hot Rod Script"
+    },
+    {
+        "task_id": "582323",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Alexandrite",
+        "candidate_font_2": "Edwardian Script ITC",
+        "candidate_font_3": "Goudy Old Style",
+        "candidate_font_4": "Great Vibes",
+        "candidate_font_5": "Alexandria Script"
+    },
+    {
+        "task_id": "582320",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Brushed (by Creative Supply Co.)",
+        "candidate_font_2": "Summer Hearts (by Hustle Supply Co.)",
+        "candidate_font_3": "Gotham Book",
+        "candidate_font_4": "Impact",
+        "candidate_font_5": "Oswald Bold"
+    },
+    {
+        "task_id": "582319",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Death From Above",
+        "candidate_font_2": "Cyberfunk",
+        "candidate_font_3": "Destroyer",
+        "candidate_font_4": "Combatant",
+        "candidate_font_5": "Akira Expanded"
+    },
+    {
+        "task_id": "582250",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Montserrat",
+        "candidate_font_2": "Lato",
+        "candidate_font_3": "Work Sans",
+        "candidate_font_4": "Gilroy",
+        "candidate_font_5": "Nunito Sans"
+    },
+    {
+        "task_id": "582252",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Urban Decay",
+        "candidate_font_2": "Permanent Marker",
+        "candidate_font_3": "Rock Salt",
+        "candidate_font_4": "",
+        "candidate_font_5": ""
+    },
+    {
+        "task_id": "582251",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Komika Title",
+        "candidate_font_2": "Bubblegum Sans",
+        "candidate_font_3": "Bubbly",
+        "candidate_font_4": "Fredoka One",
+        "candidate_font_5": "Baloo 2"
+    },
+    {
+        "task_id": "582247",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Poetsen One",
+        "candidate_font_2": "Komika Title",
+        "candidate_font_3": "Baloo 2",
+        "candidate_font_4": "Fredoka One",
+        "candidate_font_5": "Mochiy Pop P One"
+    },
+    {
+        "task_id": "582246",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Formula Condensed",
+        "candidate_font_2": "Agency FB",
+        "candidate_font_3": "Novecento Sans Condensed",
+        "candidate_font_4": "SF Collegiate",
+        "candidate_font_5": "United Sans"
     }
 ]
