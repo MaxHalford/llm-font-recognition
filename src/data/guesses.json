@@ -53260,5 +53260,41 @@
         "candidate_font_3": "Caslon",
         "candidate_font_4": "Garamond",
         "candidate_font_5": "Palatino"
+    },
+    {
+        "task_id": "582234",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Trade Gothic Extended Bold",
+        "candidate_font_2": "Plantin Bold",
+        "candidate_font_3": "Mesquite Std",
+        "candidate_font_4": "Helvetica Regular",
+        "candidate_font_5": "Franklin Gothic Condensed Bold"
+    },
+    {
+        "task_id": "582237",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Youth Line",
+        "candidate_font_2": "The Braggs",
+        "candidate_font_3": "Berson Dream",
+        "candidate_font_4": "Brushley Script",
+        "candidate_font_5": "Wild Script"
+    },
+    {
+        "task_id": "582236",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Josefin Sans Light",
+        "candidate_font_2": "La Vie Est Belle",
+        "candidate_font_3": "Avenir Light",
+        "candidate_font_4": "Alex Brush",
+        "candidate_font_5": "Montserrat Light"
+    },
+    {
+        "task_id": "582235",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Bromello",
+        "candidate_font_2": "Southampton",
+        "candidate_font_3": "Hello Beautiful",
+        "candidate_font_4": "The Briskly Font",
+        "candidate_font_5": "Brilliant Script"
     }
 ]
