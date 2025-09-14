@@ -53296,5 +53296,59 @@
         "candidate_font_3": "Hello Beautiful",
         "candidate_font_4": "The Briskly Font",
         "candidate_font_5": "Brilliant Script"
+    },
+    {
+        "task_id": "582245",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Agency FB Extended Black",
+        "candidate_font_2": "Bank Gothic Medium",
+        "candidate_font_3": "United Sans Ext Heavy",
+        "candidate_font_4": "Octin Prison Bold",
+        "candidate_font_5": "Compacta Bold"
+    },
+    {
+        "task_id": "582244",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Bouncy",
+        "candidate_font_2": "Chewy",
+        "candidate_font_3": "Luckiest Guy",
+        "candidate_font_4": "Fredoka One",
+        "candidate_font_5": "Bubblegum Sans"
+    },
+    {
+        "task_id": "582243",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "KG Red Hands",
+        "candidate_font_2": "Bubblegum Sans",
+        "candidate_font_3": "Fredoka One",
+        "candidate_font_4": "Quicksand",
+        "candidate_font_5": "Comfortaa"
+    },
+    {
+        "task_id": "582242",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Rocking Boys",
+        "candidate_font_2": "The Braggest",
+        "candidate_font_3": "Hey August",
+        "candidate_font_4": "Blacklisted",
+        "candidate_font_5": "Brushgyps"
+    },
+    {
+        "task_id": "582241",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Ambrosia Script",
+        "candidate_font_2": "Beloved Script",
+        "candidate_font_3": "Challenger Script",
+        "candidate_font_4": "Affectionately Yours",
+        "candidate_font_5": "Burgues Script"
+    },
+    {
+        "task_id": "582240",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Brushability",
+        "candidate_font_2": "Billion Stars",
+        "candidate_font_3": "Mighty Mite",
+        "candidate_font_4": "Streetwear",
+        "candidate_font_5": "Hot Rod Script"
     }
 ]
