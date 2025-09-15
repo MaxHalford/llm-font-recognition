@@ -53836,5 +53836,50 @@
         "candidate_font_3": "Exo 2.0 ExtraBold Italic",
         "candidate_font_4": "Rajdhani Bold Italic",
         "candidate_font_5": "Montserrat Black Italic"
+    },
+    {
+        "task_id": "582395",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Quicksand",
+        "candidate_font_2": "Varela Round",
+        "candidate_font_3": "Rubik",
+        "candidate_font_4": "M PLUS Rounded 1c",
+        "candidate_font_5": "Comfortaa"
+    },
+    {
+        "task_id": "582391",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Road Rage",
+        "candidate_font_2": "Anarchy Brush",
+        "candidate_font_3": "Death Rattle",
+        "candidate_font_4": "Brutal Attack",
+        "candidate_font_5": "Blacklisted"
+    },
+    {
+        "task_id": "582390",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Magnolia Sky",
+        "candidate_font_2": "The California Dream",
+        "candidate_font_3": "Hello Paris",
+        "candidate_font_4": "Amsterdam One",
+        "candidate_font_5": "Marigold"
+    },
+    {
+        "task_id": "582381",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Fredoka One",
+        "candidate_font_2": "Lilita One",
+        "candidate_font_3": "Paytone One",
+        "candidate_font_4": "Baloo Bhai 2",
+        "candidate_font_5": "Comfortaa"
+    },
+    {
+        "task_id": "582379",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Manrope Light",
+        "candidate_font_2": "Sofia Pro Light",
+        "candidate_font_3": "Gabarito Light",
+        "candidate_font_4": "Comfortaa Light",
+        "candidate_font_5": "Avenir Next Rounded Light"
     }
 ]
