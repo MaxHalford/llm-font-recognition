@@ -34068,7 +34068,7 @@
         "url": "https://www.dafont.com/forum/read/581752/hc",
         "title": "HC",
         "instructions": null,
-        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1229133.png",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1229133.png?1",
         "identified_font": "Ohm"
     },
     {
@@ -34684,7 +34684,7 @@
         "url": "https://www.dafont.com/forum/read/581831/arcadia-chen",
         "title": "ARCADIA CHEN",
         "instructions": null,
-        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1229282.jpg",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1229282.png?1",
         "identified_font": null
     },
     {
@@ -37812,7 +37812,7 @@
         "url": "https://www.dafont.com/forum/read/582345/mexico-playera",
         "title": "MEXICO Playera",
         "instructions": "Por favor ay\u00fadenme a identificar esta fuente",
-        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1230274.jpg",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1230274.jpg?1",
         "identified_font": null
     },
     {
@@ -37861,6 +37861,94 @@
         "title": "bnds logo",
         "instructions": null,
         "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1230257.png",
+        "identified_font": null
+    },
+    {
+        "task_id": "582357",
+        "url": "https://www.dafont.com/forum/read/582357/podem-me-ajudar-a-identificar-a-fonte-por-favor",
+        "title": "Podem me ajudar a identificar a fonte, por favor?",
+        "instructions": null,
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1230293.jpg",
+        "identified_font": null
+    },
+    {
+        "task_id": "582356",
+        "url": "https://www.dafont.com/forum/read/582356/font-celebrity-boxing-flash-game",
+        "title": "Font? (Celebrity boxing flash game)",
+        "instructions": null,
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1230292.png",
+        "identified_font": null
+    },
+    {
+        "task_id": "582355",
+        "url": "https://www.dafont.com/forum/read/582355/what-the-font",
+        "title": "what the font",
+        "instructions": null,
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1230288.png",
+        "identified_font": null
+    },
+    {
+        "task_id": "582354",
+        "url": "https://www.dafont.com/forum/read/582354/immersion",
+        "title": "IMMERSION",
+        "instructions": null,
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1230287.png",
+        "identified_font": null
+    },
+    {
+        "task_id": "582353",
+        "url": "https://www.dafont.com/forum/read/582353/please-identify-this-font",
+        "title": "Please identify this font",
+        "instructions": "Thank you!",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1230286.png",
+        "identified_font": null
+    },
+    {
+        "task_id": "582352",
+        "url": "https://www.dafont.com/forum/read/582352/does-anyone-know-what-font-this-is-thank-you",
+        "title": "Does anyone know what font this is? Thank you.",
+        "instructions": null,
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1230284.png",
+        "identified_font": null
+    },
+    {
+        "task_id": "582351",
+        "url": "https://www.dafont.com/forum/read/582351/crush",
+        "title": "CRUSH",
+        "instructions": null,
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1230283.jpg",
+        "identified_font": null
+    },
+    {
+        "task_id": "582347",
+        "url": "https://www.dafont.com/forum/read/582347/thanks-for-helping-me-find-this-font-3",
+        "title": "Thanks for helping me find this font <3!",
+        "instructions": null,
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1230277.png",
+        "identified_font": "Sloop Script Three"
+    },
+    {
+        "task_id": "582350",
+        "url": "https://www.dafont.com/forum/read/582350/please-help-me-find-this-font-thank-you",
+        "title": "Please help me find this font. Thank you.",
+        "instructions": null,
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1230281.png",
+        "identified_font": null
+    },
+    {
+        "task_id": "582349",
+        "url": "https://www.dafont.com/forum/read/582349/what-font-is-this",
+        "title": "What font is this",
+        "instructions": "What font is this",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1230280.jpg",
+        "identified_font": null
+    },
+    {
+        "task_id": "582348",
+        "url": "https://www.dafont.com/forum/read/582348/fonte-urgenteeeeeeeeeeeeeeeeeeeeeeeeeeeeee",
+        "title": "Fonte URGENTEEEEEEEEEEEEEEEEEEEEEEEEEEEEEE...!!!",
+        "instructions": "\"LAURA PAUSINI\" \"IO CANTO\" \"WORLD TOUR\" fonteeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1230278.png",
         "identified_font": null
     }
 ]
