@@ -37132,7 +37132,7 @@
         "url": "https://www.dafont.com/forum/read/582175/sophie-ellis-bextor-font-needed",
         "title": "Sophie Ellis-Bextor Font needed",
         "instructions": "I hate the album cover and I'm trying to make a better one. Any help with this font is GREATLY appreciated!",
-        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1230011.png",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1230011.png?1",
         "identified_font": null
     },
     {
@@ -37277,7 +37277,7 @@
         "title": "\"ARNOLD 14 CINE\"",
         "instructions": null,
         "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1230052.jpg",
-        "identified_font": null
+        "identified_font": "Dolmen"
     },
     {
         "task_id": "582197",
@@ -37388,8 +37388,8 @@
         "url": "https://www.dafont.com/forum/read/582204/font",
         "title": "Font",
         "instructions": null,
-        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1230062.jpg",
-        "identified_font": null
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1230062.jpg?2",
+        "identified_font": "Fry's Baskerville"
     },
     {
         "task_id": "582203",
@@ -37788,8 +37788,8 @@
         "url": "https://www.dafont.com/forum/read/582325/the-what-font",
         "title": "THE WHAT FONT",
         "instructions": "What is the name of this font?",
-        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1230232.jpg",
-        "identified_font": null
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1230232.png?3",
+        "identified_font": "Chalkiez"
     },
     {
         "task_id": "582324",
@@ -37981,7 +37981,7 @@
         "title": "\"Portals to Hell\" television show font A",
         "instructions": null,
         "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1230294.jpg",
-        "identified_font": null
+        "identified_font": "Operina"
     },
     {
         "task_id": "582363",
@@ -38125,6 +38125,94 @@
         "title": "Blue Archive font ?",
         "instructions": null,
         "img_url": "https://www.dafont.com/forum/attach/orig/1/0/1048292.png?1",
+        "identified_font": null
+    },
+    {
+        "task_id": "582395",
+        "url": "https://www.dafont.com/forum/read/582395/font",
+        "title": "Font",
+        "instructions": null,
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1230394.jpg",
+        "identified_font": null
+    },
+    {
+        "task_id": "582392",
+        "url": "https://www.dafont.com/forum/read/582392/helppp",
+        "title": "Helppp",
+        "instructions": null,
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1230389.jpg",
+        "identified_font": "Mattrile Vintales"
+    },
+    {
+        "task_id": "582389",
+        "url": "https://www.dafont.com/forum/read/582389/find-font-name-pls",
+        "title": "\"Find\" font name pls",
+        "instructions": "\"Find\" font name pls",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1230380.jpg",
+        "identified_font": "Beautiful Heart"
+    },
+    {
+        "task_id": "582391",
+        "url": "https://www.dafont.com/forum/read/582391/what-this-font",
+        "title": "What this font?",
+        "instructions": null,
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1230384.png",
+        "identified_font": null
+    },
+    {
+        "task_id": "582386",
+        "url": "https://www.dafont.com/forum/read/582386/please-help",
+        "title": "Please help",
+        "instructions": "Be Kind?",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1230374.png",
+        "identified_font": "Always forever"
+    },
+    {
+        "task_id": "582390",
+        "url": "https://www.dafont.com/forum/read/582390/police-ecriture-chiffre",
+        "title": "police ecriture chiffre",
+        "instructions": "Bonjour quel est l'\u00e9criture du chiffre 30 ? impossible de trouver",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1230381.png",
+        "identified_font": null
+    },
+    {
+        "task_id": "582388",
+        "url": "https://www.dafont.com/forum/read/582388/please-help-me-identify-this-font",
+        "title": "Please help me identify this font",
+        "instructions": "Fresh Antique",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1230377.jpg",
+        "identified_font": "Cherry and Kisses"
+    },
+    {
+        "task_id": "582384",
+        "url": "https://www.dafont.com/forum/read/582384/ps-277",
+        "title": "PS 277",
+        "instructions": "Help with font please",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1230371.png",
+        "identified_font": "Magnolia Script"
+    },
+    {
+        "task_id": "582382",
+        "url": "https://www.dafont.com/forum/read/582382/help-please",
+        "title": "Help Please",
+        "instructions": null,
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1230367.png",
+        "identified_font": "Century Gothic"
+    },
+    {
+        "task_id": "582381",
+        "url": "https://www.dafont.com/forum/read/582381/font",
+        "title": "Font?",
+        "instructions": null,
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1230355.jpg",
+        "identified_font": null
+    },
+    {
+        "task_id": "582379",
+        "url": "https://www.dafont.com/forum/read/582379/someone-please-know-the-font-of-suus",
+        "title": "Someone please know the font of Suus ?",
+        "instructions": null,
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1230353.png",
         "identified_font": null
     }
 ]
