@@ -34521,8 +34521,8 @@
     },
     {
         "task_id": "581807",
-        "url": "https://www.dafont.com/forum/read/581807/cual-es-este-font",
-        "title": "Cual es este font?",
+        "url": "https://www.dafont.com/forum/read/581807/font-please-or-similar",
+        "title": "Font please! or Similar",
         "instructions": null,
         "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1229247.png",
         "identified_font": null
@@ -37860,7 +37860,7 @@
         "url": "https://www.dafont.com/forum/read/582339/bnds-logo",
         "title": "bnds logo",
         "instructions": null,
-        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1230257.png",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1230257.png?1",
         "identified_font": null
     },
     {
@@ -38013,6 +38013,30 @@
         "title": "Sleeping Beauty Font?",
         "instructions": null,
         "img_url": "https://www.dafont.com/forum/attach/orig/7/2/727035.png",
+        "identified_font": null
+    },
+    {
+        "task_id": "576560",
+        "url": "https://www.dafont.com/forum/read/576560/please-help",
+        "title": "Please help",
+        "instructions": "we love to entertain you font",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1218187.jpg",
+        "identified_font": null
+    },
+    {
+        "task_id": "582364",
+        "url": "https://www.dafont.com/forum/read/582364/retro",
+        "title": "RETRO ?",
+        "instructions": "does anyone know this font?",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1230326.png",
+        "identified_font": null
+    },
+    {
+        "task_id": "547915",
+        "url": "https://www.dafont.com/forum/read/547915/what-font",
+        "title": "What font???",
+        "instructions": null,
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/1/1158619.png",
         "identified_font": null
     }
 ]
