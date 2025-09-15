@@ -8260,7 +8260,7 @@
         "url": "https://www.dafont.com/forum/read/577912/4th-mini-album",
         "title": "4th Mini Album",
         "instructions": null,
-        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1221254.png",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1221254.png?1",
         "identified_font": null
     },
     {
@@ -37252,7 +37252,7 @@
         "url": "https://www.dafont.com/forum/read/582186/font-name",
         "title": "font name?",
         "instructions": "Thanks",
-        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1230026.png",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1230026.png?1",
         "identified_font": null
     },
     {
@@ -37869,7 +37869,7 @@
         "title": "Podem me ajudar a identificar a fonte, por favor?",
         "instructions": null,
         "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1230293.jpg",
-        "identified_font": null
+        "identified_font": "Cheltenham Extra Condensed Bold"
     },
     {
         "task_id": "582356",
@@ -37949,6 +37949,38 @@
         "title": "Fonte URGENTEEEEEEEEEEEEEEEEEEEEEEEEEEEEEE...!!!",
         "instructions": "\"LAURA PAUSINI\" \"IO CANTO\" \"WORLD TOUR\" fonteeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee",
         "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1230278.png",
+        "identified_font": null
+    },
+    {
+        "task_id": "582361",
+        "url": "https://www.dafont.com/forum/read/582361/helpp",
+        "title": "helpp",
+        "instructions": null,
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1230303.png?1",
+        "identified_font": "Retrofunk Script"
+    },
+    {
+        "task_id": "582360",
+        "url": "https://www.dafont.com/forum/read/582360/redoor",
+        "title": "REDOOR",
+        "instructions": null,
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1230296.png?1",
+        "identified_font": null
+    },
+    {
+        "task_id": "582359",
+        "url": "https://www.dafont.com/forum/read/582359/portals-to-hell-television-show-font-b",
+        "title": "\"Portals to Hell\" television show font B",
+        "instructions": null,
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1230295.jpg",
+        "identified_font": null
+    },
+    {
+        "task_id": "582358",
+        "url": "https://www.dafont.com/forum/read/582358/portals-to-hell-television-show-font-a",
+        "title": "\"Portals to Hell\" television show font A",
+        "instructions": null,
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1230294.jpg",
         "identified_font": null
     }
 ]
