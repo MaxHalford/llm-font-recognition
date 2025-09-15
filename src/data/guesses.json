@@ -53503,5 +53503,185 @@
         "candidate_font_3": "Proxima Nova Black",
         "candidate_font_4": "Oswald ExtraBold",
         "candidate_font_5": "Open Sans ExtraBold"
+    },
+    {
+        "task_id": "582346",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Gotham",
+        "candidate_font_2": "Montserrat",
+        "candidate_font_3": "Open Sans",
+        "candidate_font_4": "Lato",
+        "candidate_font_5": "Proxima Nova"
+    },
+    {
+        "task_id": "582345",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Disco Deck",
+        "candidate_font_2": "Road Rage",
+        "candidate_font_3": "California Dreamin'",
+        "candidate_font_4": "SF Disco Machine",
+        "candidate_font_5": "Marquee Light"
+    },
+    {
+        "task_id": "582344",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "VAG Rounded Std Black Oblique",
+        "candidate_font_2": "Impact Italic",
+        "candidate_font_3": "Eurostile Black Oblique",
+        "candidate_font_4": "Klavika Bold",
+        "candidate_font_5": "Oswald ExtraBold"
+    },
+    {
+        "task_id": "582343",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "California Dreaming",
+        "candidate_font_2": "California Sunshine",
+        "candidate_font_3": "Magic Retro",
+        "candidate_font_4": "Phatboy",
+        "candidate_font_5": "Vintage King"
+    },
+    {
+        "task_id": "582342",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Quicksand",
+        "candidate_font_2": "Mulish",
+        "candidate_font_3": "Nunito Sans",
+        "candidate_font_4": "Varela Round",
+        "candidate_font_5": "Rubik"
+    },
+    {
+        "task_id": "582341",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Poppins",
+        "candidate_font_2": "Proxima Nova",
+        "candidate_font_3": "Figtree",
+        "candidate_font_4": "Outfit",
+        "candidate_font_5": "Lato"
+    },
+    {
+        "task_id": "582340",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Bembo Italic",
+        "candidate_font_2": "Garamond Italic",
+        "candidate_font_3": "Palatino Italic",
+        "candidate_font_4": "Book Antiqua Italic",
+        "candidate_font_5": "Janson Text Italic"
+    },
+    {
+        "task_id": "582339",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "KG A Little Swag",
+        "candidate_font_2": "Good Bubble",
+        "candidate_font_3": "Bands Together",
+        "candidate_font_4": "The Mighty Avenger",
+        "candidate_font_5": "Chewy"
+    },
+    {
+        "task_id": "582356",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Porky's",
+        "candidate_font_2": "Grinched",
+        "candidate_font_3": "Janda Quickie Writing",
+        "candidate_font_4": "Badaboom BB",
+        "candidate_font_5": "Coming Soon"
+    },
+    {
+        "task_id": "582355",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Rockfall",
+        "candidate_font_2": "Death Rattle",
+        "candidate_font_3": "Headliner No. 45",
+        "candidate_font_4": "Impacted",
+        "candidate_font_5": "Road Rage"
+    },
+    {
+        "task_id": "582354",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Pompier",
+        "candidate_font_2": "Narcissus",
+        "candidate_font_3": "Ambrosia",
+        "candidate_font_4": "Regal Finesse",
+        "candidate_font_5": "Aurelie Display"
+    },
+    {
+        "task_id": "582353",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Industry Bold",
+        "candidate_font_2": "Acumin Pro Condensed Black",
+        "candidate_font_3": "Montserrat Black",
+        "candidate_font_4": "Oswald Bold",
+        "candidate_font_5": "Bebas Neue"
+    },
+    {
+        "task_id": "582352",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Hey Man Font",
+        "candidate_font_2": "Paint Cans",
+        "candidate_font_3": "Throwup",
+        "candidate_font_4": "Bombing",
+        "candidate_font_5": "Street Cred"
+    },
+    {
+        "task_id": "582351",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Porky's Outline",
+        "candidate_font_2": "Lancelot Regular",
+        "candidate_font_3": "The Historia",
+        "candidate_font_4": "Proxima Nova",
+        "candidate_font_5": ""
+    },
+    {
+        "task_id": "582350",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "DJ Gross",
+        "candidate_font_2": "Playlist Script",
+        "candidate_font_3": "Bromello",
+        "candidate_font_4": "Bukhari Script",
+        "candidate_font_5": "Mighty Brush"
+    },
+    {
+        "task_id": "582349",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Montserrat Black Italic",
+        "candidate_font_2": "Open Sans ExtraBold Italic",
+        "candidate_font_3": "Lato Black Italic",
+        "candidate_font_4": "Poppins Black Italic",
+        "candidate_font_5": "Inter Black Italic"
+    },
+    {
+        "task_id": "582348",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Bebas Neue",
+        "candidate_font_2": "League Gothic",
+        "candidate_font_3": "Oswald",
+        "candidate_font_4": "Anton",
+        "candidate_font_5": "DIN Condensed"
+    },
+    {
+        "task_id": "582360",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Mono Outline",
+        "candidate_font_2": "Aerokids",
+        "candidate_font_3": "Walkway",
+        "candidate_font_4": "Moon Light",
+        "candidate_font_5": "Neu Bauhaus"
+    },
+    {
+        "task_id": "582359",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "YouMurderer",
+        "candidate_font_2": "Death Rattle",
+        "candidate_font_3": "Feast of Flesh",
+        "candidate_font_4": "Horror Mess",
+        "candidate_font_5": "Broken Blade"
+    },
+    {
+        "task_id": "582358",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Mesquite Std",
+        "candidate_font_2": "Ironwood",
+        "candidate_font_3": "Texas Grunge",
+        "candidate_font_4": "Desperados",
+        "candidate_font_5": "Dead Saloon"
     }
 ]
