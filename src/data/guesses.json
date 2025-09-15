@@ -53719,5 +53719,32 @@
         "candidate_font_3": "Old English Text MT",
         "candidate_font_4": "Goudy Text",
         "candidate_font_5": "Fette Fraktur"
+    },
+    {
+        "task_id": "576560",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Aachen Stencil",
+        "candidate_font_2": "Starduster Stencil",
+        "candidate_font_3": "SF Stencil Square",
+        "candidate_font_4": "Stencil G",
+        "candidate_font_5": "Impact Stencil"
+    },
+    {
+        "task_id": "582364",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Headliner No. 45",
+        "candidate_font_2": "Octin Vintage",
+        "candidate_font_3": "Destroy",
+        "candidate_font_4": "Capture It",
+        "candidate_font_5": "Mostwasted"
+    },
+    {
+        "task_id": "547915",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Bubbleboddy Bold Outline",
+        "candidate_font_2": "Luckiest Guy",
+        "candidate_font_3": "Cooper Black",
+        "candidate_font_4": "Recia Black",
+        "candidate_font_5": "Georgia"
     }
 ]
