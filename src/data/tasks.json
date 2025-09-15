@@ -23028,7 +23028,7 @@
         "url": "https://www.dafont.com/forum/read/580213/font",
         "title": "Font??",
         "instructions": null,
-        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1226027.png",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1226027.png?1",
         "identified_font": null
     },
     {
@@ -33749,7 +33749,7 @@
         "title": "Font tittle \"Rich Man\" by Aespa please",
         "instructions": null,
         "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1229042.jpg",
-        "identified_font": null
+        "identified_font": "Kijutos"
     },
     {
         "task_id": "581706",
@@ -37516,8 +37516,8 @@
         "url": "https://www.dafont.com/forum/read/582234/font",
         "title": "Font",
         "instructions": null,
-        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1230118.png",
-        "identified_font": null
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1230118.png?1",
+        "identified_font": "Compacta"
     },
     {
         "task_id": "582233",
@@ -37836,7 +37836,7 @@
         "url": "https://www.dafont.com/forum/read/582342/what-is-this-font-please",
         "title": "What is this font, please?",
         "instructions": null,
-        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1230268.jpg",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1230268.png?1",
         "identified_font": null
     },
     {
@@ -37981,6 +37981,38 @@
         "title": "\"Portals to Hell\" television show font A",
         "instructions": null,
         "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1230294.jpg",
+        "identified_font": null
+    },
+    {
+        "task_id": "582363",
+        "url": "https://www.dafont.com/forum/read/582363/connaissez-vous-cette-police-s-il-vous-plait",
+        "title": "Connaissez-vous cette police s'il vous pla\u00eet ?",
+        "instructions": null,
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1230320.png",
+        "identified_font": null
+    },
+    {
+        "task_id": "558681",
+        "url": "https://www.dafont.com/forum/read/558681/gachiakuta-s-title-font",
+        "title": "Gachiakuta's title font",
+        "instructions": "May I ask what kind of font this is?",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/1/1181601.jpg",
+        "identified_font": null
+    },
+    {
+        "task_id": "582362",
+        "url": "https://www.dafont.com/forum/read/582362/does-anyone-know-the-name-of-this-fountain",
+        "title": "Does anyone know the name of this fountain?",
+        "instructions": "Does anyone know the name of this fountain????",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1230316.png?1",
+        "identified_font": null
+    },
+    {
+        "task_id": "331671",
+        "url": "https://www.dafont.com/forum/read/331671/sleeping-beauty-font",
+        "title": "Sleeping Beauty Font?",
+        "instructions": null,
+        "img_url": "https://www.dafont.com/forum/attach/orig/7/2/727035.png",
         "identified_font": null
     }
 ]
