@@ -37757,7 +37757,7 @@
         "title": "Fonts? (Brutal studio flash game)",
         "instructions": null,
         "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1230250.png",
-        "identified_font": null
+        "identified_font": "B\u00e1sica"
     },
     {
         "task_id": "582334",
@@ -37765,7 +37765,7 @@
         "title": "Please, what are these fonts?",
         "instructions": "I've searched a lot, but can't find the title and body text fonts.",
         "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1230247.jpg",
-        "identified_font": null
+        "identified_font": "Malbeck"
     },
     {
         "task_id": "582327",
@@ -37797,6 +37797,70 @@
         "title": "what is the font in the \"ASSA\u00cd\"",
         "instructions": "i wanted to know that one it looks really nice in my opinion",
         "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1230227.png",
+        "identified_font": null
+    },
+    {
+        "task_id": "582346",
+        "url": "https://www.dafont.com/forum/read/582346/identify-please",
+        "title": "identify please :)",
+        "instructions": "looking for the font used on John Mayer Room For Squares album.  Thanks!",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1230275.png",
+        "identified_font": null
+    },
+    {
+        "task_id": "582345",
+        "url": "https://www.dafont.com/forum/read/582345/mexico-playera",
+        "title": "MEXICO Playera",
+        "instructions": "Por favor ay\u00fadenme a identificar esta fuente",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1230274.jpg",
+        "identified_font": null
+    },
+    {
+        "task_id": "582344",
+        "url": "https://www.dafont.com/forum/read/582344/fonte-do-logo-sptv-abc",
+        "title": "Fonte do Logo SPTV ABC",
+        "instructions": "Qual \u00e9 essa Fonte de \"SPTV\" e \"GRANDE ABC\"?",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1230270.png",
+        "identified_font": null
+    },
+    {
+        "task_id": "582343",
+        "url": "https://www.dafont.com/forum/read/582343/nmixx-blue-valentine-font",
+        "title": "nmixx blue valentine font",
+        "instructions": "no one was posting it here so i guess i would post it here nonchalantly after midnight",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1230269.png",
+        "identified_font": null
+    },
+    {
+        "task_id": "582342",
+        "url": "https://www.dafont.com/forum/read/582342/what-is-this-font-please",
+        "title": "What is this font, please?",
+        "instructions": null,
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1230268.jpg",
+        "identified_font": null
+    },
+    {
+        "task_id": "582341",
+        "url": "https://www.dafont.com/forum/read/582341/what-is-this-font-please",
+        "title": "What is this font, please?",
+        "instructions": null,
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1230267.jpg",
+        "identified_font": null
+    },
+    {
+        "task_id": "582340",
+        "url": "https://www.dafont.com/forum/read/582340/please-what-is-this-font",
+        "title": "Please, what is this font?",
+        "instructions": null,
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1230266.jpg",
+        "identified_font": null
+    },
+    {
+        "task_id": "582339",
+        "url": "https://www.dafont.com/forum/read/582339/bnds-logo",
+        "title": "bnds logo",
+        "instructions": null,
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1230257.png",
         "identified_font": null
     }
 ]
