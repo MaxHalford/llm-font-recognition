@@ -53746,5 +53746,95 @@
         "candidate_font_3": "Cooper Black",
         "candidate_font_4": "Recia Black",
         "candidate_font_5": "Georgia"
+    },
+    {
+        "task_id": "582378",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Friz Quadrata",
+        "candidate_font_2": "ITC Korinna",
+        "candidate_font_3": "Vafthrudnir",
+        "candidate_font_4": "Centurion",
+        "candidate_font_5": "Hadriano"
+    },
+    {
+        "task_id": "582371",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "ITC Avant Garde Gothic",
+        "candidate_font_2": "Univers",
+        "candidate_font_3": "Futura",
+        "candidate_font_4": "Akzidenz-Grotesk",
+        "candidate_font_5": "Helvetica"
+    },
+    {
+        "task_id": "582366",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Archivo Black",
+        "candidate_font_2": "Oswald Bold",
+        "candidate_font_3": "Open Sans Bold",
+        "candidate_font_4": "Open Sans Regular",
+        "candidate_font_5": "Montserrat Black"
+    },
+    {
+        "task_id": "582368",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Gotham",
+        "candidate_font_2": "Montserrat",
+        "candidate_font_3": "Graphik",
+        "candidate_font_4": "Circular Std",
+        "candidate_font_5": "Bw Nista Geometric"
+    },
+    {
+        "task_id": "582375",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Corporate A Bold",
+        "candidate_font_2": "Franklin Gothic URW Bold",
+        "candidate_font_3": "Trade Gothic Bold",
+        "candidate_font_4": "Akzidenz-Grotesk Std Extended Bold",
+        "candidate_font_5": ""
+    },
+    {
+        "task_id": "582372",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "ITC Avant Garde Gothic",
+        "candidate_font_2": "DIN 1451",
+        "candidate_font_3": "Futura",
+        "candidate_font_4": "Forma",
+        "candidate_font_5": "Univers"
+    },
+    {
+        "task_id": "582370",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Impact",
+        "candidate_font_2": "Haettenschweiler",
+        "candidate_font_3": "Anton",
+        "candidate_font_4": "Oswald Bold",
+        "candidate_font_5": "Sabon"
+    },
+    {
+        "task_id": "582369",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Fredoka One",
+        "candidate_font_2": "Baloo 2",
+        "candidate_font_3": "Mochiy Pop P One",
+        "candidate_font_4": "Bubblegum Sans",
+        "candidate_font_5": "Luckiest Guy"
+    },
+    {
+        "task_id": "582367",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Bubblegum Sans",
+        "candidate_font_2": "Fredoka One",
+        "candidate_font_3": "Chewy",
+        "candidate_font_4": "Balsamiq Sans",
+        "candidate_font_5": "Luckiest Guy"
+    },
+    {
+        "task_id": "492953",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Agency FB Bold Italic",
+        "candidate_font_2": "Roboto Condensed Bold Italic",
+        "candidate_font_3": "Exo 2.0 ExtraBold Italic",
+        "candidate_font_4": "Rajdhani Bold Italic",
+        "candidate_font_5": "Montserrat Black Italic"
     }
 ]
