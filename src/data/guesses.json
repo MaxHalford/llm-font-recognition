@@ -53683,5 +53683,41 @@
         "candidate_font_3": "Texas Grunge",
         "candidate_font_4": "Desperados",
         "candidate_font_5": "Dead Saloon"
+    },
+    {
+        "task_id": "582363",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Metropolis",
+        "candidate_font_2": "Deco Neue",
+        "candidate_font_3": "Giorgio Sans",
+        "candidate_font_4": "Eubie",
+        "candidate_font_5": "Bauhaus 93"
+    },
+    {
+        "task_id": "558681",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "FOT-Kurokane Std B",
+        "candidate_font_2": "DFGPOPMIX W9",
+        "candidate_font_3": "FOT-Shin Go Pro B",
+        "candidate_font_4": "FOT-Rodin Pro B",
+        "candidate_font_5": "ChibaKaku-Bold"
+    },
+    {
+        "task_id": "582362",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Bubblegum Pop",
+        "candidate_font_2": "Grobold",
+        "candidate_font_3": "Porky's",
+        "candidate_font_4": "Komika Display",
+        "candidate_font_5": "Bangers"
+    },
+    {
+        "task_id": "331671",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Wedding Text",
+        "candidate_font_2": "Cloister Black",
+        "candidate_font_3": "Old English Text MT",
+        "candidate_font_4": "Goudy Text",
+        "candidate_font_5": "Fette Fraktur"
     }
 ]
