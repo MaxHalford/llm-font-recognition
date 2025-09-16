@@ -53881,5 +53881,77 @@
         "candidate_font_3": "Gabarito Light",
         "candidate_font_4": "Comfortaa Light",
         "candidate_font_5": "Avenir Next Rounded Light"
+    },
+    {
+        "task_id": "582405",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Collegiate Blackletter",
+        "candidate_font_2": "San Andreas Regular",
+        "candidate_font_3": "California Jackpot",
+        "candidate_font_4": "Old School United",
+        "candidate_font_5": "Angilla"
+    },
+    {
+        "task_id": "582404",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Chicano Script",
+        "candidate_font_2": "Mister Chicano",
+        "candidate_font_3": "Homies Script",
+        "candidate_font_4": "VTC Nue Tattoo Script",
+        "candidate_font_5": "Barrio Chicano"
+    },
+    {
+        "task_id": "582403",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Captain Jack",
+        "candidate_font_2": "Pieces of Eight",
+        "candidate_font_3": "Buccaneers Revenge",
+        "candidate_font_4": "Pirates",
+        "candidate_font_5": "Trajan Pro"
+    },
+    {
+        "task_id": "582402",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "IBM Plex Mono",
+        "candidate_font_2": "Consolas",
+        "candidate_font_3": "Source Code Pro",
+        "candidate_font_4": "Fira Code",
+        "candidate_font_5": "JetBrains Mono"
+    },
+    {
+        "task_id": "480603",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Coronet",
+        "candidate_font_2": "Vivaldi Italic",
+        "candidate_font_3": "Edwardian Script ITC",
+        "candidate_font_4": "Bickham Script Pro",
+        "candidate_font_5": "Ex Ponto"
+    },
+    {
+        "task_id": "498627",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Bratty Sister",
+        "candidate_font_2": "Dirtyline Brush",
+        "candidate_font_3": "Wild Youth",
+        "candidate_font_4": "Street Soul",
+        "candidate_font_5": "Reckless"
+    },
+    {
+        "task_id": "582398",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Glamor Condensed Thin",
+        "candidate_font_2": "Magnolia Sky",
+        "candidate_font_3": "",
+        "candidate_font_4": "",
+        "candidate_font_5": ""
+    },
+    {
+        "task_id": "582397",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Street Wars",
+        "candidate_font_2": "Headliner No. 45",
+        "candidate_font_3": "SF Collegiate",
+        "candidate_font_4": "Impact",
+        "candidate_font_5": "Brooklyn Street"
     }
 ]
