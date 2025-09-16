@@ -37068,7 +37068,7 @@
         "url": "https://www.dafont.com/forum/read/582164/what-the-font",
         "title": "what the font",
         "instructions": null,
-        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1229984.png",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1229984.png?2",
         "identified_font": null
     },
     {
@@ -38213,6 +38213,94 @@
         "title": "Someone please know the font of Suus ?",
         "instructions": null,
         "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1230353.png",
+        "identified_font": null
+    },
+    {
+        "task_id": "582405",
+        "url": "https://www.dafont.com/forum/read/582405/what-the-font",
+        "title": "what the font",
+        "instructions": "what the font",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1230415.png",
+        "identified_font": null
+    },
+    {
+        "task_id": "582399",
+        "url": "https://www.dafont.com/forum/read/582399/could-you-please-help-me-identify-this-font",
+        "title": "Could you please help me identify this font?",
+        "instructions": "I saw it and I liked it and I've been looking for it like crazy but nothing.",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1230402.png",
+        "identified_font": "Ghost"
+    },
+    {
+        "task_id": "582400",
+        "url": "https://www.dafont.com/forum/read/582400/what-s-this-font",
+        "title": "What's this font?",
+        "instructions": null,
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1230406.jpg",
+        "identified_font": "Amelaryas"
+    },
+    {
+        "task_id": "500486",
+        "url": "https://www.dafont.com/forum/read/500486/kesha-s-backlight-t-shirt-font",
+        "title": "Kesha's backlight T-shirt font",
+        "instructions": null,
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/0/1063035.png",
+        "identified_font": "Cooper Nouveau"
+    },
+    {
+        "task_id": "582404",
+        "url": "https://www.dafont.com/forum/read/582404/help-identifying-font-please",
+        "title": "HELP IDENTIFYING FONT PLEASE",
+        "instructions": "where it says chicano i need help finding the font please and thank you",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1230411.jpg",
+        "identified_font": null
+    },
+    {
+        "task_id": "582403",
+        "url": "https://www.dafont.com/forum/read/582403/jack-sparrow-s-font",
+        "title": "\"Jack Sparrow's\" font?",
+        "instructions": null,
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1230410.jpg",
+        "identified_font": null
+    },
+    {
+        "task_id": "582402",
+        "url": "https://www.dafont.com/forum/read/582402/what-is-this-font",
+        "title": "What is this font?",
+        "instructions": null,
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1230408.jpg",
+        "identified_font": null
+    },
+    {
+        "task_id": "480603",
+        "url": "https://www.dafont.com/forum/read/480603/moody-blues-long-distance-voyager-band-name-font",
+        "title": "Moody blues - long distance Voyager band name font",
+        "instructions": null,
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/0/1023787.jpg",
+        "identified_font": null
+    },
+    {
+        "task_id": "498627",
+        "url": "https://www.dafont.com/forum/read/498627/alice-glass-tour-live-stream-font",
+        "title": "Alice Glass \"Tour / Live stream\" font",
+        "instructions": null,
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/0/1059576.png?1",
+        "identified_font": null
+    },
+    {
+        "task_id": "582398",
+        "url": "https://www.dafont.com/forum/read/582398/what-is-this-font",
+        "title": "What is this font?",
+        "instructions": null,
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1230397.jpg",
+        "identified_font": null
+    },
+    {
+        "task_id": "582397",
+        "url": "https://www.dafont.com/forum/read/582397/2026",
+        "title": "2026",
+        "instructions": "need 2026 font",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1230396.png",
         "identified_font": null
     }
 ]
