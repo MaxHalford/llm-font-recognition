@@ -37829,7 +37829,7 @@
         "title": "nmixx blue valentine font",
         "instructions": "no one was posting it here so i guess i would post it here nonchalantly after midnight",
         "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1230269.png",
-        "identified_font": null
+        "identified_font": "Mancine"
     },
     {
         "task_id": "582342",
@@ -37916,8 +37916,8 @@
         "url": "https://www.dafont.com/forum/read/582351/crush",
         "title": "CRUSH",
         "instructions": null,
-        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1230283.jpg",
-        "identified_font": null
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1230283.png?1",
+        "identified_font": "Relaate Slab"
     },
     {
         "task_id": "582347",
@@ -38357,6 +38357,14 @@
         "title": "what font thanks",
         "instructions": null,
         "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1230431.png",
+        "identified_font": null
+    },
+    {
+        "task_id": "582413",
+        "url": "https://www.dafont.com/forum/read/582413/playlist",
+        "title": "PLAYLIST",
+        "instructions": null,
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1230433.jpg",
         "identified_font": null
     }
 ]
