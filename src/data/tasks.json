@@ -37883,8 +37883,8 @@
         "task_id": "582355",
         "url": "https://www.dafont.com/forum/read/582355/what-the-font",
         "title": "what the font",
-        "instructions": null,
-        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1230288.png",
+        "instructions": "what the font",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1230288.png?2",
         "identified_font": null
     },
     {
@@ -38301,6 +38301,54 @@
         "title": "2026",
         "instructions": "need 2026 font",
         "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1230396.png",
+        "identified_font": null
+    },
+    {
+        "task_id": "582411",
+        "url": "https://www.dafont.com/forum/read/582411/canadian-tv-rating-current-variant",
+        "title": "Canadian TV rating (Current variant)",
+        "instructions": "Can the font used in the TV ratings used by Corus and some other Canadian TV companies be identified?",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1230425.png",
+        "identified_font": null
+    },
+    {
+        "task_id": "582409",
+        "url": "https://www.dafont.com/forum/read/582409/font",
+        "title": "font",
+        "instructions": null,
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1230422.png",
+        "identified_font": "Janda Manatee"
+    },
+    {
+        "task_id": "582410",
+        "url": "https://www.dafont.com/forum/read/582410/font",
+        "title": "font",
+        "instructions": null,
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1230423.png",
+        "identified_font": null
+    },
+    {
+        "task_id": "582408",
+        "url": "https://www.dafont.com/forum/read/582408/font-find",
+        "title": "FONT FIND",
+        "instructions": "What is the font used for the text \"Animation\"?",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1230421.png",
+        "identified_font": null
+    },
+    {
+        "task_id": "582407",
+        "url": "https://www.dafont.com/forum/read/582407/help-me-what-this-font-please",
+        "title": "Help me! What this font? Please",
+        "instructions": null,
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1230420.png?1",
+        "identified_font": null
+    },
+    {
+        "task_id": "582406",
+        "url": "https://www.dafont.com/forum/read/582406/font-help",
+        "title": "Font Help",
+        "instructions": null,
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1230418.png?1",
         "identified_font": null
     }
 ]
