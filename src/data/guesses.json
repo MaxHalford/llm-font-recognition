@@ -53998,5 +53998,14 @@
         "candidate_font_3": "Varsity Team",
         "candidate_font_4": "Jersey M54",
         "candidate_font_5": "Game Played"
+    },
+    {
+        "task_id": "582412",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Bromello",
+        "candidate_font_2": "Magnolia Sky",
+        "candidate_font_3": "Southamton",
+        "candidate_font_4": "Lovely Home",
+        "candidate_font_5": "Hello Beautiful"
     }
 ]
