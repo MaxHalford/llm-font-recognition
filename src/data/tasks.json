@@ -37133,7 +37133,7 @@
         "title": "Sophie Ellis-Bextor Font needed",
         "instructions": "I hate the album cover and I'm trying to make a better one. Any help with this font is GREATLY appreciated!",
         "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1230011.png?1",
-        "identified_font": null
+        "identified_font": "Geograph"
     },
     {
         "task_id": "582174",
@@ -38325,7 +38325,7 @@
         "title": "font",
         "instructions": null,
         "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1230423.png",
-        "identified_font": null
+        "identified_font": "Coconut House"
     },
     {
         "task_id": "582408",
@@ -38341,7 +38341,7 @@
         "title": "Help me! What this font? Please",
         "instructions": null,
         "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1230420.png?1",
-        "identified_font": null
+        "identified_font": "Adventures Unlimited"
     },
     {
         "task_id": "582406",
@@ -38349,6 +38349,14 @@
         "title": "Font Help",
         "instructions": null,
         "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1230418.png?1",
+        "identified_font": null
+    },
+    {
+        "task_id": "582412",
+        "url": "https://www.dafont.com/forum/read/582412/what-font-thanks",
+        "title": "what font thanks",
+        "instructions": null,
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1230431.png",
         "identified_font": null
     }
 ]
