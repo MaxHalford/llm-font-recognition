@@ -54016,5 +54016,113 @@
         "candidate_font_3": "Press Start 2P",
         "candidate_font_4": "Roboto Condensed Bold Italic",
         "candidate_font_5": "VCR OSD Mono"
+    },
+    {
+        "task_id": "582426",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Cracked by Billy Angel",
+        "candidate_font_2": "Broken Code by Billy Angel",
+        "candidate_font_3": "Pixel Split by M\u00e5ns Greb\u00e4ck",
+        "candidate_font_4": "Crashdown by Billy Angel",
+        "candidate_font_5": "Fragmented by Pixel Sagas"
+    },
+    {
+        "task_id": "582423",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Quimby MF",
+        "candidate_font_2": "ITC Fat Albert",
+        "candidate_font_3": "Pump Demi Bold",
+        "candidate_font_4": "VAG Rounded Bold",
+        "candidate_font_5": "Babyfat"
+    },
+    {
+        "task_id": "582425",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Ironclad",
+        "candidate_font_2": "SF Collegiate Heavy",
+        "candidate_font_3": "Headliner No. 45 Destroyed",
+        "candidate_font_4": "Bebas Kai",
+        "candidate_font_5": "Impacted"
+    },
+    {
+        "task_id": "582422",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Auteur Script",
+        "candidate_font_2": "Bickham Script Pro",
+        "candidate_font_3": "Quintessa",
+        "candidate_font_4": "Great Vibes",
+        "candidate_font_5": "Alex Brush"
+    },
+    {
+        "task_id": "582421",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "The Scriptor",
+        "candidate_font_2": "Gotham",
+        "candidate_font_3": "Times New Roman",
+        "candidate_font_4": "Bellamy",
+        "candidate_font_5": "Montserrat"
+    },
+    {
+        "task_id": "582420",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Handlee",
+        "candidate_font_2": "Patrick Hand",
+        "candidate_font_3": "Architects Daughter",
+        "candidate_font_4": "Coming Soon",
+        "candidate_font_5": "Gochi Hand"
+    },
+    {
+        "task_id": "582419",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Neo Sans Light",
+        "candidate_font_2": "Neo Sans Book",
+        "candidate_font_3": "Gotham Book",
+        "candidate_font_4": "Montserrat Light",
+        "candidate_font_5": "Codec Pro Light"
+    },
+    {
+        "task_id": "582418",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Adora Bouton",
+        "candidate_font_2": "Bellisia",
+        "candidate_font_3": "Magnolia Sky",
+        "candidate_font_4": "Mon Cheri",
+        "candidate_font_5": "Aurelie Esmeralda"
+    },
+    {
+        "task_id": "582417",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Trotters Independent",
+        "candidate_font_2": "Steelfish Bold",
+        "candidate_font_3": "Road Radio",
+        "candidate_font_4": "Franklin Gothic Heavy Condensed",
+        "candidate_font_5": "Agency FB Light Extended"
+    },
+    {
+        "task_id": "582416",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "VAG Rounded",
+        "candidate_font_2": "Proxima Nova Soft",
+        "candidate_font_3": "Gotham Rounded",
+        "candidate_font_4": "Museo Sans Rounded",
+        "candidate_font_5": "Fira Sans Rounded"
+    },
+    {
+        "task_id": "582415",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Sweet Love",
+        "candidate_font_2": "Lovely Home",
+        "candidate_font_3": "Amsterdam Script",
+        "candidate_font_4": "Magnolia Sky",
+        "candidate_font_5": "Andalusia"
+    },
+    {
+        "task_id": "582414",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Fusterd Script",
+        "candidate_font_2": "Bromello",
+        "candidate_font_3": "Beautiful People",
+        "candidate_font_4": "Magnolia Sky",
+        "candidate_font_5": "Scriptina"
     }
 ]
