@@ -53953,5 +53953,50 @@
         "candidate_font_3": "SF Collegiate",
         "candidate_font_4": "Impact",
         "candidate_font_5": "Brooklyn Street"
+    },
+    {
+        "task_id": "582411",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Visby CF Black",
+        "candidate_font_2": "Geomanist ExtraBold",
+        "candidate_font_3": "Gotham Black",
+        "candidate_font_4": "Brandon Grotesque Black",
+        "candidate_font_5": "Avenir Next Pro Heavy"
+    },
+    {
+        "task_id": "582410",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Luckiest Guy",
+        "candidate_font_2": "Baloo 2",
+        "candidate_font_3": "Chewy",
+        "candidate_font_4": "Komika Title",
+        "candidate_font_5": "Bangers"
+    },
+    {
+        "task_id": "582408",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Sign Painter Script",
+        "candidate_font_2": "LHF Signmaker Script",
+        "candidate_font_3": "Magneto",
+        "candidate_font_4": "Championship Script",
+        "candidate_font_5": "Shelly Script"
+    },
+    {
+        "task_id": "582407",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Wonderland",
+        "candidate_font_2": "Marthyna Script",
+        "candidate_font_3": "Billie Holiday",
+        "candidate_font_4": "Hello Stockholm",
+        "candidate_font_5": "Beautiful Bloom"
+    },
+    {
+        "task_id": "582406",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Octin Sports",
+        "candidate_font_2": "SF Collegiate",
+        "candidate_font_3": "Varsity Team",
+        "candidate_font_4": "Jersey M54",
+        "candidate_font_5": "Game Played"
     }
 ]
