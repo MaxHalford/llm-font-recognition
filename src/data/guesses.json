@@ -54007,5 +54007,14 @@
         "candidate_font_3": "Southamton",
         "candidate_font_4": "Lovely Home",
         "candidate_font_5": "Hello Beautiful"
+    },
+    {
+        "task_id": "582413",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Bitblox",
+        "candidate_font_2": "Open Sans Condensed Bold Italic",
+        "candidate_font_3": "Press Start 2P",
+        "candidate_font_4": "Roboto Condensed Bold Italic",
+        "candidate_font_5": "VCR OSD Mono"
     }
 ]
