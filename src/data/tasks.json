@@ -37497,11 +37497,11 @@
     },
     {
         "task_id": "582222",
-        "url": "https://www.dafont.com/forum/read/582222/tittle-font-flim-out-bts-please",
-        "title": "Tittle font \"FLIM OUT\" bts please",
+        "url": "https://www.dafont.com/forum/read/582222/title-font-film-out-bts-please",
+        "title": "Title font \"FILM OUT\" bts please",
         "instructions": null,
         "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1230096.jpg",
-        "identified_font": null
+        "identified_font": "TS Block"
     },
     {
         "task_id": "571923",
@@ -39045,6 +39045,14 @@
         "title": "Font? Please",
         "instructions": null,
         "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1230582.jpg",
+        "identified_font": null
+    },
+    {
+        "task_id": "582519",
+        "url": "https://www.dafont.com/forum/read/582519/anyone-knows-this-exact-font-please",
+        "title": "anyone knows this exact font please?",
+        "instructions": null,
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1230598.png",
         "identified_font": null
     }
 ]
