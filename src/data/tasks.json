@@ -39054,5 +39054,45 @@
         "instructions": null,
         "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1230598.png",
         "identified_font": null
+    },
+    {
+        "task_id": "582521",
+        "url": "https://www.dafont.com/forum/read/582521/what-the-font",
+        "title": "what the font",
+        "instructions": "what the wrestlepalooza font",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1230601.png",
+        "identified_font": "ComicsCarToon"
+    },
+    {
+        "task_id": "582523",
+        "url": "https://www.dafont.com/forum/read/582523/id-font",
+        "title": "ID FONT?",
+        "instructions": null,
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1230605.png",
+        "identified_font": null
+    },
+    {
+        "task_id": "582522",
+        "url": "https://www.dafont.com/forum/read/582522/gordian-gorge",
+        "title": "Gordian Gorge",
+        "instructions": null,
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1230604.png",
+        "identified_font": null
+    },
+    {
+        "task_id": "575429",
+        "url": "https://www.dafont.com/forum/read/575429/chubby-font",
+        "title": "Chubby Font ?",
+        "instructions": "I am hoping someone can help me ID the font that was used to make this text/word art greeting.",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1215861.png",
+        "identified_font": "Jackson"
+    },
+    {
+        "task_id": "582520",
+        "url": "https://www.dafont.com/forum/read/582520/help-on-a-tuesday",
+        "title": "Help on a Tuesday",
+        "instructions": "Hoping someone can help me.  I'm in a graphics group and trying to help someone ID this font.  This is the 3rd place I've tried.",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1230600.png",
+        "identified_font": "Santiole Script"
     }
 ]
