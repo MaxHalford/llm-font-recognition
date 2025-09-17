@@ -54655,5 +54655,68 @@
         "candidate_font_3": "Aphrodite Script",
         "candidate_font_4": "Magnolia Sky",
         "candidate_font_5": "Monotype Corsiva"
+    },
+    {
+        "task_id": "582518",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Didot",
+        "candidate_font_2": "Bodoni",
+        "candidate_font_3": "Playfair Display",
+        "candidate_font_4": "Walbaum",
+        "candidate_font_5": "Adobe Didot"
+    },
+    {
+        "task_id": "582517",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Magnolia Sky",
+        "candidate_font_2": "Lovelyn",
+        "candidate_font_3": "Adelios Script",
+        "candidate_font_4": "Better Together",
+        "candidate_font_5": "Brittany Signature"
+    },
+    {
+        "task_id": "582516",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Roboto",
+        "candidate_font_2": "Open Sans",
+        "candidate_font_3": "Lato",
+        "candidate_font_4": "Source Sans Pro",
+        "candidate_font_5": "Noto Sans"
+    },
+    {
+        "task_id": "582515",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Tiempos Text",
+        "candidate_font_2": "Guardian Egyptian",
+        "candidate_font_3": "Publico Text",
+        "candidate_font_4": "Literata",
+        "candidate_font_5": "Merriweather"
+    },
+    {
+        "task_id": "582519",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Gotham Black",
+        "candidate_font_2": "Montserrat Black",
+        "candidate_font_3": "Proxima Nova Black",
+        "candidate_font_4": "Avenir Black",
+        "candidate_font_5": "Inter Black"
+    },
+    {
+        "task_id": "582523",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Mostra Nuova",
+        "candidate_font_2": "Metropolis",
+        "candidate_font_3": "Custom Lettering / Hand-Drawn Display",
+        "candidate_font_4": "Geometric Art Deco Display Font",
+        "candidate_font_5": "Radiohead"
+    },
+    {
+        "task_id": "582522",
+        "model_name": "gemini-2.5-flash-preview-05-20",
+        "candidate_font_1": "Gordian",
+        "candidate_font_2": "Egyptian Relic",
+        "candidate_font_3": "Broadway Engraved",
+        "candidate_font_4": "Riesling",
+        "candidate_font_5": "Pharaonic"
     }
 ]
