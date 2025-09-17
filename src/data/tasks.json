@@ -38420,7 +38420,7 @@
         "url": "https://www.dafont.com/forum/read/582419/conquista-font",
         "title": "CONQUISTA font",
         "instructions": null,
-        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1230441.jpg",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1230441.jpg?1",
         "identified_font": null
     },
     {
@@ -38805,7 +38805,7 @@
         "title": "CAMPBELL CONSTRUCTION Font",
         "instructions": "Anyone know this one",
         "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1230577.jpg",
-        "identified_font": null
+        "identified_font": "Sprite Graffiti"
     },
     {
         "task_id": "582501",
@@ -38821,7 +38821,7 @@
         "title": "Font? Please",
         "instructions": null,
         "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1230569.jpg",
-        "identified_font": null
+        "identified_font": "Recoleta Bold"
     },
     {
         "task_id": "582510",
@@ -38829,7 +38829,7 @@
         "title": "Font? Please",
         "instructions": null,
         "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1230568.png",
-        "identified_font": null
+        "identified_font": "DIN 1451 EngSchrift"
     },
     {
         "task_id": "582509",
@@ -38845,7 +38845,7 @@
         "title": "Volunteer Brush Font",
         "instructions": null,
         "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1230566.png",
-        "identified_font": null
+        "identified_font": "Brittanian"
     },
     {
         "task_id": "582505",
@@ -38869,7 +38869,7 @@
         "title": "Madison Beer NEW Script Logo",
         "instructions": "New logo from Madison Beers Website. Reads \"madison beer\"",
         "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1230559.png",
-        "identified_font": null
+        "identified_font": "Parfumerie Script"
     },
     {
         "task_id": "582502",
@@ -38938,7 +38938,7 @@
     {
         "task_id": "582494",
         "url": "https://www.dafont.com/forum/read/582494/font-name-please",
-        "title": "Font name please?????",
+        "title": "Font name please?",
         "instructions": null,
         "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1230547.jpg",
         "identified_font": null
@@ -39005,6 +39005,46 @@
         "title": "Font?",
         "instructions": null,
         "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1230533.jpg",
+        "identified_font": null
+    },
+    {
+        "task_id": "582518",
+        "url": "https://www.dafont.com/forum/read/582518/font-please",
+        "title": "Font? Please",
+        "instructions": null,
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1230593.jpg",
+        "identified_font": null
+    },
+    {
+        "task_id": "582517",
+        "url": "https://www.dafont.com/forum/read/582517/font-name",
+        "title": "Font name",
+        "instructions": "Font name",
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1230590.png",
+        "identified_font": null
+    },
+    {
+        "task_id": "575837",
+        "url": "https://www.dafont.com/forum/read/575837/font-name-please",
+        "title": "Font name please",
+        "instructions": null,
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1216666.jpg",
+        "identified_font": "Garamond Premier Display"
+    },
+    {
+        "task_id": "582516",
+        "url": "https://www.dafont.com/forum/read/582516/font-please",
+        "title": "Font? Please",
+        "instructions": null,
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1230583.jpg",
+        "identified_font": null
+    },
+    {
+        "task_id": "582515",
+        "url": "https://www.dafont.com/forum/read/582515/font-please",
+        "title": "Font? Please",
+        "instructions": null,
+        "img_url": "https://www.dafont.com/forum/attach/orig/1/2/1230582.jpg",
         "identified_font": null
     }
 ]
